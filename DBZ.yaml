@@ -1,0 +1,39 @@
+---
+System_Name: DBZ
+Locations:
+ id_loc: 0
+ sysm_loc: 3
+ issue_loc: 1
+ resol_loc: 6
+ status_loc: 2
+ arr_loc: 7
+ ser_loc: 8
+spacer: ''
+#date_format = '%d/%m/%Y'
+#date_format = '%d/%b/%y %H:%M'
+date_format: "%d/%m/%Y %H:%M" 
+Filters:
+    EpicsSubtasks:
+    - "Epic"
+    FeedbackBugs:
+    - "Bug"
+    - "Question"
+    - "Clarification"
+    - "Support Request"
+    - "Patch"
+    - "Support Patch"
+    - "Issue"
+    - "Incident"
+    StatusNoFurtherWorkRequired:
+    - "Closed"
+    - "Resolved"
+    ResosNotDoneByTeam:
+    - "Duplicate"
+    - "Obsolete"
+    - "Cannot Reproduce"
+    - "Won't Do"
+    - "Can't Do"
+    - "Not a Bug"
+    - "MirrorOrphan"
+    - "Declined"
+
