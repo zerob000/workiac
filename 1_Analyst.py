@@ -230,14 +230,13 @@ def my_leadtimechart(matched, g):
 # Open Yaml File of inputs and read the important ones
 parser = argparse.ArgumentParser()
 parser.add_argument("yaml", help="Input Yaml file")
+parser.add_argument("sname", help="System Name")
 args = parser.parse_args()
 #print(args.yaml)
 
 with open(args.yaml) as stream:
     try:
-        #print(yaml.safe_load(stream))
         inputs = yaml.safe_load(stream)
-        sname = inputs["System_Name"]
         Locations = inputs["Locations"]
         id_loc = Locations["id_loc"]
         sysm_loc = Locations["sysm_loc"]
@@ -257,6 +256,7 @@ with open(args.yaml) as stream:
         print (exc)
         
 # Import CSV
+sname = args.sname
 file = open(str(sname)+".csv", "r", encoding="utf8") 
 data = list(csv.reader(file, delimiter=","))
 file.close()
@@ -334,7 +334,8 @@ my_barchart(list(resos.keys()), list(resos.values()), "Resolution", "last100")
 # Statuses Chart
 my_barchart(list(statu.keys()), list(statu.values()), "Status", "last100")
 # Lead Time Chart
-my_leadtimechart(matched, "last100")
+if  lt_count != 0:
+    my_leadtimechart(matched, "last100")
 
 # Write to Output file
 f.write("\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nLast 100 days only - Unfiltered \n")
@@ -343,16 +344,18 @@ f.write("System: "+str(sysms)+"\n")
 f.write("Types: "+str(types)+"\n")
 f.write("Resolutions: "+str(resos)+"\n")
 f.write("Statuses: "+str(statu)+"\n\n")
-# Lead time 
-f.write("Average Lead Time (all PBIs): "+str(round(lt_cum / lt_count,1))+" days\n")
-for issue, leads in list(matched.items()):
-    lt_cum = 0
-    lt_count = 0
-    for x in leads:
-        if len(leads) != 0: 
-            lt_cum = lt_cum + x[1]
-            lt_count = lt_count + 1
-    f.write("Average Lead Time ("+issue+"): "+str(round(lt_cum / lt_count,1))+" days\n")
-
+# Lead time
+if  lt_count != 0:
+    f.write("Average Lead Time (all PBIs): "+str(round(lt_cum / lt_count,1))+" days\n")
+    for issue, leads in list(matched.items()):
+        lt_cum = 0
+        lt_count = 0
+        for x in leads:
+            if len(leads) != 0: 
+                lt_cum = lt_cum + x[1]
+                lt_count = lt_count + 1
+        f.write("Average Lead Time ("+issue+"): "+str(round(lt_cum / lt_count,1))+" days\n")
+else:
+    f.write("No PBIs resolved in last 100 days.\n")
 
 f.close() 

@@ -209,89 +209,90 @@ def my_daytimedistrib(timeline, typ, g):
              ["20:00 - 21:00",0,0,0,0,0,0,0],["21:00 - 22:00",0,0,0,0,0,0,0],
              ["22:00 - 23:00",0,0,0,0,0,0,0],["23:00 - 00:00",0,0,0,0,0,0,0]]
     # Count the number of arrivals / services each day of the week / hour of the day 
-    for i in timeline:
-        dte = i # datetime.strptime(i, date_format)
-        Xday = dte.strftime('%a')
-        X_day[Xday] = X_day[Xday] + 1
-        Xhour = dte.strftime('%H')
-    
-        #Create 2D Matrix of arrivals
-        if str(Xday) == "Mon":
-            X_dt[int(Xhour)][1] = X_dt[int(Xhour)][1] + 1
-        elif str(Xday) == "Tue":
-            X_dt[int(Xhour)][2] = X_dt[int(Xhour)][2] + 1
-        elif str(Xday) == "Wed":
-            X_dt[int(Xhour)][3] = X_dt[int(Xhour)][3] + 1
-        elif str(Xday) == "Thu":
-            X_dt[int(Xhour)][4] = X_dt[int(Xhour)][4] + 1
-        elif str(Xday) == "Fri":
-            X_dt[int(Xhour)][5] = X_dt[int(Xhour)][5] + 1
-        elif str(Xday) == "Sat":
-            X_dt[int(Xhour)][6] = X_dt[int(Xhour)][6] + 1
-        elif str(Xday) == "Sun":
-            X_dt[int(Xhour)][7] = X_dt[int(Xhour)][7] + 1   
-        X_hour[Xhour] = X_hour[Xhour] + 1
+    if len(timeline) != 0: # Only work for non-zero timelines
+        for i in timeline:
+            dte = i # datetime.strptime(i, date_format)
+            Xday = dte.strftime('%a')
+            X_day[Xday] = X_day[Xday] + 1
+            Xhour = dte.strftime('%H')
         
-    # Days
-    Xdays = list(X_day.keys())
-    Xcounts = list(X_day.values())
-    x_axis = np.arange(7) # Split the x axis into 7 for the days for the week
-    plt.rcParams["figure.figsize"] = (10, 7)
-    plt.bar(x_axis, Xcounts, 0.4, color = 'b', label = typ)
-    plt.xticks(x_axis, Xdays)
-    plt.ylabel("Count (log scale)", fontweight ='bold', fontsize = 15)
-    plt.yscale('log')
-    plt.xlabel("Day", fontweight ='bold', fontsize = 15)
-    plt.title(typ+" Distribution", fontweight ='bold', fontsize = 18)
-    plt.tight_layout()
-    plt.savefig(sname+"_"+typ+"_days_"+g+".png")
-    #plt.show()
-    plt.clf()    
-    
-    # Hours
-    labels = list(X_hour.keys())
-    angles = np.linspace(0, 2*np.pi, 24, endpoint=False)
-    X_rad = list(X_hour.values())
-    
-    # calculate the y ticks 
-    ytx = np.linspace(0,round(1.1*max(X_rad)), num=5)
-    fig = plt.figure(figsize=(10, 7)) # this will output a figure size but it seems this is unavoidable.
-    ax = fig.add_subplot(111, polar=True)
-    ax.plot(angles, X_rad, 'o-', linewidth=2, color='b', label='Total '+typ+' by hour')
-    ax.fill(angles, X_rad, color='b', alpha=0.25)
-    ax.set_thetagrids(angles * 180/np.pi, labels)
-    ax.set_title(typ+" Time Distribution", fontweight ='bold', fontsize = 18)
-    ax.legend(loc='upper right')
-    ax.grid(True)
-    plt.yticks(ytx)
-    plt.tight_layout()
-    plt.savefig(sname+"_"+typ+"_hours_"+g+".png")
-    #plt.show()
-    plt.clf()
-    
-    # Day and hour distribution tables
-    # Count Table
-    sus_X = open(sname+"_Day_Hour_"+typ+"_count_"+g+".csv", "w", encoding="utf-8")
-    sus_X.write(" ,Mon,Tue,Wed,Thu,Fri,Sat,Sun\n")
-    csvWriter = csv.writer(sus_X,delimiter=',', lineterminator='\n')
-    csvWriter.writerows(X_dt)
-    sus_X.close()
-    
-    # pErcentage table
-    sus_X = open(sname+"_Day_Hour_"+typ+"_percent_"+g+".csv", "w", encoding="utf-8")
-    sus_X.write(" ,Mon,Tue,Wed,Thu,Fri,Sat,Sun\n")
-    csvWriter = csv.writer(sus_X,delimiter=',', lineterminator='\n')
-    X_pc = X_dt
-    # Loop through the table to conver counts to overall percentages
-    i = 0
-    while i < 24:
-        j = 1
-        while j < 8:
-            X_pc[i][j]= round(100*X_dt[i][j]/len(timeline),2)
-            j = j+1
-        i = i+1
-    csvWriter.writerows(X_pc)
-    sus_X.close()
+            #Create 2D Matrix of arrivals
+            if str(Xday) == "Mon":
+                X_dt[int(Xhour)][1] = X_dt[int(Xhour)][1] + 1
+            elif str(Xday) == "Tue":
+                X_dt[int(Xhour)][2] = X_dt[int(Xhour)][2] + 1
+            elif str(Xday) == "Wed":
+                X_dt[int(Xhour)][3] = X_dt[int(Xhour)][3] + 1
+            elif str(Xday) == "Thu":
+                X_dt[int(Xhour)][4] = X_dt[int(Xhour)][4] + 1
+            elif str(Xday) == "Fri":
+                X_dt[int(Xhour)][5] = X_dt[int(Xhour)][5] + 1
+            elif str(Xday) == "Sat":
+                X_dt[int(Xhour)][6] = X_dt[int(Xhour)][6] + 1
+            elif str(Xday) == "Sun":
+                X_dt[int(Xhour)][7] = X_dt[int(Xhour)][7] + 1   
+            X_hour[Xhour] = X_hour[Xhour] + 1
+            
+        # Days
+        Xdays = list(X_day.keys())
+        Xcounts = list(X_day.values())
+        x_axis = np.arange(7) # Split the x axis into 7 for the days for the week
+        plt.rcParams["figure.figsize"] = (10, 7)
+        plt.bar(x_axis, Xcounts, 0.4, color = 'b', label = typ)
+        plt.xticks(x_axis, Xdays)
+        plt.ylabel("Count (log scale)", fontweight ='bold', fontsize = 15)
+        plt.yscale('log')
+        plt.xlabel("Day", fontweight ='bold', fontsize = 15)
+        plt.title(typ+" Distribution", fontweight ='bold', fontsize = 18)
+        plt.tight_layout()
+        plt.savefig(sname+"_"+typ+"_days_"+g+".png")
+        #plt.show()
+        plt.clf()    
+        
+        # Hours
+        labels = list(X_hour.keys())
+        angles = np.linspace(0, 2*np.pi, 24, endpoint=False)
+        X_rad = list(X_hour.values())
+        
+        # calculate the y ticks 
+        ytx = np.linspace(0,round(1.1*max(X_rad)), num=5)
+        fig = plt.figure(figsize=(10, 7)) # this will output a figure size but it seems this is unavoidable.
+        ax = fig.add_subplot(111, polar=True)
+        ax.plot(angles, X_rad, 'o-', linewidth=2, color='b', label='Total '+typ+' by hour')
+        ax.fill(angles, X_rad, color='b', alpha=0.25)
+        ax.set_thetagrids(angles * 180/np.pi, labels)
+        ax.set_title(typ+" Time Distribution", fontweight ='bold', fontsize = 18)
+        ax.legend(loc='upper right')
+        ax.grid(True)
+        plt.yticks(ytx)
+        plt.tight_layout()
+        plt.savefig(sname+"_"+typ+"_hours_"+g+".png")
+        #plt.show()
+        plt.clf()
+        
+        # Day and hour distribution tables
+        # Count Table
+        sus_X = open(sname+"_Day_Hour_"+typ+"_count_"+g+".csv", "w", encoding="utf-8")
+        sus_X.write(" ,Mon,Tue,Wed,Thu,Fri,Sat,Sun\n")
+        csvWriter = csv.writer(sus_X,delimiter=',', lineterminator='\n')
+        csvWriter.writerows(X_dt)
+        sus_X.close()
+        
+        # Percentage table
+        sus_X = open(sname+"_Day_Hour_"+typ+"_percent_"+g+".csv", "w", encoding="utf-8")
+        sus_X.write(" ,Mon,Tue,Wed,Thu,Fri,Sat,Sun\n")
+        csvWriter = csv.writer(sus_X,delimiter=',', lineterminator='\n')
+        X_pc = X_dt
+        # Loop through the table to conver counts to overall percentages
+        i = 0
+        while i < 24:
+            j = 1
+            while j < 8:
+                X_pc[i][j]= round(100*X_dt[i][j]/len(timeline),2)
+                j = j+1
+            i = i+1
+        csvWriter.writerows(X_pc)
+        sus_X.close()
     
     return(X_day, X_hour)
 
@@ -299,12 +300,12 @@ def my_daytimedistrib(timeline, typ, g):
 # Open Yaml File of inputs and read the important ones
 parser = argparse.ArgumentParser()
 parser.add_argument("yaml", help="Input Yaml file")
+parser.add_argument("sname", help="System Name")
 args = parser.parse_args()
 
 with open(args.yaml) as stream:
     try:
         inputs = yaml.safe_load(stream)
-        sname = inputs["System_Name"]
         Locations = inputs["Locations"]
         id_loc = Locations["id_loc"]
         sysm_loc = Locations["sysm_loc"]
@@ -324,6 +325,7 @@ with open(args.yaml) as stream:
         print (exc)
         
 # Import CSV
+sname = args.sname
 file = open(str(sname)+".csv", "r", encoding="utf8") 
 data = list(csv.reader(file, delimiter=","))
 file.close()
