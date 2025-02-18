@@ -2,7 +2,9 @@
 """
 Created on Sat Feb  8 16:21:18 2025
 
-@author: rob healy
+@author: R Healy
+
+Purpose: Reads two input files and extracts core information: classifications and lead times into a folder. 
 """
 
 import yaml
@@ -14,6 +16,7 @@ import matplotlib.cm as cm
 import numpy as np
 from datetime import datetime, timedelta
 
+# Data Extractor
 def my_extractor(data, last_pbi, start_date):
     # Build dictionaries and initialise variables
     sysms = {} # Create a dictionary of systems
@@ -111,26 +114,26 @@ def my_extractor(data, last_pbi, start_date):
                     t_bi.append([test_arr,1]) # increment the system size for an arrival
                 if item[issue_loc] not in Feedback_Bugs:
                     if item[resol_loc] not in NotDoneByTeam:
-                        if item[status_loc] not in NoFurtherWork:
+                        if item[status_loc] not in NoFurtherWork or item[ser_loc] == spacer:
                             queues["GS_PL_TM_IP"].append(item)
                         else:
                             queues["GS_PL_TM_DN"].append(item)
                             t_bi.append([test_ser,-1]) # decrement the system size for a service
                     else:
-                        if item[status_loc] not in NoFurtherWork:
+                        if item[status_loc] not in NoFurtherWork or item[ser_loc] == spacer:
                             queues["GS_PL_CX_IP"].append(item)
                         else:
                             queues["GS_PL_CX_DN"].append(item)
                             t_bi.append([test_ser,-1]) # decrement the system size for a service
                 else:
                     if item[resol_loc] not in NotDoneByTeam:
-                        if item[status_loc] not in NoFurtherWork:
+                        if item[status_loc] not in NoFurtherWork or item[ser_loc] == spacer:
                             queues["GS_UP_TM_IP"].append(item)
                         else:
                             queues["GS_UP_TM_DN"].append(item)
                             t_bi.append([test_ser,-1]) # decrement the system size for a service
                     else:
-                        if item[status_loc] not in NoFurtherWork:
+                        if item[status_loc] not in NoFurtherWork or item[ser_loc] == spacer:
                             queues["GS_UP_CX_IP"].append(item)
                         else:
                             queues["GS_UP_CX_DN"].append(item)

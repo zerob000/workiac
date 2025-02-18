@@ -2,7 +2,9 @@
 """
 Created on Sat Feb  8 16:21:18 2025
 
-@author: rob healy
+@author: R Healy
+
+Purpose: Reads two input files and extracts and calculates strategic information before placing this into a folder. 
 """
 
 import yaml
@@ -114,26 +116,26 @@ def my_extractor(data, last_pbi, start_date):
                     t_bi.append([test_arr,1]) # increment the system size for an arrival
                 if item[issue_loc] not in Feedback_Bugs:
                     if item[resol_loc] not in NotDoneByTeam:
-                        if item[status_loc] not in NoFurtherWork:
+                        if item[status_loc] not in NoFurtherWork or item[ser_loc] == spacer:
                             queues["GS_PL_TM_IP"].append(item)
                         else:
                             queues["GS_PL_TM_DN"].append(item)
                             t_bi.append([test_ser,-1]) # decrement the system size for a service
                     else:
-                        if item[status_loc] not in NoFurtherWork:
+                        if item[status_loc] not in NoFurtherWork or item[ser_loc] == spacer:
                             queues["GS_PL_CX_IP"].append(item)
                         else:
                             queues["GS_PL_CX_DN"].append(item)
                             t_bi.append([test_ser,-1]) # decrement the system size for a service
                 else:
                     if item[resol_loc] not in NotDoneByTeam:
-                        if item[status_loc] not in NoFurtherWork:
+                        if item[status_loc] not in NoFurtherWork or item[ser_loc] == spacer:
                             queues["GS_UP_TM_IP"].append(item)
                         else:
                             queues["GS_UP_TM_DN"].append(item)
                             t_bi.append([test_ser,-1]) # decrement the system size for a service
                     else:
-                        if item[status_loc] not in NoFurtherWork:
+                        if item[status_loc] not in NoFurtherWork or item[ser_loc] == spacer:
                             queues["GS_UP_CX_IP"].append(item)
                         else:
                             queues["GS_UP_CX_DN"].append(item)
@@ -207,8 +209,8 @@ def my_timeanalysis(bucket, loc, date_format, start_date):
             R2 = 0
             c = 0
     else:        
-        t = []
-        cum = [0]
+        t = [start_date,start_date] #Workaround
+        cum = [0,0]
         slope = 0
         ls = [0,0]
         R2 = 0
@@ -251,7 +253,6 @@ def my_leastsquares(t_start, t_b, cumulative):
     y = np.array(cumulative).astype('float')
     if len(set(x)) != 1: # Check if all x values are the same. May need the same for y but not so far.
         ls_a = scipy.stats.linregress(x, y) # New way https://urldefense.com/v3/__https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html__;!!CyYWWBA!AARMGb2-M1ybaqHmtHW1-MtPFZLPFnNpc5rl0o2hp5QNm1dOAvSAdDd5ZvTgq8oa1fL6ix9NykdPrPWPvg1cIA$ [docs[.]scipy[.]sname]
-        #print(ls_a.rvalue**2)
         slp = round(ls_a.slope,3) 
         arr_ls = [slp*td[0]+ls_a.intercept,slp*td[-1]+ls_a.intercept]
         R2 = round(ls_a.rvalue**2,3) # R^2 value lambda
@@ -265,129 +266,128 @@ def my_leastsquares(t_start, t_b, cumulative):
 
 # Some Queueing Metrics and Charts, Poisson and Exponential - tends not to be very useful
 def my_poisson(t_sd, rate, nme, g):
-    # Make a new directory and change into it
-    path = os.getcwd()
-    newpath = os.path.join(path, "queue_charts") 
-    if not os.path.exists(newpath):
-        os.makedirs(newpath)
-    os.chdir(newpath)
+    if rate != 0: # Adding logic for cases when no data. 
+        # Make a new directory and change into it
+        path = os.getcwd()
+        newpath = os.path.join(path, "queue_charts") 
+        if not os.path.exists(newpath):
+            os.makedirs(newpath)
+        os.chdir(newpath)
+        
+        # Inter Rates
+        tmlin = sorted(t_sd, reverse=False)  
+        t_dur = (tmlin[-1] - tmlin[0]).days
+        # Count the number of days that an event happened
+        i = 0
+        inter_as = {}
+        while i < len(tmlin): 
+            day =  tmlin[i].date() # Convert to a date object
+            if day in inter_as:
+                inter_as[day] = inter_as[day] + 1
+            else:
+                inter_as[day] = 1
+            i = i + 1
+        # Count the number of events per day (PBIs/day)
+        arr_cs = {}
+        for key in inter_as:
+            if inter_as[key] in arr_cs:
+                arr_cs[inter_as[key]] = arr_cs[inter_as[key]] + 1 
+            else:
+                arr_cs[inter_as[key]] = 1
+        # Add zero days
+        zero_d = t_dur - len(inter_as)
+        arr_cs[0] = zero_d
+        
+        # Inter-arrival rate Histogram
+        Rates = sorted(arr_cs)
+        Counts = []
+        for key in Rates:
+            Counts.append(100*arr_cs[key]/sum(arr_cs.values()))
     
-    # Inter Rates
-    tmlin = sorted(t_sd, reverse=False)  
-    t_dur = (tmlin[-1] - tmlin[0]).days
-    # Count the number of days that an event happened
-    i = 0
-    inter_as = {}
-    while i < len(tmlin): 
-        day =  tmlin[i].date() # Convert to a date object
-        if day in inter_as:
-            inter_as[day] = inter_as[day] + 1
+        i = 0
+        k = [] # number events
+        Probs = []
+        while i > -1:
+            k.append(i)
+            prob = 100*math.exp(-rate)*(rate**i)/math.factorial(i) # Poisson probability of an event occuring
+            Probs.append(prob)
+            i = i + 1
+            if i > rate: # wait for upper bounds as Poison can be symmetrical 
+                if prob < 0.001:
+                    i = -2 # exit the loop
+                    
+        # Chi squared goodness of fit test - simplified - should improve to remove low scores (freq <5)
+        Chi_s = 0
+        i = 0   
+        for i in k:
+            j = 0
+            for j in Rates:
+                if i == j:
+                    if i < len(Probs):
+                        if j < len(Counts): # These are needed as mismatches between predicted and actual
+                            Chi_s = Chi_s + (((Counts[j] - Probs[i])**2)/Probs[i])
+                j = j+1
+            i = i+1    
+        DoF = min(len(k), len(Rates)) - 1 - 1 # Degree of Freedom is number of classes minus 1 parameter -1   
+        # Note: tried out of the box Chisquared test but it introduced way more problems than it was worth
+        
+        x_axis_act = np.arange(len(Rates))
+        x_axis_exp = np.arange(len(k))
+        plt.rcParams["figure.figsize"] = (10, 7)
+        plt.bar(x_axis_act-0.2, Counts, 0.4, color = 'fuchsia', label = "Actual")
+        plt.bar(x_axis_exp+0.2, Probs, 0.4, color = 'khaki', label = "Expected")
+        plt.title(nme+" $\u03C7^2$: "+str(round(Chi_s,3))+" DoF: "+str(DoF), fontweight ='bold', fontsize = 18)
+        plt.xlabel("Rate (PBIs/day)", fontweight ='bold', fontsize = 15)
+        plt.ylabel("Percentage of Total", fontweight ='bold', fontsize = 15)
+        if len(Rates) > len(k):
+            plt.xticks(x_axis_act, Rates)
         else:
-            inter_as[day] = 1
-        i = i + 1
-    # Count the number of events per day (PBIs/day)
-    arr_cs = {}
-    for key in inter_as:
-        if inter_as[key] in arr_cs:
-            arr_cs[inter_as[key]] = arr_cs[inter_as[key]] + 1 
-        else:
-            arr_cs[inter_as[key]] = 1
-    # Add zero days
-    zero_d = t_dur - len(inter_as)
-    arr_cs[0] = zero_d
-    
-    # Inter-arrival rate Histogram
-    Rates = sorted(arr_cs)
-    Counts = []
-    for key in Rates:
-        Counts.append(100*arr_cs[key]/sum(arr_cs.values()))
-
-    i = 0
-    k = [] # number events
-    Probs = []
-    while i > -1:
-        k.append(i)
-        prob = 100*math.exp(-rate)*(rate**i)/math.factorial(i) # Poisson probability of an event occuring
-        Probs.append(prob)
-        i = i + 1
-        if i > rate: # wait for upper bounds as Poison can be symmetrical 
-            if prob < 0.001:
-                i = -2 # exit the loop
-                
-    # Chi squared goodness of fit test - simplified - should improve to remove low scores (freq <5)
-    Chi_s = 0
-    i = 0   
-    for i in k:
-        j = 0
-        for j in Rates:
-            if i == j:
-                if i < len(Probs):
-                    if j < len(Counts): # These are needed as mismatches between predicted and actual
-                        Chi_s = Chi_s + (((Counts[j] - Probs[i])**2)/Probs[i])
-            j = j+1
-        i = i+1    
-    DoF = min(len(k), len(Rates)) - 1 - 1 # Degree of Freedom is number of classes minus 1 parameter -1   
-    # Note: tried out of the box Chisquared test but it introduced way more problems than it was worth
-    
-    x_axis_act = np.arange(len(Rates))
-    x_axis_exp = np.arange(len(k))
-    plt.rcParams["figure.figsize"] = (10, 7)
-    plt.bar(x_axis_act-0.2, Counts, 0.4, color = 'fuchsia', label = "Actual")
-    plt.bar(x_axis_exp+0.2, Probs, 0.4, color = 'khaki', label = "Expected")
-    plt.title(nme+" $\u03C7^2$: "+str(round(Chi_s,3))+" DoF: "+str(DoF), fontweight ='bold', fontsize = 18)
-    plt.xlabel("Rate (PBIs/day)", fontweight ='bold', fontsize = 15)
-    plt.ylabel("Percentage of Total", fontweight ='bold', fontsize = 15)
-    if len(Rates) > len(k):
-        plt.xticks(x_axis_act, Rates)
-    else:
-        plt.xticks(x_axis_exp, k)
-    #plt.tight_layout()
-    plt.legend()
-    plt.savefig(nme+'_Poi_'+g+'.png')
-    #plt.show()
-    plt.clf()         
-    
-    # Exponential distribution (could be a separate function?)
-    i = 0
-    inter_ss = {}
-    while i < len(tmlin)-1:
-        inter_s = (tmlin[i+1] - tmlin[i]).days
-        # Count the number of instances of each interarrival rate
-        if inter_s in inter_ss:
-            inter_ss[inter_s] = inter_ss[inter_s] + 1
-        else:
-            inter_ss[inter_s] = 1
-        i = i + 1 # careful with this, see below
-    #print(inter_as)
-    inter_s_k1 = sorted(inter_ss) # Couldn't get dictionary sorting to work - it only returned a list
-    inter_s_v = []
-    inter_s_k2 = []
-    for key in inter_s_k1:
-        inter_s_v.append(inter_ss[key])
-        inter_s_k2.append(key)
-    #print(inter_a_k2, inter_a_v)
-    plt.rcParams["figure.figsize"] = (10, 7)
-    plt.scatter(inter_s_k2, inter_s_v, color='fuchsia', label='Actual')
-    
-    # Expected 
-    x_array = np.arange(0,inter_s_k2[-1]+2,1) # Extend the x array beyond the longest inter-arrival
-    y_array =[]
-    for x in x_array:
-        y = i*rate*math.exp(-rate*x) # use the i counter to scale the graph
-        y_array.append(y)
-    # Plot
-    plt.plot(x_array, y_array, color='khaki', label='Expected')
-    plt.title(nme, fontweight ='bold', fontsize = 18)
-    plt.xlabel("Inter-X Time (Days/PBI)", fontweight ='bold', fontsize = 15)
-    plt.ylabel("Number of Instances", fontweight ='bold', fontsize = 15)
-    plt.tight_layout()
-    plt.legend()
-    plt.savefig(nme+'_Exp_'+g+'.png')
-    #plt.show()
-    plt.clf()
-    
-    os.chdir(path)
-    return([Chi_s, DoF])
+            plt.xticks(x_axis_exp, k)
+        #plt.tight_layout()
+        plt.legend()
+        plt.savefig(nme+'_Poi_'+g+'.png')
+        #plt.show()
+        plt.clf()         
+        
+        # Exponential distribution (could be a separate function?)
+        i = 0
+        inter_ss = {}
+        while i < len(tmlin)-1:
+            inter_s = (tmlin[i+1] - tmlin[i]).days
+            # Count the number of instances of each interarrival rate
+            if inter_s in inter_ss:
+                inter_ss[inter_s] = inter_ss[inter_s] + 1
+            else:
+                inter_ss[inter_s] = 1
+            i = i + 1 # careful with this, see below
+        inter_s_k1 = sorted(inter_ss) # Couldn't get dictionary sorting to work - it only returned a list
+        inter_s_v = []
+        inter_s_k2 = []
+        for key in inter_s_k1:
+            inter_s_v.append(inter_ss[key])
+            inter_s_k2.append(key)
+        plt.rcParams["figure.figsize"] = (10, 7)
+        plt.scatter(inter_s_k2, inter_s_v, color='fuchsia', label='Actual')
+        
+        # Expected 
+        x_array = np.arange(0,inter_s_k2[-1]+2,1) # Extend the x array beyond the longest inter-arrival
+        y_array =[]
+        for x in x_array:
+            y = i*rate*math.exp(-rate*x) # use the i counter to scale the graph
+            y_array.append(y)
+        # Plot
+        plt.plot(x_array, y_array, color='khaki', label='Expected')
+        plt.title(nme, fontweight ='bold', fontsize = 18)
+        plt.xlabel("Inter-X Time (Days/PBI)", fontweight ='bold', fontsize = 15)
+        plt.ylabel("Number of Instances", fontweight ='bold', fontsize = 15)
+        plt.tight_layout()
+        plt.legend()
+        plt.savefig(nme+'_Exp_'+g+'.png')
+        #plt.show()
+        plt.clf()
+        
+        os.chdir(path)
+        return([Chi_s, DoF])
 
 # Stability Chart
 def my_plot_stability(t_ba, arr_cum, t_bs, ser_cum, t_b, back, t_ave_a, arr_ls, lamda, t_ave_s, ser_ls, mu, sname, psi, g):
@@ -522,12 +522,12 @@ def my_last100(t_x, cumg, first_r):
 ## Open Yaml File of inputs and read the important ones
 parser = argparse.ArgumentParser()
 parser.add_argument("yaml", help="Input Yaml file")
+parser.add_argument("sname", help="System Name")
 args = parser.parse_args()
 
 with open(args.yaml) as stream:
     try:
         inputs = yaml.safe_load(stream)
-        sname = inputs["System_Name"]
         Locations = inputs["Locations"]
         id_loc = Locations["id_loc"]
         sysm_loc = Locations["sysm_loc"]
@@ -545,8 +545,9 @@ with open(args.yaml) as stream:
         NotDoneByTeam = Filters["ResosNotDoneByTeam"]
     except yaml.YAMLError as exc:
         print (exc)
-    
+        
 # Import CSV
+sname = args.sname
 file = open(str(sname)+".csv", "r", encoding="utf8") 
 data = list(csv.reader(file, delimiter=","))
 file.close()
@@ -685,9 +686,7 @@ while t <= t_b[-1]:
     model.append(mod)
     # Assess minimum backlog
     t = t + timedelta(days=1)
-    #print(b, y_alpha, y_epsilon, y_gamma, y_mu, t) 
 Beta_end = beta[-1]
-#print(beta) 
 
 # Percentage error between the modelled system size and actual. Includes workaround for the situation where the system is of size 0
 if back[-1] > 0:
@@ -698,33 +697,38 @@ else:
     else:
         mod_err = 1  
 
-## Metrics
-# Stability
-if gamma < alpha+epsilon:
-   psi = round(mu / (alpha+epsilon-gamma),3)
-else:
-   psi = "NaN"
-# Quality
-if alpha+epsilon > 0:
-    nu = round((alpha) / (alpha+epsilon),3)
-else:
+## Metrics 
+if alpha == "NaN" or epsilon == "NaN" or gamma == "NaN" or mu == "NaN":
+    psi = "NaN"
     nu = "NaN"
-# Control
-if gamma < alpha+epsilon:
-    zeta = round((alpha+epsilon-gamma) / (alpha+epsilon),3)
-else:
     zeta = "NaN"
-# Inventory Days
-if mu != 0:
-    inventory_days = round(back[-1]/mu,3)
-else:
     inventory_days = "NaN"
-# Strategy
-if psi != "NaN":
-    if inventory_days != "NaN":
-        strategy=my_strategy(psi, inventory_days, "all")
 else:
-   strategy = "Indeterminate" 
+    # Stability
+    if gamma != alpha+epsilon:
+       psi = round(mu / (alpha+epsilon-gamma),3)
+    else:
+       psi = "NaN"
+    # Quality
+    if alpha+epsilon > 0:
+        nu = round((alpha) / (alpha+epsilon),3)
+    else:
+        nu = "NaN"
+    # Control
+    if alpha+epsilon > 0:
+        zeta = round((alpha+epsilon-gamma) / (alpha+epsilon),3)
+    else:
+        zeta = "NaN"
+    # Inventory Days
+    if mu != 0:
+        inventory_days = round(back[-1]/mu,3)
+    else:
+        inventory_days = "NaN"
+# Strategy
+if psi == "NaN" or inventory_days == "NaN":
+    strategy = "Indeterminate" 
+else:
+    strategy=my_strategy(psi, inventory_days, "all")
 
 # Plots
 my_plot_stability(t_ba, arr_cum, t_bs, ser_cum, t_b, back, t_ave_a, arr_ls, lamda, t_ave_s, ser_ls, mu, sname, psi, "all") 
@@ -735,7 +739,7 @@ my_plot_feed_ctrl(t_bf, alp_cum, t_be, err_cum, t_bc, cxl_cum, t_bs, ser_cum,
 
 # Exponential and Poisson Distributions
 GoFs = my_poisson(t_bs, mu, sname+'_'+'Services', "all")
-#GoFa = my_poisson(t_ba, lamda, sname+'_'+'Arrivals', "all")
+GoFa = my_poisson(t_ba, lamda, sname+'_'+'Arrivals', "all")
 GoFf = my_poisson(t_bf, alpha, sname+'_'+'Planned', "all")
 GoFe = my_poisson(t_be, epsilon, sname+'_'+'Unplanned', "all")
 GoFc = my_poisson(t_bc, gamma, sname+'_'+'Cancelled', "all")
@@ -862,48 +866,6 @@ R2_mu = mu_outs[4] # R-squared value for least squares
 c_mu = mu_outs[5] # y value at x=0. The c in y = mx+c
 t_ave_s = [t_bs[0],t_bs[-1]] # Get first and last elements  
 
-# Comparing the model backlog to the actual
-beta = []
-t_beta = []
-model = []
-alpha_contrib = []
-epsilon_contrib = []
-gamma_contrib = []
-mu_contrib = []
-min_b = 0
-t = t_b[0]
-while t <= t_b[-1]:
-    y_alpha = round(alpha * (t-t_bf[0]).days + c_alpha)
-    y_epsilon = round(epsilon * (t-t_be[0]).days + c_epsilon)
-    y_gamma = round(gamma * (t-t_bc[0]).days + c_gamma)
-    y_mu = round(mu * (t-t_bs[0]).days + c_mu)
-    if y_alpha < 0:
-        y_alpha = 0
-    if y_epsilon < 0:
-        y_epsilon = 0
-    if y_gamma < 0:
-        y_gamma = 0
-    if y_mu < 0:
-        y_mu = 0
-    b = y_alpha + y_epsilon - y_gamma - y_mu
-    
-    alpha_contrib.append(y_alpha)
-    epsilon_contrib.append(y_epsilon)
-    gamma_contrib.append(y_gamma)
-    mu_contrib.append(y_mu)
-
-    if b < 0:
-        b = 0
-    beta.append(b)
-    t_beta.append(t)
-    mod = [t,b,y_alpha,y_epsilon,y_gamma,y_mu]
-    model.append(mod)
-    # Assess minimum backlog
-    t = t + timedelta(days=1)
-    #print(b, y_alpha, y_epsilon, y_gamma, y_mu, t) 
-Beta_end = beta[-1]
-#print(beta) 
-
 # Percentage error between the modelled system size and actual. Includes workaround for the situation where the system is of size 0
 if back[-1] > 0:
     mod_err = round(abs(Beta_end-(back[-1]-min_backlog))/(back[-1]-min_backlog),2)
@@ -914,45 +876,51 @@ else:
         mod_err = 1  
 
 ## Metrics
-# Stability
-if gamma < alpha+epsilon:
-   psi = round(mu / (alpha+epsilon-gamma),3)
-else:
-   psi = "NaN"
-# Quality
-if alpha+epsilon > 0:
-    nu = round((alpha) / (alpha+epsilon),3)
-else:
+if alpha == "NaN" or epsilon == "NaN" or gamma == "NaN" or mu == "NaN":
+    psi = "NaN"
     nu = "NaN"
-# Control
-if gamma < alpha+epsilon:
-    zeta = round((alpha+epsilon-gamma) / (alpha+epsilon),3)
-else:
     zeta = "NaN"
-# Inventory Days
-if mu != 0:
-    inventory_days = round(back[-1]/mu,3)
-else:
     inventory_days = "NaN"
-# Strategy
-if psi != "NaN":
-    if inventory_days != "NaN":
-        strategy=my_strategy(psi, inventory_days, "all")
 else:
-   strategy = "Indeterminate" 
+    # Stability
+    if gamma != alpha+epsilon:
+       psi = round(mu / (alpha+epsilon-gamma),3)
+    else:
+       psi = "NaN"
+    # Quality
+    if alpha+epsilon > 0:
+        nu = round((alpha) / (alpha+epsilon),3)
+    else:
+        nu = "NaN"
+    # Control
+    if alpha+epsilon > 0:
+        zeta = round((alpha+epsilon-gamma) / (alpha+epsilon),3)
+    else:
+        zeta = "NaN"
+    # Inventory Days
+    if mu != 0:
+        inventory_days = round(back[-1]/mu,3)
+    else:
+        inventory_days = "NaN"
+    # Strategy
+    if psi != "NaN":
+        if inventory_days != "NaN":
+            strategy=my_strategy(psi, inventory_days, "all")
+    else:
+       strategy = "Indeterminate" 
+    
+    my_plot_stability(t_ba, arr_cum, t_bs, ser_cum, t_b, back, t_ave_a, arr_ls, lamda, t_ave_s, ser_ls, mu, sname, psi, "last100") 
+    my_plot_feed_ctrl(t_bf, alp_cum, t_be, err_cum, t_bc, cxl_cum, t_bs, ser_cum, 
+                        t_ave_f, alp_ls, alpha, t_ave_e, err_ls, epsilon, t_ave_c, 
+                        cxl_ls, gamma, t_ave_s, ser_ls, mu, t_b, back, t_beta, beta, 
+                        sname, "last100")
 
-my_plot_stability(t_ba, arr_cum, t_bs, ser_cum, t_b, back, t_ave_a, arr_ls, lamda, t_ave_s, ser_ls, mu, sname, psi, "last100") 
-my_plot_feed_ctrl(t_bf, alp_cum, t_be, err_cum, t_bc, cxl_cum, t_bs, ser_cum, 
-                    t_ave_f, alp_ls, alpha, t_ave_e, err_ls, epsilon, t_ave_c, 
-                    cxl_ls, gamma, t_ave_s, ser_ls, mu, t_b, back, t_beta, beta, 
-                    sname, "last100")
-
-# Exponential and Poisson Distributions
-GoFs = my_poisson(t_bs, mu, sname+'_'+'Services', "last100")
-GoFa = my_poisson(t_ba, lamda, sname+'_'+'Arrivals', "last100")
-GoFf = my_poisson(t_bf, alpha, sname+'_'+'Planned', "last100")
-GoFe = my_poisson(t_be, epsilon, sname+'_'+'Unplanned', "last100")
-GoFc = my_poisson(t_bc, gamma, sname+'_'+'Cancelled', "last100")
+    # Exponential and Poisson Distributions
+    GoFs = my_poisson(t_bs, mu, sname+'_'+'Services', "last100")
+    GoFa = my_poisson(t_ba, lamda, sname+'_'+'Arrivals', "last100")
+    GoFf = my_poisson(t_bf, alpha, sname+'_'+'Planned', "last100")
+    GoFe = my_poisson(t_be, epsilon, sname+'_'+'Unplanned', "last100")
+    GoFc = my_poisson(t_bc, gamma, sname+'_'+'Cancelled', "last100")
 
 # Open Output files and write
 f.write("\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nLast 100 days only\n")
@@ -963,12 +931,6 @@ f.write("Calculated Final System Size: "+str(back[-1])+" PBIs\n")
 f.write("Minimum System Size: "+str(min_backlog)+" PBIs\n") 
 f.write("Corrected Final System Size (prevent below 0 backlog): "+str(back[-1] + abs(min_backlog))+" PBIs\n\n")
 
-f.write("Model Final System Size: "+str(Beta_end)+" PBIs\n")     
-f.write("Minimum System Size: "+str(min_b)+" PBIs\n") 
-f.write("Corrected Final System Size (prevent below 0 backlog): "+str(beta[-1])+" PBIs\n\n")
-f.write("% Error, Final backlog, model vs actual: "+str(round(100*mod_err,2))+"%\n")
-f.write("Error, Final backlog, model vs actual: "+str(Beta_end-back[-1]-min_backlog)+" PBIs\n\n")
-
 f.write("LAST 100 DAYS\n")
 f.write("Totals:\n")
 f.write("Planned Arrivals in this period: "+str(alp_cum[-1]-alp_cum[0])+" PBIs\n")
@@ -978,11 +940,11 @@ f.write("System size change in this period: "+str(back[-1]-back[0])+" PBIs\n")
 f.write("Net Arrivals in this period: "+str(alp_cum[-1]-alp_cum[0]+err_cum[-1]-err_cum[0]-cxl_cum[-1]+cxl_cum[0])+" PBIs\n")
 f.write("Services in this period: "+str(ser_cum[-1]-ser_cum[0])+" PBIs\n")
 f.write("\nRates:\n")
-f.write("Planned Arrival Rate: "+str(round(alpha,3))+" PBIs/day\n")
-f.write("Unplanned Arrival Rate: "+str(round(epsilon,3))+" PBIs/day\n")
-f.write("Cancelled/Rejected/Won't Do Rate: "+str(round(gamma,3))+" PBIs/day\n")
-f.write("Net Arrival Rate: "+str(round(alpha+epsilon-gamma,3))+" PBIs/day\n")
-f.write("Service Rate: "+str(round(mu,3))+" PBIs/day\n")
+f.write("Planned Arrival Rate: "+str(alpha)+" PBIs/day\n")
+f.write("Unplanned Arrival Rate: "+str(epsilon)+" PBIs/day\n")
+f.write("Cancelled/Rejected/Won't Do Rate: "+str(gamma)+" PBIs/day\n")
+f.write("Net Arrival Rate: "+str(lamda)+" PBIs/day\n")
+f.write("Service Rate: "+str(mu)+" PBIs/day\n")
 f.write("\nMetrics:\n")
 f.write("Stability: "+str(psi)+"\n")
 f.write("Quality: "+str(nu)+"\n") 
@@ -1004,7 +966,7 @@ g.write(sname+","+str(t_delta)+","+str(t_b[0])+","+str(t_b[-1])+",")
 g.write(str(alp_cum[-1]-alp_cum[0])+","+str(err_cum[-1]-err_cum[0])+","+str(cxl_cum[-1]-cxl_cum[0])+",")
 g.write(str(alp_cum[-1]+err_cum[-1]-cxl_cum[-1]-alp_cum[0]-err_cum[0]+cxl_cum[0])+","+str(ser_cum[-1]-ser_cum[0])+","+str(back[-1]-back[0])+",")
 g.write(str(alpha)+","+str(epsilon)+",")
-g.write(str(gamma)+","+str(alpha+epsilon-gamma)+","+str(mu)+",")
+g.write(str(gamma)+","+str(lamda)+","+str(mu)+",")
 g.write(str(psi)+","+str(nu)+","+str(zeta)+","+str(inventory_days)+","+strategy+",")
 g.write(str(R2_alpha)+","+str(R2_epsilon)+","+str(R2_gamma)+","+str(R2_lambda)+","+str(R2_mu)+",")
 g.write(str(datetime.now())+",,\n")
