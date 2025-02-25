@@ -1,0 +1,60 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-11 14:23:00
+System: {'JBEAP': 21678}
+Types: {'Bug': 15729, 'Component Upgrade': 2303, 'Enhancement': 1203, 'Task': 1143, 'Release': 275, 'Feature Request': 232, 'Quality Risk': 5, 'Documentation': 269, 'Requirement': 301, 'Clarification': 13, 'Technical Requirement': 5, 'Support Request': 14, 'Support Patch': 7, 'Library Upgrade': 1, 'Initiative': 1, 'Docs Task': 1, 'Tracker': 109, 'Epic': 29, 'QE Task': 5, 'Question': 10, 'Incident': 2, 'CTS Challenge': 2, 'Story': 2, 'Issue': 4, 'Analysis': 1, 'Patch': 2, 'Ticket': 5, 'Release tracker': 3, 'Doc': 1, 'RFE': 1}
+Resolutions: {'Done': 15985, 'Obsolete': 1353, 'Duplicate': 861, "Won't Do": 2219, 'Not a Bug': 213, 'Cannot Reproduce': 170, '': 614, "Can't Do": 26, 'Done-Errata': 237}
+Statuses: {'Closed': 19067, 'Resolved': 510, 'Verified': 1432, 'Pull Request Sent': 57, 'Reopened': 36, 'New': 440, 'Ready for QA': 53, 'Open': 68, 'Coding In Progress': 13, 'QA In Progress': 2}
+
+Average Lead Time (all PBIs): 171.6 days
+Average Lead Time (Bug): 164.9 days
+Average Lead Time (Component Upgrade): 65.9 days
+Average Lead Time (Enhancement): 363.3 days
+Average Lead Time (Task): 152.8 days
+Average Lead Time (Release): 245.1 days
+Average Lead Time (Feature Request): 313.9 days
+Average Lead Time (Quality Risk): 382.2 days
+Average Lead Time (Documentation): 183.8 days
+Average Lead Time (Requirement): 393.5 days
+Average Lead Time (Clarification): 287.5 days
+Average Lead Time (Technical Requirement): 57.0 days
+Average Lead Time (Support Request): 189.3 days
+Average Lead Time (Support Patch): 319.1 days
+Average Lead Time (Library Upgrade): 2.0 days
+Average Lead Time (Initiative): 988.0 days
+Average Lead Time (Docs Task): 10.0 days
+Average Lead Time (Tracker): 307.1 days
+Average Lead Time (QE Task): 265.8 days
+Average Lead Time (Question): 137.6 days
+Average Lead Time (Incident): 14.0 days
+Average Lead Time (Epic): 298.1 days
+Average Lead Time (CTS Challenge): 431.0 days
+Average Lead Time (Story): 0.0 days
+Average Lead Time (Issue): 168.0 days
+Average Lead Time (Analysis): 0.0 days
+Average Lead Time (Patch): 150.0 days
+Average Lead Time (Ticket): 296.0 days
+Average Lead Time (Release tracker): 410.0 days
+Average Lead Time (Doc): 988.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-08-03 14:23:00 End date: 2024-11-11 14:23:00
+System: {'JBEAP': 475}
+Types: {'Bug': 242, 'Enhancement': 20, 'Release': 18, 'Documentation': 3, 'Task': 53, 'Doc': 1, 'Feature Request': 7, 'Clarification': 1, 'Component Upgrade': 116, 'Issue': 2, 'Support Request': 1, 'Tracker': 10, 'Question': 1}
+Resolutions: {'Done': 230, 'Obsolete': 40, "Won't Do": 12, 'Cannot Reproduce': 4, 'Done-Errata': 75, 'Not a Bug': 7, 'Duplicate': 4, '': 102, "Can't Do": 1}
+Statuses: {'Closed': 178, 'Ready for QA': 47, 'Resolved': 113, 'Verified': 34, 'QA In Progress': 1, 'New': 75, 'Open': 17, 'Pull Request Sent': 10}
+
+Average Lead Time (all PBIs): 409.8 days
+Average Lead Time (Bug): 582.1 days
+Average Lead Time (Enhancement): 491.5 days
+Average Lead Time (Release): 296.4 days
+Average Lead Time (Documentation): 1244.0 days
+Average Lead Time (Task): 309.2 days
+Average Lead Time (Doc): 988.0 days
+Average Lead Time (Feature Request): 238.4 days
+Average Lead Time (Clarification): 731.0 days
+Average Lead Time (Component Upgrade): 72.5 days
+Average Lead Time (Issue): 29.0 days
+Average Lead Time (Question): 1.0 days
+Average Lead Time (Tracker): 3330.0 days

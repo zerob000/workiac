@@ -1,0 +1,73 @@
+
+System Name: PROJQUAY
+System Duration (Captured): 2539 days
+
+Calculated Final System Size: 994 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 994 PBIs
+
+Model Final System Size: 918 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 918 PBIs
+
+% Error, Final backlog, model vs actual: 8.0%
+Error, Final backlog, model vs actual: -76 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 2435 PBIs
+Total Unplanned Arrivals: 2693 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 878 PBIs
+Total Net Arrivals: 4250 PBIs
+Total Services: 3256 PBIs
+
+Rates:
+Planned Arrival Rate: 1.329 PBIs/day
+Unplanned Arrival Rate: 1.476 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.59 PBIs/day
+Net Arrival Rate: 2.215 PBIs/day
+Service Rate: 1.85 PBIs/day
+
+
+Metrics:
+Stability: 0.835
+Quality: 0.474
+Control: 0.79
+Inventory Days: 537.297 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 994 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 994 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 115 PBIs
+Unplanned Arrivals in this period: 168 PBIs
+Cancelled/Rejected/Won't Do  in this period: 18 PBIs
+System size change in this period: 25 PBIs
+Net Arrivals in this period: 265 PBIs
+Services in this period: 239 PBIs
+
+Rates:
+Planned Arrival Rate: 1.154 PBIs/day
+Unplanned Arrival Rate: 1.63 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.166 PBIs/day
+Net Arrival Rate: 2.612 PBIs/day
+Service Rate: 2.408 PBIs/day
+
+Metrics:
+Stability: 0.92
+Quality: 0.415
+Control: 0.94
+Inventory Days: 412.791 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

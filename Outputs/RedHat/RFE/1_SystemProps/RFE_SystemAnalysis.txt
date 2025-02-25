@@ -1,0 +1,21 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-13 17:13:00
+System: {'RFE': 3656}
+Types: {'Feature Request': 3656}
+Resolutions: {'': 1628, 'Done': 1969, "Won't Do": 39, 'Duplicate': 16, "Can't Do": 1, 'Obsolete': 3}
+Statuses: {'Backlog': 1238, 'Rejected': 914, 'Accepted': 890, 'Under Review': 379, 'Deferred': 235}
+
+Average Lead Time (all PBIs): 264.3 days
+Average Lead Time (Feature Request): 264.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-08-05 17:13:00 End date: 2024-11-13 17:13:00
+System: {'RFE': 485}
+Types: {'Feature Request': 485}
+Resolutions: {'': 241, 'Done': 244}
+Statuses: {'Backlog': 206, 'Accepted': 135, 'Under Review': 35, 'Rejected': 75, 'Deferred': 34}
+
+Average Lead Time (all PBIs): 313.5 days
+Average Lead Time (Feature Request): 313.5 days

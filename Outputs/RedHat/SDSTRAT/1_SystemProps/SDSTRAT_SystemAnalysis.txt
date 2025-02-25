@@ -1,0 +1,21 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-14 18:07:00
+System: {'SDSTRAT': 57}
+Types: {'Initiative': 52, 'Outcome': 5}
+Resolutions: {'': 49, 'Duplicate': 4, 'Obsolete': 1, 'Done': 3}
+Statuses: {'New': 34, 'Refinement': 1, 'In Progress': 14, 'Closed': 8}
+
+Average Lead Time (all PBIs): 12.4 days
+Average Lead Time (Initiative): 12.4 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-08-06 18:07:00 End date: 2024-11-14 18:07:00
+System: {'SDSTRAT': 31}
+Types: {'Initiative': 27, 'Outcome': 4}
+Resolutions: {'': 24, 'Duplicate': 4, 'Obsolete': 1, 'Done': 2}
+Statuses: {'New': 18, 'Refinement': 1, 'In Progress': 5, 'Closed': 7}
+
+Average Lead Time (all PBIs): 10.9 days
+Average Lead Time (Initiative): 10.9 days

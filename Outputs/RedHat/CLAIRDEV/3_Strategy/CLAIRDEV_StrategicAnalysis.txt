@@ -1,0 +1,73 @@
+
+System Name: CLAIRDEV
+System Duration (Captured): 1788 days
+
+Calculated Final System Size: 72 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 72 PBIs
+
+Model Final System Size: 56 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 56 PBIs
+
+% Error, Final backlog, model vs actual: 22.0%
+Error, Final backlog, model vs actual: -16 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 72 PBIs
+Total Unplanned Arrivals: 17 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 3 PBIs
+Total Net Arrivals: 86 PBIs
+Total Services: 14 PBIs
+
+Rates:
+Planned Arrival Rate: 0.04 PBIs/day
+Unplanned Arrival Rate: 0.031 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.009 PBIs/day
+Net Arrival Rate: 0.062 PBIs/day
+Service Rate: 0.043 PBIs/day
+
+
+Metrics:
+Stability: 0.694
+Quality: 0.563
+Control: 0.873
+Inventory Days: 1674.419 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 92 days
+
+Calculated Final System Size: 72 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 72 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 10 PBIs
+Unplanned Arrivals in this period: 6 PBIs
+Cancelled/Rejected/Won't Do  in this period: 1 PBIs
+System size change in this period: 7 PBIs
+Net Arrivals in this period: 15 PBIs
+Services in this period: 9 PBIs
+
+Rates:
+Planned Arrival Rate: 0.142 PBIs/day
+Unplanned Arrival Rate: 0.07 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.014 PBIs/day
+Net Arrival Rate: 0.191 PBIs/day
+Service Rate: 0.077 PBIs/day
+
+Metrics:
+Stability: 0.389
+Quality: 0.67
+Control: 0.934
+Inventory Days: 935.065 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

@@ -1,0 +1,73 @@
+
+System Name: CNV
+System Duration (Captured): 2079 days
+
+Calculated Final System Size: 2426 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 2426 PBIs
+
+Model Final System Size: 2497 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 2497 PBIs
+
+% Error, Final backlog, model vs actual: 3.0%
+Error, Final backlog, model vs actual: 71 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 7472 PBIs
+Total Unplanned Arrivals: 3503 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 1484 PBIs
+Total Net Arrivals: 9491 PBIs
+Total Services: 7065 PBIs
+
+Rates:
+Planned Arrival Rate: 8.79 PBIs/day
+Unplanned Arrival Rate: 3.226 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 1.871 PBIs/day
+Net Arrival Rate: 10.145 PBIs/day
+Service Rate: 8.152 PBIs/day
+
+
+Metrics:
+Stability: 0.804
+Quality: 0.732
+Control: 0.844
+Inventory Days: 297.596 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 100 days
+
+Calculated Final System Size: 2426 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 2426 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 1581 PBIs
+Unplanned Arrivals in this period: 329 PBIs
+Cancelled/Rejected/Won't Do  in this period: 152 PBIs
+System size change in this period: 280 PBIs
+Net Arrivals in this period: 1758 PBIs
+Services in this period: 1479 PBIs
+
+Rates:
+Planned Arrival Rate: 14.394 PBIs/day
+Unplanned Arrival Rate: 3.162 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 1.454 PBIs/day
+Net Arrival Rate: 16.058 PBIs/day
+Service Rate: 13.812 PBIs/day
+
+Metrics:
+Stability: 0.858
+Quality: 0.82
+Control: 0.917
+Inventory Days: 175.644 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

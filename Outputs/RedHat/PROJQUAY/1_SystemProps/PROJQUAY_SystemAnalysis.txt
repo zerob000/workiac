@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-14 11:47:00
+System: {'PROJQUAY': 5345}
+Types: {'Bug': 2693, 'Task': 1386, 'Feature': 311, 'Story': 699, 'Epic': 217, 'Spike': 39}
+Resolutions: {'': 1075, 'Done': 3259, 'Not a Bug': 128, "Won't Do": 297, 'Done-Errata': 110, "Can't Do": 12, 'Duplicate': 179, 'Obsolete': 231, 'Cannot Reproduce': 54}
+Statuses: {'New': 902, 'Testing': 32, 'Closed': 4305, 'In Progress': 32, 'Review': 27, 'To Do': 30, 'Planning': 17}
+
+Average Lead Time (all PBIs): 129.9 days
+Average Lead Time (Task): 104.8 days
+Average Lead Time (Feature): 236.0 days
+Average Lead Time (Bug): 114.2 days
+Average Lead Time (Story): 166.2 days
+Average Lead Time (Epic): 312.1 days
+Average Lead Time (Spike): 97.9 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-08-06 11:47:00 End date: 2024-11-14 11:47:00
+System: {'PROJQUAY': 405}
+Types: {'Bug': 213, 'Task': 95, 'Feature': 21, 'Story': 59, 'Epic': 16, 'Spike': 1}
+Resolutions: {'': 135, 'Done': 217, 'Not a Bug': 2, "Won't Do": 6, 'Done-Errata': 34, "Can't Do": 1, 'Duplicate': 7, 'Obsolete': 3}
+Statuses: {'New': 101, 'Testing': 11, 'Closed': 270, 'In Progress': 9, 'Review': 4, 'To Do': 10}
+
+Average Lead Time (all PBIs): 128.7 days
+Average Lead Time (Task): 113.8 days
+Average Lead Time (Feature): 559.2 days
+Average Lead Time (Bug): 92.8 days
+Average Lead Time (Story): 196.4 days
+Average Lead Time (Epic): 282.5 days

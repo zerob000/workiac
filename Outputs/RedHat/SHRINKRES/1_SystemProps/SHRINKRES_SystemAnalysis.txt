@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-06 15:13:00
+System: {'SHRINKRES': 333}
+Types: {'Enhancement': 31, 'Bug': 147, 'Task': 53, 'Feature Request': 79, 'Component Upgrade': 18, 'Documentation': 1, 'Clarification': 1, 'Support Request': 1, 'Library Upgrade': 2}
+Resolutions: {'': 54, 'Done': 244, 'Not a Bug': 2, 'Obsolete': 5, 'Cannot Reproduce': 4, "Won't Do": 15, 'Duplicate': 8, "Can't Do": 1}
+Statuses: {'Open': 50, 'Pull Request Sent': 3, 'Resolved': 45, 'Closed': 234, 'Coding In Progress': 1}
+
+Average Lead Time (all PBIs): 119.5 days
+Average Lead Time (Enhancement): 162.2 days
+Average Lead Time (Bug): 100.1 days
+Average Lead Time (Task): 107.9 days
+Average Lead Time (Feature Request): 156.1 days
+Average Lead Time (Component Upgrade): 125.4 days
+Average Lead Time (Documentation): 6.0 days
+Average Lead Time (Support Request): 5.0 days
+Average Lead Time (Library Upgrade): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-07-29 15:13:00 End date: 2024-11-06 15:13:00
+System: {'SHRINKRES': 12}
+Types: {'Enhancement': 3, 'Bug': 5, 'Task': 4}
+Resolutions: {'': 5, 'Done': 7}
+Statuses: {'Open': 4, 'Pull Request Sent': 1, 'Resolved': 6, 'Closed': 1}
+
+Average Lead Time (all PBIs): 54.1 days
+Average Lead Time (Enhancement): 10.0 days
+Average Lead Time (Bug): 92.3 days
+Average Lead Time (Task): 30.7 days

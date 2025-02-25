@@ -1,0 +1,73 @@
+
+System Name: EJBTHREE
+System Duration (Captured): 6876 days
+
+Calculated Final System Size: 394 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 394 PBIs
+
+Model Final System Size: 1803 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 1803 PBIs
+
+% Error, Final backlog, model vs actual: 358.0%
+Error, Final backlog, model vs actual: 1409 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 961 PBIs
+Total Unplanned Arrivals: 1107 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 333 PBIs
+Total Net Arrivals: 1735 PBIs
+Total Services: 1341 PBIs
+
+Rates:
+Planned Arrival Rate: 0.431 PBIs/day
+Unplanned Arrival Rate: 0.491 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.05 PBIs/day
+Net Arrival Rate: 0.872 PBIs/day
+Service Rate: 0.606 PBIs/day
+
+
+Metrics:
+Stability: 0.695
+Quality: 0.467
+Control: 0.946
+Inventory Days: 650.165 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 0 days
+
+Calculated Final System Size: 394 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 394 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 0 PBIs
+Unplanned Arrivals in this period: 0 PBIs
+Cancelled/Rejected/Won't Do  in this period: 17 PBIs
+System size change in this period: -17 PBIs
+Net Arrivals in this period: -17 PBIs
+Services in this period: 0 PBIs
+
+Rates:
+Planned Arrival Rate: NaN PBIs/day
+Unplanned Arrival Rate: NaN PBIs/day
+Cancelled/Rejected/Won't Do Rate: 9.0 PBIs/day
+Net Arrival Rate: -9.0 PBIs/day
+Service Rate: NaN PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-14 01:00:00
+System: {'THREESCALE': 6095}
+Types: {'Feature Request': 1111, 'Enhancement': 666, 'Bug': 2145, 'Task': 1875, 'Epic': 298}
+Resolutions: {'': 869, "Won't Do": 543, 'Duplicate': 267, 'Done': 2979, 'Done-Errata': 38, 'Obsolete': 860, 'Not a Bug': 278, 'Cannot Reproduce': 58, "Can't Do": 203}
+Statuses: {'New': 141, 'Closed': 5224, 'To Test (QE)': 74, 'Developing': 31, 'To Develop': 283, 'Defining': 39, 'Defined': 139, 'SME Review': 8, 'To Define': 30, 'To Document': 21, 'To Ship To On-Prem': 87, 'To Design': 4, 'To Test For On-Prem': 5, 'Designing': 1, 'Documenting': 6, 'Testing (QE)': 1, 'To Test For RHOAM': 1}
+
+Average Lead Time (all PBIs): 325.7 days
+Average Lead Time (Bug): 267.6 days
+Average Lead Time (Epic): 564.3 days
+Average Lead Time (Task): 221.1 days
+Average Lead Time (Feature Request): 469.9 days
+Average Lead Time (Enhancement): 407.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-08-06 01:00:00 End date: 2024-11-14 01:00:00
+System: {'THREESCALE': 174}
+Types: {'Feature Request': 10, 'Enhancement': 12, 'Bug': 67, 'Task': 76, 'Epic': 9}
+Resolutions: {'': 67, "Won't Do": 21, 'Duplicate': 5, 'Done': 59, 'Done-Errata': 7, 'Obsolete': 10, 'Cannot Reproduce': 3, 'Not a Bug': 1, "Can't Do": 1}
+Statuses: {'New': 20, 'Closed': 107, 'To Test (QE)': 9, 'Developing': 7, 'To Develop': 15, 'Defining': 2, 'Defined': 6, 'SME Review': 1, 'To Define': 2, 'To Document': 2, 'To Ship To On-Prem': 3}
+
+Average Lead Time (all PBIs): 324.1 days
+Average Lead Time (Bug): 404.9 days
+Average Lead Time (Epic): 439.0 days
+Average Lead Time (Task): 240.9 days
+Average Lead Time (Feature Request): 7.0 days
+Average Lead Time (Enhancement): 500.8 days

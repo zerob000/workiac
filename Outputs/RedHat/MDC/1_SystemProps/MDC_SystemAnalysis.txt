@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-10-17 08:46:00
+System: {'MDC': 68}
+Types: {'Feature': 2, 'Bug': 2, 'Story': 54, 'Epic': 6, 'Task': 4}
+Resolutions: {'': 43, 'Done': 23, "Won't Do": 2}
+Statuses: {'New': 32, 'Closed': 25, 'In Progress': 11}
+
+Average Lead Time (all PBIs): 38.6 days
+Average Lead Time (Bug): 0.0 days
+Average Lead Time (Story): 40.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-07-09 08:46:00 End date: 2024-10-17 08:46:00
+System: {'MDC': 11}
+Types: {'Feature': 2, 'Bug': 2, 'Story': 7}
+Resolutions: {'': 5, 'Done': 6}
+Statuses: {'New': 4, 'Closed': 6, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 62.7 days
+Average Lead Time (Bug): 0.0 days
+Average Lead Time (Story): 75.2 days

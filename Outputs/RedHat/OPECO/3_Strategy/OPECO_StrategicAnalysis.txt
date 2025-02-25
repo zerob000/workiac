@@ -1,0 +1,73 @@
+
+System Name: OPECO
+System Duration (Captured): 1322 days
+
+Calculated Final System Size: 109 PBIs
+Minimum System Size: -1 PBIs
+Corrected Final System Size (prevent below 0 backlog): 110 PBIs
+
+Model Final System Size: 185 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 185 PBIs
+
+% Error, Final backlog, model vs actual: 68.0%
+Error, Final backlog, model vs actual: 77 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 1163 PBIs
+Total Unplanned Arrivals: 29 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 319 PBIs
+Total Net Arrivals: 873 PBIs
+Total Services: 765 PBIs
+
+Rates:
+Planned Arrival Rate: 0.945 PBIs/day
+Unplanned Arrival Rate: 0.023 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.274 PBIs/day
+Net Arrival Rate: 0.694 PBIs/day
+Service Rate: 0.65 PBIs/day
+
+
+Metrics:
+Stability: 0.937
+Quality: 0.976
+Control: 0.717
+Inventory Days: 167.692 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 109 PBIs
+Minimum System Size: -1 PBIs
+Corrected Final System Size (prevent below 0 backlog): 110 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 1 PBIs
+Unplanned Arrivals in this period: 1 PBIs
+Cancelled/Rejected/Won't Do  in this period: 9 PBIs
+System size change in this period: -16 PBIs
+Net Arrivals in this period: -7 PBIs
+Services in this period: 8 PBIs
+
+Rates:
+Planned Arrival Rate: 0.091 PBIs/day
+Unplanned Arrival Rate: 0.167 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.089 PBIs/day
+Net Arrival Rate: -0.068 PBIs/day
+Service Rate: 0.113 PBIs/day
+
+Metrics:
+Stability: 0.669
+Quality: 0.353
+Control: 0.655
+Inventory Days: 964.602 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

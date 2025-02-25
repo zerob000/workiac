@@ -1,0 +1,73 @@
+
+System Name: HMS
+System Duration (Captured): 1038 days
+
+Calculated Final System Size: 247 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 247 PBIs
+
+Model Final System Size: 305 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 305 PBIs
+
+% Error, Final backlog, model vs actual: 23.0%
+Error, Final backlog, model vs actual: 58 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 1581 PBIs
+Total Unplanned Arrivals: 488 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 207 PBIs
+Total Net Arrivals: 1862 PBIs
+Total Services: 1615 PBIs
+
+Rates:
+Planned Arrival Rate: 2.066 PBIs/day
+Unplanned Arrival Rate: 0.645 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.261 PBIs/day
+Net Arrival Rate: 2.45 PBIs/day
+Service Rate: 2.253 PBIs/day
+
+
+Metrics:
+Stability: 0.92
+Quality: 0.762
+Control: 0.904
+Inventory Days: 109.632 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 247 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 247 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 213 PBIs
+Unplanned Arrivals in this period: 59 PBIs
+Cancelled/Rejected/Won't Do  in this period: 68 PBIs
+System size change in this period: -28 PBIs
+Net Arrivals in this period: 204 PBIs
+Services in this period: 231 PBIs
+
+Rates:
+Planned Arrival Rate: 1.974 PBIs/day
+Unplanned Arrival Rate: 0.583 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.708 PBIs/day
+Net Arrival Rate: 1.822 PBIs/day
+Service Rate: 2.361 PBIs/day
+
+Metrics:
+Stability: 1.277
+Quality: 0.772
+Control: 0.723
+Inventory Days: 104.617 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

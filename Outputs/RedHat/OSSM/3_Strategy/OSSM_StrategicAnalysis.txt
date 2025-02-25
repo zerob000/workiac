@@ -1,0 +1,73 @@
+
+System Name: OSSM
+System Duration (Captured): 1944 days
+
+Calculated Final System Size: 449 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 449 PBIs
+
+Model Final System Size: 493 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 493 PBIs
+
+% Error, Final backlog, model vs actual: 10.0%
+Error, Final backlog, model vs actual: 44 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 3948 PBIs
+Total Unplanned Arrivals: 820 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 1212 PBIs
+Total Net Arrivals: 3556 PBIs
+Total Services: 3107 PBIs
+
+Rates:
+Planned Arrival Rate: 2.349 PBIs/day
+Unplanned Arrival Rate: 0.437 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.848 PBIs/day
+Net Arrival Rate: 1.938 PBIs/day
+Service Rate: 2.134 PBIs/day
+
+
+Metrics:
+Stability: 1.101
+Quality: 0.843
+Control: 0.696
+Inventory Days: 210.403 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 100 days
+
+Calculated Final System Size: 449 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 449 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 862 PBIs
+Unplanned Arrivals in this period: 63 PBIs
+Cancelled/Rejected/Won't Do  in this period: 363 PBIs
+System size change in this period: -83 PBIs
+Net Arrivals in this period: 562 PBIs
+Services in this period: 646 PBIs
+
+Rates:
+Planned Arrival Rate: 7.988 PBIs/day
+Unplanned Arrival Rate: 0.821 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 3.934 PBIs/day
+Net Arrival Rate: 4.385 PBIs/day
+Service Rate: 5.925 PBIs/day
+
+Metrics:
+Stability: 1.215
+Quality: 0.907
+Control: 0.553
+Inventory Days: 75.781 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

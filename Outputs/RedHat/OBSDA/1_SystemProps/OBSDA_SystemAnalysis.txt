@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-08 01:32:00
+System: {'OBSDA': 703}
+Types: {'Feature': 638, 'Epic': 6, 'Outcome': 33, 'Bug': 9, 'Requirement': 4, 'Task': 13}
+Resolutions: {'': 423, 'Done': 171, 'Duplicate': 28, 'Not a Bug': 3, "Won't Do": 52, 'Obsolete': 25, "Can't Do": 1}
+Statuses: {'New': 198, 'To Do': 52, 'In Progress': 88, 'Backlog': 36, 'Release Pending': 11, 'Closed': 279, 'Refinement': 28, 'Review': 6, 'Waiting': 5}
+
+Average Lead Time (all PBIs): 288.1 days
+Average Lead Time (Feature): 299.3 days
+Average Lead Time (Bug): 178.9 days
+Average Lead Time (Task): 35.5 days
+Average Lead Time (Epic): 100.0 days
+Average Lead Time (Requirement): 154.0 days
+Average Lead Time (Outcome): 526.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-07-31 01:32:00 End date: 2024-11-08 01:32:00
+System: {'OBSDA': 143}
+Types: {'Feature': 136, 'Epic': 3, 'Outcome': 2, 'Bug': 1, 'Task': 1}
+Resolutions: {'': 111, 'Done': 24, 'Duplicate': 2, 'Not a Bug': 1, "Won't Do": 4, 'Obsolete': 1}
+Statuses: {'New': 69, 'To Do': 21, 'In Progress': 15, 'Backlog': 6, 'Release Pending': 4, 'Closed': 28}
+
+Average Lead Time (all PBIs): 281.0 days
+Average Lead Time (Feature): 290.3 days
+Average Lead Time (Task): 122.0 days
+Average Lead Time (Epic): 161.0 days

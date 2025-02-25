@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-10-24 10:36:00
+System: {'KOGITO': 8551}
+Types: {'Epic': 448, 'Bug': 2306, 'Feature Request': 819, 'Task': 3277, 'Enhancement': 1438, 'Story': 219, 'Component Upgrade': 15, 'Patch': 15, 'Quality Risk': 14}
+Resolutions: {'': 1295, 'Duplicate': 305, 'Done': 5968, 'Obsolete': 327, "Won't Do": 500, 'Not a Bug': 61, "Can't Do": 10, 'Cannot Reproduce': 85}
+Statuses: {'Open': 1148, 'Closed': 4210, 'Resolved': 3046, 'Coding In Progress': 38, 'Pull Request Sent': 99, 'Reopened': 10}
+
+Average Lead Time (all PBIs): 107.9 days
+Average Lead Time (Feature Request): 135.6 days
+Average Lead Time (Task): 89.8 days
+Average Lead Time (Epic): 247.8 days
+Average Lead Time (Enhancement): 126.6 days
+Average Lead Time (Bug): 85.0 days
+Average Lead Time (Story): 200.5 days
+Average Lead Time (Component Upgrade): 60.8 days
+Average Lead Time (Patch): 11.8 days
+Average Lead Time (Quality Risk): 84.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-07-16 10:36:00 End date: 2024-10-24 10:36:00
+System: {'KOGITO': 10}
+Types: {'Epic': 5, 'Task': 4, 'Feature Request': 1}
+Resolutions: {'Done': 8, "Won't Do": 1, 'Obsolete': 1}
+Statuses: {'Resolved': 5, 'Closed': 5}
+
+Average Lead Time (all PBIs): 822.7 days
+Average Lead Time (Epic): 859.8 days
+Average Lead Time (Task): 624.8 days
+Average Lead Time (Feature Request): 1429.0 days

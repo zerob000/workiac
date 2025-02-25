@@ -1,0 +1,73 @@
+
+System Name: ACA
+System Duration (Captured): 1380 days
+
+Calculated Final System Size: 164 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 164 PBIs
+
+Model Final System Size: 146 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 146 PBIs
+
+% Error, Final backlog, model vs actual: 11.0%
+Error, Final backlog, model vs actual: -18 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 918 PBIs
+Total Unplanned Arrivals: 355 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 96 PBIs
+Total Net Arrivals: 1177 PBIs
+Total Services: 1013 PBIs
+
+Rates:
+Planned Arrival Rate: 0.572 PBIs/day
+Unplanned Arrival Rate: 0.249 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.103 PBIs/day
+Net Arrival Rate: 0.718 PBIs/day
+Service Rate: 0.649 PBIs/day
+
+
+Metrics:
+Stability: 0.904
+Quality: 0.697
+Control: 0.875
+Inventory Days: 252.696 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 164 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 164 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 113 PBIs
+Unplanned Arrivals in this period: 54 PBIs
+Cancelled/Rejected/Won't Do  in this period: 9 PBIs
+System size change in this period: 9 PBIs
+Net Arrivals in this period: 158 PBIs
+Services in this period: 148 PBIs
+
+Rates:
+Planned Arrival Rate: 1.176 PBIs/day
+Unplanned Arrival Rate: 0.604 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.14 PBIs/day
+Net Arrival Rate: 1.636 PBIs/day
+Service Rate: 1.511 PBIs/day
+
+Metrics:
+Stability: 0.921
+Quality: 0.661
+Control: 0.921
+Inventory Days: 108.537 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

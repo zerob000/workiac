@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-13 08:40:00
+System: {'CRW': 3804}
+Types: {'Feature Request': 219, 'Task': 1734, 'Feature': 173, 'Bug': 1561, 'Epic': 117}
+Resolutions: {'': 364, 'Done-Errata': 21, 'Not a Bug': 96, 'Done': 2761, 'Obsolete': 136, "Won't Do": 215, 'Duplicate': 123, 'Cannot Reproduce': 83, "Can't Do": 5}
+Statuses: {'Open': 343, 'Closed': 2663, 'Resolved': 777, 'Coding In Progress': 7, 'Reopened': 14}
+
+Average Lead Time (all PBIs): 106.0 days
+Average Lead Time (Task): 115.0 days
+Average Lead Time (Feature Request): 236.3 days
+Average Lead Time (Bug): 73.7 days
+Average Lead Time (Epic): 255.6 days
+Average Lead Time (Feature): 84.4 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-08-05 08:40:00 End date: 2024-11-13 08:40:00
+System: {'CRW': 176}
+Types: {'Feature Request': 26, 'Task': 92, 'Feature': 4, 'Bug': 50, 'Epic': 4}
+Resolutions: {'': 53, 'Done-Errata': 8, 'Not a Bug': 2, 'Done': 96, 'Obsolete': 3, "Won't Do": 2, 'Duplicate': 10, 'Cannot Reproduce': 2}
+Statuses: {'Open': 48, 'Closed': 70, 'Resolved': 53, 'Coding In Progress': 3, 'Reopened': 2}
+
+Average Lead Time (all PBIs): 75.4 days
+Average Lead Time (Task): 92.7 days
+Average Lead Time (Feature Request): 31.9 days
+Average Lead Time (Bug): 57.0 days
+Average Lead Time (Epic): 55.0 days
+Average Lead Time (Feature): 93.5 days

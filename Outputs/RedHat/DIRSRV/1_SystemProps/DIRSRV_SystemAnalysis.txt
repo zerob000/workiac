@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-11 14:28:00
+System: {'DIRSRV': 74}
+Types: {'Bug': 65, 'Task': 1, 'Story': 8}
+Resolutions: {'Done': 10, '': 52, "Won't Do": 4, 'Done-Errata': 2, 'Cannot Reproduce': 1, 'Duplicate': 3, 'Not a Bug': 2}
+Statuses: {'Closed': 22, 'Release Pending': 13, 'In Progress': 4, 'New': 30, 'Planning': 4, 'Integration': 1}
+
+Average Lead Time (all PBIs): 208.4 days
+Average Lead Time (Bug): 167.1 days
+Average Lead Time (Story): 469.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-08-03 14:28:00 End date: 2024-11-11 14:28:00
+System: {'DIRSRV': 26}
+Types: {'Bug': 22, 'Task': 1, 'Story': 3}
+Resolutions: {'Done': 4, '': 12, "Won't Do": 4, 'Cannot Reproduce': 1, 'Duplicate': 3, 'Not a Bug': 1, 'Done-Errata': 1}
+Statuses: {'Closed': 14, 'Release Pending': 2, 'In Progress': 1, 'New': 9}
+
+Average Lead Time (all PBIs): 292.4 days
+Average Lead Time (Bug): 244.1 days
+Average Lead Time (Story): 469.7 days

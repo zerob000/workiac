@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-09-12 15:45:00
+System: {'WINDUPRULE': 691}
+Types: {'Bug': 174, 'Task': 295, 'Story': 189, 'Feature Request': 2, 'Epic': 31}
+Resolutions: {'Duplicate': 27, '': 130, 'Done-Errata': 9, 'Done': 464, "Won't Do": 15, 'Obsolete': 32, 'Cannot Reproduce': 4, 'Not a Bug': 3, "Can't Do": 7}
+Statuses: {'Closed': 335, 'POST': 1, 'New': 115, 'Release Pending': 62, 'Testing': 1, 'Verified': 5, 'Dev Complete': 140, 'To Do': 1, 'In Progress': 9, 'MODIFIED': 22}
+
+Average Lead Time (all PBIs): 159.6 days
+Average Lead Time (Bug): 73.8 days
+Average Lead Time (Task): 61.8 days
+Average Lead Time (Epic): 191.0 days
+Average Lead Time (Feature Request): 0.0 days
+Average Lead Time (Story): 414.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-06-04 15:45:00 End date: 2024-09-12 15:45:00
+System: {'WINDUPRULE': 9}
+Types: {'Bug': 9}
+Resolutions: {'Duplicate': 1, '': 1, 'Done-Errata': 2, 'Done': 5}
+Statuses: {'Closed': 8, 'POST': 1}
+
+Average Lead Time (all PBIs): 320.1 days
+Average Lead Time (Bug): 320.1 days

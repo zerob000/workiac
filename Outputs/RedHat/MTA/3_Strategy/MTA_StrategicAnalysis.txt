@@ -1,0 +1,73 @@
+
+System Name: MTA
+System Duration (Captured): 887 days
+
+Calculated Final System Size: 404 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 404 PBIs
+
+Model Final System Size: 420 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 420 PBIs
+
+% Error, Final backlog, model vs actual: 4.0%
+Error, Final backlog, model vs actual: 16 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 1354 PBIs
+Total Unplanned Arrivals: 938 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 181 PBIs
+Total Net Arrivals: 2111 PBIs
+Total Services: 1707 PBIs
+
+Rates:
+Planned Arrival Rate: 2.172 PBIs/day
+Unplanned Arrival Rate: 1.441 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.269 PBIs/day
+Net Arrival Rate: 3.344 PBIs/day
+Service Rate: 2.914 PBIs/day
+
+
+Metrics:
+Stability: 0.871
+Quality: 0.601
+Control: 0.926
+Inventory Days: 138.641 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 100 days
+
+Calculated Final System Size: 404 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 404 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 123 PBIs
+Unplanned Arrivals in this period: 79 PBIs
+Cancelled/Rejected/Won't Do  in this period: 23 PBIs
+System size change in this period: -69 PBIs
+Net Arrivals in this period: 179 PBIs
+Services in this period: 249 PBIs
+
+Rates:
+Planned Arrival Rate: 1.184 PBIs/day
+Unplanned Arrival Rate: 0.813 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.197 PBIs/day
+Net Arrival Rate: 1.768 PBIs/day
+Service Rate: 2.627 PBIs/day
+
+Metrics:
+Stability: 1.459
+Quality: 0.593
+Control: 0.901
+Inventory Days: 153.788 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2019-03-26 11:29:00
+System: {'CDITCK': 452}
+Types: {'Bug': 305, 'Enhancement': 32, 'Feature Request': 112, 'Release': 1, 'CTS Challenge': 2}
+Resolutions: {'Done': 378, "Won't Do": 47, '': 5, "Can't Do": 1, 'Duplicate': 8, 'Cannot Reproduce': 4, 'Obsolete': 9}
+Statuses: {'Resolved': 277, 'Closed': 170, 'Open': 5}
+
+Average Lead Time (all PBIs): 98.5 days
+Average Lead Time (Bug): 50.7 days
+Average Lead Time (Enhancement): 25.6 days
+Average Lead Time (Feature Request): 251.7 days
+Average Lead Time (Release): 5.0 days
+Average Lead Time (CTS Challenge): 1.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2018-12-16 11:29:00 End date: 2019-03-26 11:29:00
+System: {'CDITCK': 3}
+Types: {'Bug': 2, 'Enhancement': 1}
+Resolutions: {'Done': 3}
+Statuses: {'Resolved': 3}
+
+Average Lead Time (all PBIs): 104.7 days
+Average Lead Time (Bug): 17.0 days
+Average Lead Time (Enhancement): 280.0 days

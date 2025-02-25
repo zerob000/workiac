@@ -1,0 +1,73 @@
+
+System Name: ETCD
+System Duration (Captured): 1373 days
+
+Calculated Final System Size: 85 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 85 PBIs
+
+Model Final System Size: 73 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 73 PBIs
+
+% Error, Final backlog, model vs actual: 14.0%
+Error, Final backlog, model vs actual: -12 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 296 PBIs
+Total Unplanned Arrivals: 9 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 38 PBIs
+Total Net Arrivals: 267 PBIs
+Total Services: 182 PBIs
+
+Rates:
+Planned Arrival Rate: 0.228 PBIs/day
+Unplanned Arrival Rate: 0.012 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.035 PBIs/day
+Net Arrival Rate: 0.205 PBIs/day
+Service Rate: 0.148 PBIs/day
+
+
+Metrics:
+Stability: 0.722
+Quality: 0.95
+Control: 0.854
+Inventory Days: 574.324 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 92 days
+
+Calculated Final System Size: 85 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 85 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 46 PBIs
+Unplanned Arrivals in this period: 0 PBIs
+Cancelled/Rejected/Won't Do  in this period: 3 PBIs
+System size change in this period: 5 PBIs
+Net Arrivals in this period: 43 PBIs
+Services in this period: 36 PBIs
+
+Rates:
+Planned Arrival Rate: 0.508 PBIs/day
+Unplanned Arrival Rate: NaN PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.074 PBIs/day
+Net Arrival Rate: 0.476 PBIs/day
+Service Rate: 0.431 PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

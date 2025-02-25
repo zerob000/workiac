@@ -1,0 +1,42 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-15 15:51:00
+System: {'OSPRH': 5335}
+Types: {'Task': 976, 'Feature Request': 30, 'Bug': 1136, 'Spike': 347, 'Feature': 138, 'Outcome': 30, 'Story': 1532, 'Epic': 1090, 'Enhancement': 6, 'Ticket': 20, 'Incident': 3, 'Change Request': 1, 'Requirement': 1, 'Release tracker': 25}
+Resolutions: {'': 1735, 'Done': 2666, 'Obsolete': 168, 'Duplicate': 206, 'Done-Errata': 262, "Won't Do": 196, 'Not a Bug': 62, "Can't Do": 19, 'Cannot Reproduce': 15, 'MirrorOrphan': 1, 'Test Pending': 2, 'Declined': 3}
+Statuses: {'Backlog': 342, 'New': 672, 'Closed': 3529, 'Code Review': 21, 'In Progress': 284, 'Refinement': 237, 'Review': 64, 'Dev Complete': 67, 'Tasking and Estimation': 8, 'Resolved': 17, 'Testing': 22, 'To Do': 15, 'Verified': 56, 'Release Pending': 1}
+
+Average Lead Time (all PBIs): 145.3 days
+Average Lead Time (Bug): 101.2 days
+Average Lead Time (Story): 133.6 days
+Average Lead Time (Epic): 358.6 days
+Average Lead Time (Task): 58.3 days
+Average Lead Time (Spike): 122.4 days
+Average Lead Time (Feature): 244.2 days
+Average Lead Time (Outcome): 78.0 days
+Average Lead Time (Ticket): 48.8 days
+Average Lead Time (Feature Request): 21.3 days
+Average Lead Time (Enhancement): 45.0 days
+Average Lead Time (Change Request): 0.0 days
+Average Lead Time (Requirement): 0.0 days
+Average Lead Time (Release tracker): 187.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-08-07 15:51:00 End date: 2024-11-15 15:51:00
+System: {'OSPRH': 1976}
+Types: {'Task': 332, 'Feature Request': 20, 'Bug': 560, 'Spike': 104, 'Feature': 74, 'Outcome': 17, 'Story': 386, 'Epic': 472, 'Enhancement': 4, 'Ticket': 6, 'Incident': 1}
+Resolutions: {'': 843, 'Done': 675, 'Obsolete': 48, 'Duplicate': 53, 'Done-Errata': 251, "Won't Do": 74, 'Not a Bug': 21, "Can't Do": 6, 'Cannot Reproduce': 2, 'Declined': 3}
+Statuses: {'Backlog': 124, 'New': 401, 'Closed': 1096, 'Code Review': 14, 'In Progress': 147, 'Refinement': 87, 'Review': 33, 'Dev Complete': 23, 'Tasking and Estimation': 5, 'Resolved': 10, 'Testing': 3, 'To Do': 6, 'Verified': 26, 'Release Pending': 1}
+
+Average Lead Time (all PBIs): 206.1 days
+Average Lead Time (Bug): 107.9 days
+Average Lead Time (Story): 179.3 days
+Average Lead Time (Epic): 475.9 days
+Average Lead Time (Task): 89.5 days
+Average Lead Time (Spike): 115.4 days
+Average Lead Time (Feature): 381.0 days
+Average Lead Time (Outcome): 282.0 days
+Average Lead Time (Ticket): 94.5 days
+Average Lead Time (Feature Request): 27.7 days
+Average Lead Time (Enhancement): 45.0 days

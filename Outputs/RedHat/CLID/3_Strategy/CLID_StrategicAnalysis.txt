@@ -1,0 +1,73 @@
+
+System Name: CLID
+System Duration (Captured): 1161 days
+
+Calculated Final System Size: 66 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 66 PBIs
+
+Model Final System Size: 45 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 45 PBIs
+
+% Error, Final backlog, model vs actual: 32.0%
+Error, Final backlog, model vs actual: -21 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 163 PBIs
+Total Unplanned Arrivals: 3 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 9 PBIs
+Total Net Arrivals: 157 PBIs
+Total Services: 91 PBIs
+
+Rates:
+Planned Arrival Rate: 0.282 PBIs/day
+Unplanned Arrival Rate: 0.014 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.038 PBIs/day
+Net Arrival Rate: 0.258 PBIs/day
+Service Rate: 0.318 PBIs/day
+
+
+Metrics:
+Stability: 1.233
+Quality: 0.953
+Control: 0.872
+Inventory Days: 207.547 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 98 days
+
+Calculated Final System Size: 66 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 66 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 36 PBIs
+Unplanned Arrivals in this period: 0 PBIs
+Cancelled/Rejected/Won't Do  in this period: 3 PBIs
+System size change in this period: -4 PBIs
+Net Arrivals in this period: 33 PBIs
+Services in this period: 35 PBIs
+
+Rates:
+Planned Arrival Rate: 0.374 PBIs/day
+Unplanned Arrival Rate: NaN PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.023 PBIs/day
+Net Arrival Rate: 0.35 PBIs/day
+Service Rate: 0.336 PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2023-09-28 19:13:00
+System: {'KIECLOUD': 579}
+Types: {'Bug': 162, 'Task': 237, 'Enhancement': 119, 'Component Upgrade': 7, 'Epic': 7, 'Feature Request': 40, 'Story': 1, 'Patch': 6}
+Resolutions: {'Done': 511, "Won't Do": 33, '': 2, 'Duplicate': 16, 'Not a Bug': 5, 'Obsolete': 9, 'Cannot Reproduce': 3}
+Statuses: {'Resolved': 84, 'Closed': 493, 'Open': 2}
+
+Average Lead Time (all PBIs): 64.2 days
+Average Lead Time (Bug): 41.6 days
+Average Lead Time (Task): 60.0 days
+Average Lead Time (Enhancement): 103.2 days
+Average Lead Time (Component Upgrade): 26.4 days
+Average Lead Time (Epic): 249.6 days
+Average Lead Time (Feature Request): 41.6 days
+Average Lead Time (Story): 189.0 days
+Average Lead Time (Patch): 28.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2023-06-20 19:13:00 End date: 2023-09-28 19:13:00
+System: {'KIECLOUD': 14}
+Types: {'Bug': 4, 'Task': 8, 'Enhancement': 2}
+Resolutions: {'Done': 11, "Won't Do": 3}
+Statuses: {'Resolved': 11, 'Closed': 3}
+
+Average Lead Time (all PBIs): 98.9 days
+Average Lead Time (Bug): 4.5 days
+Average Lead Time (Task): 25.8 days
+Average Lead Time (Enhancement): 580.0 days

@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-09-16 10:49:00
+System: {'MSC': 327}
+Types: {'Bug': 113, 'Feature Request': 25, 'Task': 61, 'Enhancement': 125, 'Component Upgrade': 3}
+Resolutions: {'Done': 298, 'Obsolete': 2, "Won't Do": 12, 'Duplicate': 4, '': 8, 'Cannot Reproduce': 2, 'Not a Bug': 1}
+Statuses: {'Closed': 63, 'Resolved': 256, 'Open': 7, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 82.5 days
+Average Lead Time (Bug): 134.1 days
+Average Lead Time (Feature Request): 62.6 days
+Average Lead Time (Task): 91.4 days
+Average Lead Time (Enhancement): 36.5 days
+Average Lead Time (Component Upgrade): 4.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-06-08 10:49:00 End date: 2024-09-16 10:49:00
+System: {'MSC': 1}
+Types: {'Bug': 1}
+Resolutions: {'Not a Bug': 1}
+Statuses: {'Resolved': 1}
+
+Average Lead Time (all PBIs): 117.0 days
+Average Lead Time (Bug): 117.0 days

@@ -1,0 +1,73 @@
+
+System Name: OCPBUGS
+System Duration (Captured): 1831 days
+
+Calculated Final System Size: 4201 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 4201 PBIs
+
+Model Final System Size: 3562 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 3562 PBIs
+
+% Error, Final backlog, model vs actual: 15.0%
+Error, Final backlog, model vs actual: -639 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 0 PBIs
+Total Unplanned Arrivals: 25361 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 5708 PBIs
+Total Net Arrivals: 19653 PBIs
+Total Services: 15452 PBIs
+
+Rates:
+Planned Arrival Rate: 0 PBIs/day
+Unplanned Arrival Rate: 27.427 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 7.431 PBIs/day
+Net Arrival Rate: 19.996 PBIs/day
+Service Rate: 20.306 PBIs/day
+
+
+Metrics:
+Stability: 1.016
+Quality: 0.0
+Control: 0.729
+Inventory Days: 206.885 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 4201 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 4201 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 0 PBIs
+Unplanned Arrivals in this period: 3290 PBIs
+Cancelled/Rejected/Won't Do  in this period: 741 PBIs
+System size change in this period: 318 PBIs
+Net Arrivals in this period: 2549 PBIs
+Services in this period: 2229 PBIs
+
+Rates:
+Planned Arrival Rate: NaN PBIs/day
+Unplanned Arrival Rate: 34.132 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 7.869 PBIs/day
+Net Arrival Rate: 26.043 PBIs/day
+Service Rate: 26.771 PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

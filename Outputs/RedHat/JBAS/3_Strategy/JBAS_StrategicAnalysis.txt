@@ -1,0 +1,73 @@
+
+System Name: JBAS
+System Duration (Captured): 8223 days
+
+Calculated Final System Size: 282 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 282 PBIs
+
+Model Final System Size: 334 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 334 PBIs
+
+% Error, Final backlog, model vs actual: 18.0%
+Error, Final backlog, model vs actual: 52 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 2518 PBIs
+Total Unplanned Arrivals: 4317 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 2546 PBIs
+Total Net Arrivals: 4289 PBIs
+Total Services: 4007 PBIs
+
+Rates:
+Planned Arrival Rate: 0.912 PBIs/day
+Unplanned Arrival Rate: 1.3 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.725 PBIs/day
+Net Arrival Rate: 1.487 PBIs/day
+Service Rate: 1.548 PBIs/day
+
+
+Metrics:
+Stability: 1.041
+Quality: 0.412
+Control: 0.672
+Inventory Days: 182.171 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 0 days
+
+Calculated Final System Size: 282 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 282 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 0 PBIs
+Unplanned Arrivals in this period: 0 PBIs
+Cancelled/Rejected/Won't Do  in this period: 0 PBIs
+System size change in this period: 0 PBIs
+Net Arrivals in this period: 0 PBIs
+Services in this period: 0 PBIs
+
+Rates:
+Planned Arrival Rate: NaN PBIs/day
+Unplanned Arrival Rate: NaN PBIs/day
+Cancelled/Rejected/Won't Do Rate: NaN PBIs/day
+Net Arrival Rate: NaN PBIs/day
+Service Rate: NaN PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

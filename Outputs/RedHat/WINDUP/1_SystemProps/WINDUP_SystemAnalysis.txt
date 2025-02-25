@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-10-09 06:52:00
+System: {'WINDUP': 3596}
+Types: {'Task': 1010, 'Epic': 127, 'Bug': 1348, 'Feature Request': 24, 'Story': 1087}
+Resolutions: {'Done': 2385, '': 654, 'Done-Errata': 10, 'Duplicate': 93, "Won't Do": 174, 'Obsolete': 198, 'Not a Bug': 26, "Can't Do": 19, 'Cannot Reproduce': 37}
+Statuses: {'Closed': 2192, 'Dev Complete': 434, 'New': 587, 'Release Pending': 37, 'In Progress': 110, 'MODIFIED': 195, 'Verified': 28, 'To Do': 2, 'POST': 2, 'Testing': 3, 'ASSIGNED': 3, 'Planning': 3}
+
+Average Lead Time (all PBIs): 129.6 days
+Average Lead Time (Task): 102.9 days
+Average Lead Time (Epic): 237.4 days
+Average Lead Time (Bug): 98.8 days
+Average Lead Time (Feature Request): 108.2 days
+Average Lead Time (Story): 190.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-07-01 06:52:00 End date: 2024-10-09 06:52:00
+System: {'WINDUP': 20}
+Types: {'Task': 18, 'Epic': 1, 'Bug': 1}
+Resolutions: {'Done': 15, '': 4, 'Done-Errata': 1}
+Statuses: {'Closed': 16, 'Dev Complete': 1, 'New': 3}
+
+Average Lead Time (all PBIs): 37.1 days
+Average Lead Time (Task): 32.9 days
+Average Lead Time (Epic): 67.0 days
+Average Lead Time (Bug): 65.0 days

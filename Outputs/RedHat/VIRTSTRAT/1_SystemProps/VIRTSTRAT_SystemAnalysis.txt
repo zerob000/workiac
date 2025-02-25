@@ -1,0 +1,21 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-14 17:52:00
+System: {'VIRTSTRAT': 44}
+Types: {'Outcome': 19, 'Feature': 25}
+Resolutions: {'': 43, 'Duplicate': 1}
+Statuses: {'New': 28, 'In Progress': 14, 'Closed': 1, 'Refinement': 1}
+
+Average Lead Time (all PBIs): 54.0 days
+Average Lead Time (Feature): 54.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-08-06 17:52:00 End date: 2024-11-14 17:52:00
+System: {'VIRTSTRAT': 42}
+Types: {'Outcome': 19, 'Feature': 23}
+Resolutions: {'': 41, 'Duplicate': 1}
+Statuses: {'New': 27, 'In Progress': 14, 'Closed': 1}
+
+Average Lead Time (all PBIs): 54.0 days
+Average Lead Time (Feature): 54.0 days

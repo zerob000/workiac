@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-13 15:31:00
+System: {'OSASINFRA': 1209}
+Types: {'Task': 774, 'Epic': 130, 'Story': 249, 'Bug': 21, 'Spike': 35}
+Resolutions: {'Done': 820, "Won't Do": 135, 'Obsolete': 96, "Can't Do": 2, '': 123, 'Duplicate': 27, 'Not a Bug': 3, 'Cannot Reproduce': 3}
+Statuses: {'Closed': 1083, 'To Do': 72, 'In Progress': 21, 'New': 17, 'Code Review': 4, 'Dev Complete': 6, 'Review': 1, 'Testing': 1, 'Release Pending': 3, 'Planning': 1}
+
+Average Lead Time (all PBIs): 130.5 days
+Average Lead Time (Task): 96.0 days
+Average Lead Time (Epic): 286.9 days
+Average Lead Time (Story): 182.3 days
+Average Lead Time (Bug): 39.3 days
+Average Lead Time (Spike): 144.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-08-05 15:31:00 End date: 2024-11-13 15:31:00
+System: {'OSASINFRA': 147}
+Types: {'Task': 96, 'Story': 30, 'Epic': 8, 'Spike': 9, 'Bug': 4}
+Resolutions: {"Won't Do": 23, '': 49, 'Not a Bug': 1, 'Done': 69, 'Duplicate': 2, 'Obsolete': 3}
+Statuses: {'Closed': 98, 'To Do': 27, 'In Progress': 12, 'New': 4, 'Code Review': 4, 'Review': 1, 'Testing': 1}
+
+Average Lead Time (all PBIs): 132.4 days
+Average Lead Time (Task): 103.2 days
+Average Lead Time (Story): 352.8 days
+Average Lead Time (Spike): 157.2 days
+Average Lead Time (Bug): 101.8 days
+Average Lead Time (Epic): 124.5 days

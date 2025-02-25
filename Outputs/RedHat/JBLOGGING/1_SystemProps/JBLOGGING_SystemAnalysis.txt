@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-09-09 15:25:00
+System: {'JBLOGGING': 132}
+Types: {'Component Upgrade': 18, 'Bug': 50, 'Feature Request': 29, 'Task': 19, 'Enhancement': 14, 'Patch': 1, 'Release': 1}
+Resolutions: {'Done': 93, 'Duplicate': 3, 'Obsolete': 12, "Won't Do": 16, 'Not a Bug': 2, "Can't Do": 3, '': 3}
+Statuses: {'Resolved': 77, 'Closed': 52, 'Open': 3}
+
+Average Lead Time (all PBIs): 200.8 days
+Average Lead Time (Component Upgrade): 101.9 days
+Average Lead Time (Bug): 157.2 days
+Average Lead Time (Feature Request): 353.3 days
+Average Lead Time (Task): 71.4 days
+Average Lead Time (Enhancement): 395.5 days
+Average Lead Time (Patch): 208.0 days
+Average Lead Time (Release): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-06-01 15:25:00 End date: 2024-09-09 15:25:00
+System: {'JBLOGGING': 4}
+Types: {'Component Upgrade': 1, 'Bug': 2, 'Feature Request': 1}
+Resolutions: {'Done': 2, 'Duplicate': 1, 'Not a Bug': 1}
+Statuses: {'Resolved': 2, 'Closed': 2}
+
+Average Lead Time (all PBIs): 253.2 days
+Average Lead Time (Component Upgrade): 0.0 days
+Average Lead Time (Bug): 480.0 days
+Average Lead Time (Feature Request): 53.0 days

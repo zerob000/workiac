@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-02-26 09:30:00
+System: {'WFTC': 126}
+Types: {'Bug': 55, 'Feature Request': 5, 'Task': 31, 'Component Upgrade': 9, 'Enhancement': 26}
+Resolutions: {'Done': 100, "Won't Do": 5, '': 16, 'Duplicate': 2, 'Not a Bug': 1, 'Obsolete': 2}
+Statuses: {'Resolved': 103, 'Closed': 7, 'Pull Request Sent': 3, 'Open': 13}
+
+Average Lead Time (all PBIs): 37.2 days
+Average Lead Time (Bug): 54.7 days
+Average Lead Time (Feature Request): 3.0 days
+Average Lead Time (Task): 21.5 days
+Average Lead Time (Component Upgrade): 3.9 days
+Average Lead Time (Enhancement): 31.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2023-11-18 09:30:00 End date: 2024-02-26 09:30:00
+System: {'WFTC': 3}
+Types: {'Bug': 2, 'Feature Request': 1}
+Resolutions: {'Done': 2, "Won't Do": 1}
+Statuses: {'Resolved': 2, 'Closed': 1}
+
+Average Lead Time (all PBIs): 15.0 days
+Average Lead Time (Bug): 22.5 days
+Average Lead Time (Feature Request): 0.0 days

@@ -1,0 +1,73 @@
+
+System Name: SWATCH
+System Duration (Captured): 1477 days
+
+Calculated Final System Size: 179 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 179 PBIs
+
+Model Final System Size: 135 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 135 PBIs
+
+% Error, Final backlog, model vs actual: 25.0%
+Error, Final backlog, model vs actual: -44 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 732 PBIs
+Total Unplanned Arrivals: 148 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 116 PBIs
+Total Net Arrivals: 764 PBIs
+Total Services: 585 PBIs
+
+Rates:
+Planned Arrival Rate: 0.877 PBIs/day
+Unplanned Arrival Rate: 0.168 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.171 PBIs/day
+Net Arrival Rate: 0.874 PBIs/day
+Service Rate: 0.835 PBIs/day
+
+
+Metrics:
+Stability: 0.955
+Quality: 0.839
+Control: 0.836
+Inventory Days: 214.371 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 179 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 179 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 95 PBIs
+Unplanned Arrivals in this period: 24 PBIs
+Cancelled/Rejected/Won't Do  in this period: 10 PBIs
+System size change in this period: 42 PBIs
+Net Arrivals in this period: 109 PBIs
+Services in this period: 66 PBIs
+
+Rates:
+Planned Arrival Rate: 0.889 PBIs/day
+Unplanned Arrival Rate: 0.264 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.14 PBIs/day
+Net Arrival Rate: 1.027 PBIs/day
+Service Rate: 0.806 PBIs/day
+
+Metrics:
+Stability: 0.796
+Quality: 0.771
+Control: 0.879
+Inventory Days: 222.084 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

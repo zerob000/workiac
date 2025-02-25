@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-01 11:49:00
+System: {'HAWNG': 261}
+Types: {'Bug': 20, 'Story': 127, 'Risk': 4, 'Task': 110}
+Resolutions: {'Not a Bug': 3, "Won't Do": 3, 'Done': 39, '': 15, 'Cannot Reproduce': 1, 'Duplicate': 199, 'Obsolete': 1}
+Statuses: {'Closed': 246, 'New': 1, 'In Progress': 6, 'Review': 1, 'To Do': 2, 'Backlog': 5}
+
+Average Lead Time (all PBIs): 126.5 days
+Average Lead Time (Bug): 32.4 days
+Average Lead Time (Story): 174.1 days
+Average Lead Time (Risk): 88.5 days
+Average Lead Time (Task): 88.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-07-24 11:49:00 End date: 2024-11-01 11:49:00
+System: {'HAWNG': 17}
+Types: {'Bug': 10, 'Story': 5, 'Task': 2}
+Resolutions: {'Not a Bug': 2, "Won't Do": 2, 'Done': 8, '': 3, 'Cannot Reproduce': 1, 'Obsolete': 1}
+Statuses: {'Closed': 14, 'New': 1, 'In Progress': 2}
+
+Average Lead Time (all PBIs): 96.9 days
+Average Lead Time (Bug): 35.3 days
+Average Lead Time (Story): 70.3 days
+Average Lead Time (Task): 413.5 days

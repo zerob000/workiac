@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-10 12:05:00
+System: {'CPE': 1247}
+Types: {'Story': 1245, 'Task': 2}
+Resolutions: {'Done': 1070, '': 177}
+Statuses: {'Done': 1068, 'In Progress': 57, 'New': 111, 'Blocked': 7, 'To Do': 2, 'Closed': 1, 'Dropped': 1}
+
+Average Lead Time (all PBIs): 24.0 days
+Average Lead Time (Story): 24.0 days
+Average Lead Time (Task): 75.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-08-02 12:05:00 End date: 2024-11-10 12:05:00
+System: {'CPE': 446}
+Types: {'Story': 445, 'Task': 1}
+Resolutions: {'Done': 378, '': 68}
+Statuses: {'Done': 377, 'In Progress': 21, 'New': 43, 'Blocked': 3, 'To Do': 1, 'Closed': 1}
+
+Average Lead Time (all PBIs): 30.2 days
+Average Lead Time (Story): 30.1 days
+Average Lead Time (Task): 75.0 days

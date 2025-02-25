@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-06-20 13:50:00
+System: {'ENTMQIC': 690}
+Types: {'Bug': 214, 'Story': 113, 'Task': 363}
+Resolutions: {"Won't Do": 44, 'Obsolete': 4, 'Cannot Reproduce': 5, 'Done': 560, 'Not a Bug': 2, '': 67, 'Duplicate': 4, 'Done-Errata': 4}
+Statuses: {'Closed': 623, 'New': 54, 'Review': 4, 'Backlog': 6, 'In Progress': 2, 'To Do': 1}
+
+Average Lead Time (all PBIs): 196.7 days
+Average Lead Time (Bug): 203.6 days
+Average Lead Time (Story): 156.8 days
+Average Lead Time (Task): 204.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-03-12 13:50:00 End date: 2024-06-20 13:50:00
+System: {'ENTMQIC': 3}
+Types: {'Story': 1, 'Task': 2}
+Resolutions: {'Done': 2, 'Obsolete': 1}
+Statuses: {'Closed': 3}
+
+Average Lead Time (all PBIs): 765.3 days
+Average Lead Time (Story): 1197.0 days
+Average Lead Time (Task): 549.5 days

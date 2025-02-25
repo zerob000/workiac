@@ -1,0 +1,73 @@
+
+System Name: OKD
+System Duration (Captured): 962 days
+
+Calculated Final System Size: 49 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 49 PBIs
+
+Model Final System Size: 107 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 107 PBIs
+
+% Error, Final backlog, model vs actual: 118.0%
+Error, Final backlog, model vs actual: 58 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 163 PBIs
+Total Unplanned Arrivals: 20 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 28 PBIs
+Total Net Arrivals: 155 PBIs
+Total Services: 106 PBIs
+
+Rates:
+Planned Arrival Rate: 0.249 PBIs/day
+Unplanned Arrival Rate: 0.018 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.043 PBIs/day
+Net Arrival Rate: 0.224 PBIs/day
+Service Rate: 0.12 PBIs/day
+
+
+Metrics:
+Stability: 0.536
+Quality: 0.933
+Control: 0.839
+Inventory Days: 408.333 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 79 days
+
+Calculated Final System Size: 49 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 49 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 0 PBIs
+Unplanned Arrivals in this period: 4 PBIs
+Cancelled/Rejected/Won't Do  in this period: 2 PBIs
+System size change in this period: -9 PBIs
+Net Arrivals in this period: 2 PBIs
+Services in this period: 11 PBIs
+
+Rates:
+Planned Arrival Rate: NaN PBIs/day
+Unplanned Arrival Rate: 0.043 PBIs/day
+Cancelled/Rejected/Won't Do Rate: NaN PBIs/day
+Net Arrival Rate: 0.048 PBIs/day
+Service Rate: 0.082 PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

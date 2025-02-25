@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-14 10:52:00
+System: {'WFCORE': 6002}
+Types: {'Component Upgrade': 1151, 'Enhancement': 707, 'Task': 925, 'Bug': 2711, 'Feature Request': 508}
+Resolutions: {'': 588, 'Done': 4797, "Won't Do": 274, 'Duplicate': 163, 'Not a Bug': 24, 'Cannot Reproduce': 30, 'Obsolete': 124, "Can't Do": 2}
+Statuses: {'Pull Request Sent': 58, 'Open': 501, 'Resolved': 3720, 'Coding In Progress': 16, 'Closed': 1694, 'Reopened': 13}
+
+Average Lead Time (all PBIs): 116.6 days
+Average Lead Time (Enhancement): 178.9 days
+Average Lead Time (Task): 122.5 days
+Average Lead Time (Component Upgrade): 16.9 days
+Average Lead Time (Bug): 103.9 days
+Average Lead Time (Feature Request): 431.4 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-08-06 10:52:00 End date: 2024-11-14 10:52:00
+System: {'WFCORE': 112}
+Types: {'Component Upgrade': 29, 'Enhancement': 16, 'Task': 24, 'Bug': 34, 'Feature Request': 9}
+Resolutions: {'': 27, 'Done': 75, "Won't Do": 7, 'Duplicate': 2, 'Cannot Reproduce': 1}
+Statuses: {'Pull Request Sent': 12, 'Open': 14, 'Resolved': 76, 'Coding In Progress': 1, 'Closed': 9}
+
+Average Lead Time (all PBIs): 134.8 days
+Average Lead Time (Enhancement): 196.8 days
+Average Lead Time (Task): 147.3 days
+Average Lead Time (Component Upgrade): 29.7 days
+Average Lead Time (Bug): 213.4 days
+Average Lead Time (Feature Request): 43.2 days

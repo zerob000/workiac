@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-10-23 19:24:00
+System: {'AAH': 1697}
+Types: {'Task': 1064, 'Bug': 497, 'Story': 134, 'Spike': 2}
+Resolutions: {'Done': 1347, 'Obsolete': 261, 'Cannot Reproduce': 8, "Won't Do": 33, 'Done-Errata': 12, 'Duplicate': 22, 'Not a Bug': 8, "Can't Do": 2, '': 4}
+Statuses: {'Closed': 1686, 'Release Pending': 7, 'Backlog': 4}
+
+Average Lead Time (all PBIs): 138.8 days
+Average Lead Time (Task): 155.5 days
+Average Lead Time (Bug): 97.5 days
+Average Lead Time (Story): 149.2 days
+Average Lead Time (Spike): 454.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-07-15 19:24:00 End date: 2024-10-23 19:24:00
+System: {'AAH': 35}
+Types: {'Bug': 6, 'Task': 23, 'Spike': 2, 'Story': 4}
+Resolutions: {'Obsolete': 11, "Won't Do": 5, 'Done': 14, 'Duplicate': 5}
+Statuses: {'Closed': 34, 'Release Pending': 1}
+
+Average Lead Time (all PBIs): 486.2 days
+Average Lead Time (Bug): 567.8 days
+Average Lead Time (Task): 477.6 days
+Average Lead Time (Spike): 454.5 days
+Average Lead Time (Story): 428.8 days

@@ -1,0 +1,73 @@
+
+System Name: MTV
+System Duration (Captured): 1531 days
+
+Calculated Final System Size: 243 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 243 PBIs
+
+Model Final System Size: 232 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 232 PBIs
+
+% Error, Final backlog, model vs actual: 5.0%
+Error, Final backlog, model vs actual: -11 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 862 PBIs
+Total Unplanned Arrivals: 339 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 126 PBIs
+Total Net Arrivals: 1075 PBIs
+Total Services: 832 PBIs
+
+Rates:
+Planned Arrival Rate: 0.599 PBIs/day
+Unplanned Arrival Rate: 0.429 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.249 PBIs/day
+Net Arrival Rate: 0.779 PBIs/day
+Service Rate: 0.613 PBIs/day
+
+
+Metrics:
+Stability: 0.787
+Quality: 0.583
+Control: 0.758
+Inventory Days: 396.411 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 97 days
+
+Calculated Final System Size: 243 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 243 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 98 PBIs
+Unplanned Arrivals in this period: 90 PBIs
+Cancelled/Rejected/Won't Do  in this period: 22 PBIs
+System size change in this period: 20 PBIs
+Net Arrivals in this period: 166 PBIs
+Services in this period: 145 PBIs
+
+Rates:
+Planned Arrival Rate: 1.026 PBIs/day
+Unplanned Arrival Rate: 1.035 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.259 PBIs/day
+Net Arrival Rate: 1.808 PBIs/day
+Service Rate: 2.117 PBIs/day
+
+Metrics:
+Stability: 1.175
+Quality: 0.498
+Control: 0.874
+Inventory Days: 114.785 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

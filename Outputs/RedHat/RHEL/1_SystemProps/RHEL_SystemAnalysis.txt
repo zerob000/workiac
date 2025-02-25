@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-15 09:35:00
+System: {'RHEL': 12378}
+Types: {'Bug': 9407, 'Story': 2364, 'Epic': 328, 'Task': 279}
+Resolutions: {'': 6179, 'Done': 1324, 'Done-Errata': 2483, "Won't Do": 894, 'Not a Bug': 576, 'Obsolete': 181, 'MirrorOrphan': 3, 'Duplicate': 492, 'Cannot Reproduce': 136, "Can't Do": 108, 'Test Pending': 2}
+Statuses: {'In Progress': 636, 'Closed': 6202, 'New': 1655, 'Planning': 2159, 'Release Pending': 1485, 'Integration': 220, 'Refinement': 21}
+
+Average Lead Time (all PBIs): 134.6 days
+Average Lead Time (Bug): 127.7 days
+Average Lead Time (Story): 165.0 days
+Average Lead Time (Epic): 237.6 days
+Average Lead Time (Task): 52.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-08-07 09:35:00 End date: 2024-11-15 09:35:00
+System: {'RHEL': 3799}
+Types: {'Bug': 2837, 'Story': 719, 'Epic': 114, 'Task': 129}
+Resolutions: {'Done-Errata': 942, 'Done': 378, "Won't Do": 238, 'Not a Bug': 166, 'Duplicate': 125, 'Cannot Reproduce': 30, 'Obsolete': 59, "Can't Do": 34, '': 1827}
+Statuses: {'Closed': 1972, 'Planning': 499, 'Release Pending': 340, 'In Progress': 313, 'New': 514, 'Integration': 152, 'Refinement': 9}
+
+Average Lead Time (all PBIs): 180.1 days
+Average Lead Time (Bug): 176.9 days
+Average Lead Time (Story): 210.7 days
+Average Lead Time (Epic): 251.2 days
+Average Lead Time (Task): 35.0 days

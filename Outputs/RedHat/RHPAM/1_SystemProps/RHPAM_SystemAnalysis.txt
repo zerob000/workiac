@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-13 16:19:00
+System: {'RHPAM': 3276}
+Types: {'Bug': 2560, 'Enhancement': 319, 'Task': 269, 'Feature Request': 73, 'Component Upgrade': 14, 'Requirement': 15, 'Support Patch': 26}
+Resolutions: {'Done': 2146, 'Obsolete': 412, 'Cannot Reproduce': 81, 'Duplicate': 157, "Won't Do": 272, 'Not a Bug': 85, '': 108, "Can't Do": 5, 'Done-Errata': 10}
+Statuses: {'Closed': 3143, 'New': 80, 'ON_QA': 26, 'Backlog': 16, 'Release Pending': 8, 'ON_DEV': 1, 'In Progress': 2}
+
+Average Lead Time (all PBIs): 201.8 days
+Average Lead Time (Bug): 194.8 days
+Average Lead Time (Enhancement): 306.3 days
+Average Lead Time (Task): 102.7 days
+Average Lead Time (Feature Request): 417.5 days
+Average Lead Time (Component Upgrade): 101.8 days
+Average Lead Time (Requirement): 180.1 days
+Average Lead Time (Support Patch): 93.4 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-08-05 16:19:00 End date: 2024-11-13 16:19:00
+System: {'RHPAM': 5}
+Types: {'Support Patch': 1, 'Task': 3, 'Enhancement': 1}
+Resolutions: {'Done': 1, 'Done-Errata': 1, '': 3}
+Statuses: {'Release Pending': 1, 'Closed': 1, 'ON_QA': 1, 'New': 1, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 48.0 days
+Average Lead Time (Support Patch): 33.0 days
+Average Lead Time (Task): 63.0 days

@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-10 11:50:00
+System: {'FLPATH': 1518}
+Types: {'Story': 891, 'Bug': 409, 'Task': 217, 'Initiative': 1}
+Resolutions: {'': 238, 'Done': 983, "Won't Do": 178, 'Duplicate': 38, 'Not a Bug': 26, 'Cannot Reproduce': 5, 'Obsolete': 43, "Can't Do": 5, 'Done-Errata': 2}
+Statuses: {'New': 108, 'Code Review': 8, 'In Progress': 27, 'Release Pending': 22, 'Closed': 1258, 'ON_QA': 69, 'Backlog': 11, 'ON_DEV': 4, 'Refinement': 11}
+
+Average Lead Time (all PBIs): 82.3 days
+Average Lead Time (Bug): 26.7 days
+Average Lead Time (Story): 110.1 days
+Average Lead Time (Task): 73.3 days
+Average Lead Time (Initiative): 22.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-08-02 11:50:00 End date: 2024-11-10 11:50:00
+System: {'FLPATH': 441}
+Types: {'Story': 255, 'Bug': 117, 'Task': 69}
+Resolutions: {'': 142, 'Done': 177, "Won't Do": 113, 'Duplicate': 4, 'Not a Bug': 3, 'Cannot Reproduce': 1, 'Obsolete': 1}
+Statuses: {'New': 59, 'Code Review': 7, 'In Progress': 22, 'Release Pending': 18, 'Closed': 281, 'ON_QA': 44, 'Backlog': 6, 'ON_DEV': 3, 'Refinement': 1}
+
+Average Lead Time (all PBIs): 201.7 days
+Average Lead Time (Bug): 23.7 days
+Average Lead Time (Story): 293.1 days
+Average Lead Time (Task): 148.2 days

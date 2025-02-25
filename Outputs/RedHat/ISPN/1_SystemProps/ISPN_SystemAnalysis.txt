@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-08 20:44:00
+System: {'ISPN': 15138}
+Types: {'Bug': 7429, 'Enhancement': 4606, 'Component Upgrade': 1338, 'Task': 1765}
+Resolutions: {'Done': 10822, 'Obsolete': 1493, 'Duplicate': 555, "Won't Do": 647, '': 1465, 'Not a Bug': 52, "Can't Do": 10, 'Cannot Reproduce': 94}
+Statuses: {'Closed': 11383, 'Resolved': 2289, 'New': 1104, 'To Do': 283, 'In Progress': 20, 'Code Review': 57, 'Review': 1, 'Release Pending': 1}
+
+Average Lead Time (all PBIs): 267.0 days
+Average Lead Time (Bug): 271.6 days
+Average Lead Time (Enhancement): 315.9 days
+Average Lead Time (Component Upgrade): 33.7 days
+Average Lead Time (Task): 325.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-07-31 20:44:00 End date: 2024-11-08 20:44:00
+System: {'ISPN': 793}
+Types: {'Enhancement': 207, 'Task': 78, 'Bug': 315, 'Component Upgrade': 193}
+Resolutions: {'Obsolete': 163, "Won't Do": 30, 'Done': 320, 'Duplicate': 54, '': 222, 'Not a Bug': 3, 'Cannot Reproduce': 1}
+Statuses: {'Closed': 296, 'Resolved': 275, 'New': 197, 'Code Review': 23, 'In Progress': 2}
+
+Average Lead Time (all PBIs): 573.3 days
+Average Lead Time (Enhancement): 1371.7 days
+Average Lead Time (Task): 557.2 days
+Average Lead Time (Component Upgrade): 83.7 days
+Average Lead Time (Bug): 198.8 days

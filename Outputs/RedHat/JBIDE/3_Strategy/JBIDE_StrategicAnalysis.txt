@@ -1,0 +1,73 @@
+
+System Name: JBIDE
+System Duration (Captured): 7958 days
+
+Calculated Final System Size: 1148 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 1148 PBIs
+
+Model Final System Size: 3193 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 3193 PBIs
+
+% Error, Final backlog, model vs actual: 178.0%
+Error, Final backlog, model vs actual: 2045 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 9471 PBIs
+Total Unplanned Arrivals: 15419 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 4967 PBIs
+Total Net Arrivals: 19923 PBIs
+Total Services: 18775 PBIs
+
+Rates:
+Planned Arrival Rate: 1.711 PBIs/day
+Unplanned Arrival Rate: 3.408 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.956 PBIs/day
+Net Arrival Rate: 4.163 PBIs/day
+Service Rate: 3.714 PBIs/day
+
+
+Metrics:
+Stability: 0.892
+Quality: 0.334
+Control: 0.813
+Inventory Days: 309.101 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 1148 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 1148 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 9 PBIs
+Unplanned Arrivals in this period: 2 PBIs
+Cancelled/Rejected/Won't Do  in this period: 3 PBIs
+System size change in this period: 2 PBIs
+Net Arrivals in this period: 8 PBIs
+Services in this period: 7 PBIs
+
+Rates:
+Planned Arrival Rate: 0.084 PBIs/day
+Unplanned Arrival Rate: 0.077 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.172 PBIs/day
+Net Arrival Rate: 0.088 PBIs/day
+Service Rate: 0.147 PBIs/day
+
+Metrics:
+Stability: -13.364
+Quality: 0.522
+Control: -0.068
+Inventory Days: 7809.524 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

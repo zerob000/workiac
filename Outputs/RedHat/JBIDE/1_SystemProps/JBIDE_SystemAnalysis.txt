@@ -1,0 +1,32 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-14 18:27:00
+System: {'JBIDE': 24947}
+Types: {'Feature Request': 4072, 'Task': 3718, 'Bug': 15408, 'Enhancement': 1601, 'Patch': 11, 'Component Upgrade': 68, 'Quality Risk': 9, 'Epic': 57, 'Release': 2, 'Story': 1}
+Resolutions: {"Won't Do": 1959, 'Done': 18804, 'Obsolete': 1123, 'Cannot Reproduce': 775, 'Duplicate': 1036, '': 1170, "Can't Do": 63, 'Not a Bug': 17}
+Statuses: {'Closed': 23400, 'Open': 1033, 'Resolved': 377, 'Reopened': 70, 'Pull Request Sent': 54, 'Coding In Progress': 13}
+
+Average Lead Time (all PBIs): 186.1 days
+Average Lead Time (Feature Request): 363.2 days
+Average Lead Time (Task): 83.9 days
+Average Lead Time (Bug): 162.4 days
+Average Lead Time (Enhancement): 212.3 days
+Average Lead Time (Patch): 416.2 days
+Average Lead Time (Component Upgrade): 26.4 days
+Average Lead Time (Quality Risk): 545.9 days
+Average Lead Time (Epic): 468.7 days
+Average Lead Time (Release): 808.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-08-06 18:27:00 End date: 2024-11-14 18:27:00
+System: {'JBIDE': 18}
+Types: {'Enhancement': 1, 'Bug': 4, 'Feature Request': 1, 'Task': 12}
+Resolutions: {"Won't Do": 4, 'Done': 8, '': 6}
+Statuses: {'Closed': 3, 'Resolved': 9, 'Pull Request Sent': 2, 'Open': 4}
+
+Average Lead Time (all PBIs): 43.3 days
+Average Lead Time (Enhancement): 455.0 days
+Average Lead Time (Bug): 16.5 days
+Average Lead Time (Feature Request): 10.0 days
+Average Lead Time (Task): 2.8 days

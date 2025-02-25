@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-11 20:15:00
+System: {'NE': 971}
+Types: {'Story': 702, 'Epic': 124, 'Task': 111, 'Spike': 27, 'Bug': 7}
+Resolutions: {'': 377, 'Done': 432, 'Duplicate': 7, 'Obsolete': 102, "Won't Do": 44, 'Done-Errata': 3, "Can't Do": 5, 'Cannot Reproduce': 1}
+Statuses: {'Code Review': 10, 'To Do': 290, 'In Progress': 25, 'New': 50, 'Closed': 594, 'Review': 2}
+
+Average Lead Time (all PBIs): 92.6 days
+Average Lead Time (Epic): 193.7 days
+Average Lead Time (Story): 86.4 days
+Average Lead Time (Spike): 178.4 days
+Average Lead Time (Task): 49.1 days
+Average Lead Time (Bug): 75.9 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-08-03 20:15:00 End date: 2024-11-11 20:15:00
+System: {'NE': 139}
+Types: {'Story': 111, 'Epic': 20, 'Task': 4, 'Spike': 4}
+Resolutions: {'': 82, 'Done': 33, 'Duplicate': 1, 'Obsolete': 16, "Won't Do": 6, 'Done-Errata': 1}
+Statuses: {'Code Review': 7, 'To Do': 58, 'In Progress': 11, 'New': 6, 'Closed': 57}
+
+Average Lead Time (all PBIs): 162.4 days
+Average Lead Time (Epic): 220.6 days
+Average Lead Time (Story): 115.3 days
+Average Lead Time (Task): 174.0 days
+Average Lead Time (Spike): 674.3 days

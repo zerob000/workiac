@@ -1,0 +1,73 @@
+
+System Name: FDP
+System Duration (Captured): 1816 days
+
+Calculated Final System Size: 331 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 331 PBIs
+
+Model Final System Size: 275 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 275 PBIs
+
+% Error, Final backlog, model vs actual: 17.0%
+Error, Final backlog, model vs actual: -56 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 205 PBIs
+Total Unplanned Arrivals: 555 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 111 PBIs
+Total Net Arrivals: 649 PBIs
+Total Services: 318 PBIs
+
+Rates:
+Planned Arrival Rate: 0.173 PBIs/day
+Unplanned Arrival Rate: 0.843 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.248 PBIs/day
+Net Arrival Rate: 0.768 PBIs/day
+Service Rate: 0.71 PBIs/day
+
+
+Metrics:
+Stability: 0.924
+Quality: 0.17
+Control: 0.756
+Inventory Days: 466.197 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 331 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 331 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 52 PBIs
+Unplanned Arrivals in this period: 100 PBIs
+Cancelled/Rejected/Won't Do  in this period: 78 PBIs
+System size change in this period: -22 PBIs
+Net Arrivals in this period: 74 PBIs
+Services in this period: 97 PBIs
+
+Rates:
+Planned Arrival Rate: 0.664 PBIs/day
+Unplanned Arrival Rate: 1.097 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.835 PBIs/day
+Net Arrival Rate: 0.906 PBIs/day
+Service Rate: 0.892 PBIs/day
+
+Metrics:
+Stability: 0.963
+Quality: 0.377
+Control: 0.526
+Inventory Days: 371.076 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

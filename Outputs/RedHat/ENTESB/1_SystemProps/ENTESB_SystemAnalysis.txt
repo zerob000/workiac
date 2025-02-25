@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-10-07 11:54:00
+System: {'ENTESB': 15610}
+Types: {'Feature': 2235, 'Bug': 9249, 'Task': 3854, 'Epic': 176, 'Component Upgrade': 95, 'Feature Request': 1}
+Resolutions: {"Won't Do": 2083, 'Done': 11482, 'Obsolete': 806, 'Not a Bug': 333, 'Duplicate': 577, 'Cannot Reproduce': 253, '': 20, "Can't Do": 56}
+Statuses: {'Closed': 11691, 'Done': 1657, 'Resolved': 2242, 'Open': 16, 'Release Backlog': 1, 'Development Next': 1, 'In Development': 1, 'Coding In Progress': 1}
+
+Average Lead Time (all PBIs): 108.0 days
+Average Lead Time (Feature): 232.8 days
+Average Lead Time (Bug): 93.3 days
+Average Lead Time (Task): 68.2 days
+Average Lead Time (Epic): 178.3 days
+Average Lead Time (Component Upgrade): 72.7 days
+Average Lead Time (Feature Request): 117.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-06-29 11:54:00 End date: 2024-10-07 11:54:00
+System: {'ENTESB': 28}
+Types: {'Bug': 4, 'Task': 18, 'Epic': 4, 'Feature': 2}
+Resolutions: {'Cannot Reproduce': 2, 'Done': 24, 'Not a Bug': 1, 'Obsolete': 1}
+Statuses: {'Closed': 15, 'Resolved': 13}
+
+Average Lead Time (all PBIs): 117.0 days
+Average Lead Time (Bug): 21.0 days
+Average Lead Time (Task): 99.6 days
+Average Lead Time (Epic): 275.0 days
+Average Lead Time (Feature): 150.5 days

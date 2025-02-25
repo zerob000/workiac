@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2022-12-16 15:23:00
+System: {'JBPAPP': 5339}
+Types: {'Bug': 3436, 'Component Upgrade': 89, 'Support Patch': 109, 'Task': 1215, 'Feature Request': 395, 'Enhancement': 75, 'Patch': 8, 'Quality Risk': 12}
+Resolutions: {'Done': 3967, "Won't Do": 576, 'Obsolete': 601, 'Duplicate': 139, 'Cannot Reproduce': 49, "Can't Do": 7}
+Statuses: {'Resolved': 1446, 'Closed': 3893}
+
+Average Lead Time (all PBIs): 291.6 days
+Average Lead Time (Bug): 303.3 days
+Average Lead Time (Component Upgrade): 226.6 days
+Average Lead Time (Support Patch): 326.0 days
+Average Lead Time (Task): 144.6 days
+Average Lead Time (Feature Request): 527.3 days
+Average Lead Time (Enhancement): 888.1 days
+Average Lead Time (Patch): 514.5 days
+Average Lead Time (Quality Risk): 340.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2022-09-07 15:23:00 End date: 2022-12-16 15:23:00
+System: {'JBPAPP': 1}
+Types: {'Feature Request': 1}
+Resolutions: {'Obsolete': 1}
+Statuses: {'Closed': 1}
+
+Average Lead Time (all PBIs): 87.0 days
+Average Lead Time (Feature Request): 87.0 days

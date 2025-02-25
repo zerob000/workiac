@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-08 11:27:00
+System: {'FDP': 760}
+Types: {'Bug': 555, 'Task': 114, 'Story': 37, 'Feature Request': 54}
+Resolutions: {'': 329, 'Not a Bug': 25, 'Obsolete': 57, 'Done': 158, 'Done-Errata': 162, 'Duplicate': 11, 'Cannot Reproduce': 2, "Won't Do": 14, "Can't Do": 2}
+Statuses: {'New': 122, 'Closed': 419, 'To Do': 37, 'Refinement': 10, 'Verified': 7, 'Testing': 41, 'In Progress': 19, 'Tasking and Estimation': 6, 'Code Review': 20, 'Dev Complete': 68, 'Release Pending': 2, 'Resolved': 4, 'Backlog': 4, 'Review': 1}
+
+Average Lead Time (all PBIs): 107.6 days
+Average Lead Time (Bug): 108.8 days
+Average Lead Time (Task): 73.0 days
+Average Lead Time (Feature Request): 199.3 days
+Average Lead Time (Story): 45.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-07-31 11:27:00 End date: 2024-11-08 11:27:00
+System: {'FDP': 283}
+Types: {'Bug': 210, 'Feature Request': 15, 'Task': 41, 'Story': 17}
+Resolutions: {'': 104, 'Not a Bug': 13, 'Obsolete': 56, 'Done': 44, 'Done-Errata': 56, 'Duplicate': 4, 'Cannot Reproduce': 2, "Won't Do": 3, "Can't Do": 1}
+Statuses: {'New': 32, 'Closed': 168, 'To Do': 21, 'Refinement': 6, 'Verified': 7, 'Testing': 21, 'In Progress': 7, 'Tasking and Estimation': 5, 'Code Review': 7, 'Dev Complete': 5, 'Release Pending': 2, 'Resolved': 2}
+
+Average Lead Time (all PBIs): 171.2 days
+Average Lead Time (Bug): 169.6 days
+Average Lead Time (Task): 91.6 days
+Average Lead Time (Feature Request): 368.6 days
+Average Lead Time (Story): 76.0 days

@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-12 11:38:00
+System: {'MGDAPI': 866}
+Types: {'Task': 659, 'Epic': 52, 'Spike': 77, 'Story': 3, 'Bug': 63, 'Enhancement': 12}
+Resolutions: {'': 145, 'Done': 585, "Can't Do": 1, "Won't Do": 86, 'Duplicate': 28, 'Cannot Reproduce': 5, 'Obsolete': 16}
+Statuses: {'New': 131, 'Closed': 722, 'Backlog': 5, 'In Progress': 5, 'Pull Request': 2, 'Dev Complete': 1}
+
+Average Lead Time (all PBIs): 76.3 days
+Average Lead Time (Task): 66.9 days
+Average Lead Time (Spike): 76.3 days
+Average Lead Time (Epic): 198.8 days
+Average Lead Time (Bug): 60.8 days
+Average Lead Time (Enhancement): 151.0 days
+Average Lead Time (Story): 314.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-08-04 11:38:00 End date: 2024-11-12 11:38:00
+System: {'MGDAPI': 32}
+Types: {'Task': 29, 'Epic': 2, 'Spike': 1}
+Resolutions: {'': 6, 'Done': 22, "Can't Do": 1, "Won't Do": 2, 'Duplicate': 1}
+Statuses: {'New': 6, 'Closed': 26}
+
+Average Lead Time (all PBIs): 71.7 days
+Average Lead Time (Task): 48.2 days
+Average Lead Time (Spike): 658.0 days

@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-15 10:39:00
+System: {'WFLY': 15772}
+Types: {'Component Upgrade': 2648, 'Bug': 7792, 'Enhancement': 1213, 'Task': 2627, 'Feature Request': 1490, 'Quality Risk': 1, 'Release': 1}
+Resolutions: {'Done': 11695, 'Duplicate': 499, "Won't Do": 1060, 'Obsolete': 760, '': 1420, 'Cannot Reproduce': 152, 'Not a Bug': 155, "Can't Do": 31}
+Statuses: {'Closed': 13527, 'Resolved': 825, 'Coding In Progress': 52, 'Open': 1212, 'Pull Request Sent': 124, 'Reopened': 32}
+
+Average Lead Time (all PBIs): 143.0 days
+Average Lead Time (Component Upgrade): 33.4 days
+Average Lead Time (Bug): 156.4 days
+Average Lead Time (Enhancement): 173.3 days
+Average Lead Time (Task): 128.6 days
+Average Lead Time (Feature Request): 308.3 days
+Average Lead Time (Quality Risk): 2.0 days
+Average Lead Time (Release): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-08-07 10:39:00 End date: 2024-11-15 10:39:00
+System: {'WFLY': 367}
+Types: {'Bug': 133, 'Enhancement': 40, 'Feature Request': 31, 'Component Upgrade': 97, 'Task': 66}
+Resolutions: {"Won't Do": 6, '': 144, 'Done': 200, 'Duplicate': 9, 'Cannot Reproduce': 3, 'Obsolete': 5}
+Statuses: {'Closed': 20, 'Open': 91, 'Pull Request Sent': 49, 'Resolved': 203, 'Coding In Progress': 4}
+
+Average Lead Time (all PBIs): 147.0 days
+Average Lead Time (Bug): 277.3 days
+Average Lead Time (Component Upgrade): 14.8 days
+Average Lead Time (Enhancement): 165.5 days
+Average Lead Time (Task): 123.1 days
+Average Lead Time (Feature Request): 118.0 days

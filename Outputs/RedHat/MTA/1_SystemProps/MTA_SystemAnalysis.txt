@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-11 14:39:00
+System: {'MTA': 2333}
+Types: {'Task': 1228, 'Bug': 938, 'Epic': 41, 'Story': 110, 'Closed Loop': 3, 'Feature Request': 13}
+Resolutions: {'': 405, 'Done': 1276, 'Not a Bug': 71, 'Cannot Reproduce': 19, 'Obsolete': 25, 'Duplicate': 40, 'Done-Errata': 471, "Won't Do": 23, "Can't Do": 3}
+Statuses: {'New': 280, 'In Progress': 31, 'Closed': 1916, 'To Do': 4, 'ASSIGNED': 19, 'POST': 4, 'Verified': 44, 'MODIFIED': 3, 'ON_QA': 1, 'Dev Complete': 5, 'Testing': 14, 'Release Pending': 12}
+
+Average Lead Time (all PBIs): 53.1 days
+Average Lead Time (Task): 34.1 days
+Average Lead Time (Bug): 73.0 days
+Average Lead Time (Epic): 131.6 days
+Average Lead Time (Closed Loop): 59.0 days
+Average Lead Time (Story): 73.8 days
+Average Lead Time (Feature Request): 14.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-08-03 14:39:00 End date: 2024-11-11 14:39:00
+System: {'MTA': 411}
+Types: {'Task': 219, 'Bug': 169, 'Epic': 7, 'Story': 14, 'Closed Loop': 2}
+Resolutions: {'': 132, 'Done': 178, 'Not a Bug': 7, 'Cannot Reproduce': 6, 'Obsolete': 5, 'Duplicate': 4, 'Done-Errata': 77, "Won't Do": 2}
+Statuses: {'New': 83, 'In Progress': 12, 'Closed': 277, 'To Do': 1, 'ASSIGNED': 12, 'POST': 3, 'Verified': 13, 'MODIFIED': 3, 'ON_QA': 1, 'Dev Complete': 2, 'Testing': 2, 'Release Pending': 2}
+
+Average Lead Time (all PBIs): 73.4 days
+Average Lead Time (Task): 68.2 days
+Average Lead Time (Bug): 69.8 days
+Average Lead Time (Epic): 194.7 days
+Average Lead Time (Closed Loop): 59.0 days
+Average Lead Time (Story): 143.9 days

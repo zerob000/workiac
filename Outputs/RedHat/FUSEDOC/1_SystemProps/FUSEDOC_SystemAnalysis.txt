@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-07-16 12:29:00
+System: {'FUSEDOC': 303}
+Types: {'Bug': 148, 'Task': 109, 'Feature Request': 7, 'Story': 9, 'Enhancement': 30}
+Resolutions: {'Done': 266, 'Duplicate': 10, '': 6, 'Obsolete': 7, "Won't Do": 6, 'Not a Bug': 5, 'Cannot Reproduce': 3}
+Statuses: {'Closed': 289, 'Verified': 8, 'New': 3, 'Coding In Progress': 1, 'Open': 2}
+
+Average Lead Time (all PBIs): 132.3 days
+Average Lead Time (Bug): 142.3 days
+Average Lead Time (Task): 53.8 days
+Average Lead Time (Feature Request): 212.9 days
+Average Lead Time (Story): 665.9 days
+Average Lead Time (Enhancement): 176.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-04-07 12:29:00 End date: 2024-07-16 12:29:00
+System: {'FUSEDOC': 3}
+Types: {'Enhancement': 1, 'Bug': 2}
+Resolutions: {'Obsolete': 3}
+Statuses: {'Closed': 3}
+
+Average Lead Time (all PBIs): 1298.0 days
+Average Lead Time (Enhancement): 840.0 days
+Average Lead Time (Bug): 1527.0 days

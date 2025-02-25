@@ -1,0 +1,73 @@
+
+System Name: USHIFT
+System Duration (Captured): 919 days
+
+Calculated Final System Size: 234 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 234 PBIs
+
+Model Final System Size: 212 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 212 PBIs
+
+% Error, Final backlog, model vs actual: 9.0%
+Error, Final backlog, model vs actual: -22 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 1363 PBIs
+Total Unplanned Arrivals: 497 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 302 PBIs
+Total Net Arrivals: 1558 PBIs
+Total Services: 1324 PBIs
+
+Rates:
+Planned Arrival Rate: 1.786 PBIs/day
+Unplanned Arrival Rate: 0.639 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.441 PBIs/day
+Net Arrival Rate: 1.984 PBIs/day
+Service Rate: 1.793 PBIs/day
+
+
+Metrics:
+Stability: 0.904
+Quality: 0.736
+Control: 0.818
+Inventory Days: 130.508 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 234 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 234 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 237 PBIs
+Unplanned Arrivals in this period: 43 PBIs
+Cancelled/Rejected/Won't Do  in this period: 57 PBIs
+System size change in this period: 55 PBIs
+Net Arrivals in this period: 223 PBIs
+Services in this period: 169 PBIs
+
+Rates:
+Planned Arrival Rate: 2.626 PBIs/day
+Unplanned Arrival Rate: 0.415 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.542 PBIs/day
+Net Arrival Rate: 2.591 PBIs/day
+Service Rate: 1.665 PBIs/day
+
+Metrics:
+Stability: 0.666
+Quality: 0.864
+Control: 0.822
+Inventory Days: 140.541 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

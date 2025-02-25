@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-26 12:48:00
+System: {'INSTALLER': 135}
+Types: {'Task': 91, 'Bug': 23, 'Story': 6, 'Epic': 15}
+Resolutions: {'': 65, 'Done': 65, 'Duplicate': 3, "Won't Do": 1, 'Not a Bug': 1}
+Statuses: {'New': 56, 'In Progress': 5, 'Closed': 70, 'Review': 3, 'To Do': 1}
+
+Average Lead Time (all PBIs): 77.7 days
+Average Lead Time (Bug): 18.5 days
+Average Lead Time (Task): 89.9 days
+Average Lead Time (Epic): 99.0 days
+Average Lead Time (Story): 49.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-08-18 12:48:00 End date: 2024-11-26 12:48:00
+System: {'INSTALLER': 73}
+Types: {'Task': 50, 'Bug': 12, 'Story': 3, 'Epic': 8}
+Resolutions: {'': 38, 'Done': 32, 'Duplicate': 2, "Won't Do": 1}
+Statuses: {'New': 33, 'In Progress': 4, 'Closed': 35, 'Review': 1}
+
+Average Lead Time (all PBIs): 114.6 days
+Average Lead Time (Bug): 23.2 days
+Average Lead Time (Task): 140.4 days
+Average Lead Time (Epic): 101.7 days
+Average Lead Time (Story): 56.0 days

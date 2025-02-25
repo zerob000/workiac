@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-03-14 16:04:00
+System: {'APIMAN': 1197}
+Types: {'Task': 201, 'Bug': 525, 'Enhancement': 267, 'Feature Request': 204}
+Resolutions: {'': 334, 'Obsolete': 79, 'Done': 699, 'Duplicate': 24, 'Cannot Reproduce': 16, "Won't Do": 44, "Can't Do": 1}
+Statuses: {'Open': 330, 'Closed': 357, 'Resolved': 506, 'Coding In Progress': 4}
+
+Average Lead Time (all PBIs): 273.0 days
+Average Lead Time (Bug): 149.2 days
+Average Lead Time (Enhancement): 315.8 days
+Average Lead Time (Task): 638.9 days
+Average Lead Time (Feature Request): 182.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2023-12-05 16:04:00 End date: 2024-03-14 16:04:00
+System: {'APIMAN': 66}
+Types: {'Bug': 15, 'Task': 30, 'Feature Request': 4, 'Enhancement': 17}
+Resolutions: {'Obsolete': 66}
+Statuses: {'Closed': 66}
+
+Average Lead Time (all PBIs): 2994.3 days
+Average Lead Time (Bug): 3045.9 days
+Average Lead Time (Task): 2936.1 days
+Average Lead Time (Feature Request): 3021.5 days
+Average Lead Time (Enhancement): 3045.2 days

@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-14 16:46:00
+System: {'SAT': 5880}
+Types: {'Bug': 4242, 'Feature Request': 572, 'Epic': 46, 'Task': 862, 'Story': 156, 'Feature': 2}
+Resolutions: {'Done-Errata': 592, 'Done': 2674, 'Duplicate': 180, '': 1925, "Won't Do": 341, 'Cannot Reproduce': 28, 'Not a Bug': 110, 'Obsolete': 18, "Can't Do": 11, 'Test Pending': 1}
+Statuses: {'Closed': 4561, 'Backlog': 691, 'In Progress': 132, 'Review': 88, 'New': 344, 'To Do': 36, 'Release Pending': 13, 'Refinement': 15}
+
+Average Lead Time (all PBIs): 129.6 days
+Average Lead Time (Bug): 136.0 days
+Average Lead Time (Feature Request): 426.1 days
+Average Lead Time (Task): 12.3 days
+Average Lead Time (Story): 79.5 days
+Average Lead Time (Epic): 133.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-08-06 16:46:00 End date: 2024-11-14 16:46:00
+System: {'SAT': 1585}
+Types: {'Bug': 713, 'Feature Request': 146, 'Story': 124, 'Epic': 30, 'Task': 572}
+Resolutions: {"Won't Do": 170, 'Done-Errata': 267, 'Done': 497, 'Duplicate': 52, 'Cannot Reproduce': 8, 'Obsolete': 8, 'Not a Bug': 41, "Can't Do": 5, '': 537}
+Statuses: {'Closed': 1036, 'Release Pending': 13, 'Backlog': 128, 'In Progress': 70, 'New': 231, 'To Do': 20, 'Refinement': 11, 'Review': 76}
+
+Average Lead Time (all PBIs): 149.2 days
+Average Lead Time (Bug): 204.6 days
+Average Lead Time (Feature Request): 453.9 days
+Average Lead Time (Story): 88.4 days
+Average Lead Time (Epic): 138.6 days
+Average Lead Time (Task): 13.5 days

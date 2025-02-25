@@ -1,0 +1,73 @@
+
+System Name: KIECLOUD
+System Duration (Captured): 1837 days
+
+Calculated Final System Size: 2 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 2 PBIs
+
+Model Final System Size: 30 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 30 PBIs
+
+% Error, Final backlog, model vs actual: 1400.0%
+Error, Final backlog, model vs actual: 28 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 404 PBIs
+Total Unplanned Arrivals: 168 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 65 PBIs
+Total Net Arrivals: 507 PBIs
+Total Services: 505 PBIs
+
+Rates:
+Planned Arrival Rate: 0.227 PBIs/day
+Unplanned Arrival Rate: 0.096 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.04 PBIs/day
+Net Arrival Rate: 0.283 PBIs/day
+Service Rate: 0.276 PBIs/day
+
+
+Metrics:
+Stability: 0.975
+Quality: 0.703
+Control: 0.876
+Inventory Days: 7.246 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Start-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 2 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 2 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 6 PBIs
+Unplanned Arrivals in this period: 3 PBIs
+Cancelled/Rejected/Won't Do  in this period: 2 PBIs
+System size change in this period: -4 PBIs
+Net Arrivals in this period: 7 PBIs
+Services in this period: 10 PBIs
+
+Rates:
+Planned Arrival Rate: 0.087 PBIs/day
+Unplanned Arrival Rate: 0.069 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.067 PBIs/day
+Net Arrival Rate: 0.094 PBIs/day
+Service Rate: 0.129 PBIs/day
+
+Metrics:
+Stability: 1.449
+Quality: 0.558
+Control: 0.571
+Inventory Days: 15.504 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Plan-up
+

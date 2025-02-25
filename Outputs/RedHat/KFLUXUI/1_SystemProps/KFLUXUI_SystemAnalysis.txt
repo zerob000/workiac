@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-12 10:29:00
+System: {'KFLUXUI': 157}
+Types: {'Story': 58, 'Bug': 1, 'Task': 77, 'Epic': 21}
+Resolutions: {'': 124, 'Done': 17, "Won't Do": 12, 'Duplicate': 2, 'Obsolete': 2}
+Statuses: {'New': 85, 'Waiting': 2, 'In Progress': 9, 'To Do': 1, 'Closed': 43, 'Backlog': 12, 'Review': 3, 'Release Pending': 2}
+
+Average Lead Time (all PBIs): 149.2 days
+Average Lead Time (Epic): 106.2 days
+Average Lead Time (Task): 223.9 days
+Average Lead Time (Story): 83.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-08-04 10:29:00 End date: 2024-11-12 10:29:00
+System: {'KFLUXUI': 107}
+Types: {'Story': 46, 'Bug': 1, 'Task': 43, 'Epic': 17}
+Resolutions: {'': 74, 'Done': 17, "Won't Do": 12, 'Duplicate': 2, 'Obsolete': 2}
+Statuses: {'New': 49, 'Waiting': 2, 'In Progress': 7, 'To Do': 1, 'Closed': 43, 'Release Pending': 2, 'Review': 2, 'Backlog': 1}
+
+Average Lead Time (all PBIs): 149.2 days
+Average Lead Time (Epic): 106.2 days
+Average Lead Time (Task): 223.9 days
+Average Lead Time (Story): 83.3 days

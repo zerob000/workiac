@@ -1,0 +1,73 @@
+
+System Name: FLPATH
+System Duration (Captured): 640 days
+
+Calculated Final System Size: 260 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 260 PBIs
+
+Model Final System Size: 297 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 297 PBIs
+
+% Error, Final backlog, model vs actual: 14.0%
+Error, Final backlog, model vs actual: 37 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 1109 PBIs
+Total Unplanned Arrivals: 409 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 295 PBIs
+Total Net Arrivals: 1223 PBIs
+Total Services: 963 PBIs
+
+Rates:
+Planned Arrival Rate: 1.627 PBIs/day
+Unplanned Arrival Rate: 0.779 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.596 PBIs/day
+Net Arrival Rate: 1.81 PBIs/day
+Service Rate: 1.55 PBIs/day
+
+
+Metrics:
+Stability: 0.856
+Quality: 0.676
+Control: 0.752
+Inventory Days: 167.742 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 260 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 260 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 162 PBIs
+Unplanned Arrivals in this period: 88 PBIs
+Cancelled/Rejected/Won't Do  in this period: 121 PBIs
+System size change in this period: -28 PBIs
+Net Arrivals in this period: 129 PBIs
+Services in this period: 158 PBIs
+
+Rates:
+Planned Arrival Rate: 1.613 PBIs/day
+Unplanned Arrival Rate: 0.867 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 1.631 PBIs/day
+Net Arrival Rate: 0.863 PBIs/day
+Service Rate: 1.71 PBIs/day
+
+Metrics:
+Stability: 2.014
+Quality: 0.65
+Control: 0.342
+Inventory Days: 152.047 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

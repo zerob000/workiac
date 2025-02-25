@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-08 06:25:00
+System: {'JBWS': 3654}
+Types: {'Bug': 1639, 'Task': 1301, 'Enhancement': 85, 'Component Upgrade': 62, 'Feature Request': 552, 'Patch': 10, 'Quality Risk': 1, 'Support Patch': 2, 'CTS Challenge': 2}
+Resolutions: {'Done': 2680, '': 40, 'Duplicate': 124, "Won't Do": 295, 'Cannot Reproduce': 76, 'Obsolete': 426, 'Not a Bug': 3, "Can't Do": 10}
+Statuses: {'Resolved': 275, 'Open': 39, 'Closed': 3339, 'Coding In Progress': 1}
+
+Average Lead Time (all PBIs): 183.7 days
+Average Lead Time (Bug): 129.3 days
+Average Lead Time (Task): 152.2 days
+Average Lead Time (Enhancement): 185.8 days
+Average Lead Time (Component Upgrade): 38.4 days
+Average Lead Time (Feature Request): 437.9 days
+Average Lead Time (Patch): 116.9 days
+Average Lead Time (Quality Risk): 1.0 days
+Average Lead Time (Support Patch): 4.5 days
+Average Lead Time (CTS Challenge): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-07-31 06:25:00 End date: 2024-11-08 06:25:00
+System: {'JBWS': 8}
+Types: {'Bug': 3, 'Task': 5}
+Resolutions: {'Done': 6, 'Duplicate': 1, "Won't Do": 1}
+Statuses: {'Resolved': 7, 'Closed': 1}
+
+Average Lead Time (all PBIs): 74.8 days
+Average Lead Time (Bug): 62.3 days
+Average Lead Time (Task): 82.2 days

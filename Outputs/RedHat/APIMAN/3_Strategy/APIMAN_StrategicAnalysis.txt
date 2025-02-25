@@ -1,0 +1,73 @@
+
+System Name: APIMAN
+System Duration (Captured): 3612 days
+
+Calculated Final System Size: 334 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 334 PBIs
+
+Model Final System Size: 1196 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 1196 PBIs
+
+% Error, Final backlog, model vs actual: 258.0%
+Error, Final backlog, model vs actual: 862 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 672 PBIs
+Total Unplanned Arrivals: 525 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 164 PBIs
+Total Net Arrivals: 1033 PBIs
+Total Services: 699 PBIs
+
+Rates:
+Planned Arrival Rate: 0.563 PBIs/day
+Unplanned Arrival Rate: 0.336 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.03 PBIs/day
+Net Arrival Rate: 0.869 PBIs/day
+Service Rate: 0.55 PBIs/day
+
+
+Metrics:
+Stability: 0.633
+Quality: 0.626
+Control: 0.967
+Inventory Days: 607.273 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 0 days
+
+Calculated Final System Size: 334 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 334 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 0 PBIs
+Unplanned Arrivals in this period: 0 PBIs
+Cancelled/Rejected/Won't Do  in this period: 65 PBIs
+System size change in this period: -65 PBIs
+Net Arrivals in this period: -65 PBIs
+Services in this period: 0 PBIs
+
+Rates:
+Planned Arrival Rate: NaN PBIs/day
+Unplanned Arrival Rate: NaN PBIs/day
+Cancelled/Rejected/Won't Do Rate: 33.0 PBIs/day
+Net Arrival Rate: -33.0 PBIs/day
+Service Rate: NaN PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

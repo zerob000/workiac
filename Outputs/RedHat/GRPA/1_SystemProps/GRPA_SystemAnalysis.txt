@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-09-23 23:00:00
+System: {'GRPA': 183}
+Types: {'Task': 21, 'Story': 155, 'Epic': 1, 'Bug': 6}
+Resolutions: {'': 1, 'Done': 154, "Won't Do": 1, 'Obsolete': 27}
+Statuses: {'To Do': 1, 'Closed': 182}
+
+Average Lead Time (all PBIs): 39.4 days
+Average Lead Time (Story): 41.3 days
+Average Lead Time (Epic): 0.0 days
+Average Lead Time (Task): 37.9 days
+Average Lead Time (Bug): 2.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-06-15 23:00:00 End date: 2024-09-23 23:00:00
+System: {'GRPA': 1}
+Types: {'Task': 1}
+Resolutions: {'': 1}
+Statuses: {'To Do': 1}
+
+No PBIs resolved in last 100 days.

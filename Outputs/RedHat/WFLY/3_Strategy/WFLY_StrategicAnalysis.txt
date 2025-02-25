@@ -1,0 +1,73 @@
+
+System Name: WFLY
+System Duration (Captured): 5811 days
+
+Calculated Final System Size: 1420 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 1420 PBIs
+
+Model Final System Size: 1590 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 1590 PBIs
+
+% Error, Final backlog, model vs actual: 12.0%
+Error, Final backlog, model vs actual: 170 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 7980 PBIs
+Total Unplanned Arrivals: 7792 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 2657 PBIs
+Total Net Arrivals: 13115 PBIs
+Total Services: 11695 PBIs
+
+Rates:
+Planned Arrival Rate: 1.713 PBIs/day
+Unplanned Arrival Rate: 1.882 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.638 PBIs/day
+Net Arrival Rate: 2.957 PBIs/day
+Service Rate: 2.714 PBIs/day
+
+
+Metrics:
+Stability: 0.918
+Quality: 0.476
+Control: 0.823
+Inventory Days: 523.213 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 1420 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 1420 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 199 PBIs
+Unplanned Arrivals in this period: 99 PBIs
+Cancelled/Rejected/Won't Do  in this period: 22 PBIs
+System size change in this period: 76 PBIs
+Net Arrivals in this period: 276 PBIs
+Services in this period: 199 PBIs
+
+Rates:
+Planned Arrival Rate: 1.934 PBIs/day
+Unplanned Arrival Rate: 1.067 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.27 PBIs/day
+Net Arrival Rate: 2.742 PBIs/day
+Service Rate: 2.264 PBIs/day
+
+Metrics:
+Stability: 0.829
+Quality: 0.644
+Control: 0.91
+Inventory Days: 627.208 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

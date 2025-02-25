@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-11-12 10:36:00
+System: {'MODE': 2496}
+Types: {'Feature Request': 504, 'Bug': 1395, 'Task': 347, 'Release': 1, 'Enhancement': 200, 'Component Upgrade': 46, 'Quality Risk': 2, 'Patch': 1}
+Resolutions: {'': 66, 'Done': 2058, "Won't Do": 282, 'Cannot Reproduce': 32, 'Duplicate': 49, 'Obsolete': 9}
+Statuses: {'Open': 55, 'Resolved': 534, 'Pull Request Sent': 11, 'Closed': 1896}
+
+Average Lead Time (all PBIs): 94.3 days
+Average Lead Time (Bug): 27.9 days
+Average Lead Time (Enhancement): 123.6 days
+Average Lead Time (Task): 75.3 days
+Average Lead Time (Feature Request): 288.3 days
+Average Lead Time (Component Upgrade): 59.5 days
+Average Lead Time (Quality Risk): 3.0 days
+Average Lead Time (Patch): 783.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-08-04 10:36:00 End date: 2024-11-12 10:36:00
+System: {'MODE': 11}
+Types: {'Feature Request': 10, 'Bug': 1}
+Resolutions: {'': 11}
+Statuses: {'Open': 11}
+
+No PBIs resolved in last 100 days.

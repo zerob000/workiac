@@ -1,0 +1,21 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2024-10-23 14:07:00
+System: {'COCKPIT': 167}
+Types: {'Task': 161, 'Bug': 5, 'Story': 1}
+Resolutions: {'': 45, "Can't Do": 10, "Won't Do": 11, 'Done': 97, 'Obsolete': 2, 'Not a Bug': 1, 'Duplicate': 1}
+Statuses: {'To Do': 42, 'Closed': 122, 'In Progress': 3}
+
+Average Lead Time (all PBIs): 151.8 days
+Average Lead Time (Task): 151.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2024-07-15 14:07:00 End date: 2024-10-23 14:07:00
+System: {'COCKPIT': 32}
+Types: {'Task': 31, 'Bug': 1}
+Resolutions: {'': 8, "Can't Do": 1, "Won't Do": 3, 'Done': 20}
+Statuses: {'To Do': 6, 'Closed': 24, 'In Progress': 2}
+
+Average Lead Time (all PBIs): 103.2 days
+Average Lead Time (Task): 103.2 days
