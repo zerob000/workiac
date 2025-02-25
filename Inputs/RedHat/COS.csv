@@ -1,0 +1,1316 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+COS-3029,Story,In Progress,COS,CoreOS OCP,software,,06/11/2024 15:47,
+COS-3028,Story,In Progress,COS,CoreOS OCP,software,,06/11/2024 15:14,
+COS-3027,Task,New,COS,CoreOS OCP,software,,06/11/2024 10:12,
+COS-3026,Task,New,COS,CoreOS OCP,software,,05/11/2024 15:44,
+COS-3025,Task,New,COS,CoreOS OCP,software,,05/11/2024 15:39,
+COS-3024,Task,New,COS,CoreOS OCP,software,,05/11/2024 15:36,
+COS-3023,Task,New,COS,CoreOS OCP,software,,05/11/2024 15:32,
+COS-3022,Story,In Progress,COS,CoreOS OCP,software,,04/11/2024 22:00,
+COS-3021,Story,In Progress,COS,CoreOS OCP,software,,04/11/2024 21:59,
+COS-3020,Story,Closed,COS,CoreOS OCP,software,Done,04/11/2024 21:57,07/11/2024 07:11
+COS-3019,Task,New,COS,CoreOS OCP,software,,04/11/2024 21:45,
+COS-3018,Task,New,COS,CoreOS OCP,software,,04/11/2024 21:43,
+COS-3017,Task,New,COS,CoreOS OCP,software,,04/11/2024 21:41,
+COS-3016,Task,New,COS,CoreOS OCP,software,,04/11/2024 21:18,
+COS-3015,Task,New,COS,CoreOS OCP,software,,04/11/2024 20:20,
+COS-3014,Task,New,COS,CoreOS OCP,software,,04/11/2024 19:00,
+COS-3013,Task,New,COS,CoreOS OCP,software,,04/11/2024 18:57,
+COS-3012,Task,New,COS,CoreOS OCP,software,,04/11/2024 18:53,
+COS-3011,Task,New,COS,CoreOS OCP,software,,04/11/2024 15:59,
+COS-3010,Task,New,COS,CoreOS OCP,software,,04/11/2024 15:49,
+COS-3009,Task,New,COS,CoreOS OCP,software,,04/11/2024 15:49,
+COS-3008,Story,New,COS,CoreOS OCP,software,,04/11/2024 15:00,
+COS-3007,Story,New,COS,CoreOS OCP,software,,04/11/2024 14:49,
+COS-3006,Task,New,COS,CoreOS OCP,software,,04/11/2024 14:22,
+COS-3005,Task,Review,COS,CoreOS OCP,software,,04/11/2024 14:20,
+COS-3004,Task,Review,COS,CoreOS OCP,software,,04/11/2024 14:18,
+COS-3003,Story,Closed,COS,CoreOS OCP,software,Done,31/10/2024 08:58,31/10/2024 09:00
+COS-3002,Story,Review,COS,CoreOS OCP,software,,30/10/2024 17:47,
+COS-3001,Story,New,COS,CoreOS OCP,software,,29/10/2024 19:34,
+COS-3000,Story,New,COS,CoreOS OCP,software,,29/10/2024 19:23,
+COS-2999,Story,New,COS,CoreOS OCP,software,,28/10/2024 14:39,
+COS-2998,Story,Closed,COS,CoreOS OCP,software,Done,28/10/2024 12:57,28/10/2024 13:03
+COS-2997,Story,Closed,COS,CoreOS OCP,software,Done,28/10/2024 01:35,29/10/2024 19:37
+COS-2996,Story,New,COS,CoreOS OCP,software,,25/10/2024 13:32,
+COS-2995,Story,New,COS,CoreOS OCP,software,,24/10/2024 19:08,
+COS-2992,Story,New,COS,CoreOS OCP,software,,23/10/2024 15:07,
+COS-2991,Story,Closed,COS,CoreOS OCP,software,Done,23/10/2024 15:05,29/10/2024 19:36
+COS-2990,Story,Closed,COS,CoreOS OCP,software,Done,23/10/2024 15:05,29/10/2024 19:36
+COS-2989,Story,Closed,COS,CoreOS OCP,software,Done,23/10/2024 15:05,28/10/2024 16:40
+COS-2988,Spike,In Progress,COS,CoreOS OCP,software,,23/10/2024 15:01,
+COS-2987,Story,Closed,COS,CoreOS OCP,software,Done,23/10/2024 14:28,23/10/2024 14:29
+COS-2986,Spike,Closed,COS,CoreOS OCP,software,Done,22/10/2024 19:35,04/11/2024 14:45
+COS-2985,Story,New,COS,CoreOS OCP,software,,22/10/2024 18:31,
+COS-2984,Story,Closed,COS,CoreOS OCP,software,Done,22/10/2024 17:34,03/11/2024 21:53
+COS-2982,Spike,Closed,COS,CoreOS OCP,software,Done,18/10/2024 14:21,04/11/2024 14:26
+COS-2979,Story,Closed,COS,CoreOS OCP,software,Done,17/10/2024 15:12,22/10/2024 18:26
+COS-2978,Story,In Progress,COS,CoreOS OCP,software,,17/10/2024 08:47,
+COS-2977,Story,Closed,COS,CoreOS OCP,software,Done,16/10/2024 16:16,23/10/2024 15:07
+COS-2976,Story,In Progress,COS,CoreOS OCP,software,,14/10/2024 14:42,
+COS-2975,Story,Closed,COS,CoreOS OCP,software,Done,14/10/2024 14:03,21/10/2024 08:11
+COS-2974,Task,Closed,COS,CoreOS OCP,software,Done,14/10/2024 13:22,17/10/2024 15:53
+COS-2973,Task,Closed,COS,CoreOS OCP,software,Done,14/10/2024 13:21,17/10/2024 14:20
+COS-2972,Story,Closed,COS,CoreOS OCP,software,Done,14/10/2024 13:15,14/10/2024 13:17
+COS-2971,Task,In Progress,COS,CoreOS OCP,software,,12/10/2024 00:28,
+COS-2970,Story,In Progress,COS,CoreOS OCP,software,,09/10/2024 05:22,
+COS-2969,Story,Closed,COS,CoreOS OCP,software,Done,08/10/2024 22:04,23/10/2024 18:02
+COS-2968,Story,Closed,COS,CoreOS OCP,software,Done,08/10/2024 22:04,23/10/2024 18:02
+COS-2967,Story,Closed,COS,CoreOS OCP,software,Done,08/10/2024 22:03,23/10/2024 18:02
+COS-2965,Story,Closed,COS,CoreOS OCP,software,Done,08/10/2024 13:19,01/11/2024 16:31
+COS-2964,Task,Closed,COS,CoreOS OCP,software,Done,04/10/2024 20:07,31/10/2024 17:35
+COS-2962,Story,Closed,COS,CoreOS OCP,software,Done,02/10/2024 17:00,28/10/2024 19:41
+COS-2961,Story,New,COS,CoreOS OCP,software,,02/10/2024 10:04,
+COS-2960,Story,Closed,COS,CoreOS OCP,software,Done,02/10/2024 10:04,21/10/2024 14:51
+COS-2959,Story,Closed,COS,CoreOS OCP,software,Done,02/10/2024 10:01,21/10/2024 11:57
+COS-2957,Story,Closed,COS,CoreOS OCP,software,Done,30/09/2024 16:04,16/10/2024 15:32
+COS-2956,Story,Closed,COS,CoreOS OCP,software,Done,24/09/2024 17:14,08/10/2024 22:15
+COS-2955,Story,Closed,COS,CoreOS OCP,software,Done,24/09/2024 17:13,08/10/2024 22:15
+COS-2954,Story,Closed,COS,CoreOS OCP,software,Done,24/09/2024 17:12,08/10/2024 22:16
+COS-2953,Story,Closed,COS,CoreOS OCP,software,Done,23/09/2024 15:31,21/10/2024 15:19
+COS-2952,Story,Closed,COS,CoreOS OCP,software,Won't Do,23/09/2024 15:17,15/10/2024 01:32
+COS-2951,Story,Closed,COS,CoreOS OCP,software,Won't Do,23/09/2024 15:17,15/10/2024 01:31
+COS-2950,Story,In Progress,COS,CoreOS OCP,software,,23/09/2024 15:03,
+COS-2949,Spike,Closed,COS,CoreOS OCP,software,Done,23/09/2024 14:49,14/10/2024 15:06
+COS-2947,Story,Closed,COS,CoreOS OCP,software,Done,23/09/2024 13:27,16/10/2024 00:41
+COS-2946,Story,Closed,COS,CoreOS OCP,software,Done,23/09/2024 13:24,04/11/2024 14:07
+COS-2944,Story,New,COS,CoreOS OCP,software,,23/09/2024 13:19,
+COS-2943,Story,Closed,COS,CoreOS OCP,software,Done,23/09/2024 13:19,04/11/2024 14:06
+COS-2942,Story,Closed,COS,CoreOS OCP,software,Duplicate,23/09/2024 13:17,26/09/2024 19:46
+COS-2941,Story,Review,COS,CoreOS OCP,software,,23/09/2024 13:13,
+COS-2940,Story,Closed,COS,CoreOS OCP,software,Done,23/09/2024 13:03,26/09/2024 18:48
+COS-2939,Bug,Closed,COS,CoreOS OCP,software,Done,23/09/2024 01:35,11/10/2024 10:16
+COS-2936,Story,Review,COS,CoreOS OCP,software,,19/09/2024 19:46,
+COS-2935,Story,New,COS,CoreOS OCP,software,,19/09/2024 19:05,
+COS-2934,Story,New,COS,CoreOS OCP,software,,19/09/2024 18:59,
+COS-2933,Story,Closed,COS,CoreOS OCP,software,Done,19/09/2024 18:57,04/11/2024 16:15
+COS-2932,Story,Review,COS,CoreOS OCP,software,,19/09/2024 18:55,
+COS-2931,Story,New,COS,CoreOS OCP,software,,19/09/2024 08:46,
+COS-2930,Story,In Progress,COS,CoreOS OCP,software,,18/09/2024 17:06,
+COS-2929,Story,In Progress,COS,CoreOS OCP,software,,18/09/2024 17:03,
+COS-2928,Story,Closed,COS,CoreOS OCP,software,Done,18/09/2024 15:23,02/10/2024 13:45
+COS-2927,Story,Closed,COS,CoreOS OCP,software,Done,18/09/2024 15:23,20/09/2024 13:45
+COS-2926,Story,Closed,COS,CoreOS OCP,software,Done,16/09/2024 21:07,16/09/2024 21:08
+COS-2925,Story,Closed,COS,CoreOS OCP,software,Done,16/09/2024 19:11,17/09/2024 12:40
+COS-2924,Story,Closed,COS,CoreOS OCP,software,Done,16/09/2024 02:45,19/09/2024 15:30
+COS-2923,Story,Closed,COS,CoreOS OCP,software,Done,13/09/2024 13:12,22/09/2024 20:29
+COS-2922,Story,Closed,COS,CoreOS OCP,software,Done,10/09/2024 23:27,24/09/2024 17:15
+COS-2921,Story,Closed,COS,CoreOS OCP,software,Done,10/09/2024 23:25,24/09/2024 17:15
+COS-2920,Story,Closed,COS,CoreOS OCP,software,Done,10/09/2024 23:24,24/09/2024 17:15
+COS-2919,Story,Closed,COS,CoreOS OCP,software,Done,10/09/2024 15:35,10/09/2024 18:19
+COS-2918,Spike,Closed,COS,CoreOS OCP,software,Done,09/09/2024 14:11,21/09/2024 03:35
+COS-2917,Story,Closed,COS,CoreOS OCP,software,Done,09/09/2024 13:25,23/09/2024 13:08
+COS-2916,Story,New,COS,CoreOS OCP,software,,06/09/2024 20:12,
+COS-2914,Story,Closed,COS,CoreOS OCP,software,Done,04/09/2024 15:57,04/09/2024 15:59
+COS-2913,Story,New,COS,CoreOS OCP,software,,03/09/2024 18:27,
+COS-2912,Story,Closed,COS,CoreOS OCP,software,Done,03/09/2024 15:24,08/09/2024 14:04
+COS-2911,Spike,Closed,COS,CoreOS OCP,software,Done,03/09/2024 14:55,03/09/2024 14:56
+COS-2910,Task,Closed,COS,CoreOS OCP,software,Done,03/09/2024 14:48,04/11/2024 14:07
+COS-2909,Story,New,COS,CoreOS OCP,software,,03/09/2024 14:36,
+COS-2908,Story,New,COS,CoreOS OCP,software,,03/09/2024 14:35,
+COS-2907,Story,Closed,COS,CoreOS OCP,software,Done,03/09/2024 14:34,30/09/2024 12:49
+COS-2906,Story,Closed,COS,CoreOS OCP,software,Done,03/09/2024 14:09,03/09/2024 14:09
+COS-2905,Story,New,COS,CoreOS OCP,software,,03/09/2024 14:08,
+COS-2904,Story,Closed,COS,CoreOS OCP,software,Done,03/09/2024 14:08,23/09/2024 14:32
+COS-2903,Story,Closed,COS,CoreOS OCP,software,Done,03/09/2024 14:07,02/11/2024 09:28
+COS-2902,Story,In Progress,COS,CoreOS OCP,software,,03/09/2024 14:02,
+COS-2900,Task,Closed,COS,CoreOS OCP,software,Done,03/09/2024 11:14,06/09/2024 07:54
+COS-2899,Story,Closed,COS,CoreOS OCP,software,Done,02/09/2024 07:16,11/09/2024 13:13
+COS-2898,Story,Closed,COS,CoreOS OCP,software,Done,28/08/2024 23:49,10/09/2024 23:25
+COS-2897,Story,Closed,COS,CoreOS OCP,software,Done,28/08/2024 23:49,10/09/2024 23:26
+COS-2896,Story,Closed,COS,CoreOS OCP,software,Done,28/08/2024 23:49,10/09/2024 23:28
+COS-2895,Story,New,COS,CoreOS OCP,software,,28/08/2024 12:29,
+COS-2894,Story,Closed,COS,CoreOS OCP,software,Done,27/08/2024 15:27,24/09/2024 16:04
+COS-2893,Story,New,COS,CoreOS OCP,software,,22/08/2024 13:45,
+COS-2891,Story,Closed,COS,CoreOS OCP,software,Done,21/08/2024 15:01,27/08/2024 13:45
+COS-2890,Story,Closed,COS,CoreOS OCP,software,Done,15/08/2024 06:08,28/08/2024 23:52
+COS-2889,Story,Closed,COS,CoreOS OCP,software,Done,15/08/2024 06:08,28/08/2024 23:52
+COS-2888,Story,Closed,COS,CoreOS OCP,software,Done,15/08/2024 06:07,28/08/2024 23:51
+COS-2887,Story,Closed,COS,CoreOS OCP,software,Done,15/08/2024 04:35,15/08/2024 13:15
+COS-2886,Spike,New,COS,CoreOS OCP,software,,12/08/2024 15:24,
+COS-2885,Task,New,COS,CoreOS OCP,software,,12/08/2024 15:22,
+COS-2884,Spike,Closed,COS,CoreOS OCP,software,Done,12/08/2024 14:53,12/08/2024 14:54
+COS-2883,Story,Closed,COS,CoreOS OCP,software,Done,12/08/2024 14:29,03/09/2024 14:49
+COS-2880,Story,New,COS,CoreOS OCP,software,,05/08/2024 13:00,
+COS-2879,Story,New,COS,CoreOS OCP,software,,02/08/2024 10:57,
+COS-2877,Story,New,COS,CoreOS OCP,software,,01/08/2024 14:26,
+COS-2876,Story,Closed,COS,CoreOS OCP,software,Done,30/07/2024 22:15,15/08/2024 06:42
+COS-2875,Story,Closed,COS,CoreOS OCP,software,Done,30/07/2024 22:14,15/08/2024 06:42
+COS-2874,Story,Closed,COS,CoreOS OCP,software,Done,30/07/2024 22:14,15/08/2024 06:41
+COS-2873,Task,New,COS,CoreOS OCP,software,,30/07/2024 12:11,
+COS-2872,Story,Closed,COS,CoreOS OCP,software,Done,24/07/2024 17:42,30/07/2024 13:44
+COS-2871,Story,New,COS,CoreOS OCP,software,,24/07/2024 16:12,
+COS-2870,Story,In Progress,COS,CoreOS OCP,software,,23/07/2024 08:36,
+COS-2869,Task,Closed,COS,CoreOS OCP,software,Done,22/07/2024 15:37,23/09/2024 13:28
+COS-2868,Story,Closed,COS,CoreOS OCP,software,Done,22/07/2024 15:21,08/08/2024 21:35
+COS-2867,Story,Closed,COS,CoreOS OCP,software,Done,22/07/2024 13:53,09/09/2024 13:08
+COS-2866,Story,Closed,COS,CoreOS OCP,software,Done,22/07/2024 13:25,29/07/2024 15:57
+COS-2865,Story,Closed,COS,CoreOS OCP,software,Done,22/07/2024 13:17,03/10/2024 12:53
+COS-2864,Story,Refinement,COS,CoreOS OCP,software,,18/07/2024 14:38,
+COS-2863,Story,Closed,COS,CoreOS OCP,software,Done,17/07/2024 16:30,30/07/2024 22:16
+COS-2862,Story,Closed,COS,CoreOS OCP,software,Done,17/07/2024 16:30,30/07/2024 22:16
+COS-2861,Story,Closed,COS,CoreOS OCP,software,Done,17/07/2024 16:28,30/07/2024 22:16
+COS-2860,Task,Review,COS,CoreOS OCP,software,,17/07/2024 10:43,
+COS-2859,Story,In Progress,COS,CoreOS OCP,software,,15/07/2024 16:30,
+COS-2858,Story,New,COS,CoreOS OCP,software,,15/07/2024 16:05,
+COS-2857,Story,New,COS,CoreOS OCP,software,,15/07/2024 13:35,
+COS-2856,Story,New,COS,CoreOS OCP,software,,11/07/2024 15:01,
+COS-2855,Task,Closed,COS,CoreOS OCP,software,Done,10/07/2024 20:52,10/07/2024 20:53
+COS-2854,Story,New,COS,CoreOS OCP,software,,10/07/2024 16:43,
+COS-2853,Story,Closed,COS,CoreOS OCP,software,Done,09/07/2024 15:27,18/07/2024 23:17
+COS-2852,Story,Closed,COS,CoreOS OCP,software,Done,08/07/2024 16:38,09/07/2024 03:49
+COS-2851,Task,Closed,COS,CoreOS OCP,software,Done,08/07/2024 13:22,03/09/2024 14:06
+COS-2850,Story,In Progress,COS,CoreOS OCP,software,,05/07/2024 18:35,
+COS-2849,Story,Closed,COS,CoreOS OCP,software,Done,03/07/2024 20:23,17/07/2024 16:36
+COS-2848,Story,Closed,COS,CoreOS OCP,software,Done,03/07/2024 20:23,17/07/2024 16:35
+COS-2847,Story,Closed,COS,CoreOS OCP,software,Done,03/07/2024 20:23,17/07/2024 16:35
+COS-2846,Story,Closed,COS,CoreOS OCP,software,Done,03/07/2024 15:19,06/09/2024 19:41
+COS-2843,Spike,Closed,COS,CoreOS OCP,software,Done,02/07/2024 16:08,15/07/2024 15:19
+COS-2842,Task,Closed,COS,CoreOS OCP,software,Done,02/07/2024 16:06,04/11/2024 14:13
+COS-2840,Story,Closed,COS,CoreOS OCP,software,Done,02/07/2024 08:00,02/07/2024 12:29
+COS-2839,Story,Closed,COS,CoreOS OCP,software,Done,01/07/2024 21:09,01/07/2024 21:11
+COS-2838,Spike,Closed,COS,CoreOS OCP,software,Done,01/07/2024 13:17,12/07/2024 19:49
+COS-2837,Story,Closed,COS,CoreOS OCP,software,Done,01/07/2024 13:14,20/09/2024 18:09
+COS-2836,Story,New,COS,CoreOS OCP,software,,28/06/2024 19:55,
+COS-2835,Task,Closed,COS,CoreOS OCP,software,Done,28/06/2024 02:25,24/09/2024 13:15
+COS-2834,Story,Closed,COS,CoreOS OCP,software,Done,27/06/2024 11:14,08/07/2024 16:34
+COS-2833,Story,In Progress,COS,CoreOS OCP,software,,26/06/2024 17:43,
+COS-2831,Story,Closed,COS,CoreOS OCP,software,Done,24/06/2024 15:36,18/07/2024 15:05
+COS-2830,Story,Closed,COS,CoreOS OCP,software,Done,19/06/2024 11:57,03/07/2024 20:27
+COS-2829,Story,Closed,COS,CoreOS OCP,software,Done,19/06/2024 11:57,03/07/2024 20:27
+COS-2828,Story,Closed,COS,CoreOS OCP,software,Done,19/06/2024 11:56,03/07/2024 20:26
+COS-2826,Story,Closed,COS,CoreOS OCP,software,Done,14/06/2024 18:20,21/06/2024 21:10
+COS-2825,Story,Closed,COS,CoreOS OCP,software,Done,10/06/2024 15:24,14/10/2024 08:11
+COS-2824,Story,Closed,COS,CoreOS OCP,software,Done,10/06/2024 15:11,10/06/2024 15:11
+COS-2823,Task,Closed,COS,CoreOS OCP,software,Done,10/06/2024 15:10,25/06/2024 08:02
+COS-2822,Task,Closed,COS,CoreOS OCP,software,Done,10/06/2024 14:22,27/06/2024 13:27
+COS-2821,Story,Closed,COS,CoreOS OCP,software,Done,10/06/2024 13:44,18/07/2024 19:10
+COS-2820,Task,Closed,COS,CoreOS OCP,software,Done,06/06/2024 14:03,21/06/2024 21:16
+COS-2819,Story,Closed,COS,CoreOS OCP,software,Done,05/06/2024 17:23,19/06/2024 12:08
+COS-2818,Story,Closed,COS,CoreOS OCP,software,Done,05/06/2024 17:22,19/06/2024 12:08
+COS-2817,Story,Closed,COS,CoreOS OCP,software,Done,05/06/2024 17:21,19/06/2024 12:07
+COS-2816,Story,Closed,COS,CoreOS OCP,software,Done,04/06/2024 15:18,04/06/2024 20:21
+COS-2815,Story,New,COS,CoreOS OCP,software,,03/06/2024 20:53,
+COS-2813,Story,New,COS,CoreOS OCP,software,,03/06/2024 15:41,
+COS-2812,Story,New,COS,CoreOS OCP,software,,03/06/2024 15:40,
+COS-2811,Story,New,COS,CoreOS OCP,software,,03/06/2024 13:47,
+COS-2810,Story,Closed,COS,CoreOS OCP,software,Done,30/05/2024 17:06,11/06/2024 16:14
+COS-2809,Story,Closed,COS,CoreOS OCP,software,Done,30/05/2024 15:47,21/06/2024 21:27
+COS-2808,Story,Closed,COS,CoreOS OCP,software,Done,29/05/2024 17:41,06/06/2024 00:03
+COS-2807,Story,Closed,COS,CoreOS OCP,software,Done,29/05/2024 13:34,12/06/2024 21:19
+COS-2806,Story,Closed,COS,CoreOS OCP,software,Done,29/05/2024 13:20,12/06/2024 11:58
+COS-2805,Story,Closed,COS,CoreOS OCP,software,Done,29/05/2024 13:20,05/06/2024 13:55
+COS-2804,Story,Closed,COS,CoreOS OCP,software,Done,27/05/2024 15:46,10/06/2024 09:31
+COS-2803,Story,Closed,COS,CoreOS OCP,software,Done,21/05/2024 16:33,05/06/2024 17:24
+COS-2802,Story,Closed,COS,CoreOS OCP,software,Done,21/05/2024 16:32,05/06/2024 17:23
+COS-2801,Story,Closed,COS,CoreOS OCP,software,Done,21/05/2024 16:31,05/06/2024 17:24
+COS-2800,Story,Closed,COS,CoreOS OCP,software,Obsolete,21/05/2024 15:46,05/06/2024 14:17
+COS-2799,Story,Closed,COS,CoreOS OCP,software,Obsolete,21/05/2024 15:46,05/06/2024 14:17
+COS-2798,Story,New,COS,CoreOS OCP,software,,21/05/2024 15:44,
+COS-2796,Task,Closed,COS,CoreOS OCP,software,Done,20/05/2024 14:59,21/06/2024 14:29
+COS-2795,Task,In Progress,COS,CoreOS OCP,software,,20/05/2024 14:55,
+COS-2794,Story,Closed,COS,CoreOS OCP,software,Done,20/05/2024 13:27,22/05/2024 03:18
+COS-2793,Story,New,COS,CoreOS OCP,software,,13/05/2024 18:33,
+COS-2792,Story,Closed,COS,CoreOS OCP,software,Duplicate,13/05/2024 18:29,13/05/2024 18:35
+COS-2791,Story,Closed,COS,CoreOS OCP,software,Done,08/05/2024 18:23,27/06/2024 19:47
+COS-2790,Story,Closed,COS,CoreOS OCP,software,Done,08/05/2024 16:52,21/05/2024 16:34
+COS-2789,Story,Closed,COS,CoreOS OCP,software,Done,08/05/2024 16:51,21/05/2024 16:34
+COS-2788,Story,Closed,COS,CoreOS OCP,software,Done,08/05/2024 16:51,21/05/2024 16:35
+COS-2787,Story,Closed,COS,CoreOS OCP,software,Done,07/05/2024 14:17,08/05/2024 13:25
+COS-2786,Story,In Progress,COS,CoreOS OCP,software,,07/05/2024 11:57,
+COS-2785,Story,Closed,COS,CoreOS OCP,software,Done,06/05/2024 17:05,30/05/2024 17:06
+COS-2784,Task,Closed,COS,CoreOS OCP,software,Done,06/05/2024 14:34,13/06/2024 20:20
+COS-2783,Task,Closed,COS,CoreOS OCP,software,Done,05/05/2024 16:52,13/05/2024 12:59
+COS-2782,Story,Closed,COS,CoreOS OCP,software,Done,05/05/2024 16:46,05/05/2024 16:46
+COS-2781,Spike,Closed,COS,CoreOS OCP,software,Done,03/05/2024 15:28,07/05/2024 19:07
+COS-2780,Task,New,COS,CoreOS OCP,software,,01/05/2024 00:48,
+COS-2779,Task,New,COS,CoreOS OCP,software,,01/05/2024 00:46,
+COS-2776,Story,Closed,COS,CoreOS OCP,software,Done,30/04/2024 21:06,08/05/2024 21:19
+COS-2775,Story,Closed,COS,CoreOS OCP,software,Done,30/04/2024 19:03,09/10/2024 05:27
+COS-2774,Story,Closed,COS,CoreOS OCP,software,Done,30/04/2024 19:02,09/10/2024 05:23
+COS-2773,Story,Closed,COS,CoreOS OCP,software,Done,30/04/2024 19:01,15/08/2024 21:25
+COS-2772,Story,Closed,COS,CoreOS OCP,software,Done,30/04/2024 18:55,15/07/2024 15:06
+COS-2771,Story,Closed,COS,CoreOS OCP,software,Done,30/04/2024 15:42,08/05/2024 14:03
+COS-2770,Story,Closed,COS,CoreOS OCP,software,Done,30/04/2024 14:39,02/05/2024 15:28
+COS-2768,Story,Review,COS,CoreOS OCP,software,,30/04/2024 14:19,
+COS-2767,Task,New,COS,CoreOS OCP,software,,25/04/2024 17:23,
+COS-2761,Story,In Progress,COS,CoreOS OCP,software,,24/04/2024 16:13,
+COS-2760,Story,Closed,COS,CoreOS OCP,software,Done,24/04/2024 16:08,23/09/2024 13:32
+COS-2757,Story,Closed,COS,CoreOS OCP,software,Done,23/04/2024 14:16,08/05/2024 17:01
+COS-2756,Story,Closed,COS,CoreOS OCP,software,Done,23/04/2024 13:01,08/05/2024 17:00
+COS-2755,Story,Closed,COS,CoreOS OCP,software,Done,23/04/2024 13:01,08/05/2024 17:03
+COS-2754,Story,Closed,COS,CoreOS OCP,software,Done,19/04/2024 15:46,23/04/2024 13:04
+COS-2753,Story,Closed,COS,CoreOS OCP,software,Done,19/04/2024 14:15,23/04/2024 13:03
+COS-2751,Story,Closed,COS,CoreOS OCP,software,Done,18/04/2024 10:36,15/05/2024 16:22
+COS-2750,Story,Closed,COS,CoreOS OCP,software,Done,18/04/2024 10:34,23/09/2024 14:43
+COS-2748,Story,Closed,COS,CoreOS OCP,software,Done,17/04/2024 18:37,11/07/2024 05:53
+COS-2747,Story,Closed,COS,CoreOS OCP,software,Done,15/04/2024 23:54,16/04/2024 18:41
+COS-2746,Task,Closed,COS,CoreOS OCP,software,Done,10/04/2024 15:53,30/04/2024 15:06
+COS-2745,Task,Closed,COS,CoreOS OCP,software,Done,10/04/2024 14:29,22/04/2024 12:46
+COS-2744,Story,Closed,COS,CoreOS OCP,software,Done,10/04/2024 14:08,30/04/2024 15:00
+COS-2743,Spike,Closed,COS,CoreOS OCP,software,Done,10/04/2024 13:20,10/06/2024 13:27
+COS-2742,Story,Closed,COS,CoreOS OCP,software,Done,10/04/2024 03:30,25/04/2024 10:35
+COS-2741,Story,Closed,COS,CoreOS OCP,software,Done,10/04/2024 03:28,19/04/2024 14:16
+COS-2740,Story,Closed,COS,CoreOS OCP,software,Done,10/04/2024 03:24,22/04/2024 14:22
+COS-2739,Story,Closed,COS,CoreOS OCP,software,Done,09/04/2024 16:44,10/04/2024 03:26
+COS-2738,Story,Closed,COS,CoreOS OCP,software,Done,05/04/2024 12:53,09/04/2024 16:44
+COS-2737,Task,New,COS,CoreOS OCP,software,,03/04/2024 15:52,
+COS-2735,Story,Closed,COS,CoreOS OCP,software,Done,03/04/2024 13:20,23/09/2024 13:24
+COS-2734,Story,Closed,COS,CoreOS OCP,software,Done,02/04/2024 13:02,13/05/2024 18:18
+COS-2733,Story,Closed,COS,CoreOS OCP,software,Done,02/04/2024 03:40,10/04/2024 03:29
+COS-2732,Story,Closed,COS,CoreOS OCP,software,Done,28/03/2024 21:29,02/04/2024 03:43
+COS-2731,Story,Closed,COS,CoreOS OCP,software,Done,27/03/2024 18:14,09/07/2024 08:37
+COS-2730,Task,Closed,COS,CoreOS OCP,software,Done,26/03/2024 17:59,12/04/2024 13:26
+COS-2729,Story,Closed,COS,CoreOS OCP,software,Done,26/03/2024 13:24,26/03/2024 13:26
+COS-2728,Story,Closed,COS,CoreOS OCP,software,Done,25/03/2024 19:37,17/04/2024 13:48
+COS-2727,Story,Closed,COS,CoreOS OCP,software,Done,25/03/2024 14:59,10/04/2024 03:31
+COS-2726,Story,Closed,COS,CoreOS OCP,software,Done,25/03/2024 14:09,17/04/2024 15:24
+COS-2725,Story,New,COS,CoreOS OCP,software,,22/03/2024 13:51,
+COS-2724,Story,New,COS,CoreOS OCP,software,,22/03/2024 13:50,
+COS-2723,Story,New,COS,CoreOS OCP,software,,22/03/2024 13:50,
+COS-2722,Story,New,COS,CoreOS OCP,software,,22/03/2024 13:50,
+COS-2721,Story,New,COS,CoreOS OCP,software,,22/03/2024 13:50,
+COS-2720,Story,Closed,COS,CoreOS OCP,software,Done,22/03/2024 13:49,07/08/2024 05:31
+COS-2719,Story,New,COS,CoreOS OCP,software,,22/03/2024 13:49,
+COS-2718,Story,New,COS,CoreOS OCP,software,,22/03/2024 13:48,
+COS-2717,Story,Closed,COS,CoreOS OCP,software,Done,22/03/2024 13:48,26/07/2024 17:24
+COS-2716,Story,New,COS,CoreOS OCP,software,,22/03/2024 13:48,
+COS-2715,Story,New,COS,CoreOS OCP,software,,22/03/2024 13:46,
+COS-2714,Story,Closed,COS,CoreOS OCP,software,Done,22/03/2024 13:45,07/05/2024 06:45
+COS-2713,Story,New,COS,CoreOS OCP,software,,20/03/2024 14:55,
+COS-2712,Story,Closed,COS,CoreOS OCP,software,Done,18/03/2024 14:03,30/04/2024 14:54
+COS-2711,Story,Closed,COS,CoreOS OCP,software,Done,13/03/2024 19:15,25/03/2024 15:06
+COS-2710,Story,Closed,COS,CoreOS OCP,software,Done,13/03/2024 19:14,25/03/2024 15:07
+COS-2709,Story,Closed,COS,CoreOS OCP,software,Done,13/03/2024 19:14,25/03/2024 15:07
+COS-2708,Story,Closed,COS,CoreOS OCP,software,Done,11/03/2024 20:43,12/03/2024 14:44
+COS-2707,Story,New,COS,CoreOS OCP,software,,07/03/2024 15:58,
+COS-2706,Task,Closed,COS,CoreOS OCP,software,Done,29/02/2024 19:53,01/03/2024 00:02
+COS-2705,Spike,Closed,COS,CoreOS OCP,software,Done,29/02/2024 18:46,05/03/2024 19:13
+COS-2703,Story,Closed,COS,CoreOS OCP,software,Done,28/02/2024 14:16,13/03/2024 20:44
+COS-2702,Story,Closed,COS,CoreOS OCP,software,Done,28/02/2024 14:06,29/05/2024 15:23
+COS-2701,Story,Closed,COS,CoreOS OCP,software,Done,28/02/2024 09:34,11/03/2024 01:59
+COS-2700,Story,New,COS,CoreOS OCP,software,,27/02/2024 15:58,
+COS-2699,Story,Closed,COS,CoreOS OCP,software,Done,27/02/2024 15:11,13/03/2024 19:19
+COS-2698,Story,Closed,COS,CoreOS OCP,software,Done,27/02/2024 15:11,13/03/2024 19:19
+COS-2697,Story,Closed,COS,CoreOS OCP,software,Done,27/02/2024 15:10,13/03/2024 19:19
+COS-2696,Story,Closed,COS,CoreOS OCP,software,Won't Do,26/02/2024 22:09,18/03/2024 14:09
+COS-2695,Story,Closed,COS,CoreOS OCP,software,Done,26/02/2024 16:47,18/04/2024 08:06
+COS-2694,Story,Closed,COS,CoreOS OCP,software,Done,26/02/2024 14:20,30/04/2024 15:06
+COS-2693,Story,Closed,COS,CoreOS OCP,software,Won't Do,26/02/2024 14:18,10/06/2024 14:23
+COS-2692,Story,Closed,COS,CoreOS OCP,software,Done,26/02/2024 14:15,03/06/2024 13:41
+COS-2691,Story,Closed,COS,CoreOS OCP,software,Done,26/02/2024 13:31,26/02/2024 18:18
+COS-2690,Story,Closed,COS,CoreOS OCP,software,Done,26/02/2024 09:11,27/02/2024 15:14
+COS-2689,Story,Closed,COS,CoreOS OCP,software,Done,26/02/2024 09:11,27/02/2024 15:14
+COS-2688,Story,Closed,COS,CoreOS OCP,software,Done,26/02/2024 09:11,27/02/2024 15:14
+COS-2687,Story,Closed,COS,CoreOS OCP,software,Done,22/02/2024 14:26,26/02/2024 16:44
+COS-2686,Story,Closed,COS,CoreOS OCP,software,Done,21/02/2024 10:15,21/02/2024 10:17
+COS-2685,Story,Closed,COS,CoreOS OCP,software,Done,21/02/2024 10:13,22/02/2024 13:57
+COS-2684,Story,Closed,COS,CoreOS OCP,software,Done,20/02/2024 15:19,08/04/2024 13:57
+COS-2683,Story,Closed,COS,CoreOS OCP,software,Done,20/02/2024 15:04,08/04/2024 13:57
+COS-2682,Story,Closed,COS,CoreOS OCP,software,Done,20/02/2024 15:00,08/04/2024 13:57
+COS-2681,Story,Closed,COS,CoreOS OCP,software,Done,20/02/2024 12:01,15/07/2024 15:05
+COS-2680,Story,Closed,COS,CoreOS OCP,software,Done,20/02/2024 12:00,24/06/2024 15:30
+COS-2679,Story,Closed,COS,CoreOS OCP,software,Done,20/02/2024 11:58,15/03/2024 14:15
+COS-2677,Spike,New,COS,CoreOS OCP,software,,19/02/2024 21:06,
+COS-2676,Task,New,COS,CoreOS OCP,software,,19/02/2024 21:04,
+COS-2675,Story,New,COS,CoreOS OCP,software,,19/02/2024 21:03,
+COS-2674,Spike,New,COS,CoreOS OCP,software,,19/02/2024 21:01,
+COS-2671,Spike,In Progress,COS,CoreOS OCP,software,,19/02/2024 20:49,
+COS-2670,Story,New,COS,CoreOS OCP,software,,19/02/2024 20:45,
+COS-2669,Story,New,COS,CoreOS OCP,software,,19/02/2024 20:44,
+COS-2668,Story,New,COS,CoreOS OCP,software,,19/02/2024 20:44,
+COS-2667,Story,New,COS,CoreOS OCP,software,,19/02/2024 20:43,
+COS-2666,Story,New,COS,CoreOS OCP,software,,19/02/2024 20:42,
+COS-2665,Story,New,COS,CoreOS OCP,software,,19/02/2024 20:41,
+COS-2664,Story,New,COS,CoreOS OCP,software,,19/02/2024 20:40,
+COS-2663,Story,New,COS,CoreOS OCP,software,,19/02/2024 20:40,
+COS-2662,Story,Closed,COS,CoreOS OCP,software,Done,19/02/2024 20:39,19/02/2024 20:53
+COS-2661,Story,Closed,COS,CoreOS OCP,software,Done,19/02/2024 20:37,26/02/2024 17:11
+COS-2660,Story,New,COS,CoreOS OCP,software,,19/02/2024 20:36,
+COS-2659,Story,New,COS,CoreOS OCP,software,,19/02/2024 20:35,
+COS-2658,Story,New,COS,CoreOS OCP,software,,19/02/2024 20:29,
+COS-2657,Story,New,COS,CoreOS OCP,software,,19/02/2024 20:27,
+COS-2656,Story,New,COS,CoreOS OCP,software,,19/02/2024 20:27,
+COS-2655,Story,Closed,COS,CoreOS OCP,software,Done,19/02/2024 20:25,19/02/2024 20:53
+COS-2654,Story,New,COS,CoreOS OCP,software,,19/02/2024 20:23,
+COS-2652,Spike,New,COS,CoreOS OCP,software,,19/02/2024 20:17,
+COS-2650,Story,Closed,COS,CoreOS OCP,software,Done,19/02/2024 15:51,18/03/2024 17:43
+COS-2649,Story,Closed,COS,CoreOS OCP,software,Done,16/02/2024 22:45,07/06/2024 15:36
+COS-2648,Story,Closed,COS,CoreOS OCP,software,Done,16/02/2024 11:42,19/02/2024 13:54
+COS-2647,Task,Closed,COS,CoreOS OCP,software,Done,16/02/2024 11:42,28/02/2024 15:39
+COS-2646,Story,Closed,COS,CoreOS OCP,software,Done,12/02/2024 10:40,21/08/2024 21:14
+COS-2645,Story,Closed,COS,CoreOS OCP,software,Done,09/02/2024 22:47,26/02/2024 17:10
+COS-2643,Story,Closed,COS,CoreOS OCP,software,Done,08/02/2024 10:59,14/03/2024 13:28
+COS-2641,Story,Closed,COS,CoreOS OCP,software,Done,06/02/2024 17:49,14/03/2024 14:23
+COS-2640,Story,Closed,COS,CoreOS OCP,software,Done,06/02/2024 17:20,13/03/2024 16:55
+COS-2639,Story,Closed,COS,CoreOS OCP,software,Done,06/02/2024 17:20,13/03/2024 16:56
+COS-2638,Task,Closed,COS,CoreOS OCP,software,Done,06/02/2024 14:05,07/02/2024 17:30
+COS-2637,Story,Closed,COS,CoreOS OCP,software,Done,05/02/2024 17:07,26/02/2024 17:10
+COS-2636,Story,Closed,COS,CoreOS OCP,software,Done,05/02/2024 16:37,26/02/2024 16:07
+COS-2635,Story,Closed,COS,CoreOS OCP,software,Done,05/02/2024 15:23,06/02/2024 17:19
+COS-2634,Story,Closed,COS,CoreOS OCP,software,Done,05/02/2024 15:23,06/02/2024 17:21
+COS-2633,Task,Closed,COS,CoreOS OCP,software,Done,05/02/2024 14:17,26/02/2024 14:10
+COS-2632,Story,Closed,COS,CoreOS OCP,software,Done,02/02/2024 21:59,02/02/2024 22:28
+COS-2631,Story,New,COS,CoreOS OCP,software,,31/01/2024 18:38,
+COS-2630,Story,Closed,COS,CoreOS OCP,software,Done,31/01/2024 17:35,13/02/2024 16:04
+COS-2629,Story,Closed,COS,CoreOS OCP,software,Done,31/01/2024 17:34,13/02/2024 16:05
+COS-2628,Story,Closed,COS,CoreOS OCP,software,Done,31/01/2024 17:33,13/02/2024 16:05
+COS-2627,Task,Closed,COS,CoreOS OCP,software,Done,31/01/2024 09:27,26/02/2024 12:28
+COS-2626,Story,New,COS,CoreOS OCP,software,,26/01/2024 14:54,
+COS-2625,Story,Closed,COS,CoreOS OCP,software,Done,26/01/2024 14:54,07/02/2024 14:04
+COS-2624,Task,Closed,COS,CoreOS OCP,software,Duplicate,25/01/2024 16:46,02/07/2024 15:38
+COS-2623,Story,Closed,COS,CoreOS OCP,software,Done,25/01/2024 11:00,06/11/2024 20:40
+COS-2622,Story,New,COS,CoreOS OCP,software,,25/01/2024 09:50,
+COS-2621,Story,New,COS,CoreOS OCP,software,,24/01/2024 18:49,
+COS-2620,Story,New,COS,CoreOS OCP,software,,24/01/2024 18:49,
+COS-2619,Story,New,COS,CoreOS OCP,software,,24/01/2024 18:48,
+COS-2618,Story,New,COS,CoreOS OCP,software,,24/01/2024 18:47,
+COS-2616,Task,Closed,COS,CoreOS OCP,software,Done,23/01/2024 16:46,23/01/2024 16:48
+COS-2615,Story,Closed,COS,CoreOS OCP,software,Done,23/01/2024 15:30,27/02/2024 09:31
+COS-2614,Story,Closed,COS,CoreOS OCP,software,Done,23/01/2024 15:30,23/01/2024 15:30
+COS-2613,Story,Closed,COS,CoreOS OCP,software,Done,23/01/2024 14:44,10/06/2024 15:07
+COS-2612,Story,Closed,COS,CoreOS OCP,software,Done,23/01/2024 14:23,23/01/2024 17:35
+COS-2611,Task,Closed,COS,CoreOS OCP,software,Done,22/01/2024 18:29,01/02/2024 14:26
+COS-2610,Story,New,COS,CoreOS OCP,software,,22/01/2024 08:53,
+COS-2609,Story,New,COS,CoreOS OCP,software,,19/01/2024 13:15,
+COS-2608,Story,Closed,COS,CoreOS OCP,software,Done,18/01/2024 14:22,12/04/2024 12:56
+COS-2607,Story,Closed,COS,CoreOS OCP,software,Done,17/01/2024 18:00,22/02/2024 16:15
+COS-2606,Story,Closed,COS,CoreOS OCP,software,Done,17/01/2024 17:33,31/01/2024 17:34
+COS-2605,Story,Closed,COS,CoreOS OCP,software,Done,17/01/2024 17:32,31/01/2024 17:35
+COS-2604,Story,Closed,COS,CoreOS OCP,software,Done,17/01/2024 17:30,31/01/2024 17:36
+COS-2603,Story,New,COS,CoreOS OCP,software,,15/01/2024 20:13,
+COS-2602,Story,Closed,COS,CoreOS OCP,software,Done,15/01/2024 20:02,22/01/2024 20:24
+COS-2601,Story,Closed,COS,CoreOS OCP,software,Done,15/01/2024 20:01,15/02/2024 14:19
+COS-2600,Story,Closed,COS,CoreOS OCP,software,Done,15/01/2024 19:58,15/02/2024 14:18
+COS-2599,Story,Closed,COS,CoreOS OCP,software,Done,15/01/2024 19:56,29/05/2024 14:57
+COS-2598,Story,Closed,COS,CoreOS OCP,software,Done,15/01/2024 17:54,19/02/2024 20:09
+COS-2597,Task,Closed,COS,CoreOS OCP,software,Done,15/01/2024 17:18,26/01/2024 17:55
+COS-2596,Story,Closed,COS,CoreOS OCP,software,Done,15/01/2024 17:17,05/02/2024 14:40
+COS-2595,Bug,Closed,COS,CoreOS OCP,software,Done,15/01/2024 17:16,29/01/2024 22:08
+COS-2594,Story,Closed,COS,CoreOS OCP,software,Done,15/01/2024 16:26,05/02/2024 16:14
+COS-2593,Story,Closed,COS,CoreOS OCP,software,Done,15/01/2024 16:25,20/03/2024 15:57
+COS-2592,Bug,In Progress,COS,CoreOS OCP,software,,15/01/2024 14:22,
+COS-2591,Story,Closed,COS,CoreOS OCP,software,Done,15/01/2024 13:32,01/02/2024 14:42
+COS-2589,Story,Closed,COS,CoreOS OCP,software,Done,08/01/2024 20:04,12/04/2024 12:55
+COS-2588,Story,Closed,COS,CoreOS OCP,software,Done,08/01/2024 16:24,17/01/2024 17:34
+COS-2587,Story,Closed,COS,CoreOS OCP,software,Done,08/01/2024 16:23,17/01/2024 17:33
+COS-2586,Story,Closed,COS,CoreOS OCP,software,Done,08/01/2024 16:22,17/01/2024 17:31
+COS-2585,Story,Closed,COS,CoreOS OCP,software,Done,20/12/2023 13:46,02/01/2024 15:21
+COS-2584,Story,Closed,COS,CoreOS OCP,software,Done,19/12/2023 18:32,08/01/2024 16:25
+COS-2583,Story,Closed,COS,CoreOS OCP,software,Done,19/12/2023 18:31,08/01/2024 16:25
+COS-2582,Story,Closed,COS,CoreOS OCP,software,Done,19/12/2023 18:31,08/01/2024 16:23
+COS-2581,Story,Closed,COS,CoreOS OCP,software,Done,18/12/2023 11:07,19/12/2023 17:56
+COS-2580,Story,Closed,COS,CoreOS OCP,software,Done,15/12/2023 22:05,18/01/2024 17:17
+COS-2579,Story,Closed,COS,CoreOS OCP,software,Done,15/12/2023 21:16,31/01/2024 22:35
+COS-2574,Story,Closed,COS,CoreOS OCP,software,Done,12/12/2023 16:49,05/01/2024 05:19
+COS-2573,Story,Closed,COS,CoreOS OCP,software,Done,11/12/2023 18:06,23/01/2024 20:36
+COS-2571,Story,Closed,COS,CoreOS OCP,software,Done,06/12/2023 16:25,14/12/2023 16:09
+COS-2570,Story,Closed,COS,CoreOS OCP,software,Done,06/12/2023 10:14,19/12/2023 17:56
+COS-2569,Story,Closed,COS,CoreOS OCP,software,Done,06/12/2023 10:12,18/12/2023 11:11
+COS-2568,Story,In Progress,COS,CoreOS OCP,software,,05/12/2023 15:35,
+COS-2567,Story,Closed,COS,CoreOS OCP,software,Done,04/12/2023 19:07,15/01/2024 16:20
+COS-2566,Story,Closed,COS,CoreOS OCP,software,Done,04/12/2023 15:40,26/02/2024 11:07
+COS-2565,Story,Closed,COS,CoreOS OCP,software,Done,04/12/2023 15:40,08/12/2023 10:59
+COS-2564,Spike,New,COS,CoreOS OCP,software,,04/12/2023 14:44,
+COS-2563,Story,Closed,COS,CoreOS OCP,software,Done,01/12/2023 20:16,22/01/2024 18:58
+COS-2562,Task,Closed,COS,CoreOS OCP,software,Done,30/11/2023 17:08,19/12/2023 21:14
+COS-2561,Story,Closed,COS,CoreOS OCP,software,Done,30/11/2023 11:58,26/01/2024 12:06
+COS-2560,Story,Closed,COS,CoreOS OCP,software,Done,29/11/2023 16:30,19/12/2023 17:55
+COS-2559,Story,Closed,COS,CoreOS OCP,software,Done,21/11/2023 21:59,15/02/2024 14:18
+COS-2558,Task,Closed,COS,CoreOS OCP,software,Done,21/11/2023 19:51,04/12/2023 15:42
+COS-2557,Story,Closed,COS,CoreOS OCP,software,Done,21/11/2023 19:33,06/12/2023 10:11
+COS-2556,Story,Closed,COS,CoreOS OCP,software,Done,21/11/2023 19:32,06/12/2023 10:13
+COS-2555,Story,Closed,COS,CoreOS OCP,software,Done,21/11/2023 19:31,06/12/2023 10:15
+COS-2554,Story,Closed,COS,CoreOS OCP,software,Done,20/11/2023 14:54,01/12/2023 18:00
+COS-2552,Story,Closed,COS,CoreOS OCP,software,Done,15/11/2023 20:49,17/11/2023 21:38
+COS-2551,Story,In Progress,COS,CoreOS OCP,software,,15/11/2023 20:09,
+COS-2550,Bug,New,COS,CoreOS OCP,software,,15/11/2023 12:59,
+COS-2549,Story,Closed,COS,CoreOS OCP,software,Done,13/11/2023 21:16,09/01/2024 19:18
+COS-2548,Story,Closed,COS,CoreOS OCP,software,Done,13/11/2023 15:28,26/04/2024 18:34
+COS-2547,Story,Closed,COS,CoreOS OCP,software,Done,13/11/2023 15:26,28/04/2024 12:47
+COS-2546,Story,Closed,COS,CoreOS OCP,software,Done,13/11/2023 15:25,28/04/2024 12:46
+COS-2545,Story,Closed,COS,CoreOS OCP,software,Done,13/11/2023 14:55,30/04/2024 15:18
+COS-2544,Story,Closed,COS,CoreOS OCP,software,Done,08/11/2023 21:42,10/11/2023 16:55
+COS-2543,Story,Closed,COS,CoreOS OCP,software,Done,08/11/2023 21:40,10/11/2023 16:55
+COS-2542,Story,Closed,COS,CoreOS OCP,software,Done,08/11/2023 03:44,08/11/2023 17:53
+COS-2541,Story,Closed,COS,CoreOS OCP,software,Done,07/11/2023 18:25,21/11/2023 19:34
+COS-2540,Story,Closed,COS,CoreOS OCP,software,Done,07/11/2023 18:25,21/11/2023 19:33
+COS-2539,Story,Closed,COS,CoreOS OCP,software,Done,07/11/2023 18:24,21/11/2023 19:33
+COS-2538,Story,Closed,COS,CoreOS OCP,software,Done,06/11/2023 17:50,07/11/2023 18:33
+COS-2537,Story,Closed,COS,CoreOS OCP,software,Done,06/11/2023 17:44,06/11/2023 18:14
+COS-2536,Story,Closed,COS,CoreOS OCP,software,Done,06/11/2023 10:32,06/11/2023 18:16
+COS-2535,Story,Closed,COS,CoreOS OCP,software,Done,06/11/2023 10:24,07/11/2023 18:33
+COS-2534,Story,Closed,COS,CoreOS OCP,software,Done,03/11/2023 20:49,27/04/2024 03:45
+COS-2533,Story,Closed,COS,CoreOS OCP,software,Done,03/11/2023 15:10,07/11/2023 18:33
+COS-2532,Story,Closed,COS,CoreOS OCP,software,Done,02/11/2023 20:37,15/11/2023 17:08
+COS-2531,Story,Closed,COS,CoreOS OCP,software,Done,01/11/2023 12:27,07/03/2024 10:54
+COS-2529,Task,New,COS,CoreOS OCP,software,,29/10/2023 17:38,
+COS-2528,Story,Closed,COS,CoreOS OCP,software,Done,27/10/2023 16:58,01/12/2023 20:13
+COS-2527,Story,Closed,COS,CoreOS OCP,software,Done,26/10/2023 14:21,30/11/2023 14:43
+COS-2526,Story,Closed,COS,CoreOS OCP,software,Done,25/10/2023 15:48,05/01/2024 05:15
+COS-2525,Story,Closed,COS,CoreOS OCP,software,Done,25/10/2023 15:11,01/11/2023 12:56
+COS-2524,Task,New,COS,CoreOS OCP,software,,24/10/2023 18:34,
+COS-2523,Story,Closed,COS,CoreOS OCP,software,Done,24/10/2023 14:46,06/11/2023 10:31
+COS-2522,Story,Closed,COS,CoreOS OCP,software,Done,23/10/2023 14:41,15/07/2024 15:09
+COS-2521,Story,Closed,COS,CoreOS OCP,software,Done,23/10/2023 14:34,13/11/2023 15:42
+COS-2520,Story,Closed,COS,CoreOS OCP,software,Done,23/10/2023 13:44,09/11/2023 21:02
+COS-2519,Story,Closed,COS,CoreOS OCP,software,Done,23/10/2023 13:40,21/11/2023 15:11
+COS-2518,Story,Closed,COS,CoreOS OCP,software,Done,23/10/2023 13:33,23/10/2023 13:34
+COS-2517,Story,Closed,COS,CoreOS OCP,software,Done,23/10/2023 02:52,31/10/2023 17:16
+COS-2516,Story,Closed,COS,CoreOS OCP,software,Done,23/10/2023 02:47,18/03/2024 17:57
+COS-2514,Story,New,COS,CoreOS OCP,software,,19/10/2023 15:15,
+COS-2513,Story,New,COS,CoreOS OCP,software,,19/10/2023 13:37,
+COS-2512,Story,Closed,COS,CoreOS OCP,software,Done,19/10/2023 13:10,19/10/2023 13:14
+COS-2511,Story,Closed,COS,CoreOS OCP,software,Done,18/10/2023 21:50,01/11/2023 12:54
+COS-2510,Story,Closed,COS,CoreOS OCP,software,Done,18/10/2023 21:49,24/10/2023 14:47
+COS-2509,Story,Closed,COS,CoreOS OCP,software,Done,18/10/2023 21:47,01/11/2023 12:55
+COS-2508,Story,Closed,COS,CoreOS OCP,software,Done,18/10/2023 16:07,30/04/2024 15:07
+COS-2507,Story,Closed,COS,CoreOS OCP,software,Done,18/10/2023 16:06,25/04/2024 08:37
+COS-2505,Story,Closed,COS,CoreOS OCP,software,Done,17/10/2023 17:34,26/01/2024 17:54
+COS-2503,Story,Closed,COS,CoreOS OCP,software,Done,17/10/2023 17:17,07/11/2023 13:56
+COS-2501,Story,New,COS,CoreOS OCP,software,,12/10/2023 20:36,
+COS-2500,Story,Closed,COS,CoreOS OCP,software,Done,12/10/2023 15:37,23/10/2023 20:40
+COS-2499,Story,Closed,COS,CoreOS OCP,software,Done,11/10/2023 11:17,18/10/2023 21:48
+COS-2498,Story,Closed,COS,CoreOS OCP,software,Done,11/10/2023 11:16,18/10/2023 21:50
+COS-2497,Story,Closed,COS,CoreOS OCP,software,Done,09/10/2023 16:00,11/10/2023 11:39
+COS-2496,Story,Closed,COS,CoreOS OCP,software,Done,06/10/2023 09:06,15/11/2023 00:44
+COS-2495,Story,Closed,COS,CoreOS OCP,software,Done,05/10/2023 18:06,25/10/2023 13:16
+COS-2492,Story,Closed,COS,CoreOS OCP,software,Done,05/10/2023 14:13,11/10/2023 11:39
+COS-2491,Story,Closed,COS,CoreOS OCP,software,Done,05/10/2023 14:00,18/10/2023 21:52
+COS-2490,Story,New,COS,CoreOS OCP,software,,05/10/2023 02:54,
+COS-2489,Story,Closed,COS,CoreOS OCP,software,Won't Do,05/10/2023 02:53,14/03/2024 14:19
+COS-2488,Spike,Closed,COS,CoreOS OCP,software,Done,05/10/2023 02:49,19/02/2024 20:12
+COS-2487,Story,Closed,COS,CoreOS OCP,software,Done,04/10/2023 18:46,05/10/2023 14:13
+COS-2486,Story,Closed,COS,CoreOS OCP,software,Done,04/10/2023 18:44,05/10/2023 15:13
+COS-2485,Story,Closed,COS,CoreOS OCP,software,Done,04/10/2023 18:39,11/10/2023 11:18
+COS-2484,Story,Closed,COS,CoreOS OCP,software,Done,04/10/2023 09:31,10/01/2024 16:57
+COS-2483,Story,Closed,COS,CoreOS OCP,software,Done,03/10/2023 15:03,24/10/2023 18:41
+COS-2482,Story,Closed,COS,CoreOS OCP,software,Done,03/10/2023 02:50,04/10/2023 10:50
+COS-2481,Story,Refinement,COS,CoreOS OCP,software,,03/10/2023 02:40,
+COS-2480,Story,Closed,COS,CoreOS OCP,software,Done,02/10/2023 19:54,05/10/2023 16:17
+COS-2479,Story,Closed,COS,CoreOS OCP,software,Done,02/10/2023 16:48,25/10/2023 13:20
+COS-2478,Story,Closed,COS,CoreOS OCP,software,Done,02/10/2023 16:46,04/12/2023 19:08
+COS-2477,Story,Closed,COS,CoreOS OCP,software,Done,02/10/2023 16:25,05/10/2023 16:56
+COS-2476,Story,Closed,COS,CoreOS OCP,software,Done,02/10/2023 16:18,04/10/2023 18:54
+COS-2475,Story,Closed,COS,CoreOS OCP,software,Done,02/10/2023 15:20,15/02/2024 09:32
+COS-2473,Task,Closed,COS,CoreOS OCP,software,Done,02/10/2023 15:01,13/11/2023 14:47
+COS-2472,Task,In Progress,COS,CoreOS OCP,software,,02/10/2023 14:59,
+COS-2471,Story,Closed,COS,CoreOS OCP,software,Done,02/10/2023 09:39,26/10/2023 20:41
+COS-2470,Story,Closed,COS,CoreOS OCP,software,Obsolete,29/09/2023 14:08,31/10/2023 12:37
+COS-2469,Story,New,COS,CoreOS OCP,software,,29/09/2023 02:30,
+COS-2468,Story,New,COS,CoreOS OCP,software,,27/09/2023 17:41,
+COS-2467,Story,New,COS,CoreOS OCP,software,,27/09/2023 12:13,
+COS-2466,Story,New,COS,CoreOS OCP,software,,27/09/2023 12:09,
+COS-2465,Story,Closed,COS,CoreOS OCP,software,Duplicate,27/09/2023 12:09,20/12/2023 18:48
+COS-2464,Story,Closed,COS,CoreOS OCP,software,Duplicate,27/09/2023 12:09,20/12/2023 18:48
+COS-2463,Story,Closed,COS,CoreOS OCP,software,Done,26/09/2023 13:13,26/09/2023 18:28
+COS-2459,Story,Closed,COS,CoreOS OCP,software,Done,21/09/2023 15:59,22/09/2023 15:13
+COS-2458,Story,New,COS,CoreOS OCP,software,,21/09/2023 14:55,
+COS-2452,Story,Closed,COS,CoreOS OCP,software,Done,20/09/2023 19:19,26/02/2024 17:09
+COS-2451,Story,Closed,COS,CoreOS OCP,software,Done,20/09/2023 17:29,18/07/2024 14:34
+COS-2450,Story,Closed,COS,CoreOS OCP,software,Done,19/09/2023 15:24,04/10/2023 18:41
+COS-2449,Story,Closed,COS,CoreOS OCP,software,Done,19/09/2023 15:23,04/10/2023 18:59
+COS-2448,Story,Closed,COS,CoreOS OCP,software,Done,19/09/2023 15:22,04/10/2023 19:01
+COS-2447,Task,Closed,COS,CoreOS OCP,software,Won't Do,18/09/2023 19:15,04/12/2023 16:38
+COS-2446,Story,Closed,COS,CoreOS OCP,software,Done,18/09/2023 18:24,19/09/2023 15:25
+COS-2445,Story,Closed,COS,CoreOS OCP,software,Done,18/09/2023 18:22,19/09/2023 15:25
+COS-2444,Story,Closed,COS,CoreOS OCP,software,Done,18/09/2023 13:42,20/09/2023 20:27
+COS-2443,Story,Closed,COS,CoreOS OCP,software,Done,18/09/2023 01:33,19/09/2023 15:25
+COS-2442,Story,Closed,COS,CoreOS OCP,software,Done,16/09/2023 13:28,18/09/2023 01:33
+COS-2441,Story,Closed,COS,CoreOS OCP,software,Done,15/09/2023 19:02,21/09/2023 11:52
+COS-2438,Story,Closed,COS,CoreOS OCP,software,Done,13/09/2023 16:05,26/09/2023 20:42
+COS-2437,Spike,Closed,COS,CoreOS OCP,software,Done,13/09/2023 14:25,18/09/2023 11:31
+COS-2435,Story,Closed,COS,CoreOS OCP,software,Done,12/09/2023 20:30,14/09/2023 19:07
+COS-2433,Story,In Progress,COS,CoreOS OCP,software,,12/09/2023 08:21,
+COS-2432,Story,Closed,COS,CoreOS OCP,software,Done,11/09/2023 19:17,10/01/2024 04:14
+COS-2431,Story,Closed,COS,CoreOS OCP,software,Done,11/09/2023 18:07,21/06/2024 23:23
+COS-2430,Story,Closed,COS,CoreOS OCP,software,Done,11/09/2023 17:08,02/10/2023 16:42
+COS-2429,Story,Closed,COS,CoreOS OCP,software,Won't Do,11/09/2023 17:04,02/10/2023 16:43
+COS-2428,Spike,Closed,COS,CoreOS OCP,software,Done,11/09/2023 16:13,02/10/2023 13:58
+COS-2427,Story,Closed,COS,CoreOS OCP,software,Done,11/09/2023 15:54,13/11/2023 15:41
+COS-2426,Story,Closed,COS,CoreOS OCP,software,Done,11/09/2023 15:46,18/09/2023 19:07
+COS-2425,Story,Closed,COS,CoreOS OCP,software,Done,11/09/2023 15:45,02/10/2023 09:38
+COS-2424,Story,Closed,COS,CoreOS OCP,software,Done,11/09/2023 15:13,26/01/2024 10:27
+COS-2423,Story,Closed,COS,CoreOS OCP,software,Won't Do,11/09/2023 15:11,21/02/2024 10:15
+COS-2422,Story,Closed,COS,CoreOS OCP,software,Done,11/09/2023 15:11,11/09/2023 23:04
+COS-2421,Story,Closed,COS,CoreOS OCP,software,Done,11/09/2023 15:11,04/12/2023 14:53
+COS-2409,Story,Closed,COS,CoreOS OCP,software,Done,11/09/2023 12:21,27/02/2024 08:05
+COS-2408,Story,Closed,COS,CoreOS OCP,software,Done,11/09/2023 00:05,11/09/2023 18:30
+COS-2407,Story,Closed,COS,CoreOS OCP,software,Done,11/09/2023 00:02,11/09/2023 18:30
+COS-2406,Story,Closed,COS,CoreOS OCP,software,Done,08/09/2023 13:44,09/02/2024 04:32
+COS-2405,Story,Closed,COS,CoreOS OCP,software,Duplicate,07/09/2023 14:09,20/12/2023 13:40
+COS-2404,Story,Closed,COS,CoreOS OCP,software,Done,07/09/2023 09:26,15/01/2024 16:07
+COS-2401,Story,Closed,COS,CoreOS OCP,software,Done,31/08/2023 15:12,20/11/2023 10:47
+COS-2400,Story,Closed,COS,CoreOS OCP,software,Done,28/08/2023 14:39,06/09/2023 18:57
+COS-2399,Story,Closed,COS,CoreOS OCP,software,Done,23/08/2023 13:34,19/10/2023 13:03
+COS-2398,Story,Closed,COS,CoreOS OCP,software,Done,22/08/2023 18:48,06/09/2023 09:44
+COS-2397,Story,Closed,COS,CoreOS OCP,software,Done,22/08/2023 18:48,06/09/2023 09:44
+COS-2396,Story,Closed,COS,CoreOS OCP,software,Done,22/08/2023 18:46,06/09/2023 09:44
+COS-2394,Story,In Progress,COS,CoreOS OCP,software,,21/08/2023 15:25,
+COS-2393,Story,Closed,COS,CoreOS OCP,software,Done,21/08/2023 15:19,12/10/2023 14:11
+COS-2392,Story,Closed,COS,CoreOS OCP,software,Done,21/08/2023 15:17,22/08/2023 08:27
+COS-2391,Story,Closed,COS,CoreOS OCP,software,Done,21/08/2023 14:52,21/08/2023 14:53
+COS-2390,Story,Closed,COS,CoreOS OCP,software,Done,21/08/2023 14:02,02/10/2023 14:45
+COS-2389,Spike,Closed,COS,CoreOS OCP,software,Done,21/08/2023 13:59,05/02/2024 17:22
+COS-2388,Spike,Closed,COS,CoreOS OCP,software,Done,21/08/2023 13:55,29/10/2023 14:52
+COS-2387,Story,Closed,COS,CoreOS OCP,software,Done,21/08/2023 13:53,02/10/2023 16:44
+COS-2384,Story,Closed,COS,CoreOS OCP,software,Done,15/08/2023 19:34,21/08/2023 13:42
+COS-2383,Story,New,COS,CoreOS OCP,software,,12/08/2023 02:52,
+COS-2382,Story,New,COS,CoreOS OCP,software,,12/08/2023 02:34,
+COS-2381,Task,New,COS,CoreOS OCP,software,,09/08/2023 23:36,
+COS-2380,Story,Closed,COS,CoreOS OCP,software,Done,09/08/2023 02:40,15/08/2023 19:25
+COS-2379,Story,Closed,COS,CoreOS OCP,software,Done,08/08/2023 19:11,22/08/2023 18:51
+COS-2378,Story,Closed,COS,CoreOS OCP,software,Done,08/08/2023 19:10,22/08/2023 18:51
+COS-2377,Story,Closed,COS,CoreOS OCP,software,Done,08/08/2023 19:07,22/08/2023 18:51
+COS-2374,Story,Closed,COS,CoreOS OCP,software,Duplicate,03/08/2023 22:05,03/08/2023 22:08
+COS-2373,Story,Closed,COS,CoreOS OCP,software,Done,02/08/2023 19:40,16/08/2023 15:45
+COS-2371,Spike,New,COS,CoreOS OCP,software,,02/08/2023 00:51,
+COS-2370,Story,New,COS,CoreOS OCP,software,,01/08/2023 22:14,
+COS-2369,Story,New,COS,CoreOS OCP,software,,01/08/2023 22:14,
+COS-2368,Story,Closed,COS,CoreOS OCP,software,Done,01/08/2023 16:22,16/08/2023 23:21
+COS-2366,Story,In Progress,COS,CoreOS OCP,software,,01/08/2023 14:20,
+COS-2365,Spike,Closed,COS,CoreOS OCP,software,Done,31/07/2023 15:38,11/09/2023 15:52
+COS-2364,Story,Closed,COS,CoreOS OCP,software,Done,31/07/2023 15:35,21/08/2023 06:08
+COS-2363,Story,Closed,COS,CoreOS OCP,software,Done,31/07/2023 15:32,23/08/2023 13:35
+COS-2362,Story,New,COS,CoreOS OCP,software,,31/07/2023 15:24,
+COS-2361,Story,Closed,COS,CoreOS OCP,software,Done,31/07/2023 15:24,21/08/2023 15:02
+COS-2360,Spike,Closed,COS,CoreOS OCP,software,Done,31/07/2023 15:24,21/08/2023 13:41
+COS-2359,Spike,Closed,COS,CoreOS OCP,software,Done,28/07/2023 21:15,28/07/2023 21:17
+COS-2358,Story,New,COS,CoreOS OCP,software,,28/07/2023 15:10,
+COS-2357,Story,Closed,COS,CoreOS OCP,software,Done,27/07/2023 15:22,08/08/2024 18:48
+COS-2356,Story,New,COS,CoreOS OCP,software,,27/07/2023 15:20,
+COS-2354,Story,Closed,COS,CoreOS OCP,software,Done,26/07/2023 13:22,08/08/2023 19:28
+COS-2353,Story,Closed,COS,CoreOS OCP,software,Done,26/07/2023 13:20,08/08/2023 19:27
+COS-2352,Story,Closed,COS,CoreOS OCP,software,Done,26/07/2023 13:18,08/08/2023 19:28
+COS-2351,Story,Closed,COS,CoreOS OCP,software,Done,26/07/2023 10:22,23/10/2023 13:03
+COS-2350,Story,New,COS,CoreOS OCP,software,,26/07/2023 10:22,
+COS-2349,Spike,Closed,COS,CoreOS OCP,software,Done,25/07/2023 20:07,05/08/2023 03:48
+COS-2348,Story,Closed,COS,CoreOS OCP,software,Done,21/07/2023 19:24,24/07/2023 12:49
+COS-2347,Story,New,COS,CoreOS OCP,software,,21/07/2023 12:01,
+COS-2346,Story,New,COS,CoreOS OCP,software,,20/07/2023 15:57,
+COS-2345,Story,New,COS,CoreOS OCP,software,,20/07/2023 14:57,
+COS-2344,Spike,Closed,COS,CoreOS OCP,software,Done,19/07/2023 21:22,25/07/2023 20:36
+COS-2343,Story,Closed,COS,CoreOS OCP,software,Done,18/07/2023 12:47,27/07/2023 11:09
+COS-2342,Story,Closed,COS,CoreOS OCP,software,Done,18/07/2023 06:35,19/07/2023 12:13
+COS-2341,Story,Closed,COS,CoreOS OCP,software,Duplicate,17/07/2023 12:44,15/01/2024 16:55
+COS-2340,Story,Closed,COS,CoreOS OCP,software,Done,14/07/2023 20:32,15/07/2023 14:41
+COS-2339,Spike,Closed,COS,CoreOS OCP,software,Done,12/07/2023 21:50,12/07/2023 23:52
+COS-2338,Story,Closed,COS,CoreOS OCP,software,Done,12/07/2023 18:26,13/07/2023 19:42
+COS-2337,Story,Closed,COS,CoreOS OCP,software,Done,12/07/2023 17:28,26/07/2023 13:28
+COS-2336,Story,Closed,COS,CoreOS OCP,software,Done,12/07/2023 17:27,26/07/2023 13:28
+COS-2335,Story,Closed,COS,CoreOS OCP,software,Done,12/07/2023 17:25,26/07/2023 13:28
+COS-2334,Story,New,COS,CoreOS OCP,software,,12/07/2023 16:39,
+COS-2333,Ticket,Closed,COS,CoreOS OCP,software,Duplicate,11/07/2023 14:43,11/07/2023 14:57
+COS-2332,Ticket,Closed,COS,CoreOS OCP,software,Done,11/07/2023 14:39,01/08/2023 14:19
+COS-2331,Story,New,COS,CoreOS OCP,software,,11/07/2023 14:29,
+COS-2330,Task,Closed,COS,CoreOS OCP,software,Done,10/07/2023 20:27,05/08/2023 03:43
+COS-2329,Story,Closed,COS,CoreOS OCP,software,Done,08/07/2023 08:09,21/09/2023 20:57
+COS-2327,Story,Closed,COS,CoreOS OCP,software,Done,05/07/2023 10:16,17/10/2023 12:05
+COS-2326,Story,Closed,COS,CoreOS OCP,software,Done,29/06/2023 22:55,12/07/2023 18:12
+COS-2325,Story,Closed,COS,CoreOS OCP,software,Done,29/06/2023 15:22,06/07/2023 16:05
+COS-2324,Story,Closed,COS,CoreOS OCP,software,Done,29/06/2023 14:52,06/05/2024 22:11
+COS-2323,Story,Closed,COS,CoreOS OCP,software,Done,28/06/2023 21:42,29/06/2023 22:55
+COS-2322,Story,Closed,COS,CoreOS OCP,software,Done,28/06/2023 18:44,31/08/2023 17:36
+COS-2321,Task,Closed,COS,CoreOS OCP,software,Done,28/06/2023 07:47,28/06/2023 07:49
+COS-2320,Story,Closed,COS,CoreOS OCP,software,Done,28/06/2023 07:37,04/07/2023 13:14
+COS-2319,Story,Closed,COS,CoreOS OCP,software,Done,27/06/2023 18:48,12/07/2023 17:33
+COS-2318,Story,Closed,COS,CoreOS OCP,software,Done,27/06/2023 18:48,12/07/2023 17:34
+COS-2317,Story,Closed,COS,CoreOS OCP,software,Done,27/06/2023 18:47,12/07/2023 17:33
+COS-2316,Story,Review,COS,CoreOS OCP,software,,26/06/2023 13:26,
+COS-2315,Story,Closed,COS,CoreOS OCP,software,Done,26/06/2023 08:41,24/08/2023 18:37
+COS-2313,Story,Closed,COS,CoreOS OCP,software,Done,22/06/2023 16:02,05/07/2023 23:50
+COS-2312,Story,New,COS,CoreOS OCP,software,,21/06/2023 17:09,
+COS-2311,Story,New,COS,CoreOS OCP,software,,21/06/2023 17:03,
+COS-2310,Story,New,COS,CoreOS OCP,software,,21/06/2023 17:03,
+COS-2309,Story,New,COS,CoreOS OCP,software,,21/06/2023 17:02,
+COS-2308,Story,New,COS,CoreOS OCP,software,,21/06/2023 17:02,
+COS-2307,Story,New,COS,CoreOS OCP,software,,21/06/2023 17:02,
+COS-2306,Story,New,COS,CoreOS OCP,software,,21/06/2023 17:02,
+COS-2305,Story,New,COS,CoreOS OCP,software,,21/06/2023 17:01,
+COS-2304,Story,New,COS,CoreOS OCP,software,,21/06/2023 17:01,
+COS-2303,Story,New,COS,CoreOS OCP,software,,21/06/2023 17:01,
+COS-2302,Story,New,COS,CoreOS OCP,software,,21/06/2023 17:00,
+COS-2301,Story,New,COS,CoreOS OCP,software,,21/06/2023 17:00,
+COS-2300,Story,New,COS,CoreOS OCP,software,,21/06/2023 17:00,
+COS-2299,Story,New,COS,CoreOS OCP,software,,21/06/2023 16:59,
+COS-2298,Story,New,COS,CoreOS OCP,software,,21/06/2023 16:59,
+COS-2297,Story,New,COS,CoreOS OCP,software,,21/06/2023 16:59,
+COS-2296,Story,New,COS,CoreOS OCP,software,,21/06/2023 16:59,
+COS-2295,Story,New,COS,CoreOS OCP,software,,21/06/2023 16:58,
+COS-2294,Story,New,COS,CoreOS OCP,software,,21/06/2023 16:58,
+COS-2293,Story,New,COS,CoreOS OCP,software,,21/06/2023 16:58,
+COS-2290,Story,New,COS,CoreOS OCP,software,,21/06/2023 16:52,
+COS-2289,Story,New,COS,CoreOS OCP,software,,21/06/2023 16:51,
+COS-2288,Story,New,COS,CoreOS OCP,software,,21/06/2023 16:50,
+COS-2287,Story,New,COS,CoreOS OCP,software,,21/06/2023 16:50,
+COS-2286,Story,New,COS,CoreOS OCP,software,,21/06/2023 16:49,
+COS-2285,Story,New,COS,CoreOS OCP,software,,21/06/2023 16:48,
+COS-2284,Story,New,COS,CoreOS OCP,software,,21/06/2023 16:47,
+COS-2283,Story,New,COS,CoreOS OCP,software,,21/06/2023 16:47,
+COS-2282,Story,New,COS,CoreOS OCP,software,,21/06/2023 16:46,
+COS-2281,Story,New,COS,CoreOS OCP,software,,21/06/2023 16:46,
+COS-2280,Spike,New,COS,CoreOS OCP,software,,21/06/2023 16:46,
+COS-2279,Spike,Closed,COS,CoreOS OCP,software,Done,21/06/2023 16:42,11/07/2023 07:16
+COS-2277,Task,Closed,COS,CoreOS OCP,software,Done,21/06/2023 13:45,21/06/2023 13:46
+COS-2276,Story,Closed,COS,CoreOS OCP,software,Done,20/06/2023 15:16,25/07/2023 14:39
+COS-2275,Story,Closed,COS,CoreOS OCP,software,Done,20/06/2023 15:15,22/06/2023 06:32
+COS-2274,Story,New,COS,CoreOS OCP,software,,20/06/2023 14:00,
+COS-2272,Story,Closed,COS,CoreOS OCP,software,Done,19/06/2023 14:31,15/02/2024 15:41
+COS-2269,Story,New,COS,CoreOS OCP,software,,15/06/2023 15:06,
+COS-2268,Story,Closed,COS,CoreOS OCP,software,Done,15/06/2023 14:54,31/07/2023 17:05
+COS-2267,Story,New,COS,CoreOS OCP,software,,15/06/2023 14:52,
+COS-2266,Story,Closed,COS,CoreOS OCP,software,Done,14/06/2023 17:47,14/06/2023 17:47
+COS-2265,Story,Closed,COS,CoreOS OCP,software,Done,14/06/2023 16:22,18/09/2023 18:16
+COS-2264,Story,Closed,COS,CoreOS OCP,software,Done,14/06/2023 16:17,27/06/2023 18:49
+COS-2263,Story,Closed,COS,CoreOS OCP,software,Done,14/06/2023 16:16,27/06/2023 18:50
+COS-2262,Story,Closed,COS,CoreOS OCP,software,Done,14/06/2023 15:02,27/06/2023 18:50
+COS-2261,Story,Closed,COS,CoreOS OCP,software,Done,13/06/2023 14:56,20/06/2023 14:00
+COS-2260,Story,Closed,COS,CoreOS OCP,software,Done,12/06/2023 13:34,12/06/2023 18:45
+COS-2259,Story,Closed,COS,CoreOS OCP,software,Done,12/06/2023 11:18,19/09/2023 10:11
+COS-2258,Story,Closed,COS,CoreOS OCP,software,Done,09/06/2023 16:45,17/04/2024 15:09
+COS-2249,Story,Closed,COS,CoreOS OCP,software,Done,07/06/2023 20:33,22/06/2023 17:10
+COS-2248,Story,Closed,COS,CoreOS OCP,software,Done,06/06/2023 19:13,09/06/2023 20:29
+COS-2247,Story,Closed,COS,CoreOS OCP,software,Done,05/06/2023 17:07,06/06/2023 19:04
+COS-2246,Story,New,COS,CoreOS OCP,software,,05/06/2023 15:37,
+COS-2245,Bug,Closed,COS,CoreOS OCP,software,Duplicate,02/06/2023 11:50,08/06/2023 15:40
+COS-2244,Story,Closed,COS,CoreOS OCP,software,Done,01/06/2023 17:21,07/06/2023 01:58
+COS-2243,Story,Closed,COS,CoreOS OCP,software,Done,01/06/2023 13:26,01/06/2023 14:34
+COS-2242,Story,Closed,COS,CoreOS OCP,software,Done,01/06/2023 12:06,14/06/2023 16:22
+COS-2241,Story,Closed,COS,CoreOS OCP,software,Done,01/06/2023 12:05,14/06/2023 16:23
+COS-2240,Story,Closed,COS,CoreOS OCP,software,Done,01/06/2023 12:04,14/06/2023 16:23
+COS-2239,Story,Closed,COS,CoreOS OCP,software,Done,30/05/2023 16:55,07/06/2023 15:58
+COS-2238,Task,Closed,COS,CoreOS OCP,software,Obsolete,30/05/2023 14:04,13/12/2023 14:03
+COS-2237,Story,Closed,COS,CoreOS OCP,software,Done,26/05/2023 19:01,12/06/2023 21:36
+COS-2236,Bug,Closed,COS,CoreOS OCP,software,Obsolete,26/05/2023 12:27,29/05/2023 13:23
+COS-2235,Story,Closed,COS,CoreOS OCP,software,Done,26/05/2023 03:50,06/06/2023 16:22
+COS-2234,Task,Closed,COS,CoreOS OCP,software,Won't Do,25/05/2023 17:09,04/12/2023 14:50
+COS-2233,Story,Closed,COS,CoreOS OCP,software,Done,25/05/2023 14:50,24/08/2023 14:50
+COS-2232,Story,Closed,COS,CoreOS OCP,software,Done,25/05/2023 14:49,04/09/2023 00:32
+COS-2230,Story,Closed,COS,CoreOS OCP,software,Done,24/05/2023 14:11,26/10/2023 06:30
+COS-2229,Story,Closed,COS,CoreOS OCP,software,Done,24/05/2023 14:08,27/02/2024 07:13
+COS-2228,Story,Review,COS,CoreOS OCP,software,,24/05/2023 14:07,
+COS-2225,Task,Closed,COS,CoreOS OCP,software,Done,23/05/2023 07:24,08/06/2023 13:45
+COS-2224,Story,Closed,COS,CoreOS OCP,software,Done,22/05/2023 20:29,05/07/2023 10:15
+COS-2223,Story,Closed,COS,CoreOS OCP,software,Done,22/05/2023 20:23,23/06/2023 18:46
+COS-2222,Story,Closed,COS,CoreOS OCP,software,Done,22/05/2023 20:20,23/06/2023 18:46
+COS-2215,Story,Closed,COS,CoreOS OCP,software,Done,17/05/2023 21:23,27/06/2023 15:50
+COS-2214,Story,Closed,COS,CoreOS OCP,software,Done,17/05/2023 17:37,31/05/2023 17:01
+COS-2213,Story,Closed,COS,CoreOS OCP,software,Done,17/05/2023 14:45,27/06/2023 15:49
+COS-2212,Story,Closed,COS,CoreOS OCP,software,Done,17/05/2023 13:51,01/06/2023 12:09
+COS-2211,Story,Closed,COS,CoreOS OCP,software,Done,17/05/2023 13:51,01/06/2023 12:09
+COS-2210,Story,Closed,COS,CoreOS OCP,software,Done,17/05/2023 13:51,01/06/2023 12:09
+COS-2209,Story,Closed,COS,CoreOS OCP,software,Duplicate,17/05/2023 11:15,17/05/2023 14:58
+COS-2208,Task,Closed,COS,CoreOS OCP,software,Done,15/05/2023 20:26,14/06/2023 19:05
+COS-2207,Story,Closed,COS,CoreOS OCP,software,Done,15/05/2023 12:04,23/05/2023 19:45
+COS-2206,Story,Closed,COS,CoreOS OCP,software,Done,15/05/2023 12:02,28/07/2023 14:04
+COS-2205,Story,New,COS,CoreOS OCP,software,,10/05/2023 20:37,
+COS-2204,Story,Closed,COS,CoreOS OCP,software,Done,10/05/2023 20:18,18/05/2023 13:37
+COS-2203,Story,Closed,COS,CoreOS OCP,software,Done,10/05/2023 13:34,01/06/2023 02:42
+COS-2202,Story,New,COS,CoreOS OCP,software,,10/05/2023 13:32,
+COS-2201,Story,Closed,COS,CoreOS OCP,software,Done,10/05/2023 13:14,07/06/2023 01:08
+COS-2200,Spike,Closed,COS,CoreOS OCP,software,Done,08/05/2023 16:37,18/05/2023 21:25
+COS-2198,Story,Closed,COS,CoreOS OCP,software,Done,08/05/2023 16:00,08/05/2023 20:14
+COS-2197,Story,Closed,COS,CoreOS OCP,software,Done,08/05/2023 15:14,22/05/2023 20:33
+COS-2196,Story,Closed,COS,CoreOS OCP,software,Done,08/05/2023 15:02,27/06/2023 15:51
+COS-2195,Story,In Progress,COS,CoreOS OCP,software,,08/05/2023 13:25,
+COS-2194,Story,Closed,COS,CoreOS OCP,software,Done,03/05/2023 06:08,15/05/2023 12:00
+COS-2193,Story,Closed,COS,CoreOS OCP,software,Done,03/05/2023 01:37,17/05/2023 15:08
+COS-2192,Story,Closed,COS,CoreOS OCP,software,Done,03/05/2023 01:37,17/05/2023 15:08
+COS-2191,Story,Closed,COS,CoreOS OCP,software,Done,03/05/2023 01:36,17/05/2023 15:07
+COS-2190,Story,Closed,COS,CoreOS OCP,software,Done,26/04/2023 16:49,09/05/2023 19:10
+COS-2188,Story,Closed,COS,CoreOS OCP,software,Done,26/04/2023 06:07,15/05/2023 12:00
+COS-2187,Story,Closed,COS,CoreOS OCP,software,Done,21/04/2023 20:15,03/05/2023 01:41
+COS-2186,Story,Closed,COS,CoreOS OCP,software,Done,19/04/2023 19:39,03/05/2023 20:54
+COS-2185,Story,Closed,COS,CoreOS OCP,software,Done,19/04/2023 13:21,15/05/2023 02:27
+COS-2184,Task,Closed,COS,CoreOS OCP,software,Done,19/04/2023 11:46,07/07/2023 18:12
+COS-2183,Story,Closed,COS,CoreOS OCP,software,Done,19/04/2023 07:52,03/05/2023 01:41
+COS-2182,Story,Closed,COS,CoreOS OCP,software,Done,19/04/2023 07:50,03/05/2023 01:41
+COS-2181,Story,Closed,COS,CoreOS OCP,software,Done,19/04/2023 07:49,22/04/2023 03:43
+COS-2180,Bug,Closed,COS,CoreOS OCP,software,Done,18/04/2023 15:56,08/05/2023 14:02
+COS-2179,Bug,Closed,COS,CoreOS OCP,software,Done,18/04/2023 13:24,24/04/2023 16:29
+COS-2178,Story,Closed,COS,CoreOS OCP,software,Done,18/04/2023 13:20,19/04/2023 20:15
+COS-2177,Story,Closed,COS,CoreOS OCP,software,Done,17/04/2023 16:06,28/06/2023 12:30
+COS-2176,Story,Closed,COS,CoreOS OCP,software,Done,14/04/2023 05:03,29/06/2023 21:58
+COS-2174,Story,Closed,COS,CoreOS OCP,software,Done,14/04/2023 02:54,15/04/2023 17:53
+COS-2173,Story,New,COS,CoreOS OCP,software,,13/04/2023 17:33,
+COS-2172,Story,Closed,COS,CoreOS OCP,software,Done,13/04/2023 17:21,01/08/2023 15:02
+COS-2171,Story,New,COS,CoreOS OCP,software,,13/04/2023 17:19,
+COS-2170,Story,New,COS,CoreOS OCP,software,,13/04/2023 17:15,
+COS-2169,Bug,Closed,COS,CoreOS OCP,software,Done,13/04/2023 17:11,14/11/2023 16:19
+COS-2167,Story,Closed,COS,CoreOS OCP,software,Done,13/04/2023 14:17,08/05/2023 13:38
+COS-2166,Story,Closed,COS,CoreOS OCP,software,Done,13/04/2023 14:15,30/05/2023 14:46
+COS-2165,Story,Closed,COS,CoreOS OCP,software,Won't Do,13/04/2023 14:14,08/05/2023 13:35
+COS-2164,Story,Closed,COS,CoreOS OCP,software,Won't Do,13/04/2023 14:10,08/05/2023 13:37
+COS-2163,Task,Closed,COS,CoreOS OCP,software,Won't Do,13/04/2023 14:05,08/05/2023 13:36
+COS-2162,Story,New,COS,CoreOS OCP,software,,12/04/2023 21:17,
+COS-2161,Story,Closed,COS,CoreOS OCP,software,Done,12/04/2023 20:56,14/04/2023 02:22
+COS-2160,Story,Closed,COS,CoreOS OCP,software,Done,12/04/2023 20:43,13/04/2023 15:45
+COS-2159,Story,New,COS,CoreOS OCP,software,,12/04/2023 13:07,
+COS-2158,Story,New,COS,CoreOS OCP,software,,12/04/2023 13:06,
+COS-2157,Story,New,COS,CoreOS OCP,software,,12/04/2023 10:45,
+COS-2156,Story,New,COS,CoreOS OCP,software,,12/04/2023 10:44,
+COS-2154,Story,Closed,COS,CoreOS OCP,software,Done,12/04/2023 06:09,13/04/2023 16:01
+COS-2153,Story,Closed,COS,CoreOS OCP,software,Done,12/04/2023 04:40,25/08/2023 20:51
+COS-2152,Story,Closed,COS,CoreOS OCP,software,Done,11/04/2023 15:44,12/04/2023 20:42
+COS-2151,Story,Closed,COS,CoreOS OCP,software,Done,11/04/2023 08:51,20/06/2023 14:02
+COS-2150,Story,Closed,COS,CoreOS OCP,software,Done,11/04/2023 02:17,13/04/2023 15:57
+COS-2147,Story,Closed,COS,CoreOS OCP,software,Done,05/04/2023 19:15,13/04/2023 15:29
+COS-2146,Story,New,COS,CoreOS OCP,software,,05/04/2023 18:58,
+COS-2145,Task,Closed,COS,CoreOS OCP,software,Done,05/04/2023 15:03,05/04/2023 15:26
+COS-2143,Story,Closed,COS,CoreOS OCP,software,Done,04/04/2023 20:13,19/04/2023 07:52
+COS-2142,Story,Closed,COS,CoreOS OCP,software,Done,04/04/2023 20:12,19/04/2023 07:50
+COS-2141,Story,Closed,COS,CoreOS OCP,software,Done,04/04/2023 20:12,19/04/2023 07:51
+COS-2140,Story,Closed,COS,CoreOS OCP,software,Duplicate,30/03/2023 18:55,10/04/2023 14:03
+COS-2139,Story,Closed,COS,CoreOS OCP,software,Done,28/03/2023 22:52,12/04/2023 19:43
+COS-2138,Story,Closed,COS,CoreOS OCP,software,Done,27/03/2023 15:59,01/05/2023 17:25
+COS-2137,Story,Closed,COS,CoreOS OCP,software,Done,27/03/2023 15:33,17/04/2023 14:29
+COS-2136,Story,Closed,COS,CoreOS OCP,software,Done,27/03/2023 15:28,03/05/2023 06:07
+COS-2135,Story,Closed,COS,CoreOS OCP,software,Done,27/03/2023 15:23,17/04/2023 06:54
+COS-2132,Story,Closed,COS,CoreOS OCP,software,Done,24/03/2023 19:00,23/10/2023 14:02
+COS-2131,Story,Closed,COS,CoreOS OCP,software,Done,24/03/2023 17:25,31/07/2023 15:04
+COS-2129,Story,Closed,COS,CoreOS OCP,software,Done,23/03/2023 14:00,04/04/2023 20:20
+COS-2128,Story,Closed,COS,CoreOS OCP,software,Done,23/03/2023 13:59,04/04/2023 20:19
+COS-2127,Story,Closed,COS,CoreOS OCP,software,Done,23/03/2023 13:59,04/04/2023 20:19
+COS-2126,Spike,Closed,COS,CoreOS OCP,software,Done,23/03/2023 11:57,21/06/2023 13:43
+COS-2125,Story,New,COS,CoreOS OCP,software,,21/03/2023 21:21,
+COS-2122,Story,Closed,COS,CoreOS OCP,software,Done,21/03/2023 18:27,23/03/2023 18:44
+COS-2121,Story,Closed,COS,CoreOS OCP,software,Done,21/03/2023 17:51,23/03/2023 14:06
+COS-2120,Story,Closed,COS,CoreOS OCP,software,Done,21/03/2023 17:50,22/03/2023 21:30
+COS-2118,Story,Closed,COS,CoreOS OCP,software,Done,21/03/2023 00:13,22/03/2023 01:28
+COS-2117,Story,Closed,COS,CoreOS OCP,software,Done,20/03/2023 14:30,29/03/2023 18:21
+COS-2116,Story,Closed,COS,CoreOS OCP,software,Done,16/03/2023 21:18,31/03/2023 21:49
+COS-2113,Story,Closed,COS,CoreOS OCP,software,Done,14/03/2023 07:24,14/03/2023 13:58
+COS-2112,Story,Closed,COS,CoreOS OCP,software,Done,13/03/2023 20:40,23/03/2023 14:05
+COS-2111,Task,Closed,COS,CoreOS OCP,software,Obsolete,13/03/2023 20:13,08/05/2023 22:00
+COS-2110,Story,Closed,COS,CoreOS OCP,software,Done,13/03/2023 16:38,27/03/2023 14:53
+COS-2109,Story,Closed,COS,CoreOS OCP,software,Done,11/03/2023 10:10,22/03/2023 13:42
+COS-2108,Story,Closed,COS,CoreOS OCP,software,Done,10/03/2023 19:35,14/03/2023 15:40
+COS-2107,Story,Closed,COS,CoreOS OCP,software,Done,09/03/2023 14:28,14/04/2023 21:24
+COS-2104,Story,Closed,COS,CoreOS OCP,software,Done,07/03/2023 15:24,23/03/2023 14:06
+COS-2103,Story,Closed,COS,CoreOS OCP,software,Done,07/03/2023 15:20,21/03/2023 18:01
+COS-2102,Story,Closed,COS,CoreOS OCP,software,Done,06/03/2023 21:11,21/03/2023 20:35
+COS-2101,Story,Closed,COS,CoreOS OCP,software,Duplicate,06/03/2023 21:04,16/03/2023 15:37
+COS-2100,Story,Closed,COS,CoreOS OCP,software,Done,06/03/2023 20:49,14/03/2023 03:28
+COS-2099,Story,Closed,COS,CoreOS OCP,software,Done,06/03/2023 16:47,09/03/2023 14:47
+COS-2098,Story,Closed,COS,CoreOS OCP,software,Done,06/03/2023 16:22,06/04/2023 22:14
+COS-2097,Task,Closed,COS,CoreOS OCP,software,Done,06/03/2023 14:58,15/03/2023 09:19
+COS-2096,Story,Closed,COS,CoreOS OCP,software,Done,06/03/2023 14:39,27/03/2023 15:05
+COS-2095,Story,Closed,COS,CoreOS OCP,software,Done,06/03/2023 08:29,17/04/2023 08:46
+COS-2094,Story,New,COS,CoreOS OCP,software,,03/03/2023 22:35,
+COS-2093,Story,Closed,COS,CoreOS OCP,software,Done,03/03/2023 18:42,06/03/2023 03:24
+COS-2092,Task,Closed,COS,CoreOS OCP,software,Obsolete,03/03/2023 18:17,10/04/2023 13:39
+COS-2091,Story,Closed,COS,CoreOS OCP,software,Done,03/03/2023 12:37,13/03/2023 14:14
+COS-2090,Story,New,COS,CoreOS OCP,software,,02/03/2023 22:27,
+COS-2089,Story,Closed,COS,CoreOS OCP,software,Done,02/03/2023 22:25,04/05/2023 18:15
+COS-2088,Story,Closed,COS,CoreOS OCP,software,Done,02/03/2023 22:22,04/05/2023 13:48
+COS-2087,Story,New,COS,CoreOS OCP,software,,02/03/2023 20:11,
+COS-2086,Story,Closed,COS,CoreOS OCP,software,Done,02/03/2023 19:56,03/03/2023 04:27
+COS-2085,Story,Closed,COS,CoreOS OCP,software,Done,02/03/2023 18:23,17/03/2023 10:21
+COS-2084,Story,Closed,COS,CoreOS OCP,software,Done,02/03/2023 18:22,19/04/2023 18:02
+COS-2083,Story,Closed,COS,CoreOS OCP,software,Duplicate,02/03/2023 18:22,02/03/2023 18:23
+COS-2081,Bug,Closed,COS,CoreOS OCP,software,Done,02/03/2023 13:17,22/03/2023 07:08
+COS-2080,Story,Closed,COS,CoreOS OCP,software,Done,28/02/2023 15:12,08/03/2023 14:27
+COS-2077,Story,Closed,COS,CoreOS OCP,software,Done,27/02/2023 21:18,27/02/2023 22:30
+COS-2076,Story,Closed,COS,CoreOS OCP,software,Done,27/02/2023 01:28,02/03/2023 01:14
+COS-2075,Story,Closed,COS,CoreOS OCP,software,Done,23/02/2023 20:29,06/03/2023 14:27
+COS-2074,Story,New,COS,CoreOS OCP,software,,23/02/2023 17:33,
+COS-2072,Bug,Closed,COS,CoreOS OCP,software,Done,23/02/2023 16:12,02/03/2023 20:55
+COS-2071,Task,Closed,COS,CoreOS OCP,software,Done,22/02/2023 22:16,23/02/2023 22:42
+COS-2070,Story,Closed,COS,CoreOS OCP,software,Done,22/02/2023 16:12,02/03/2023 15:51
+COS-2069,Task,Closed,COS,CoreOS OCP,software,Duplicate,22/02/2023 14:04,23/02/2023 13:50
+COS-2068,Story,Closed,COS,CoreOS OCP,software,Done,21/02/2023 19:02,13/03/2023 20:42
+COS-2067,Story,Closed,COS,CoreOS OCP,software,Done,21/02/2023 19:01,07/03/2023 15:24
+COS-2066,Story,Closed,COS,CoreOS OCP,software,Done,21/02/2023 19:00,07/03/2023 15:20
+COS-2065,Story,New,COS,CoreOS OCP,software,,21/02/2023 15:54,
+COS-2064,Task,Closed,COS,CoreOS OCP,software,Done,20/02/2023 21:22,21/02/2023 21:10
+COS-2062,Task,Closed,COS,CoreOS OCP,software,Duplicate,19/02/2023 06:35,19/02/2023 06:36
+COS-2061,Story,Closed,COS,CoreOS OCP,software,Done,18/02/2023 03:50,27/02/2023 20:53
+COS-2060,Story,Closed,COS,CoreOS OCP,software,Done,18/02/2023 03:38,01/08/2023 14:06
+COS-2056,Task,Closed,COS,CoreOS OCP,software,Done,16/02/2023 17:05,16/02/2023 17:36
+COS-2055,Story,Closed,COS,CoreOS OCP,software,Done,13/02/2023 17:35,14/06/2024 20:53
+COS-2054,Story,Closed,COS,CoreOS OCP,software,Done,13/02/2023 17:31,20/02/2023 23:53
+COS-2053,Story,Closed,COS,CoreOS OCP,software,Done,13/02/2023 17:12,06/03/2023 15:00
+COS-2052,Story,Closed,COS,CoreOS OCP,software,Done,13/02/2023 17:02,02/03/2023 22:31
+COS-2051,Story,Closed,COS,CoreOS OCP,software,Done,13/02/2023 16:17,06/03/2023 21:54
+COS-2050,Story,New,COS,CoreOS OCP,software,,13/02/2023 15:48,
+COS-2049,Task,Closed,COS,CoreOS OCP,software,Done,13/02/2023 15:12,15/02/2023 17:28
+COS-2048,Story,Closed,COS,CoreOS OCP,software,Done,13/02/2023 15:02,16/06/2023 21:32
+COS-2047,Story,New,COS,CoreOS OCP,software,,13/02/2023 14:36,
+COS-2046,Story,New,COS,CoreOS OCP,software,,13/02/2023 14:19,
+COS-2045,Task,Closed,COS,CoreOS OCP,software,Done,13/02/2023 14:18,27/03/2023 13:08
+COS-2044,Story,In Progress,COS,CoreOS OCP,software,,13/02/2023 14:15,
+COS-2043,Story,New,COS,CoreOS OCP,software,,13/02/2023 14:14,
+COS-2042,Task,Closed,COS,CoreOS OCP,software,Done,13/02/2023 14:11,27/03/2023 13:07
+COS-2041,Task,Closed,COS,CoreOS OCP,software,Done,13/02/2023 14:07,13/02/2023 14:09
+COS-2040,Story,Closed,COS,CoreOS OCP,software,Done,09/02/2023 15:39,26/06/2023 14:27
+COS-2039,Story,Closed,COS,CoreOS OCP,software,Done,09/02/2023 14:40,10/02/2023 14:14
+COS-2038,Story,Closed,COS,CoreOS OCP,software,Done,09/02/2023 14:36,27/02/2023 13:30
+COS-2037,Story,Closed,COS,CoreOS OCP,software,Done,09/02/2023 14:34,27/02/2023 13:29
+COS-2036,Story,Closed,COS,CoreOS OCP,software,Done,09/02/2023 14:30,15/02/2023 05:37
+COS-2035,Story,Closed,COS,CoreOS OCP,software,Done,09/02/2023 14:28,23/02/2023 16:04
+COS-2034,Story,Closed,COS,CoreOS OCP,software,Done,09/02/2023 14:26,22/02/2023 10:14
+COS-2033,Story,Closed,COS,CoreOS OCP,software,Done,09/02/2023 14:24,23/02/2023 16:01
+COS-2032,Task,Closed,COS,CoreOS OCP,software,Done,09/02/2023 02:53,09/02/2023 03:38
+COS-2031,Story,Closed,COS,CoreOS OCP,software,Done,08/02/2023 17:06,27/02/2023 22:02
+COS-2029,Story,Closed,COS,CoreOS OCP,software,Done,07/02/2023 21:24,21/02/2023 22:03
+COS-2028,Story,Closed,COS,CoreOS OCP,software,Done,07/02/2023 21:24,21/02/2023 22:03
+COS-2027,Story,Closed,COS,CoreOS OCP,software,Done,07/02/2023 21:22,21/02/2023 22:03
+COS-2026,Story,Closed,COS,CoreOS OCP,software,Done,07/02/2023 16:56,22/02/2023 22:14
+COS-2024,Story,Closed,COS,CoreOS OCP,software,Obsolete,05/02/2023 04:52,05/02/2023 06:00
+COS-2023,Story,Closed,COS,CoreOS OCP,software,Done,04/02/2023 20:07,10/02/2023 17:40
+COS-2022,Bug,Closed,COS,CoreOS OCP,software,Done,01/02/2023 19:33,17/03/2023 20:13
+COS-2021,Story,Closed,COS,CoreOS OCP,software,Done,02/02/2023 15:23,23/03/2023 18:04
+COS-2020,Story,Closed,COS,CoreOS OCP,software,Obsolete,01/02/2023 00:54,04/02/2023 20:10
+COS-2017,Story,Closed,COS,CoreOS OCP,software,Done,30/01/2023 20:02,16/05/2023 16:23
+COS-2016,Story,Closed,COS,CoreOS OCP,software,Done,28/01/2023 06:55,06/02/2023 17:15
+COS-2014,Story,Closed,COS,CoreOS OCP,software,Done,26/01/2023 13:14,07/02/2023 21:27
+COS-2013,Story,Closed,COS,CoreOS OCP,software,Done,26/01/2023 13:12,07/02/2023 21:27
+COS-2012,Story,Closed,COS,CoreOS OCP,software,Done,26/01/2023 13:10,07/02/2023 21:25
+COS-2007,Story,New,COS,CoreOS OCP,software,,25/01/2023 14:53,
+COS-2006,Bug,Closed,COS,CoreOS OCP,software,Not a Bug,25/01/2023 11:37,26/01/2023 14:07
+COS-2005,Story,Closed,COS,CoreOS OCP,software,Done,25/01/2023 10:31,23/03/2023 16:24
+COS-2004,Story,Closed,COS,CoreOS OCP,software,Done,24/01/2023 14:57,13/02/2023 16:22
+COS-2003,Story,Closed,COS,CoreOS OCP,software,Done,24/01/2023 06:53,27/03/2023 06:04
+COS-2002,Story,Closed,COS,CoreOS OCP,software,Done,24/01/2023 06:51,08/02/2023 09:31
+COS-2000,Story,Closed,COS,CoreOS OCP,software,Done,23/01/2023 16:07,13/02/2023 14:40
+COS-1999,Task,Closed,COS,CoreOS OCP,software,Obsolete,23/01/2023 15:00,26/01/2023 19:28
+COS-1998,Story,Closed,COS,CoreOS OCP,software,Done,23/01/2023 14:42,31/01/2023 16:29
+COS-1997,Story,Closed,COS,CoreOS OCP,software,Duplicate,23/01/2023 14:39,23/01/2023 14:43
+COS-1995,Story,New,COS,CoreOS OCP,software,,23/01/2023 03:47,
+COS-1994,Story,Closed,COS,CoreOS OCP,software,Done,20/01/2023 15:20,09/02/2023 20:54
+COS-1993,Bug,Closed,COS,CoreOS OCP,software,Done,20/01/2023 09:28,26/01/2023 17:22
+COS-1992,Task,Closed,COS,CoreOS OCP,software,Duplicate,19/01/2023 15:14,09/02/2023 21:36
+COS-1991,Story,Closed,COS,CoreOS OCP,software,Done,19/01/2023 01:43,23/01/2023 14:41
+COS-1989,Task,Closed,COS,CoreOS OCP,software,Obsolete,18/01/2023 19:18,19/01/2023 15:06
+COS-1988,Bug,Closed,COS,CoreOS OCP,software,Done,18/01/2023 19:05,19/01/2023 15:05
+COS-1985,Story,Closed,COS,CoreOS OCP,software,Done,16/01/2023 21:18,29/01/2023 02:51
+COS-1984,Task,Closed,COS,CoreOS OCP,software,Done,12/01/2023 18:56,12/01/2023 20:33
+COS-1983,Task,Closed,COS,CoreOS OCP,software,Obsolete,12/01/2023 18:18,21/03/2023 19:56
+COS-1982,Story,Closed,COS,CoreOS OCP,software,Done,12/01/2023 17:52,01/02/2023 20:06
+COS-1981,Story,Closed,COS,CoreOS OCP,software,Done,12/01/2023 07:01,19/01/2023 16:44
+COS-1980,Story,Closed,COS,CoreOS OCP,software,Done,12/01/2023 07:00,19/01/2023 16:44
+COS-1979,Story,Closed,COS,CoreOS OCP,software,Done,11/01/2023 21:14,12/01/2023 07:04
+COS-1978,Story,Closed,COS,CoreOS OCP,software,Done,11/01/2023 21:13,12/01/2023 07:01
+COS-1977,Story,Closed,COS,CoreOS OCP,software,Done,11/01/2023 05:59,10/02/2023 20:09
+COS-1976,Story,Closed,COS,CoreOS OCP,software,Done,10/01/2023 19:07,29/03/2023 17:49
+COS-1975,Story,Closed,COS,CoreOS OCP,software,Done,10/01/2023 19:06,11/05/2023 15:32
+COS-1974,Story,Review,COS,CoreOS OCP,software,,10/01/2023 19:04,
+COS-1973,Story,New,COS,CoreOS OCP,software,,10/01/2023 18:54,
+COS-1972,Story,Closed,COS,CoreOS OCP,software,Done,10/01/2023 18:32,31/01/2023 03:35
+COS-1971,Story,Closed,COS,CoreOS OCP,software,Done,10/01/2023 16:27,26/01/2023 13:15
+COS-1970,Story,Closed,COS,CoreOS OCP,software,Done,10/01/2023 16:26,26/01/2023 13:11
+COS-1969,Story,Closed,COS,CoreOS OCP,software,Done,10/01/2023 16:26,26/01/2023 13:13
+COS-1968,Story,Closed,COS,CoreOS OCP,software,Done,05/01/2023 18:14,01/08/2023 14:07
+COS-1967,Story,Closed,COS,CoreOS OCP,software,Done,05/01/2023 16:15,22/02/2023 10:28
+COS-1966,Story,Closed,COS,CoreOS OCP,software,Done,05/01/2023 15:27,07/02/2023 17:01
+COS-1965,Story,Closed,COS,CoreOS OCP,software,Done,05/01/2023 15:23,08/02/2023 15:58
+COS-1964,Bug,Closed,COS,CoreOS OCP,software,Done,05/01/2023 15:18,06/01/2023 19:49
+COS-1963,Story,Closed,COS,CoreOS OCP,software,Done,04/01/2023 21:06,05/01/2023 18:46
+COS-1962,Story,Closed,COS,CoreOS OCP,software,Done,04/01/2023 16:18,23/01/2023 16:27
+COS-1960,Story,Closed,COS,CoreOS OCP,software,Done,04/01/2023 15:22,19/01/2023 02:12
+COS-1959,Story,Closed,COS,CoreOS OCP,software,Done,04/01/2023 15:10,10/01/2023 12:09
+COS-1958,Story,Closed,COS,CoreOS OCP,software,Done,04/01/2023 14:13,23/05/2023 23:38
+COS-1957,Story,Closed,COS,CoreOS OCP,software,Done,03/01/2023 16:07,04/01/2023 20:19
+COS-1956,Story,Closed,COS,CoreOS OCP,software,Done,03/01/2023 16:05,04/01/2023 20:17
+COS-1955,Story,Closed,COS,CoreOS OCP,software,Done,27/12/2022 15:19,10/01/2023 16:29
+COS-1954,Story,Closed,COS,CoreOS OCP,software,Done,27/12/2022 15:17,10/01/2023 16:29
+COS-1953,Story,Closed,COS,CoreOS OCP,software,Done,27/12/2022 15:14,10/01/2023 16:30
+COS-1952,Story,Closed,COS,CoreOS OCP,software,Done,16/12/2022 17:00,07/02/2023 16:17
+COS-1951,Story,Closed,COS,CoreOS OCP,software,Done,15/12/2022 22:36,14/08/2024 14:18
+COS-1950,Story,Closed,COS,CoreOS OCP,software,Done,15/12/2022 21:20,02/02/2023 22:26
+COS-1949,Story,Closed,COS,CoreOS OCP,software,Won't Do,15/12/2022 16:50,22/02/2023 10:15
+COS-1948,Story,Closed,COS,CoreOS OCP,software,Won't Do,15/12/2022 16:49,22/02/2023 10:15
+COS-1943,Task,Closed,COS,CoreOS OCP,software,Done,15/12/2022 14:44,07/03/2023 19:43
+COS-1942,Spike,Closed,COS,CoreOS OCP,software,Done,15/12/2022 04:20,17/01/2023 12:19
+COS-1941,Task,Closed,COS,CoreOS OCP,software,Done,14/12/2022 18:44,16/01/2023 13:58
+COS-1939,Story,Closed,COS,CoreOS OCP,software,Done,14/12/2022 15:28,27/12/2022 15:15
+COS-1938,Story,Closed,COS,CoreOS OCP,software,Done,14/12/2022 15:27,27/12/2022 15:18
+COS-1937,Story,Closed,COS,CoreOS OCP,software,Done,14/12/2022 15:26,27/12/2022 15:20
+COS-1936,Story,New,COS,CoreOS OCP,software,,14/12/2022 14:53,
+COS-1934,Story,New,COS,CoreOS OCP,software,,13/12/2022 17:38,
+COS-1932,Story,Closed,COS,CoreOS OCP,software,Done,12/12/2022 17:12,21/05/2024 08:56
+COS-1931,Story,Closed,COS,CoreOS OCP,software,Done,12/12/2022 17:01,11/03/2023 03:59
+COS-1930,Story,Closed,COS,CoreOS OCP,software,Done,12/12/2022 16:48,11/09/2023 19:50
+COS-1929,Story,Closed,COS,CoreOS OCP,software,Done,12/12/2022 16:32,13/12/2022 10:20
+COS-1928,Task,Closed,COS,CoreOS OCP,software,Done,12/12/2022 16:07,14/03/2023 13:32
+COS-1927,Task,Closed,COS,CoreOS OCP,software,Done,12/12/2022 16:06,07/02/2023 16:59
+COS-1925,Story,Closed,COS,CoreOS OCP,software,Done,09/12/2022 14:59,15/12/2022 16:46
+COS-1924,Story,Closed,COS,CoreOS OCP,software,Won't Do,08/12/2022 22:38,03/02/2023 10:45
+COS-1923,Story,Closed,COS,CoreOS OCP,software,Done,08/12/2022 17:05,12/04/2023 20:30
+COS-1922,Story,Closed,COS,CoreOS OCP,software,Done,08/12/2022 14:49,17/01/2023 15:56
+COS-1921,Story,Closed,COS,CoreOS OCP,software,Done,07/12/2022 15:29,13/12/2022 15:46
+COS-1920,Story,Closed,COS,CoreOS OCP,software,Done,07/12/2022 14:21,11/12/2022 23:46
+COS-1914,Story,Closed,COS,CoreOS OCP,software,Done,30/11/2022 10:57,14/12/2022 15:32
+COS-1913,Story,Closed,COS,CoreOS OCP,software,Done,30/11/2022 10:55,14/12/2022 15:32
+COS-1912,Story,Closed,COS,CoreOS OCP,software,Done,30/11/2022 10:53,14/12/2022 15:32
+COS-1911,Story,Closed,COS,CoreOS OCP,software,Done,28/11/2022 11:02,16/12/2022 21:25
+COS-1910,Story,Closed,COS,CoreOS OCP,software,Done,24/11/2022 10:25,15/12/2022 19:41
+COS-1909,Story,Closed,COS,CoreOS OCP,software,Done,24/11/2022 01:46,29/11/2022 09:10
+COS-1908,Task,Closed,COS,CoreOS OCP,software,Done,22/11/2022 16:35,06/01/2023 15:41
+COS-1907,Task,Closed,COS,CoreOS OCP,software,Done,22/11/2022 16:33,05/12/2022 17:21
+COS-1906,Task,Closed,COS,CoreOS OCP,software,Done,22/11/2022 16:29,30/11/2022 18:31
+COS-1905,Task,Closed,COS,CoreOS OCP,software,Done,22/11/2022 16:27,05/12/2022 17:21
+COS-1903,Story,Closed,COS,CoreOS OCP,software,Done,22/11/2022 14:17,01/03/2023 22:41
+COS-1901,Story,New,COS,CoreOS OCP,software,,21/11/2022 17:22,
+COS-1899,Task,Closed,COS,CoreOS OCP,software,Done,21/11/2022 15:30,04/01/2023 15:35
+COS-1898,Story,Closed,COS,CoreOS OCP,software,Done,21/11/2022 13:41,01/12/2022 14:09
+COS-1897,Story,New,COS,CoreOS OCP,software,,18/11/2022 21:54,
+COS-1896,Story,Closed,COS,CoreOS OCP,software,Done,18/11/2022 07:58,02/02/2023 14:02
+COS-1895,Story,Closed,COS,CoreOS OCP,software,Won't Do,15/11/2022 23:27,22/03/2024 12:34
+COS-1894,Story,New,COS,CoreOS OCP,software,,15/11/2022 23:16,
+COS-1893,Story,Closed,COS,CoreOS OCP,software,Done,15/11/2022 16:59,21/11/2022 15:19
+COS-1892,Story,Closed,COS,CoreOS OCP,software,Done,15/11/2022 16:30,30/11/2022 10:53
+COS-1891,Story,Closed,COS,CoreOS OCP,software,Done,15/11/2022 16:30,30/11/2022 10:55
+COS-1890,Story,Closed,COS,CoreOS OCP,software,Done,15/11/2022 16:30,12/12/2022 04:32
+COS-1885,Story,Closed,COS,CoreOS OCP,software,Done,15/11/2022 11:41,30/01/2023 12:06
+COS-1884,Story,Closed,COS,CoreOS OCP,software,Done,14/11/2022 14:15,06/01/2023 21:38
+COS-1883,Bug,Closed,COS,CoreOS OCP,software,Done,12/11/2022 19:24,14/11/2022 15:47
+COS-1882,Story,Closed,COS,CoreOS OCP,software,Done,11/11/2022 03:45,16/11/2022 00:20
+COS-1880,Story,New,COS,CoreOS OCP,software,,10/11/2022 12:31,
+COS-1879,Story,Closed,COS,CoreOS OCP,software,Done,09/11/2022 19:10,14/11/2022 13:28
+COS-1878,Task,Closed,COS,CoreOS OCP,software,Done,08/11/2022 16:19,30/11/2022 18:21
+COS-1877,Story,Closed,COS,CoreOS OCP,software,Done,08/11/2022 12:41,21/11/2022 15:24
+COS-1876,Story,Closed,COS,CoreOS OCP,software,Done,07/11/2022 21:32,15/11/2022 16:34
+COS-1875,Story,Closed,COS,CoreOS OCP,software,Done,07/11/2022 21:10,15/11/2022 16:35
+COS-1869,Spike,Closed,COS,CoreOS OCP,software,Done,07/11/2022 18:41,30/11/2022 16:21
+COS-1868,Story,Closed,COS,CoreOS OCP,software,Done,07/11/2022 18:18,17/11/2022 17:41
+COS-1867,Bug,Closed,COS,CoreOS OCP,software,Done,07/11/2022 16:30,02/03/2023 13:17
+COS-1866,Task,Closed,COS,CoreOS OCP,software,Done,07/11/2022 01:28,08/11/2022 04:05
+COS-1864,Story,New,COS,CoreOS OCP,software,,03/11/2022 18:02,
+COS-1863,Story,New,COS,CoreOS OCP,software,,03/11/2022 18:00,
+COS-1862,Story,Closed,COS,CoreOS OCP,software,Won't Do,03/11/2022 18:00,09/02/2023 18:29
+COS-1861,Story,New,COS,CoreOS OCP,software,,03/11/2022 17:54,
+COS-1860,Story,New,COS,CoreOS OCP,software,,03/11/2022 17:54,
+COS-1859,Story,New,COS,CoreOS OCP,software,,03/11/2022 17:47,
+COS-1858,Story,New,COS,CoreOS OCP,software,,03/11/2022 17:44,
+COS-1857,Story,New,COS,CoreOS OCP,software,,03/11/2022 17:42,
+COS-1856,Story,Closed,COS,CoreOS OCP,software,Done,03/11/2022 13:01,18/11/2022 21:58
+COS-1855,Story,Closed,COS,CoreOS OCP,software,Done,03/11/2022 09:13,07/11/2022 21:28
+COS-1854,Story,Closed,COS,CoreOS OCP,software,Done,03/11/2022 09:12,07/11/2022 21:28
+COS-1853,Story,Closed,COS,CoreOS OCP,software,Done,03/11/2022 09:11,15/11/2022 16:34
+COS-1852,Spike,Closed,COS,CoreOS OCP,software,Done,02/11/2022 20:05,02/11/2022 20:34
+COS-1851,Story,Closed,COS,CoreOS OCP,software,Done,01/11/2022 22:35,03/11/2022 09:14
+COS-1850,Story,Closed,COS,CoreOS OCP,software,Done,01/11/2022 22:34,03/11/2022 09:13
+COS-1849,Bug,Closed,COS,CoreOS OCP,software,Done,31/10/2022 15:05,21/11/2022 15:23
+COS-1848,Task,Closed,COS,CoreOS OCP,software,Done,31/10/2022 15:04,21/11/2022 15:23
+COS-1847,Story,Closed,COS,CoreOS OCP,software,Done,31/10/2022 15:04,21/11/2022 15:16
+COS-1846,Task,Closed,COS,CoreOS OCP,software,Done,31/10/2022 15:01,21/11/2022 15:23
+COS-1845,Story,Closed,COS,CoreOS OCP,software,Done,31/10/2022 14:57,04/11/2022 15:22
+COS-1843,Story,Closed,COS,CoreOS OCP,software,Done,28/10/2022 16:26,02/11/2022 18:04
+COS-1842,Story,Closed,COS,CoreOS OCP,software,Done,28/10/2022 08:53,30/08/2023 07:43
+COS-1841,Story,New,COS,CoreOS OCP,software,,27/10/2022 17:54,
+COS-1840,Bug,Closed,COS,CoreOS OCP,software,Done,24/10/2022 16:49,11/01/2023 00:29
+COS-1839,Story,New,COS,CoreOS OCP,software,,27/10/2022 15:00,
+COS-1838,Bug,Closed,COS,CoreOS OCP,software,Done,25/10/2022 22:00,21/11/2022 14:42
+COS-1837,Story,Closed,COS,CoreOS OCP,software,Done,25/10/2022 13:58,01/11/2022 22:40
+COS-1836,Story,Closed,COS,CoreOS OCP,software,Done,25/10/2022 06:45,14/12/2022 14:45
+COS-1835,Story,Closed,COS,CoreOS OCP,software,Done,25/10/2022 06:44,02/03/2023 13:16
+COS-1834,Story,Closed,COS,CoreOS OCP,software,Done,25/10/2022 06:34,14/12/2022 18:39
+COS-1833,Task,New,COS,CoreOS OCP,software,,24/10/2022 12:40,
+COS-1832,Risk,New,COS,CoreOS OCP,software,,24/10/2022 10:12,
+COS-1831,Story,Closed,COS,CoreOS OCP,software,Done,21/10/2022 05:32,21/10/2022 05:35
+COS-1830,Task,Closed,COS,CoreOS OCP,software,Done,21/10/2022 05:21,25/10/2022 16:11
+COS-1829,Story,New,COS,CoreOS OCP,software,,20/10/2022 17:17,
+COS-1828,Story,Closed,COS,CoreOS OCP,software,Done,18/10/2022 15:09,03/11/2022 09:12
+COS-1827,Story,Closed,COS,CoreOS OCP,software,Done,18/10/2022 15:09,25/10/2022 16:57
+COS-1826,Story,Closed,COS,CoreOS OCP,software,Done,18/10/2022 15:07,01/11/2022 22:40
+COS-1824,Story,Closed,COS,CoreOS OCP,software,Done,17/10/2022 15:21,25/11/2022 17:20
+COS-1823,Spike,Closed,COS,CoreOS OCP,software,Done,13/10/2022 11:12,24/03/2023 18:10
+COS-1822,Story,Closed,COS,CoreOS OCP,software,Done,12/10/2022 19:13,31/10/2022 20:34
+COS-1821,Task,Closed,COS,CoreOS OCP,software,Done,12/10/2022 14:12,04/01/2023 15:10
+COS-1820,Task,Closed,COS,CoreOS OCP,software,Done,12/10/2022 14:04,03/01/2023 15:30
+COS-1819,Story,Closed,COS,CoreOS OCP,software,Done,11/10/2022 14:19,18/10/2022 15:09
+COS-1818,Task,Closed,COS,CoreOS OCP,software,Done,10/10/2022 21:26,04/11/2022 18:03
+COS-1817,Task,Closed,COS,CoreOS OCP,software,Done,10/10/2022 21:16,31/10/2022 15:03
+COS-1816,Story,Closed,COS,CoreOS OCP,software,Done,10/10/2022 16:29,15/10/2022 04:07
+COS-1815,Bug,Closed,COS,CoreOS OCP,software,Done,10/10/2022 15:59,15/10/2022 05:39
+COS-1814,Story,Closed,COS,CoreOS OCP,software,Done,10/10/2022 15:55,20/10/2022 03:02
+COS-1813,Task,Closed,COS,CoreOS OCP,software,Done,10/10/2022 15:09,12/12/2022 04:32
+COS-1812,Task,Closed,COS,CoreOS OCP,software,Done,10/10/2022 14:54,21/11/2022 15:18
+COS-1811,Task,Closed,COS,CoreOS OCP,software,Done,10/10/2022 14:53,09/11/2022 21:49
+COS-1810,Story,Closed,COS,CoreOS OCP,software,Done,10/10/2022 13:38,14/10/2022 13:03
+COS-1809,Story,Closed,COS,CoreOS OCP,software,Done,10/10/2022 13:35,01/12/2022 14:09
+COS-1807,Story,Review,COS,CoreOS OCP,software,,06/10/2022 18:19,
+COS-1806,Story,Closed,COS,CoreOS OCP,software,Done,04/10/2022 19:05,07/12/2022 14:27
+COS-1805,Story,Closed,COS,CoreOS OCP,software,Done,04/10/2022 17:00,18/10/2022 15:11
+COS-1804,Story,Closed,COS,CoreOS OCP,software,Done,04/10/2022 17:00,11/10/2022 14:22
+COS-1803,Story,Closed,COS,CoreOS OCP,software,Done,04/10/2022 16:56,18/10/2022 15:07
+COS-1800,Story,Closed,COS,CoreOS OCP,software,Done,27/09/2022 09:05,28/09/2022 08:33
+COS-1799,Story,Closed,COS,CoreOS OCP,software,Done,26/09/2022 13:57,28/09/2022 09:19
+COS-1798,Story,Closed,COS,CoreOS OCP,software,Done,22/09/2022 20:00,04/10/2022 17:06
+COS-1797,Story,Closed,COS,CoreOS OCP,software,Done,22/09/2022 19:59,04/10/2022 17:06
+COS-1796,Story,Closed,COS,CoreOS OCP,software,Done,22/09/2022 19:58,04/10/2022 17:06
+COS-1793,Bug,Closed,COS,CoreOS OCP,software,Done,21/09/2022 11:15,26/06/2023 10:22
+COS-1792,Task,Closed,COS,CoreOS OCP,software,Done,21/09/2022 10:05,21/11/2022 15:23
+COS-1790,Story,Closed,COS,CoreOS OCP,software,Done,19/09/2022 18:18,22/11/2022 16:10
+COS-1789,Task,Closed,COS,CoreOS OCP,software,Done,19/09/2022 17:14,10/10/2022 15:54
+COS-1788,Story,Closed,COS,CoreOS OCP,software,Done,19/09/2022 17:04,03/10/2022 18:03
+COS-1787,Task,Closed,COS,CoreOS OCP,software,Done,19/09/2022 17:00,31/10/2022 16:09
+COS-1786,Story,Closed,COS,CoreOS OCP,software,Done,19/09/2022 15:59,05/10/2022 15:24
+COS-1785,Story,Closed,COS,CoreOS OCP,software,Done,19/09/2022 15:49,09/10/2022 18:06
+COS-1784,Story,Closed,COS,CoreOS OCP,software,Done,19/09/2022 15:12,31/10/2022 15:02
+COS-1783,Story,Closed,COS,CoreOS OCP,software,Done,19/09/2022 13:55,12/12/2022 14:35
+COS-1782,Story,Closed,COS,CoreOS OCP,software,Done,19/09/2022 13:30,09/02/2023 21:01
+COS-1781,Story,Closed,COS,CoreOS OCP,software,Done,19/09/2022 07:52,10/10/2022 09:09
+COS-1780,Story,Closed,COS,CoreOS OCP,software,Done,19/09/2022 07:50,21/11/2022 14:15
+COS-1779,Story,Closed,COS,CoreOS OCP,software,Done,19/09/2022 07:49,26/09/2022 13:17
+COS-1778,Story,Closed,COS,CoreOS OCP,software,Done,17/09/2022 05:09,19/09/2022 18:15
+COS-1773,Story,Closed,COS,CoreOS OCP,software,Obsolete,01/11/2021 20:36,21/09/2022 04:39
+COS-1772,Story,Closed,COS,CoreOS OCP,software,Done,16/09/2022 15:10,16/09/2022 16:26
+COS-1771,Story,Closed,COS,CoreOS OCP,software,Done,16/09/2022 14:39,16/09/2022 14:40
+COS-1770,Story,Closed,COS,CoreOS OCP,software,Done,15/09/2022 15:35,20/10/2022 21:26
+COS-1768,Story,Closed,COS,CoreOS OCP,software,Done,14/09/2022 20:34,29/09/2022 20:49
+COS-1767,Story,Closed,COS,CoreOS OCP,software,Done,14/09/2022 19:50,14/09/2022 20:24
+COS-1758,Story,Closed,COS,CoreOS OCP,software,Done,13/09/2022 13:23,22/09/2022 20:03
+COS-1757,Spike,Closed,COS,CoreOS OCP,software,Obsolete,12/09/2022 14:11,10/04/2023 13:25
+COS-1756,Spike,Closed,COS,CoreOS OCP,software,Obsolete,12/09/2022 14:10,10/04/2023 13:26
+COS-1755,Story,Closed,COS,CoreOS OCP,software,Done,12/09/2022 11:18,31/05/2023 15:41
+COS-1754,Story,New,COS,CoreOS OCP,software,,12/09/2022 11:13,
+COS-1753,Story,Closed,COS,CoreOS OCP,software,Done,08/09/2022 17:02,19/09/2022 17:06
+COS-1752,Story,Closed,COS,CoreOS OCP,software,Done,08/09/2022 16:59,12/09/2022 20:38
+COS-1751,Story,Closed,COS,CoreOS OCP,software,Done,07/09/2022 09:36,22/09/2022 20:02
+COS-1750,Story,Closed,COS,CoreOS OCP,software,Done,07/09/2022 09:34,22/09/2022 20:03
+COS-1749,Story,Closed,COS,CoreOS OCP,software,Done,07/09/2022 09:32,14/09/2022 21:11
+COS-1748,Story,New,COS,CoreOS OCP,software,,02/09/2022 14:30,
+COS-1747,Story,Closed,COS,CoreOS OCP,software,Done,01/09/2022 22:18,02/09/2022 17:37
+COS-1746,Story,Closed,COS,CoreOS OCP,software,Done,01/09/2022 09:07,02/09/2022 09:25
+COS-1745,Story,Closed,COS,CoreOS OCP,software,Done,01/09/2022 05:43,08/09/2022 11:46
+COS-1744,Story,Closed,COS,CoreOS OCP,software,Done,01/09/2022 05:02,10/10/2022 14:30
+COS-1743,Task,Closed,COS,CoreOS OCP,software,Done,01/09/2022 04:56,16/11/2022 21:01
+COS-1741,Story,Closed,COS,CoreOS OCP,software,Done,31/08/2022 14:44,19/09/2022 06:59
+COS-1740,Story,Closed,COS,CoreOS OCP,software,Done,31/08/2022 14:32,01/09/2022 14:43
+COS-1739,Story,Closed,COS,CoreOS OCP,software,Done,31/08/2022 11:50,20/02/2023 10:26
+COS-1736,Story,Closed,COS,CoreOS OCP,software,Done,30/08/2022 13:10,09/09/2022 16:14
+COS-1735,Story,Closed,COS,CoreOS OCP,software,Done,29/08/2022 13:52,15/09/2022 15:39
+COS-1734,Story,Closed,COS,CoreOS OCP,software,Done,29/08/2022 13:10,28/09/2022 15:17
+COS-1733,Story,Closed,COS,CoreOS OCP,software,Done,29/08/2022 08:28,15/09/2022 15:40
+COS-1732,Story,Closed,COS,CoreOS OCP,software,Done,29/08/2022 08:21,10/10/2022 09:09
+COS-1731,Story,Closed,COS,CoreOS OCP,software,Done,26/08/2022 05:06,29/08/2022 12:23
+COS-1730,Story,Closed,COS,CoreOS OCP,software,Done,24/08/2022 15:58,07/09/2022 09:36
+COS-1729,Story,Closed,COS,CoreOS OCP,software,Done,24/08/2022 15:58,07/09/2022 09:35
+COS-1728,Story,Closed,COS,CoreOS OCP,software,Done,24/08/2022 15:57,07/09/2022 09:34
+COS-1727,Story,Closed,COS,CoreOS OCP,software,Done,18/08/2022 00:26,01/09/2022 09:05
+COS-1726,Story,Closed,COS,CoreOS OCP,software,Done,18/08/2022 00:25,26/08/2022 05:47
+COS-1719,Story,Closed,COS,CoreOS OCP,software,Done,17/08/2022 02:30,20/08/2022 01:10
+COS-1718,Story,New,COS,CoreOS OCP,software,,16/08/2022 15:41,
+COS-1717,Spike,Closed,COS,CoreOS OCP,software,Done,11/08/2022 16:09,26/01/2023 13:56
+COS-1716,Spike,New,COS,CoreOS OCP,software,,11/08/2022 15:53,
+COS-1715,Story,New,COS,CoreOS OCP,software,,10/08/2022 16:39,
+COS-1713,Task,Closed,COS,CoreOS OCP,software,Done,10/08/2022 15:05,22/11/2022 16:41
+COS-1712,Story,Closed,COS,CoreOS OCP,software,Done,10/08/2022 02:52,11/08/2022 19:57
+COS-1711,Story,Closed,COS,CoreOS OCP,software,Done,09/08/2022 20:16,24/08/2022 16:00
+COS-1710,Story,Closed,COS,CoreOS OCP,software,Done,09/08/2022 20:15,24/08/2022 16:01
+COS-1709,Story,Closed,COS,CoreOS OCP,software,Done,09/08/2022 20:14,24/08/2022 16:01
+COS-1708,Story,Closed,COS,CoreOS OCP,software,Done,09/08/2022 19:45,26/08/2022 06:26
+COS-1707,Story,Closed,COS,CoreOS OCP,software,Done,09/08/2022 03:38,18/08/2022 00:23
+COS-1706,Story,Closed,COS,CoreOS OCP,software,Done,08/08/2022 16:58,03/06/2024 18:26
+COS-1705,Story,Closed,COS,CoreOS OCP,software,Done,08/08/2022 16:36,16/05/2023 14:28
+COS-1704,Story,Closed,COS,CoreOS OCP,software,Done,08/08/2022 15:18,09/08/2022 12:52
+COS-1702,Story,Closed,COS,CoreOS OCP,software,Done,08/08/2022 08:11,10/10/2022 13:40
+COS-1701,Story,Closed,COS,CoreOS OCP,software,Done,08/08/2022 08:10,09/08/2022 13:08
+COS-1700,Story,Closed,COS,CoreOS OCP,software,Done,08/08/2022 08:08,09/08/2022 13:08
+COS-1695,Story,New,COS,CoreOS OCP,software,,03/08/2022 14:26,
+COS-1694,Story,Review,COS,CoreOS OCP,software,,02/08/2022 14:15,
+COS-1693,Story,Closed,COS,CoreOS OCP,software,Done,27/07/2022 01:53,09/08/2022 20:19
+COS-1692,Story,Closed,COS,CoreOS OCP,software,Done,27/07/2022 01:52,09/08/2022 20:19
+COS-1691,Story,Closed,COS,CoreOS OCP,software,Done,27/07/2022 01:52,09/08/2022 20:19
+COS-1690,Story,New,COS,CoreOS OCP,software,,22/07/2022 09:04,
+COS-1689,Story,New,COS,CoreOS OCP,software,,22/07/2022 09:02,
+COS-1688,Story,Closed,COS,CoreOS OCP,software,Done,22/07/2022 09:02,08/06/2023 15:25
+COS-1687,Story,Closed,COS,CoreOS OCP,software,Done,19/07/2022 14:32,27/07/2022 01:54
+COS-1686,Story,Closed,COS,CoreOS OCP,software,Done,19/07/2022 14:29,27/07/2022 01:54
+COS-1685,Story,Closed,COS,CoreOS OCP,software,Done,19/07/2022 14:28,27/07/2022 01:53
+COS-1684,Story,Closed,COS,CoreOS OCP,software,Done,18/07/2022 15:40,18/07/2022 15:42
+COS-1683,Task,Closed,COS,CoreOS OCP,software,Done,18/07/2022 14:58,24/08/2022 14:56
+COS-1682,Task,Closed,COS,CoreOS OCP,software,Done,18/07/2022 13:32,09/02/2023 20:36
+COS-1681,Task,Closed,COS,CoreOS OCP,software,Done,18/07/2022 13:31,18/07/2022 13:33
+COS-1680,Story,New,COS,CoreOS OCP,software,,18/07/2022 12:44,
+COS-1678,Story,Closed,COS,CoreOS OCP,software,Done,18/07/2022 08:02,29/08/2022 08:17
+COS-1677,Story,Closed,COS,CoreOS OCP,software,Done,18/07/2022 07:59,10/08/2022 14:33
+COS-1676,Story,Closed,COS,CoreOS OCP,software,Done,18/07/2022 07:57,12/09/2022 09:29
+COS-1675,Story,Closed,COS,CoreOS OCP,software,Done,15/07/2022 21:14,15/07/2022 21:17
+COS-1674,Story,New,COS,CoreOS OCP,software,,14/07/2022 18:17,
+COS-1673,Story,Closed,COS,CoreOS OCP,software,Done,14/07/2022 13:18,29/07/2022 13:45
+COS-1672,Task,Closed,COS,CoreOS OCP,software,Done,13/07/2022 15:55,30/04/2024 10:07
+COS-1671,Task,Closed,COS,CoreOS OCP,software,Done,13/07/2022 15:25,13/07/2022 15:26
+COS-1670,Story,Closed,COS,CoreOS OCP,software,Duplicate,13/07/2022 15:16,12/12/2022 13:38
+COS-1669,Story,Closed,COS,CoreOS OCP,software,Done,13/07/2022 15:16,08/10/2022 01:55
+COS-1668,Story,Closed,COS,CoreOS OCP,software,Done,13/07/2022 15:16,29/08/2022 13:57
+COS-1667,Spike,Closed,COS,CoreOS OCP,software,Done,12/07/2022 20:52,04/11/2022 17:55
+COS-1666,Spike,Closed,COS,CoreOS OCP,software,Obsolete,12/07/2022 20:40,22/11/2022 16:41
+COS-1664,Story,Closed,COS,CoreOS OCP,software,Obsolete,12/07/2022 19:47,22/11/2022 16:40
+COS-1663,Story,Closed,COS,CoreOS OCP,software,Done,12/07/2022 19:40,08/11/2022 21:23
+COS-1662,Story,Closed,COS,CoreOS OCP,software,Done,12/07/2022 19:39,08/11/2022 21:23
+COS-1661,Story,Closed,COS,CoreOS OCP,software,Done,12/07/2022 19:38,08/11/2022 21:24
+COS-1660,Story,Closed,COS,CoreOS OCP,software,Duplicate,12/07/2022 19:28,03/07/2023 10:25
+COS-1659,Story,Closed,COS,CoreOS OCP,software,Done,12/07/2022 18:28,02/05/2023 18:50
+COS-1658,Story,Closed,COS,CoreOS OCP,software,Done,12/07/2022 18:06,31/10/2022 15:16
+COS-1657,Story,Closed,COS,CoreOS OCP,software,Done,12/07/2022 17:52,25/08/2022 13:38
+COS-1656,Story,Closed,COS,CoreOS OCP,software,Done,12/07/2022 13:15,13/07/2022 20:35
+COS-1652,Story,Closed,COS,CoreOS OCP,software,Won't Do,11/07/2022 14:19,31/08/2022 11:54
+COS-1651,Story,Closed,COS,CoreOS OCP,software,Done,11/07/2022 14:17,20/07/2022 15:30
+COS-1650,Bug,New,COS,CoreOS OCP,software,,07/07/2022 15:23,
+COS-1649,Story,Closed,COS,CoreOS OCP,software,Done,07/07/2022 05:33,25/07/2022 16:06
+COS-1648,Story,Closed,COS,CoreOS OCP,software,Done,07/07/2022 05:31,19/07/2022 19:30
+COS-1647,Story,Closed,COS,CoreOS OCP,software,Done,07/07/2022 05:29,25/07/2022 16:07
+COS-1646,Story,Closed,COS,CoreOS OCP,software,Done,05/07/2022 15:49,02/09/2022 19:11
+COS-1645,Story,Closed,COS,CoreOS OCP,software,Done,05/07/2022 15:46,16/09/2022 17:24
+COS-1636,Story,Closed,COS,CoreOS OCP,software,Done,01/07/2022 15:32,30/08/2022 20:15
+COS-1635,Story,New,COS,CoreOS OCP,software,,01/07/2022 14:40,
+COS-1634,Story,Closed,COS,CoreOS OCP,software,Done,01/07/2022 14:26,13/09/2022 14:30
+COS-1633,Story,New,COS,CoreOS OCP,software,,30/06/2022 18:52,
+COS-1632,Story,Closed,COS,CoreOS OCP,software,Obsolete,30/06/2022 16:10,04/11/2022 18:12
+COS-1631,Task,Closed,COS,CoreOS OCP,software,Done,29/06/2022 16:00,18/07/2022 13:27
+COS-1630,Bug,Closed,COS,CoreOS OCP,software,Duplicate,29/06/2022 13:23,12/07/2022 15:23
+COS-1629,Story,Closed,COS,CoreOS OCP,software,Done,28/06/2022 15:04,27/11/2023 19:49
+COS-1628,Task,Closed,COS,CoreOS OCP,software,Won't Do,28/06/2022 12:00,30/04/2024 10:09
+COS-1627,Story,Closed,COS,CoreOS OCP,software,Done,27/06/2022 16:34,27/06/2022 19:47
+COS-1626,Story,Closed,COS,CoreOS OCP,software,Done,27/06/2022 15:51,08/09/2022 16:58
+COS-1625,Task,Closed,COS,CoreOS OCP,software,Done,27/06/2022 15:36,18/07/2022 13:26
+COS-1624,Task,Closed,COS,CoreOS OCP,software,Done,27/06/2022 15:32,18/07/2022 13:34
+COS-1623,Task,Closed,COS,CoreOS OCP,software,Done,27/06/2022 15:30,18/07/2022 14:11
+COS-1622,Story,Closed,COS,CoreOS OCP,software,Done,27/06/2022 13:52,12/07/2022 15:36
+COS-1621,Task,Closed,COS,CoreOS OCP,software,Done,27/06/2022 12:15,19/09/2022 13:40
+COS-1620,Story,Closed,COS,CoreOS OCP,software,Done,27/06/2022 12:02,07/07/2022 05:31
+COS-1619,Story,Closed,COS,CoreOS OCP,software,Done,27/06/2022 12:00,07/07/2022 05:29
+COS-1618,Story,New,COS,CoreOS OCP,software,,27/06/2022 08:22,
+COS-1617,Task,Closed,COS,CoreOS OCP,software,Done,27/06/2022 08:17,01/09/2022 14:46
+COS-1616,Task,Closed,COS,CoreOS OCP,software,Done,27/06/2022 08:15,30/06/2022 10:07
+COS-1615,Story,Closed,COS,CoreOS OCP,software,Done,24/06/2022 16:58,11/07/2022 12:38
+COS-1614,Story,Closed,COS,CoreOS OCP,software,Done,24/06/2022 16:45,06/07/2022 19:26
+COS-1612,Story,Closed,COS,CoreOS OCP,software,Done,22/06/2022 17:35,11/07/2022 00:49
+COS-1606,Story,Closed,COS,CoreOS OCP,software,Done,22/06/2022 15:31,27/06/2022 20:56
+COS-1605,Story,Closed,COS,CoreOS OCP,software,Done,22/06/2022 14:55,19/07/2022 06:50
+COS-1604,Story,Closed,COS,CoreOS OCP,software,Done,21/06/2022 17:05,12/07/2022 14:09
+COS-1603,Story,Closed,COS,CoreOS OCP,software,Done,21/06/2022 17:02,24/07/2022 16:22
+COS-1602,Story,Closed,COS,CoreOS OCP,software,Done,21/06/2022 16:52,10/08/2022 04:42
+COS-1601,Story,Closed,COS,CoreOS OCP,software,Done,20/06/2022 14:06,12/09/2022 11:13
+COS-1599,Story,Closed,COS,CoreOS OCP,software,Done,15/06/2022 19:14,24/06/2022 12:47
+COS-1598,Story,Closed,COS,CoreOS OCP,software,Done,15/06/2022 18:02,08/08/2022 16:08
+COS-1597,Story,Closed,COS,CoreOS OCP,software,Done,15/06/2022 08:12,15/06/2022 14:39
+COS-1595,Story,Closed,COS,CoreOS OCP,software,Done,13/06/2022 20:21,25/10/2022 21:37
+COS-1593,Story,New,COS,CoreOS OCP,software,,13/06/2022 15:05,
+COS-1592,Story,Closed,COS,CoreOS OCP,software,Done,09/06/2022 13:36,08/11/2022 15:01
+COS-1591,Story,Closed,COS,CoreOS OCP,software,Done,09/06/2022 13:35,11/08/2022 16:26
+COS-1590,Story,Closed,COS,CoreOS OCP,software,Done,09/06/2022 13:35,24/08/2022 17:53
+COS-1588,Story,Closed,COS,CoreOS OCP,software,Done,08/06/2022 19:26,14/07/2022 15:24
+COS-1587,Story,Closed,COS,CoreOS OCP,software,Done,08/06/2022 16:30,21/06/2022 19:17
+COS-1586,Story,Closed,COS,CoreOS OCP,software,Done,08/06/2022 16:21,14/09/2022 21:30
+COS-1585,Story,Closed,COS,CoreOS OCP,software,Done,07/06/2022 19:56,06/11/2022 08:01
+COS-1584,Story,Closed,COS,CoreOS OCP,software,Done,07/06/2022 16:04,21/06/2022 17:03
+COS-1583,Story,Closed,COS,CoreOS OCP,software,Done,07/06/2022 16:03,01/07/2022 14:03
+COS-1582,Story,Closed,COS,CoreOS OCP,software,Done,07/06/2022 16:03,01/07/2022 14:03
+COS-1581,Story,Closed,COS,CoreOS OCP,software,Done,06/06/2022 15:50,06/07/2022 13:15
+COS-1580,Story,Closed,COS,CoreOS OCP,software,Done,06/06/2022 15:45,01/11/2022 16:08
+COS-1579,Story,New,COS,CoreOS OCP,software,,06/06/2022 15:31,
+COS-1578,Story,Closed,COS,CoreOS OCP,software,Done,06/06/2022 15:11,21/07/2022 20:09
+COS-1575,Story,Closed,COS,CoreOS OCP,software,Duplicate,06/06/2022 14:44,06/06/2022 15:57
+COS-1574,Story,Closed,COS,CoreOS OCP,software,Duplicate,06/06/2022 14:42,06/06/2022 15:56
+COS-1573,Story,Closed,COS,CoreOS OCP,software,Done,06/06/2022 14:28,15/08/2023 19:51
+COS-1572,Story,Closed,COS,CoreOS OCP,software,Done,03/06/2022 16:46,27/06/2022 08:19
+COS-1571,Story,Closed,COS,CoreOS OCP,software,Done,03/06/2022 14:02,04/01/2023 15:43
+COS-1570,Story,New,COS,CoreOS OCP,software,,03/06/2022 11:02,
+COS-1568,Story,Closed,COS,CoreOS OCP,software,Done,02/06/2022 11:24,25/10/2022 06:35
+COS-1567,Story,Closed,COS,CoreOS OCP,software,Done,02/06/2022 11:21,17/08/2022 15:39
+COS-1566,Story,Closed,COS,CoreOS OCP,software,Done,02/06/2022 11:17,17/08/2022 15:38
+COS-1565,Task,Closed,COS,CoreOS OCP,software,Done,01/06/2022 19:01,27/06/2022 15:28
+COS-1564,Story,New,COS,CoreOS OCP,software,,01/06/2022 17:27,
+COS-1563,Story,Closed,COS,CoreOS OCP,software,Won't Do,01/06/2022 17:11,21/06/2022 16:42
+COS-1559,Story,Closed,COS,CoreOS OCP,software,Done,01/06/2022 10:32,21/12/2023 11:51
+COS-1558,Story,Closed,COS,CoreOS OCP,software,Obsolete,31/05/2022 18:01,10/04/2023 13:26
+COS-1557,Story,Closed,COS,CoreOS OCP,software,Done,31/05/2022 08:36,02/06/2022 17:08
+COS-1556,Story,Closed,COS,CoreOS OCP,software,Done,30/05/2022 14:26,21/07/2022 18:02
+COS-1555,Story,New,COS,CoreOS OCP,software,,27/05/2022 10:22,
+COS-1554,Task,Closed,COS,CoreOS OCP,software,Done,26/05/2022 21:06,30/05/2022 13:33
+COS-1553,Task,Closed,COS,CoreOS OCP,software,Done,26/05/2022 21:02,30/05/2022 13:33
+COS-1552,Story,Closed,COS,CoreOS OCP,software,Done,26/05/2022 20:07,08/11/2022 15:57
+COS-1551,Story,Closed,COS,CoreOS OCP,software,Done,26/05/2022 19:46,30/05/2022 15:55
+COS-1549,Story,Closed,COS,CoreOS OCP,software,Done,25/05/2022 07:35,25/05/2022 07:35
+COS-1548,Story,Closed,COS,CoreOS OCP,software,Done,25/05/2022 07:20,07/06/2022 16:07
+COS-1547,Story,Closed,COS,CoreOS OCP,software,Done,25/05/2022 07:19,07/06/2022 16:07
+COS-1546,Story,Closed,COS,CoreOS OCP,software,Done,25/05/2022 07:19,07/06/2022 16:07
+COS-1545,Story,Closed,COS,CoreOS OCP,software,Won't Do,24/05/2022 22:56,12/01/2024 09:14
+COS-1544,Story,Closed,COS,CoreOS OCP,software,Won't Do,24/05/2022 22:55,12/01/2024 09:16
+COS-1543,Story,Closed,COS,CoreOS OCP,software,Won't Do,24/05/2022 22:46,12/01/2024 09:13
+COS-1542,Story,Closed,COS,CoreOS OCP,software,Won't Do,24/05/2022 22:44,12/01/2024 09:16
+COS-1541,Story,Closed,COS,CoreOS OCP,software,Done,24/05/2022 16:54,25/05/2022 04:09
+COS-1540,Story,New,COS,CoreOS OCP,software,,24/05/2022 16:05,
+COS-1539,Story,Closed,COS,CoreOS OCP,software,Done,19/05/2022 13:47,04/11/2022 17:53
+COS-1538,Story,Closed,COS,CoreOS OCP,software,Done,19/05/2022 13:37,04/11/2022 17:54
+COS-1536,Story,Closed,COS,CoreOS OCP,software,Done,19/05/2022 11:36,03/06/2022 17:22
+COS-1535,Story,Closed,COS,CoreOS OCP,software,Done,19/05/2022 11:35,18/07/2022 15:39
+COS-1534,Story,Closed,COS,CoreOS OCP,software,Done,18/05/2022 16:17,01/08/2022 09:15
+COS-1533,Spike,New,COS,CoreOS OCP,software,,17/05/2022 18:04,
+COS-1532,Story,New,COS,CoreOS OCP,software,,17/05/2022 18:01,
+COS-1531,Story,New,COS,CoreOS OCP,software,,17/05/2022 18:00,
+COS-1530,Spike,New,COS,CoreOS OCP,software,,17/05/2022 13:41,
+COS-1525,Story,New,COS,CoreOS OCP,software,,17/05/2022 13:31,
+COS-1523,Story,New,COS,CoreOS OCP,software,,16/05/2022 20:18,
+COS-1522,Story,New,COS,CoreOS OCP,software,,16/05/2022 20:18,
+COS-1521,Story,New,COS,CoreOS OCP,software,,16/05/2022 20:15,
+COS-1520,Story,In Progress,COS,CoreOS OCP,software,,16/05/2022 20:08,
+COS-1519,Story,Closed,COS,CoreOS OCP,software,Done,16/05/2022 20:07,12/12/2022 02:41
+COS-1518,Story,New,COS,CoreOS OCP,software,,16/05/2022 20:03,
+COS-1517,Story,Closed,COS,CoreOS OCP,software,Done,16/05/2022 19:53,03/06/2022 19:35
+COS-1515,Story,Closed,COS,CoreOS OCP,software,Done,16/05/2022 15:43,06/06/2022 15:34
+COS-1514,Story,Closed,COS,CoreOS OCP,software,Done,16/05/2022 15:30,27/06/2022 13:43
+COS-1513,Spike,Closed,COS,CoreOS OCP,software,Done,16/05/2022 15:13,02/06/2022 15:30
+COS-1512,Spike,New,COS,CoreOS OCP,software,,16/05/2022 15:12,
+COS-1511,Story,Closed,COS,CoreOS OCP,software,Done,16/05/2022 13:40,03/06/2022 12:36
+COS-1509,Story,Closed,COS,CoreOS OCP,software,Done,16/05/2022 11:18,03/06/2022 16:45
+COS-1508,Story,Closed,COS,CoreOS OCP,software,Done,16/05/2022 09:32,26/05/2022 13:53
+COS-1507,Story,Closed,COS,CoreOS OCP,software,Done,16/05/2022 09:16,18/05/2022 16:14
+COS-1506,Story,Closed,COS,CoreOS OCP,software,Done,16/05/2022 07:57,17/05/2022 09:35
+COS-1505,Story,Closed,COS,CoreOS OCP,software,Done,16/05/2022 07:56,17/05/2022 09:35
+COS-1503,Story,Closed,COS,CoreOS OCP,software,Done,11/05/2022 18:09,13/05/2022 18:48
+COS-1502,Task,Closed,COS,CoreOS OCP,software,Done,11/05/2022 16:43,05/08/2022 20:56
+COS-1501,Task,Closed,COS,CoreOS OCP,software,Done,11/05/2022 16:33,27/06/2022 13:48
+COS-1500,Task,Closed,COS,CoreOS OCP,software,Done,11/05/2022 16:26,05/08/2022 20:56
+COS-1499,Task,Closed,COS,CoreOS OCP,software,Done,11/05/2022 16:25,05/08/2022 20:56
+COS-1498,Task,Closed,COS,CoreOS OCP,software,Done,11/05/2022 16:23,17/08/2022 02:32
+COS-1494,Task,Closed,COS,CoreOS OCP,software,Done,10/05/2022 17:11,16/05/2022 14:22
+COS-1493,Story,Closed,COS,CoreOS OCP,software,Done,10/05/2022 16:16,25/05/2022 07:20
+COS-1492,Story,Closed,COS,CoreOS OCP,software,Done,10/05/2022 16:13,25/05/2022 07:19
+COS-1491,Story,Closed,COS,CoreOS OCP,software,Done,10/05/2022 16:11,25/05/2022 07:19
+COS-1490,Story,Closed,COS,CoreOS OCP,software,Done,06/05/2022 19:33,10/05/2022 16:17
+COS-1489,Story,Closed,COS,CoreOS OCP,software,Done,06/05/2022 10:59,06/05/2022 11:45
+COS-1488,Story,Closed,COS,CoreOS OCP,software,Done,06/05/2022 08:38,28/06/2022 15:38
+COS-1487,Story,Closed,COS,CoreOS OCP,software,Done,06/05/2022 03:47,13/03/2023 14:13
+COS-1486,Story,Closed,COS,CoreOS OCP,software,Done,04/05/2022 18:41,05/05/2022 18:28
+COS-1485,Story,Closed,COS,CoreOS OCP,software,Done,04/05/2022 10:59,06/05/2022 19:35
+COS-1484,Story,Closed,COS,CoreOS OCP,software,Done,04/05/2022 07:49,14/05/2022 05:02
+COS-1483,Story,Closed,COS,CoreOS OCP,software,Done,29/04/2022 07:39,04/05/2022 08:02
+COS-1482,Story,Closed,COS,CoreOS OCP,software,Done,27/04/2022 21:38,10/05/2022 16:14
+COS-1481,Story,Closed,COS,CoreOS OCP,software,Done,27/04/2022 21:37,04/05/2022 10:59
+COS-1480,Story,Closed,COS,CoreOS OCP,software,Done,27/04/2022 21:37,10/05/2022 16:12
+COS-1479,Story,Closed,COS,CoreOS OCP,software,Done,27/04/2022 14:11,03/06/2022 21:17
+COS-1477,Story,Closed,COS,CoreOS OCP,software,Done,25/04/2022 15:29,25/04/2022 20:06
+COS-1475,Story,Closed,COS,CoreOS OCP,software,Done,25/04/2022 14:47,27/09/2022 19:25
+COS-1474,Story,Closed,COS,CoreOS OCP,software,Duplicate,25/04/2022 14:43,25/04/2022 14:49
+COS-1427,Story,Closed,COS,CoreOS OCP,software,Done,25/04/2022 07:21,29/04/2022 07:22
+COS-1426,Story,Closed,COS,CoreOS OCP,software,Done,22/04/2022 19:09,13/05/2022 11:20
+COS-1420,Story,Closed,COS,CoreOS OCP,software,Done,22/04/2022 18:35,21/06/2022 17:20
+COS-1419,Story,Closed,COS,CoreOS OCP,software,Done,22/04/2022 15:40,02/08/2022 13:28
+COS-1417,Story,Closed,COS,CoreOS OCP,software,Done,22/04/2022 13:36,12/04/2023 17:40
+COS-1416,Bug,Closed,COS,CoreOS OCP,software,Duplicate,21/04/2022 19:52,03/05/2022 13:28
+COS-1415,Story,Closed,COS,CoreOS OCP,software,Done,20/04/2022 13:58,31/10/2022 16:09
+COS-1414,Story,Closed,COS,CoreOS OCP,software,Done,19/04/2022 20:22,03/05/2022 14:49
+COS-1413,Story,Closed,COS,CoreOS OCP,software,Done,19/04/2022 15:40,02/05/2022 17:45
+COS-1412,Story,Closed,COS,CoreOS OCP,software,Done,19/04/2022 13:57,27/04/2022 21:39
+COS-1411,Story,Closed,COS,CoreOS OCP,software,Done,18/04/2022 15:14,22/04/2022 19:10
+COS-1410,Story,New,COS,CoreOS OCP,software,,14/04/2022 15:01,
+COS-1409,Story,Closed,COS,CoreOS OCP,software,Done,14/04/2022 14:51,25/04/2022 11:46
+COS-1408,Story,Closed,COS,CoreOS OCP,software,Done,14/04/2022 14:21,10/05/2022 12:43
+COS-1396,Story,Closed,COS,CoreOS OCP,software,Done,13/04/2022 14:55,12/05/2022 15:27
+COS-1395,Story,Closed,COS,CoreOS OCP,software,Done,12/04/2022 18:40,27/04/2022 21:39
+COS-1394,Story,Closed,COS,CoreOS OCP,software,Done,12/04/2022 18:40,27/04/2022 21:39
+COS-1393,Story,Closed,COS,CoreOS OCP,software,Done,12/04/2022 18:40,19/04/2022 13:57
+COS-1392,Story,Closed,COS,CoreOS OCP,software,Done,12/04/2022 15:47,24/06/2022 00:55
+COS-1390,Story,Closed,COS,CoreOS OCP,software,Done,12/04/2022 09:55,12/04/2022 15:47
+COS-1384,Spike,New,COS,CoreOS OCP,software,,07/04/2022 18:29,
+COS-1383,Story,Closed,COS,CoreOS OCP,software,Done,07/04/2022 17:30,14/09/2022 03:45
+COS-206,Story,Closed,COS,CoreOS OCP,software,Done,09/09/2021 13:36,16/08/2022 14:46
+COS-119,Story,New,COS,CoreOS OCP,software,,01/03/2021 12:26,
+COS-117,Story,New,COS,CoreOS OCP,software,,14/06/2021 16:13,
+COS-116,Story,Closed,COS,CoreOS OCP,software,Done,18/06/2021 18:42,18/07/2022 14:01
+COS-97,Story,New,COS,CoreOS OCP,software,,08/09/2021 16:39,

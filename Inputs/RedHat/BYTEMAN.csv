@@ -1,0 +1,436 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+BYTEMAN-442,Component Upgrade,Coding In Progress,BYTEMAN,Byteman,software,,08/10/2024 16:54,
+BYTEMAN-441,Bug,Closed,BYTEMAN,Byteman,software,Done,24/05/2024 19:26,28/05/2024 11:28
+BYTEMAN-440,Bug,Reopened,BYTEMAN,Byteman,software,,08/05/2024 17:47,
+BYTEMAN-439,Component Upgrade,Closed,BYTEMAN,Byteman,software,Done,26/03/2024 08:18,15/04/2024 10:17
+BYTEMAN-438,Bug,Closed,BYTEMAN,Byteman,software,Done,15/03/2024 13:28,28/05/2024 15:24
+BYTEMAN-437,Enhancement,Closed,BYTEMAN,Byteman,software,Done,14/12/2023 07:56,28/05/2024 15:21
+BYTEMAN-436,Component Upgrade,Closed,BYTEMAN,Byteman,software,Done,28/10/2023 15:48,15/11/2023 15:38
+BYTEMAN-435,Bug,Closed,BYTEMAN,Byteman,software,Done,28/10/2023 15:42,15/11/2023 15:39
+BYTEMAN-434,Enhancement,Closed,BYTEMAN,Byteman,software,Done,25/07/2023 10:01,15/11/2023 15:35
+BYTEMAN-433,Bug,Closed,BYTEMAN,Byteman,software,Done,26/06/2023 08:05,26/06/2023 09:42
+BYTEMAN-432,Bug,Open,BYTEMAN,Byteman,software,,12/06/2023 19:05,
+BYTEMAN-431,Bug,Closed,BYTEMAN,Byteman,software,Not a Bug,16/05/2023 04:24,16/05/2023 07:39
+BYTEMAN-430,Bug,Closed,BYTEMAN,Byteman,software,Done,16/05/2023 04:20,16/05/2023 04:27
+BYTEMAN-429,Component Upgrade,Closed,BYTEMAN,Byteman,software,Done,27/03/2023 09:14,13/04/2023 15:53
+BYTEMAN-428,Bug,Closed,BYTEMAN,Byteman,software,Done,02/03/2023 20:04,06/03/2023 12:30
+BYTEMAN-427,Feature Request,Closed,BYTEMAN,Byteman,software,Done,27/02/2023 17:03,30/03/2023 07:38
+BYTEMAN-426,Component Upgrade,Closed,BYTEMAN,Byteman,software,Done,07/10/2022 11:02,12/10/2022 08:35
+BYTEMAN-425,Bug,Closed,BYTEMAN,Byteman,software,Done,07/10/2022 08:39,12/10/2022 08:56
+BYTEMAN-424,Bug,Closed,BYTEMAN,Byteman,software,Done,01/10/2022 00:32,12/10/2022 08:57
+BYTEMAN-423,Feature Request,Closed,BYTEMAN,Byteman,software,Won't Do,25/05/2022 15:31,26/05/2022 09:30
+BYTEMAN-422,Component Upgrade,Closed,BYTEMAN,Byteman,software,Done,13/04/2022 11:48,12/05/2022 13:17
+BYTEMAN-421,Feature Request,Closed,BYTEMAN,Byteman,software,Done,14/02/2022 10:38,12/05/2022 13:18
+BYTEMAN-420,Enhancement,Closed,BYTEMAN,Byteman,software,Done,04/02/2022 19:24,07/02/2022 13:47
+BYTEMAN-419,Component Upgrade,Closed,BYTEMAN,Byteman,software,Done,13/10/2021 12:32,25/11/2021 13:28
+BYTEMAN-418,Enhancement,Closed,BYTEMAN,Byteman,software,Done,03/09/2021 11:53,03/09/2021 14:20
+BYTEMAN-417,Enhancement,Open,BYTEMAN,Byteman,software,,24/08/2021 12:06,
+BYTEMAN-416,Task,Closed,BYTEMAN,Byteman,software,Done,30/07/2021 20:52,02/08/2021 11:16
+BYTEMAN-415,Enhancement,Closed,BYTEMAN,Byteman,software,Done,20/07/2021 15:18,21/07/2021 14:33
+BYTEMAN-414,Enhancement,Closed,BYTEMAN,Byteman,software,Done,20/07/2021 09:45,20/07/2021 15:10
+BYTEMAN-413,Enhancement,Closed,BYTEMAN,Byteman,software,Done,16/06/2021 08:52,16/06/2021 12:57
+BYTEMAN-412,Component Upgrade,Closed,BYTEMAN,Byteman,software,Done,13/04/2021 14:56,07/05/2021 08:38
+BYTEMAN-411,Component Upgrade,Closed,BYTEMAN,Byteman,software,Done,13/04/2021 14:53,13/04/2021 16:36
+BYTEMAN-406,Feature Request,Closed,BYTEMAN,Byteman,software,Won't Do,08/04/2021 14:44,10/05/2021 10:18
+BYTEMAN-405,Bug,Closed,BYTEMAN,Byteman,software,Won't Do,17/03/2021 12:55,17/03/2021 13:26
+BYTEMAN-404,Bug,Closed,BYTEMAN,Byteman,software,Done,09/02/2021 07:00,10/02/2021 12:03
+BYTEMAN-403,Bug,Closed,BYTEMAN,Byteman,software,Done,15/01/2021 10:16,16/02/2021 06:31
+BYTEMAN-402,Bug,Closed,BYTEMAN,Byteman,software,Not a Bug,11/01/2021 08:21,11/08/2021 16:33
+BYTEMAN-401,Enhancement,Closed,BYTEMAN,Byteman,software,Won't Do,07/08/2020 12:13,10/08/2020 06:01
+BYTEMAN-400,Enhancement,Closed,BYTEMAN,Byteman,software,Done,07/08/2020 11:56,10/08/2020 04:03
+BYTEMAN-399,Bug,Closed,BYTEMAN,Byteman,software,Done,12/07/2020 08:01,13/07/2020 10:50
+BYTEMAN-398,Enhancement,Closed,BYTEMAN,Byteman,software,Won't Do,01/04/2020 16:14,08/04/2020 10:21
+BYTEMAN-397,Bug,Closed,BYTEMAN,Byteman,software,Won't Do,03/03/2020 08:16,03/03/2020 08:55
+BYTEMAN-396,Bug,Closed,BYTEMAN,Byteman,software,Done,19/02/2020 06:27,24/02/2020 09:35
+BYTEMAN-395,Enhancement,Closed,BYTEMAN,Byteman,software,Done,10/02/2020 09:39,11/02/2020 05:03
+BYTEMAN-394,Bug,Closed,BYTEMAN,Byteman,software,Done,30/01/2020 11:08,10/02/2020 11:38
+BYTEMAN-393,Enhancement,Closed,BYTEMAN,Byteman,software,Done,17/01/2020 05:00,17/01/2020 05:28
+BYTEMAN-392,Bug,Closed,BYTEMAN,Byteman,software,Duplicate,03/12/2019 10:01,03/12/2019 10:16
+BYTEMAN-391,Bug,Closed,BYTEMAN,Byteman,software,Done,21/11/2019 09:30,21/11/2019 09:41
+BYTEMAN-390,Bug,Closed,BYTEMAN,Byteman,software,Done,18/11/2019 07:35,18/11/2019 10:38
+BYTEMAN-389,Feature Request,Closed,BYTEMAN,Byteman,software,Won't Do,13/11/2019 08:32,18/11/2019 11:05
+BYTEMAN-388,Bug,Closed,BYTEMAN,Byteman,software,Done,06/11/2019 12:39,18/11/2019 11:03
+BYTEMAN-387,Bug,Closed,BYTEMAN,Byteman,software,Done,30/10/2019 11:30,18/11/2019 11:04
+BYTEMAN-386,Enhancement,Closed,BYTEMAN,Byteman,software,Done,14/10/2019 09:42,14/10/2019 09:42
+BYTEMAN-385,Enhancement,Closed,BYTEMAN,Byteman,software,Won't Do,28/08/2019 02:42,28/08/2019 04:12
+BYTEMAN-384,Enhancement,Closed,BYTEMAN,Byteman,software,Done,07/08/2019 06:45,08/08/2019 11:09
+BYTEMAN-383,Bug,Closed,BYTEMAN,Byteman,software,Done,15/05/2019 06:36,21/05/2019 04:35
+BYTEMAN-382,Bug,Closed,BYTEMAN,Byteman,software,Done,17/04/2019 15:42,18/04/2019 04:28
+BYTEMAN-381,Bug,Closed,BYTEMAN,Byteman,software,Done,11/04/2019 04:00,21/05/2019 04:35
+BYTEMAN-380,Feature Request,Closed,BYTEMAN,Byteman,software,Won't Do,16/03/2019 03:38,17/03/2019 05:38
+BYTEMAN-379,Bug,Closed,BYTEMAN,Byteman,software,Done,14/03/2019 06:37,22/03/2019 07:42
+BYTEMAN-378,Enhancement,Closed,BYTEMAN,Byteman,software,Done,12/03/2019 16:16,13/03/2019 04:21
+BYTEMAN-377,Feature Request,Closed,BYTEMAN,Byteman,software,Done,12/03/2019 10:41,22/03/2019 07:43
+BYTEMAN-376,Bug,Closed,BYTEMAN,Byteman,software,Done,03/01/2019 04:08,10/01/2019 09:15
+BYTEMAN-375,Bug,Closed,BYTEMAN,Byteman,software,Won't Do,04/12/2018 05:07,05/12/2018 05:55
+BYTEMAN-374,Feature Request,Closed,BYTEMAN,Byteman,software,Won't Do,16/11/2018 13:15,23/05/2019 09:23
+BYTEMAN-373,Bug,Closed,BYTEMAN,Byteman,software,Done,09/11/2018 06:48,09/11/2018 06:51
+BYTEMAN-372,Enhancement,Closed,BYTEMAN,Byteman,software,Done,24/10/2018 12:09,08/11/2018 08:53
+BYTEMAN-371,Enhancement,Closed,BYTEMAN,Byteman,software,Done,10/07/2018 06:15,10/07/2018 06:20
+BYTEMAN-370,Enhancement,Closed,BYTEMAN,Byteman,software,Done,19/06/2018 04:52,28/06/2018 09:32
+BYTEMAN-369,Bug,Closed,BYTEMAN,Byteman,software,Won't Do,25/05/2018 12:25,28/06/2018 09:44
+BYTEMAN-368,Enhancement,Resolved,BYTEMAN,Byteman,software,Done,15/05/2018 04:25,18/05/2018 09:00
+BYTEMAN-367,Enhancement,Resolved,BYTEMAN,Byteman,software,Done,14/05/2018 11:56,15/05/2018 04:26
+BYTEMAN-366,Enhancement,Closed,BYTEMAN,Byteman,software,Done,19/04/2018 08:19,28/06/2018 11:40
+BYTEMAN-365,Enhancement,Resolved,BYTEMAN,Byteman,software,Won't Do,16/04/2018 04:14,14/05/2018 11:58
+BYTEMAN-364,Enhancement,Closed,BYTEMAN,Byteman,software,Done,09/04/2018 06:29,09/04/2018 09:35
+BYTEMAN-363,Bug,Closed,BYTEMAN,Byteman,software,Done,03/04/2018 04:40,09/04/2018 09:34
+BYTEMAN-362,Bug,Closed,BYTEMAN,Byteman,software,Done,22/03/2018 06:36,09/04/2018 09:34
+BYTEMAN-361,Bug,Closed,BYTEMAN,Byteman,software,Done,22/03/2018 06:35,03/04/2018 12:30
+BYTEMAN-360,Bug,Closed,BYTEMAN,Byteman,software,Won't Do,22/03/2018 06:35,22/03/2018 07:56
+BYTEMAN-359,Bug,Closed,BYTEMAN,Byteman,software,Cannot Reproduce,22/03/2018 06:35,22/03/2018 07:46
+BYTEMAN-358,Bug,Closed,BYTEMAN,Byteman,software,Done,09/03/2018 10:58,03/04/2018 12:31
+BYTEMAN-357,Bug,Closed,BYTEMAN,Byteman,software,Done,09/03/2018 10:54,03/04/2018 12:32
+BYTEMAN-356,Task,Closed,BYTEMAN,Byteman,software,Done,16/02/2018 13:23,19/02/2018 10:30
+BYTEMAN-355,Enhancement,Closed,BYTEMAN,Byteman,software,Done,16/02/2018 10:57,16/02/2018 11:03
+BYTEMAN-354,Enhancement,Open,BYTEMAN,Byteman,software,,07/02/2018 05:02,
+BYTEMAN-353,Enhancement,Closed,BYTEMAN,Byteman,software,Done,02/02/2018 02:57,16/02/2018 10:53
+BYTEMAN-352,Bug,Closed,BYTEMAN,Byteman,software,Done,01/02/2018 06:55,13/02/2018 07:46
+BYTEMAN-351,Bug,Closed,BYTEMAN,Byteman,software,Done,27/01/2018 13:05,13/02/2018 07:46
+BYTEMAN-350,Bug,Closed,BYTEMAN,Byteman,software,Done,18/01/2018 04:07,18/01/2018 04:53
+BYTEMAN-349,Feature Request,Closed,BYTEMAN,Byteman,software,Done,16/01/2018 11:16,18/01/2018 04:53
+BYTEMAN-348,Bug,Closed,BYTEMAN,Byteman,software,Done,16/01/2018 11:09,18/01/2018 06:26
+BYTEMAN-347,Feature Request,Closed,BYTEMAN,Byteman,software,Done,07/12/2017 09:13,14/12/2017 06:48
+BYTEMAN-346,Bug,Closed,BYTEMAN,Byteman,software,Done,28/07/2017 06:09,14/12/2017 06:45
+BYTEMAN-345,Bug,Closed,BYTEMAN,Byteman,software,Done,30/06/2017 07:15,14/12/2017 06:45
+BYTEMAN-344,Bug,Closed,BYTEMAN,Byteman,software,Done,22/05/2017 09:21,14/12/2017 06:47
+BYTEMAN-343,Bug,Closed,BYTEMAN,Byteman,software,Done,26/04/2017 06:13,26/04/2017 06:58
+BYTEMAN-342,Bug,Closed,BYTEMAN,Byteman,software,Done,26/04/2017 04:01,26/04/2017 09:34
+BYTEMAN-341,Bug,Closed,BYTEMAN,Byteman,software,Done,26/04/2017 03:51,26/04/2017 06:57
+BYTEMAN-340,Bug,Closed,BYTEMAN,Byteman,software,Done,24/04/2017 05:22,26/04/2017 09:35
+BYTEMAN-339,Bug,Closed,BYTEMAN,Byteman,software,Done,09/04/2017 07:43,10/04/2017 07:52
+BYTEMAN-338,Bug,Closed,BYTEMAN,Byteman,software,Done,07/04/2017 11:48,19/04/2017 08:41
+BYTEMAN-337,Bug,Closed,BYTEMAN,Byteman,software,Done,01/03/2017 08:08,07/03/2017 05:04
+BYTEMAN-336,Feature Request,Closed,BYTEMAN,Byteman,software,Done,08/02/2017 10:30,27/04/2017 07:29
+BYTEMAN-335,Feature Request,Open,BYTEMAN,Byteman,software,,03/02/2017 04:55,
+BYTEMAN-334,Feature Request,Closed,BYTEMAN,Byteman,software,Done,01/02/2017 10:05,01/02/2017 11:42
+BYTEMAN-333,Feature Request,Closed,BYTEMAN,Byteman,software,Done,12/12/2016 12:49,03/02/2017 04:48
+BYTEMAN-332,Bug,Closed,BYTEMAN,Byteman,software,Done,24/10/2016 09:38,01/02/2017 10:08
+BYTEMAN-331,Feature Request,Closed,BYTEMAN,Byteman,software,Done,20/10/2016 04:04,01/02/2017 12:08
+BYTEMAN-330,Feature Request,Closed,BYTEMAN,Byteman,software,Done,18/10/2016 13:03,18/10/2016 13:07
+BYTEMAN-329,Bug,Closed,BYTEMAN,Byteman,software,Done,14/10/2016 12:14,03/02/2017 06:11
+BYTEMAN-328,Bug,Closed,BYTEMAN,Byteman,software,Done,22/08/2016 11:35,10/01/2017 13:55
+BYTEMAN-327,Bug,Closed,BYTEMAN,Byteman,software,Done,22/08/2016 09:18,03/02/2017 06:25
+BYTEMAN-326,Bug,Closed,BYTEMAN,Byteman,software,Done,17/08/2016 10:01,03/02/2017 05:06
+BYTEMAN-325,Feature Request,Closed,BYTEMAN,Byteman,software,Done,25/07/2016 04:29,13/09/2021 12:02
+BYTEMAN-324,Enhancement,Closed,BYTEMAN,Byteman,software,Done,24/06/2016 13:06,19/09/2016 10:57
+BYTEMAN-321,Bug,Open,BYTEMAN,Byteman,software,,19/04/2016 06:36,
+BYTEMAN-320,Bug,Closed,BYTEMAN,Byteman,software,Done,06/04/2016 12:41,06/04/2016 12:44
+BYTEMAN-319,Bug,Closed,BYTEMAN,Byteman,software,Won't Do,31/03/2016 05:41,31/03/2016 07:25
+BYTEMAN-318,Bug,Closed,BYTEMAN,Byteman,software,Done,08/03/2016 06:57,14/12/2017 07:00
+BYTEMAN-317,Feature Request,Closed,BYTEMAN,Byteman,software,Done,01/03/2016 09:27,01/03/2016 09:32
+BYTEMAN-316,Bug,Closed,BYTEMAN,Byteman,software,Done,19/02/2016 07:45,22/02/2016 07:03
+BYTEMAN-315,Bug,Closed,BYTEMAN,Byteman,software,Done,18/02/2016 08:35,18/02/2016 10:17
+BYTEMAN-314,Bug,Open,BYTEMAN,Byteman,software,,17/02/2016 18:53,
+BYTEMAN-313,Feature Request,Closed,BYTEMAN,Byteman,software,Done,17/02/2016 12:07,20/04/2016 10:01
+BYTEMAN-312,Feature Request,Open,BYTEMAN,Byteman,software,,16/02/2016 18:26,
+BYTEMAN-311,Feature Request,Closed,BYTEMAN,Byteman,software,Done,09/02/2016 08:42,09/02/2016 09:09
+BYTEMAN-310,Feature Request,Closed,BYTEMAN,Byteman,software,Done,28/01/2016 09:14,24/02/2016 05:26
+BYTEMAN-309,Feature Request,Closed,BYTEMAN,Byteman,software,Won't Do,20/01/2016 08:10,20/01/2016 09:29
+BYTEMAN-308,Feature Request,Closed,BYTEMAN,Byteman,software,Done,15/01/2016 05:27,14/12/2017 06:57
+BYTEMAN-307,Enhancement,Closed,BYTEMAN,Byteman,software,Done,14/01/2016 19:47,16/02/2016 18:19
+BYTEMAN-306,Bug,Closed,BYTEMAN,Byteman,software,Done,11/01/2016 07:49,14/01/2016 04:24
+BYTEMAN-305,Feature Request,Closed,BYTEMAN,Byteman,software,Done,11/01/2016 07:30,11/01/2016 10:00
+BYTEMAN-304,Bug,Closed,BYTEMAN,Byteman,software,Done,05/01/2016 04:43,15/01/2016 05:18
+BYTEMAN-303,Bug,Closed,BYTEMAN,Byteman,software,Done,18/12/2015 08:43,18/12/2015 09:16
+BYTEMAN-302,Bug,Closed,BYTEMAN,Byteman,software,Done,02/12/2015 07:08,02/12/2015 09:22
+BYTEMAN-301,Bug,Closed,BYTEMAN,Byteman,software,Won't Do,18/11/2015 03:22,20/11/2015 04:05
+BYTEMAN-300,Task,Closed,BYTEMAN,Byteman,software,Done,27/10/2015 06:38,02/03/2016 09:16
+BYTEMAN-299,Bug,Closed,BYTEMAN,Byteman,software,Done,26/10/2015 11:37,29/10/2015 08:20
+BYTEMAN-298,Bug,Closed,BYTEMAN,Byteman,software,Done,14/10/2015 13:43,15/10/2015 06:10
+BYTEMAN-297,Bug,Closed,BYTEMAN,Byteman,software,Done,13/10/2015 09:32,15/10/2015 06:08
+BYTEMAN-296,Bug,Closed,BYTEMAN,Byteman,software,Done,28/09/2015 08:30,29/10/2015 08:19
+BYTEMAN-295,Bug,Closed,BYTEMAN,Byteman,software,Done,11/08/2015 04:39,29/10/2015 08:10
+BYTEMAN-294,Feature Request,Coding In Progress,BYTEMAN,Byteman,software,,29/07/2015 12:16,
+BYTEMAN-293,Bug,Closed,BYTEMAN,Byteman,software,Done,27/05/2015 12:14,29/05/2015 04:44
+BYTEMAN-292,Bug,Closed,BYTEMAN,Byteman,software,Done,21/05/2015 16:02,22/05/2015 05:02
+BYTEMAN-291,Feature Request,Closed,BYTEMAN,Byteman,software,Done,20/05/2015 05:57,03/08/2015 12:00
+BYTEMAN-290,Enhancement,Closed,BYTEMAN,Byteman,software,Done,14/05/2015 12:06,19/05/2015 05:52
+BYTEMAN-289,Feature Request,Closed,BYTEMAN,Byteman,software,Done,11/05/2015 04:08,20/04/2016 05:05
+BYTEMAN-288,Bug,Closed,BYTEMAN,Byteman,software,Done,07/05/2015 12:31,14/12/2017 07:01
+BYTEMAN-287,Bug,Closed,BYTEMAN,Byteman,software,Done,07/05/2015 12:11,14/05/2015 06:01
+BYTEMAN-286,Bug,Closed,BYTEMAN,Byteman,software,Done,01/05/2015 14:31,11/05/2015 11:13
+BYTEMAN-285,Bug,Closed,BYTEMAN,Byteman,software,Done,24/04/2015 13:59,19/05/2015 05:52
+BYTEMAN-284,Bug,Closed,BYTEMAN,Byteman,software,Done,20/04/2015 11:03,19/05/2015 06:24
+BYTEMAN-283,Enhancement,Closed,BYTEMAN,Byteman,software,Done,20/04/2015 07:17,21/04/2015 10:09
+BYTEMAN-282,Bug,Closed,BYTEMAN,Byteman,software,Won't Do,16/04/2015 11:45,16/04/2015 12:46
+BYTEMAN-281,Feature Request,Closed,BYTEMAN,Byteman,software,Done,07/04/2015 03:56,22/03/2019 07:53
+BYTEMAN-280,Feature Request,Closed,BYTEMAN,Byteman,software,Done,31/03/2015 06:54,21/04/2015 10:10
+BYTEMAN-279,Bug,Closed,BYTEMAN,Byteman,software,Duplicate,20/03/2015 05:08,20/03/2015 06:06
+BYTEMAN-278,Feature Request,Closed,BYTEMAN,Byteman,software,Won't Do,18/02/2015 08:16,23/02/2015 10:46
+BYTEMAN-277,Feature Request,Closed,BYTEMAN,Byteman,software,Done,11/02/2015 08:54,11/02/2015 09:32
+BYTEMAN-276,Feature Request,Closed,BYTEMAN,Byteman,software,Done,23/01/2015 06:46,11/02/2015 08:27
+BYTEMAN-275,Bug,Closed,BYTEMAN,Byteman,software,Done,28/10/2014 07:29,28/10/2014 08:09
+BYTEMAN-274,Bug,Closed,BYTEMAN,Byteman,software,Done,28/09/2014 11:10,08/01/2015 06:10
+BYTEMAN-273,Feature Request,Closed,BYTEMAN,Byteman,software,Done,18/09/2014 02:24,06/10/2014 03:55
+BYTEMAN-272,Bug,Closed,BYTEMAN,Byteman,software,Done,10/09/2014 06:49,29/09/2014 10:53
+BYTEMAN-271,Bug,Closed,BYTEMAN,Byteman,software,Won't Do,15/08/2014 03:27,18/02/2015 07:50
+BYTEMAN-270,Bug,Open,BYTEMAN,Byteman,software,,30/07/2014 03:02,
+BYTEMAN-269,Bug,Closed,BYTEMAN,Byteman,software,Done,08/07/2014 05:52,08/07/2014 10:23
+BYTEMAN-268,Enhancement,Closed,BYTEMAN,Byteman,software,Cannot Reproduce,05/07/2014 06:33,23/01/2015 06:40
+BYTEMAN-267,Bug,Closed,BYTEMAN,Byteman,software,Done,03/07/2014 13:02,08/07/2014 10:05
+BYTEMAN-266,Feature Request,Closed,BYTEMAN,Byteman,software,Done,01/07/2014 04:37,08/07/2014 10:07
+BYTEMAN-265,Bug,Closed,BYTEMAN,Byteman,software,Won't Do,24/06/2014 04:34,24/06/2014 05:38
+BYTEMAN-264,Bug,Closed,BYTEMAN,Byteman,software,Done,05/03/2014 00:43,15/05/2014 08:50
+BYTEMAN-263,Bug,Closed,BYTEMAN,Byteman,software,Done,05/03/2014 00:22,15/05/2014 08:49
+BYTEMAN-262,Task,Closed,BYTEMAN,Byteman,software,Won't Do,04/03/2014 12:15,04/03/2014 13:18
+BYTEMAN-261,Feature Request,Closed,BYTEMAN,Byteman,software,Won't Do,04/03/2014 11:32,15/05/2014 08:52
+BYTEMAN-260,Feature Request,Closed,BYTEMAN,Byteman,software,Won't Do,04/02/2014 06:46,05/02/2014 05:34
+BYTEMAN-259,Bug,Closed,BYTEMAN,Byteman,software,Done,27/12/2013 12:23,16/05/2014 11:53
+BYTEMAN-258,Feature Request,Closed,BYTEMAN,Byteman,software,Done,23/12/2013 12:31,19/05/2014 06:01
+BYTEMAN-257,Feature Request,Closed,BYTEMAN,Byteman,software,Done,03/12/2013 06:31,03/12/2013 06:48
+BYTEMAN-256,Bug,Closed,BYTEMAN,Byteman,software,Done,25/11/2013 08:35,02/12/2013 05:15
+BYTEMAN-255,Bug,Closed,BYTEMAN,Byteman,software,Done,25/11/2013 05:04,13/12/2013 07:31
+BYTEMAN-254,Feature Request,Closed,BYTEMAN,Byteman,software,Done,25/11/2013 04:27,05/12/2013 08:00
+BYTEMAN-253,Bug,Closed,BYTEMAN,Byteman,software,Done,13/11/2013 04:01,03/12/2013 06:47
+BYTEMAN-252,Feature Request,Closed,BYTEMAN,Byteman,software,Done,08/10/2013 04:39,03/12/2013 11:00
+BYTEMAN-251,Bug,Closed,BYTEMAN,Byteman,software,Done,03/10/2013 04:44,10/12/2013 06:59
+BYTEMAN-250,Bug,Closed,BYTEMAN,Byteman,software,Won't Do,02/09/2013 06:24,03/09/2013 04:26
+BYTEMAN-249,Feature Request,Closed,BYTEMAN,Byteman,software,Duplicate,26/08/2013 12:21,28/08/2013 13:06
+BYTEMAN-248,Feature Request,Open,BYTEMAN,Byteman,software,,19/08/2013 14:32,
+BYTEMAN-247,Enhancement,Closed,BYTEMAN,Byteman,software,Done,02/07/2013 05:55,09/07/2013 09:25
+BYTEMAN-246,Bug,Closed,BYTEMAN,Byteman,software,Done,25/06/2013 06:00,26/06/2013 12:18
+BYTEMAN-245,Feature Request,Closed,BYTEMAN,Byteman,software,Done,19/06/2013 13:26,13/12/2013 07:15
+BYTEMAN-244,Feature Request,Closed,BYTEMAN,Byteman,software,Done,17/06/2013 08:04,17/06/2013 08:07
+BYTEMAN-243,Enhancement,Closed,BYTEMAN,Byteman,software,Done,14/06/2013 10:52,26/06/2013 10:19
+BYTEMAN-242,Feature Request,Closed,BYTEMAN,Byteman,software,Done,13/06/2013 19:03,14/06/2013 10:54
+BYTEMAN-241,Bug,Closed,BYTEMAN,Byteman,software,Done,13/06/2013 09:27,26/06/2013 12:21
+BYTEMAN-240,Bug,Closed,BYTEMAN,Byteman,software,Won't Do,29/05/2013 03:48,29/05/2013 06:16
+BYTEMAN-239,Feature Request,Closed,BYTEMAN,Byteman,software,Done,14/05/2013 10:38,26/06/2013 12:22
+BYTEMAN-238,Enhancement,Closed,BYTEMAN,Byteman,software,Done,09/05/2013 20:53,13/06/2013 10:31
+BYTEMAN-237,Feature Request,Closed,BYTEMAN,Byteman,software,Done,06/05/2013 11:26,20/04/2016 05:10
+BYTEMAN-236,Feature Request,Closed,BYTEMAN,Byteman,software,Won't Do,26/04/2013 09:16,20/05/2014 10:40
+BYTEMAN-235,Feature Request,Closed,BYTEMAN,Byteman,software,Done,25/04/2013 10:25,14/06/2013 11:50
+BYTEMAN-234,Bug,Closed,BYTEMAN,Byteman,software,Won't Do,18/04/2013 12:03,11/12/2013 08:43
+BYTEMAN-233,Enhancement,Closed,BYTEMAN,Byteman,software,Done,05/03/2013 20:59,26/06/2013 12:23
+BYTEMAN-232,Feature Request,Closed,BYTEMAN,Byteman,software,Done,05/03/2013 05:56,05/03/2013 06:05
+BYTEMAN-231,Feature Request,Closed,BYTEMAN,Byteman,software,Done,15/02/2013 05:58,14/06/2013 10:55
+BYTEMAN-230,Bug,Closed,BYTEMAN,Byteman,software,Done,18/01/2013 04:39,14/06/2013 10:57
+BYTEMAN-229,Bug,Resolved,BYTEMAN,Byteman,software,Won't Do,10/01/2013 03:59,17/06/2013 13:27
+BYTEMAN-228,Feature Request,Closed,BYTEMAN,Byteman,software,Done,28/12/2012 14:03,14/06/2013 12:20
+BYTEMAN-227,Bug,Closed,BYTEMAN,Byteman,software,Done,05/12/2012 09:09,05/12/2012 09:11
+BYTEMAN-226,Feature Request,Closed,BYTEMAN,Byteman,software,Done,05/12/2012 06:17,05/12/2012 06:19
+BYTEMAN-225,Feature Request,Closed,BYTEMAN,Byteman,software,Done,05/12/2012 05:59,05/12/2012 06:23
+BYTEMAN-224,Enhancement,Closed,BYTEMAN,Byteman,software,Done,26/11/2012 04:45,26/11/2012 05:04
+BYTEMAN-223,Bug,Closed,BYTEMAN,Byteman,software,Done,25/10/2012 06:11,26/11/2012 05:33
+BYTEMAN-222,Feature Request,Closed,BYTEMAN,Byteman,software,Done,11/10/2012 13:03,11/10/2012 13:07
+BYTEMAN-221,Feature Request,Closed,BYTEMAN,Byteman,software,Done,05/10/2012 12:38,17/10/2012 07:18
+BYTEMAN-220,Feature Request,Closed,BYTEMAN,Byteman,software,Done,25/09/2012 06:42,03/12/2012 06:04
+BYTEMAN-219,Feature Request,Closed,BYTEMAN,Byteman,software,Done,25/09/2012 06:33,03/12/2012 05:45
+BYTEMAN-218,Feature Request,Open,BYTEMAN,Byteman,software,,07/09/2012 18:07,
+BYTEMAN-217,Feature Request,Open,BYTEMAN,Byteman,software,,07/09/2012 18:00,
+BYTEMAN-216,Bug,Closed,BYTEMAN,Byteman,software,Duplicate,06/09/2012 04:25,10/09/2012 10:46
+BYTEMAN-215,Bug,Closed,BYTEMAN,Byteman,software,Done,06/09/2012 03:54,03/12/2012 06:40
+BYTEMAN-214,Bug,Closed,BYTEMAN,Byteman,software,Won't Do,09/08/2012 12:20,03/12/2012 05:48
+BYTEMAN-213,Feature Request,Closed,BYTEMAN,Byteman,software,Done,25/07/2012 03:40,25/07/2012 03:51
+BYTEMAN-212,Feature Request,Closed,BYTEMAN,Byteman,software,Done,24/07/2012 04:53,25/07/2012 06:22
+BYTEMAN-211,Bug,Closed,BYTEMAN,Byteman,software,Done,19/07/2012 07:35,24/07/2012 06:06
+BYTEMAN-210,Bug,Closed,BYTEMAN,Byteman,software,Done,19/07/2012 07:33,09/08/2012 07:01
+BYTEMAN-209,Bug,Open,BYTEMAN,Byteman,software,,08/06/2012 06:00,
+BYTEMAN-208,Bug,Closed,BYTEMAN,Byteman,software,Done,07/06/2012 08:53,08/06/2012 07:19
+BYTEMAN-207,Feature Request,Closed,BYTEMAN,Byteman,software,Done,29/05/2012 11:35,29/05/2012 11:35
+BYTEMAN-206,Bug,Closed,BYTEMAN,Byteman,software,Done,24/05/2012 04:33,24/05/2012 04:35
+BYTEMAN-205,Feature Request,Closed,BYTEMAN,Byteman,software,Done,08/05/2012 20:12,29/05/2012 10:22
+BYTEMAN-204,Enhancement,Closed,BYTEMAN,Byteman,software,Done,08/05/2012 01:32,08/05/2012 04:45
+BYTEMAN-203,Bug,Closed,BYTEMAN,Byteman,software,Done,03/05/2012 02:20,03/05/2012 13:22
+BYTEMAN-202,Bug,Closed,BYTEMAN,Byteman,software,Done,19/04/2012 12:51,03/05/2012 13:21
+BYTEMAN-201,Bug,Closed,BYTEMAN,Byteman,software,Done,05/04/2012 04:52,29/05/2012 06:40
+BYTEMAN-200,Bug,Closed,BYTEMAN,Byteman,software,Done,26/03/2012 01:05,29/05/2012 06:39
+BYTEMAN-199,Enhancement,Closed,BYTEMAN,Byteman,software,Done,13/03/2012 09:06,13/03/2012 09:14
+BYTEMAN-198,Bug,Closed,BYTEMAN,Byteman,software,Done,01/03/2012 08:44,01/03/2012 10:31
+BYTEMAN-197,Bug,Open,BYTEMAN,Byteman,software,,29/02/2012 11:42,
+BYTEMAN-196,Bug,Closed,BYTEMAN,Byteman,software,Done,29/02/2012 11:33,13/03/2012 09:22
+BYTEMAN-195,Bug,Closed,BYTEMAN,Byteman,software,Done,28/02/2012 05:03,28/02/2012 05:07
+BYTEMAN-194,Bug,Closed,BYTEMAN,Byteman,software,Done,22/02/2012 13:22,22/02/2012 13:25
+BYTEMAN-193,Feature Request,Closed,BYTEMAN,Byteman,software,Done,20/02/2012 04:40,13/03/2012 10:38
+BYTEMAN-192,Bug,Resolved,BYTEMAN,Byteman,software,Done,14/02/2012 23:05,01/03/2012 13:42
+BYTEMAN-191,Feature Request,Open,BYTEMAN,Byteman,software,,30/01/2012 06:36,
+BYTEMAN-190,Feature Request,Closed,BYTEMAN,Byteman,software,Done,19/01/2012 04:06,14/06/2013 10:53
+BYTEMAN-189,Feature Request,Open,BYTEMAN,Byteman,software,,17/01/2012 00:45,
+BYTEMAN-188,Bug,Closed,BYTEMAN,Byteman,software,Done,16/01/2012 23:09,20/05/2014 11:54
+BYTEMAN-187,Bug,Closed,BYTEMAN,Byteman,software,Won't Do,11/01/2012 11:08,28/02/2012 04:28
+BYTEMAN-186,Bug,Closed,BYTEMAN,Byteman,software,Done,11/01/2012 10:55,22/02/2012 13:28
+BYTEMAN-185,Feature Request,Resolved,BYTEMAN,Byteman,software,Done,06/01/2012 10:30,07/01/2012 03:09
+BYTEMAN-184,Feature Request,Closed,BYTEMAN,Byteman,software,Done,04/01/2012 10:21,04/01/2012 11:55
+BYTEMAN-183,Bug,Closed,BYTEMAN,Byteman,software,Done,20/12/2011 13:58,21/12/2011 12:02
+BYTEMAN-182,Bug,Closed,BYTEMAN,Byteman,software,Done,14/12/2011 19:44,03/01/2012 06:28
+BYTEMAN-181,Bug,Closed,BYTEMAN,Byteman,software,Done,30/11/2011 09:58,30/11/2011 11:02
+BYTEMAN-180,Bug,Closed,BYTEMAN,Byteman,software,Done,23/11/2011 13:02,21/12/2011 12:18
+BYTEMAN-179,Bug,Closed,BYTEMAN,Byteman,software,Done,23/11/2011 09:07,23/11/2011 10:43
+BYTEMAN-178,Bug,Closed,BYTEMAN,Byteman,software,Done,16/11/2011 16:56,18/11/2011 15:48
+BYTEMAN-177,Bug,Resolved,BYTEMAN,Byteman,software,Won't Do,14/11/2011 11:08,23/11/2011 10:59
+BYTEMAN-176,Bug,Closed,BYTEMAN,Byteman,software,Done,14/11/2011 10:50,23/11/2011 10:56
+BYTEMAN-175,Feature Request,Closed,BYTEMAN,Byteman,software,Done,25/10/2011 07:24,04/01/2012 12:16
+BYTEMAN-174,Enhancement,Closed,BYTEMAN,Byteman,software,Done,28/09/2011 12:15,30/09/2011 13:05
+BYTEMAN-173,Bug,Closed,BYTEMAN,Byteman,software,Done,27/09/2011 10:19,28/09/2011 12:08
+BYTEMAN-172,Bug,Closed,BYTEMAN,Byteman,software,Done,23/09/2011 12:02,28/09/2011 12:22
+BYTEMAN-171,Task,Closed,BYTEMAN,Byteman,software,Done,09/09/2011 10:00,23/11/2011 11:43
+BYTEMAN-170,Feature Request,Open,BYTEMAN,Byteman,software,,30/08/2011 12:05,
+BYTEMAN-169,Bug,Closed,BYTEMAN,Byteman,software,Done,15/08/2011 05:42,15/08/2011 11:22
+BYTEMAN-168,Feature Request,Closed,BYTEMAN,Byteman,software,Done,02/08/2011 17:01,24/08/2011 10:54
+BYTEMAN-167,Bug,Closed,BYTEMAN,Byteman,software,Done,14/07/2011 01:29,18/07/2011 05:22
+BYTEMAN-166,Bug,Closed,BYTEMAN,Byteman,software,Done,08/07/2011 07:08,08/07/2011 07:25
+BYTEMAN-165,Feature Request,Closed,BYTEMAN,Byteman,software,Done,07/07/2011 11:13,04/01/2012 12:21
+BYTEMAN-164,Bug,Closed,BYTEMAN,Byteman,software,Done,28/06/2011 06:15,28/06/2011 06:17
+BYTEMAN-163,Bug,Closed,BYTEMAN,Byteman,software,Done,27/04/2011 11:54,08/07/2011 07:25
+BYTEMAN-162,Bug,Closed,BYTEMAN,Byteman,software,Done,27/04/2011 10:36,08/07/2011 08:51
+BYTEMAN-161,Bug,Closed,BYTEMAN,Byteman,software,Done,26/04/2011 07:42,08/07/2011 08:51
+BYTEMAN-160,Bug,Closed,BYTEMAN,Byteman,software,Done,26/04/2011 06:44,08/07/2011 08:55
+BYTEMAN-159,Bug,Closed,BYTEMAN,Byteman,software,Done,18/04/2011 13:19,08/07/2011 08:57
+BYTEMAN-158,Bug,Open,BYTEMAN,Byteman,software,,18/04/2011 07:01,
+BYTEMAN-157,Bug,Closed,BYTEMAN,Byteman,software,Cannot Reproduce,30/03/2011 10:09,22/07/2011 08:35
+BYTEMAN-156,Bug,Closed,BYTEMAN,Byteman,software,Done,23/03/2011 07:38,11/07/2011 09:52
+BYTEMAN-155,Bug,Closed,BYTEMAN,Byteman,software,Done,07/03/2011 23:54,08/03/2011 10:13
+BYTEMAN-154,Bug,Closed,BYTEMAN,Byteman,software,Won't Do,07/03/2011 23:40,08/03/2011 09:05
+BYTEMAN-153,Bug,Closed,BYTEMAN,Byteman,software,Done,28/02/2011 11:37,18/04/2011 07:54
+BYTEMAN-152,Bug,Closed,BYTEMAN,Byteman,software,Done,28/02/2011 11:20,28/02/2011 11:28
+BYTEMAN-151,Enhancement,Open,BYTEMAN,Byteman,software,,22/02/2011 20:54,
+BYTEMAN-150,Bug,Closed,BYTEMAN,Byteman,software,Done,10/02/2011 10:24,10/02/2011 10:45
+BYTEMAN-149,Feature Request,Closed,BYTEMAN,Byteman,software,Done,27/01/2011 14:22,31/01/2011 08:00
+BYTEMAN-148,Enhancement,Closed,BYTEMAN,Byteman,software,Done,25/01/2011 22:38,24/06/2014 10:57
+BYTEMAN-147,Feature Request,Closed,BYTEMAN,Byteman,software,Done,20/01/2011 06:49,20/01/2011 07:01
+BYTEMAN-146,Feature Request,Closed,BYTEMAN,Byteman,software,Done,17/01/2011 08:01,17/01/2011 08:02
+BYTEMAN-145,Feature Request,Closed,BYTEMAN,Byteman,software,Done,17/01/2011 07:56,17/01/2011 08:00
+BYTEMAN-144,Feature Request,Closed,BYTEMAN,Byteman,software,Done,17/12/2010 15:51,29/12/2010 09:55
+BYTEMAN-143,Feature Request,Closed,BYTEMAN,Byteman,software,Done,17/12/2010 11:04,17/12/2010 12:08
+BYTEMAN-142,Feature Request,Closed,BYTEMAN,Byteman,software,Done,16/12/2010 04:49,28/12/2010 17:26
+BYTEMAN-141,Feature Request,Closed,BYTEMAN,Byteman,software,Done,16/12/2010 04:47,28/12/2010 17:25
+BYTEMAN-140,Bug,Closed,BYTEMAN,Byteman,software,Done,03/12/2010 05:43,03/12/2010 14:14
+BYTEMAN-139,Bug,Closed,BYTEMAN,Byteman,software,Done,01/12/2010 14:32,17/01/2011 06:42
+BYTEMAN-138,Bug,Closed,BYTEMAN,Byteman,software,Done,30/11/2010 05:12,17/01/2011 06:44
+BYTEMAN-137,Feature Request,Closed,BYTEMAN,Byteman,software,Done,23/11/2010 10:51,24/11/2010 07:00
+BYTEMAN-136,Bug,Closed,BYTEMAN,Byteman,software,Done,18/11/2010 14:28,24/11/2010 11:08
+BYTEMAN-135,Feature Request,Closed,BYTEMAN,Byteman,software,Done,16/11/2010 11:36,16/11/2010 11:47
+BYTEMAN-134,Feature Request,Closed,BYTEMAN,Byteman,software,Done,16/11/2010 11:26,17/01/2011 06:44
+BYTEMAN-133,Feature Request,Closed,BYTEMAN,Byteman,software,Done,16/11/2010 10:28,22/11/2010 11:29
+BYTEMAN-132,Feature Request,Closed,BYTEMAN,Byteman,software,Done,16/11/2010 10:24,22/11/2010 08:16
+BYTEMAN-131,Bug,Closed,BYTEMAN,Byteman,software,Done,16/11/2010 09:39,16/11/2010 11:20
+BYTEMAN-130,Feature Request,Closed,BYTEMAN,Byteman,software,Done,10/11/2010 11:05,10/11/2010 11:13
+BYTEMAN-129,Bug,Closed,BYTEMAN,Byteman,software,Done,03/11/2010 05:52,03/11/2010 10:29
+BYTEMAN-128,Bug,Closed,BYTEMAN,Byteman,software,Won't Do,02/11/2010 11:21,02/11/2010 12:09
+BYTEMAN-127,Feature Request,Resolved,BYTEMAN,Byteman,software,Done,02/11/2010 10:58,02/11/2010 11:23
+BYTEMAN-126,Feature Request,Closed,BYTEMAN,Byteman,software,Done,25/10/2010 06:04,25/10/2010 06:05
+BYTEMAN-125,Feature Request,Closed,BYTEMAN,Byteman,software,Done,22/10/2010 12:21,22/10/2010 12:32
+BYTEMAN-124,Bug,Closed,BYTEMAN,Byteman,software,Done,15/10/2010 11:53,15/10/2010 12:12
+BYTEMAN-123,Bug,Closed,BYTEMAN,Byteman,software,Done,12/10/2010 13:46,17/01/2011 06:39
+BYTEMAN-122,Bug,Closed,BYTEMAN,Byteman,software,Done,12/10/2010 12:32,12/10/2010 12:41
+BYTEMAN-121,Bug,Closed,BYTEMAN,Byteman,software,Done,12/10/2010 12:19,12/10/2010 12:20
+BYTEMAN-120,Feature Request,Closed,BYTEMAN,Byteman,software,Done,06/10/2010 09:53,26/10/2010 08:49
+BYTEMAN-119,Bug,Closed,BYTEMAN,Byteman,software,Done,04/10/2010 10:14,04/10/2010 10:15
+BYTEMAN-118,Bug,Closed,BYTEMAN,Byteman,software,Done,16/09/2010 13:12,16/09/2010 13:14
+BYTEMAN-117,Bug,Closed,BYTEMAN,Byteman,software,Done,16/09/2010 12:41,16/09/2010 12:42
+BYTEMAN-116,Bug,Closed,BYTEMAN,Byteman,software,Done,16/09/2010 07:33,16/09/2010 13:27
+BYTEMAN-115,Bug,Closed,BYTEMAN,Byteman,software,Done,14/09/2010 07:47,14/09/2010 08:44
+BYTEMAN-114,Feature Request,Open,BYTEMAN,Byteman,software,,28/06/2010 17:08,
+BYTEMAN-113,Bug,Open,BYTEMAN,Byteman,software,,15/06/2010 13:22,
+BYTEMAN-112,Bug,Closed,BYTEMAN,Byteman,software,Done,15/06/2010 13:04,15/06/2010 13:10
+BYTEMAN-111,Bug,Closed,BYTEMAN,Byteman,software,Done,04/06/2010 10:36,04/06/2010 10:39
+BYTEMAN-110,Feature Request,Closed,BYTEMAN,Byteman,software,Done,03/06/2010 05:56,03/06/2010 06:12
+BYTEMAN-109,Bug,Closed,BYTEMAN,Byteman,software,Done,02/06/2010 11:52,02/06/2010 11:55
+BYTEMAN-108,Bug,Closed,BYTEMAN,Byteman,software,Done,02/06/2010 10:27,02/06/2010 10:29
+BYTEMAN-107,Feature Request,Closed,BYTEMAN,Byteman,software,Done,28/05/2010 11:07,28/05/2010 12:21
+BYTEMAN-106,Bug,Closed,BYTEMAN,Byteman,software,Done,21/05/2010 16:22,21/05/2010 16:23
+BYTEMAN-105,Bug,Closed,BYTEMAN,Byteman,software,Done,20/05/2010 04:04,20/05/2010 04:51
+BYTEMAN-104,Feature Request,Closed,BYTEMAN,Byteman,software,Done,19/05/2010 06:50,24/05/2010 09:20
+BYTEMAN-103,Feature Request,Closed,BYTEMAN,Byteman,software,Done,19/05/2010 06:40,27/05/2010 09:21
+BYTEMAN-102,Feature Request,Closed,BYTEMAN,Byteman,software,Done,04/05/2010 11:01,19/05/2010 05:40
+BYTEMAN-101,Bug,Closed,BYTEMAN,Byteman,software,Done,04/05/2010 10:56,04/05/2010 10:57
+BYTEMAN-100,Task,Closed,BYTEMAN,Byteman,software,Done,04/05/2010 09:47,04/05/2010 11:46
+BYTEMAN-99,Feature Request,Closed,BYTEMAN,Byteman,software,Done,30/04/2010 12:11,05/10/2010 11:55
+BYTEMAN-98,Bug,Closed,BYTEMAN,Byteman,software,Done,30/04/2010 10:30,30/04/2010 11:51
+BYTEMAN-97,Feature Request,Closed,BYTEMAN,Byteman,software,Done,30/04/2010 10:03,30/04/2010 10:07
+BYTEMAN-96,Bug,Closed,BYTEMAN,Byteman,software,Done,30/04/2010 09:53,30/04/2010 10:05
+BYTEMAN-95,Bug,Closed,BYTEMAN,Byteman,software,Done,30/04/2010 09:48,30/04/2010 11:59
+BYTEMAN-94,Feature Request,Closed,BYTEMAN,Byteman,software,Done,30/04/2010 08:31,30/04/2010 08:48
+BYTEMAN-93,Bug,Closed,BYTEMAN,Byteman,software,Done,30/04/2010 05:31,30/04/2010 06:48
+BYTEMAN-92,Feature Request,Closed,BYTEMAN,Byteman,software,Done,23/04/2010 12:48,30/04/2010 07:01
+BYTEMAN-91,Bug,Closed,BYTEMAN,Byteman,software,Done,21/04/2010 05:42,28/04/2010 04:03
+BYTEMAN-90,Bug,Closed,BYTEMAN,Byteman,software,Done,15/04/2010 07:36,28/04/2010 04:04
+BYTEMAN-89,Bug,Closed,BYTEMAN,Byteman,software,Done,01/04/2010 13:07,28/04/2010 11:47
+BYTEMAN-88,Feature Request,Closed,BYTEMAN,Byteman,software,Done,12/03/2010 11:45,04/05/2010 11:43
+BYTEMAN-87,Bug,Closed,BYTEMAN,Byteman,software,Done,23/02/2010 10:17,28/04/2010 04:12
+BYTEMAN-86,Feature Request,Open,BYTEMAN,Byteman,software,,17/02/2010 06:42,
+BYTEMAN-85,Feature Request,Closed,BYTEMAN,Byteman,software,Done,17/02/2010 06:24,17/02/2010 06:39
+BYTEMAN-84,Bug,Closed,BYTEMAN,Byteman,software,Done,10/02/2010 08:51,10/02/2010 08:54
+BYTEMAN-83,Bug,Closed,BYTEMAN,Byteman,software,Done,10/02/2010 08:11,10/02/2010 09:21
+BYTEMAN-82,Bug,Closed,BYTEMAN,Byteman,software,Done,08/02/2010 13:27,19/02/2010 12:39
+BYTEMAN-81,Feature Request,Closed,BYTEMAN,Byteman,software,Done,05/02/2010 10:39,12/02/2010 08:10
+BYTEMAN-80,Bug,Closed,BYTEMAN,Byteman,software,Done,08/01/2010 10:00,27/01/2010 11:46
+BYTEMAN-79,Task,Closed,BYTEMAN,Byteman,software,Done,04/01/2010 09:10,06/01/2010 11:01
+BYTEMAN-78,Task,Closed,BYTEMAN,Byteman,software,Done,04/01/2010 09:04,06/01/2010 11:00
+BYTEMAN-77,Feature Request,Closed,BYTEMAN,Byteman,software,Done,04/01/2010 00:04,06/01/2010 04:06
+BYTEMAN-76,Feature Request,Resolved,BYTEMAN,Byteman,software,Done,30/12/2009 22:57,04/01/2010 00:01
+BYTEMAN-75,Feature Request,Resolved,BYTEMAN,Byteman,software,Done,30/12/2009 22:52,03/01/2010 23:59
+BYTEMAN-74,Feature Request,Resolved,BYTEMAN,Byteman,software,Done,30/12/2009 22:47,03/01/2010 23:56
+BYTEMAN-72,Feature Request,Resolved,BYTEMAN,Byteman,software,Done,30/12/2009 22:42,03/01/2010 23:55
+BYTEMAN-71,Bug,Closed,BYTEMAN,Byteman,software,Done,30/12/2009 22:40,19/02/2010 12:38
+BYTEMAN-70,Task,Closed,BYTEMAN,Byteman,software,Done,27/12/2009 16:31,06/01/2010 07:57
+BYTEMAN-69,Bug,Closed,BYTEMAN,Byteman,software,Done,23/12/2009 02:07,04/01/2010 06:00
+BYTEMAN-68,Bug,Closed,BYTEMAN,Byteman,software,Done,16/12/2009 12:05,19/02/2010 12:38
+BYTEMAN-67,Bug,Closed,BYTEMAN,Byteman,software,Done,16/12/2009 11:56,16/12/2009 12:02
+BYTEMAN-66,Bug,Closed,BYTEMAN,Byteman,software,Done,03/12/2009 07:48,03/12/2009 10:27
+BYTEMAN-65,Bug,Closed,BYTEMAN,Byteman,software,Done,26/11/2009 12:43,01/12/2009 08:39
+BYTEMAN-64,Feature Request,Closed,BYTEMAN,Byteman,software,Done,25/11/2009 13:34,01/12/2009 08:35
+BYTEMAN-63,Bug,Closed,BYTEMAN,Byteman,software,Done,25/11/2009 13:12,25/11/2009 13:15
+BYTEMAN-62,Feature Request,Closed,BYTEMAN,Byteman,software,Obsolete,10/11/2009 12:05,22/07/2011 08:33
+BYTEMAN-61,Bug,Closed,BYTEMAN,Byteman,software,Done,04/11/2009 05:58,06/11/2009 08:09
+BYTEMAN-60,Feature Request,Closed,BYTEMAN,Byteman,software,Done,27/10/2009 12:44,27/10/2009 12:46
+BYTEMAN-59,Bug,Closed,BYTEMAN,Byteman,software,Done,26/10/2009 13:21,26/10/2009 13:23
+BYTEMAN-58,Task,Closed,BYTEMAN,Byteman,software,Done,26/10/2009 06:33,18/11/2009 13:49
+BYTEMAN-57,Bug,Resolved,BYTEMAN,Byteman,software,Done,24/10/2009 02:04,27/10/2009 08:57
+BYTEMAN-56,Feature Request,Resolved,BYTEMAN,Byteman,software,Done,24/10/2009 01:36,27/10/2009 08:58
+BYTEMAN-55,Bug,Resolved,BYTEMAN,Byteman,software,Done,23/10/2009 17:30,27/10/2009 09:00
+BYTEMAN-54,Feature Request,Resolved,BYTEMAN,Byteman,software,Done,23/10/2009 16:43,27/10/2009 09:02
+BYTEMAN-53,Feature Request,Closed,BYTEMAN,Byteman,software,Done,20/10/2009 08:46,21/10/2009 05:17
+BYTEMAN-52,Feature Request,Closed,BYTEMAN,Byteman,software,Done,20/10/2009 08:42,20/11/2009 09:31
+BYTEMAN-51,Feature Request,Closed,BYTEMAN,Byteman,software,Done,20/10/2009 05:51,20/10/2009 08:37
+BYTEMAN-50,Feature Request,Closed,BYTEMAN,Byteman,software,Done,15/10/2009 09:18,19/10/2009 06:56
+BYTEMAN-49,Feature Request,Closed,BYTEMAN,Byteman,software,Done,14/10/2009 07:30,11/11/2009 05:43
+BYTEMAN-48,Bug,Closed,BYTEMAN,Byteman,software,Duplicate,14/10/2009 05:14,14/10/2009 05:16
+BYTEMAN-47,Bug,Closed,BYTEMAN,Byteman,software,Done,14/10/2009 03:50,14/10/2009 03:59
+BYTEMAN-46,Bug,Closed,BYTEMAN,Byteman,software,Done,14/10/2009 02:44,01/12/2009 08:38
+BYTEMAN-45,Bug,Closed,BYTEMAN,Byteman,software,Done,14/10/2009 02:34,15/10/2009 11:31
+BYTEMAN-44,Bug,Closed,BYTEMAN,Byteman,software,Done,09/10/2009 05:00,09/10/2009 05:04
+BYTEMAN-43,Bug,Closed,BYTEMAN,Byteman,software,Done,28/09/2009 11:00,29/09/2009 05:08
+BYTEMAN-42,Feature Request,Closed,BYTEMAN,Byteman,software,Done,28/09/2009 03:54,29/09/2009 05:12
+BYTEMAN-41,Feature Request,Closed,BYTEMAN,Byteman,software,Done,25/09/2009 06:36,25/09/2009 06:50
+BYTEMAN-40,Bug,Closed,BYTEMAN,Byteman,software,Done,25/09/2009 06:17,25/09/2009 06:19
+BYTEMAN-39,Bug,Closed,BYTEMAN,Byteman,software,Done,25/09/2009 06:10,29/09/2009 05:09
+BYTEMAN-38,Bug,Closed,BYTEMAN,Byteman,software,Done,24/09/2009 07:35,29/09/2009 05:09
+BYTEMAN-37,Bug,Closed,BYTEMAN,Byteman,software,Done,18/09/2009 06:18,18/09/2009 06:26
+BYTEMAN-36,Bug,Closed,BYTEMAN,Byteman,software,Done,16/09/2009 05:02,29/09/2009 05:09
+BYTEMAN-35,Bug,Closed,BYTEMAN,Byteman,software,Done,14/09/2009 13:01,29/09/2009 05:10
+BYTEMAN-34,Bug,Closed,BYTEMAN,Byteman,software,Done,14/09/2009 12:46,14/09/2009 13:12
+BYTEMAN-33,Task,Closed,BYTEMAN,Byteman,software,Done,14/09/2009 05:43,21/10/2009 05:16
+BYTEMAN-32,Bug,Closed,BYTEMAN,Byteman,software,Done,10/09/2009 09:47,10/09/2009 10:34
+BYTEMAN-31,Bug,Closed,BYTEMAN,Byteman,software,Done,10/09/2009 09:05,29/09/2009 05:10
+BYTEMAN-30,Bug,Closed,BYTEMAN,Byteman,software,Done,10/09/2009 09:01,29/09/2009 05:10
+BYTEMAN-29,Task,Open,BYTEMAN,Byteman,software,,10/09/2009 05:33,
+BYTEMAN-28,Bug,Closed,BYTEMAN,Byteman,software,Done,08/09/2009 10:00,09/05/2014 06:25
+BYTEMAN-27,Bug,Closed,BYTEMAN,Byteman,software,Done,08/09/2009 08:47,29/09/2009 05:10
+BYTEMAN-26,Task,Closed,BYTEMAN,Byteman,software,Done,04/09/2009 11:58,14/09/2009 05:31
+BYTEMAN-25,Bug,Closed,BYTEMAN,Byteman,software,Done,03/09/2009 12:54,04/09/2009 12:04
+BYTEMAN-24,Feature Request,Closed,BYTEMAN,Byteman,software,Done,01/09/2009 10:21,01/09/2009 12:24
+BYTEMAN-23,Feature Request,Closed,BYTEMAN,Byteman,software,Done,14/08/2009 06:15,14/08/2009 06:43
+BYTEMAN-22,Bug,Closed,BYTEMAN,Byteman,software,Done,12/08/2009 05:01,12/08/2009 05:03
+BYTEMAN-21,Bug,Closed,BYTEMAN,Byteman,software,Done,10/08/2009 07:15,10/08/2009 07:17
+BYTEMAN-20,Bug,Closed,BYTEMAN,Byteman,software,Done,04/08/2009 07:53,04/08/2009 08:51
+BYTEMAN-19,Feature Request,Closed,BYTEMAN,Byteman,software,Done,03/08/2009 09:58,03/08/2009 10:12
+BYTEMAN-18,Feature Request,Closed,BYTEMAN,Byteman,software,Done,03/08/2009 09:08,03/08/2009 09:11
+BYTEMAN-17,Bug,Closed,BYTEMAN,Byteman,software,Done,28/07/2009 04:50,28/07/2009 04:51
+BYTEMAN-16,Bug,Closed,BYTEMAN,Byteman,software,Done,28/07/2009 04:42,02/09/2009 10:57
+BYTEMAN-15,Bug,Closed,BYTEMAN,Byteman,software,Done,23/07/2009 14:54,23/07/2009 15:15
+BYTEMAN-14,Bug,Closed,BYTEMAN,Byteman,software,Done,15/07/2009 10:37,15/07/2009 10:37
+BYTEMAN-13,Bug,Closed,BYTEMAN,Byteman,software,Done,13/07/2009 09:36,13/07/2009 09:40
+BYTEMAN-12,Bug,Closed,BYTEMAN,Byteman,software,Done,10/07/2009 12:27,10/07/2009 12:31
+BYTEMAN-11,Bug,Closed,BYTEMAN,Byteman,software,Done,08/07/2009 10:13,08/07/2009 10:29
+BYTEMAN-10,Bug,Closed,BYTEMAN,Byteman,software,Done,08/07/2009 07:50,10/07/2009 13:03
+BYTEMAN-9,Bug,Closed,BYTEMAN,Byteman,software,Done,08/07/2009 07:36,08/07/2009 08:11
+BYTEMAN-8,Bug,Closed,BYTEMAN,Byteman,software,Done,08/07/2009 07:29,08/07/2009 07:31
+BYTEMAN-7,Bug,Closed,BYTEMAN,Byteman,software,Done,08/07/2009 07:20,08/07/2009 07:21
+BYTEMAN-6,Bug,Closed,BYTEMAN,Byteman,software,Done,08/07/2009 07:11,08/07/2009 07:38
+BYTEMAN-5,Bug,Closed,BYTEMAN,Byteman,software,Done,08/07/2009 07:06,08/07/2009 07:08
+BYTEMAN-4,Feature Request,Closed,BYTEMAN,Byteman,software,Done,08/07/2009 07:02,19/02/2010 12:44
+BYTEMAN-3,Feature Request,Closed,BYTEMAN,Byteman,software,Done,08/07/2009 06:53,29/12/2010 13:09
+BYTEMAN-2,Bug,Closed,BYTEMAN,Byteman,software,Done,08/07/2009 06:38,08/07/2009 06:49
+BYTEMAN-1,Bug,Closed,BYTEMAN,Byteman,software,Done,08/07/2009 06:28,08/07/2009 06:32

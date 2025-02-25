@@ -1,0 +1,1638 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+CORS-3753,Task,Code Review,CORS,OpenShift Installer,software,,13/11/2024 11:29,
+CORS-3752,Story,Closed,CORS,OpenShift Installer,software,Done,06/11/2024 23:13,11/11/2024 03:23
+CORS-3751,Story,To Do,CORS,OpenShift Installer,software,,06/11/2024 23:12,
+CORS-3750,Story,To Do,CORS,OpenShift Installer,software,,06/11/2024 23:12,
+CORS-3749,Story,To Do,CORS,OpenShift Installer,software,,06/11/2024 23:12,
+CORS-3748,Story,To Do,CORS,OpenShift Installer,software,,04/11/2024 19:11,
+CORS-3747,Story,To Do,CORS,OpenShift Installer,software,,31/10/2024 23:18,
+CORS-3746,Story,To Do,CORS,OpenShift Installer,software,,31/10/2024 23:18,
+CORS-3745,Story,To Do,CORS,OpenShift Installer,software,,31/10/2024 23:18,
+CORS-3744,Story,To Do,CORS,OpenShift Installer,software,,30/10/2024 23:12,
+CORS-3743,Story,To Do,CORS,OpenShift Installer,software,,30/10/2024 23:12,
+CORS-3742,Story,To Do,CORS,OpenShift Installer,software,,30/10/2024 23:12,
+CORS-3741,Epic,In Progress,CORS,OpenShift Installer,software,,30/10/2024 09:16,
+CORS-3740,Story,In Progress,CORS,OpenShift Installer,software,,25/10/2024 15:22,
+CORS-3737,Epic,Closed,CORS,OpenShift Installer,software,Obsolete,15/10/2024 21:41,16/10/2024 02:49
+CORS-3736,Story,To Do,CORS,OpenShift Installer,software,,15/10/2024 01:28,
+CORS-3735,Story,To Do,CORS,OpenShift Installer,software,,15/10/2024 01:28,
+CORS-3734,Story,To Do,CORS,OpenShift Installer,software,,15/10/2024 01:28,
+CORS-3733,Story,To Do,CORS,OpenShift Installer,software,,15/10/2024 01:23,
+CORS-3732,Story,To Do,CORS,OpenShift Installer,software,,15/10/2024 01:23,
+CORS-3731,Story,To Do,CORS,OpenShift Installer,software,,15/10/2024 01:23,
+CORS-3730,Story,To Do,CORS,OpenShift Installer,software,,15/10/2024 01:19,
+CORS-3729,Story,To Do,CORS,OpenShift Installer,software,,15/10/2024 01:19,
+CORS-3728,Story,To Do,CORS,OpenShift Installer,software,,15/10/2024 01:19,
+CORS-3727,Story,To Do,CORS,OpenShift Installer,software,,15/10/2024 01:19,
+CORS-3726,Story,To Do,CORS,OpenShift Installer,software,,15/10/2024 01:19,
+CORS-3725,Story,To Do,CORS,OpenShift Installer,software,,15/10/2024 01:18,
+CORS-3718,Story,To Do,CORS,OpenShift Installer,software,,14/10/2024 15:53,
+CORS-3717,Story,To Do,CORS,OpenShift Installer,software,,14/10/2024 13:17,
+CORS-3716,Story,To Do,CORS,OpenShift Installer,software,,11/10/2024 13:51,
+CORS-3715,Story,To Do,CORS,OpenShift Installer,software,,10/10/2024 16:18,
+CORS-3714,Story,To Do,CORS,OpenShift Installer,software,,10/10/2024 16:03,
+CORS-3713,Story,To Do,CORS,OpenShift Installer,software,,10/10/2024 15:55,
+CORS-3712,Story,To Do,CORS,OpenShift Installer,software,,10/10/2024 15:33,
+CORS-3711,Story,To Do,CORS,OpenShift Installer,software,,10/10/2024 15:31,
+CORS-3710,Story,Closed,CORS,OpenShift Installer,software,Done,09/10/2024 18:34,07/11/2024 21:55
+CORS-3709,Story,Code Review,CORS,OpenShift Installer,software,,09/10/2024 15:29,
+CORS-3708,Story,Closed,CORS,OpenShift Installer,software,Done,09/10/2024 14:28,16/10/2024 13:00
+CORS-3707,Story,Closed,CORS,OpenShift Installer,software,Done,09/10/2024 14:24,16/10/2024 13:00
+CORS-3706,Epic,In Progress,CORS,OpenShift Installer,software,,08/10/2024 14:30,
+CORS-3705,Story,To Do,CORS,OpenShift Installer,software,,02/10/2024 01:25,
+CORS-3704,Story,In Progress,CORS,OpenShift Installer,software,,01/10/2024 20:39,
+CORS-3703,Story,To Do,CORS,OpenShift Installer,software,,01/10/2024 20:35,
+CORS-3702,Story,Review,CORS,OpenShift Installer,software,,01/10/2024 20:28,
+CORS-3701,Epic,In Progress,CORS,OpenShift Installer,software,,01/10/2024 20:24,
+CORS-3700,Story,To Do,CORS,OpenShift Installer,software,,27/09/2024 08:26,
+CORS-3699,Story,In Progress,CORS,OpenShift Installer,software,,27/09/2024 02:19,
+CORS-3698,Story,To Do,CORS,OpenShift Installer,software,,27/09/2024 00:03,
+CORS-3697,Spike,To Do,CORS,OpenShift Installer,software,,26/09/2024 20:34,
+CORS-3696,Story,Code Review,CORS,OpenShift Installer,software,,26/09/2024 15:21,
+CORS-3695,Story,Code Review,CORS,OpenShift Installer,software,,26/09/2024 15:15,
+CORS-3694,Spike,In Progress,CORS,OpenShift Installer,software,,26/09/2024 14:59,
+CORS-3693,Story,Code Review,CORS,OpenShift Installer,software,,26/09/2024 14:57,
+CORS-3692,Story,Closed,CORS,OpenShift Installer,software,Won't Do,26/09/2024 14:53,08/10/2024 18:09
+CORS-3691,Story,Code Review,CORS,OpenShift Installer,software,,26/09/2024 14:39,
+CORS-3690,Story,Closed,CORS,OpenShift Installer,software,Done,26/09/2024 14:23,27/09/2024 11:54
+CORS-3689,Story,In Progress,CORS,OpenShift Installer,software,,26/09/2024 03:54,
+CORS-3688,Story,In Progress,CORS,OpenShift Installer,software,,18/09/2024 12:23,
+CORS-3687,Story,In Progress,CORS,OpenShift Installer,software,,18/09/2024 12:21,
+CORS-3685,Spike,To Do,CORS,OpenShift Installer,software,,17/09/2024 15:32,
+CORS-3684,Bug,To Do,CORS,OpenShift Installer,software,,12/09/2024 20:58,
+CORS-3682,Spike,To Do,CORS,OpenShift Installer,software,,12/09/2024 16:36,
+CORS-3681,Epic,Closed,CORS,OpenShift Installer,software,Duplicate,12/09/2024 04:33,24/10/2024 16:37
+CORS-3680,Story,To Do,CORS,OpenShift Installer,software,,11/09/2024 18:27,
+CORS-3679,Story,Closed,CORS,OpenShift Installer,software,Done,11/09/2024 11:29,19/09/2024 15:56
+CORS-3678,Spike,To Do,CORS,OpenShift Installer,software,,06/09/2024 12:47,
+CORS-3677,Spike,Closed,CORS,OpenShift Installer,software,Done,06/09/2024 12:46,11/09/2024 18:11
+CORS-3676,Epic,New,CORS,OpenShift Installer,software,,05/09/2024 19:04,
+CORS-3675,Spike,Closed,CORS,OpenShift Installer,software,Done,05/09/2024 15:02,19/09/2024 19:04
+CORS-3671,Story,Closed,CORS,OpenShift Installer,software,Won't Do,29/08/2024 23:11,13/09/2024 17:22
+CORS-3670,Story,Closed,CORS,OpenShift Installer,software,Won't Do,29/08/2024 23:11,13/09/2024 17:21
+CORS-3669,Story,Closed,CORS,OpenShift Installer,software,Won't Do,29/08/2024 23:11,13/09/2024 17:21
+CORS-3668,Story,To Do,CORS,OpenShift Installer,software,,28/08/2024 23:17,
+CORS-3667,Story,To Do,CORS,OpenShift Installer,software,,28/08/2024 23:17,
+CORS-3666,Story,Closed,CORS,OpenShift Installer,software,Done,28/08/2024 23:17,23/09/2024 01:51
+CORS-3665,Epic,New,CORS,OpenShift Installer,software,,28/08/2024 13:15,
+CORS-3664,Story,Closed,CORS,OpenShift Installer,software,Done,27/08/2024 23:10,18/09/2024 18:54
+CORS-3663,Story,Closed,CORS,OpenShift Installer,software,Done,27/08/2024 23:09,18/09/2024 18:53
+CORS-3662,Story,Closed,CORS,OpenShift Installer,software,Done,27/08/2024 18:34,11/11/2024 03:22
+CORS-3661,Story,Closed,CORS,OpenShift Installer,software,Obsolete,27/08/2024 18:33,11/11/2024 03:57
+CORS-3660,Story,Closed,CORS,OpenShift Installer,software,Done,27/08/2024 18:33,06/11/2024 04:29
+CORS-3659,Epic,New,CORS,OpenShift Installer,software,,27/08/2024 18:33,
+CORS-3658,Spike,To Do,CORS,OpenShift Installer,software,,26/08/2024 22:32,
+CORS-3657,Story,To Do,CORS,OpenShift Installer,software,,26/08/2024 20:05,
+CORS-3656,Story,To Do,CORS,OpenShift Installer,software,,26/08/2024 20:04,
+CORS-3655,Story,To Do,CORS,OpenShift Installer,software,,26/08/2024 20:02,
+CORS-3654,Story,To Do,CORS,OpenShift Installer,software,,26/08/2024 20:00,
+CORS-3653,Spike,In Progress,CORS,OpenShift Installer,software,,26/08/2024 19:53,
+CORS-3652,Epic,New,CORS,OpenShift Installer,software,,26/08/2024 19:51,
+CORS-3651,Spike,To Do,CORS,OpenShift Installer,software,,26/08/2024 19:25,
+CORS-3650,Spike,To Do,CORS,OpenShift Installer,software,,26/08/2024 19:25,
+CORS-3648,Bug,Review,CORS,OpenShift Installer,software,,26/08/2024 17:52,
+CORS-3647,Story,To Do,CORS,OpenShift Installer,software,,22/08/2024 23:17,
+CORS-3646,Story,To Do,CORS,OpenShift Installer,software,,22/08/2024 23:17,
+CORS-3645,Story,To Do,CORS,OpenShift Installer,software,,22/08/2024 23:17,
+CORS-3643,Story,Closed,CORS,OpenShift Installer,software,Done,22/08/2024 15:16,21/09/2024 04:11
+CORS-3642,Story,Closed,CORS,OpenShift Installer,software,Done,22/08/2024 14:52,21/09/2024 04:11
+CORS-3641,Story,Closed,CORS,OpenShift Installer,software,Done,22/08/2024 14:26,21/09/2024 04:11
+CORS-3640,Epic,In Progress,CORS,OpenShift Installer,software,,22/08/2024 11:17,
+CORS-3639,Story,Closed,CORS,OpenShift Installer,software,Won't Do,22/08/2024 09:06,21/09/2024 04:12
+CORS-3637,Story,To Do,CORS,OpenShift Installer,software,,13/08/2024 21:04,
+CORS-3636,Story,To Do,CORS,OpenShift Installer,software,,13/08/2024 19:42,
+CORS-3635,Story,To Do,CORS,OpenShift Installer,software,,13/08/2024 17:51,
+CORS-3634,Epic,New,CORS,OpenShift Installer,software,,13/08/2024 07:33,
+CORS-3633,Bug,To Do,CORS,OpenShift Installer,software,,13/08/2024 04:34,
+CORS-3632,Spike,To Do,CORS,OpenShift Installer,software,,09/08/2024 14:34,
+CORS-3631,Epic,New,CORS,OpenShift Installer,software,,09/08/2024 14:04,
+CORS-3630,Story,To Do,CORS,OpenShift Installer,software,,09/08/2024 13:03,
+CORS-3629,Story,To Do,CORS,OpenShift Installer,software,,09/08/2024 13:01,
+CORS-3628,Story,To Do,CORS,OpenShift Installer,software,,09/08/2024 13:00,
+CORS-3627,Story,To Do,CORS,OpenShift Installer,software,,09/08/2024 12:58,
+CORS-3626,Story,To Do,CORS,OpenShift Installer,software,,09/08/2024 12:56,
+CORS-3624,Spike,To Do,CORS,OpenShift Installer,software,,09/08/2024 12:47,
+CORS-3623,Epic,In Progress,CORS,OpenShift Installer,software,,08/08/2024 15:59,
+CORS-3622,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,07/08/2024 19:26,13/09/2024 17:20
+CORS-3621,Bug,Closed,CORS,OpenShift Installer,software,Duplicate,07/08/2024 14:44,07/08/2024 17:53
+CORS-3620,Bug,Closed,CORS,OpenShift Installer,software,Duplicate,07/08/2024 14:23,07/08/2024 17:53
+CORS-3619,Story,Closed,CORS,OpenShift Installer,software,Duplicate,07/08/2024 14:13,23/10/2024 16:48
+CORS-3617,Story,Closed,CORS,OpenShift Installer,software,Done,02/08/2024 13:46,08/08/2024 19:07
+CORS-3616,Spike,Closed,CORS,OpenShift Installer,software,Done,01/08/2024 18:08,22/08/2024 15:21
+CORS-3615,Spike,To Do,CORS,OpenShift Installer,software,,09/05/2024 20:25,
+CORS-3614,Spike,To Do,CORS,OpenShift Installer,software,,08/07/2024 02:16,
+CORS-3612,Story,To Do,CORS,OpenShift Installer,software,,31/07/2024 14:48,
+CORS-3610,Epic,New,CORS,OpenShift Installer,software,,25/07/2024 16:19,
+CORS-3609,Story,Closed,CORS,OpenShift Installer,software,Done,25/07/2024 13:47,06/08/2024 08:02
+CORS-3608,Story,Closed,CORS,OpenShift Installer,software,Done,19/07/2024 18:32,08/08/2024 16:12
+CORS-3607,Story,Closed,CORS,OpenShift Installer,software,Done,18/07/2024 15:44,24/07/2024 15:13
+CORS-3606,Story,To Do,CORS,OpenShift Installer,software,,19/04/2024 18:26,
+CORS-3605,Story,To Do,CORS,OpenShift Installer,software,,12/07/2024 23:17,
+CORS-3604,Story,To Do,CORS,OpenShift Installer,software,,12/07/2024 23:17,
+CORS-3603,Story,To Do,CORS,OpenShift Installer,software,,12/07/2024 23:17,
+CORS-3602,Epic,Closed,CORS,OpenShift Installer,software,Done,12/07/2024 15:00,17/07/2024 08:39
+CORS-3595,Story,Closed,CORS,OpenShift Installer,software,Done,09/07/2024 19:54,10/10/2024 16:06
+CORS-3594,Task,Closed,CORS,OpenShift Installer,software,Done,08/07/2024 17:34,08/08/2024 16:44
+CORS-3587,Story,Closed,CORS,OpenShift Installer,software,Done,08/07/2024 16:30,29/08/2024 15:16
+CORS-3586,Bug,To Do,CORS,OpenShift Installer,software,,05/07/2024 14:17,
+CORS-3585,Story,Closed,CORS,OpenShift Installer,software,Done,04/07/2024 23:15,02/09/2024 01:39
+CORS-3584,Story,Closed,CORS,OpenShift Installer,software,Obsolete,04/07/2024 23:15,03/09/2024 05:57
+CORS-3583,Story,Closed,CORS,OpenShift Installer,software,Done,04/07/2024 23:15,29/08/2024 02:08
+CORS-3582,Story,Closed,CORS,OpenShift Installer,software,Done,04/07/2024 08:44,03/09/2024 13:40
+CORS-3581,Bug,To Do,CORS,OpenShift Installer,software,,02/07/2024 20:30,
+CORS-3580,Epic,Dev Complete,CORS,OpenShift Installer,software,,02/07/2024 15:51,
+CORS-3579,Story,Closed,CORS,OpenShift Installer,software,Duplicate,02/07/2024 07:32,13/08/2024 14:36
+CORS-3578,Story,Closed,CORS,OpenShift Installer,software,Done,27/06/2024 20:34,28/06/2024 14:28
+CORS-3577,Spike,Closed,CORS,OpenShift Installer,software,Done,27/06/2024 17:45,09/10/2024 18:36
+CORS-3576,Story,Closed,CORS,OpenShift Installer,software,Done,27/06/2024 17:17,09/08/2024 13:38
+CORS-3575,Story,Closed,CORS,OpenShift Installer,software,Done,27/06/2024 16:28,09/08/2024 12:34
+CORS-3574,Story,Closed,CORS,OpenShift Installer,software,Obsolete,27/06/2024 16:19,06/08/2024 01:24
+CORS-3573,Story,Closed,CORS,OpenShift Installer,software,Done,27/06/2024 15:53,25/07/2024 14:26
+CORS-3572,Epic,Closed,CORS,OpenShift Installer,software,Obsolete,27/06/2024 15:52,27/06/2024 15:53
+CORS-3571,Epic,In Progress,CORS,OpenShift Installer,software,,27/06/2024 10:03,
+CORS-3570,Story,Code Review,CORS,OpenShift Installer,software,,26/06/2024 20:01,
+CORS-3569,Story,Closed,CORS,OpenShift Installer,software,Done,26/06/2024 19:53,22/07/2024 00:21
+CORS-3568,Story,Closed,CORS,OpenShift Installer,software,Done,26/06/2024 19:13,29/07/2024 17:40
+CORS-3567,Spike,Closed,CORS,OpenShift Installer,software,Done,26/06/2024 19:07,25/07/2024 16:20
+CORS-3566,Story,Closed,CORS,OpenShift Installer,software,Done,26/06/2024 18:09,31/07/2024 15:06
+CORS-3565,Story,Closed,CORS,OpenShift Installer,software,Done,25/06/2024 19:51,03/08/2024 02:25
+CORS-3564,Spike,To Do,CORS,OpenShift Installer,software,,20/06/2024 15:38,
+CORS-3563,Epic,New,CORS,OpenShift Installer,software,,20/06/2024 15:35,
+CORS-3562,Task,Closed,CORS,OpenShift Installer,software,Done,20/06/2024 15:31,22/06/2024 06:00
+CORS-3561,Story,Closed,CORS,OpenShift Installer,software,Done,18/06/2024 15:03,10/09/2024 19:33
+CORS-3560,Story,To Do,CORS,OpenShift Installer,software,,12/06/2024 16:51,
+CORS-3559,Epic,In Progress,CORS,OpenShift Installer,software,,11/06/2024 23:56,
+CORS-3558,Story,To Do,CORS,OpenShift Installer,software,,07/06/2024 20:11,
+CORS-3557,Epic,Closed,CORS,OpenShift Installer,software,Obsolete,07/06/2024 20:04,18/07/2024 15:10
+CORS-3556,Story,To Do,CORS,OpenShift Installer,software,,05/06/2024 23:19,
+CORS-3555,Story,To Do,CORS,OpenShift Installer,software,,05/06/2024 23:19,
+CORS-3554,Story,To Do,CORS,OpenShift Installer,software,,05/06/2024 23:19,
+CORS-3553,Story,Closed,CORS,OpenShift Installer,software,Done,05/06/2024 23:11,06/09/2024 07:00
+CORS-3552,Story,Closed,CORS,OpenShift Installer,software,Done,05/06/2024 23:11,06/09/2024 06:57
+CORS-3551,Story,Closed,CORS,OpenShift Installer,software,Done,05/06/2024 23:11,02/09/2024 02:05
+CORS-3550,Story,To Do,CORS,OpenShift Installer,software,,05/06/2024 22:58,
+CORS-3549,Epic,New,CORS,OpenShift Installer,software,,05/06/2024 22:49,
+CORS-3548,Spike,To Do,CORS,OpenShift Installer,software,,04/06/2024 17:56,
+CORS-3547,Task,Closed,CORS,OpenShift Installer,software,Done,04/06/2024 13:09,06/07/2024 19:05
+CORS-3546,Epic,Closed,CORS,OpenShift Installer,software,Done,03/06/2024 07:38,23/09/2024 13:47
+CORS-3545,Story,To Do,CORS,OpenShift Installer,software,,29/05/2024 23:17,
+CORS-3544,Story,To Do,CORS,OpenShift Installer,software,,29/05/2024 23:16,
+CORS-3543,Story,To Do,CORS,OpenShift Installer,software,,29/05/2024 23:16,
+CORS-3542,Story,To Do,CORS,OpenShift Installer,software,,29/05/2024 23:16,
+CORS-3541,Story,To Do,CORS,OpenShift Installer,software,,29/05/2024 23:16,
+CORS-3540,Story,To Do,CORS,OpenShift Installer,software,,29/05/2024 23:16,
+CORS-3539,Story,Closed,CORS,OpenShift Installer,software,Done,29/05/2024 23:12,16/08/2024 01:15
+CORS-3538,Story,Closed,CORS,OpenShift Installer,software,Done,29/05/2024 23:12,16/08/2024 01:13
+CORS-3537,Story,Closed,CORS,OpenShift Installer,software,Done,29/05/2024 23:12,16/08/2024 01:14
+CORS-3536,Story,To Do,CORS,OpenShift Installer,software,,28/05/2024 23:19,
+CORS-3535,Story,To Do,CORS,OpenShift Installer,software,,28/05/2024 23:19,
+CORS-3534,Story,To Do,CORS,OpenShift Installer,software,,28/05/2024 23:19,
+CORS-3533,Story,To Do,CORS,OpenShift Installer,software,,28/05/2024 23:19,
+CORS-3532,Story,To Do,CORS,OpenShift Installer,software,,28/05/2024 23:19,
+CORS-3531,Story,To Do,CORS,OpenShift Installer,software,,28/05/2024 23:19,
+CORS-3530,Story,To Do,CORS,OpenShift Installer,software,,28/05/2024 23:19,
+CORS-3529,Epic,New,CORS,OpenShift Installer,software,,28/05/2024 14:57,
+CORS-3528,Epic,New,CORS,OpenShift Installer,software,,28/05/2024 14:55,
+CORS-3527,Epic,New,CORS,OpenShift Installer,software,,28/05/2024 14:54,
+CORS-3526,Epic,New,CORS,OpenShift Installer,software,,28/05/2024 14:54,
+CORS-3525,Epic,Closed,CORS,OpenShift Installer,software,Done,28/05/2024 14:05,04/10/2024 13:35
+CORS-3524,Story,Closed,CORS,OpenShift Installer,software,Done,23/05/2024 16:44,11/06/2024 09:11
+CORS-3523,Story,Closed,CORS,OpenShift Installer,software,Done,23/05/2024 16:29,11/06/2024 09:10
+CORS-3522,Epic,Dev Complete,CORS,OpenShift Installer,software,,21/05/2024 21:45,
+CORS-3520,Story,Closed,CORS,OpenShift Installer,software,Done,17/05/2024 06:54,11/06/2024 03:00
+CORS-3518,Story,Closed,CORS,OpenShift Installer,software,Duplicate,13/05/2024 12:44,13/05/2024 12:45
+CORS-3517,Story,Closed,CORS,OpenShift Installer,software,Won't Do,13/05/2024 12:42,26/06/2024 18:13
+CORS-3516,Bug,Closed,CORS,OpenShift Installer,software,Done,11/05/2024 14:03,25/05/2024 09:19
+CORS-3515,Story,To Do,CORS,OpenShift Installer,software,,09/05/2024 23:16,
+CORS-3514,Story,To Do,CORS,OpenShift Installer,software,,09/05/2024 23:16,
+CORS-3513,Story,To Do,CORS,OpenShift Installer,software,,09/05/2024 23:16,
+CORS-3512,Story,To Do,CORS,OpenShift Installer,software,,09/05/2024 23:16,
+CORS-3511,Story,To Do,CORS,OpenShift Installer,software,,09/05/2024 23:16,
+CORS-3510,Story,To Do,CORS,OpenShift Installer,software,,09/05/2024 23:16,
+CORS-3509,Story,To Do,CORS,OpenShift Installer,software,,09/05/2024 23:16,
+CORS-3508,Story,To Do,CORS,OpenShift Installer,software,,09/05/2024 23:16,
+CORS-3507,Story,To Do,CORS,OpenShift Installer,software,,09/05/2024 23:16,
+CORS-3506,Story,To Do,CORS,OpenShift Installer,software,,09/05/2024 23:15,
+CORS-3505,Story,To Do,CORS,OpenShift Installer,software,,09/05/2024 23:15,
+CORS-3504,Story,To Do,CORS,OpenShift Installer,software,,09/05/2024 23:15,
+CORS-3503,Story,To Do,CORS,OpenShift Installer,software,,09/05/2024 23:14,
+CORS-3502,Story,To Do,CORS,OpenShift Installer,software,,09/05/2024 23:14,
+CORS-3501,Story,To Do,CORS,OpenShift Installer,software,,09/05/2024 23:14,
+CORS-3500,Epic,New,CORS,OpenShift Installer,software,,09/05/2024 12:03,
+CORS-3499,Story,In Progress,CORS,OpenShift Installer,software,,09/05/2024 06:57,
+CORS-3498,Story,To Do,CORS,OpenShift Installer,software,,09/05/2024 03:42,
+CORS-3497,Story,To Do,CORS,OpenShift Installer,software,,09/05/2024 03:39,
+CORS-3496,Story,To Do,CORS,OpenShift Installer,software,,09/05/2024 03:36,
+CORS-3495,Story,To Do,CORS,OpenShift Installer,software,,09/05/2024 03:29,
+CORS-3494,Story,In Progress,CORS,OpenShift Installer,software,,09/05/2024 02:36,
+CORS-3493,Story,In Progress,CORS,OpenShift Installer,software,,09/05/2024 02:33,
+CORS-3492,Epic,New,CORS,OpenShift Installer,software,,09/05/2024 02:01,
+CORS-3491,Epic,New,CORS,OpenShift Installer,software,,09/05/2024 01:59,
+CORS-3490,Epic,In Progress,CORS,OpenShift Installer,software,,09/05/2024 01:58,
+CORS-3489,Epic,In Progress,CORS,OpenShift Installer,software,,09/05/2024 01:54,
+CORS-3488,Story,Closed,CORS,OpenShift Installer,software,Done,08/05/2024 20:14,16/05/2024 16:35
+CORS-3486,Story,To Do,CORS,OpenShift Installer,software,,08/05/2024 15:01,
+CORS-3485,Story,Closed,CORS,OpenShift Installer,software,Done,08/05/2024 03:30,11/07/2024 16:22
+CORS-3484,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/05/2024 19:34,20/06/2024 15:33
+CORS-3483,Bug,Closed,CORS,OpenShift Installer,software,Done,06/05/2024 22:49,22/06/2024 05:59
+CORS-3482,Bug,Closed,CORS,OpenShift Installer,software,Obsolete,06/05/2024 14:28,06/05/2024 14:33
+CORS-3480,Story,Closed,CORS,OpenShift Installer,software,Done,04/05/2024 20:04,25/05/2024 09:53
+CORS-3479,Bug,Closed,CORS,OpenShift Installer,software,Duplicate,03/05/2024 13:27,03/05/2024 13:38
+CORS-3478,Story,Closed,CORS,OpenShift Installer,software,Duplicate,02/05/2024 18:39,02/05/2024 20:29
+CORS-3477,Story,Closed,CORS,OpenShift Installer,software,Done,02/05/2024 14:35,08/05/2024 11:25
+CORS-3476,Story,To Do,CORS,OpenShift Installer,software,,01/05/2024 15:42,
+CORS-3475,Story,Closed,CORS,OpenShift Installer,software,Done,30/04/2024 17:37,22/05/2024 13:30
+CORS-3474,Story,In Progress,CORS,OpenShift Installer,software,,29/04/2024 20:31,
+CORS-3472,Bug,To Do,CORS,OpenShift Installer,software,,24/04/2024 12:03,
+CORS-3471,Spike,Closed,CORS,OpenShift Installer,software,Done,23/04/2024 20:38,14/05/2024 15:19
+CORS-3470,Story,Closed,CORS,OpenShift Installer,software,Done,23/04/2024 15:42,25/04/2024 07:15
+CORS-3469,Story,Closed,CORS,OpenShift Installer,software,Done,19/04/2024 23:13,30/09/2024 06:16
+CORS-3468,Story,Closed,CORS,OpenShift Installer,software,Done,19/04/2024 23:13,30/09/2024 06:17
+CORS-3467,Story,Closed,CORS,OpenShift Installer,software,Done,19/04/2024 23:13,29/09/2024 07:25
+CORS-3466,Task,Closed,CORS,OpenShift Installer,software,Done,19/04/2024 20:47,08/05/2024 23:30
+CORS-3465,Story,Closed,CORS,OpenShift Installer,software,Obsolete,18/04/2024 23:11,08/05/2024 10:14
+CORS-3464,Story,Closed,CORS,OpenShift Installer,software,Done,18/04/2024 23:11,08/05/2024 10:03
+CORS-3463,Spike,Closed,CORS,OpenShift Installer,software,Done,17/04/2024 11:30,26/08/2024 15:59
+CORS-3462,Story,Closed,CORS,OpenShift Installer,software,Done,16/04/2024 09:44,22/04/2024 21:45
+CORS-3461,Story,To Do,CORS,OpenShift Installer,software,,15/04/2024 20:47,
+CORS-3460,Story,Closed,CORS,OpenShift Installer,software,Done,15/04/2024 20:46,25/05/2024 09:54
+CORS-3458,Story,Closed,CORS,OpenShift Installer,software,Done,15/04/2024 17:39,08/08/2024 16:40
+CORS-3457,Story,To Do,CORS,OpenShift Installer,software,,13/04/2024 16:28,
+CORS-3456,Spike,Closed,CORS,OpenShift Installer,software,Done,12/04/2024 12:21,10/10/2024 16:37
+CORS-3455,Story,To Do,CORS,OpenShift Installer,software,,11/04/2024 23:27,
+CORS-3454,Story,Closed,CORS,OpenShift Installer,software,Done,08/04/2024 05:15,08/05/2024 10:15
+CORS-3453,Story,Closed,CORS,OpenShift Installer,software,Done,08/04/2024 03:55,27/06/2024 20:11
+CORS-3452,Story,Closed,CORS,OpenShift Installer,software,Done,05/04/2024 23:15,30/09/2024 06:19
+CORS-3451,Story,Closed,CORS,OpenShift Installer,software,Done,05/04/2024 23:15,30/09/2024 06:21
+CORS-3450,Story,Closed,CORS,OpenShift Installer,software,Done,05/04/2024 23:15,20/08/2024 07:20
+CORS-3448,Epic,Closed,CORS,OpenShift Installer,software,Done,05/04/2024 14:55,29/10/2024 13:49
+CORS-3447,Story,Closed,CORS,OpenShift Installer,software,Done,05/04/2024 12:42,19/04/2024 20:44
+CORS-3446,Story,Closed,CORS,OpenShift Installer,software,Done,04/04/2024 03:49,10/04/2024 02:06
+CORS-3445,Epic,Closed,CORS,OpenShift Installer,software,Done,03/04/2024 22:57,02/08/2024 12:41
+CORS-3444,Story,To Do,CORS,OpenShift Installer,software,,02/04/2024 23:11,
+CORS-3443,Story,To Do,CORS,OpenShift Installer,software,,02/04/2024 23:11,
+CORS-3442,Story,To Do,CORS,OpenShift Installer,software,,02/04/2024 23:11,
+CORS-3440,Epic,Planning,CORS,OpenShift Installer,software,,02/04/2024 19:43,
+CORS-3438,Story,Closed,CORS,OpenShift Installer,software,Obsolete,28/03/2024 20:49,08/04/2024 07:07
+CORS-3437,Story,Closed,CORS,OpenShift Installer,software,Done,27/03/2024 14:16,07/05/2024 13:29
+CORS-3436,Spike,To Do,CORS,OpenShift Installer,software,,27/03/2024 14:14,
+CORS-3435,Story,Closed,CORS,OpenShift Installer,software,Done,25/03/2024 22:14,25/06/2024 22:53
+CORS-3434,Story,Closed,CORS,OpenShift Installer,software,Done,25/03/2024 21:58,21/06/2024 01:07
+CORS-3433,Story,Closed,CORS,OpenShift Installer,software,Done,25/03/2024 01:46,25/03/2024 02:05
+CORS-3432,Epic,New,CORS,OpenShift Installer,software,,22/03/2024 19:38,
+CORS-3431,Story,Closed,CORS,OpenShift Installer,software,Done,21/03/2024 14:13,05/04/2024 13:09
+CORS-3429,Story,Closed,CORS,OpenShift Installer,software,Obsolete,19/03/2024 23:19,09/04/2024 02:09
+CORS-3428,Bug,Closed,CORS,OpenShift Installer,software,Done,19/03/2024 22:50,26/03/2024 08:24
+CORS-3427,Bug,Closed,CORS,OpenShift Installer,software,Done,19/03/2024 22:31,22/03/2024 19:55
+CORS-3426,Bug,Closed,CORS,OpenShift Installer,software,Done,19/03/2024 09:56,11/04/2024 07:27
+CORS-3425,Epic,New,CORS,OpenShift Installer,software,,17/03/2024 23:03,
+CORS-3424,Spike,Closed,CORS,OpenShift Installer,software,Done,15/03/2024 15:16,18/03/2024 18:42
+CORS-3422,Bug,Closed,CORS,OpenShift Installer,software,Done,15/03/2024 01:27,26/10/2024 13:58
+CORS-3421,Epic,Closed,CORS,OpenShift Installer,software,Done,14/03/2024 09:54,11/10/2024 02:21
+CORS-3420,Story,Closed,CORS,OpenShift Installer,software,Done,14/03/2024 09:49,16/04/2024 09:23
+CORS-3419,Story,Closed,CORS,OpenShift Installer,software,Done,14/03/2024 03:42,16/04/2024 09:23
+CORS-3418,Story,Closed,CORS,OpenShift Installer,software,Done,14/03/2024 03:38,16/04/2024 09:23
+CORS-3417,Story,Closed,CORS,OpenShift Installer,software,Done,13/03/2024 17:19,07/04/2024 16:44
+CORS-3416,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 01:40,
+CORS-3415,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:31,
+CORS-3414,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:31,
+CORS-3413,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:29,
+CORS-3412,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:29,
+CORS-3411,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:29,
+CORS-3410,Story,Closed,CORS,OpenShift Installer,software,Done,13/03/2024 00:28,14/05/2024 07:36
+CORS-3409,Story,Closed,CORS,OpenShift Installer,software,Done,13/03/2024 00:28,14/05/2024 07:36
+CORS-3408,Story,Closed,CORS,OpenShift Installer,software,Done,13/03/2024 00:28,14/05/2024 07:35
+CORS-3407,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:25,
+CORS-3406,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:25,
+CORS-3405,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:25,
+CORS-3404,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:25,
+CORS-3403,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:25,
+CORS-3402,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:25,
+CORS-3401,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:24,
+CORS-3400,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:24,
+CORS-3399,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:24,
+CORS-3398,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:24,
+CORS-3397,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:24,
+CORS-3396,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:24,
+CORS-3395,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:24,
+CORS-3394,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:24,
+CORS-3393,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:24,
+CORS-3392,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:23,
+CORS-3391,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:23,
+CORS-3390,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:23,
+CORS-3389,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:23,
+CORS-3388,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:23,
+CORS-3387,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:23,
+CORS-3386,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:19,
+CORS-3385,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:19,
+CORS-3384,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:19,
+CORS-3383,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:18,
+CORS-3382,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:18,
+CORS-3381,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:18,
+CORS-3380,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:18,
+CORS-3379,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:18,
+CORS-3378,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:18,
+CORS-3377,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:18,
+CORS-3376,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:18,
+CORS-3375,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:18,
+CORS-3374,Story,Closed,CORS,OpenShift Installer,software,Obsolete,13/03/2024 00:16,09/04/2024 01:36
+CORS-3373,Story,Closed,CORS,OpenShift Installer,software,Obsolete,13/03/2024 00:16,09/04/2024 01:35
+CORS-3372,Story,Closed,CORS,OpenShift Installer,software,Done,13/03/2024 00:16,09/04/2024 01:35
+CORS-3371,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:16,
+CORS-3370,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:16,
+CORS-3369,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:16,
+CORS-3368,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:15,
+CORS-3367,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:15,
+CORS-3366,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:15,
+CORS-3365,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:13,
+CORS-3364,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:13,
+CORS-3363,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:13,
+CORS-3362,Story,Closed,CORS,OpenShift Installer,software,Won't Do,13/03/2024 00:13,14/05/2024 07:28
+CORS-3361,Story,Closed,CORS,OpenShift Installer,software,Done,13/03/2024 00:13,14/05/2024 07:31
+CORS-3360,Story,Closed,CORS,OpenShift Installer,software,Won't Do,13/03/2024 00:12,14/05/2024 07:31
+CORS-3359,Story,Closed,CORS,OpenShift Installer,software,Done,13/03/2024 00:12,27/06/2024 00:48
+CORS-3358,Story,Closed,CORS,OpenShift Installer,software,Done,13/03/2024 00:12,27/06/2024 00:48
+CORS-3357,Story,Closed,CORS,OpenShift Installer,software,Done,13/03/2024 00:12,27/06/2024 00:48
+CORS-3356,Story,Closed,CORS,OpenShift Installer,software,Done,13/03/2024 00:11,20/08/2024 09:05
+CORS-3355,Story,Closed,CORS,OpenShift Installer,software,Obsolete,13/03/2024 00:11,31/07/2024 05:58
+CORS-3354,Story,Closed,CORS,OpenShift Installer,software,Done,13/03/2024 00:11,02/09/2024 05:37
+CORS-3353,Story,Closed,CORS,OpenShift Installer,software,Done,13/03/2024 00:09,08/08/2024 03:27
+CORS-3352,Story,Closed,CORS,OpenShift Installer,software,Done,13/03/2024 00:09,08/05/2024 18:06
+CORS-3351,Story,Closed,CORS,OpenShift Installer,software,Done,13/03/2024 00:09,25/04/2024 16:38
+CORS-3350,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:08,
+CORS-3349,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:08,
+CORS-3348,Story,To Do,CORS,OpenShift Installer,software,,13/03/2024 00:08,
+CORS-3347,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:55,
+CORS-3346,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:55,
+CORS-3345,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:55,
+CORS-3344,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:45,
+CORS-3343,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:45,
+CORS-3342,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:45,
+CORS-3341,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:44,
+CORS-3340,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:44,
+CORS-3339,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:44,
+CORS-3338,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:43,
+CORS-3337,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:43,
+CORS-3336,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:43,
+CORS-3335,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:43,
+CORS-3334,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:43,
+CORS-3333,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:43,
+CORS-3332,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:43,
+CORS-3331,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:43,
+CORS-3330,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:43,
+CORS-3329,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:42,
+CORS-3328,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:42,
+CORS-3327,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:42,
+CORS-3326,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:33,
+CORS-3325,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:33,
+CORS-3324,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:33,
+CORS-3323,Story,Closed,CORS,OpenShift Installer,software,Done,12/03/2024 23:33,17/05/2024 06:59
+CORS-3322,Story,Closed,CORS,OpenShift Installer,software,Won't Do,12/03/2024 23:33,17/05/2024 06:56
+CORS-3321,Story,Closed,CORS,OpenShift Installer,software,Done,12/03/2024 23:33,17/05/2024 06:55
+CORS-3320,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:28,
+CORS-3319,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:28,
+CORS-3318,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:28,
+CORS-3317,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:26,
+CORS-3316,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:26,
+CORS-3315,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:26,
+CORS-3314,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:26,
+CORS-3313,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:26,
+CORS-3312,Story,To Do,CORS,OpenShift Installer,software,,12/03/2024 23:26,
+CORS-3311,Story,Closed,CORS,OpenShift Installer,software,Obsolete,12/03/2024 23:18,08/05/2024 08:21
+CORS-3310,Story,Closed,CORS,OpenShift Installer,software,Obsolete,12/03/2024 23:18,08/05/2024 08:21
+CORS-3309,Story,Closed,CORS,OpenShift Installer,software,Obsolete,12/03/2024 23:18,08/05/2024 08:21
+CORS-3308,Bug,Closed,CORS,OpenShift Installer,software,Done,12/03/2024 18:08,11/04/2024 07:26
+CORS-3307,Epic,Closed,CORS,OpenShift Installer,software,Done,12/03/2024 16:00,15/07/2024 11:23
+CORS-3306,Story,Closed,CORS,OpenShift Installer,software,Done,08/03/2024 23:10,25/03/2024 07:03
+CORS-3305,Story,Closed,CORS,OpenShift Installer,software,Obsolete,08/03/2024 23:10,27/03/2024 08:20
+CORS-3304,Story,Closed,CORS,OpenShift Installer,software,Done,08/03/2024 23:10,20/03/2024 03:26
+CORS-3303,Epic,Closed,CORS,OpenShift Installer,software,Done,08/03/2024 15:47,27/03/2024 08:20
+CORS-3302,Story,Closed,CORS,OpenShift Installer,software,Done,07/03/2024 17:00,12/07/2024 07:29
+CORS-3301,Story,To Do,CORS,OpenShift Installer,software,,07/03/2024 16:59,
+CORS-3300,Story,Closed,CORS,OpenShift Installer,software,Done,07/03/2024 16:57,28/05/2024 14:53
+CORS-3299,Story,Closed,CORS,OpenShift Installer,software,Done,07/03/2024 16:52,02/08/2024 13:39
+CORS-3298,Story,Closed,CORS,OpenShift Installer,software,Done,07/03/2024 16:38,21/03/2024 15:04
+CORS-3297,Story,Closed,CORS,OpenShift Installer,software,Done,07/03/2024 16:36,25/06/2024 15:29
+CORS-3296,Story,Closed,CORS,OpenShift Installer,software,Done,07/03/2024 16:27,08/07/2024 17:12
+CORS-3295,Story,To Do,CORS,OpenShift Installer,software,,05/03/2024 18:53,
+CORS-3294,Story,Closed,CORS,OpenShift Installer,software,Done,04/03/2024 23:28,25/04/2024 15:26
+CORS-3293,Epic,New,CORS,OpenShift Installer,software,,04/03/2024 17:04,
+CORS-3292,Epic,New,CORS,OpenShift Installer,software,,04/03/2024 16:54,
+CORS-3291,Epic,In Progress,CORS,OpenShift Installer,software,,04/03/2024 16:49,
+CORS-3290,Story,Closed,CORS,OpenShift Installer,software,Done,02/03/2024 23:11,25/03/2024 03:56
+CORS-3289,Bug,Closed,CORS,OpenShift Installer,software,Done,01/03/2024 13:28,18/03/2024 16:55
+CORS-3288,Bug,Closed,CORS,OpenShift Installer,software,Done,01/03/2024 12:57,06/03/2024 20:39
+CORS-3287,Epic,Closed,CORS,OpenShift Installer,software,Done,01/03/2024 10:36,21/06/2024 12:30
+CORS-3286,Story,To Do,CORS,OpenShift Installer,software,,29/02/2024 23:15,
+CORS-3285,Bug,Closed,CORS,OpenShift Installer,software,Done,29/02/2024 20:50,01/03/2024 16:04
+CORS-3284,Story,Closed,CORS,OpenShift Installer,software,Done,29/02/2024 18:23,31/10/2024 16:48
+CORS-3283,Story,Closed,CORS,OpenShift Installer,software,Done,29/02/2024 18:22,31/10/2024 16:39
+CORS-3282,Story,In Progress,CORS,OpenShift Installer,software,,29/02/2024 18:22,
+CORS-3281,Story,Closed,CORS,OpenShift Installer,software,Done,29/02/2024 18:20,18/09/2024 17:20
+CORS-3280,Story,Closed,CORS,OpenShift Installer,software,Done,29/02/2024 14:47,05/04/2024 17:50
+CORS-3278,Epic,In Progress,CORS,OpenShift Installer,software,,28/02/2024 18:48,
+CORS-3277,Story,Closed,CORS,OpenShift Installer,software,Done,22/02/2024 23:10,25/03/2024 07:03
+CORS-3276,Story,Closed,CORS,OpenShift Installer,software,Obsolete,22/02/2024 23:10,27/03/2024 08:19
+CORS-3275,Story,Closed,CORS,OpenShift Installer,software,Done,22/02/2024 23:10,26/02/2024 08:22
+CORS-3274,Epic,Closed,CORS,OpenShift Installer,software,Done,22/02/2024 16:33,27/03/2024 08:21
+CORS-3273,Bug,Closed,CORS,OpenShift Installer,software,Done,21/02/2024 12:21,15/04/2024 13:10
+CORS-3272,Epic,In Progress,CORS,OpenShift Installer,software,,15/02/2024 17:20,
+CORS-3271,Bug,In Progress,CORS,OpenShift Installer,software,,15/02/2024 15:13,
+CORS-3270,Story,Closed,CORS,OpenShift Installer,software,Done,14/02/2024 19:28,04/04/2024 13:22
+CORS-3269,Story,Closed,CORS,OpenShift Installer,software,Done,14/02/2024 19:20,15/05/2024 15:09
+CORS-3268,Spike,To Do,CORS,OpenShift Installer,software,,14/02/2024 15:22,
+CORS-3267,Story,Closed,CORS,OpenShift Installer,software,Done,14/02/2024 10:41,15/03/2024 13:34
+CORS-3266,Story,Closed,CORS,OpenShift Installer,software,Done,12/02/2024 15:53,16/05/2024 16:38
+CORS-3263,Spike,Closed,CORS,OpenShift Installer,software,Done,09/02/2024 18:42,25/10/2024 15:23
+CORS-3262,Story,Closed,CORS,OpenShift Installer,software,Done,09/02/2024 18:40,18/06/2024 00:02
+CORS-3261,Story,Closed,CORS,OpenShift Installer,software,Done,09/02/2024 13:13,16/04/2024 16:23
+CORS-3260,Story,Closed,CORS,OpenShift Installer,software,Done,08/02/2024 19:11,25/04/2024 16:35
+CORS-3259,Story,Closed,CORS,OpenShift Installer,software,Done,08/02/2024 19:05,22/02/2024 15:55
+CORS-3258,Story,Closed,CORS,OpenShift Installer,software,Done,08/02/2024 18:35,11/06/2024 14:12
+CORS-3257,Story,Closed,CORS,OpenShift Installer,software,Done,08/02/2024 18:30,14/03/2024 16:04
+CORS-3256,Story,Closed,CORS,OpenShift Installer,software,Done,08/02/2024 18:28,25/04/2024 16:38
+CORS-3255,Epic,Release Pending,CORS,OpenShift Installer,software,Done,08/02/2024 11:01,08/04/2024 12:46
+CORS-3254,Story,Closed,CORS,OpenShift Installer,software,Done,08/02/2024 10:06,12/04/2024 03:45
+CORS-3253,Story,Closed,CORS,OpenShift Installer,software,Done,07/02/2024 01:46,10/10/2024 15:27
+CORS-3252,Story,Closed,CORS,OpenShift Installer,software,Done,06/02/2024 17:29,04/06/2024 13:00
+CORS-3251,Story,Closed,CORS,OpenShift Installer,software,Done,06/02/2024 16:03,05/03/2024 15:35
+CORS-3245,Story,Closed,CORS,OpenShift Installer,software,Done,05/02/2024 20:00,04/04/2024 13:22
+CORS-3244,Story,To Do,CORS,OpenShift Installer,software,,05/02/2024 16:31,
+CORS-3243,Story,To Do,CORS,OpenShift Installer,software,,05/02/2024 16:30,
+CORS-3242,Bug,Code Review,CORS,OpenShift Installer,software,,02/02/2024 21:03,
+CORS-3241,Story,Closed,CORS,OpenShift Installer,software,Done,02/02/2024 20:58,15/04/2024 19:40
+CORS-3240,Task,Code Review,CORS,OpenShift Installer,software,,02/02/2024 17:12,
+CORS-3239,Story,Closed,CORS,OpenShift Installer,software,Won't Do,31/01/2024 16:33,15/02/2024 19:26
+CORS-3237,Story,Closed,CORS,OpenShift Installer,software,Obsolete,29/01/2024 16:42,08/04/2024 03:49
+CORS-3236,Story,Closed,CORS,OpenShift Installer,software,Obsolete,29/01/2024 16:34,08/04/2024 03:49
+CORS-3235,Story,Closed,CORS,OpenShift Installer,software,Obsolete,29/01/2024 16:28,08/04/2024 03:48
+CORS-3234,Story,Closed,CORS,OpenShift Installer,software,Obsolete,29/01/2024 16:18,08/04/2024 03:48
+CORS-3233,Story,Closed,CORS,OpenShift Installer,software,Obsolete,29/01/2024 16:06,08/04/2024 03:48
+CORS-3232,Story,To Do,CORS,OpenShift Installer,software,,29/01/2024 16:03,
+CORS-3231,Story,To Do,CORS,OpenShift Installer,software,,29/01/2024 15:58,
+CORS-3230,Story,To Do,CORS,OpenShift Installer,software,,29/01/2024 15:55,
+CORS-3229,Story,To Do,CORS,OpenShift Installer,software,,29/01/2024 15:52,
+CORS-3228,Story,To Do,CORS,OpenShift Installer,software,,26/01/2024 14:56,
+CORS-3227,Story,To Do,CORS,OpenShift Installer,software,,26/01/2024 14:54,
+CORS-3226,Story,To Do,CORS,OpenShift Installer,software,,26/01/2024 14:54,
+CORS-3225,Story,To Do,CORS,OpenShift Installer,software,,26/01/2024 14:49,
+CORS-3224,Story,To Do,CORS,OpenShift Installer,software,,26/01/2024 14:46,
+CORS-3223,Story,Closed,CORS,OpenShift Installer,software,Done,26/01/2024 14:42,02/02/2024 11:42
+CORS-3222,Epic,Closed,CORS,OpenShift Installer,software,Done,26/01/2024 14:39,16/07/2024 15:16
+CORS-3221,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,26/01/2024 14:37,04/04/2024 11:31
+CORS-3220,Story,Closed,CORS,OpenShift Installer,software,Done,26/01/2024 00:18,22/02/2024 15:51
+CORS-3219,Story,Closed,CORS,OpenShift Installer,software,Done,25/01/2024 17:29,11/06/2024 14:10
+CORS-3218,Story,Closed,CORS,OpenShift Installer,software,Done,25/01/2024 14:32,24/04/2024 20:42
+CORS-3217,Story,Closed,CORS,OpenShift Installer,software,Done,24/01/2024 20:11,29/02/2024 14:42
+CORS-3216,Story,Closed,CORS,OpenShift Installer,software,Done,24/01/2024 18:58,06/02/2024 15:02
+CORS-3215,Story,Closed,CORS,OpenShift Installer,software,Done,24/01/2024 15:38,14/03/2024 20:28
+CORS-3214,Story,Closed,CORS,OpenShift Installer,software,Done,24/01/2024 15:26,27/04/2024 04:17
+CORS-3213,Story,Closed,CORS,OpenShift Installer,software,Done,19/01/2024 16:13,22/02/2024 15:51
+CORS-3212,Story,Closed,CORS,OpenShift Installer,software,Done,19/01/2024 16:10,14/03/2024 16:52
+CORS-3211,Story,To Do,CORS,OpenShift Installer,software,,19/01/2024 14:55,
+CORS-3210,Story,In Progress,CORS,OpenShift Installer,software,,19/01/2024 14:53,
+CORS-3209,Story,Closed,CORS,OpenShift Installer,software,Done,18/01/2024 22:45,31/07/2024 14:20
+CORS-3208,Story,Closed,CORS,OpenShift Installer,software,Done,18/01/2024 21:54,15/02/2024 17:15
+CORS-3207,Story,Closed,CORS,OpenShift Installer,software,Done,18/01/2024 21:45,06/02/2024 14:28
+CORS-3205,Spike,Closed,CORS,OpenShift Installer,software,Obsolete,16/01/2024 16:47,09/07/2024 13:55
+CORS-3204,Epic,Closed,CORS,OpenShift Installer,software,Obsolete,16/01/2024 16:41,15/02/2024 17:28
+CORS-3201,Spike,Closed,CORS,OpenShift Installer,software,Done,12/01/2024 13:26,26/08/2024 15:58
+CORS-3200,Spike,Closed,CORS,OpenShift Installer,software,Won't Do,11/01/2024 15:23,25/01/2024 16:46
+CORS-3199,Spike,Closed,CORS,OpenShift Installer,software,Done,11/01/2024 15:22,29/02/2024 19:05
+CORS-3198,Epic,Closed,CORS,OpenShift Installer,software,Done,11/01/2024 15:13,29/05/2024 19:10
+CORS-3197,Spike,Closed,CORS,OpenShift Installer,software,Done,11/01/2024 14:43,15/02/2024 19:15
+CORS-3196,Epic,Closed,CORS,OpenShift Installer,software,Done,11/01/2024 14:41,16/07/2024 15:16
+CORS-3195,Story,Closed,CORS,OpenShift Installer,software,Done,11/01/2024 14:14,04/06/2024 17:30
+CORS-3194,Story,Closed,CORS,OpenShift Installer,software,Done,11/01/2024 11:46,08/08/2024 06:58
+CORS-3193,Story,Closed,CORS,OpenShift Installer,software,Obsolete,10/01/2024 23:24,16/05/2024 16:56
+CORS-3192,Story,In Progress,CORS,OpenShift Installer,software,,09/01/2024 23:10,
+CORS-3191,Story,Closed,CORS,OpenShift Installer,software,Done,09/01/2024 20:20,06/05/2024 22:31
+CORS-3190,Spike,Closed,CORS,OpenShift Installer,software,Done,05/01/2024 18:28,01/02/2024 17:18
+CORS-3189,Epic,Closed,CORS,OpenShift Installer,software,Obsolete,04/01/2024 18:02,16/07/2024 15:15
+CORS-3182,Story,Closed,CORS,OpenShift Installer,software,Done,04/01/2024 17:48,27/02/2024 14:44
+CORS-3181,Story,To Do,CORS,OpenShift Installer,software,,23/12/2023 23:15,
+CORS-3180,Story,To Do,CORS,OpenShift Installer,software,,23/12/2023 23:15,
+CORS-3179,Story,To Do,CORS,OpenShift Installer,software,,23/12/2023 23:15,
+CORS-3178,Story,Closed,CORS,OpenShift Installer,software,Duplicate,23/12/2023 23:12,10/01/2024 02:07
+CORS-3177,Story,Closed,CORS,OpenShift Installer,software,Duplicate,23/12/2023 23:12,10/01/2024 02:11
+CORS-3176,Story,Closed,CORS,OpenShift Installer,software,Duplicate,23/12/2023 23:12,10/01/2024 02:07
+CORS-3175,Story,Closed,CORS,OpenShift Installer,software,Obsolete,23/12/2023 23:12,09/01/2024 07:42
+CORS-3174,Story,Closed,CORS,OpenShift Installer,software,Obsolete,23/12/2023 23:12,09/01/2024 07:51
+CORS-3173,Story,Closed,CORS,OpenShift Installer,software,Duplicate,23/12/2023 23:12,10/01/2024 02:07
+CORS-3172,Story,To Do,CORS,OpenShift Installer,software,,23/12/2023 23:08,
+CORS-3171,Story,To Do,CORS,OpenShift Installer,software,,23/12/2023 23:08,
+CORS-3170,Story,To Do,CORS,OpenShift Installer,software,,23/12/2023 23:08,
+CORS-3169,Bug,Closed,CORS,OpenShift Installer,software,Done,20/12/2023 03:14,02/02/2024 21:07
+CORS-3168,Spike,Closed,CORS,OpenShift Installer,software,Done,18/12/2023 13:54,22/03/2024 19:33
+CORS-3167,Story,To Do,CORS,OpenShift Installer,software,,18/12/2023 09:20,
+CORS-3166,Bug,Closed,CORS,OpenShift Installer,software,Done,15/12/2023 14:51,17/01/2024 22:36
+CORS-3165,Story,To Do,CORS,OpenShift Installer,software,,14/12/2023 23:17,
+CORS-3164,Story,To Do,CORS,OpenShift Installer,software,,14/12/2023 23:17,
+CORS-3163,Story,To Do,CORS,OpenShift Installer,software,,14/12/2023 23:17,
+CORS-3162,Story,Closed,CORS,OpenShift Installer,software,Obsolete,14/12/2023 23:14,19/12/2023 05:58
+CORS-3161,Story,Closed,CORS,OpenShift Installer,software,Obsolete,14/12/2023 23:14,19/12/2023 05:58
+CORS-3160,Story,To Do,CORS,OpenShift Installer,software,,14/12/2023 23:14,
+CORS-3159,Story,Closed,CORS,OpenShift Installer,software,Obsolete,14/12/2023 23:14,19/12/2023 05:55
+CORS-3158,Story,Closed,CORS,OpenShift Installer,software,Obsolete,14/12/2023 23:14,19/12/2023 05:55
+CORS-3157,Story,Closed,CORS,OpenShift Installer,software,Obsolete,14/12/2023 23:14,19/12/2023 05:56
+CORS-3156,Story,To Do,CORS,OpenShift Installer,software,,14/12/2023 23:11,
+CORS-3155,Story,To Do,CORS,OpenShift Installer,software,,14/12/2023 23:11,
+CORS-3154,Story,Closed,CORS,OpenShift Installer,software,Duplicate,14/12/2023 23:11,20/12/2023 01:30
+CORS-3153,Story,Closed,CORS,OpenShift Installer,software,Obsolete,14/12/2023 23:11,06/02/2024 01:30
+CORS-3152,Story,To Do,CORS,OpenShift Installer,software,,14/12/2023 23:11,
+CORS-3151,Story,Closed,CORS,OpenShift Installer,software,Obsolete,14/12/2023 23:11,15/01/2024 07:10
+CORS-3150,Story,Closed,CORS,OpenShift Installer,software,Won't Do,14/12/2023 23:08,20/12/2023 03:07
+CORS-3149,Story,Closed,CORS,OpenShift Installer,software,Won't Do,14/12/2023 23:08,20/12/2023 03:07
+CORS-3148,Story,Closed,CORS,OpenShift Installer,software,Won't Do,14/12/2023 23:08,20/12/2023 03:07
+CORS-3147,Story,Closed,CORS,OpenShift Installer,software,Won't Do,14/12/2023 23:08,20/12/2023 03:11
+CORS-3146,Story,Closed,CORS,OpenShift Installer,software,Won't Do,14/12/2023 23:08,20/12/2023 03:12
+CORS-3145,Story,Closed,CORS,OpenShift Installer,software,Done,14/12/2023 23:08,20/12/2023 03:12
+CORS-3144,Spike,Closed,CORS,OpenShift Installer,software,Done,14/12/2023 17:49,30/01/2024 13:42
+CORS-3143,Spike,Closed,CORS,OpenShift Installer,software,Done,14/12/2023 17:48,07/05/2024 19:28
+CORS-3142,Story,Closed,CORS,OpenShift Installer,software,Done,14/12/2023 15:35,25/03/2024 19:25
+CORS-3141,Story,Closed,CORS,OpenShift Installer,software,Done,14/12/2023 15:26,30/01/2024 13:40
+CORS-3140,Story,Closed,CORS,OpenShift Installer,software,Done,14/12/2023 15:21,30/01/2024 13:40
+CORS-3139,Story,Closed,CORS,OpenShift Installer,software,Done,14/12/2023 15:16,30/01/2024 13:40
+CORS-3138,Epic,New,CORS,OpenShift Installer,software,,12/12/2023 18:07,
+CORS-3137,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:28,20/12/2023 05:13
+CORS-3136,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:28,20/12/2023 05:13
+CORS-3135,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:28,20/12/2023 05:13
+CORS-3134,Story,To Do,CORS,OpenShift Installer,software,,07/12/2023 23:27,
+CORS-3133,Story,To Do,CORS,OpenShift Installer,software,,07/12/2023 23:27,
+CORS-3132,Story,To Do,CORS,OpenShift Installer,software,,07/12/2023 23:27,
+CORS-3131,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:26,19/12/2023 05:57
+CORS-3130,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:26,19/12/2023 05:57
+CORS-3129,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:26,19/12/2023 05:59
+CORS-3128,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:25,25/12/2023 07:15
+CORS-3127,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:25,25/12/2023 07:18
+CORS-3126,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:25,25/12/2023 07:16
+CORS-3125,Story,Closed,CORS,OpenShift Installer,software,Duplicate,07/12/2023 23:23,12/12/2023 03:27
+CORS-3124,Story,Closed,CORS,OpenShift Installer,software,Duplicate,07/12/2023 23:23,12/12/2023 03:26
+CORS-3123,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:23,16/12/2023 23:34
+CORS-3122,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:21,19/12/2023 04:59
+CORS-3121,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:21,19/12/2023 04:50
+CORS-3120,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:21,16/12/2023 23:34
+CORS-3119,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:21,16/12/2023 23:34
+CORS-3118,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:21,16/12/2023 23:34
+CORS-3117,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:21,16/12/2023 23:34
+CORS-3116,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:20,16/12/2023 23:34
+CORS-3115,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:20,16/12/2023 23:34
+CORS-3114,Story,Closed,CORS,OpenShift Installer,software,Done,07/12/2023 23:20,08/01/2024 08:23
+CORS-3113,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:20,16/12/2023 23:34
+CORS-3112,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:20,16/12/2023 23:34
+CORS-3111,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:20,16/12/2023 23:34
+CORS-3110,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:19,16/12/2023 23:34
+CORS-3109,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:19,16/12/2023 23:33
+CORS-3108,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:19,16/12/2023 23:33
+CORS-3107,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:19,16/12/2023 23:33
+CORS-3106,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:19,16/12/2023 23:33
+CORS-3105,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:19,16/12/2023 23:33
+CORS-3104,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:19,16/12/2023 23:33
+CORS-3103,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:19,16/12/2023 23:33
+CORS-3102,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:19,16/12/2023 23:33
+CORS-3101,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:18,16/12/2023 23:33
+CORS-3100,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:18,16/12/2023 23:33
+CORS-3099,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:18,16/12/2023 23:33
+CORS-3098,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:17,16/12/2023 23:33
+CORS-3097,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:17,16/12/2023 23:33
+CORS-3096,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:17,16/12/2023 23:33
+CORS-3095,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:16,16/12/2023 23:32
+CORS-3094,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:16,16/12/2023 23:32
+CORS-3093,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:16,16/12/2023 23:32
+CORS-3092,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:16,16/12/2023 23:32
+CORS-3091,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:16,16/12/2023 23:32
+CORS-3090,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:16,16/12/2023 23:32
+CORS-3089,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:10,16/12/2023 23:32
+CORS-3088,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:10,16/12/2023 23:32
+CORS-3087,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 23:10,16/12/2023 23:32
+CORS-3086,Story,Closed,CORS,OpenShift Installer,software,Done,07/12/2023 16:01,10/06/2024 16:11
+CORS-3085,Story,Closed,CORS,OpenShift Installer,software,Done,07/12/2023 16:00,10/06/2024 16:11
+CORS-3084,Story,Closed,CORS,OpenShift Installer,software,Done,07/12/2023 15:47,10/06/2024 16:10
+CORS-3083,Story,Closed,CORS,OpenShift Installer,software,Done,07/12/2023 15:46,10/06/2024 16:10
+CORS-3082,Story,Closed,CORS,OpenShift Installer,software,Done,07/12/2023 15:46,10/06/2024 16:09
+CORS-3081,Story,Closed,CORS,OpenShift Installer,software,Done,07/12/2023 15:46,10/06/2024 16:09
+CORS-3080,Story,Closed,CORS,OpenShift Installer,software,Done,07/12/2023 15:44,10/06/2024 16:08
+CORS-3079,Story,Closed,CORS,OpenShift Installer,software,Done,07/12/2023 15:43,10/06/2024 16:08
+CORS-3078,Story,Closed,CORS,OpenShift Installer,software,Done,07/12/2023 15:42,10/06/2024 16:07
+CORS-3077,Epic,Closed,CORS,OpenShift Installer,software,Done,07/12/2023 15:37,11/06/2024 09:32
+CORS-3076,Story,Closed,CORS,OpenShift Installer,software,Done,07/12/2023 15:33,26/04/2024 01:25
+CORS-3075,Story,Closed,CORS,OpenShift Installer,software,Done,07/12/2023 15:33,15/04/2024 14:40
+CORS-3074,Spike,Closed,CORS,OpenShift Installer,software,Done,07/12/2023 15:32,27/06/2024 16:31
+CORS-3073,Story,Closed,CORS,OpenShift Installer,software,Done,07/12/2023 15:32,16/07/2024 05:54
+CORS-3072,Story,Closed,CORS,OpenShift Installer,software,Done,07/12/2023 15:31,21/06/2024 18:32
+CORS-3071,Story,Closed,CORS,OpenShift Installer,software,Done,07/12/2023 15:31,04/04/2024 13:22
+CORS-3070,Story,Closed,CORS,OpenShift Installer,software,Done,07/12/2023 15:29,19/09/2024 15:38
+CORS-3065,Story,To Do,CORS,OpenShift Installer,software,,07/12/2023 15:25,
+CORS-3063,Story,Closed,CORS,OpenShift Installer,software,Done,07/12/2023 15:23,15/04/2024 14:40
+CORS-3062,Spike,Closed,CORS,OpenShift Installer,software,Done,07/12/2023 15:22,15/02/2024 17:18
+CORS-3061,Epic,Closed,CORS,OpenShift Installer,software,Done,07/12/2023 15:20,04/10/2024 18:39
+CORS-3060,Story,To Do,CORS,OpenShift Installer,software,,07/12/2023 15:16,
+CORS-3059,Story,To Do,CORS,OpenShift Installer,software,,07/12/2023 15:13,
+CORS-3058,Story,To Do,CORS,OpenShift Installer,software,,07/12/2023 15:12,
+CORS-3057,Story,To Do,CORS,OpenShift Installer,software,,07/12/2023 15:10,
+CORS-3056,Story,To Do,CORS,OpenShift Installer,software,,07/12/2023 15:10,
+CORS-3055,Story,To Do,CORS,OpenShift Installer,software,,07/12/2023 15:09,
+CORS-3054,Story,To Do,CORS,OpenShift Installer,software,,07/12/2023 15:09,
+CORS-3053,Story,To Do,CORS,OpenShift Installer,software,,07/12/2023 15:09,
+CORS-3052,Epic,Closed,CORS,OpenShift Installer,software,Obsolete,07/12/2023 15:04,20/05/2024 15:46
+CORS-3051,Story,Closed,CORS,OpenShift Installer,software,Done,07/12/2023 14:58,16/03/2024 09:35
+CORS-3050,Story,Closed,CORS,OpenShift Installer,software,Done,07/12/2023 14:57,17/04/2024 13:15
+CORS-3049,Story,Closed,CORS,OpenShift Installer,software,Done,07/12/2023 14:49,14/12/2023 15:11
+CORS-3048,Story,Closed,CORS,OpenShift Installer,software,Obsolete,05/12/2023 03:36,04/04/2024 13:28
+CORS-3047,Story,Closed,CORS,OpenShift Installer,software,Obsolete,05/12/2023 03:35,04/04/2024 13:27
+CORS-3046,Story,Closed,CORS,OpenShift Installer,software,Obsolete,05/12/2023 03:35,04/04/2024 13:27
+CORS-3045,Story,Closed,CORS,OpenShift Installer,software,Obsolete,05/12/2023 03:34,04/04/2024 13:26
+CORS-3044,Story,Closed,CORS,OpenShift Installer,software,Obsolete,05/12/2023 03:34,04/04/2024 13:26
+CORS-3043,Story,Closed,CORS,OpenShift Installer,software,Obsolete,05/12/2023 03:33,04/04/2024 13:26
+CORS-3042,Story,Closed,CORS,OpenShift Installer,software,Obsolete,05/12/2023 03:32,04/04/2024 13:26
+CORS-3041,Story,Closed,CORS,OpenShift Installer,software,Obsolete,05/12/2023 03:32,04/04/2024 13:25
+CORS-3040,Story,Closed,CORS,OpenShift Installer,software,Obsolete,05/12/2023 03:09,05/03/2024 18:04
+CORS-3039,Story,Closed,CORS,OpenShift Installer,software,Obsolete,05/12/2023 03:08,05/03/2024 18:02
+CORS-3038,Story,Closed,CORS,OpenShift Installer,software,Obsolete,05/12/2023 03:06,05/03/2024 18:02
+CORS-3037,Story,Closed,CORS,OpenShift Installer,software,Obsolete,05/12/2023 03:05,05/03/2024 18:01
+CORS-3036,Story,Closed,CORS,OpenShift Installer,software,Obsolete,05/12/2023 03:04,05/03/2024 18:01
+CORS-3035,Story,Closed,CORS,OpenShift Installer,software,Obsolete,05/12/2023 03:02,05/03/2024 18:01
+CORS-3034,Story,Closed,CORS,OpenShift Installer,software,Obsolete,05/12/2023 03:01,05/03/2024 18:01
+CORS-3033,Story,Closed,CORS,OpenShift Installer,software,Obsolete,05/12/2023 02:51,05/03/2024 18:00
+CORS-3032,Spike,Closed,CORS,OpenShift Installer,software,Done,04/12/2023 23:04,22/03/2024 19:33
+CORS-3031,Story,Closed,CORS,OpenShift Installer,software,Done,04/12/2023 19:10,15/12/2023 15:00
+CORS-3029,Story,Closed,CORS,OpenShift Installer,software,Done,01/12/2023 13:55,15/12/2023 14:57
+CORS-3028,Story,Closed,CORS,OpenShift Installer,software,Obsolete,30/11/2023 23:12,10/01/2024 02:26
+CORS-3027,Story,Closed,CORS,OpenShift Installer,software,Done,30/11/2023 16:27,20/06/2024 15:32
+CORS-3026,Story,In Progress,CORS,OpenShift Installer,software,,30/11/2023 16:26,
+CORS-3025,Spike,Closed,CORS,OpenShift Installer,software,Done,30/11/2023 15:58,08/02/2024 14:00
+CORS-3024,Epic,Closed,CORS,OpenShift Installer,software,Done,30/11/2023 01:22,09/08/2024 21:07
+CORS-3023,Story,Closed,CORS,OpenShift Installer,software,Done,29/11/2023 23:10,20/12/2023 02:58
+CORS-3022,Bug,Closed,CORS,OpenShift Installer,software,Not a Bug,30/10/2023 03:17,05/03/2024 15:14
+CORS-3021,Story,Closed,CORS,OpenShift Installer,software,Won't Do,29/11/2023 20:46,10/04/2024 17:34
+CORS-3020,Story,Closed,CORS,OpenShift Installer,software,Done,29/11/2023 15:23,05/02/2024 13:18
+CORS-3019,Story,To Do,CORS,OpenShift Installer,software,,21/11/2023 15:25,
+CORS-3018,Story,Closed,CORS,OpenShift Installer,software,Obsolete,21/11/2023 13:25,07/12/2023 15:04
+CORS-3017,Story,Closed,CORS,OpenShift Installer,software,Obsolete,21/11/2023 13:24,07/12/2023 15:04
+CORS-3016,Story,Closed,CORS,OpenShift Installer,software,Obsolete,21/11/2023 13:23,07/12/2023 15:04
+CORS-3015,Story,Closed,CORS,OpenShift Installer,software,Won't Do,21/11/2023 06:59,02/12/2023 06:21
+CORS-3014,Story,Closed,CORS,OpenShift Installer,software,Done,21/11/2023 06:59,02/12/2023 06:22
+CORS-3013,Story,Closed,CORS,OpenShift Installer,software,Obsolete,21/11/2023 06:59,20/12/2023 02:59
+CORS-3012,Story,Closed,CORS,OpenShift Installer,software,Done,21/11/2023 06:51,15/01/2024 06:56
+CORS-3011,Story,Closed,CORS,OpenShift Installer,software,Obsolete,21/11/2023 06:51,15/01/2024 07:00
+CORS-3010,Story,Closed,CORS,OpenShift Installer,software,Obsolete,21/11/2023 06:51,15/01/2024 07:08
+CORS-3009,Story,To Do,CORS,OpenShift Installer,software,,21/11/2023 06:51,
+CORS-3008,Story,To Do,CORS,OpenShift Installer,software,,21/11/2023 06:50,
+CORS-3007,Story,To Do,CORS,OpenShift Installer,software,,21/11/2023 06:50,
+CORS-3006,Story,Closed,CORS,OpenShift Installer,software,Obsolete,21/11/2023 06:50,20/12/2023 00:07
+CORS-3005,Story,Closed,CORS,OpenShift Installer,software,Obsolete,21/11/2023 06:50,20/12/2023 00:07
+CORS-3004,Story,Closed,CORS,OpenShift Installer,software,Obsolete,21/11/2023 06:50,20/12/2023 00:06
+CORS-3003,Story,Closed,CORS,OpenShift Installer,software,Done,21/11/2023 06:45,22/12/2023 09:42
+CORS-3002,Story,Closed,CORS,OpenShift Installer,software,Done,21/11/2023 06:45,10/01/2024 02:13
+CORS-3001,Story,Closed,CORS,OpenShift Installer,software,Done,21/11/2023 06:45,07/12/2023 07:01
+CORS-3000,Story,Closed,CORS,OpenShift Installer,software,Duplicate,21/11/2023 06:38,10/01/2024 02:31
+CORS-2999,Story,Closed,CORS,OpenShift Installer,software,Obsolete,21/11/2023 06:38,10/01/2024 02:28
+CORS-2998,Story,Closed,CORS,OpenShift Installer,software,Done,21/11/2023 06:38,10/01/2024 02:25
+CORS-2997,Story,Closed,CORS,OpenShift Installer,software,Done,21/11/2023 06:38,06/02/2024 08:49
+CORS-2996,Story,Closed,CORS,OpenShift Installer,software,Obsolete,21/11/2023 06:38,10/01/2024 02:28
+CORS-2995,Story,Closed,CORS,OpenShift Installer,software,Done,21/11/2023 06:38,11/01/2024 09:28
+CORS-2994,Story,Closed,CORS,OpenShift Installer,software,Done,21/11/2023 06:36,07/08/2024 13:39
+CORS-2993,Story,Closed,CORS,OpenShift Installer,software,Obsolete,21/11/2023 06:36,06/08/2024 06:50
+CORS-2992,Story,Closed,CORS,OpenShift Installer,software,Done,21/11/2023 06:36,09/08/2024 10:03
+CORS-2991,Story,Closed,CORS,OpenShift Installer,software,Done,21/11/2023 06:30,28/08/2024 04:19
+CORS-2990,Story,Closed,CORS,OpenShift Installer,software,Done,21/11/2023 06:30,13/08/2024 05:20
+CORS-2989,Story,Closed,CORS,OpenShift Installer,software,Done,21/11/2023 06:30,11/09/2024 09:11
+CORS-2988,Story,Closed,CORS,OpenShift Installer,software,Won't Do,21/11/2023 06:27,28/03/2024 16:35
+CORS-2987,Story,Closed,CORS,OpenShift Installer,software,Won't Do,21/11/2023 06:27,28/03/2024 16:35
+CORS-2986,Story,Closed,CORS,OpenShift Installer,software,Won't Do,21/11/2023 06:27,28/03/2024 16:35
+CORS-2980,Story,To Do,CORS,OpenShift Installer,software,,20/11/2023 17:51,
+CORS-2979,Story,Code Review,CORS,OpenShift Installer,software,,20/11/2023 17:50,
+CORS-2978,Story,Closed,CORS,OpenShift Installer,software,Done,20/11/2023 17:47,25/09/2024 19:30
+CORS-2977,Epic,Closed,CORS,OpenShift Installer,software,Obsolete,20/11/2023 17:45,07/12/2023 14:41
+CORS-2976,Story,Closed,CORS,OpenShift Installer,software,Done,20/11/2023 11:17,12/12/2023 09:02
+CORS-2975,Story,Closed,CORS,OpenShift Installer,software,Done,17/11/2023 04:18,29/11/2023 12:45
+CORS-2973,Task,To Do,CORS,OpenShift Installer,software,,16/11/2023 13:16,
+CORS-2972,Story,To Do,CORS,OpenShift Installer,software,,16/11/2023 11:14,
+CORS-2971,Task,To Do,CORS,OpenShift Installer,software,,16/11/2023 11:13,
+CORS-2970,Story,To Do,CORS,OpenShift Installer,software,,16/11/2023 09:27,
+CORS-2969,Story,Closed,CORS,OpenShift Installer,software,Duplicate,14/11/2023 02:31,14/11/2023 02:32
+CORS-2968,Story,Closed,CORS,OpenShift Installer,software,Done,14/11/2023 01:43,04/12/2023 03:42
+CORS-2967,Story,Closed,CORS,OpenShift Installer,software,Done,14/11/2023 01:42,04/12/2023 03:41
+CORS-2966,Story,Closed,CORS,OpenShift Installer,software,Won't Do,14/11/2023 01:41,04/12/2023 03:44
+CORS-2965,Story,Closed,CORS,OpenShift Installer,software,Done,14/11/2023 01:40,25/12/2023 01:56
+CORS-2964,Story,Closed,CORS,OpenShift Installer,software,Done,14/11/2023 01:40,20/12/2023 03:38
+CORS-2963,Story,Closed,CORS,OpenShift Installer,software,Won't Do,14/11/2023 01:39,04/12/2023 03:46
+CORS-2962,Story,Closed,CORS,OpenShift Installer,software,Obsolete,14/11/2023 01:36,13/03/2024 10:02
+CORS-2961,Story,Closed,CORS,OpenShift Installer,software,Obsolete,14/11/2023 01:35,13/03/2024 10:02
+CORS-2960,Story,Closed,CORS,OpenShift Installer,software,Obsolete,14/11/2023 01:34,13/03/2024 10:02
+CORS-2959,Story,Closed,CORS,OpenShift Installer,software,Done,13/11/2023 09:55,16/01/2024 06:46
+CORS-2958,Story,Closed,CORS,OpenShift Installer,software,Done,13/11/2023 09:55,31/01/2024 09:13
+CORS-2957,Story,Closed,CORS,OpenShift Installer,software,Done,13/11/2023 09:54,09/12/2023 08:04
+CORS-2956,Story,Closed,CORS,OpenShift Installer,software,Won't Do,13/11/2023 03:10,09/01/2024 02:49
+CORS-2955,Task,Closed,CORS,OpenShift Installer,software,Obsolete,13/11/2023 01:32,29/11/2023 03:24
+CORS-2954,Task,Closed,CORS,OpenShift Installer,software,Obsolete,13/11/2023 01:32,29/11/2023 03:24
+CORS-2953,Task,Closed,CORS,OpenShift Installer,software,Obsolete,13/11/2023 01:29,29/11/2023 03:24
+CORS-2951,Story,Closed,CORS,OpenShift Installer,software,Done,09/11/2023 23:06,16/07/2024 15:06
+CORS-2950,Story,Closed,CORS,OpenShift Installer,software,Done,09/11/2023 22:47,15/01/2024 23:12
+CORS-2949,Epic,Dev Complete,CORS,OpenShift Installer,software,,09/11/2023 14:13,
+CORS-2948,Story,Closed,CORS,OpenShift Installer,software,Done,09/11/2023 14:08,01/02/2024 17:34
+CORS-2947,Bug,Closed,CORS,OpenShift Installer,software,Not a Bug,08/11/2023 16:00,03/01/2024 22:14
+CORS-2946,Story,Closed,CORS,OpenShift Installer,software,Done,07/11/2023 20:30,02/01/2024 20:18
+CORS-2944,Story,Closed,CORS,OpenShift Installer,software,Done,03/11/2023 16:32,20/11/2023 16:17
+CORS-2943,Story,Closed,CORS,OpenShift Installer,software,Done,03/11/2023 16:27,20/11/2023 16:17
+CORS-2941,Story,To Do,CORS,OpenShift Installer,software,,03/01/2023 14:51,
+CORS-2940,Story,Closed,CORS,OpenShift Installer,software,Done,02/11/2023 01:58,18/12/2023 05:49
+CORS-2939,Story,Closed,CORS,OpenShift Installer,software,Won't Do,02/11/2023 01:57,19/12/2023 06:07
+CORS-2938,Story,Closed,CORS,OpenShift Installer,software,Done,02/11/2023 01:57,19/12/2023 06:06
+CORS-2937,Story,To Do,CORS,OpenShift Installer,software,,02/11/2023 01:54,
+CORS-2936,Story,To Do,CORS,OpenShift Installer,software,,02/11/2023 01:54,
+CORS-2935,Story,To Do,CORS,OpenShift Installer,software,,02/11/2023 01:53,
+CORS-2934,Story,Closed,CORS,OpenShift Installer,software,Done,30/10/2023 20:37,22/12/2023 09:43
+CORS-2933,Story,Closed,CORS,OpenShift Installer,software,Done,30/10/2023 17:49,29/11/2023 19:44
+CORS-2932,Epic,Closed,CORS,OpenShift Installer,software,Done,27/10/2023 07:43,16/07/2024 15:09
+CORS-2931,Story,Closed,CORS,OpenShift Installer,software,Won't Do,26/10/2023 18:52,07/11/2023 20:23
+CORS-2930,Story,Closed,CORS,OpenShift Installer,software,Won't Do,26/10/2023 18:50,07/11/2023 20:24
+CORS-2929,Story,Closed,CORS,OpenShift Installer,software,Won't Do,26/10/2023 18:48,07/11/2023 20:23
+CORS-2928,Spike,Closed,CORS,OpenShift Installer,software,Done,26/10/2023 18:46,04/01/2024 18:46
+CORS-2927,Story,Closed,CORS,OpenShift Installer,software,Done,26/10/2023 18:36,02/01/2024 20:18
+CORS-2926,Story,Closed,CORS,OpenShift Installer,software,Done,26/10/2023 18:29,02/01/2024 20:18
+CORS-2925,Story,To Do,CORS,OpenShift Installer,software,,24/10/2023 14:16,
+CORS-2924,Story,To Do,CORS,OpenShift Installer,software,,23/10/2023 19:54,
+CORS-2923,Spike,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 15:19,19/10/2023 15:40
+CORS-2922,Spike,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 15:19,19/10/2023 15:40
+CORS-2921,Story,Closed,CORS,OpenShift Installer,software,Obsolete,19/10/2023 15:19,19/10/2023 15:39
+CORS-2920,Story,Closed,CORS,OpenShift Installer,software,Obsolete,19/10/2023 15:19,19/10/2023 15:39
+CORS-2919,Story,Closed,CORS,OpenShift Installer,software,Obsolete,19/10/2023 15:19,19/10/2023 15:39
+CORS-2918,Story,Closed,CORS,OpenShift Installer,software,Obsolete,19/10/2023 15:19,19/10/2023 15:38
+CORS-2917,Story,Closed,CORS,OpenShift Installer,software,Obsolete,19/10/2023 15:19,19/10/2023 15:38
+CORS-2916,Story,Closed,CORS,OpenShift Installer,software,Obsolete,19/10/2023 15:19,19/10/2023 15:38
+CORS-2915,Story,Closed,CORS,OpenShift Installer,software,Obsolete,19/10/2023 15:19,19/10/2023 15:38
+CORS-2914,Story,Closed,CORS,OpenShift Installer,software,Obsolete,19/10/2023 15:19,19/10/2023 15:37
+CORS-2913,Story,Closed,CORS,OpenShift Installer,software,Obsolete,19/10/2023 15:19,19/10/2023 15:37
+CORS-2912,Story,Closed,CORS,OpenShift Installer,software,Obsolete,19/10/2023 15:19,19/10/2023 15:37
+CORS-2911,Story,Closed,CORS,OpenShift Installer,software,Obsolete,19/10/2023 15:19,19/10/2023 15:33
+CORS-2910,Story,Closed,CORS,OpenShift Installer,software,Obsolete,19/10/2023 15:19,19/10/2023 15:32
+CORS-2909,Spike,Closed,CORS,OpenShift Installer,software,Obsolete,19/10/2023 15:19,19/10/2023 15:35
+CORS-2908,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 15:19,19/10/2023 15:32
+CORS-2907,Spike,Closed,CORS,OpenShift Installer,software,Obsolete,19/10/2023 15:19,19/10/2023 15:35
+CORS-2906,Story,Closed,CORS,OpenShift Installer,software,Obsolete,19/10/2023 15:19,19/10/2023 15:32
+CORS-2905,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 15:19,16/05/2024 16:54
+CORS-2904,Story,Closed,CORS,OpenShift Installer,software,Obsolete,19/10/2023 15:19,14/03/2024 16:30
+CORS-2903,Epic,Closed,CORS,OpenShift Installer,software,Obsolete,19/10/2023 15:19,19/10/2023 15:31
+CORS-2902,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 15:19,16/03/2024 09:15
+CORS-2901,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 15:19,13/03/2024 11:16
+CORS-2900,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 15:19,16/03/2024 09:31
+CORS-2899,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 15:19,26/04/2024 12:23
+CORS-2898,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 15:19,25/03/2024 19:26
+CORS-2897,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 15:19,13/03/2024 11:15
+CORS-2895,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 15:19,14/05/2024 13:43
+CORS-2894,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 15:19,16/03/2024 09:29
+CORS-2893,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 15:19,26/04/2024 18:26
+CORS-2892,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 15:19,13/03/2024 21:10
+CORS-2891,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 15:19,13/03/2024 11:12
+CORS-2890,Epic,Testing,CORS,OpenShift Installer,software,,19/10/2023 15:19,
+CORS-2889,Epic,Closed,CORS,OpenShift Installer,software,Obsolete,19/10/2023 15:16,19/10/2023 15:23
+CORS-2888,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 15:14,20/11/2023 16:17
+CORS-2887,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 15:08,20/11/2023 16:17
+CORS-2886,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 15:07,20/11/2023 16:17
+CORS-2885,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 15:05,20/11/2023 16:12
+CORS-2884,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 15:04,20/11/2023 16:12
+CORS-2883,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 15:03,20/11/2023 16:12
+CORS-2882,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 15:01,20/11/2023 16:11
+CORS-2881,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 15:01,20/11/2023 16:11
+CORS-2880,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 14:59,20/11/2023 16:11
+CORS-2879,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 14:58,20/11/2023 16:11
+CORS-2878,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 14:57,20/11/2023 16:11
+CORS-2877,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 14:50,09/11/2023 16:41
+CORS-2876,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 14:45,20/11/2023 15:18
+CORS-2875,Story,Closed,CORS,OpenShift Installer,software,Won't Do,19/10/2023 14:39,22/03/2024 19:32
+CORS-2874,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2023 14:37,22/03/2024 19:34
+CORS-2873,Story,Closed,CORS,OpenShift Installer,software,Obsolete,19/10/2023 14:16,07/12/2023 14:36
+CORS-2872,Story,To Do,CORS,OpenShift Installer,software,,19/10/2023 12:51,
+CORS-2871,Story,Closed,CORS,OpenShift Installer,software,Obsolete,18/10/2023 19:07,26/10/2023 13:31
+CORS-2870,Spike,Closed,CORS,OpenShift Installer,software,Duplicate,18/10/2023 18:55,19/10/2023 15:48
+CORS-2869,Task,To Do,CORS,OpenShift Installer,software,,16/10/2023 13:51,
+CORS-2868,Bug,To Do,CORS,OpenShift Installer,software,,12/10/2023 09:35,
+CORS-2867,Epic,Closed,CORS,OpenShift Installer,software,Done,06/10/2023 13:52,13/08/2024 14:39
+CORS-2866,Story,Closed,CORS,OpenShift Installer,software,Obsolete,03/10/2023 01:41,20/10/2023 14:03
+CORS-2865,Story,Closed,CORS,OpenShift Installer,software,Obsolete,03/10/2023 01:38,20/10/2023 14:03
+CORS-2864,Story,To Do,CORS,OpenShift Installer,software,,03/10/2023 01:20,
+CORS-2863,Story,Closed,CORS,OpenShift Installer,software,Duplicate,03/10/2023 01:13,27/06/2024 13:15
+CORS-2862,Story,Closed,CORS,OpenShift Installer,software,Duplicate,03/10/2023 01:12,27/06/2024 13:14
+CORS-2861,Story,Closed,CORS,OpenShift Installer,software,Duplicate,03/10/2023 01:11,27/06/2024 13:14
+CORS-2860,Story,Closed,CORS,OpenShift Installer,software,Duplicate,03/10/2023 01:11,27/06/2024 13:14
+CORS-2859,Story,Closed,CORS,OpenShift Installer,software,Duplicate,03/10/2023 01:10,27/06/2024 13:14
+CORS-2858,Story,Closed,CORS,OpenShift Installer,software,Duplicate,03/10/2023 01:09,27/06/2024 13:14
+CORS-2857,Story,Closed,CORS,OpenShift Installer,software,Duplicate,03/10/2023 01:09,27/06/2024 13:14
+CORS-2856,Spike,Closed,CORS,OpenShift Installer,software,Obsolete,03/10/2023 01:02,11/10/2023 19:50
+CORS-2855,Epic,Closed,CORS,OpenShift Installer,software,Obsolete,02/10/2023 20:15,16/07/2024 15:07
+CORS-2854,Story,Closed,CORS,OpenShift Installer,software,Done,02/10/2023 16:35,04/12/2023 16:57
+CORS-2853,Spike,To Do,CORS,OpenShift Installer,software,,29/09/2023 16:59,
+CORS-2852,Story,Closed,CORS,OpenShift Installer,software,Done,28/09/2023 19:42,20/11/2023 16:57
+CORS-2851,Spike,Closed,CORS,OpenShift Installer,software,Done,28/09/2023 19:16,26/10/2023 19:29
+CORS-2850,Spike,To Do,CORS,OpenShift Installer,software,,28/09/2023 14:27,
+CORS-2849,Spike,To Do,CORS,OpenShift Installer,software,,25/09/2023 13:23,
+CORS-2848,Spike,To Do,CORS,OpenShift Installer,software,,25/09/2023 13:17,
+CORS-2846,Spike,Closed,CORS,OpenShift Installer,software,Obsolete,21/09/2023 20:26,26/10/2023 13:21
+CORS-2845,Story,Closed,CORS,OpenShift Installer,software,Done,21/09/2023 19:40,30/11/2023 18:00
+CORS-2844,Spike,Closed,CORS,OpenShift Installer,software,Obsolete,21/09/2023 15:21,19/10/2023 14:14
+CORS-2843,Story,Closed,CORS,OpenShift Installer,software,Done,21/09/2023 15:06,19/10/2023 14:06
+CORS-2842,Epic,New,CORS,OpenShift Installer,software,,21/09/2023 14:29,
+CORS-2841,Epic,Closed,CORS,OpenShift Installer,software,Obsolete,21/09/2023 14:27,19/10/2023 15:53
+CORS-2840,Epic,Closed,CORS,OpenShift Installer,software,Done,21/09/2023 14:25,16/07/2024 15:05
+CORS-2839,Epic,Closed,CORS,OpenShift Installer,software,Obsolete,21/09/2023 14:20,16/07/2024 15:06
+CORS-2838,Story,Closed,CORS,OpenShift Installer,software,Done,20/09/2023 15:32,07/12/2023 14:35
+CORS-2837,Story,Closed,CORS,OpenShift Installer,software,Obsolete,20/09/2023 15:22,07/12/2023 14:34
+CORS-2836,Story,Closed,CORS,OpenShift Installer,software,Done,20/09/2023 15:08,25/10/2023 13:48
+CORS-2835,Story,Closed,CORS,OpenShift Installer,software,Done,20/09/2023 15:06,09/11/2023 16:40
+CORS-2834,Story,Closed,CORS,OpenShift Installer,software,Done,20/09/2023 14:59,20/11/2023 16:10
+CORS-2833,Story,Closed,CORS,OpenShift Installer,software,Done,20/09/2023 14:58,20/11/2023 16:11
+CORS-2832,Spike,Closed,CORS,OpenShift Installer,software,Done,20/09/2023 14:56,26/10/2023 13:28
+CORS-2831,Spike,Closed,CORS,OpenShift Installer,software,Done,20/09/2023 14:54,18/10/2023 08:40
+CORS-2830,Epic,Closed,CORS,OpenShift Installer,software,Done,20/09/2023 14:44,20/12/2023 03:35
+CORS-2829,Epic,Closed,CORS,OpenShift Installer,software,Done,20/09/2023 14:30,25/12/2023 01:56
+CORS-2828,Task,Closed,CORS,OpenShift Installer,software,Can't Do,15/09/2023 05:51,15/09/2023 05:51
+CORS-2827,Task,Closed,CORS,OpenShift Installer,software,Can't Do,15/09/2023 05:50,15/09/2023 05:50
+CORS-2826,Task,Closed,CORS,OpenShift Installer,software,Won't Do,14/09/2023 09:06,17/09/2023 14:40
+CORS-2825,Task,Closed,CORS,OpenShift Installer,software,Won't Do,14/09/2023 09:05,17/09/2023 14:40
+CORS-2824,Task,Closed,CORS,OpenShift Installer,software,Won't Do,14/09/2023 09:03,17/09/2023 14:39
+CORS-2823,Task,Closed,CORS,OpenShift Installer,software,Won't Do,14/09/2023 09:02,17/09/2023 14:39
+CORS-2822,Task,Closed,CORS,OpenShift Installer,software,Won't Do,14/09/2023 09:02,17/09/2023 14:37
+CORS-2821,Task,Closed,CORS,OpenShift Installer,software,Won't Do,14/09/2023 09:00,17/09/2023 14:37
+CORS-2820,Task,Closed,CORS,OpenShift Installer,software,Won't Do,14/09/2023 08:59,17/09/2023 14:38
+CORS-2819,Epic,Closed,CORS,OpenShift Installer,software,Done,12/09/2023 16:54,16/07/2024 15:05
+CORS-2818,Story,Closed,CORS,OpenShift Installer,software,Done,11/09/2023 17:55,06/12/2023 13:47
+CORS-2817,Story,Closed,CORS,OpenShift Installer,software,Obsolete,11/09/2023 17:43,21/09/2023 20:27
+CORS-2816,Story,Closed,CORS,OpenShift Installer,software,Done,11/09/2023 17:41,18/01/2024 17:00
+CORS-2815,Story,Closed,CORS,OpenShift Installer,software,Done,11/09/2023 17:34,01/02/2024 17:31
+CORS-2814,Story,Closed,CORS,OpenShift Installer,software,Done,11/09/2023 17:32,01/02/2024 17:30
+CORS-2813,Story,Closed,CORS,OpenShift Installer,software,Done,11/09/2023 16:44,07/12/2023 11:45
+CORS-2812,Spike,Closed,CORS,OpenShift Installer,software,Done,11/09/2023 16:07,28/09/2023 16:03
+CORS-2811,Spike,Closed,CORS,OpenShift Installer,software,Done,11/09/2023 10:12,28/09/2023 16:03
+CORS-2810,Epic,Closed,CORS,OpenShift Installer,software,Done,11/09/2023 10:11,19/01/2024 15:18
+CORS-2809,Story,To Do,CORS,OpenShift Installer,software,,11/09/2023 08:11,
+CORS-2808,Spike,Closed,CORS,OpenShift Installer,software,Done,07/09/2023 16:25,02/10/2023 11:15
+CORS-2807,Spike,Closed,CORS,OpenShift Installer,software,Done,07/09/2023 15:13,11/09/2023 18:13
+CORS-2806,Spike,Closed,CORS,OpenShift Installer,software,Won't Do,06/09/2023 20:45,04/01/2024 18:47
+CORS-2805,Task,Closed,CORS,OpenShift Installer,software,Done,06/09/2023 03:49,31/10/2023 02:05
+CORS-2804,Task,Closed,CORS,OpenShift Installer,software,Done,06/09/2023 03:46,31/10/2023 02:04
+CORS-2803,Story,Closed,CORS,OpenShift Installer,software,Won't Do,28/08/2023 16:33,07/11/2023 20:31
+CORS-2802,Story,Closed,CORS,OpenShift Installer,software,Done,28/08/2023 16:26,02/01/2024 20:18
+CORS-2801,Story,Closed,CORS,OpenShift Installer,software,Done,28/08/2023 16:21,02/01/2024 20:18
+CORS-2800,Story,Closed,CORS,OpenShift Installer,software,Done,28/08/2023 16:19,02/01/2024 20:17
+CORS-2799,Story,Closed,CORS,OpenShift Installer,software,Done,28/08/2023 16:05,02/01/2024 20:17
+CORS-2798,Story,Closed,CORS,OpenShift Installer,software,Done,28/08/2023 15:42,07/12/2023 03:16
+CORS-2797,Story,Closed,CORS,OpenShift Installer,software,Done,25/08/2023 07:35,30/04/2024 17:53
+CORS-2796,Spike,Closed,CORS,OpenShift Installer,software,Done,23/08/2023 18:19,12/10/2023 13:23
+CORS-2795,Story,To Do,CORS,OpenShift Installer,software,,23/08/2023 14:40,
+CORS-2792,Story,Closed,CORS,OpenShift Installer,software,Done,17/08/2023 18:46,17/10/2023 16:04
+CORS-2791,Epic,Release Pending,CORS,OpenShift Installer,software,Done,17/08/2023 18:44,17/10/2023 16:05
+CORS-2790,Epic,New,CORS,OpenShift Installer,software,,17/08/2023 15:43,
+CORS-2789,Epic,Closed,CORS,OpenShift Installer,software,Obsolete,16/08/2023 15:15,16/07/2024 15:00
+CORS-2788,Spike,To Do,CORS,OpenShift Installer,software,,10/08/2023 16:47,
+CORS-2787,Spike,To Do,CORS,OpenShift Installer,software,,10/08/2023 16:39,
+CORS-2786,Spike,Closed,CORS,OpenShift Installer,software,Won't Do,10/08/2023 16:30,22/03/2024 19:36
+CORS-2785,Spike,Closed,CORS,OpenShift Installer,software,Done,10/08/2023 16:26,08/01/2024 16:55
+CORS-2784,Bug,Closed,CORS,OpenShift Installer,software,Not a Bug,03/08/2023 13:27,23/08/2023 13:20
+CORS-2783,Epic,Release Pending,CORS,OpenShift Installer,software,Done,08/08/2023 14:23,11/09/2024 09:23
+CORS-2782,Task,Closed,CORS,OpenShift Installer,software,Done,08/08/2023 05:43,04/09/2023 05:47
+CORS-2781,Story,Closed,CORS,OpenShift Installer,software,Done,07/08/2023 03:28,14/08/2023 02:18
+CORS-2780,Story,Closed,CORS,OpenShift Installer,software,Done,07/08/2023 03:28,14/08/2023 02:18
+CORS-2779,Story,Closed,CORS,OpenShift Installer,software,Done,07/08/2023 03:28,07/08/2023 03:29
+CORS-2778,Story,Closed,CORS,OpenShift Installer,software,Duplicate,07/08/2023 03:24,27/11/2023 08:07
+CORS-2777,Story,Closed,CORS,OpenShift Installer,software,Duplicate,07/08/2023 03:23,27/11/2023 08:07
+CORS-2776,Story,Closed,CORS,OpenShift Installer,software,Duplicate,07/08/2023 03:22,27/11/2023 08:07
+CORS-2775,Story,To Do,CORS,OpenShift Installer,software,,04/08/2023 14:04,
+CORS-2774,Epic,New,CORS,OpenShift Installer,software,,02/08/2023 17:25,
+CORS-2773,Task,Closed,CORS,OpenShift Installer,software,Obsolete,02/08/2023 05:38,11/09/2023 02:03
+CORS-2772,Task,Closed,CORS,OpenShift Installer,software,Done,02/08/2023 05:38,05/09/2023 04:32
+CORS-2771,Task,Closed,CORS,OpenShift Installer,software,Done,02/08/2023 05:37,02/08/2023 08:57
+CORS-2770,Epic,Closed,CORS,OpenShift Installer,software,Done,01/08/2023 14:59,20/12/2023 03:02
+CORS-2769,Story,To Do,CORS,OpenShift Installer,software,,27/07/2023 15:17,
+CORS-2768,Story,To Do,CORS,OpenShift Installer,software,,27/07/2023 15:14,
+CORS-2767,Epic,Closed,CORS,OpenShift Installer,software,Obsolete,26/07/2023 22:22,11/10/2024 14:51
+CORS-2764,Story,Closed,CORS,OpenShift Installer,software,Done,25/07/2023 19:05,08/08/2023 14:59
+CORS-2763,Epic,Closed,CORS,OpenShift Installer,software,Done,25/07/2023 18:55,07/09/2023 07:39
+CORS-2762,Story,To Do,CORS,OpenShift Installer,software,,21/07/2023 17:21,
+CORS-2761,Epic,To Do,CORS,OpenShift Installer,software,,21/07/2023 16:23,
+CORS-2760,Story,Closed,CORS,OpenShift Installer,software,Done,19/07/2023 22:57,05/12/2023 02:35
+CORS-2759,Epic,Closed,CORS,OpenShift Installer,software,Duplicate,19/07/2023 22:24,19/07/2023 22:27
+CORS-2758,Epic,Closed,CORS,OpenShift Installer,software,Duplicate,19/07/2023 21:57,19/07/2023 22:31
+CORS-2757,Epic,Closed,CORS,OpenShift Installer,software,Duplicate,19/07/2023 21:32,19/07/2023 23:19
+CORS-2756,Epic,Closed,CORS,OpenShift Installer,software,Duplicate,19/07/2023 21:31,19/07/2023 23:19
+CORS-2755,Epic,Closed,CORS,OpenShift Installer,software,Duplicate,19/07/2023 21:30,19/07/2023 23:19
+CORS-2754,Spike,To Do,CORS,OpenShift Installer,software,,19/07/2023 17:52,
+CORS-2753,Epic,New,CORS,OpenShift Installer,software,,19/07/2023 17:52,
+CORS-2752,Spike,To Do,CORS,OpenShift Installer,software,,19/07/2023 17:50,
+CORS-2751,Epic,New,CORS,OpenShift Installer,software,,19/07/2023 17:48,
+CORS-2750,Story,Closed,CORS,OpenShift Installer,software,Done,18/07/2023 17:33,01/05/2024 00:56
+CORS-2749,Epic,New,CORS,OpenShift Installer,software,,18/07/2023 16:50,
+CORS-2748,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,18/07/2023 16:49,19/07/2023 22:10
+CORS-2747,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,18/07/2023 16:49,19/07/2023 22:11
+CORS-2746,Epic,New,CORS,OpenShift Installer,software,,18/07/2023 16:48,
+CORS-2745,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,18/07/2023 16:48,19/07/2023 22:10
+CORS-2744,Epic,Closed,CORS,OpenShift Installer,software,Done,18/07/2023 16:47,09/01/2024 06:45
+CORS-2743,Epic,Closed,CORS,OpenShift Installer,software,Done,18/07/2023 16:46,09/01/2024 06:45
+CORS-2742,Story,Closed,CORS,OpenShift Installer,software,Done,18/07/2023 15:32,27/07/2023 16:31
+CORS-2741,Story,Closed,CORS,OpenShift Installer,software,Done,18/07/2023 15:19,27/07/2023 16:30
+CORS-2740,Story,Closed,CORS,OpenShift Installer,software,Duplicate,18/07/2023 09:18,11/12/2023 03:00
+CORS-2739,Story,Closed,CORS,OpenShift Installer,software,Duplicate,18/07/2023 09:18,11/12/2023 03:00
+CORS-2738,Story,Closed,CORS,OpenShift Installer,software,Duplicate,18/07/2023 09:17,11/12/2023 03:00
+CORS-2737,Story,Closed,CORS,OpenShift Installer,software,Done,18/07/2023 09:16,20/09/2023 18:53
+CORS-2736,Story,Closed,CORS,OpenShift Installer,software,Done,18/07/2023 09:16,06/09/2023 01:22
+CORS-2735,Story,Closed,CORS,OpenShift Installer,software,Won't Do,18/07/2023 09:15,24/08/2023 03:07
+CORS-2734,Story,Closed,CORS,OpenShift Installer,software,Done,18/07/2023 08:03,18/12/2023 06:22
+CORS-2733,Story,Closed,CORS,OpenShift Installer,software,Won't Do,18/07/2023 08:02,19/12/2023 06:03
+CORS-2732,Story,Closed,CORS,OpenShift Installer,software,Done,18/07/2023 08:02,19/12/2023 06:04
+CORS-2731,Story,To Do,CORS,OpenShift Installer,software,,18/07/2023 00:27,
+CORS-2730,Story,To Do,CORS,OpenShift Installer,software,,18/07/2023 00:27,
+CORS-2728,Epic,Closed,CORS,OpenShift Installer,software,Done,17/07/2023 09:19,06/02/2024 08:49
+CORS-2726,Epic,Closed,CORS,OpenShift Installer,software,Done,14/07/2023 07:41,14/03/2024 09:15
+CORS-2725,Task,Closed,CORS,OpenShift Installer,software,Done,14/07/2023 03:15,16/08/2023 09:01
+CORS-2724,Task,Closed,CORS,OpenShift Installer,software,Done,14/07/2023 03:14,24/10/2023 06:10
+CORS-2723,Task,Closed,CORS,OpenShift Installer,software,Won't Do,14/07/2023 03:14,14/09/2023 06:54
+CORS-2722,Epic,Closed,CORS,OpenShift Installer,software,Done,13/07/2023 13:19,24/10/2023 06:16
+CORS-2719,Story,Closed,CORS,OpenShift Installer,software,Done,07/07/2023 19:30,10/08/2023 14:41
+CORS-2718,Story,To Do,CORS,OpenShift Installer,software,,07/07/2023 18:50,
+CORS-2717,Story,To Do,CORS,OpenShift Installer,software,,07/07/2023 18:45,
+CORS-2716,Story,To Do,CORS,OpenShift Installer,software,,07/07/2023 18:30,
+CORS-2715,Epic,Closed,CORS,OpenShift Installer,software,Done,07/07/2023 18:04,04/11/2024 20:25
+CORS-2714,Task,To Do,CORS,OpenShift Installer,software,,07/07/2023 08:36,
+CORS-2713,Task,Closed,CORS,OpenShift Installer,software,Done,07/07/2023 08:36,27/07/2023 06:58
+CORS-2711,Story,Closed,CORS,OpenShift Installer,software,Obsolete,06/07/2023 20:04,12/07/2023 14:56
+CORS-2710,Story,Closed,CORS,OpenShift Installer,software,Done,06/07/2023 20:03,20/07/2023 19:41
+CORS-2709,Story,Closed,CORS,OpenShift Installer,software,Duplicate,06/07/2023 15:04,24/10/2023 14:09
+CORS-2708,Task,Closed,CORS,OpenShift Installer,software,Can't Do,05/07/2023 09:31,15/09/2023 05:48
+CORS-2707,Spike,To Do,CORS,OpenShift Installer,software,,29/06/2023 19:04,
+CORS-2706,Spike,Closed,CORS,OpenShift Installer,software,Done,29/06/2023 18:42,16/07/2024 15:04
+CORS-2705,Spike,To Do,CORS,OpenShift Installer,software,,29/06/2023 15:49,
+CORS-2704,Task,Closed,CORS,OpenShift Installer,software,Obsolete,29/06/2023 02:45,24/07/2023 01:33
+CORS-2703,Task,Closed,CORS,OpenShift Installer,software,Obsolete,29/06/2023 02:45,21/07/2023 06:06
+CORS-2702,Task,Closed,CORS,OpenShift Installer,software,Done,29/06/2023 02:44,04/08/2023 05:52
+CORS-2700,Story,Closed,CORS,OpenShift Installer,software,Done,28/06/2023 14:51,17/08/2023 16:35
+CORS-2699,Epic,Closed,CORS,OpenShift Installer,software,Done,28/06/2023 11:07,17/08/2023 07:41
+CORS-2697,Epic,Closed,CORS,OpenShift Installer,software,Duplicate,27/06/2023 16:28,08/03/2024 16:24
+CORS-2696,Story,To Do,CORS,OpenShift Installer,software,,27/06/2023 16:24,
+CORS-2695,Task,Closed,CORS,OpenShift Installer,software,Done,22/06/2023 20:55,09/11/2023 17:09
+CORS-2694,Epic,Closed,CORS,OpenShift Installer,software,Done,22/06/2023 10:59,22/01/2024 01:48
+CORS-2693,Bug,Closed,CORS,OpenShift Installer,software,Duplicate,22/06/2023 09:57,22/06/2023 16:36
+CORS-2692,Epic,New,CORS,OpenShift Installer,software,,20/06/2023 08:42,
+CORS-2691,Epic,New,CORS,OpenShift Installer,software,,19/06/2023 17:06,
+CORS-2690,Story,To Do,CORS,OpenShift Installer,software,,16/06/2023 13:30,
+CORS-2689,Spike,Closed,CORS,OpenShift Installer,software,Obsolete,16/06/2023 13:28,16/06/2023 13:29
+CORS-2687,Story,To Do,CORS,OpenShift Installer,software,,08/06/2023 23:17,
+CORS-2686,Task,Closed,CORS,OpenShift Installer,software,Done,07/06/2023 07:34,27/09/2023 06:02
+CORS-2685,Task,To Do,CORS,OpenShift Installer,software,,07/06/2023 07:10,
+CORS-2684,Story,To Do,CORS,OpenShift Installer,software,,07/06/2023 07:10,
+CORS-2683,Task,To Do,CORS,OpenShift Installer,software,,07/06/2023 07:07,
+CORS-2682,Story,To Do,CORS,OpenShift Installer,software,,07/06/2023 07:06,
+CORS-2681,Task,Closed,CORS,OpenShift Installer,software,Obsolete,07/06/2023 03:55,07/09/2023 07:41
+CORS-2680,Task,Closed,CORS,OpenShift Installer,software,Done,07/06/2023 03:37,07/08/2023 03:56
+CORS-2679,Task,Closed,CORS,OpenShift Installer,software,Duplicate,07/06/2023 03:35,04/08/2023 08:10
+CORS-2678,Task,Closed,CORS,OpenShift Installer,software,Done,07/06/2023 03:34,04/08/2023 05:55
+CORS-2676,Task,Closed,CORS,OpenShift Installer,software,Done,06/06/2023 06:46,16/08/2023 09:07
+CORS-2675,Task,Closed,CORS,OpenShift Installer,software,Done,06/06/2023 06:46,16/08/2023 09:06
+CORS-2674,Bug,Closed,CORS,OpenShift Installer,software,Not a Bug,05/06/2023 15:46,16/06/2023 21:18
+CORS-2673,Story,Closed,CORS,OpenShift Installer,software,Done,02/06/2023 19:52,06/07/2023 16:01
+CORS-2672,Story,Closed,CORS,OpenShift Installer,software,Done,01/06/2023 01:10,18/10/2023 01:05
+CORS-2670,Task,Closed,CORS,OpenShift Installer,software,Done,30/05/2023 01:58,02/06/2023 02:23
+CORS-2669,Task,Closed,CORS,OpenShift Installer,software,Obsolete,30/05/2023 01:57,02/06/2023 02:19
+CORS-2668,Task,Closed,CORS,OpenShift Installer,software,Done,30/05/2023 01:57,02/06/2023 02:19
+CORS-2667,Epic,Closed,CORS,OpenShift Installer,software,Done,26/05/2023 08:58,05/09/2023 07:27
+CORS-2666,Epic,Closed,CORS,OpenShift Installer,software,Done,25/05/2023 08:44,31/08/2023 13:51
+CORS-2665,Story,Closed,CORS,OpenShift Installer,software,Done,25/05/2023 05:48,20/07/2023 08:22
+CORS-2664,Story,Closed,CORS,OpenShift Installer,software,Done,24/05/2023 18:20,27/07/2023 16:30
+CORS-2663,Spike,Closed,CORS,OpenShift Installer,software,Done,24/05/2023 17:24,27/07/2023 14:33
+CORS-2662,Epic,Closed,CORS,OpenShift Installer,software,Done,24/05/2023 16:27,16/07/2024 14:45
+CORS-2661,Spike,Closed,CORS,OpenShift Installer,software,Done,23/05/2023 16:11,28/06/2023 14:53
+CORS-2660,Story,Closed,CORS,OpenShift Installer,software,Done,23/05/2023 12:55,17/08/2023 16:28
+CORS-2659,Story,Closed,CORS,OpenShift Installer,software,Won't Do,08/05/2023 18:00,17/07/2023 19:26
+CORS-2658,Epic,To Do,CORS,OpenShift Installer,software,,08/05/2023 18:00,
+CORS-2657,Story,Closed,CORS,OpenShift Installer,software,Won't Do,08/05/2023 17:59,17/07/2023 19:26
+CORS-2656,Story,Closed,CORS,OpenShift Installer,software,Done,08/05/2023 12:47,10/07/2023 17:22
+CORS-2655,Task,Closed,CORS,OpenShift Installer,software,Done,04/05/2023 09:50,30/06/2023 01:28
+CORS-2654,Task,Closed,CORS,OpenShift Installer,software,Won't Do,04/05/2023 09:50,14/09/2023 06:53
+CORS-2653,Task,Closed,CORS,OpenShift Installer,software,Done,04/05/2023 09:50,30/06/2023 01:33
+CORS-2651,Story,Closed,CORS,OpenShift Installer,software,Done,03/05/2023 23:38,02/10/2023 16:41
+CORS-2650,Story,Closed,CORS,OpenShift Installer,software,Done,03/05/2023 22:05,20/07/2023 14:56
+CORS-2647,Story,Closed,CORS,OpenShift Installer,software,Done,03/05/2023 21:59,06/07/2023 15:55
+CORS-2646,Story,Closed,CORS,OpenShift Installer,software,Done,03/05/2023 21:58,02/06/2023 19:24
+CORS-2645,Story,Closed,CORS,OpenShift Installer,software,Done,03/05/2023 21:51,06/07/2023 15:54
+CORS-2644,Story,Closed,CORS,OpenShift Installer,software,Done,03/05/2023 21:44,15/06/2023 20:33
+CORS-2643,Story,Closed,CORS,OpenShift Installer,software,Done,03/05/2023 21:40,15/06/2023 20:33
+CORS-2642,Story,Closed,CORS,OpenShift Installer,software,Done,03/05/2023 21:34,15/06/2023 20:33
+CORS-2641,Spike,Closed,CORS,OpenShift Installer,software,Obsolete,01/05/2023 14:36,14/12/2023 15:07
+CORS-2640,Epic,Release Pending,CORS,OpenShift Installer,software,Done,28/04/2023 05:37,07/09/2023 01:01
+CORS-2639,Story,Closed,CORS,OpenShift Installer,software,Done,27/04/2023 13:25,20/07/2023 08:22
+CORS-2638,Story,Closed,CORS,OpenShift Installer,software,Done,27/04/2023 01:17,05/06/2023 15:12
+CORS-2637,Story,Closed,CORS,OpenShift Installer,software,Done,27/04/2023 01:14,06/07/2023 16:53
+CORS-2636,Story,Closed,CORS,OpenShift Installer,software,Won't Do,27/04/2023 01:03,22/05/2023 18:36
+CORS-2635,Story,Closed,CORS,OpenShift Installer,software,Won't Do,27/04/2023 00:52,22/05/2023 18:35
+CORS-2634,Story,Closed,CORS,OpenShift Installer,software,Done,27/04/2023 00:46,11/05/2023 19:50
+CORS-2633,Story,Closed,CORS,OpenShift Installer,software,Done,26/04/2023 23:17,28/09/2023 14:13
+CORS-2632,Story,Closed,CORS,OpenShift Installer,software,Done,26/04/2023 18:30,06/07/2023 16:53
+CORS-2631,Story,Closed,CORS,OpenShift Installer,software,Done,26/04/2023 18:20,06/07/2023 16:53
+CORS-2630,Task,Closed,CORS,OpenShift Installer,software,Done,23/04/2023 05:47,04/08/2023 08:01
+CORS-2629,Task,Closed,CORS,OpenShift Installer,software,Done,23/04/2023 05:46,04/08/2023 07:49
+CORS-2628,Story,Closed,CORS,OpenShift Installer,software,Done,21/04/2023 21:02,27/07/2023 16:36
+CORS-2626,Task,To Do,CORS,OpenShift Installer,software,,20/04/2023 01:40,
+CORS-2625,Task,Closed,CORS,OpenShift Installer,software,Obsolete,20/04/2023 01:39,23/05/2023 04:04
+CORS-2624,Task,Closed,CORS,OpenShift Installer,software,Done,20/04/2023 01:38,07/09/2023 01:00
+CORS-2623,Task,Closed,CORS,OpenShift Installer,software,Obsolete,20/04/2023 01:38,06/05/2023 00:56
+CORS-2622,Task,Closed,CORS,OpenShift Installer,software,Won't Do,20/04/2023 01:37,14/09/2023 06:52
+CORS-2621,Task,Closed,CORS,OpenShift Installer,software,Done,20/04/2023 01:36,10/08/2023 01:21
+CORS-2620,Task,Closed,CORS,OpenShift Installer,software,Done,20/04/2023 01:35,11/09/2023 01:03
+CORS-2619,Task,Closed,CORS,OpenShift Installer,software,Won't Do,20/04/2023 01:35,18/10/2023 12:29
+CORS-2618,Task,Closed,CORS,OpenShift Installer,software,Done,20/04/2023 01:34,18/10/2023 13:07
+CORS-2617,Task,Closed,CORS,OpenShift Installer,software,Obsolete,20/04/2023 01:31,09/04/2024 01:37
+CORS-2616,Task,Closed,CORS,OpenShift Installer,software,Obsolete,20/04/2023 01:30,09/04/2024 01:34
+CORS-2615,Task,Closed,CORS,OpenShift Installer,software,Obsolete,20/04/2023 01:29,09/04/2024 01:33
+CORS-2614,Spike,Closed,CORS,OpenShift Installer,software,Done,19/04/2023 21:09,03/05/2023 22:08
+CORS-2613,Epic,Closed,CORS,OpenShift Installer,software,Done,19/04/2023 21:07,07/09/2023 07:39
+CORS-2612,Spike,Closed,CORS,OpenShift Installer,software,Done,19/04/2023 16:43,05/05/2023 11:30
+CORS-2611,Spike,Closed,CORS,OpenShift Installer,software,Done,19/04/2023 16:33,31/05/2023 11:10
+CORS-2610,Spike,Closed,CORS,OpenShift Installer,software,Done,19/04/2023 16:22,05/05/2023 15:25
+CORS-2609,Task,Closed,CORS,OpenShift Installer,software,Done,18/04/2023 04:14,18/04/2023 04:16
+CORS-2608,Task,Closed,CORS,OpenShift Installer,software,Done,18/04/2023 04:07,18/04/2023 04:11
+CORS-2607,Story,To Do,CORS,OpenShift Installer,software,,17/04/2023 14:13,
+CORS-2606,Epic,New,CORS,OpenShift Installer,software,,17/04/2023 14:05,
+CORS-2605,Task,Closed,CORS,OpenShift Installer,software,Done,17/04/2023 10:01,19/04/2023 02:33
+CORS-2604,Story,Closed,CORS,OpenShift Installer,software,Done,13/04/2023 14:26,27/02/2024 01:31
+CORS-2603,Epic,In Progress,CORS,OpenShift Installer,software,,07/04/2023 14:47,
+CORS-2602,Epic,Closed,CORS,OpenShift Installer,software,Done,05/04/2023 12:36,30/08/2023 06:29
+CORS-2601,Epic,Closed,CORS,OpenShift Installer,software,Done,05/04/2023 09:44,16/07/2024 14:39
+CORS-2599,Story,Closed,CORS,OpenShift Installer,software,Obsolete,04/04/2023 23:44,27/03/2024 23:03
+CORS-2598,Epic,Closed,CORS,OpenShift Installer,software,Done,04/04/2023 14:25,20/09/2023 18:55
+CORS-2597,Spike,To Do,CORS,OpenShift Installer,software,,31/03/2023 15:10,
+CORS-2596,Task,Closed,CORS,OpenShift Installer,software,Done,29/03/2023 03:53,10/04/2023 01:28
+CORS-2593,Epic,Closed,CORS,OpenShift Installer,software,Done,28/03/2023 09:15,04/04/2023 07:08
+CORS-2592,Story,Closed,CORS,OpenShift Installer,software,Done,24/03/2023 22:40,05/12/2023 02:37
+CORS-2591,Epic,Closed,CORS,OpenShift Installer,software,Obsolete,24/03/2023 10:45,03/08/2023 18:49
+CORS-2590,Story,Closed,CORS,OpenShift Installer,software,Done,23/03/2023 16:55,31/10/2023 15:02
+CORS-2589,Story,Closed,CORS,OpenShift Installer,software,Obsolete,23/03/2023 16:47,12/04/2023 19:59
+CORS-2588,Epic,New,CORS,OpenShift Installer,software,,16/03/2023 19:48,
+CORS-2587,Story,To Do,CORS,OpenShift Installer,software,,15/03/2023 20:58,
+CORS-2586,Story,To Do,CORS,OpenShift Installer,software,,15/03/2023 20:57,
+CORS-2585,Story,To Do,CORS,OpenShift Installer,software,,15/03/2023 20:56,
+CORS-2584,Story,Closed,CORS,OpenShift Installer,software,Won't Do,15/03/2023 20:55,20/07/2023 19:29
+CORS-2583,Story,To Do,CORS,OpenShift Installer,software,,15/03/2023 20:53,
+CORS-2582,Story,To Do,CORS,OpenShift Installer,software,,15/03/2023 20:50,
+CORS-2581,Epic,New,CORS,OpenShift Installer,software,,12/04/2022 14:31,
+CORS-2580,Epic,Closed,CORS,OpenShift Installer,software,Done,09/03/2023 11:15,30/01/2024 03:27
+CORS-2579,Epic,Closed,CORS,OpenShift Installer,software,Obsolete,08/03/2023 23:29,27/04/2023 19:59
+CORS-2577,Task,Closed,CORS,OpenShift Installer,software,Done,08/03/2023 00:48,08/03/2023 01:01
+CORS-2576,Epic,New,CORS,OpenShift Installer,software,,07/03/2023 11:56,
+CORS-2575,Task,Closed,CORS,OpenShift Installer,software,Done,06/03/2023 06:24,17/03/2023 08:16
+CORS-2574,Task,Closed,CORS,OpenShift Installer,software,Done,06/03/2023 06:09,06/03/2023 08:27
+CORS-2573,Story,Closed,CORS,OpenShift Installer,software,Won't Do,03/03/2023 22:04,28/04/2023 18:31
+CORS-2572,Story,Closed,CORS,OpenShift Installer,software,Done,03/03/2023 22:02,17/08/2023 16:36
+CORS-2571,Task,Closed,CORS,OpenShift Installer,software,Done,03/03/2023 07:29,07/03/2023 07:04
+CORS-2569,Task,Closed,CORS,OpenShift Installer,software,Done,01/03/2023 05:37,01/03/2023 05:38
+CORS-2568,Task,Closed,CORS,OpenShift Installer,software,Done,01/03/2023 05:35,01/03/2023 05:39
+CORS-2567,Task,Closed,CORS,OpenShift Installer,software,Done,01/03/2023 05:34,01/03/2023 05:41
+CORS-2566,Task,Closed,CORS,OpenShift Installer,software,Done,01/03/2023 05:33,01/03/2023 05:42
+CORS-2564,Epic,Closed,CORS,OpenShift Installer,software,Done,21/02/2023 16:27,18/10/2023 14:14
+CORS-2563,Task,Closed,CORS,OpenShift Installer,software,Done,20/02/2023 08:01,07/03/2023 10:11
+CORS-2562,Task,Closed,CORS,OpenShift Installer,software,Can't Do,20/02/2023 07:54,15/09/2023 05:56
+CORS-2561,Task,Closed,CORS,OpenShift Installer,software,Done,20/02/2023 07:53,09/03/2023 04:50
+CORS-2560,Task,Closed,CORS,OpenShift Installer,software,Done,20/02/2023 02:34,06/03/2023 07:56
+CORS-2559,Task,Closed,CORS,OpenShift Installer,software,Done,17/02/2023 09:53,23/03/2023 01:33
+CORS-2558,Task,Closed,CORS,OpenShift Installer,software,Done,17/02/2023 06:43,17/02/2023 09:20
+CORS-2557,Task,Closed,CORS,OpenShift Installer,software,Done,17/02/2023 05:41,07/03/2023 06:37
+CORS-2556,Task,Closed,CORS,OpenShift Installer,software,Obsolete,17/02/2023 05:30,22/02/2023 13:57
+CORS-2555,Task,Closed,CORS,OpenShift Installer,software,Done,17/02/2023 05:29,07/03/2023 08:11
+CORS-2554,Task,Closed,CORS,OpenShift Installer,software,Obsolete,17/02/2023 05:21,22/02/2023 13:55
+CORS-2553,Task,Closed,CORS,OpenShift Installer,software,Done,17/02/2023 02:08,17/02/2023 11:02
+CORS-2552,Task,Closed,CORS,OpenShift Installer,software,Done,17/02/2023 02:07,20/02/2023 08:38
+CORS-2551,Spike,Closed,CORS,OpenShift Installer,software,Done,16/02/2023 16:54,10/08/2023 14:07
+CORS-2550,Epic,Release Pending,CORS,OpenShift Installer,software,Done,16/02/2023 14:41,31/10/2023 02:09
+CORS-2549,Epic,Release Pending,CORS,OpenShift Installer,software,Done,16/02/2023 14:29,29/03/2023 02:29
+CORS-2548,Task,Closed,CORS,OpenShift Installer,software,Done,16/02/2023 13:41,27/03/2023 04:12
+CORS-2547,Task,Closed,CORS,OpenShift Installer,software,Done,16/02/2023 13:41,17/02/2023 01:11
+CORS-2545,Task,Closed,CORS,OpenShift Installer,software,Done,16/02/2023 07:20,27/02/2023 01:04
+CORS-2544,Task,Closed,CORS,OpenShift Installer,software,Obsolete,16/02/2023 06:32,16/02/2023 06:33
+CORS-2543,Task,Closed,CORS,OpenShift Installer,software,Done,16/02/2023 03:29,28/02/2023 09:13
+CORS-2542,Task,Closed,CORS,OpenShift Installer,software,Done,16/02/2023 03:28,28/02/2023 09:06
+CORS-2541,Task,Closed,CORS,OpenShift Installer,software,Done,16/02/2023 02:39,16/02/2023 02:43
+CORS-2539,Task,Closed,CORS,OpenShift Installer,software,Done,15/02/2023 10:00,16/02/2023 02:37
+CORS-2538,Task,Closed,CORS,OpenShift Installer,software,Done,15/02/2023 09:51,15/02/2023 09:53
+CORS-2537,Task,Closed,CORS,OpenShift Installer,software,Done,15/02/2023 09:15,31/10/2023 10:26
+CORS-2536,Task,Closed,CORS,OpenShift Installer,software,Done,15/02/2023 09:14,30/08/2023 08:54
+CORS-2535,Task,Closed,CORS,OpenShift Installer,software,Done,15/02/2023 08:48,15/02/2023 08:49
+CORS-2534,Task,Closed,CORS,OpenShift Installer,software,Done,15/02/2023 08:47,15/02/2023 09:02
+CORS-2533,Task,Closed,CORS,OpenShift Installer,software,Done,15/02/2023 08:31,15/02/2023 08:32
+CORS-2532,Task,Closed,CORS,OpenShift Installer,software,Done,15/02/2023 08:26,15/02/2023 08:30
+CORS-2531,Task,Closed,CORS,OpenShift Installer,software,Done,15/02/2023 08:02,21/02/2023 06:18
+CORS-2530,Task,Closed,CORS,OpenShift Installer,software,Done,15/02/2023 07:59,15/02/2023 08:00
+CORS-2529,Task,Closed,CORS,OpenShift Installer,software,Done,15/02/2023 07:34,15/02/2023 07:37
+CORS-2528,Task,Closed,CORS,OpenShift Installer,software,Done,15/02/2023 07:30,15/02/2023 07:31
+CORS-2527,Task,Closed,CORS,OpenShift Installer,software,Done,15/02/2023 07:24,15/02/2023 07:29
+CORS-2526,Task,Closed,CORS,OpenShift Installer,software,Done,15/02/2023 07:22,15/02/2023 07:23
+CORS-2525,Story,Closed,CORS,OpenShift Installer,software,Done,13/02/2023 17:09,06/12/2023 19:15
+CORS-2524,Story,To Do,CORS,OpenShift Installer,software,,13/02/2023 16:46,
+CORS-2522,Spike,To Do,CORS,OpenShift Installer,software,,10/02/2023 19:39,
+CORS-2521,Story,Closed,CORS,OpenShift Installer,software,Obsolete,10/02/2023 19:33,10/02/2023 19:34
+CORS-2520,Epic,Closed,CORS,OpenShift Installer,software,Done,10/02/2023 11:38,09/03/2023 04:51
+CORS-2518,Epic,New,CORS,OpenShift Installer,software,,08/02/2023 16:01,
+CORS-2517,Story,Closed,CORS,OpenShift Installer,software,Done,09/02/2023 17:31,02/03/2023 23:21
+CORS-2515,Task,Closed,CORS,OpenShift Installer,software,Obsolete,09/02/2023 09:00,02/03/2023 13:03
+CORS-2514,Task,Closed,CORS,OpenShift Installer,software,Obsolete,09/02/2023 09:00,02/03/2023 13:03
+CORS-2513,Task,Closed,CORS,OpenShift Installer,software,Obsolete,09/02/2023 08:59,02/03/2023 13:03
+CORS-2512,Task,Closed,CORS,OpenShift Installer,software,Obsolete,09/02/2023 08:55,20/12/2023 05:12
+CORS-2511,Task,Closed,CORS,OpenShift Installer,software,Obsolete,09/02/2023 08:55,20/12/2023 05:12
+CORS-2510,Task,Closed,CORS,OpenShift Installer,software,Obsolete,09/02/2023 08:55,20/12/2023 05:12
+CORS-2509,Story,Closed,CORS,OpenShift Installer,software,Obsolete,08/02/2023 12:38,08/04/2024 10:58
+CORS-2508,Story,To Do,CORS,OpenShift Installer,software,,08/02/2023 12:04,
+CORS-2507,Task,Closed,CORS,OpenShift Installer,software,Done,08/02/2023 10:28,27/02/2023 06:39
+CORS-2506,Task,Closed,CORS,OpenShift Installer,software,Done,08/02/2023 10:12,08/02/2023 11:23
+CORS-2505,Task,Closed,CORS,OpenShift Installer,software,Done,08/02/2023 09:32,09/02/2023 05:35
+CORS-2504,Task,Closed,CORS,OpenShift Installer,software,Done,08/02/2023 07:10,09/02/2023 02:09
+CORS-2503,Story,Closed,CORS,OpenShift Installer,software,Done,07/02/2023 18:16,31/07/2023 17:57
+CORS-2502,Story,Closed,CORS,OpenShift Installer,software,Obsolete,07/02/2023 17:50,15/06/2023 20:42
+CORS-2501,Spike,Closed,CORS,OpenShift Installer,software,Done,06/02/2023 15:15,14/03/2023 17:28
+CORS-2498,Epic,Release Pending,CORS,OpenShift Installer,software,Done,31/01/2023 10:02,28/03/2023 13:52
+CORS-2496,Story,Closed,CORS,OpenShift Installer,software,Done,30/01/2023 16:09,22/02/2023 20:34
+CORS-2484,Story,Closed,CORS,OpenShift Installer,software,Done,19/01/2023 15:34,20/02/2023 17:43
+CORS-2483,Story,Closed,CORS,OpenShift Installer,software,Done,19/01/2023 15:32,14/03/2023 17:05
+CORS-2482,Story,Closed,CORS,OpenShift Installer,software,Done,19/01/2023 15:30,23/03/2023 17:24
+CORS-2481,Story,Closed,CORS,OpenShift Installer,software,Done,19/01/2023 15:27,02/03/2023 18:27
+CORS-2480,Story,Closed,CORS,OpenShift Installer,software,Obsolete,19/01/2023 15:25,21/03/2023 15:33
+CORS-2478,Story,Closed,CORS,OpenShift Installer,software,Done,17/01/2023 20:34,17/02/2023 01:35
+CORS-2474,Story,Closed,CORS,OpenShift Installer,software,Done,12/01/2023 20:08,23/01/2023 18:31
+CORS-2473,Story,Closed,CORS,OpenShift Installer,software,Done,11/01/2023 20:44,09/02/2023 19:57
+CORS-2472,Story,To Do,CORS,OpenShift Installer,software,,11/01/2023 20:42,
+CORS-2471,Story,Closed,CORS,OpenShift Installer,software,Obsolete,10/01/2023 15:42,18/05/2023 15:31
+CORS-2470,Story,Closed,CORS,OpenShift Installer,software,Done,10/01/2023 15:15,18/01/2023 16:04
+CORS-2469,Story,Closed,CORS,OpenShift Installer,software,Done,10/01/2023 15:11,20/01/2023 14:57
+CORS-2468,Story,Closed,CORS,OpenShift Installer,software,Done,09/01/2023 21:25,15/06/2023 20:44
+CORS-2467,Story,Closed,CORS,OpenShift Installer,software,Done,09/01/2023 21:09,28/02/2023 08:54
+CORS-2466,Story,Closed,CORS,OpenShift Installer,software,Done,09/01/2023 21:07,18/01/2023 19:57
+CORS-2455,Epic,Release Pending,CORS,OpenShift Installer,software,Done,20/12/2022 06:57,18/10/2023 14:22
+CORS-2449,Story,Closed,CORS,OpenShift Installer,software,Done,13/12/2022 17:00,18/01/2023 14:15
+CORS-2446,Bug,Closed,CORS,OpenShift Installer,software,Not a Bug,12/12/2022 08:27,19/12/2022 19:01
+CORS-2445,Story,Closed,CORS,OpenShift Installer,software,Done,10/12/2022 01:46,29/07/2023 00:29
+CORS-2442,Story,Closed,CORS,OpenShift Installer,software,Obsolete,08/12/2022 19:19,08/04/2024 10:57
+CORS-2433,Spike,Closed,CORS,OpenShift Installer,software,Done,07/12/2022 17:11,08/01/2024 16:50
+CORS-2428,Epic,Closed,CORS,OpenShift Installer,software,Done,06/12/2022 17:53,22/03/2024 19:40
+CORS-2424,Epic,Closed,CORS,OpenShift Installer,software,Done,06/12/2022 09:27,30/03/2023 10:55
+CORS-2423,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,05/12/2022 15:24,07/11/2023 11:49
+CORS-2420,Epic,Release Pending,CORS,OpenShift Installer,software,Done,29/11/2022 16:35,15/02/2023 08:34
+CORS-2419,Epic,Release Pending,CORS,OpenShift Installer,software,Done,29/11/2022 16:34,28/03/2023 09:43
+CORS-2418,Task,Closed,CORS,OpenShift Installer,software,Done,29/11/2022 08:24,29/01/2023 09:00
+CORS-2412,Spike,Closed,CORS,OpenShift Installer,software,Done,28/11/2022 16:05,13/12/2022 18:07
+CORS-2410,Bug,Closed,CORS,OpenShift Installer,software,Duplicate,28/11/2022 06:50,10/01/2023 15:54
+CORS-2409,Story,Closed,CORS,OpenShift Installer,software,Done,23/11/2022 17:10,07/12/2022 14:39
+CORS-2406,Story,Closed,CORS,OpenShift Installer,software,Obsolete,23/11/2022 02:17,08/04/2024 10:57
+CORS-2405,Story,Closed,CORS,OpenShift Installer,software,Done,22/11/2022 16:48,16/01/2023 15:04
+CORS-2397,Spike,Closed,CORS,OpenShift Installer,software,Done,15/11/2022 01:23,20/12/2022 18:04
+CORS-2395,Story,Closed,CORS,OpenShift Installer,software,Done,10/11/2022 15:33,10/11/2022 15:35
+CORS-2394,Epic,Closed,CORS,OpenShift Installer,software,Done,09/11/2022 16:49,30/11/2022 15:04
+CORS-2393,Spike,Closed,CORS,OpenShift Installer,software,Won't Do,09/11/2022 16:38,08/05/2024 18:33
+CORS-2392,Epic,Closed,CORS,OpenShift Installer,software,Duplicate,09/11/2022 16:38,21/11/2022 09:48
+CORS-2391,Story,Closed,CORS,OpenShift Installer,software,Obsolete,09/11/2022 16:01,18/05/2023 15:18
+CORS-2390,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,09/11/2022 15:46,16/07/2024 14:34
+CORS-2389,Epic,New,CORS,OpenShift Installer,software,,09/11/2022 11:42,
+CORS-2387,Story,Closed,CORS,OpenShift Installer,software,Done,08/11/2022 15:06,06/02/2023 20:33
+CORS-2386,Story,Closed,CORS,OpenShift Installer,software,Done,08/11/2022 15:03,08/03/2023 13:53
+CORS-2385,Story,Closed,CORS,OpenShift Installer,software,Won't Do,07/11/2022 21:02,06/02/2023 20:27
+CORS-2384,Epic,Release Pending,CORS,OpenShift Installer,software,Done,07/11/2022 20:53,08/03/2023 13:54
+CORS-2383,Story,Closed,CORS,OpenShift Installer,software,Done,04/11/2022 18:58,13/04/2023 18:18
+CORS-2382,Story,Closed,CORS,OpenShift Installer,software,Done,04/11/2022 18:53,20/12/2022 18:23
+CORS-2381,Story,Closed,CORS,OpenShift Installer,software,Done,04/11/2022 18:20,14/03/2023 17:28
+CORS-2379,Epic,Closed,CORS,OpenShift Installer,software,Done,02/11/2022 10:54,10/08/2023 15:27
+CORS-2378,Epic,Closed,CORS,OpenShift Installer,software,Done,31/10/2022 14:26,18/09/2023 01:19
+CORS-2375,Story,To Do,CORS,OpenShift Installer,software,,26/10/2022 21:35,
+CORS-2374,Task,To Do,CORS,OpenShift Installer,software,,26/10/2022 09:51,
+CORS-2373,Task,Closed,CORS,OpenShift Installer,software,Done,26/10/2022 03:06,16/11/2022 01:13
+CORS-2372,Story,Closed,CORS,OpenShift Installer,software,Done,25/10/2022 17:00,10/07/2023 17:25
+CORS-2368,Epic,Closed,CORS,OpenShift Installer,software,Done,25/10/2022 15:18,18/05/2023 12:01
+CORS-2367,Epic,To Do,CORS,OpenShift Installer,software,,23/10/2022 15:26,
+CORS-2366,Story,Closed,CORS,OpenShift Installer,software,Done,17/10/2022 12:50,17/01/2023 18:05
+CORS-2361,Epic,Closed,CORS,OpenShift Installer,software,Done,20/10/2022 13:58,15/02/2023 07:12
+CORS-2356,Epic,Closed,CORS,OpenShift Installer,software,Done,10/10/2022 12:48,14/05/2024 07:46
+CORS-2349,Task,Closed,CORS,OpenShift Installer,software,Done,19/10/2022 07:57,16/11/2022 01:05
+CORS-2347,Bug,Closed,CORS,OpenShift Installer,software,Obsolete,18/10/2022 02:23,18/10/2022 02:46
+CORS-2342,Epic,Closed,CORS,OpenShift Installer,software,Done,13/10/2022 14:16,28/02/2023 15:51
+CORS-2341,Story,Closed,CORS,OpenShift Installer,software,Done,12/10/2022 15:32,20/12/2022 00:24
+CORS-2340,Story,Closed,CORS,OpenShift Installer,software,Done,12/10/2022 15:18,20/12/2022 00:22
+CORS-2339,Epic,Closed,CORS,OpenShift Installer,software,Done,11/10/2022 15:09,07/03/2023 15:27
+CORS-2334,Epic,Closed,CORS,OpenShift Installer,software,Done,11/10/2022 14:56,28/02/2023 15:51
+CORS-2329,Epic,Closed,CORS,OpenShift Installer,software,Done,11/10/2022 14:54,28/02/2023 15:51
+CORS-2324,Epic,Closed,CORS,OpenShift Installer,software,Done,11/10/2022 14:50,28/02/2023 15:50
+CORS-2321,Story,Closed,CORS,OpenShift Installer,software,Done,04/10/2022 16:30,03/03/2023 21:13
+CORS-2320,Story,Closed,CORS,OpenShift Installer,software,Done,04/10/2022 16:28,03/03/2023 21:13
+CORS-2317,Story,Closed,CORS,OpenShift Installer,software,Done,03/10/2022 20:56,01/02/2024 05:06
+CORS-2314,Epic,Closed,CORS,OpenShift Installer,software,Done,30/09/2022 14:40,16/07/2024 14:31
+CORS-2313,Epic,Closed,CORS,OpenShift Installer,software,Done,30/09/2022 14:22,16/07/2024 14:30
+CORS-2310,Task,Closed,CORS,OpenShift Installer,software,Done,12/04/2022 20:46,08/11/2022 08:44
+CORS-2309,Task,Closed,CORS,OpenShift Installer,software,Obsolete,26/09/2022 02:32,08/11/2022 08:27
+CORS-2305,Story,Closed,CORS,OpenShift Installer,software,Done,19/09/2022 14:45,09/03/2023 17:42
+CORS-2304,Story,Closed,CORS,OpenShift Installer,software,Won't Do,19/09/2022 14:34,26/10/2022 15:58
+CORS-2299,Epic,Closed,CORS,OpenShift Installer,software,Done,16/09/2022 16:41,17/11/2022 14:14
+CORS-2298,Spike,Closed,CORS,OpenShift Installer,software,Obsolete,16/09/2022 14:43,01/02/2024 15:58
+CORS-2294,Epic,Closed,CORS,OpenShift Installer,software,Done,15/09/2022 13:32,17/11/2022 14:15
+CORS-2293,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,14/09/2022 19:37,16/07/2024 14:30
+CORS-2292,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,14/09/2022 19:37,16/07/2024 14:29
+CORS-2291,Story,Closed,CORS,OpenShift Installer,software,Done,14/09/2022 15:32,19/12/2022 15:33
+CORS-2288,Story,Closed,CORS,OpenShift Installer,software,Done,13/09/2022 01:49,14/09/2022 04:18
+CORS-2281,Spike,Closed,CORS,OpenShift Installer,software,Done,09/09/2022 15:22,02/12/2022 01:37
+CORS-2280,Story,Closed,CORS,OpenShift Installer,software,Done,31/08/2022 20:05,04/10/2022 20:39
+CORS-2279,Story,Closed,CORS,OpenShift Installer,software,Won't Do,30/08/2022 21:39,11/04/2023 19:43
+CORS-2278,Story,Closed,CORS,OpenShift Installer,software,Won't Do,30/08/2022 20:57,11/04/2023 19:43
+CORS-2271,Story,Closed,CORS,OpenShift Installer,software,Done,25/08/2022 20:12,04/10/2022 20:54
+CORS-2263,Epic,Closed,CORS,OpenShift Installer,software,Done,25/08/2022 19:24,17/11/2022 14:22
+CORS-2262,Story,Closed,CORS,OpenShift Installer,software,Duplicate,25/08/2022 16:55,11/09/2022 17:46
+CORS-2261,Story,Closed,CORS,OpenShift Installer,software,Duplicate,25/08/2022 16:46,11/09/2022 17:46
+CORS-2260,Epic,Closed,CORS,OpenShift Installer,software,Done,25/08/2022 16:39,17/01/2023 14:22
+CORS-2254,Story,Closed,CORS,OpenShift Installer,software,Done,23/08/2022 17:04,06/10/2022 16:46
+CORS-2253,Story,Closed,CORS,OpenShift Installer,software,Done,23/08/2022 16:59,19/09/2022 14:36
+CORS-2252,Epic,Closed,CORS,OpenShift Installer,software,Done,23/08/2022 16:58,17/11/2022 14:22
+CORS-2250,Story,Closed,CORS,OpenShift Installer,software,Done,19/08/2022 13:47,26/08/2022 20:13
+CORS-2249,Epic,Release Pending,CORS,OpenShift Installer,software,Done,08/06/2022 13:44,28/03/2023 09:41
+CORS-2242,Story,Closed,CORS,OpenShift Installer,software,Obsolete,15/08/2022 14:40,03/04/2023 15:01
+CORS-2241,Story,Closed,CORS,OpenShift Installer,software,Obsolete,15/08/2022 14:37,03/04/2023 15:00
+CORS-2239,Story,Closed,CORS,OpenShift Installer,software,Done,09/08/2022 19:32,21/08/2023 11:56
+CORS-2238,Story,Closed,CORS,OpenShift Installer,software,Obsolete,08/08/2022 22:25,19/09/2022 19:46
+CORS-2237,Spike,Closed,CORS,OpenShift Installer,software,Done,05/08/2022 20:08,19/09/2022 14:58
+CORS-2236,Story,Closed,CORS,OpenShift Installer,software,Done,05/08/2022 19:43,15/09/2022 17:03
+CORS-2232,Story,Closed,CORS,OpenShift Installer,software,Obsolete,05/08/2022 17:47,25/01/2024 16:52
+CORS-2231,Story,Closed,CORS,OpenShift Installer,software,Obsolete,04/08/2022 23:45,03/04/2023 14:59
+CORS-2225,Epic,Closed,CORS,OpenShift Installer,software,Done,04/08/2022 12:06,28/02/2023 15:52
+CORS-2220,Story,Closed,CORS,OpenShift Installer,software,Done,03/08/2022 14:30,23/08/2022 15:15
+CORS-2219,Story,Closed,CORS,OpenShift Installer,software,Done,03/08/2022 10:32,03/08/2022 10:33
+CORS-2215,Story,Closed,CORS,OpenShift Installer,software,Done,03/08/2022 08:43,03/08/2022 08:44
+CORS-2211,Epic,Closed,CORS,OpenShift Installer,software,Done,03/08/2022 01:15,17/11/2022 12:57
+CORS-2210,Epic,Closed,CORS,OpenShift Installer,software,Obsolete,03/08/2022 01:03,19/09/2022 19:52
+CORS-2209,Epic,Closed,CORS,OpenShift Installer,software,Done,03/08/2022 00:53,17/11/2022 14:23
+CORS-2207,Story,Closed,CORS,OpenShift Installer,software,Done,02/08/2022 15:00,02/08/2022 18:16
+CORS-2203,Story,Closed,CORS,OpenShift Installer,software,Done,02/08/2022 14:56,02/08/2022 14:58
+CORS-2199,Story,Closed,CORS,OpenShift Installer,software,Done,02/08/2022 10:16,02/08/2022 14:22
+CORS-2192,Story,Closed,CORS,OpenShift Installer,software,Done,02/08/2022 08:45,02/08/2022 09:21
+CORS-2191,Story,Closed,CORS,OpenShift Installer,software,Done,01/08/2022 16:19,01/08/2022 17:09
+CORS-2187,Story,Closed,CORS,OpenShift Installer,software,Done,01/08/2022 15:01,01/08/2022 15:56
+CORS-2180,Story,Closed,CORS,OpenShift Installer,software,Done,01/08/2022 13:21,01/08/2022 14:46
+CORS-2179,Epic,Closed,CORS,OpenShift Installer,software,Done,01/08/2022 09:39,17/11/2022 14:24
+CORS-2178,Epic,Closed,CORS,OpenShift Installer,software,Done,01/08/2022 09:38,17/11/2022 14:11
+CORS-2177,Epic,Closed,CORS,OpenShift Installer,software,Done,01/08/2022 09:37,17/11/2022 14:11
+CORS-2176,Epic,Closed,CORS,OpenShift Installer,software,Done,01/08/2022 09:36,17/11/2022 14:10
+CORS-2175,Epic,Closed,CORS,OpenShift Installer,software,Done,01/08/2022 09:34,17/11/2022 14:09
+CORS-2174,Epic,Closed,CORS,OpenShift Installer,software,Done,01/08/2022 09:33,17/11/2022 14:36
+CORS-2173,Epic,Closed,CORS,OpenShift Installer,software,Done,01/08/2022 09:32,17/11/2022 14:08
+CORS-2172,Epic,Closed,CORS,OpenShift Installer,software,Done,01/08/2022 09:29,17/11/2022 14:06
+CORS-2171,Epic,Closed,CORS,OpenShift Installer,software,Done,01/08/2022 09:28,17/11/2022 14:34
+CORS-2170,Story,Closed,CORS,OpenShift Installer,software,Obsolete,29/07/2022 16:24,01/11/2022 17:12
+CORS-2157,Story,Closed,CORS,OpenShift Installer,software,Obsolete,19/07/2022 21:38,03/08/2022 17:33
+CORS-2150,Story,Closed,CORS,OpenShift Installer,software,Won't Do,19/07/2022 15:23,26/10/2022 16:35
+CORS-2147,Story,Closed,CORS,OpenShift Installer,software,Done,19/07/2022 14:57,09/12/2022 16:25
+CORS-2138,Story,Closed,CORS,OpenShift Installer,software,Obsolete,19/07/2022 13:55,05/08/2022 19:28
+CORS-2132,Story,Closed,CORS,OpenShift Installer,software,Done,18/07/2022 17:48,05/08/2022 20:16
+CORS-2130,Story,Closed,CORS,OpenShift Installer,software,Obsolete,18/07/2022 17:04,27/10/2022 16:45
+CORS-2129,Story,Closed,CORS,OpenShift Installer,software,Obsolete,18/07/2022 17:01,23/03/2023 16:40
+CORS-2128,Story,Closed,CORS,OpenShift Installer,software,Done,18/07/2022 16:57,02/09/2022 13:23
+CORS-2127,Story,Closed,CORS,OpenShift Installer,software,Obsolete,18/07/2022 15:29,03/08/2022 17:33
+CORS-2126,Story,Closed,CORS,OpenShift Installer,software,Obsolete,11/07/2022 20:58,03/08/2022 13:45
+CORS-2125,Story,Closed,CORS,OpenShift Installer,software,Done,11/07/2022 20:44,03/08/2022 17:38
+CORS-2124,Epic,Closed,CORS,OpenShift Installer,software,Done,11/07/2022 19:45,04/04/2023 17:00
+CORS-2123,Story,Closed,CORS,OpenShift Installer,software,Obsolete,11/07/2022 14:17,03/08/2022 17:33
+CORS-2122,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,08/07/2022 00:24,11/04/2023 10:36
+CORS-2121,Spike,Closed,CORS,OpenShift Installer,software,Done,07/07/2022 17:32,18/07/2022 19:05
+CORS-2116,Spike,Closed,CORS,OpenShift Installer,software,Obsolete,06/07/2022 17:46,19/07/2022 14:43
+CORS-2113,Story,Closed,CORS,OpenShift Installer,software,Obsolete,05/07/2022 19:14,19/07/2022 17:18
+CORS-2112,Spike,Closed,CORS,OpenShift Installer,software,Done,05/07/2022 14:27,18/07/2022 13:02
+CORS-2109,Story,Closed,CORS,OpenShift Installer,software,Duplicate,01/07/2022 15:34,27/07/2023 14:49
+CORS-2108,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,30/06/2022 08:36,01/11/2022 11:21
+CORS-2107,Story,Closed,CORS,OpenShift Installer,software,Done,29/06/2022 18:35,23/08/2022 17:30
+CORS-2106,Story,Closed,CORS,OpenShift Installer,software,Done,29/06/2022 18:30,02/03/2023 13:16
+CORS-2105,Story,Closed,CORS,OpenShift Installer,software,Done,29/06/2022 18:16,23/08/2022 14:46
+CORS-2104,Story,Closed,CORS,OpenShift Installer,software,Done,29/06/2022 18:04,23/08/2022 14:46
+CORS-2103,Story,Closed,CORS,OpenShift Installer,software,Done,24/06/2022 13:53,19/07/2022 17:50
+CORS-2102,Story,Closed,CORS,OpenShift Installer,software,Duplicate,24/06/2022 13:52,03/11/2022 14:43
+CORS-2101,Story,Closed,CORS,OpenShift Installer,software,Duplicate,24/06/2022 13:51,03/11/2022 14:42
+CORS-2100,Epic,Closed,CORS,OpenShift Installer,software,Done,24/06/2022 13:50,02/03/2023 13:17
+CORS-2099,Spike,Closed,CORS,OpenShift Installer,software,Obsolete,23/06/2022 17:50,03/08/2022 17:32
+CORS-2098,Spike,Closed,CORS,OpenShift Installer,software,Done,23/06/2022 17:49,20/07/2022 11:22
+CORS-2097,Spike,Closed,CORS,OpenShift Installer,software,Done,23/06/2022 17:48,01/07/2022 19:11
+CORS-2096,Spike,Closed,CORS,OpenShift Installer,software,Done,23/06/2022 17:48,05/08/2022 20:06
+CORS-2094,Spike,Closed,CORS,OpenShift Installer,software,Done,23/06/2022 17:44,08/10/2022 14:44
+CORS-2093,Spike,Closed,CORS,OpenShift Installer,software,Done,23/06/2022 17:44,08/07/2022 15:36
+CORS-2092,Story,Closed,CORS,OpenShift Installer,software,Done,23/06/2022 17:42,04/08/2022 14:21
+CORS-2091,Story,Closed,CORS,OpenShift Installer,software,Done,23/06/2022 17:27,06/10/2022 16:55
+CORS-2090,Story,Closed,CORS,OpenShift Installer,software,Done,23/06/2022 16:57,03/03/2023 21:13
+CORS-2089,Story,Closed,CORS,OpenShift Installer,software,Done,23/06/2022 16:53,03/03/2023 21:13
+CORS-2088,Task,Closed,CORS,OpenShift Installer,software,Done,15/06/2022 14:29,23/09/2022 17:00
+CORS-2087,Epic,New,CORS,OpenShift Installer,software,,15/06/2022 14:18,
+CORS-2084,Story,Closed,CORS,OpenShift Installer,software,Done,09/06/2022 18:46,20/07/2022 04:28
+CORS-2080,Epic,Release Pending,CORS,OpenShift Installer,software,Done,08/06/2022 08:24,28/03/2023 09:50
+CORS-2079,Bug,Closed,CORS,OpenShift Installer,software,Duplicate,03/06/2022 01:09,06/06/2022 19:27
+CORS-2074,Story,Closed,CORS,OpenShift Installer,software,Done,02/06/2022 16:59,22/08/2022 19:20
+CORS-2073,Story,Closed,CORS,OpenShift Installer,software,Done,02/06/2022 16:48,06/10/2022 18:22
+CORS-2072,Story,Closed,CORS,OpenShift Installer,software,Done,23/05/2022 22:22,13/02/2023 14:19
+CORS-2071,Epic,Closed,CORS,OpenShift Installer,software,Done,18/05/2022 22:41,17/11/2022 14:13
+CORS-2070,Story,Closed,CORS,OpenShift Installer,software,Obsolete,18/05/2022 20:10,19/09/2022 19:52
+CORS-2069,Story,Closed,CORS,OpenShift Installer,software,Done,18/05/2022 18:19,02/09/2022 01:39
+CORS-2068,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,28/03/2022 16:18,03/08/2022 14:48
+CORS-2067,Epic,Closed,CORS,OpenShift Installer,software,Done,16/05/2022 14:50,17/11/2022 14:36
+CORS-2063,Spike,Closed,CORS,OpenShift Installer,software,Obsolete,13/05/2022 19:59,02/11/2022 15:36
+CORS-2062,Story,Code Review,CORS,OpenShift Installer,software,,13/05/2022 19:48,
+CORS-2057,Story,Closed,CORS,OpenShift Installer,software,Done,12/05/2022 17:43,24/06/2022 21:59
+CORS-2056,Story,Closed,CORS,OpenShift Installer,software,Obsolete,12/05/2022 16:47,03/04/2023 14:18
+CORS-2055,Story,Closed,CORS,OpenShift Installer,software,Obsolete,12/05/2022 16:46,19/01/2023 17:18
+CORS-2054,Story,Closed,CORS,OpenShift Installer,software,Duplicate,12/05/2022 16:44,17/05/2022 16:39
+CORS-2053,Story,Closed,CORS,OpenShift Installer,software,Obsolete,12/05/2022 16:39,19/01/2023 17:13
+CORS-2052,Story,Closed,CORS,OpenShift Installer,software,Done,12/05/2022 16:37,02/06/2022 15:39
+CORS-2050,Story,Closed,CORS,OpenShift Installer,software,Done,11/05/2022 19:16,19/09/2022 15:00
+CORS-2049,Story,Closed,CORS,OpenShift Installer,software,Done,10/05/2022 17:30,26/01/2023 18:01
+CORS-2048,Story,Closed,CORS,OpenShift Installer,software,Done,09/05/2022 19:39,25/08/2022 12:20
+CORS-2047,Story,Closed,CORS,OpenShift Installer,software,Done,09/05/2022 19:30,23/01/2023 19:48
+CORS-2046,Story,Closed,CORS,OpenShift Installer,software,Done,09/05/2022 19:13,10/10/2022 13:06
+CORS-2045,Story,Closed,CORS,OpenShift Installer,software,Done,09/05/2022 18:57,08/08/2022 14:21
+CORS-2044,Story,Closed,CORS,OpenShift Installer,software,Done,09/05/2022 18:56,23/08/2022 14:36
+CORS-2043,Story,Closed,CORS,OpenShift Installer,software,Done,09/05/2022 18:48,15/09/2022 16:23
+CORS-2042,Story,Closed,CORS,OpenShift Installer,software,Obsolete,09/05/2022 18:33,19/09/2022 19:52
+CORS-2041,Story,Closed,CORS,OpenShift Installer,software,Obsolete,09/05/2022 18:33,19/09/2022 19:52
+CORS-2040,Story,Closed,CORS,OpenShift Installer,software,Done,09/05/2022 18:21,29/09/2022 17:04
+CORS-2039,Story,Closed,CORS,OpenShift Installer,software,Done,09/05/2022 18:20,29/08/2022 19:00
+CORS-2038,Story,Closed,CORS,OpenShift Installer,software,Done,09/05/2022 18:13,01/09/2022 02:44
+CORS-2037,Story,Closed,CORS,OpenShift Installer,software,Done,09/05/2022 18:08,29/08/2022 19:00
+CORS-2036,Story,Closed,CORS,OpenShift Installer,software,Done,09/05/2022 17:58,12/08/2022 01:15
+CORS-2027,Epic,Closed,CORS,OpenShift Installer,software,Done,09/05/2022 16:39,17/01/2023 14:22
+CORS-2024,Story,Closed,CORS,OpenShift Installer,software,Done,03/05/2022 16:34,23/06/2022 17:28
+CORS-2022,Story,Closed,CORS,OpenShift Installer,software,Done,28/03/2022 13:11,01/05/2022 06:56
+CORS-2021,Story,Closed,CORS,OpenShift Installer,software,Done,21/04/2022 17:13,11/05/2022 20:29
+CORS-2020,Story,Closed,CORS,OpenShift Installer,software,Obsolete,20/04/2022 20:29,03/04/2023 14:50
+CORS-2019,Story,Closed,CORS,OpenShift Installer,software,Obsolete,20/04/2022 20:11,03/04/2023 14:50
+CORS-2018,Story,Closed,CORS,OpenShift Installer,software,Obsolete,20/04/2022 20:06,03/04/2023 14:49
+CORS-2017,Story,Closed,CORS,OpenShift Installer,software,Obsolete,20/04/2022 20:02,03/04/2023 14:49
+CORS-2013,Story,Closed,CORS,OpenShift Installer,software,Done,11/04/2022 17:47,03/04/2023 14:47
+CORS-2012,Story,Closed,CORS,OpenShift Installer,software,Done,06/04/2022 19:48,20/04/2022 20:31
+CORS-2011,Epic,Closed,CORS,OpenShift Installer,software,Done,06/04/2022 19:30,16/07/2024 14:17
+CORS-2010,Story,Closed,CORS,OpenShift Installer,software,Duplicate,05/04/2022 20:56,17/05/2022 16:33
+CORS-2008,Story,Closed,CORS,OpenShift Installer,software,Done,03/04/2022 09:38,02/06/2022 15:42
+CORS-1998,Story,Closed,CORS,OpenShift Installer,software,Done,31/03/2022 19:00,13/05/2022 12:36
+CORS-1997,Story,Closed,CORS,OpenShift Installer,software,Done,29/03/2022 17:48,21/07/2022 13:31
+CORS-1996,Story,Closed,CORS,OpenShift Installer,software,Done,29/03/2022 17:19,01/08/2022 15:08
+CORS-1993,Story,Closed,CORS,OpenShift Installer,software,Obsolete,29/03/2022 15:57,01/04/2022 14:48
+CORS-1992,Story,Closed,CORS,OpenShift Installer,software,Done,29/03/2022 15:55,23/08/2022 14:03
+CORS-1991,Story,Closed,CORS,OpenShift Installer,software,Done,29/03/2022 15:34,04/04/2022 22:16
+CORS-1989,Epic,Release Pending,CORS,OpenShift Installer,software,Done,28/03/2022 18:51,28/03/2023 09:44
+CORS-1988,Epic,Release Pending,CORS,OpenShift Installer,software,Done,28/03/2022 18:50,29/03/2023 02:07
+CORS-1987,Epic,Closed,CORS,OpenShift Installer,software,Done,28/03/2022 18:47,17/01/2023 14:22
+CORS-1983,Story,Closed,CORS,OpenShift Installer,software,Done,24/03/2022 19:22,30/08/2022 21:41
+CORS-1982,Story,Closed,CORS,OpenShift Installer,software,Obsolete,24/03/2022 13:58,03/04/2023 14:45
+CORS-1981,Story,Closed,CORS,OpenShift Installer,software,Done,22/03/2022 14:48,06/12/2022 18:57
+CORS-1979,Risk,Closed,CORS,OpenShift Installer,software,Done,21/03/2022 14:57,17/01/2023 09:44
+CORS-1978,Story,Closed,CORS,OpenShift Installer,software,Done,18/03/2022 00:41,19/04/2022 17:23
+CORS-1952,Story,Closed,CORS,OpenShift Installer,software,Done,16/03/2022 13:29,03/05/2022 23:40
+CORS-1951,Epic,Closed,CORS,OpenShift Installer,software,Done,14/03/2022 15:21,02/08/2022 14:33
+CORS-1950,Story,Closed,CORS,OpenShift Installer,software,Done,11/03/2022 18:55,25/04/2022 13:01
+CORS-1949,Story,Closed,CORS,OpenShift Installer,software,Done,11/03/2022 18:54,31/03/2022 17:16
+CORS-1948,Story,Closed,CORS,OpenShift Installer,software,Done,11/03/2022 18:35,13/05/2022 01:08
+CORS-1947,Story,Closed,CORS,OpenShift Installer,software,Done,11/03/2022 15:47,13/05/2022 12:35
+CORS-1945,Story,Closed,CORS,OpenShift Installer,software,Done,10/03/2022 19:53,13/05/2022 01:08
+CORS-1944,Story,Closed,CORS,OpenShift Installer,software,Done,10/03/2022 11:33,31/03/2022 17:16
+CORS-1943,Task,Closed,CORS,OpenShift Installer,software,Obsolete,10/03/2022 09:40,10/03/2022 09:59
+CORS-1942,Story,Closed,CORS,OpenShift Installer,software,Done,09/03/2022 19:41,21/07/2022 13:31
+CORS-1941,Story,Closed,CORS,OpenShift Installer,software,Obsolete,09/03/2022 16:18,03/04/2023 14:27
+CORS-1939,Story,Closed,CORS,OpenShift Installer,software,Won't Do,09/03/2022 00:23,22/03/2022 20:47
+CORS-1938,Story,Closed,CORS,OpenShift Installer,software,Done,08/03/2022 19:17,11/04/2022 20:24
+CORS-1937,Story,Closed,CORS,OpenShift Installer,software,Done,08/03/2022 18:59,18/04/2022 15:51
+CORS-1925,Story,Closed,CORS,OpenShift Installer,software,Done,08/03/2022 16:10,13/05/2022 20:03
+CORS-1924,Story,Closed,CORS,OpenShift Installer,software,Done,04/03/2022 21:51,19/04/2022 17:44
+CORS-1923,Story,Closed,CORS,OpenShift Installer,software,Done,04/03/2022 21:50,23/06/2022 17:25
+CORS-1922,Story,Closed,CORS,OpenShift Installer,software,Obsolete,04/03/2022 21:49,03/04/2023 14:19
+CORS-1921,Epic,Closed,CORS,OpenShift Installer,software,Done,04/03/2022 21:46,19/10/2023 13:47
+CORS-1920,Story,Closed,CORS,OpenShift Installer,software,Obsolete,04/03/2022 21:22,03/04/2023 14:57
+CORS-1919,Epic,Closed,CORS,OpenShift Installer,software,Done,04/03/2022 21:12,17/11/2022 15:15
+CORS-1918,Story,Closed,CORS,OpenShift Installer,software,Obsolete,04/03/2022 20:32,26/10/2022 16:53
+CORS-1917,Epic,Closed,CORS,OpenShift Installer,software,Done,03/03/2022 17:47,27/04/2023 19:51
+CORS-1916,Story,Closed,CORS,OpenShift Installer,software,Done,02/03/2022 17:29,13/04/2022 13:33
+CORS-1915,Story,Closed,CORS,OpenShift Installer,software,Done,16/02/2022 08:36,16/02/2022 08:38
+CORS-1914,Story,Closed,CORS,OpenShift Installer,software,Obsolete,14/02/2022 13:17,17/02/2022 10:07
+CORS-1913,Story,Closed,CORS,OpenShift Installer,software,Done,09/02/2022 15:57,01/04/2022 19:59
+CORS-1912,Story,Closed,CORS,OpenShift Installer,software,Done,07/02/2022 20:15,09/01/2023 21:29
+CORS-1911,Story,Closed,CORS,OpenShift Installer,software,Done,07/02/2022 20:10,22/07/2022 07:27
+CORS-1910,Story,Closed,CORS,OpenShift Installer,software,Done,07/02/2022 20:01,14/06/2022 22:57
+CORS-1909,Story,Closed,CORS,OpenShift Installer,software,Done,04/02/2022 22:37,12/04/2022 15:32
+CORS-1908,Story,Closed,CORS,OpenShift Installer,software,Done,04/02/2022 22:31,07/03/2022 18:52
+CORS-1907,Story,Closed,CORS,OpenShift Installer,software,Done,04/02/2022 22:28,10/03/2022 18:44
+CORS-1906,Epic,Closed,CORS,OpenShift Installer,software,Done,04/02/2022 14:40,02/08/2022 14:33
+CORS-1905,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,04/02/2022 14:39,08/02/2022 15:06
+CORS-1904,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,04/02/2022 14:39,08/02/2022 15:05
+CORS-1903,Story,Closed,CORS,OpenShift Installer,software,Obsolete,03/02/2022 17:52,28/02/2022 20:15
+CORS-1902,Story,Closed,CORS,OpenShift Installer,software,Obsolete,03/02/2022 21:28,08/12/2022 19:47
+CORS-1901,Story,Closed,CORS,OpenShift Installer,software,Obsolete,03/02/2022 17:55,23/03/2023 16:53
+CORS-1900,Story,Closed,CORS,OpenShift Installer,software,Done,02/02/2022 20:30,07/03/2022 18:39
+CORS-1899,Story,Closed,CORS,OpenShift Installer,software,Obsolete,28/01/2022 22:07,11/03/2022 01:09
+CORS-1898,Story,Closed,CORS,OpenShift Installer,software,Done,28/01/2022 19:38,22/02/2022 16:07
+CORS-1897,Story,Closed,CORS,OpenShift Installer,software,Done,28/01/2022 19:36,21/12/2022 15:45
+CORS-1896,Story,Closed,CORS,OpenShift Installer,software,Done,28/01/2022 17:23,24/03/2022 01:43
+CORS-1895,Story,Closed,CORS,OpenShift Installer,software,Obsolete,27/01/2022 20:40,27/01/2022 21:10
+CORS-1894,Story,Closed,CORS,OpenShift Installer,software,Done,27/01/2022 20:37,31/03/2022 16:48
+CORS-1893,Story,Closed,CORS,OpenShift Installer,software,Done,27/01/2022 20:34,24/03/2022 23:07
+CORS-1892,Story,Closed,CORS,OpenShift Installer,software,Won't Do,27/01/2022 00:00,02/05/2022 19:56
+CORS-1891,Story,Closed,CORS,OpenShift Installer,software,Obsolete,26/01/2022 23:59,22/02/2022 18:43
+CORS-1890,Story,Closed,CORS,OpenShift Installer,software,Done,26/01/2022 23:55,13/03/2022 00:42
+CORS-1889,Story,Closed,CORS,OpenShift Installer,software,Done,26/01/2022 23:54,13/03/2022 00:42
+CORS-1888,Epic,Closed,CORS,OpenShift Installer,software,Done,26/01/2022 19:22,07/09/2023 01:03
+CORS-1887,Story,Closed,CORS,OpenShift Installer,software,Done,26/01/2022 18:16,11/03/2022 18:56
+CORS-1886,Epic,Closed,CORS,OpenShift Installer,software,Done,29/06/2021 09:55,01/03/2022 12:58
+CORS-1884,Story,Closed,CORS,OpenShift Installer,software,Obsolete,20/01/2022 18:47,25/02/2022 16:07
+CORS-1883,Story,Closed,CORS,OpenShift Installer,software,Done,20/01/2022 18:45,01/03/2022 18:03
+CORS-1882,Story,Closed,CORS,OpenShift Installer,software,Obsolete,20/01/2022 18:44,25/02/2022 16:07
+CORS-1881,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,13/01/2022 10:54,28/03/2024 16:35
+CORS-1880,Epic,Closed,CORS,OpenShift Installer,software,Done,12/01/2022 23:41,02/08/2022 14:34
+CORS-1879,Story,Closed,CORS,OpenShift Installer,software,Done,12/01/2022 13:39,10/10/2022 11:51
+CORS-1878,Story,Closed,CORS,OpenShift Installer,software,Obsolete,11/01/2022 20:11,27/10/2022 17:24
+CORS-1877,Story,Closed,CORS,OpenShift Installer,software,Obsolete,11/01/2022 20:09,23/08/2022 17:58
+CORS-1876,Story,Closed,CORS,OpenShift Installer,software,Obsolete,11/01/2022 20:09,23/08/2022 17:58
+CORS-1875,Story,Closed,CORS,OpenShift Installer,software,Obsolete,11/01/2022 20:09,23/08/2022 17:58
+CORS-1874,Epic,In Progress,CORS,OpenShift Installer,software,,11/01/2022 20:07,
+CORS-1873,Epic,Closed,CORS,OpenShift Installer,software,Done,05/11/2021 18:22,02/08/2022 14:34
+CORS-1872,Epic,Release Pending,CORS,OpenShift Installer,software,Done,11/01/2022 18:02,28/03/2023 11:02
+CORS-1871,Epic,Release Pending,CORS,OpenShift Installer,software,Done,13/07/2020 18:29,29/03/2023 02:14
+CORS-1870,Epic,Closed,CORS,OpenShift Installer,software,Done,13/07/2020 18:28,28/03/2023 09:42
+CORS-1869,Story,Closed,CORS,OpenShift Installer,software,Done,23/12/2021 12:23,17/04/2023 13:12
+CORS-1868,Story,Closed,CORS,OpenShift Installer,software,Done,18/12/2021 21:14,27/01/2022 18:29
+CORS-1867,Story,Closed,CORS,OpenShift Installer,software,Done,18/12/2021 21:11,11/03/2022 18:56
+CORS-1866,Story,Closed,CORS,OpenShift Installer,software,Done,17/12/2021 13:20,21/03/2022 17:13
+CORS-1865,Story,Closed,CORS,OpenShift Installer,software,Done,15/12/2021 21:57,13/04/2022 07:09
+CORS-1864,Story,Closed,CORS,OpenShift Installer,software,Done,15/12/2021 17:06,24/02/2022 18:01
+CORS-1862,Story,Closed,CORS,OpenShift Installer,software,Done,14/12/2021 16:00,11/01/2022 15:58
+CORS-1852,Story,Closed,CORS,OpenShift Installer,software,Obsolete,02/12/2021 18:11,19/09/2022 16:08
+CORS-1851,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,02/12/2021 17:30,02/12/2021 17:47
+CORS-1845,Story,Closed,CORS,OpenShift Installer,software,Done,01/12/2021 21:58,11/01/2022 01:26
+CORS-1844,Story,Closed,CORS,OpenShift Installer,software,Done,01/12/2021 16:44,24/03/2022 18:27
+CORS-1843,Story,Closed,CORS,OpenShift Installer,software,Done,30/11/2021 20:10,15/12/2021 14:39
+CORS-1842,Epic,Closed,CORS,OpenShift Installer,software,Obsolete,30/11/2021 19:00,28/09/2023 15:43
+CORS-1841,Story,Closed,CORS,OpenShift Installer,software,Done,30/11/2021 17:36,17/12/2021 19:18
+CORS-1840,Story,Closed,CORS,OpenShift Installer,software,Done,30/11/2021 17:35,18/12/2021 21:13
+CORS-1839,Story,Closed,CORS,OpenShift Installer,software,Done,30/11/2021 17:33,18/12/2021 21:15
+CORS-1838,Story,Closed,CORS,OpenShift Installer,software,Done,23/11/2021 19:04,13/12/2021 15:49
+CORS-1837,Epic,Closed,CORS,OpenShift Installer,software,Done,23/11/2021 11:02,02/08/2022 15:27
+CORS-1836,Epic,Closed,CORS,OpenShift Installer,software,Done,23/11/2021 10:02,02/08/2022 14:34
+CORS-1834,Story,Closed,CORS,OpenShift Installer,software,Done,18/11/2021 22:32,18/12/2021 21:22
+CORS-1833,Story,Closed,CORS,OpenShift Installer,software,Done,16/11/2021 04:05,30/11/2021 17:44
+CORS-1832,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,15/11/2021 18:36,16/07/2024 14:15
+CORS-1831,Story,Closed,CORS,OpenShift Installer,software,Done,09/11/2021 17:52,30/11/2021 17:39
+CORS-1829,Epic,Closed,CORS,OpenShift Installer,software,Done,09/11/2021 17:43,17/11/2022 15:16
+CORS-1828,Story,Closed,CORS,OpenShift Installer,software,Done,09/11/2021 17:29,09/11/2021 17:30
+CORS-1827,Story,Closed,CORS,OpenShift Installer,software,Done,09/11/2021 17:28,30/11/2021 17:36
+CORS-1826,Story,Closed,CORS,OpenShift Installer,software,Done,09/11/2021 17:28,30/11/2021 17:35
+CORS-1825,Story,Closed,CORS,OpenShift Installer,software,Done,08/11/2021 18:39,03/12/2021 15:21
+CORS-1824,Story,Closed,CORS,OpenShift Installer,software,Done,04/11/2021 13:01,28/04/2022 20:46
+CORS-1822,Story,Closed,CORS,OpenShift Installer,software,Obsolete,02/11/2021 15:20,23/02/2022 18:39
+CORS-1817,Story,Closed,CORS,OpenShift Installer,software,Obsolete,01/11/2021 20:42,11/01/2022 01:24
+CORS-1812,Story,Closed,CORS,OpenShift Installer,software,Done,01/11/2021 20:17,09/05/2022 02:06
+CORS-1807,Story,Closed,CORS,OpenShift Installer,software,Done,01/11/2021 20:12,09/05/2022 02:03
+CORS-1802,Story,Closed,CORS,OpenShift Installer,software,Obsolete,01/11/2021 20:10,11/01/2022 01:13
+CORS-1793,Story,Closed,CORS,OpenShift Installer,software,Done,01/11/2021 20:04,23/03/2022 17:14
+CORS-1792,Story,Closed,CORS,OpenShift Installer,software,Obsolete,01/11/2021 20:03,10/01/2022 23:03
+CORS-1789,Story,Closed,CORS,OpenShift Installer,software,Done,21/10/2021 19:49,26/02/2022 03:07
+CORS-1788,Story,Closed,CORS,OpenShift Installer,software,Done,19/10/2021 21:42,19/12/2021 22:30
+CORS-1787,Story,Closed,CORS,OpenShift Installer,software,Obsolete,15/10/2021 21:22,02/06/2022 16:37
+CORS-1786,Story,Closed,CORS,OpenShift Installer,software,Done,15/10/2021 21:17,22/06/2022 18:12
+CORS-1785,Story,Closed,CORS,OpenShift Installer,software,Obsolete,15/10/2021 21:09,23/03/2023 16:52
+CORS-1784,Story,Closed,CORS,OpenShift Installer,software,Done,15/10/2021 21:04,19/04/2022 17:09
+CORS-1783,Story,Closed,CORS,OpenShift Installer,software,Obsolete,15/10/2021 20:59,17/01/2023 16:59
+CORS-1782,Story,Closed,CORS,OpenShift Installer,software,Done,14/10/2021 16:19,08/11/2021 17:09
+CORS-1781,Story,Closed,CORS,OpenShift Installer,software,Done,14/10/2021 16:18,30/11/2021 17:33
+CORS-1780,Story,Closed,CORS,OpenShift Installer,software,Done,14/10/2021 15:55,09/11/2021 17:27
+CORS-1779,Story,Closed,CORS,OpenShift Installer,software,Done,12/10/2021 15:09,14/10/2021 15:53
+CORS-1778,Story,Closed,CORS,OpenShift Installer,software,Done,12/10/2021 15:08,14/10/2021 15:47
+CORS-1774,Epic,Closed,CORS,OpenShift Installer,software,Done,06/10/2021 09:17,17/01/2023 13:47
+CORS-1773,Epic,Closed,CORS,OpenShift Installer,software,Done,06/10/2021 09:09,01/03/2022 12:59
+CORS-1772,Story,Closed,CORS,OpenShift Installer,software,Obsolete,30/09/2021 16:55,12/10/2021 17:45
+CORS-1771,Story,Closed,CORS,OpenShift Installer,software,Done,30/09/2021 16:20,08/11/2021 13:24
+CORS-1770,Epic,Closed,CORS,OpenShift Installer,software,Done,03/09/2021 10:51,11/09/2023 02:07
+CORS-1768,Story,Closed,CORS,OpenShift Installer,software,Done,31/08/2021 06:30,15/10/2021 21:25
+CORS-1767,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,31/08/2021 05:44,03/03/2023 14:27
+CORS-1765,Story,Closed,CORS,OpenShift Installer,software,Done,31/08/2021 05:06,14/10/2021 15:47
+CORS-1764,Story,Closed,CORS,OpenShift Installer,software,Done,31/08/2021 05:00,12/10/2021 15:08
+CORS-1763,Story,Closed,CORS,OpenShift Installer,software,Done,31/08/2021 04:34,12/10/2021 15:10
+CORS-1761,Story,Closed,CORS,OpenShift Installer,software,Done,06/08/2021 03:04,18/12/2021 21:23
+CORS-1760,Story,Closed,CORS,OpenShift Installer,software,Obsolete,05/08/2021 00:51,03/04/2023 14:22
+CORS-1759,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,04/08/2021 00:53,07/03/2022 16:29
+CORS-1757,Epic,Closed,CORS,OpenShift Installer,software,Done,03/08/2021 14:04,09/04/2024 07:25
+CORS-1756,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,30/07/2021 11:38,07/03/2023 12:09
+CORS-1755,Epic,Closed,CORS,OpenShift Installer,software,Duplicate,29/07/2021 00:57,09/11/2022 19:00
+CORS-1754,Story,Closed,CORS,OpenShift Installer,software,Done,26/07/2021 15:50,13/12/2021 15:45
+CORS-1753,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,22/07/2021 11:32,30/11/2021 19:03
+CORS-1752,Story,Closed,CORS,OpenShift Installer,software,Obsolete,20/07/2021 16:37,02/12/2021 19:57
+CORS-1745,Story,Closed,CORS,OpenShift Installer,software,Done,19/07/2021 15:56,14/10/2021 15:50
+CORS-1740,Story,Closed,CORS,OpenShift Installer,software,Obsolete,19/07/2021 15:45,11/01/2022 01:12
+CORS-1735,Story,Closed,CORS,OpenShift Installer,software,Done,19/07/2021 15:42,21/09/2021 17:21
+CORS-1734,Story,Closed,CORS,OpenShift Installer,software,Done,16/07/2021 16:20,12/05/2022 19:43
+CORS-1731,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,07/07/2021 17:23,09/11/2022 18:58
+CORS-1730,Story,Closed,CORS,OpenShift Installer,software,Done,30/06/2021 23:11,20/08/2021 07:26
+CORS-1726,Story,Closed,CORS,OpenShift Installer,software,Obsolete,11/06/2021 15:17,30/11/2021 18:57
+CORS-1725,Story,Closed,CORS,OpenShift Installer,software,Done,11/06/2021 15:00,26/07/2021 15:21
+CORS-1724,Epic,Closed,CORS,OpenShift Installer,software,Done,09/06/2021 12:35,10/01/2022 22:45
+CORS-1723,Story,Closed,CORS,OpenShift Installer,software,Won't Do,07/06/2021 20:35,29/03/2022 14:52
+CORS-1722,Bug,Closed,CORS,OpenShift Installer,software,Done,26/05/2021 06:40,04/06/2021 07:23
+CORS-1721,Story,Closed,CORS,OpenShift Installer,software,Done,26/05/2021 13:55,19/04/2022 14:52
+CORS-1719,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,11/05/2021 20:04,12/05/2021 15:31
+CORS-1718,Story,Closed,CORS,OpenShift Installer,software,Won't Do,10/05/2021 20:46,29/03/2022 14:52
+CORS-1717,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,10/05/2021 14:02,02/12/2021 14:38
+CORS-1716,Story,Closed,CORS,OpenShift Installer,software,Done,06/05/2021 15:09,02/12/2021 14:06
+CORS-1715,Story,Closed,CORS,OpenShift Installer,software,Done,30/04/2021 18:07,12/10/2021 19:54
+CORS-1714,Story,Closed,CORS,OpenShift Installer,software,Obsolete,29/04/2021 16:30,03/04/2023 14:55
+CORS-1713,Story,Closed,CORS,OpenShift Installer,software,Obsolete,28/04/2021 18:08,20/05/2021 16:02
+CORS-1712,Story,Closed,CORS,OpenShift Installer,software,Obsolete,28/04/2021 14:33,22/07/2022 14:34
+CORS-1711,Story,Closed,CORS,OpenShift Installer,software,Done,28/04/2021 14:25,30/08/2021 19:41
+CORS-1710,Story,Closed,CORS,OpenShift Installer,software,Done,28/04/2021 14:20,24/06/2021 17:11
+CORS-1709,Story,Closed,CORS,OpenShift Installer,software,Done,28/04/2021 14:15,11/06/2021 17:22
+CORS-1708,Story,Closed,CORS,OpenShift Installer,software,Obsolete,28/04/2021 14:07,23/06/2021 19:36
+CORS-1707,Story,Closed,CORS,OpenShift Installer,software,Obsolete,23/04/2021 16:45,23/04/2021 16:57
+CORS-1706,Story,Closed,CORS,OpenShift Installer,software,Obsolete,15/04/2021 16:38,24/02/2022 16:14
+CORS-1705,Story,Closed,CORS,OpenShift Installer,software,Done,14/04/2021 16:52,22/07/2021 13:27
+CORS-1704,Story,Closed,CORS,OpenShift Installer,software,Done,14/04/2021 14:38,11/06/2021 16:28
+CORS-1703,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,13/04/2021 14:59,09/11/2022 18:53
+CORS-1702,Story,Closed,CORS,OpenShift Installer,software,Obsolete,13/04/2021 13:25,18/05/2021 15:40
+CORS-1701,Story,Closed,CORS,OpenShift Installer,software,Done,12/04/2021 18:54,14/12/2021 14:41
+CORS-1700,Story,Closed,CORS,OpenShift Installer,software,Done,12/04/2021 18:53,14/12/2021 14:41
+CORS-1699,Story,Closed,CORS,OpenShift Installer,software,Done,12/04/2021 18:53,06/10/2021 16:07
+CORS-1698,Story,Closed,CORS,OpenShift Installer,software,Obsolete,12/04/2021 18:52,13/12/2021 15:46
+CORS-1697,Story,Closed,CORS,OpenShift Installer,software,Done,12/04/2021 18:52,14/12/2021 14:41
+CORS-1696,Story,Closed,CORS,OpenShift Installer,software,Done,12/04/2021 18:51,13/12/2021 15:48
+CORS-1695,Story,Closed,CORS,OpenShift Installer,software,Done,12/04/2021 18:50,23/07/2021 19:24
+CORS-1694,Story,Closed,CORS,OpenShift Installer,software,Done,12/04/2021 18:49,25/06/2021 23:54
+CORS-1693,Story,Closed,CORS,OpenShift Installer,software,Done,12/04/2021 18:47,30/06/2021 22:53
+CORS-1692,Story,Closed,CORS,OpenShift Installer,software,Done,12/04/2021 18:46,25/06/2021 23:55
+CORS-1691,Story,Closed,CORS,OpenShift Installer,software,Done,12/04/2021 17:06,19/07/2021 14:40
+CORS-1685,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,08/04/2021 10:08,01/06/2021 16:07
+CORS-1684,Story,Closed,CORS,OpenShift Installer,software,Obsolete,02/04/2021 18:47,03/04/2023 14:32
+CORS-1683,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,02/04/2021 18:40,13/12/2022 11:52
+CORS-1682,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,01/04/2021 16:11,07/01/2022 01:55
+CORS-1681,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,01/04/2021 16:10,07/01/2022 01:55
+CORS-1680,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,01/04/2021 16:09,07/01/2022 01:54
+CORS-1679,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,01/04/2021 09:20,07/01/2022 01:53
+CORS-1678,Story,Closed,CORS,OpenShift Installer,software,Obsolete,01/04/2021 01:05,24/02/2022 16:15
+CORS-1677,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,30/03/2021 18:29,23/02/2022 18:47
+CORS-1676,Epic,Closed,CORS,OpenShift Installer,software,Obsolete,29/03/2021 19:37,15/12/2023 11:57
+CORS-1674,Epic,Closed,CORS,OpenShift Installer,software,Done,26/03/2021 13:07,01/03/2022 12:58
+CORS-1673,Story,Closed,CORS,OpenShift Installer,software,Done,25/03/2021 09:51,25/05/2021 14:41
+CORS-1672,Story,Closed,CORS,OpenShift Installer,software,Done,22/03/2021 13:28,19/05/2021 14:39
+CORS-1671,Story,Closed,CORS,OpenShift Installer,software,Obsolete,22/03/2021 10:03,24/02/2022 16:15
+CORS-1667,Story,Closed,CORS,OpenShift Installer,software,Done,17/03/2021 14:06,12/04/2021 13:54
+CORS-1665,Story,Closed,CORS,OpenShift Installer,software,Done,17/03/2021 10:59,23/07/2021 21:09
+CORS-1664,Story,Closed,CORS,OpenShift Installer,software,Done,16/03/2021 14:07,02/04/2021 18:45
+CORS-1662,Bug,Closed,CORS,OpenShift Installer,software,Obsolete,15/03/2021 10:59,27/03/2021 17:04
+CORS-1661,Story,Closed,CORS,OpenShift Installer,software,Obsolete,12/03/2021 19:51,19/04/2021 17:18
+CORS-1660,Story,Closed,CORS,OpenShift Installer,software,Done,12/03/2021 18:16,21/03/2021 00:05
+CORS-1659,Story,Closed,CORS,OpenShift Installer,software,Done,12/03/2021 18:16,01/07/2021 13:56
+CORS-1658,Epic,Closed,CORS,OpenShift Installer,software,Done,12/03/2021 17:09,05/05/2021 17:23
+CORS-1657,Story,Closed,CORS,OpenShift Installer,software,Done,10/03/2021 17:14,05/05/2021 16:24
+CORS-1656,Story,Closed,CORS,OpenShift Installer,software,Done,08/03/2021 16:16,17/05/2021 16:49
+CORS-1655,Story,Closed,CORS,OpenShift Installer,software,Done,08/03/2021 15:44,30/03/2021 13:41
+CORS-1653,Epic,Closed,CORS,OpenShift Installer,software,Done,02/03/2021 13:15,22/06/2021 20:11
+CORS-1652,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,25/02/2021 13:55,24/09/2024 09:31
+CORS-1650,Epic,Closed,CORS,OpenShift Installer,software,Done,25/02/2021 13:47,08/09/2021 03:06
+CORS-1649,Story,Closed,CORS,OpenShift Installer,software,Obsolete,22/02/2021 13:51,24/02/2022 16:13
+CORS-1648,Story,Closed,CORS,OpenShift Installer,software,Done,22/02/2021 11:03,30/03/2021 15:55
+CORS-1647,Story,Closed,CORS,OpenShift Installer,software,Done,22/02/2021 11:02,15/03/2021 12:09
+CORS-1646,Bug,Closed,CORS,OpenShift Installer,software,Done,20/02/2021 15:07,07/04/2021 17:59
+CORS-1645,Bug,Closed,CORS,OpenShift Installer,software,Done,20/02/2021 15:04,16/04/2021 20:46
+CORS-1644,Story,Closed,CORS,OpenShift Installer,software,Done,19/02/2021 15:58,22/02/2021 14:20
+CORS-1642,Story,Closed,CORS,OpenShift Installer,software,Done,18/02/2021 09:53,19/02/2021 14:03
+CORS-1641,Story,Closed,CORS,OpenShift Installer,software,Done,18/02/2021 06:11,21/03/2021 00:05
+CORS-1639,Story,Closed,CORS,OpenShift Installer,software,Obsolete,16/02/2021 15:56,03/04/2023 14:38
+CORS-1635,Story,Closed,CORS,OpenShift Installer,software,Obsolete,15/02/2021 15:04,24/02/2022 16:16
+CORS-1634,Story,Closed,CORS,OpenShift Installer,software,Obsolete,15/02/2021 14:47,24/02/2022 16:15
+CORS-1633,Story,Closed,CORS,OpenShift Installer,software,Obsolete,15/02/2021 14:42,24/02/2022 16:15
+CORS-1629,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,10/02/2021 20:30,09/11/2022 18:45
+CORS-1628,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,10/02/2021 19:47,15/12/2021 09:18
+CORS-1623,Story,Closed,CORS,OpenShift Installer,software,Done,08/02/2021 11:46,21/04/2021 17:10
+CORS-1617,Story,Closed,CORS,OpenShift Installer,software,Obsolete,05/02/2021 11:29,08/06/2021 18:21
+CORS-1616,Task,Closed,CORS,OpenShift Installer,software,Done,05/02/2021 11:14,12/03/2021 17:48
+CORS-1614,Epic,Closed,CORS,OpenShift Installer,software,Done,01/02/2021 13:34,05/04/2024 14:27
+CORS-1613,Story,Closed,CORS,OpenShift Installer,software,Done,04/02/2020 18:12,19/07/2021 16:21
+CORS-1608,Story,Closed,CORS,OpenShift Installer,software,Obsolete,18/12/2020 13:49,09/11/2021 18:03
+CORS-1607,Story,Closed,CORS,OpenShift Installer,software,Done,11/12/2020 14:47,08/11/2021 13:22
+CORS-1606,Epic,Closed,CORS,OpenShift Installer,software,Obsolete,11/12/2020 13:30,09/11/2022 18:41
+CORS-1604,Story,Closed,CORS,OpenShift Installer,software,Won't Do,09/12/2020 20:54,29/03/2022 14:52
+CORS-1603,Bug,Closed,CORS,OpenShift Installer,software,Obsolete,09/12/2020 12:10,09/12/2020 12:14
+CORS-1602,Epic,Closed,CORS,OpenShift Installer,software,Done,24/06/2020 19:37,14/06/2021 14:15
+CORS-1601,Epic,Closed,CORS,OpenShift Installer,software,Done,07/12/2020 15:49,02/03/2021 10:44
+CORS-1600,Epic,Closed,CORS,OpenShift Installer,software,Done,04/12/2020 13:31,14/06/2021 14:14
+CORS-1599,Story,Closed,CORS,OpenShift Installer,software,Done,03/12/2020 17:16,24/05/2021 12:21
+CORS-1598,Story,Closed,CORS,OpenShift Installer,software,Done,20/11/2020 13:17,02/05/2022 20:49
+CORS-1597,Epic,Closed,CORS,OpenShift Installer,software,Done,19/11/2020 09:59,07/03/2023 11:24
+CORS-1596,Epic,Closed,CORS,OpenShift Installer,software,Done,18/11/2020 13:22,01/03/2022 12:59
+CORS-1591,Epic,Closed,CORS,OpenShift Installer,software,Done,06/11/2020 17:09,28/09/2021 14:26
+CORS-1589,Epic,Closed,CORS,OpenShift Installer,software,Done,05/11/2020 14:24,02/03/2021 10:41
+CORS-1515,Epic,Closed,CORS,OpenShift Installer,software,Done,21/08/2020 08:59,13/04/2023 09:27
+CORS-1514,Story,Closed,CORS,OpenShift Installer,software,Won't Do,21/08/2020 08:47,03/04/2023 14:52
+CORS-1513,Epic,Closed,CORS,OpenShift Installer,software,Done,19/08/2020 16:02,01/03/2022 12:59
+CORS-1512,Epic,Closed,CORS,OpenShift Installer,software,Done,19/08/2020 13:45,01/03/2021 14:38
+CORS-1511,Epic,Closed,CORS,OpenShift Installer,software,Done,19/08/2020 13:15,16/12/2021 18:51
+CORS-1510,Epic,Closed,CORS,OpenShift Installer,software,Done,19/08/2020 13:07,17/12/2020 10:11
+CORS-1508,Epic,Closed,CORS,OpenShift Installer,software,Done,03/08/2020 11:04,16/03/2021 14:00
+CORS-1506,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,04/02/2020 15:08,13/12/2022 11:48
+CORS-1504,Epic,Closed,CORS,OpenShift Installer,software,Done,27/07/2020 13:31,16/12/2020 23:07
+CORS-1500,Epic,Closed,CORS,OpenShift Installer,software,Done,20/07/2020 20:17,10/03/2022 13:23
+CORS-1496,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,14/07/2020 13:11,31/01/2022 12:12
+CORS-1494,Epic,Closed,CORS,OpenShift Installer,software,Done,14/07/2020 11:12,02/08/2022 14:34
+CORS-1450,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,28/04/2020 11:15,09/11/2022 18:20
+CORS-1433,Epic,Closed,CORS,OpenShift Installer,software,Done,05/05/2020 15:35,28/09/2021 14:27
+CORS-1423,Epic,Closed,CORS,OpenShift Installer,software,Won't Do,17/04/2020 13:31,09/11/2022 18:18
+CORS-1367,Epic,Release Pending,CORS,OpenShift Installer,software,Done,11/02/2020 13:56,18/10/2023 14:22
+CORS-1350,Epic,Closed,CORS,OpenShift Installer,software,Obsolete,21/01/2020 11:13,26/10/2022 16:29
+CORS-1292,Epic,Closed,CORS,OpenShift Installer,software,Obsolete,21/11/2019 17:44,01/11/2022 14:52
+CORS-1287,Epic,Closed,CORS,OpenShift Installer,software,Obsolete,05/04/2019 23:39,16/07/2024 14:09
+CORS-1286,Epic,New,CORS,OpenShift Installer,software,,20/11/2019 13:32,
+CORS-1274,Epic,Release Pending,CORS,OpenShift Installer,software,Done,08/11/2019 01:52,28/03/2023 13:51
