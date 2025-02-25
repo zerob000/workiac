@@ -1,0 +1,813 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+KATA-3458,Story,Review,KATA,Openshift sandboxed containers,software,,13/11/2024 09:46,
+KATA-3457,Bug,New,KATA,Openshift sandboxed containers,software,,11/11/2024 19:41,
+KATA-3456,Bug,New,KATA,Openshift sandboxed containers,software,,05/11/2024 22:03,
+KATA-3455,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,04/11/2024 16:33,07/11/2024 17:13
+KATA-3454,Task,Closed,KATA,Openshift sandboxed containers,software,Duplicate,04/11/2024 09:58,04/11/2024 10:08
+KATA-3453,Bug,Closed,KATA,Openshift sandboxed containers,software,Cannot Reproduce,01/11/2024 19:10,04/11/2024 15:50
+KATA-3450,Story,New,KATA,Openshift sandboxed containers,software,,29/10/2024 15:56,
+KATA-3449,Bug,New,KATA,Openshift sandboxed containers,software,,29/10/2024 14:14,
+KATA-3448,Story,Closed,KATA,Openshift sandboxed containers,software,Done,28/10/2024 15:40,12/11/2024 18:10
+KATA-3447,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,28/10/2024 15:29,05/11/2024 14:11
+KATA-3446,Bug,Review,KATA,Openshift sandboxed containers,software,,28/10/2024 15:27,
+KATA-3443,Story,Closed,KATA,Openshift sandboxed containers,software,Done,21/10/2024 18:23,25/10/2024 12:08
+KATA-3442,Task,Closed,KATA,Openshift sandboxed containers,software,Done,19/10/2024 14:36,04/11/2024 04:57
+KATA-3441,Story,Review,KATA,Openshift sandboxed containers,software,,17/10/2024 12:34,
+KATA-3440,Bug,New,KATA,Openshift sandboxed containers,software,,17/10/2024 10:46,
+KATA-3439,Story,Closed,KATA,Openshift sandboxed containers,software,Won't Do,16/10/2024 15:10,08/11/2024 09:25
+KATA-3438,Epic,New,KATA,Openshift sandboxed containers,software,,16/10/2024 15:07,
+KATA-3437,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,16/10/2024 12:24,22/10/2024 12:07
+KATA-3436,Task,Review,KATA,Openshift sandboxed containers,software,,16/10/2024 10:11,
+KATA-3435,Epic,In Progress,KATA,Openshift sandboxed containers,software,,16/10/2024 10:08,
+KATA-3434,Story,New,KATA,Openshift sandboxed containers,software,,16/10/2024 07:57,
+KATA-3433,Story,Closed,KATA,Openshift sandboxed containers,software,Duplicate,15/10/2024 12:29,15/10/2024 13:33
+KATA-3432,Story,New,KATA,Openshift sandboxed containers,software,,14/10/2024 13:19,
+KATA-3431,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,14/10/2024 13:13,16/10/2024 07:58
+KATA-3430,Feature,Closed,KATA,Openshift sandboxed containers,software,Duplicate,10/10/2024 16:40,10/10/2024 16:51
+KATA-3429,Feature,New,KATA,Openshift sandboxed containers,software,,10/10/2024 16:39,
+KATA-3428,Feature,New,KATA,Openshift sandboxed containers,software,,10/10/2024 16:38,
+KATA-3427,Feature,New,KATA,Openshift sandboxed containers,software,,10/10/2024 16:37,
+KATA-3426,Feature,New,KATA,Openshift sandboxed containers,software,,10/10/2024 16:35,
+KATA-3425,Feature,New,KATA,Openshift sandboxed containers,software,,10/10/2024 16:27,
+KATA-3424,Epic,New,KATA,Openshift sandboxed containers,software,,10/10/2024 16:26,
+KATA-3423,Epic,New,KATA,Openshift sandboxed containers,software,,10/10/2024 16:24,
+KATA-3422,Epic,New,KATA,Openshift sandboxed containers,software,,10/10/2024 16:21,
+KATA-3421,Story,Closed,KATA,Openshift sandboxed containers,software,Done,09/10/2024 15:38,22/10/2024 12:09
+KATA-3420,Feature,In Progress,KATA,Openshift sandboxed containers,software,,09/10/2024 10:25,
+KATA-3419,Task,In Progress,KATA,Openshift sandboxed containers,software,,09/10/2024 05:48,
+KATA-3418,Bug,New,KATA,Openshift sandboxed containers,software,,08/10/2024 17:44,
+KATA-3417,Story,New,KATA,Openshift sandboxed containers,software,,07/10/2024 15:54,
+KATA-3416,Story,In Progress,KATA,Openshift sandboxed containers,software,,07/10/2024 15:53,
+KATA-3415,Story,Closed,KATA,Openshift sandboxed containers,software,Done,07/10/2024 15:34,05/11/2024 13:01
+KATA-3414,Story,Closed,KATA,Openshift sandboxed containers,software,Done,07/10/2024 15:20,30/10/2024 12:57
+KATA-3413,Task,Closed,KATA,Openshift sandboxed containers,software,Done,07/10/2024 09:30,05/11/2024 11:07
+KATA-3412,Bug,New,KATA,Openshift sandboxed containers,software,,04/10/2024 10:00,
+KATA-3411,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,04/10/2024 09:43,09/10/2024 12:11
+KATA-3410,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,04/10/2024 05:40,09/10/2024 12:10
+KATA-3409,Story,Closed,KATA,Openshift sandboxed containers,software,Won't Do,03/10/2024 14:40,28/10/2024 15:11
+KATA-3408,Story,Closed,KATA,Openshift sandboxed containers,software,Done,02/10/2024 23:10,28/10/2024 15:04
+KATA-3407,Story,Closed,KATA,Openshift sandboxed containers,software,Done,02/10/2024 12:55,12/11/2024 16:46
+KATA-3406,Story,Closed,KATA,Openshift sandboxed containers,software,Won't Do,02/10/2024 10:08,14/10/2024 11:05
+KATA-3405,Story,Closed,KATA,Openshift sandboxed containers,software,Won't Do,02/10/2024 09:57,11/10/2024 14:58
+KATA-3404,Story,Closed,KATA,Openshift sandboxed containers,software,Done,02/10/2024 09:53,11/10/2024 14:56
+KATA-3403,Story,Closed,KATA,Openshift sandboxed containers,software,Done,02/10/2024 09:48,17/10/2024 09:08
+KATA-3402,Epic,New,KATA,Openshift sandboxed containers,software,,02/10/2024 09:40,
+KATA-3401,Story,Closed,KATA,Openshift sandboxed containers,software,Obsolete,01/10/2024 19:33,09/10/2024 11:57
+KATA-3400,Story,New,KATA,Openshift sandboxed containers,software,,01/10/2024 19:23,
+KATA-3399,Story,Closed,KATA,Openshift sandboxed containers,software,Done,01/10/2024 19:02,28/10/2024 15:05
+KATA-3398,Story,Closed,KATA,Openshift sandboxed containers,software,Done,01/10/2024 14:15,29/10/2024 07:55
+KATA-3397,Story,Closed,KATA,Openshift sandboxed containers,software,Obsolete,01/10/2024 14:14,28/10/2024 15:14
+KATA-3396,Story,Closed,KATA,Openshift sandboxed containers,software,Obsolete,01/10/2024 14:13,28/10/2024 15:14
+KATA-3395,Story,Closed,KATA,Openshift sandboxed containers,software,Done,01/10/2024 14:01,29/10/2024 07:54
+KATA-3394,Epic,Closed,KATA,Openshift sandboxed containers,software,Obsolete,01/10/2024 13:54,29/10/2024 07:54
+KATA-3393,Story,Closed,KATA,Openshift sandboxed containers,software,Done,01/10/2024 13:01,13/11/2024 13:17
+KATA-3392,Story,New,KATA,Openshift sandboxed containers,software,,30/09/2024 16:15,
+KATA-3391,Story,In Progress,KATA,Openshift sandboxed containers,software,,30/09/2024 16:10,
+KATA-3390,Story,Closed,KATA,Openshift sandboxed containers,software,Done,30/09/2024 16:08,28/10/2024 15:05
+KATA-3389,Epic,New,KATA,Openshift sandboxed containers,software,,30/09/2024 16:05,
+KATA-3388,Story,Closed,KATA,Openshift sandboxed containers,software,Done,30/09/2024 14:10,28/10/2024 15:19
+KATA-3387,Story,In Progress,KATA,Openshift sandboxed containers,software,,30/09/2024 14:05,
+KATA-3386,Story,Closed,KATA,Openshift sandboxed containers,software,Done,27/09/2024 13:54,14/10/2024 13:45
+KATA-3373,Story,Closed,KATA,Openshift sandboxed containers,software,Done,26/09/2024 16:14,08/10/2024 12:18
+KATA-3372,Story,Closed,KATA,Openshift sandboxed containers,software,Done,26/09/2024 16:14,02/10/2024 13:32
+KATA-3371,Story,Closed,KATA,Openshift sandboxed containers,software,Done,26/09/2024 16:14,02/10/2024 13:27
+KATA-3370,Story,Closed,KATA,Openshift sandboxed containers,software,Done,26/09/2024 16:14,28/10/2024 15:16
+KATA-3369,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,26/09/2024 16:14,13/11/2024 15:34
+KATA-3368,Story,Closed,KATA,Openshift sandboxed containers,software,Done,26/09/2024 16:14,28/10/2024 15:17
+KATA-3367,Story,Closed,KATA,Openshift sandboxed containers,software,Done,26/09/2024 16:14,17/10/2024 14:56
+KATA-3366,Story,Closed,KATA,Openshift sandboxed containers,software,Done,26/09/2024 16:14,28/10/2024 15:15
+KATA-3365,Story,Closed,KATA,Openshift sandboxed containers,software,Done,26/09/2024 16:14,28/10/2024 15:17
+KATA-3364,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,26/09/2024 16:13,13/11/2024 14:53
+KATA-3357,Task,New,KATA,Openshift sandboxed containers,software,,26/09/2024 15:43,25/09/2024 21:44
+KATA-3351,Task,New,KATA,Openshift sandboxed containers,software,,26/09/2024 15:43,25/09/2024 21:44
+KATA-3349,Feature,New,KATA,Openshift sandboxed containers,software,,24/09/2024 10:16,
+KATA-3348,Story,Closed,KATA,Openshift sandboxed containers,software,Duplicate,24/09/2024 09:46,15/10/2024 13:32
+KATA-3347,Feature,New,KATA,Openshift sandboxed containers,software,,24/09/2024 08:38,
+KATA-3346,Feature,New,KATA,Openshift sandboxed containers,software,,24/09/2024 06:33,
+KATA-3345,Story,New,KATA,Openshift sandboxed containers,software,,23/09/2024 10:32,
+KATA-3343,Feature,New,KATA,Openshift sandboxed containers,software,,20/09/2024 11:25,
+KATA-3342,Story,Closed,KATA,Openshift sandboxed containers,software,Done,20/09/2024 11:23,13/11/2024 15:12
+KATA-3341,Feature,Closed,KATA,Openshift sandboxed containers,software,Duplicate,20/09/2024 11:19,20/09/2024 11:22
+KATA-3340,Feature,Closed,KATA,Openshift sandboxed containers,software,Duplicate,20/09/2024 11:19,20/09/2024 11:20
+KATA-3339,Feature,New,KATA,Openshift sandboxed containers,software,,20/09/2024 11:18,
+KATA-3338,Story,Closed,KATA,Openshift sandboxed containers,software,Done,19/09/2024 09:55,24/09/2024 09:42
+KATA-3337,Epic,In Progress,KATA,Openshift sandboxed containers,software,,19/09/2024 09:53,
+KATA-3336,Story,New,KATA,Openshift sandboxed containers,software,,19/09/2024 07:04,
+KATA-3335,Story,New,KATA,Openshift sandboxed containers,software,,19/09/2024 07:03,
+KATA-3334,Story,New,KATA,Openshift sandboxed containers,software,,19/09/2024 06:58,
+KATA-3333,Epic,New,KATA,Openshift sandboxed containers,software,,19/09/2024 06:54,
+KATA-3332,Bug,New,KATA,Openshift sandboxed containers,software,,18/09/2024 20:04,
+KATA-3331,Bug,In Progress,KATA,Openshift sandboxed containers,software,,18/09/2024 15:35,
+KATA-3330,Epic,New,KATA,Openshift sandboxed containers,software,,18/09/2024 15:22,
+KATA-3329,Feature,New,KATA,Openshift sandboxed containers,software,,18/09/2024 14:41,
+KATA-3328,Feature,New,KATA,Openshift sandboxed containers,software,,15/09/2024 21:37,
+KATA-3327,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,12/09/2024 14:05,16/09/2024 13:45
+KATA-3326,Story,New,KATA,Openshift sandboxed containers,software,,11/09/2024 20:22,
+KATA-3325,Story,New,KATA,Openshift sandboxed containers,software,,11/09/2024 20:22,
+KATA-3324,Story,New,KATA,Openshift sandboxed containers,software,,11/09/2024 20:22,
+KATA-3323,Story,New,KATA,Openshift sandboxed containers,software,,11/09/2024 20:22,
+KATA-3322,Epic,New,KATA,Openshift sandboxed containers,software,,11/09/2024 20:22,
+KATA-3321,Story,New,KATA,Openshift sandboxed containers,software,,11/09/2024 20:22,
+KATA-3320,Story,New,KATA,Openshift sandboxed containers,software,,11/09/2024 20:22,
+KATA-3319,Story,New,KATA,Openshift sandboxed containers,software,,11/09/2024 20:22,
+KATA-3318,Story,New,KATA,Openshift sandboxed containers,software,,11/09/2024 20:22,
+KATA-3317,Epic,New,KATA,Openshift sandboxed containers,software,,11/09/2024 20:22,
+KATA-3316,Bug,Closed,KATA,Openshift sandboxed containers,software,Not a Bug,11/09/2024 20:22,07/10/2024 13:31
+KATA-3315,Feature,New,KATA,Openshift sandboxed containers,software,,11/09/2024 17:26,
+KATA-3314,Feature,New,KATA,Openshift sandboxed containers,software,,11/09/2024 17:23,
+KATA-3313,Bug,New,KATA,Openshift sandboxed containers,software,,11/09/2024 15:26,
+KATA-3312,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,10/09/2024 13:12,13/09/2024 12:34
+KATA-3311,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,10/09/2024 13:06,13/09/2024 12:35
+KATA-3310,Story,New,KATA,Openshift sandboxed containers,software,,10/09/2024 11:09,
+KATA-3309,Story,New,KATA,Openshift sandboxed containers,software,,10/09/2024 11:06,
+KATA-3308,Story,New,KATA,Openshift sandboxed containers,software,,10/09/2024 11:06,
+KATA-3307,Epic,New,KATA,Openshift sandboxed containers,software,,10/09/2024 11:00,
+KATA-3306,Feature,New,KATA,Openshift sandboxed containers,software,,10/09/2024 10:52,
+KATA-3305,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,06/09/2024 17:44,16/09/2024 13:53
+KATA-3304,Feature,New,KATA,Openshift sandboxed containers,software,,06/09/2024 12:27,
+KATA-3303,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,06/09/2024 09:31,10/09/2024 13:11
+KATA-3302,Story,Closed,KATA,Openshift sandboxed containers,software,Done,05/09/2024 16:00,10/09/2024 12:03
+KATA-3301,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,05/09/2024 15:03,10/09/2024 13:40
+KATA-3300,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,04/09/2024 17:17,16/09/2024 13:43
+KATA-3296,Bug,New,KATA,Openshift sandboxed containers,software,,29/08/2024 04:51,
+KATA-3295,Bug,Closed,KATA,Openshift sandboxed containers,software,Done-Errata,28/08/2024 17:09,19/09/2024 15:07
+KATA-3294,Task,Closed,KATA,Openshift sandboxed containers,software,Done,28/08/2024 12:36,10/09/2024 13:11
+KATA-3293,Story,Closed,KATA,Openshift sandboxed containers,software,Done,27/08/2024 14:12,03/09/2024 12:05
+KATA-3292,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,27/08/2024 12:22,10/09/2024 13:11
+KATA-3291,Bug,Closed,KATA,Openshift sandboxed containers,software,Done-Errata,27/08/2024 11:09,19/09/2024 15:07
+KATA-3290,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,27/08/2024 10:52,11/09/2024 10:36
+KATA-3286,Bug,Closed,KATA,Openshift sandboxed containers,software,Not a Bug,26/08/2024 18:37,29/08/2024 17:44
+KATA-3285,Story,Closed,KATA,Openshift sandboxed containers,software,Done,26/08/2024 16:59,27/08/2024 11:45
+KATA-3283,Feature,Closed,KATA,Openshift sandboxed containers,software,Done,26/08/2024 15:07,04/09/2024 21:53
+KATA-3281,Feature,In Progress,KATA,Openshift sandboxed containers,software,,22/08/2024 05:41,
+KATA-3280,Task,Closed,KATA,Openshift sandboxed containers,software,Done,21/08/2024 18:13,16/09/2024 13:09
+KATA-3279,Feature,New,KATA,Openshift sandboxed containers,software,,21/08/2024 14:49,
+KATA-3276,Story,Closed,KATA,Openshift sandboxed containers,software,Done,20/08/2024 13:59,26/08/2024 12:22
+KATA-3275,Bug,Closed,KATA,Openshift sandboxed containers,software,Cannot Reproduce,15/08/2024 14:53,15/08/2024 18:05
+KATA-3274,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,13/08/2024 14:57,29/08/2024 14:45
+KATA-3273,Bug,New,KATA,Openshift sandboxed containers,software,,12/08/2024 16:04,
+KATA-3272,Story,New,KATA,Openshift sandboxed containers,software,,12/08/2024 15:12,
+KATA-3271,Story,In Progress,KATA,Openshift sandboxed containers,software,,12/08/2024 14:42,
+KATA-3269,Story,Closed,KATA,Openshift sandboxed containers,software,Done,11/08/2024 09:29,16/09/2024 13:48
+KATA-3268,Bug,Closed,KATA,Openshift sandboxed containers,software,Not a Bug,09/08/2024 16:39,11/08/2024 08:58
+KATA-3267,Task,Closed,KATA,Openshift sandboxed containers,software,Done,08/08/2024 21:20,08/08/2024 21:22
+KATA-3265,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,08/08/2024 11:40,13/10/2024 10:01
+KATA-3264,Story,Closed,KATA,Openshift sandboxed containers,software,Done,07/08/2024 15:40,18/09/2024 12:35
+KATA-3263,Story,New,KATA,Openshift sandboxed containers,software,,06/08/2024 23:23,
+KATA-3261,Bug,Refinement,KATA,Openshift sandboxed containers,software,,06/08/2024 08:08,
+KATA-3260,Story,New,KATA,Openshift sandboxed containers,software,,05/08/2024 19:51,
+KATA-3259,Bug,Closed,KATA,Openshift sandboxed containers,software,Not a Bug,05/08/2024 19:14,16/08/2024 14:23
+KATA-3258,Task,Closed,KATA,Openshift sandboxed containers,software,Done,05/08/2024 15:24,26/08/2024 12:19
+KATA-3257,Task,Closed,KATA,Openshift sandboxed containers,software,Duplicate,05/08/2024 15:23,09/08/2024 17:36
+KATA-3256,Epic,Closed,KATA,Openshift sandboxed containers,software,Duplicate,05/08/2024 15:21,09/08/2024 17:29
+KATA-3255,Story,New,KATA,Openshift sandboxed containers,software,,05/08/2024 13:12,
+KATA-3254,Bug,Closed,KATA,Openshift sandboxed containers,software,Duplicate,01/08/2024 18:26,31/08/2024 03:26
+KATA-3252,Story,New,KATA,Openshift sandboxed containers,software,,01/08/2024 15:05,
+KATA-3251,Spike,New,KATA,Openshift sandboxed containers,software,,01/08/2024 12:05,
+KATA-3250,Story,New,KATA,Openshift sandboxed containers,software,,01/08/2024 11:56,
+KATA-3249,Epic,New,KATA,Openshift sandboxed containers,software,,01/08/2024 11:41,
+KATA-3248,Feature,New,KATA,Openshift sandboxed containers,software,,01/08/2024 08:50,
+KATA-3244,Epic,New,KATA,Openshift sandboxed containers,software,,30/07/2024 04:44,
+KATA-3243,Task,Closed,KATA,Openshift sandboxed containers,software,Done,29/07/2024 13:02,09/08/2024 17:44
+KATA-3242,Task,New,KATA,Openshift sandboxed containers,software,,29/07/2024 12:58,
+KATA-3235,Bug,Closed,KATA,Openshift sandboxed containers,software,Done-Errata,26/07/2024 18:35,19/09/2024 15:07
+KATA-3234,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,26/07/2024 17:38,26/08/2024 12:21
+KATA-3233,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,25/07/2024 14:43,05/08/2024 13:13
+KATA-3229,Story,Closed,KATA,Openshift sandboxed containers,software,Done,19/07/2024 14:04,16/09/2024 16:49
+KATA-3228,Story,Closed,KATA,Openshift sandboxed containers,software,Done,19/07/2024 13:12,12/08/2024 09:22
+KATA-3225,Story,Closed,KATA,Openshift sandboxed containers,software,Done,19/07/2024 12:40,16/09/2024 13:52
+KATA-3224,Story,Closed,KATA,Openshift sandboxed containers,software,Done,19/07/2024 09:38,29/07/2024 12:37
+KATA-3222,Story,Closed,KATA,Openshift sandboxed containers,software,Done,19/07/2024 09:07,03/09/2024 14:49
+KATA-3221,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,18/07/2024 16:25,08/08/2024 12:30
+KATA-3220,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,18/07/2024 16:23,24/07/2024 12:34
+KATA-3219,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,18/07/2024 16:15,08/08/2024 12:31
+KATA-3218,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,18/07/2024 13:21,11/09/2024 08:39
+KATA-3217,Story,Closed,KATA,Openshift sandboxed containers,software,Done,18/07/2024 12:39,16/09/2024 13:34
+KATA-3216,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,18/07/2024 12:17,22/07/2024 18:12
+KATA-3215,Story,New,KATA,Openshift sandboxed containers,software,,18/07/2024 11:34,
+KATA-3214,Story,Closed,KATA,Openshift sandboxed containers,software,Done,18/07/2024 11:30,05/08/2024 13:08
+KATA-3213,Story,Closed,KATA,Openshift sandboxed containers,software,Done,18/07/2024 11:27,05/08/2024 13:09
+KATA-3210,Story,Closed,KATA,Openshift sandboxed containers,software,Done,16/07/2024 07:47,30/07/2024 08:23
+KATA-3209,Story,Closed,KATA,Openshift sandboxed containers,software,Done,15/07/2024 11:32,30/08/2024 18:34
+KATA-3207,Spike,New,KATA,Openshift sandboxed containers,software,,12/07/2024 16:41,
+KATA-3206,Spike,New,KATA,Openshift sandboxed containers,software,,12/07/2024 16:37,
+KATA-3205,Feature,New,KATA,Openshift sandboxed containers,software,,12/07/2024 14:51,
+KATA-3204,Story,New,KATA,Openshift sandboxed containers,software,,12/07/2024 14:38,
+KATA-3203,Task,Closed,KATA,Openshift sandboxed containers,software,Done,12/07/2024 13:56,05/08/2024 13:07
+KATA-3201,Story,In Progress,KATA,Openshift sandboxed containers,software,,11/07/2024 15:48,
+KATA-3200,Feature,New,KATA,Openshift sandboxed containers,software,,10/07/2024 03:00,
+KATA-3199,Epic,Closed,KATA,Openshift sandboxed containers,software,Duplicate,10/07/2024 02:56,10/07/2024 15:02
+KATA-3198,Story,Closed,KATA,Openshift sandboxed containers,software,Done,08/07/2024 10:45,07/10/2024 13:23
+KATA-3197,Story,New,KATA,Openshift sandboxed containers,software,,08/07/2024 08:53,
+KATA-3196,Story,Closed,KATA,Openshift sandboxed containers,software,Done,05/07/2024 14:59,26/08/2024 15:02
+KATA-3195,Story,Review,KATA,Openshift sandboxed containers,software,,05/07/2024 05:12,
+KATA-3194,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,04/07/2024 09:57,12/07/2024 13:51
+KATA-3193,Story,Closed,KATA,Openshift sandboxed containers,software,Done,04/07/2024 04:01,05/08/2024 13:11
+KATA-3192,Feature,New,KATA,Openshift sandboxed containers,software,,03/07/2024 12:34,
+KATA-3191,Feature,New,KATA,Openshift sandboxed containers,software,,03/07/2024 12:33,
+KATA-3190,Story,Closed,KATA,Openshift sandboxed containers,software,Duplicate,02/07/2024 15:26,22/07/2024 13:22
+KATA-3189,Task,Closed,KATA,Openshift sandboxed containers,software,Not a Bug,02/07/2024 07:04,02/07/2024 14:53
+KATA-3188,Bug,New,KATA,Openshift sandboxed containers,software,,01/07/2024 17:23,
+KATA-3187,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,01/07/2024 15:39,29/07/2024 12:20
+KATA-3186,Feature,New,KATA,Openshift sandboxed containers,software,,01/07/2024 14:03,
+KATA-3185,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,29/06/2024 16:21,15/07/2024 12:43
+KATA-3184,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,28/06/2024 15:09,05/08/2024 13:05
+KATA-3183,Task,Closed,KATA,Openshift sandboxed containers,software,Done,28/06/2024 06:36,25/09/2024 21:44
+KATA-3170,Task,Closed,KATA,Openshift sandboxed containers,software,Done,03/11/2023 14:38,06/09/2024 22:34
+KATA-3168,Bug,New,KATA,Openshift sandboxed containers,software,,27/06/2024 09:23,
+KATA-3156,Story,Closed,KATA,Openshift sandboxed containers,software,Done,27/06/2024 03:31,15/07/2024 13:18
+KATA-3155,Story,Closed,KATA,Openshift sandboxed containers,software,Done,27/06/2024 03:23,11/09/2024 10:50
+KATA-3154,Story,Closed,KATA,Openshift sandboxed containers,software,Done,27/06/2024 03:17,19/07/2024 13:50
+KATA-3153,Story,New,KATA,Openshift sandboxed containers,software,,26/06/2024 13:59,
+KATA-3152,Story,New,KATA,Openshift sandboxed containers,software,,26/06/2024 13:57,
+KATA-3151,Story,New,KATA,Openshift sandboxed containers,software,,26/06/2024 13:54,
+KATA-3150,Story,New,KATA,Openshift sandboxed containers,software,,26/06/2024 13:47,
+KATA-3149,Epic,New,KATA,Openshift sandboxed containers,software,,26/06/2024 13:40,
+KATA-3146,Feature,New,KATA,Openshift sandboxed containers,software,,24/06/2024 19:11,
+KATA-3145,Feature,Closed,KATA,Openshift sandboxed containers,software,Duplicate,24/06/2024 19:10,17/07/2024 14:06
+KATA-3144,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,24/06/2024 15:08,08/07/2024 10:40
+KATA-3143,Epic,In Progress,KATA,Openshift sandboxed containers,software,,24/06/2024 15:06,
+KATA-3142,Bug,New,KATA,Openshift sandboxed containers,software,,24/06/2024 12:18,
+KATA-3141,Epic,New,KATA,Openshift sandboxed containers,software,,24/06/2024 12:07,
+KATA-3140,Story,Closed,KATA,Openshift sandboxed containers,software,Done,24/06/2024 12:05,15/07/2024 08:37
+KATA-3139,Story,Closed,KATA,Openshift sandboxed containers,software,Done,24/06/2024 11:18,04/07/2024 09:38
+KATA-3138,Bug,New,KATA,Openshift sandboxed containers,software,,24/06/2024 08:44,
+KATA-3137,Outcome,Closed,KATA,Openshift sandboxed containers,software,Obsolete,21/06/2024 20:44,02/07/2024 13:04
+KATA-3136,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,21/06/2024 16:43,15/07/2024 13:19
+KATA-3135,Feature,Review,KATA,Openshift sandboxed containers,software,,21/06/2024 08:13,
+KATA-3134,Epic,In Progress,KATA,Openshift sandboxed containers,software,,20/06/2024 15:47,
+KATA-3133,Story,New,KATA,Openshift sandboxed containers,software,,19/06/2024 18:51,
+KATA-3131,Story,Closed,KATA,Openshift sandboxed containers,software,Done,19/06/2024 09:50,28/06/2024 09:09
+KATA-3130,Story,Review,KATA,Openshift sandboxed containers,software,,19/06/2024 00:43,
+KATA-3129,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,18/06/2024 12:12,24/07/2024 12:32
+KATA-3128,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,18/06/2024 11:42,15/07/2024 08:40
+KATA-3127,Spike,New,KATA,Openshift sandboxed containers,software,,16/06/2024 13:05,
+KATA-3126,Story,New,KATA,Openshift sandboxed containers,software,,14/06/2024 15:46,
+KATA-3125,Story,Closed,KATA,Openshift sandboxed containers,software,Done,14/06/2024 15:43,24/06/2024 10:12
+KATA-3123,Story,New,KATA,Openshift sandboxed containers,software,,11/06/2024 19:26,
+KATA-3122,Story,Review,KATA,Openshift sandboxed containers,software,,11/06/2024 19:23,
+KATA-3121,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,10/06/2024 14:03,11/06/2024 16:59
+KATA-3120,Task,Refinement,KATA,Openshift sandboxed containers,software,,10/06/2024 12:58,
+KATA-3119,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,06/06/2024 19:42,11/06/2024 19:28
+KATA-3118,Spike,Closed,KATA,Openshift sandboxed containers,software,Obsolete,06/06/2024 19:38,07/06/2024 12:27
+KATA-3116,Bug,Refinement,KATA,Openshift sandboxed containers,software,,06/06/2024 13:32,
+KATA-3115,Feature,New,KATA,Openshift sandboxed containers,software,,06/06/2024 13:00,
+KATA-3114,Bug,Refinement,KATA,Openshift sandboxed containers,software,,06/06/2024 07:23,
+KATA-3113,Feature,Closed,KATA,Openshift sandboxed containers,software,Done,06/06/2024 07:09,24/06/2024 12:26
+KATA-3112,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,05/06/2024 12:32,12/06/2024 20:06
+KATA-3111,Epic,In Progress,KATA,Openshift sandboxed containers,software,,05/06/2024 07:50,
+KATA-3110,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,05/06/2024 07:41,26/08/2024 12:22
+KATA-3109,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,04/06/2024 18:35,06/06/2024 18:41
+KATA-3108,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,04/06/2024 18:31,06/06/2024 21:54
+KATA-3107,Story,Closed,KATA,Openshift sandboxed containers,software,Done,04/06/2024 15:21,17/06/2024 14:59
+KATA-3106,Story,New,KATA,Openshift sandboxed containers,software,,04/06/2024 14:33,
+KATA-3105,Story,Closed,KATA,Openshift sandboxed containers,software,Done,04/06/2024 12:01,18/06/2024 11:48
+KATA-3104,Story,Closed,KATA,Openshift sandboxed containers,software,Done,04/06/2024 09:38,19/06/2024 06:53
+KATA-3103,Story,Closed,KATA,Openshift sandboxed containers,software,Done,03/06/2024 18:14,05/06/2024 19:12
+KATA-3102,Story,Closed,KATA,Openshift sandboxed containers,software,Done,03/06/2024 18:10,05/06/2024 18:27
+KATA-3101,Story,Closed,KATA,Openshift sandboxed containers,software,Done,03/06/2024 15:28,05/06/2024 19:46
+KATA-3100,Story,Closed,KATA,Openshift sandboxed containers,software,Done,03/06/2024 15:27,03/06/2024 16:56
+KATA-3099,Story,Review,KATA,Openshift sandboxed containers,software,,03/06/2024 15:02,
+KATA-3098,Epic,In Progress,KATA,Openshift sandboxed containers,software,,03/06/2024 14:57,
+KATA-3097,Task,Refinement,KATA,Openshift sandboxed containers,software,,03/06/2024 14:47,
+KATA-3096,Story,Closed,KATA,Openshift sandboxed containers,software,Done,03/06/2024 14:08,18/10/2024 12:49
+KATA-3095,Story,Closed,KATA,Openshift sandboxed containers,software,Done,03/06/2024 14:08,18/10/2024 12:50
+KATA-3094,Story,Closed,KATA,Openshift sandboxed containers,software,Done,03/06/2024 14:08,18/10/2024 12:48
+KATA-3093,Story,Closed,KATA,Openshift sandboxed containers,software,Done,03/06/2024 14:08,07/08/2024 14:38
+KATA-3092,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,03/06/2024 14:07,18/10/2024 12:51
+KATA-3091,Story,Closed,KATA,Openshift sandboxed containers,software,Done,03/06/2024 14:07,06/06/2024 13:34
+KATA-3090,Story,Closed,KATA,Openshift sandboxed containers,software,Done,03/06/2024 14:07,06/06/2024 12:59
+KATA-3089,Story,Closed,KATA,Openshift sandboxed containers,software,Done,03/06/2024 14:07,18/10/2024 12:49
+KATA-3088,Story,Closed,KATA,Openshift sandboxed containers,software,Done,03/06/2024 14:07,06/06/2024 12:47
+KATA-3087,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,03/06/2024 14:07,18/10/2024 12:50
+KATA-3086,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,31/05/2024 15:03,04/06/2024 15:59
+KATA-3085,Story,Closed,KATA,Openshift sandboxed containers,software,Done,31/05/2024 09:46,03/06/2024 09:53
+KATA-3083,Story,Closed,KATA,Openshift sandboxed containers,software,Done,30/05/2024 12:57,08/07/2024 08:51
+KATA-3081,Bug,Refinement,KATA,Openshift sandboxed containers,software,,30/05/2024 04:51,
+KATA-3080,Story,New,KATA,Openshift sandboxed containers,software,,29/05/2024 12:14,
+KATA-3079,Story,New,KATA,Openshift sandboxed containers,software,,29/05/2024 09:23,
+KATA-3078,Story,Closed,KATA,Openshift sandboxed containers,software,Done,29/05/2024 09:22,24/07/2024 13:19
+KATA-3077,Story,Closed,KATA,Openshift sandboxed containers,software,Done,29/05/2024 09:20,24/07/2024 12:31
+KATA-3076,Story,Closed,KATA,Openshift sandboxed containers,software,Done,29/05/2024 09:17,24/07/2024 13:15
+KATA-3075,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,29/05/2024 09:14,24/07/2024 12:39
+KATA-3074,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,29/05/2024 09:08,18/06/2024 11:58
+KATA-3072,Story,Closed,KATA,Openshift sandboxed containers,software,Done,27/05/2024 12:01,03/06/2024 12:08
+KATA-3071,Feature,New,KATA,Openshift sandboxed containers,software,,23/05/2024 12:53,
+KATA-3070,Story,Closed,KATA,Openshift sandboxed containers,software,Done,23/05/2024 08:56,03/06/2024 10:35
+KATA-3051,Story,New,KATA,Openshift sandboxed containers,software,,22/05/2024 17:31,
+KATA-3050,Story,New,KATA,Openshift sandboxed containers,software,,22/05/2024 17:29,
+KATA-3049,Epic,New,KATA,Openshift sandboxed containers,software,,22/05/2024 17:26,
+KATA-3048,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,22/05/2024 16:29,31/05/2024 09:38
+KATA-3047,Story,Closed,KATA,Openshift sandboxed containers,software,Done,22/05/2024 16:20,31/05/2024 09:42
+KATA-3029,Story,Closed,KATA,Openshift sandboxed containers,software,Done,22/05/2024 13:22,03/06/2024 13:07
+KATA-3008,Task,Closed,KATA,Openshift sandboxed containers,software,Done,22/05/2024 09:23,17/07/2024 12:24
+KATA-3007,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,21/05/2024 16:35,28/05/2024 12:05
+KATA-3006,Story,Closed,KATA,Openshift sandboxed containers,software,Done,20/05/2024 12:06,31/05/2024 12:21
+KATA-3005,Feature,New,KATA,Openshift sandboxed containers,software,,20/05/2024 06:20,
+KATA-3004,Feature,In Progress,KATA,Openshift sandboxed containers,software,,17/05/2024 09:35,
+KATA-3003,Story,Closed,KATA,Openshift sandboxed containers,software,Done,16/05/2024 14:02,16/06/2024 13:02
+KATA-3002,Story,In Progress,KATA,Openshift sandboxed containers,software,,16/05/2024 12:14,
+KATA-3001,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,16/05/2024 11:04,23/05/2024 09:08
+KATA-3000,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,16/05/2024 09:06,16/05/2024 20:18
+KATA-2999,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,15/05/2024 14:44,14/06/2024 13:48
+KATA-2998,Spike,New,KATA,Openshift sandboxed containers,software,,15/05/2024 14:41,
+KATA-2997,Spike,Closed,KATA,Openshift sandboxed containers,software,Won't Do,15/05/2024 13:52,16/05/2024 10:08
+KATA-2996,Spike,Closed,KATA,Openshift sandboxed containers,software,Duplicate,15/05/2024 13:49,16/05/2024 10:07
+KATA-2995,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,15/05/2024 13:47,16/05/2024 10:16
+KATA-2994,Story,Closed,KATA,Openshift sandboxed containers,software,Done,15/05/2024 11:38,29/05/2024 12:02
+KATA-2992,Bug,New,KATA,Openshift sandboxed containers,software,,14/05/2024 17:44,
+KATA-2991,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,14/05/2024 11:29,29/05/2024 11:58
+KATA-2990,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,14/05/2024 10:41,22/05/2024 09:05
+KATA-2989,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,14/05/2024 10:11,18/06/2024 12:22
+KATA-2988,Story,Closed,KATA,Openshift sandboxed containers,software,Done,13/05/2024 15:10,18/06/2024 13:53
+KATA-2987,Feature,New,KATA,Openshift sandboxed containers,software,,13/05/2024 12:43,
+KATA-2986,Story,Closed,KATA,Openshift sandboxed containers,software,Done,09/05/2024 17:49,24/06/2024 13:11
+KATA-2985,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,09/05/2024 17:29,17/05/2024 20:14
+KATA-2984,Story,Closed,KATA,Openshift sandboxed containers,software,Done,09/05/2024 11:17,13/05/2024 11:33
+KATA-2983,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,09/05/2024 10:52,03/06/2024 10:35
+KATA-2982,Bug,Closed,KATA,Openshift sandboxed containers,software,Done-Errata,09/05/2024 07:21,19/06/2024 05:53
+KATA-2981,Epic,New,KATA,Openshift sandboxed containers,software,,09/05/2024 06:53,
+KATA-2980,Bug,Closed,KATA,Openshift sandboxed containers,software,Duplicate,08/05/2024 19:31,16/05/2024 20:14
+KATA-2979,Bug,Closed,KATA,Openshift sandboxed containers,software,Cannot Reproduce,08/05/2024 19:10,29/05/2024 12:18
+KATA-2978,Bug,Closed,KATA,Openshift sandboxed containers,software,Cannot Reproduce,08/05/2024 13:47,13/05/2024 08:23
+KATA-2977,Story,Closed,KATA,Openshift sandboxed containers,software,Obsolete,08/05/2024 13:17,08/07/2024 12:27
+KATA-2976,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,08/05/2024 12:48,30/05/2024 13:00
+KATA-2975,Epic,New,KATA,Openshift sandboxed containers,software,,08/05/2024 09:04,
+KATA-2974,Task,Closed,KATA,Openshift sandboxed containers,software,Done,07/05/2024 12:24,29/05/2024 12:52
+KATA-2973,Story,New,KATA,Openshift sandboxed containers,software,,07/05/2024 11:26,
+KATA-2972,Spike,In Progress,KATA,Openshift sandboxed containers,software,,07/05/2024 08:49,
+KATA-2971,Spike,New,KATA,Openshift sandboxed containers,software,,06/05/2024 14:38,
+KATA-2970,Spike,In Progress,KATA,Openshift sandboxed containers,software,,06/05/2024 12:12,
+KATA-2969,Story,Closed,KATA,Openshift sandboxed containers,software,Done,06/05/2024 11:51,13/05/2024 11:33
+KATA-2968,Feature,New,KATA,Openshift sandboxed containers,software,,06/05/2024 08:23,
+KATA-2967,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,03/05/2024 17:59,08/05/2024 12:44
+KATA-2966,Bug,Closed,KATA,Openshift sandboxed containers,software,Duplicate,03/05/2024 17:14,07/05/2024 12:24
+KATA-2965,Bug,Closed,KATA,Openshift sandboxed containers,software,Not a Bug,02/05/2024 18:09,09/05/2024 14:46
+KATA-2964,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,02/05/2024 15:37,05/06/2024 12:26
+KATA-2963,Bug,Closed,KATA,Openshift sandboxed containers,software,Duplicate,02/05/2024 15:27,08/05/2024 12:51
+KATA-2962,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,02/05/2024 14:14,03/06/2024 13:13
+KATA-2961,Bug,Closed,KATA,Openshift sandboxed containers,software,Duplicate,02/05/2024 14:11,31/05/2024 08:24
+KATA-2960,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,02/05/2024 11:53,18/06/2024 09:25
+KATA-2959,Epic,New,KATA,Openshift sandboxed containers,software,,02/05/2024 07:22,
+KATA-2958,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,01/05/2024 18:14,03/06/2024 13:12
+KATA-2957,Epic,New,KATA,Openshift sandboxed containers,software,,01/05/2024 17:14,
+KATA-2956,Story,Closed,KATA,Openshift sandboxed containers,software,Done,01/05/2024 12:30,16/06/2024 13:25
+KATA-2955,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,30/04/2024 18:56,28/05/2024 17:21
+KATA-2954,Epic,New,KATA,Openshift sandboxed containers,software,,30/04/2024 15:27,
+KATA-2953,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,29/04/2024 16:16,22/07/2024 12:39
+KATA-2952,Spike,Closed,KATA,Openshift sandboxed containers,software,Won't Do,29/04/2024 15:55,14/08/2024 12:52
+KATA-2951,Feature,New,KATA,Openshift sandboxed containers,software,,29/04/2024 15:53,
+KATA-2950,Story,Closed,KATA,Openshift sandboxed containers,software,Obsolete,29/04/2024 15:51,03/06/2024 15:28
+KATA-2949,Story,Closed,KATA,Openshift sandboxed containers,software,Duplicate,29/04/2024 14:44,10/07/2024 12:29
+KATA-2948,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,29/04/2024 14:17,30/04/2024 19:05
+KATA-2947,Story,Closed,KATA,Openshift sandboxed containers,software,Done,26/04/2024 12:16,30/05/2024 12:55
+KATA-2946,Story,Closed,KATA,Openshift sandboxed containers,software,Done,26/04/2024 10:45,15/07/2024 13:17
+KATA-2945,Story,Closed,KATA,Openshift sandboxed containers,software,Done,26/04/2024 10:45,15/07/2024 13:16
+KATA-2944,Spike,New,KATA,Openshift sandboxed containers,software,,26/04/2024 10:41,
+KATA-2943,Story,Closed,KATA,Openshift sandboxed containers,software,Done,26/04/2024 10:38,15/07/2024 13:15
+KATA-2942,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,26/04/2024 10:33,18/09/2024 12:31
+KATA-2941,Story,Closed,KATA,Openshift sandboxed containers,software,Obsolete,26/04/2024 10:12,24/07/2024 12:45
+KATA-2940,Story,Closed,KATA,Openshift sandboxed containers,software,Done,25/04/2024 16:56,28/05/2024 07:00
+KATA-2939,Task,Closed,KATA,Openshift sandboxed containers,software,Obsolete,25/04/2024 14:37,24/06/2024 13:37
+KATA-2938,Task,Closed,KATA,Openshift sandboxed containers,software,Done,25/04/2024 14:23,17/07/2024 12:24
+KATA-2937,Task,Closed,KATA,Openshift sandboxed containers,software,Done,25/04/2024 14:18,24/06/2024 13:10
+KATA-2934,Task,Closed,KATA,Openshift sandboxed containers,software,Won't Do,25/04/2024 14:09,17/07/2024 12:32
+KATA-2933,Story,Closed,KATA,Openshift sandboxed containers,software,Done,25/04/2024 13:25,30/05/2024 11:49
+KATA-2931,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,24/04/2024 21:46,29/04/2024 15:30
+KATA-2930,Story,Closed,KATA,Openshift sandboxed containers,software,Done,24/04/2024 16:21,19/07/2024 12:53
+KATA-2929,Story,Closed,KATA,Openshift sandboxed containers,software,Done,24/04/2024 16:20,19/07/2024 12:50
+KATA-2927,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,23/04/2024 15:38,29/04/2024 14:47
+KATA-2926,Story,Closed,KATA,Openshift sandboxed containers,software,Done,22/04/2024 17:18,03/06/2024 12:09
+KATA-2925,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,22/04/2024 15:12,29/04/2024 16:00
+KATA-2924,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,22/04/2024 15:05,29/04/2024 16:01
+KATA-2923,Task,Closed,KATA,Openshift sandboxed containers,software,Done,22/04/2024 14:26,24/06/2024 13:11
+KATA-2922,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,22/04/2024 12:07,18/09/2024 12:34
+KATA-2921,Story,Closed,KATA,Openshift sandboxed containers,software,Done,22/04/2024 09:38,10/06/2024 15:00
+KATA-2920,Task,Closed,KATA,Openshift sandboxed containers,software,Done,19/04/2024 14:30,13/05/2024 13:06
+KATA-2919,Task,Closed,KATA,Openshift sandboxed containers,software,Cannot Reproduce,19/04/2024 07:46,07/05/2024 09:51
+KATA-2918,Bug,Closed,KATA,Openshift sandboxed containers,software,Cannot Reproduce,18/04/2024 19:26,22/04/2024 12:12
+KATA-2917,Story,Closed,KATA,Openshift sandboxed containers,software,Done,18/04/2024 13:24,24/04/2024 12:30
+KATA-2916,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,18/04/2024 13:19,09/05/2024 06:52
+KATA-2914,Story,Closed,KATA,Openshift sandboxed containers,software,Done,16/04/2024 11:27,22/04/2024 11:10
+KATA-2913,Story,Closed,KATA,Openshift sandboxed containers,software,Done,16/04/2024 11:24,22/04/2024 11:10
+KATA-2912,Task,Closed,KATA,Openshift sandboxed containers,software,Done,14/04/2024 09:00,14/04/2024 09:01
+KATA-2911,Story,Closed,KATA,Openshift sandboxed containers,software,Done,12/04/2024 13:16,22/04/2024 11:59
+KATA-2909,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,10/04/2024 14:44,17/04/2024 19:01
+KATA-2908,Story,Closed,KATA,Openshift sandboxed containers,software,Done,10/04/2024 14:03,17/04/2024 11:29
+KATA-2907,Story,Closed,KATA,Openshift sandboxed containers,software,Obsolete,10/04/2024 13:55,10/04/2024 14:22
+KATA-2906,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,10/04/2024 13:43,22/04/2024 13:38
+KATA-2905,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,10/04/2024 13:32,22/04/2024 13:38
+KATA-2904,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,10/04/2024 12:32,22/04/2024 13:45
+KATA-2903,Story,Closed,KATA,Openshift sandboxed containers,software,Done,09/04/2024 15:55,17/04/2024 11:02
+KATA-2902,Story,Closed,KATA,Openshift sandboxed containers,software,Done,09/04/2024 10:49,17/04/2024 11:01
+KATA-2901,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,08/04/2024 13:38,02/05/2024 12:03
+KATA-2900,Bug,New,KATA,Openshift sandboxed containers,software,,06/04/2024 10:09,
+KATA-2899,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,06/04/2024 09:43,09/04/2024 13:50
+KATA-2898,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,04/04/2024 18:50,09/04/2024 13:50
+KATA-2897,Story,Closed,KATA,Openshift sandboxed containers,software,Done,04/04/2024 11:22,08/04/2024 11:46
+KATA-2896,Story,Closed,KATA,Openshift sandboxed containers,software,Done,03/04/2024 17:21,05/09/2024 20:53
+KATA-2895,Story,Closed,KATA,Openshift sandboxed containers,software,Done,03/04/2024 17:21,10/04/2024 19:45
+KATA-2894,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,03/04/2024 17:15,25/04/2024 12:18
+KATA-2893,Story,Closed,KATA,Openshift sandboxed containers,software,Done,02/04/2024 14:56,24/04/2024 10:25
+KATA-2892,Story,New,KATA,Openshift sandboxed containers,software,,02/04/2024 14:08,
+KATA-2890,Story,Closed,KATA,Openshift sandboxed containers,software,Done,02/04/2024 13:09,19/04/2024 07:13
+KATA-2889,Story,Closed,KATA,Openshift sandboxed containers,software,Done,02/04/2024 13:04,22/04/2024 11:10
+KATA-2888,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,02/04/2024 11:33,24/04/2024 10:56
+KATA-2887,Spike,Refinement,KATA,Openshift sandboxed containers,software,,02/04/2024 10:52,
+KATA-2886,Epic,New,KATA,Openshift sandboxed containers,software,,01/04/2024 17:52,
+KATA-2885,Spike,In Progress,KATA,Openshift sandboxed containers,software,,01/04/2024 17:40,
+KATA-2884,Story,In Progress,KATA,Openshift sandboxed containers,software,,01/04/2024 17:30,
+KATA-2883,Story,Closed,KATA,Openshift sandboxed containers,software,Done,31/03/2024 07:33,02/04/2024 16:51
+KATA-2882,Feature,In Progress,KATA,Openshift sandboxed containers,software,,29/03/2024 13:53,
+KATA-2881,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,28/03/2024 19:10,09/04/2024 13:50
+KATA-2880,Story,Closed,KATA,Openshift sandboxed containers,software,Obsolete,28/03/2024 06:30,01/08/2024 15:05
+KATA-2879,Story,Closed,KATA,Openshift sandboxed containers,software,Done,28/03/2024 06:28,16/09/2024 13:36
+KATA-2878,Story,Closed,KATA,Openshift sandboxed containers,software,Done,27/03/2024 18:35,02/04/2024 12:15
+KATA-2877,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,27/03/2024 15:22,16/05/2024 21:00
+KATA-2876,Story,Closed,KATA,Openshift sandboxed containers,software,Done,27/03/2024 15:13,16/04/2024 12:16
+KATA-2873,Story,Closed,KATA,Openshift sandboxed containers,software,Duplicate,26/03/2024 16:24,28/03/2024 00:02
+KATA-2872,Story,Closed,KATA,Openshift sandboxed containers,software,Done,26/03/2024 12:00,19/04/2024 07:12
+KATA-2871,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,26/03/2024 11:20,10/09/2024 09:38
+KATA-2870,Epic,Release Pending,KATA,Openshift sandboxed containers,software,Done,26/03/2024 11:13,18/09/2024 12:27
+KATA-2869,Story,Closed,KATA,Openshift sandboxed containers,software,Done,25/03/2024 11:19,25/03/2024 11:20
+KATA-2868,Story,Closed,KATA,Openshift sandboxed containers,software,Obsolete,22/03/2024 19:53,24/09/2024 13:32
+KATA-2867,Feature,New,KATA,Openshift sandboxed containers,software,,22/03/2024 13:19,
+KATA-2866,Task,Closed,KATA,Openshift sandboxed containers,software,Obsolete,21/03/2024 14:11,08/05/2024 19:43
+KATA-2865,Task,Closed,KATA,Openshift sandboxed containers,software,Obsolete,21/03/2024 14:11,08/05/2024 19:43
+KATA-2864,Task,Closed,KATA,Openshift sandboxed containers,software,Obsolete,21/03/2024 14:11,08/05/2024 19:39
+KATA-2863,Task,Closed,KATA,Openshift sandboxed containers,software,Obsolete,21/03/2024 14:11,08/05/2024 19:39
+KATA-2862,Spike,Closed,KATA,Openshift sandboxed containers,software,Obsolete,21/03/2024 14:11,08/05/2024 19:38
+KATA-2861,Epic,Closed,KATA,Openshift sandboxed containers,software,Obsolete,21/03/2024 14:11,08/05/2024 19:37
+KATA-2860,Story,New,KATA,Openshift sandboxed containers,software,,20/03/2024 14:40,
+KATA-2859,Story,Closed,KATA,Openshift sandboxed containers,software,Done,19/03/2024 13:55,10/04/2024 13:02
+KATA-2857,Story,Closed,KATA,Openshift sandboxed containers,software,Done,18/03/2024 15:10,02/04/2024 12:22
+KATA-2856,Story,New,KATA,Openshift sandboxed containers,software,,18/03/2024 13:07,
+KATA-2855,Story,Closed,KATA,Openshift sandboxed containers,software,Done,15/03/2024 12:42,27/03/2024 15:44
+KATA-2854,Story,Closed,KATA,Openshift sandboxed containers,software,Done,15/03/2024 12:09,27/03/2024 15:41
+KATA-2853,Story,Closed,KATA,Openshift sandboxed containers,software,Done,15/03/2024 12:09,27/03/2024 15:41
+KATA-2852,Story,Closed,KATA,Openshift sandboxed containers,software,Done,15/03/2024 12:08,27/03/2024 15:41
+KATA-2851,Story,Closed,KATA,Openshift sandboxed containers,software,Done,15/03/2024 12:06,27/03/2024 15:42
+KATA-2850,Story,Closed,KATA,Openshift sandboxed containers,software,Done,15/03/2024 11:54,27/03/2024 17:38
+KATA-2849,Story,Closed,KATA,Openshift sandboxed containers,software,Done,15/03/2024 11:53,27/03/2024 17:38
+KATA-2848,Story,Closed,KATA,Openshift sandboxed containers,software,Done,15/03/2024 11:51,27/03/2024 17:37
+KATA-2847,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,13/03/2024 17:27,02/04/2024 12:17
+KATA-2846,Story,Closed,KATA,Openshift sandboxed containers,software,Done,13/03/2024 13:25,29/03/2024 18:29
+KATA-2845,Story,Closed,KATA,Openshift sandboxed containers,software,Done,13/03/2024 13:16,20/03/2024 07:57
+KATA-2844,Epic,New,KATA,Openshift sandboxed containers,software,,13/03/2024 10:21,
+KATA-2843,Feature,New,KATA,Openshift sandboxed containers,software,,13/03/2024 09:49,
+KATA-2842,Feature,New,KATA,Openshift sandboxed containers,software,,13/03/2024 09:40,
+KATA-2841,Bug,New,KATA,Openshift sandboxed containers,software,,12/03/2024 16:20,
+KATA-2840,Bug,New,KATA,Openshift sandboxed containers,software,,12/03/2024 16:02,
+KATA-2839,Feature,New,KATA,Openshift sandboxed containers,software,,12/03/2024 13:46,
+KATA-2838,Epic,New,KATA,Openshift sandboxed containers,software,,12/03/2024 13:36,
+KATA-2837,Epic,New,KATA,Openshift sandboxed containers,software,,12/03/2024 13:28,
+KATA-2836,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,12/03/2024 13:28,27/03/2024 17:40
+KATA-2835,Epic,New,KATA,Openshift sandboxed containers,software,,12/03/2024 12:59,
+KATA-2834,Feature,New,KATA,Openshift sandboxed containers,software,,12/03/2024 12:39,
+KATA-2833,Feature,New,KATA,Openshift sandboxed containers,software,,12/03/2024 12:09,
+KATA-2832,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,12/03/2024 12:05,13/03/2024 13:17
+KATA-2831,Spike,New,KATA,Openshift sandboxed containers,software,,12/03/2024 09:00,
+KATA-2830,Story,New,KATA,Openshift sandboxed containers,software,,11/03/2024 17:56,
+KATA-2829,Story,Closed,KATA,Openshift sandboxed containers,software,Done,11/03/2024 15:12,02/04/2024 12:28
+KATA-2828,Story,Closed,KATA,Openshift sandboxed containers,software,Done,11/03/2024 14:56,27/03/2024 12:54
+KATA-2827,Story,Closed,KATA,Openshift sandboxed containers,software,Done,11/03/2024 14:56,27/03/2024 12:54
+KATA-2826,Story,Closed,KATA,Openshift sandboxed containers,software,Done,11/03/2024 14:55,27/03/2024 12:57
+KATA-2825,Story,Closed,KATA,Openshift sandboxed containers,software,Done,11/03/2024 14:53,27/03/2024 12:58
+KATA-2824,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,11/03/2024 14:38,02/04/2024 12:15
+KATA-2823,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,11/03/2024 13:07,28/03/2024 06:26
+KATA-2822,Story,Closed,KATA,Openshift sandboxed containers,software,Done,11/03/2024 12:58,14/03/2024 09:56
+KATA-2821,Story,Closed,KATA,Openshift sandboxed containers,software,Done,11/03/2024 10:03,29/03/2024 07:54
+KATA-2820,Story,Closed,KATA,Openshift sandboxed containers,software,Done,11/03/2024 09:10,24/06/2024 13:06
+KATA-2819,Task,Closed,KATA,Openshift sandboxed containers,software,Obsolete,07/03/2024 14:23,08/05/2024 19:49
+KATA-2818,Task,Closed,KATA,Openshift sandboxed containers,software,Obsolete,07/03/2024 14:23,08/05/2024 19:49
+KATA-2817,Task,Closed,KATA,Openshift sandboxed containers,software,Obsolete,07/03/2024 14:23,08/05/2024 19:49
+KATA-2816,Task,Closed,KATA,Openshift sandboxed containers,software,Obsolete,07/03/2024 14:23,08/05/2024 19:49
+KATA-2815,Spike,Closed,KATA,Openshift sandboxed containers,software,Obsolete,07/03/2024 14:23,08/05/2024 19:48
+KATA-2814,Epic,Closed,KATA,Openshift sandboxed containers,software,Obsolete,07/03/2024 14:23,08/05/2024 19:48
+KATA-2813,Epic,New,KATA,Openshift sandboxed containers,software,,07/03/2024 13:36,
+KATA-2812,Story,Closed,KATA,Openshift sandboxed containers,software,Done,07/03/2024 13:29,24/07/2024 12:55
+KATA-2811,Task,Closed,KATA,Openshift sandboxed containers,software,Can't Do,04/03/2024 15:29,21/03/2024 12:23
+KATA-2810,Task,Closed,KATA,Openshift sandboxed containers,software,Can't Do,04/03/2024 15:29,21/03/2024 12:23
+KATA-2809,Task,Closed,KATA,Openshift sandboxed containers,software,Can't Do,04/03/2024 15:29,21/03/2024 12:23
+KATA-2808,Task,Closed,KATA,Openshift sandboxed containers,software,Can't Do,04/03/2024 15:29,21/03/2024 12:23
+KATA-2807,Spike,Closed,KATA,Openshift sandboxed containers,software,Can't Do,04/03/2024 15:29,21/03/2024 12:22
+KATA-2806,Epic,Closed,KATA,Openshift sandboxed containers,software,Can't Do,04/03/2024 15:29,21/03/2024 12:22
+KATA-2805,Task,New,KATA,Openshift sandboxed containers,software,,04/03/2024 14:29,
+KATA-2804,Spike,New,KATA,Openshift sandboxed containers,software,,04/03/2024 14:29,
+KATA-2803,Epic,Closed,KATA,Openshift sandboxed containers,software,Obsolete,04/03/2024 14:29,05/08/2024 15:06
+KATA-2802,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,04/03/2024 12:54,24/06/2024 12:26
+KATA-2801,Story,Closed,KATA,Openshift sandboxed containers,software,Done,04/03/2024 09:19,29/03/2024 18:27
+KATA-2800,Story,Closed,KATA,Openshift sandboxed containers,software,Done,04/03/2024 09:18,29/03/2024 18:24
+KATA-2799,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,02/03/2024 09:21,17/05/2024 08:04
+KATA-2798,Feature,In Progress,KATA,Openshift sandboxed containers,software,,02/03/2024 09:17,
+KATA-2797,Story,Refinement,KATA,Openshift sandboxed containers,software,,01/03/2024 19:21,
+KATA-2796,Spike,In Progress,KATA,Openshift sandboxed containers,software,,01/03/2024 17:36,
+KATA-2795,Story,Closed,KATA,Openshift sandboxed containers,software,Done,01/03/2024 15:28,12/03/2024 16:51
+KATA-2794,Story,Closed,KATA,Openshift sandboxed containers,software,Done,01/03/2024 15:28,12/03/2024 16:53
+KATA-2793,Story,Closed,KATA,Openshift sandboxed containers,software,Done,01/03/2024 15:27,11/03/2024 11:49
+KATA-2792,Story,Closed,KATA,Openshift sandboxed containers,software,Done,01/03/2024 13:23,29/03/2024 18:28
+KATA-2791,Story,Closed,KATA,Openshift sandboxed containers,software,Done,29/02/2024 12:47,06/08/2024 05:23
+KATA-2790,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,29/02/2024 00:45,16/05/2024 20:16
+KATA-2787,Story,Closed,KATA,Openshift sandboxed containers,software,Done,28/02/2024 13:35,28/02/2024 14:14
+KATA-2786,Story,New,KATA,Openshift sandboxed containers,software,,26/02/2024 17:34,
+KATA-2785,Story,Closed,KATA,Openshift sandboxed containers,software,Won't Do,26/02/2024 17:33,01/04/2024 18:03
+KATA-2784,Spike,New,KATA,Openshift sandboxed containers,software,,26/02/2024 13:41,
+KATA-2783,Bug,Closed,KATA,Openshift sandboxed containers,software,Cannot Reproduce,26/02/2024 08:31,01/03/2024 06:59
+KATA-2782,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,22/02/2024 11:56,18/06/2024 12:54
+KATA-2781,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,22/02/2024 11:08,24/04/2024 10:26
+KATA-2780,Feature,Closed,KATA,Openshift sandboxed containers,software,Done,22/02/2024 10:35,18/06/2024 13:03
+KATA-2779,Story,Closed,KATA,Openshift sandboxed containers,software,Done,21/02/2024 10:43,26/02/2024 07:01
+KATA-2778,Story,Closed,KATA,Openshift sandboxed containers,software,Done,20/02/2024 06:20,29/03/2024 07:00
+KATA-2777,Story,New,KATA,Openshift sandboxed containers,software,,20/02/2024 06:19,
+KATA-2776,Spike,In Progress,KATA,Openshift sandboxed containers,software,,20/02/2024 06:07,
+KATA-2775,Epic,New,KATA,Openshift sandboxed containers,software,,20/02/2024 06:06,
+KATA-2774,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,19/02/2024 13:42,08/03/2024 12:55
+KATA-2773,Epic,In Progress,KATA,Openshift sandboxed containers,software,,19/02/2024 13:40,
+KATA-2772,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,19/02/2024 13:30,11/03/2024 10:05
+KATA-2771,Story,Closed,KATA,Openshift sandboxed containers,software,Done,19/02/2024 02:46,11/03/2024 12:13
+KATA-2770,Story,Closed,KATA,Openshift sandboxed containers,software,Done,16/02/2024 05:17,29/02/2024 08:12
+KATA-2769,Story,New,KATA,Openshift sandboxed containers,software,,15/02/2024 18:37,
+KATA-2768,Story,Closed,KATA,Openshift sandboxed containers,software,Done,15/02/2024 12:25,08/08/2024 12:26
+KATA-2767,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,15/02/2024 12:21,22/04/2024 13:48
+KATA-2766,Task,Closed,KATA,Openshift sandboxed containers,software,Done,13/02/2024 19:57,07/11/2024 16:01
+KATA-2765,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,13/02/2024 19:57,07/11/2024 16:00
+KATA-2764,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,13/02/2024 19:57,07/11/2024 16:00
+KATA-2763,Epic,New,KATA,Openshift sandboxed containers,software,,13/02/2024 15:33,
+KATA-2762,Feature,New,KATA,Openshift sandboxed containers,software,,13/02/2024 15:28,
+KATA-2761,Story,Closed,KATA,Openshift sandboxed containers,software,Done,13/02/2024 14:32,13/02/2024 14:35
+KATA-2760,Story,New,KATA,Openshift sandboxed containers,software,,12/02/2024 14:01,
+KATA-2759,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,12/02/2024 13:55,26/02/2024 14:05
+KATA-2758,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,12/02/2024 13:53,26/02/2024 19:02
+KATA-2757,Epic,New,KATA,Openshift sandboxed containers,software,,12/02/2024 13:38,
+KATA-2756,Story,Closed,KATA,Openshift sandboxed containers,software,Done,08/02/2024 13:46,27/02/2024 09:53
+KATA-2755,Story,Refinement,KATA,Openshift sandboxed containers,software,,08/02/2024 13:43,
+KATA-2754,Task,Closed,KATA,Openshift sandboxed containers,software,Done,08/02/2024 13:10,04/03/2024 14:25
+KATA-2753,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,08/02/2024 13:10,04/03/2024 14:25
+KATA-2752,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,08/02/2024 13:10,04/03/2024 14:25
+KATA-2751,Task,New,KATA,Openshift sandboxed containers,software,,08/02/2024 12:43,
+KATA-2750,Spike,New,KATA,Openshift sandboxed containers,software,,08/02/2024 12:43,
+KATA-2749,Epic,Closed,KATA,Openshift sandboxed containers,software,Obsolete,08/02/2024 12:43,05/08/2024 15:05
+KATA-2748,Task,New,KATA,Openshift sandboxed containers,software,,08/02/2024 12:36,
+KATA-2747,Spike,New,KATA,Openshift sandboxed containers,software,,08/02/2024 12:36,
+KATA-2746,Epic,New,KATA,Openshift sandboxed containers,software,,08/02/2024 12:06,
+KATA-2744,Story,Closed,KATA,Openshift sandboxed containers,software,Done,07/02/2024 16:30,28/02/2024 13:14
+KATA-2743,Story,Closed,KATA,Openshift sandboxed containers,software,Done,07/02/2024 16:11,08/02/2024 09:03
+KATA-2741,Story,Closed,KATA,Openshift sandboxed containers,software,Done,07/02/2024 14:31,15/02/2024 18:39
+KATA-2740,Story,Closed,KATA,Openshift sandboxed containers,software,Done,07/02/2024 10:17,11/03/2024 14:44
+KATA-2739,Story,Closed,KATA,Openshift sandboxed containers,software,Done,07/02/2024 10:16,11/03/2024 14:43
+KATA-2738,Story,Closed,KATA,Openshift sandboxed containers,software,Done,07/02/2024 10:16,11/03/2024 14:44
+KATA-2737,Story,Closed,KATA,Openshift sandboxed containers,software,Done,07/02/2024 10:15,11/03/2024 14:44
+KATA-2736,Story,Closed,KATA,Openshift sandboxed containers,software,Done,06/02/2024 18:08,19/02/2024 12:58
+KATA-2735,Bug,New,KATA,Openshift sandboxed containers,software,,06/02/2024 12:54,
+KATA-2734,Story,Closed,KATA,Openshift sandboxed containers,software,Done,05/02/2024 16:05,06/02/2024 20:42
+KATA-2732,Spike,New,KATA,Openshift sandboxed containers,software,,05/02/2024 14:02,
+KATA-2731,Story,New,KATA,Openshift sandboxed containers,software,,05/02/2024 13:33,
+KATA-2730,Story,New,KATA,Openshift sandboxed containers,software,,05/02/2024 13:21,
+KATA-2729,Spike,New,KATA,Openshift sandboxed containers,software,,05/02/2024 13:13,
+KATA-2728,Story,Closed,KATA,Openshift sandboxed containers,software,Done,05/02/2024 13:10,12/02/2024 13:03
+KATA-2727,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,05/02/2024 12:59,31/07/2024 11:40
+KATA-2726,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,05/02/2024 12:57,31/07/2024 11:40
+KATA-2725,Story,Closed,KATA,Openshift sandboxed containers,software,Done,05/02/2024 12:54,07/03/2024 13:25
+KATA-2724,Story,Closed,KATA,Openshift sandboxed containers,software,Done,05/02/2024 12:51,07/03/2024 13:25
+KATA-2723,Epic,New,KATA,Openshift sandboxed containers,software,,02/02/2024 16:13,
+KATA-2722,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,02/02/2024 14:13,02/02/2024 14:31
+KATA-2721,Story,Closed,KATA,Openshift sandboxed containers,software,Done,02/02/2024 13:59,19/02/2024 13:32
+KATA-2720,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,02/02/2024 07:06,16/02/2024 13:05
+KATA-2719,Story,New,KATA,Openshift sandboxed containers,software,,01/02/2024 12:41,
+KATA-2718,Story,Closed,KATA,Openshift sandboxed containers,software,Done,01/02/2024 08:25,24/06/2024 12:22
+KATA-2717,Story,Closed,KATA,Openshift sandboxed containers,software,Done,01/02/2024 08:23,22/04/2024 11:55
+KATA-2716,Feature,In Progress,KATA,Openshift sandboxed containers,software,,31/01/2024 09:45,
+KATA-2715,Feature,In Progress,KATA,Openshift sandboxed containers,software,,31/01/2024 09:27,
+KATA-2714,Story,Closed,KATA,Openshift sandboxed containers,software,Done,31/01/2024 09:24,26/03/2024 09:48
+KATA-2713,Epic,New,KATA,Openshift sandboxed containers,software,,30/01/2024 14:42,
+KATA-2712,Story,Closed,KATA,Openshift sandboxed containers,software,Done,30/01/2024 13:45,01/03/2024 16:33
+KATA-2711,Story,Closed,KATA,Openshift sandboxed containers,software,Duplicate,30/01/2024 12:57,31/05/2024 09:37
+KATA-2710,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,30/01/2024 09:01,10/09/2024 09:43
+KATA-2709,Feature,New,KATA,Openshift sandboxed containers,software,,30/01/2024 08:55,
+KATA-2706,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,30/01/2024 07:49,01/02/2024 14:33
+KATA-2705,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,29/01/2024 12:43,07/02/2024 10:05
+KATA-2704,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,29/01/2024 12:41,12/03/2024 13:25
+KATA-2703,Feature,Closed,KATA,Openshift sandboxed containers,software,Done,29/01/2024 03:25,11/09/2024 04:05
+KATA-2701,Story,New,KATA,Openshift sandboxed containers,software,,25/01/2024 12:54,
+KATA-2700,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,25/01/2024 10:05,01/02/2024 15:03
+KATA-2699,Story,Closed,KATA,Openshift sandboxed containers,software,Duplicate,25/01/2024 05:25,16/02/2024 05:22
+KATA-2698,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,25/01/2024 05:12,16/02/2024 05:24
+KATA-2697,Feature,Closed,KATA,Openshift sandboxed containers,software,Done,23/01/2024 17:15,17/05/2024 20:14
+KATA-2696,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,23/01/2024 11:22,29/01/2024 14:08
+KATA-2695,Story,Closed,KATA,Openshift sandboxed containers,software,Done,23/01/2024 11:18,25/01/2024 15:00
+KATA-2694,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,18/01/2024 08:10,23/01/2024 07:23
+KATA-2693,Story,Closed,KATA,Openshift sandboxed containers,software,Done,17/01/2024 21:15,31/05/2024 12:25
+KATA-2692,Story,Closed,KATA,Openshift sandboxed containers,software,Done,17/01/2024 21:15,29/01/2024 13:13
+KATA-2691,Story,Closed,KATA,Openshift sandboxed containers,software,Done,16/01/2024 08:55,11/03/2024 12:31
+KATA-2690,Story,Closed,KATA,Openshift sandboxed containers,software,Done,16/01/2024 08:55,11/03/2024 12:30
+KATA-2689,Story,Closed,KATA,Openshift sandboxed containers,software,Done,16/01/2024 08:54,11/03/2024 12:31
+KATA-2688,Story,Closed,KATA,Openshift sandboxed containers,software,Done,16/01/2024 08:53,11/03/2024 12:31
+KATA-2687,Epic,Testing,KATA,Openshift sandboxed containers,software,,16/01/2024 08:50,
+KATA-2686,Epic,Closed,KATA,Openshift sandboxed containers,software,Duplicate,16/01/2024 08:41,29/01/2024 12:29
+KATA-2685,Story,Closed,KATA,Openshift sandboxed containers,software,Done,16/01/2024 06:30,29/01/2024 14:09
+KATA-2684,Story,Closed,KATA,Openshift sandboxed containers,software,Done,16/01/2024 06:26,22/01/2024 13:29
+KATA-2683,Story,Closed,KATA,Openshift sandboxed containers,software,Done,15/01/2024 17:13,16/01/2024 16:41
+KATA-2682,Story,Closed,KATA,Openshift sandboxed containers,software,Done,15/01/2024 16:52,06/02/2024 09:59
+KATA-2681,Story,Closed,KATA,Openshift sandboxed containers,software,Done,15/01/2024 16:49,06/02/2024 09:58
+KATA-2680,Story,Closed,KATA,Openshift sandboxed containers,software,Done,15/01/2024 16:48,15/01/2024 17:23
+KATA-2679,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,15/01/2024 16:46,19/02/2024 13:32
+KATA-2678,Story,Closed,KATA,Openshift sandboxed containers,software,Done,15/01/2024 08:13,29/01/2024 12:35
+KATA-2677,Feature,Closed,KATA,Openshift sandboxed containers,software,Done,12/01/2024 15:53,02/04/2024 15:14
+KATA-2676,Story,New,KATA,Openshift sandboxed containers,software,,11/01/2024 14:45,
+KATA-2675,Story,New,KATA,Openshift sandboxed containers,software,,11/01/2024 14:44,
+KATA-2674,Spike,New,KATA,Openshift sandboxed containers,software,,11/01/2024 14:43,
+KATA-2673,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,11/01/2024 14:43,13/02/2024 13:11
+KATA-2672,Story,Closed,KATA,Openshift sandboxed containers,software,Done,11/01/2024 14:12,06/03/2024 14:38
+KATA-2671,Story,Closed,KATA,Openshift sandboxed containers,software,Done,10/01/2024 20:12,31/01/2024 12:46
+KATA-2670,Story,Closed,KATA,Openshift sandboxed containers,software,Done,10/01/2024 19:51,15/01/2024 13:04
+KATA-2669,Story,Closed,KATA,Openshift sandboxed containers,software,Done,10/01/2024 19:51,10/01/2024 20:21
+KATA-2668,Story,Closed,KATA,Openshift sandboxed containers,software,Done,10/01/2024 10:34,15/01/2024 13:08
+KATA-2667,Story,Closed,KATA,Openshift sandboxed containers,software,Done,10/01/2024 10:28,10/01/2024 10:32
+KATA-2666,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,10/01/2024 10:24,29/01/2024 14:09
+KATA-2665,Story,Closed,KATA,Openshift sandboxed containers,software,Done,10/01/2024 05:37,29/01/2024 14:09
+KATA-2664,Story,Closed,KATA,Openshift sandboxed containers,software,Done,10/01/2024 05:30,14/02/2024 11:16
+KATA-2663,Story,Refinement,KATA,Openshift sandboxed containers,software,,09/01/2024 21:42,
+KATA-2662,Story,Closed,KATA,Openshift sandboxed containers,software,Duplicate,09/01/2024 14:27,18/03/2024 11:48
+KATA-2661,Story,Closed,KATA,Openshift sandboxed containers,software,Done,09/01/2024 14:23,25/01/2024 05:18
+KATA-2660,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,09/01/2024 14:13,17/07/2024 15:11
+KATA-2659,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,09/01/2024 14:12,26/06/2024 12:16
+KATA-2658,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,09/01/2024 13:45,16/01/2024 11:52
+KATA-2657,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,09/01/2024 13:11,20/01/2024 20:19
+KATA-2656,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,08/01/2024 16:21,10/01/2024 13:04
+KATA-2655,Story,Closed,KATA,Openshift sandboxed containers,software,Done,08/01/2024 15:00,20/02/2024 13:11
+KATA-2654,Feature,New,KATA,Openshift sandboxed containers,software,,08/01/2024 14:21,
+KATA-2653,Story,Closed,KATA,Openshift sandboxed containers,software,Done,08/01/2024 13:42,18/01/2024 09:07
+KATA-2652,Story,Refinement,KATA,Openshift sandboxed containers,software,,05/01/2024 18:14,
+KATA-2651,Spike,New,KATA,Openshift sandboxed containers,software,,05/01/2024 18:12,
+KATA-2650,Epic,New,KATA,Openshift sandboxed containers,software,,05/01/2024 17:49,
+KATA-2649,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,05/01/2024 16:25,12/01/2024 13:19
+KATA-2648,Task,New,KATA,Openshift sandboxed containers,software,,05/01/2024 15:55,
+KATA-2647,Spike,New,KATA,Openshift sandboxed containers,software,,05/01/2024 15:06,
+KATA-2646,Story,Closed,KATA,Openshift sandboxed containers,software,Done,04/01/2024 13:41,16/02/2024 13:05
+KATA-2645,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,04/01/2024 13:34,25/01/2024 13:00
+KATA-2644,Story,Closed,KATA,Openshift sandboxed containers,software,Done,04/01/2024 06:46,08/01/2024 14:27
+KATA-2643,Bug,New,KATA,Openshift sandboxed containers,software,,02/01/2024 10:51,
+KATA-2642,Task,Closed,KATA,Openshift sandboxed containers,software,Done,02/01/2024 05:48,29/02/2024 12:39
+KATA-2641,Task,Closed,KATA,Openshift sandboxed containers,software,Done,21/12/2023 14:16,05/01/2024 15:00
+KATA-2640,Spike,Refinement,KATA,Openshift sandboxed containers,software,,21/12/2023 14:14,
+KATA-2639,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,20/12/2023 16:51,23/04/2024 12:19
+KATA-2638,Task,Closed,KATA,Openshift sandboxed containers,software,Duplicate,20/12/2023 14:00,20/12/2023 14:17
+KATA-2637,Spike,New,KATA,Openshift sandboxed containers,software,,18/12/2023 13:52,
+KATA-2636,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,15/12/2023 14:19,04/01/2024 14:55
+KATA-2635,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,14/12/2023 15:24,04/01/2024 14:55
+KATA-2634,Epic,New,KATA,Openshift sandboxed containers,software,,14/12/2023 14:39,
+KATA-2633,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,14/12/2023 13:29,31/05/2024 15:52
+KATA-2632,Story,Closed,KATA,Openshift sandboxed containers,software,Done,13/12/2023 14:49,04/01/2024 14:55
+KATA-2631,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,11/12/2023 13:11,29/01/2024 13:34
+KATA-2630,Feature,Closed,KATA,Openshift sandboxed containers,software,Done,08/12/2023 14:01,20/09/2024 10:55
+KATA-2629,Outcome,In Progress,KATA,Openshift sandboxed containers,software,,08/12/2023 13:41,
+KATA-2628,Outcome,New,KATA,Openshift sandboxed containers,software,,08/12/2023 13:40,
+KATA-2627,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,06/12/2023 21:39,19/12/2023 20:32
+KATA-2626,Epic,In Progress,KATA,Openshift sandboxed containers,software,,06/12/2023 14:46,
+KATA-2625,Task,In Progress,KATA,Openshift sandboxed containers,software,,06/12/2023 14:44,
+KATA-2624,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,06/12/2023 14:42,08/01/2024 14:11
+KATA-2623,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,06/12/2023 14:41,29/01/2024 13:13
+KATA-2622,Bug,Closed,KATA,Openshift sandboxed containers,software,Duplicate,05/12/2023 19:39,15/01/2024 13:30
+KATA-2621,Feature,New,KATA,Openshift sandboxed containers,software,,05/12/2023 19:17,
+KATA-2620,Feature,New,KATA,Openshift sandboxed containers,software,,05/12/2023 15:58,
+KATA-2619,Spike,Closed,KATA,Openshift sandboxed containers,software,Duplicate,05/12/2023 13:21,22/01/2024 16:08
+KATA-2618,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,05/12/2023 12:25,29/01/2024 14:11
+KATA-2617,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,05/12/2023 12:13,03/01/2024 11:45
+KATA-2616,Story,Closed,KATA,Openshift sandboxed containers,software,Done,05/12/2023 11:08,29/03/2024 07:50
+KATA-2615,Story,Closed,KATA,Openshift sandboxed containers,software,Duplicate,05/12/2023 11:01,01/04/2024 15:48
+KATA-2614,Story,New,KATA,Openshift sandboxed containers,software,,04/12/2023 19:10,
+KATA-2613,Story,Closed,KATA,Openshift sandboxed containers,software,Done,04/12/2023 19:09,08/01/2024 14:09
+KATA-2612,Epic,New,KATA,Openshift sandboxed containers,software,,04/12/2023 16:51,
+KATA-2611,Epic,Release Pending,KATA,Openshift sandboxed containers,software,Done,04/12/2023 16:47,18/09/2024 12:29
+KATA-2610,Epic,New,KATA,Openshift sandboxed containers,software,,04/12/2023 16:46,
+KATA-2608,Story,Closed,KATA,Openshift sandboxed containers,software,Done,04/12/2023 14:57,13/02/2024 16:12
+KATA-2607,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,04/12/2023 13:08,05/12/2023 21:26
+KATA-2605,Feature,New,KATA,Openshift sandboxed containers,software,,04/12/2023 10:38,
+KATA-2604,Bug,New,KATA,Openshift sandboxed containers,software,,04/12/2023 05:37,
+KATA-2603,Outcome,New,KATA,Openshift sandboxed containers,software,,01/12/2023 16:11,
+KATA-2602,Feature,New,KATA,Openshift sandboxed containers,software,,01/12/2023 16:07,
+KATA-2601,Feature,New,KATA,Openshift sandboxed containers,software,,01/12/2023 16:03,
+KATA-2600,Feature,New,KATA,Openshift sandboxed containers,software,,01/12/2023 16:02,
+KATA-2599,Feature,New,KATA,Openshift sandboxed containers,software,,01/12/2023 16:01,
+KATA-2598,Feature,In Progress,KATA,Openshift sandboxed containers,software,,01/12/2023 15:59,
+KATA-2597,Feature,In Progress,KATA,Openshift sandboxed containers,software,,01/12/2023 15:57,
+KATA-2596,Task,Refinement,KATA,Openshift sandboxed containers,software,,30/11/2023 21:46,
+KATA-2595,Story,Closed,KATA,Openshift sandboxed containers,software,Done,29/11/2023 18:01,18/12/2023 14:25
+KATA-2594,Story,New,KATA,Openshift sandboxed containers,software,,29/11/2023 15:03,
+KATA-2593,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,28/11/2023 16:53,04/01/2024 14:54
+KATA-2592,Feature,New,KATA,Openshift sandboxed containers,software,,28/11/2023 10:43,
+KATA-2591,Feature,New,KATA,Openshift sandboxed containers,software,,28/11/2023 10:42,
+KATA-2590,Feature,Closed,KATA,Openshift sandboxed containers,software,Done,28/11/2023 10:28,30/05/2024 13:06
+KATA-2588,Task,Closed,KATA,Openshift sandboxed containers,software,Done,27/11/2023 21:08,28/11/2023 08:54
+KATA-2586,Story,Closed,KATA,Openshift sandboxed containers,software,Done,27/11/2023 13:21,29/11/2023 10:11
+KATA-2585,Bug,Closed,KATA,Openshift sandboxed containers,software,Duplicate,24/11/2023 10:48,18/12/2023 13:31
+KATA-2584,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,23/11/2023 10:20,29/11/2023 09:16
+KATA-2583,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,22/11/2023 13:46,04/01/2024 14:54
+KATA-2581,Story,Closed,KATA,Openshift sandboxed containers,software,Done,21/11/2023 15:16,03/06/2024 13:13
+KATA-2579,Bug,Closed,KATA,Openshift sandboxed containers,software,Duplicate,16/11/2023 13:48,04/03/2024 14:18
+KATA-2557,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,01/11/2023 18:47,16/11/2023 17:12
+KATA-2523,Bug,Closed,KATA,Openshift sandboxed containers,software,Done-Errata,18/10/2023 15:58,24/04/2024 13:14
+KATA-2515,Story,Closed,KATA,Openshift sandboxed containers,software,Done,16/10/2023 13:48,16/10/2023 18:44
+KATA-2476,Story,Closed,KATA,Openshift sandboxed containers,software,Done,29/09/2023 15:39,11/10/2023 13:13
+KATA-2475,Story,Closed,KATA,Openshift sandboxed containers,software,Done,29/09/2023 15:38,11/10/2023 13:12
+KATA-2470,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,28/09/2023 19:14,15/11/2023 14:07
+KATA-2466,Story,Closed,KATA,Openshift sandboxed containers,software,Done,28/09/2023 12:21,23/10/2023 08:32
+KATA-2465,Story,Closed,KATA,Openshift sandboxed containers,software,Done,28/09/2023 12:19,17/10/2023 11:38
+KATA-2464,Story,Closed,KATA,Openshift sandboxed containers,software,Done,27/09/2023 17:07,16/10/2023 10:58
+KATA-2463,Story,Closed,KATA,Openshift sandboxed containers,software,Done,27/09/2023 17:01,19/10/2023 11:09
+KATA-2462,Story,Closed,KATA,Openshift sandboxed containers,software,Done,27/09/2023 16:58,19/10/2023 11:06
+KATA-2461,Story,Closed,KATA,Openshift sandboxed containers,software,Done,27/09/2023 16:56,16/10/2023 10:58
+KATA-2454,Story,Closed,KATA,Openshift sandboxed containers,software,Done,26/09/2023 16:09,05/10/2023 13:53
+KATA-2453,Story,Closed,KATA,Openshift sandboxed containers,software,Done,26/09/2023 15:48,05/10/2023 12:35
+KATA-2452,Story,Closed,KATA,Openshift sandboxed containers,software,Done,26/09/2023 14:01,26/09/2023 15:29
+KATA-2451,Story,Closed,KATA,Openshift sandboxed containers,software,Done,26/09/2023 13:26,04/10/2023 13:27
+KATA-2441,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,19/09/2023 08:26,16/01/2024 08:35
+KATA-2424,Task,New,KATA,Openshift sandboxed containers,software,,13/09/2023 08:53,
+KATA-2411,Feature,Closed,KATA,Openshift sandboxed containers,software,Obsolete,16/05/2023 15:55,29/09/2023 12:48
+KATA-2402,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,08/09/2023 07:34,02/10/2023 12:15
+KATA-2321,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,31/07/2023 19:44,21/09/2023 21:39
+KATA-2317,Story,Closed,KATA,Openshift sandboxed containers,software,Done,30/07/2023 11:05,19/10/2023 12:42
+KATA-2302,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,26/07/2023 16:18,31/07/2023 19:05
+KATA-2299,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,25/07/2023 15:23,25/07/2023 17:38
+KATA-2251,Story,Closed,KATA,Openshift sandboxed containers,software,Done,03/07/2023 13:01,25/07/2023 14:02
+KATA-2212,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,15/06/2023 13:03,29/06/2023 15:16
+KATA-2182,Spike,Closed,KATA,Openshift sandboxed containers,software,Done,25/05/2023 11:10,05/06/2023 06:58
+KATA-2174,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,18/05/2023 13:00,23/05/2023 17:57
+KATA-2172,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,17/05/2023 11:53,26/05/2023 12:42
+KATA-2168,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,15/05/2023 15:16,22/05/2023 12:12
+KATA-2165,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,15/05/2023 12:22,24/05/2023 12:14
+KATA-2164,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,11/05/2023 15:05,10/11/2023 19:19
+KATA-2159,Story,Closed,KATA,Openshift sandboxed containers,software,Done,08/05/2023 15:59,25/05/2023 13:51
+KATA-2147,Bug,Closed,KATA,Openshift sandboxed containers,software,Not a Bug,29/04/2023 14:46,08/05/2023 15:16
+KATA-2146,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,27/04/2023 19:44,30/11/2023 09:34
+KATA-2141,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,18/04/2023 14:19,08/05/2023 15:38
+KATA-2140,Bug,Closed,KATA,Openshift sandboxed containers,software,Duplicate,18/04/2023 14:17,19/04/2023 12:11
+KATA-2139,Story,Closed,KATA,Openshift sandboxed containers,software,Done,18/04/2023 12:55,25/05/2023 17:29
+KATA-2135,Story,Closed,KATA,Openshift sandboxed containers,software,Done,17/04/2023 13:16,27/10/2023 12:54
+KATA-2133,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,12/04/2023 14:37,14/11/2023 20:13
+KATA-2116,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,29/03/2023 15:22,06/04/2023 13:27
+KATA-2098,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,24/03/2023 15:29,31/03/2023 18:12
+KATA-2097,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,23/03/2023 16:27,30/03/2023 20:24
+KATA-2095,Bug,Closed,KATA,Openshift sandboxed containers,software,Duplicate,21/03/2023 19:47,31/03/2023 12:11
+KATA-2079,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,15/03/2023 12:22,17/04/2023 19:15
+KATA-2077,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,14/03/2023 15:24,27/03/2023 15:05
+KATA-2070,Story,Closed,KATA,Openshift sandboxed containers,software,Done,13/03/2023 14:00,13/04/2023 16:15
+KATA-2069,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,08/03/2023 15:36,31/03/2023 18:11
+KATA-2038,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,17/02/2023 17:02,31/05/2023 17:35
+KATA-2036,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,20/02/2023 10:15,04/12/2023 13:39
+KATA-1969,Story,Closed,KATA,Openshift sandboxed containers,software,Done,01/02/2023 01:31,25/05/2023 13:56
+KATA-1966,Story,Closed,KATA,Openshift sandboxed containers,software,Done,01/02/2023 01:30,27/03/2023 15:10
+KATA-1965,Bug,Closed,KATA,Openshift sandboxed containers,software,Won't Do,01/02/2023 01:29,10/03/2023 09:29
+KATA-1951,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,24/01/2023 03:22,24/01/2023 18:36
+KATA-1936,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,16/01/2023 13:55,07/03/2023 16:17
+KATA-1928,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,05/01/2023 15:23,13/04/2023 17:31
+KATA-1926,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,03/01/2023 16:36,15/05/2023 14:22
+KATA-1884,Story,Closed,KATA,Openshift sandboxed containers,software,Done,06/12/2022 10:03,08/12/2022 14:02
+KATA-1876,Story,Closed,KATA,Openshift sandboxed containers,software,Done,01/12/2022 16:50,12/12/2022 11:51
+KATA-1873,Story,Closed,KATA,Openshift sandboxed containers,software,Done,30/11/2022 19:12,11/05/2023 12:57
+KATA-1863,Story,Closed,KATA,Openshift sandboxed containers,software,Done,23/11/2022 15:51,30/11/2022 20:04
+KATA-1860,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,22/11/2022 01:26,14/04/2023 14:13
+KATA-1838,Story,Closed,KATA,Openshift sandboxed containers,software,Done,03/11/2022 14:07,07/11/2022 18:27
+KATA-1835,Task,Closed,KATA,Openshift sandboxed containers,software,Done,02/11/2022 16:56,03/11/2022 16:59
+KATA-1832,Task,Closed,KATA,Openshift sandboxed containers,software,Done,31/10/2022 15:00,08/11/2022 11:11
+KATA-1831,Story,Closed,KATA,Openshift sandboxed containers,software,Done,31/10/2022 14:39,16/11/2022 09:27
+KATA-1828,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,27/10/2022 19:58,02/11/2022 16:54
+KATA-1824,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,26/10/2022 20:11,02/11/2022 14:05
+KATA-1821,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,26/10/2022 15:00,15/05/2023 19:05
+KATA-1815,Story,Closed,KATA,Openshift sandboxed containers,software,Done,24/10/2022 13:18,30/11/2022 20:26
+KATA-1814,Story,Closed,KATA,Openshift sandboxed containers,software,Done,24/10/2022 13:18,30/11/2022 20:15
+KATA-1804,Story,New,KATA,Openshift sandboxed containers,software,,18/10/2022 15:36,
+KATA-1796,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,14/10/2022 17:30,17/10/2022 13:40
+KATA-1792,Story,Closed,KATA,Openshift sandboxed containers,software,Done,13/10/2022 14:26,07/12/2022 13:27
+KATA-1775,Story,Closed,KATA,Openshift sandboxed containers,software,Done,20/09/2022 10:54,01/02/2023 12:26
+KATA-1754,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,07/09/2022 13:37,14/10/2022 13:14
+KATA-1731,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,26/08/2022 14:47,10/05/2023 15:12
+KATA-1701,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,05/08/2022 12:39,25/01/2023 13:26
+KATA-1653,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,04/07/2022 13:48,02/08/2022 14:01
+KATA-1650,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,30/06/2022 14:38,15/05/2023 15:49
+KATA-1639,Story,Closed,KATA,Openshift sandboxed containers,software,Duplicate,28/06/2022 09:32,12/12/2022 09:36
+KATA-1635,Epic,Closed,KATA,Openshift sandboxed containers,software,Done,26/06/2022 16:36,25/01/2023 16:11
+KATA-1605,Bug,Closed,KATA,Openshift sandboxed containers,software,Cannot Reproduce,14/06/2022 14:39,15/05/2023 15:47
+KATA-1580,Bug,Closed,KATA,Openshift sandboxed containers,software,Not a Bug,17/05/2022 20:32,10/05/2023 15:17
+KATA-1569,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,12/05/2022 14:18,14/06/2022 15:46
+KATA-1566,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,09/05/2022 08:56,16/05/2022 12:44
+KATA-1497,Bug,Closed,KATA,Openshift sandboxed containers,software,Duplicate,14/04/2022 10:43,14/04/2022 12:13
+KATA-1376,Bug,Refinement,KATA,Openshift sandboxed containers,software,,22/02/2022 14:08,
+KATA-1373,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,21/02/2022 16:09,07/06/2022 15:25
+KATA-1372,Bug,Closed,KATA,Openshift sandboxed containers,software,Duplicate,17/02/2022 21:03,06/11/2023 15:54
+KATA-1338,Bug,Closed,KATA,Openshift sandboxed containers,software,Duplicate,09/02/2022 06:52,08/06/2022 13:03
+KATA-1312,Bug,Closed,KATA,Openshift sandboxed containers,software,Cannot Reproduce,06/02/2022 07:37,10/05/2023 15:13
+KATA-1296,Bug,New,KATA,Openshift sandboxed containers,software,,05/02/2022 09:23,
+KATA-1278,Bug,Closed,KATA,Openshift sandboxed containers,software,Not a Bug,27/01/2022 07:31,20/07/2022 14:02
+KATA-1017,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,22/09/2021 07:23,23/10/2023 14:11
+KATA-1000,Story,New,KATA,Openshift sandboxed containers,software,,01/09/2021 18:49,
+KATA-880,Bug,Closed,KATA,Openshift sandboxed containers,software,Duplicate,06/07/2021 05:48,08/05/2023 14:47
+KATA-815,Story,Closed,KATA,Openshift sandboxed containers,software,Done,02/06/2021 07:03,09/01/2024 21:36
+KATA-551,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,27/01/2021 09:15,08/05/2023 14:42
+KATA-537,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,20/01/2021 12:54,24/01/2023 20:53
+KATA-525,Bug,In Progress,KATA,Openshift sandboxed containers,software,,14/01/2021 12:09,
+KATA-518,Bug,Closed,KATA,Openshift sandboxed containers,software,Not a Bug,12/01/2021 09:33,08/05/2023 14:39
+KATA-500,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,05/01/2021 08:15,08/05/2023 14:36
+KATA-469,Bug,Closed,KATA,Openshift sandboxed containers,software,Not a Bug,10/12/2020 09:15,29/03/2024 15:36
+KATA-361,Bug,Closed,KATA,Openshift sandboxed containers,software,Done,23/10/2020 10:06,08/05/2023 14:35
+KATA-360,Bug,Closed,KATA,Openshift sandboxed containers,software,Duplicate,23/10/2020 10:06,13/06/2022 12:39

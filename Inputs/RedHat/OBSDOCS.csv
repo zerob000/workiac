@@ -1,0 +1,1054 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+OBSDOCS-1273,Task,New,OBSDOCS,Observability Documentation,software,,22/09/2023 19:30,
+OBSDOCS-1045,Story,Backlog,OBSDOCS,Observability Documentation,software,,09/03/2022 14:12,
+OBSDOCS-1006,Bug,Closed,OBSDOCS,Observability Documentation,software,Duplicate,20/12/2023 12:00,12/06/2024 09:25
+OBSDOCS-1005,Bug,To Do,OBSDOCS,Observability Documentation,software,,20/12/2023 11:17,
+OBSDOCS-799,Task,Closed,OBSDOCS,Observability Documentation,software,Done,19/09/2023 08:00,04/03/2024 14:31
+OBSDOCS-739,Bug,Closed,OBSDOCS,Observability Documentation,software,Duplicate,13/11/2023 07:28,14/02/2024 16:24
+OBSDOCS-738,Bug,New,OBSDOCS,Observability Documentation,software,,20/12/2023 01:38,
+OBSDOCS-737,Bug,New,OBSDOCS,Observability Documentation,software,,07/11/2023 16:07,
+OBSDOCS-710,Epic,Closed,OBSDOCS,Observability Documentation,software,Obsolete,13/10/2023 15:12,19/01/2024 19:28
+OBSDOCS-708,Bug,Backlog,OBSDOCS,Observability Documentation,software,,20/12/2023 05:22,
+OBSDOCS-706,Bug,Backlog,OBSDOCS,Observability Documentation,software,,22/12/2023 01:03,
+OBSDOCS-704,Task,New,OBSDOCS,Observability Documentation,software,,21/12/2023 10:49,
+OBSDOCS-703,Bug,Closed,OBSDOCS,Observability Documentation,software,Duplicate,19/12/2023 01:40,05/08/2024 06:53
+OBSDOCS-702,Task,Closed,OBSDOCS,Observability Documentation,software,Done,15/12/2023 19:37,04/06/2024 14:55
+OBSDOCS-701,Task,Closed,OBSDOCS,Observability Documentation,software,Done,15/12/2023 16:03,02/01/2024 21:36
+OBSDOCS-700,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,15/12/2023 15:59,01/05/2024 19:54
+OBSDOCS-699,Epic,Closed,OBSDOCS,Observability Documentation,software,Duplicate,15/12/2023 15:11,11/11/2024 15:39
+OBSDOCS-697,Bug,New,OBSDOCS,Observability Documentation,software,,13/12/2023 20:40,
+OBSDOCS-696,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,13/12/2023 16:30,12/02/2024 21:43
+OBSDOCS-695,Task,Closed,OBSDOCS,Observability Documentation,software,Done,12/12/2023 15:17,01/04/2024 19:19
+OBSDOCS-694,Task,Closed,OBSDOCS,Observability Documentation,software,Test Pending,12/12/2023 15:16,14/03/2024 11:34
+OBSDOCS-693,Task,Closed,OBSDOCS,Observability Documentation,software,Done,12/12/2023 15:15,25/04/2024 04:24
+OBSDOCS-692,Task,Closed,OBSDOCS,Observability Documentation,software,Done,12/12/2023 15:14,12/04/2024 09:57
+OBSDOCS-691,Task,New,OBSDOCS,Observability Documentation,software,,12/12/2023 15:09,
+OBSDOCS-690,Task,Closed,OBSDOCS,Observability Documentation,software,Done,12/12/2023 14:56,25/03/2024 17:14
+OBSDOCS-689,Task,Closed,OBSDOCS,Observability Documentation,software,Done,12/12/2023 14:52,01/03/2024 20:30
+OBSDOCS-687,Task,Closed,OBSDOCS,Observability Documentation,software,Done,11/12/2023 17:17,15/12/2023 21:46
+OBSDOCS-686,Epic,Closed,OBSDOCS,Observability Documentation,software,Done,11/12/2023 16:48,30/04/2024 01:16
+OBSDOCS-684,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,06/12/2023 17:58,08/12/2023 16:45
+OBSDOCS-683,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,06/12/2023 16:31,06/12/2023 19:38
+OBSDOCS-682,Bug,Backlog,OBSDOCS,Observability Documentation,software,,06/12/2023 09:14,
+OBSDOCS-680,Bug,New,OBSDOCS,Observability Documentation,software,,05/12/2023 21:16,
+OBSDOCS-679,Bug,New,OBSDOCS,Observability Documentation,software,,05/12/2023 21:12,
+OBSDOCS-678,Task,Closed,OBSDOCS,Observability Documentation,software,Done,05/12/2023 13:44,06/12/2023 14:57
+OBSDOCS-677,Task,Closed,OBSDOCS,Observability Documentation,software,Done,01/12/2023 15:22,26/01/2024 16:17
+OBSDOCS-676,Task,Closed,OBSDOCS,Observability Documentation,software,Done,01/12/2023 15:14,12/02/2024 19:45
+OBSDOCS-675,Story,Closed,OBSDOCS,Observability Documentation,software,Done,30/11/2023 20:57,18/12/2023 18:03
+OBSDOCS-674,Story,Closed,OBSDOCS,Observability Documentation,software,Done,30/11/2023 20:03,18/12/2023 15:59
+OBSDOCS-673,Story,To Do,OBSDOCS,Observability Documentation,software,,30/11/2023 18:02,
+OBSDOCS-672,Task,Closed,OBSDOCS,Observability Documentation,software,Done,30/11/2023 14:54,22/02/2024 17:05
+OBSDOCS-668,Task,Closed,OBSDOCS,Observability Documentation,software,Done,30/11/2023 14:53,12/02/2024 19:45
+OBSDOCS-667,Task,Closed,OBSDOCS,Observability Documentation,software,Done,30/11/2023 14:53,19/02/2024 14:21
+OBSDOCS-666,Epic,Closed,OBSDOCS,Observability Documentation,software,Done,30/11/2023 14:53,22/02/2024 17:05
+OBSDOCS-665,Bug,Closed,OBSDOCS,Observability Documentation,software,Duplicate,29/11/2023 14:03,29/11/2023 22:33
+OBSDOCS-664,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,29/11/2023 15:42,03/01/2024 15:33
+OBSDOCS-663,Bug,Closed,OBSDOCS,Observability Documentation,software,Duplicate,28/11/2023 21:48,29/11/2023 16:03
+OBSDOCS-662,Task,Closed,OBSDOCS,Observability Documentation,software,Done,28/11/2023 15:40,28/11/2023 20:04
+OBSDOCS-661,Story,Closed,OBSDOCS,Observability Documentation,software,Not a Bug,28/11/2023 03:24,28/11/2023 14:54
+OBSDOCS-660,Task,Closed,OBSDOCS,Observability Documentation,software,Done,28/11/2023 09:47,14/12/2023 15:27
+OBSDOCS-659,Task,Closed,OBSDOCS,Observability Documentation,software,Done,28/11/2023 09:44,14/12/2023 15:27
+OBSDOCS-658,Task,Closed,OBSDOCS,Observability Documentation,software,Done,28/11/2023 09:41,14/12/2023 15:27
+OBSDOCS-656,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,24/10/2023 15:53,15/12/2023 19:19
+OBSDOCS-654,Bug,New,OBSDOCS,Observability Documentation,software,,20/11/2023 22:01,
+OBSDOCS-652,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,20/11/2023 14:16,30/11/2023 21:09
+OBSDOCS-651,Task,Closed,OBSDOCS,Observability Documentation,software,Not a Bug,17/11/2023 16:15,17/11/2023 17:07
+OBSDOCS-645,Task,Closed,OBSDOCS,Observability Documentation,software,Done,16/11/2023 14:58,15/12/2023 21:45
+OBSDOCS-644,Task,Closed,OBSDOCS,Observability Documentation,software,Done,16/11/2023 14:45,18/12/2023 20:03
+OBSDOCS-643,Task,Closed,OBSDOCS,Observability Documentation,software,Done,15/11/2023 16:05,15/12/2023 15:06
+OBSDOCS-640,Task,Closed,OBSDOCS,Observability Documentation,software,Done,14/11/2023 20:48,17/11/2023 20:39
+OBSDOCS-639,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,14/11/2023 14:56,15/11/2023 14:59
+OBSDOCS-637,Task,Closed,OBSDOCS,Observability Documentation,software,Done,13/11/2023 13:57,13/11/2023 16:22
+OBSDOCS-636,Epic,Closed,OBSDOCS,Observability Documentation,software,Done,09/11/2023 21:51,15/11/2023 18:25
+OBSDOCS-634,Bug,Closed,OBSDOCS,Observability Documentation,software,Duplicate,08/11/2023 12:42,15/11/2023 17:04
+OBSDOCS-633,Bug,To Do,OBSDOCS,Observability Documentation,software,,01/11/2023 07:34,
+OBSDOCS-631,Bug,Closed,OBSDOCS,Observability Documentation,software,Cannot Reproduce,06/11/2023 22:13,20/12/2023 15:05
+OBSDOCS-629,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,06/11/2023 14:25,06/11/2023 14:29
+OBSDOCS-628,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,06/11/2023 14:25,06/11/2023 14:28
+OBSDOCS-627,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,06/11/2023 14:25,06/11/2023 14:28
+OBSDOCS-626,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,06/11/2023 14:25,06/11/2023 14:35
+OBSDOCS-625,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,06/11/2023 14:25,06/11/2023 14:27
+OBSDOCS-624,Task,Closed,OBSDOCS,Observability Documentation,software,Obsolete,06/11/2023 14:25,10/11/2023 18:01
+OBSDOCS-623,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,06/11/2023 14:25,06/11/2023 14:36
+OBSDOCS-622,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,06/11/2023 14:25,06/11/2023 14:33
+OBSDOCS-621,Epic,Closed,OBSDOCS,Observability Documentation,software,Won't Do,06/11/2023 14:25,23/07/2024 15:25
+OBSDOCS-620,Task,Closed,OBSDOCS,Observability Documentation,software,Done,06/11/2023 08:42,16/11/2023 14:31
+OBSDOCS-619,Task,Closed,OBSDOCS,Observability Documentation,software,Done,06/11/2023 08:32,16/11/2023 15:11
+OBSDOCS-618,Task,Closed,OBSDOCS,Observability Documentation,software,Done,06/11/2023 08:06,16/11/2023 14:39
+OBSDOCS-617,Story,Closed,OBSDOCS,Observability Documentation,software,Duplicate,06/11/2023 07:03,07/03/2024 14:17
+OBSDOCS-616,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,03/11/2023 17:56,08/11/2023 19:31
+OBSDOCS-614,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,01/11/2023 20:47,23/07/2024 15:24
+OBSDOCS-613,Task,Closed,OBSDOCS,Observability Documentation,software,Done,01/11/2023 16:54,23/04/2024 16:00
+OBSDOCS-612,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,01/11/2023 15:00,11/12/2023 20:31
+OBSDOCS-611,Task,Closed,OBSDOCS,Observability Documentation,software,Done,31/10/2023 18:22,02/01/2024 10:07
+OBSDOCS-609,Task,Closed,OBSDOCS,Observability Documentation,software,Done,26/10/2023 11:57,01/11/2023 19:16
+OBSDOCS-608,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,25/10/2023 19:21,04/03/2024 09:48
+OBSDOCS-607,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,25/10/2023 15:42,04/12/2023 16:18
+OBSDOCS-606,Task,Closed,OBSDOCS,Observability Documentation,software,Done,24/10/2023 09:03,15/11/2023 15:21
+OBSDOCS-605,Bug,New,OBSDOCS,Observability Documentation,software,,24/10/2023 04:58,
+OBSDOCS-604,Story,New,OBSDOCS,Observability Documentation,software,,24/10/2023 16:15,
+OBSDOCS-603,Story,Closed,OBSDOCS,Observability Documentation,software,Done,24/10/2023 16:08,19/01/2024 18:21
+OBSDOCS-602,Task,Closed,OBSDOCS,Observability Documentation,software,Done,24/10/2023 15:30,11/12/2023 21:31
+OBSDOCS-601,Task,Closed,OBSDOCS,Observability Documentation,software,Done,24/10/2023 13:39,15/11/2023 15:19
+OBSDOCS-600,Task,Closed,OBSDOCS,Observability Documentation,software,Done,24/10/2023 11:33,18/01/2024 10:04
+OBSDOCS-598,Task,Closed,OBSDOCS,Observability Documentation,software,Done,23/10/2023 17:20,28/11/2023 15:53
+OBSDOCS-597,Task,Closed,OBSDOCS,Observability Documentation,software,Done,23/10/2023 17:17,23/11/2023 16:09
+OBSDOCS-596,Task,Closed,OBSDOCS,Observability Documentation,software,Done,23/10/2023 16:44,29/11/2023 11:14
+OBSDOCS-595,Task,Closed,OBSDOCS,Observability Documentation,software,Done,23/10/2023 16:42,20/11/2023 22:16
+OBSDOCS-593,Bug,Closed,OBSDOCS,Observability Documentation,software,Duplicate,23/10/2023 16:05,20/11/2023 23:48
+OBSDOCS-592,Bug,Closed,OBSDOCS,Observability Documentation,software,Not a Bug,16/10/2023 05:23,17/04/2024 02:11
+OBSDOCS-591,Task,Closed,OBSDOCS,Observability Documentation,software,Done,19/10/2023 10:12,08/02/2024 10:57
+OBSDOCS-587,Task,Closed,OBSDOCS,Observability Documentation,software,Done,17/07/2023 06:49,01/02/2024 13:28
+OBSDOCS-586,Task,Closed,OBSDOCS,Observability Documentation,software,Done,22/06/2023 13:37,01/02/2024 13:28
+OBSDOCS-585,Task,Closed,OBSDOCS,Observability Documentation,software,Done,06/08/2023 16:38,01/02/2024 13:27
+OBSDOCS-584,Task,Closed,OBSDOCS,Observability Documentation,software,Done,06/08/2023 16:37,01/02/2024 13:27
+OBSDOCS-583,Task,Closed,OBSDOCS,Observability Documentation,software,Done,06/08/2023 16:35,01/02/2024 13:27
+OBSDOCS-581,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,12/10/2023 14:17,09/11/2023 21:44
+OBSDOCS-580,Task,Closed,OBSDOCS,Observability Documentation,software,Obsolete,17/10/2023 12:13,23/10/2023 13:03
+OBSDOCS-579,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,16/10/2023 13:57,17/10/2023 13:20
+OBSDOCS-578,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,13/10/2023 16:26,18/03/2024 08:23
+OBSDOCS-576,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,13/10/2023 07:59,23/10/2023 08:32
+OBSDOCS-574,Task,Closed,OBSDOCS,Observability Documentation,software,Done,12/10/2023 12:26,19/04/2024 14:25
+OBSDOCS-573,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,12/10/2023 12:19,15/12/2023 18:54
+OBSDOCS-572,Bug,New,OBSDOCS,Observability Documentation,software,,12/10/2023 05:40,
+OBSDOCS-569,Task,Closed,OBSDOCS,Observability Documentation,software,Done,10/10/2023 17:57,12/10/2023 16:00
+OBSDOCS-568,Task,Closed,OBSDOCS,Observability Documentation,software,Done,09/10/2023 14:07,18/10/2023 19:18
+OBSDOCS-567,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,07/10/2023 00:54,01/11/2023 20:12
+OBSDOCS-565,Task,Closed,OBSDOCS,Observability Documentation,software,Done,05/10/2023 12:40,05/10/2023 21:28
+OBSDOCS-564,Task,Closed,OBSDOCS,Observability Documentation,software,Done,04/10/2023 08:47,05/10/2023 21:28
+OBSDOCS-563,Bug,Closed,OBSDOCS,Observability Documentation,software,Obsolete,03/10/2023 14:49,19/02/2024 20:13
+OBSDOCS-562,Task,In Progress,OBSDOCS,Observability Documentation,software,,02/10/2023 15:54,
+OBSDOCS-559,Task,Closed,OBSDOCS,Observability Documentation,software,Done,28/09/2023 18:53,05/10/2023 16:26
+OBSDOCS-558,Story,Closed,OBSDOCS,Observability Documentation,software,Done,28/09/2023 15:40,20/10/2023 17:10
+OBSDOCS-555,Task,Closed,OBSDOCS,Observability Documentation,software,Done,28/09/2023 13:07,20/11/2023 17:33
+OBSDOCS-553,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,27/09/2023 13:53,14/11/2023 13:51
+OBSDOCS-552,Task,Closed,OBSDOCS,Observability Documentation,software,Done,27/09/2023 13:01,17/11/2023 17:08
+OBSDOCS-551,Task,Closed,OBSDOCS,Observability Documentation,software,Done,27/09/2023 12:59,26/10/2023 12:01
+OBSDOCS-550,Task,Closed,OBSDOCS,Observability Documentation,software,Done,27/09/2023 12:55,06/11/2023 14:38
+OBSDOCS-549,Task,Closed,OBSDOCS,Observability Documentation,software,Done,27/09/2023 12:50,11/10/2023 21:24
+OBSDOCS-548,Epic,Closed,OBSDOCS,Observability Documentation,software,Done,27/09/2023 12:44,15/11/2023 21:19
+OBSDOCS-547,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,26/09/2023 14:00,20/06/2024 18:19
+OBSDOCS-546,Task,Closed,OBSDOCS,Observability Documentation,software,Done,26/09/2023 09:38,25/10/2023 04:17
+OBSDOCS-545,Task,Closed,OBSDOCS,Observability Documentation,software,Done,26/09/2023 09:36,25/10/2023 04:17
+OBSDOCS-544,Task,Closed,OBSDOCS,Observability Documentation,software,Done,26/09/2023 09:35,25/10/2023 13:26
+OBSDOCS-543,Task,New,OBSDOCS,Observability Documentation,software,,25/09/2023 13:43,
+OBSDOCS-542,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,22/09/2023 09:53,15/11/2023 15:22
+OBSDOCS-536,Task,Closed,OBSDOCS,Observability Documentation,software,Done,19/09/2023 14:44,08/11/2023 10:35
+OBSDOCS-535,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,15/09/2023 16:15,15/09/2023 18:52
+OBSDOCS-528,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,14/09/2023 13:45,21/09/2023 14:55
+OBSDOCS-527,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,14/09/2023 13:39,21/09/2023 14:54
+OBSDOCS-526,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,14/09/2023 13:37,21/09/2023 14:24
+OBSDOCS-522,Task,Closed,OBSDOCS,Observability Documentation,software,Done,14/09/2023 12:27,26/09/2023 14:59
+OBSDOCS-521,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,14/09/2023 09:51,23/11/2023 16:27
+OBSDOCS-520,Task,Closed,OBSDOCS,Observability Documentation,software,Done,14/09/2023 09:38,23/11/2023 16:17
+OBSDOCS-519,Task,Closed,OBSDOCS,Observability Documentation,software,Done,14/09/2023 09:33,08/11/2023 12:10
+OBSDOCS-518,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,14/09/2023 09:25,18/12/2023 14:09
+OBSDOCS-517,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,14/09/2023 09:07,18/10/2023 10:07
+OBSDOCS-516,Task,Closed,OBSDOCS,Observability Documentation,software,Done,14/09/2023 09:05,13/11/2023 19:53
+OBSDOCS-515,Task,Closed,OBSDOCS,Observability Documentation,software,Done,14/09/2023 09:02,08/11/2023 12:09
+OBSDOCS-514,Task,Closed,OBSDOCS,Observability Documentation,software,Done,14/09/2023 08:32,18/12/2023 10:08
+OBSDOCS-513,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,14/09/2023 08:24,18/12/2023 09:26
+OBSDOCS-509,Task,Closed,OBSDOCS,Observability Documentation,software,Done,13/09/2023 15:08,15/11/2023 13:49
+OBSDOCS-508,Task,Closed,OBSDOCS,Observability Documentation,software,Done,13/09/2023 15:06,16/11/2023 13:50
+OBSDOCS-507,Epic,Closed,OBSDOCS,Observability Documentation,software,Duplicate,13/09/2023 14:25,27/09/2023 13:06
+OBSDOCS-506,Task,Closed,OBSDOCS,Observability Documentation,software,Done,13/09/2023 13:24,15/12/2023 10:28
+OBSDOCS-505,Task,Closed,OBSDOCS,Observability Documentation,software,Done,13/09/2023 13:12,29/11/2023 02:10
+OBSDOCS-504,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,13/09/2023 12:31,18/12/2023 09:25
+OBSDOCS-502,Epic,Closed,OBSDOCS,Observability Documentation,software,Done,13/09/2023 12:26,17/01/2024 11:55
+OBSDOCS-497,Task,Closed,OBSDOCS,Observability Documentation,software,Done,12/09/2023 14:06,13/09/2023 07:33
+OBSDOCS-496,Task,Closed,OBSDOCS,Observability Documentation,software,Done,12/09/2023 13:58,19/09/2023 19:00
+OBSDOCS-495,Task,Closed,OBSDOCS,Observability Documentation,software,Done,11/09/2023 13:12,15/09/2023 20:18
+OBSDOCS-494,Bug,Closed,OBSDOCS,Observability Documentation,software,Won't Do,11/09/2023 08:12,05/08/2024 11:42
+OBSDOCS-493,Bug,Closed,OBSDOCS,Observability Documentation,software,Won't Do,07/09/2023 18:14,19/02/2024 20:01
+OBSDOCS-492,Task,Closed,OBSDOCS,Observability Documentation,software,Done,07/09/2023 13:02,07/09/2023 13:19
+OBSDOCS-488,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,05/09/2023 10:33,29/11/2023 16:30
+OBSDOCS-484,Bug,New,OBSDOCS,Observability Documentation,software,,04/09/2023 06:14,
+OBSDOCS-482,Bug,New,OBSDOCS,Observability Documentation,software,,04/09/2023 11:38,
+OBSDOCS-481,Task,Closed,OBSDOCS,Observability Documentation,software,Done,04/09/2023 11:45,05/02/2024 20:33
+OBSDOCS-480,Story,New,OBSDOCS,Observability Documentation,software,,01/09/2023 15:51,
+OBSDOCS-479,Story,Closed,OBSDOCS,Observability Documentation,software,Done,31/08/2023 16:11,14/12/2023 18:34
+OBSDOCS-478,Story,Closed,OBSDOCS,Observability Documentation,software,Done,31/08/2023 16:08,09/11/2023 14:57
+OBSDOCS-476,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,30/08/2023 04:57,18/01/2024 15:03
+OBSDOCS-475,Task,Closed,OBSDOCS,Observability Documentation,software,Test Pending,30/08/2023 12:49,20/09/2023 09:39
+OBSDOCS-474,Task,Closed,OBSDOCS,Observability Documentation,software,Done,30/08/2023 08:59,22/11/2023 01:28
+OBSDOCS-463,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,24/08/2023 13:40,29/09/2023 16:49
+OBSDOCS-462,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,24/08/2023 12:52,15/12/2023 17:09
+OBSDOCS-461,Task,Closed,OBSDOCS,Observability Documentation,software,Done,24/08/2023 11:32,07/09/2023 10:21
+OBSDOCS-460,Story,Closed,OBSDOCS,Observability Documentation,software,Done,24/08/2023 10:28,01/12/2023 21:14
+OBSDOCS-458,Story,Closed,OBSDOCS,Observability Documentation,software,Done,23/08/2023 15:07,16/11/2023 16:14
+OBSDOCS-457,Task,Closed,OBSDOCS,Observability Documentation,software,Done,23/08/2023 14:59,29/11/2023 16:30
+OBSDOCS-452,Bug,Backlog,OBSDOCS,Observability Documentation,software,,16/08/2023 16:22,
+OBSDOCS-451,Bug,New,OBSDOCS,Observability Documentation,software,,16/08/2023 09:09,
+OBSDOCS-450,Task,Closed,OBSDOCS,Observability Documentation,software,Done,21/08/2023 13:07,08/09/2023 15:59
+OBSDOCS-449,Task,Closed,OBSDOCS,Observability Documentation,software,Done,21/08/2023 13:06,08/09/2023 15:59
+OBSDOCS-448,Story,New,OBSDOCS,Observability Documentation,software,,14/08/2023 14:46,
+OBSDOCS-447,Story,Closed,OBSDOCS,Observability Documentation,software,Done,17/08/2023 12:34,21/11/2023 18:55
+OBSDOCS-446,Task,Closed,OBSDOCS,Observability Documentation,software,Done,16/08/2023 14:02,07/09/2023 10:18
+OBSDOCS-442,Task,Closed,OBSDOCS,Observability Documentation,software,Done,15/08/2023 19:43,18/09/2023 16:24
+OBSDOCS-441,Epic,To Do,OBSDOCS,Observability Documentation,software,,15/08/2023 07:31,
+OBSDOCS-433,Bug,Closed,OBSDOCS,Observability Documentation,software,Test Pending,09/08/2023 03:44,24/08/2023 12:13
+OBSDOCS-432,Story,Closed,OBSDOCS,Observability Documentation,software,Done,08/08/2023 13:14,26/04/2024 14:41
+OBSDOCS-428,Story,Closed,OBSDOCS,Observability Documentation,software,Done,07/08/2023 15:32,07/08/2023 17:01
+OBSDOCS-415,Task,Closed,OBSDOCS,Observability Documentation,software,Done,04/08/2023 13:06,07/09/2023 08:33
+OBSDOCS-411,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,01/08/2023 10:47,04/01/2024 17:26
+OBSDOCS-410,Bug,New,OBSDOCS,Observability Documentation,software,,01/08/2023 10:54,
+OBSDOCS-409,Task,Closed,OBSDOCS,Observability Documentation,software,Obsolete,02/08/2023 14:59,05/01/2024 15:41
+OBSDOCS-408,Task,Closed,OBSDOCS,Observability Documentation,software,Done,02/08/2023 09:44,17/08/2023 11:57
+OBSDOCS-406,Task,Closed,OBSDOCS,Observability Documentation,software,Done,01/08/2023 09:42,08/08/2023 15:08
+OBSDOCS-405,Task,Closed,OBSDOCS,Observability Documentation,software,Done,30/07/2023 08:10,01/09/2023 14:02
+OBSDOCS-404,Task,Closed,OBSDOCS,Observability Documentation,software,Done,28/07/2023 08:20,08/11/2023 12:15
+OBSDOCS-400,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,25/07/2023 08:54,18/03/2024 19:20
+OBSDOCS-399,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,24/07/2023 12:08,07/09/2023 13:19
+OBSDOCS-398,Task,Closed,OBSDOCS,Observability Documentation,software,Done,21/07/2023 17:06,07/09/2023 09:57
+OBSDOCS-397,Task,Closed,OBSDOCS,Observability Documentation,software,Done,21/07/2023 15:28,21/08/2023 13:09
+OBSDOCS-396,Task,Closed,OBSDOCS,Observability Documentation,software,Done,21/07/2023 15:27,21/08/2023 13:09
+OBSDOCS-394,Bug,New,OBSDOCS,Observability Documentation,software,,21/07/2023 14:15,
+OBSDOCS-393,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,21/07/2023 14:12,16/08/2023 12:47
+OBSDOCS-392,Task,New,OBSDOCS,Observability Documentation,software,,21/07/2023 14:04,
+OBSDOCS-391,Task,Closed,OBSDOCS,Observability Documentation,software,Done,21/07/2023 14:01,09/08/2023 11:59
+OBSDOCS-390,Story,Closed,OBSDOCS,Observability Documentation,software,Done,17/07/2023 13:00,08/09/2023 15:59
+OBSDOCS-389,Bug,Closed,OBSDOCS,Observability Documentation,software,Not a Bug,16/02/2023 08:34,21/11/2023 00:30
+OBSDOCS-388,Task,Closed,OBSDOCS,Observability Documentation,software,Done,14/07/2023 22:38,22/07/2023 12:53
+OBSDOCS-384,Task,Closed,OBSDOCS,Observability Documentation,software,Done,13/07/2023 15:38,07/09/2023 11:28
+OBSDOCS-383,Task,Closed,OBSDOCS,Observability Documentation,software,Done,13/07/2023 15:37,07/09/2023 11:26
+OBSDOCS-382,Task,Closed,OBSDOCS,Observability Documentation,software,Done,13/07/2023 15:37,07/09/2023 11:26
+OBSDOCS-381,Task,Closed,OBSDOCS,Observability Documentation,software,Done,13/07/2023 15:36,07/09/2023 09:45
+OBSDOCS-380,Task,Closed,OBSDOCS,Observability Documentation,software,Done,13/07/2023 15:36,07/09/2023 09:31
+OBSDOCS-379,Task,Closed,OBSDOCS,Observability Documentation,software,Done,13/07/2023 15:35,07/09/2023 11:25
+OBSDOCS-378,Task,Closed,OBSDOCS,Observability Documentation,software,Done,13/07/2023 15:34,07/09/2023 08:44
+OBSDOCS-377,Task,Closed,OBSDOCS,Observability Documentation,software,Done,13/07/2023 15:34,07/09/2023 09:21
+OBSDOCS-376,Task,Closed,OBSDOCS,Observability Documentation,software,Done,13/07/2023 15:33,07/09/2023 08:36
+OBSDOCS-375,Epic,Closed,OBSDOCS,Observability Documentation,software,Done,13/07/2023 15:26,07/09/2023 09:57
+OBSDOCS-371,Bug,Closed,OBSDOCS,Observability Documentation,software,Obsolete,08/06/2023 10:15,01/12/2023 15:32
+OBSDOCS-370,Bug,New,OBSDOCS,Observability Documentation,software,,23/05/2023 07:38,
+OBSDOCS-369,Bug,New,OBSDOCS,Observability Documentation,software,,23/04/2023 09:55,
+OBSDOCS-368,Bug,New,OBSDOCS,Observability Documentation,software,,11/07/2023 06:29,
+OBSDOCS-367,Bug,New,OBSDOCS,Observability Documentation,software,,11/07/2023 06:31,
+OBSDOCS-366,Bug,New,OBSDOCS,Observability Documentation,software,,11/07/2023 06:30,
+OBSDOCS-365,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,11/07/2023 08:17,07/03/2024 13:55
+OBSDOCS-364,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,11/07/2023 07:25,17/07/2023 19:02
+OBSDOCS-359,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,07/07/2023 02:33,28/11/2023 16:34
+OBSDOCS-358,Story,Closed,OBSDOCS,Observability Documentation,software,Done,07/07/2023 14:00,07/07/2023 14:04
+OBSDOCS-357,Bug,New,OBSDOCS,Observability Documentation,software,,27/06/2023 01:47,
+OBSDOCS-356,Bug,New,OBSDOCS,Observability Documentation,software,,29/06/2023 03:09,
+OBSDOCS-355,Task,Closed,OBSDOCS,Observability Documentation,software,Done,06/07/2023 19:41,22/07/2023 12:53
+OBSDOCS-354,Task,New,OBSDOCS,Observability Documentation,software,,28/06/2023 14:57,
+OBSDOCS-353,Task,Closed,OBSDOCS,Observability Documentation,software,Obsolete,06/07/2023 17:36,15/11/2023 17:37
+OBSDOCS-352,Story,Closed,OBSDOCS,Observability Documentation,software,Done,06/07/2023 12:17,08/09/2023 17:21
+OBSDOCS-346,Task,Closed,OBSDOCS,Observability Documentation,software,Done,29/06/2023 14:11,29/06/2023 21:01
+OBSDOCS-344,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,29/06/2023 10:25,16/08/2023 15:23
+OBSDOCS-340,Story,Closed,OBSDOCS,Observability Documentation,software,Done,28/06/2023 17:02,06/07/2023 14:44
+OBSDOCS-339,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,28/06/2023 13:57,21/03/2024 15:12
+OBSDOCS-338,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,28/06/2023 02:34,12/07/2023 18:18
+OBSDOCS-331,Task,Closed,OBSDOCS,Observability Documentation,software,Done,21/06/2023 20:41,03/10/2023 15:07
+OBSDOCS-330,Story,To Do,OBSDOCS,Observability Documentation,software,,20/06/2023 20:19,
+OBSDOCS-329,Task,Closed,OBSDOCS,Observability Documentation,software,Done,20/06/2023 17:38,07/07/2023 16:10
+OBSDOCS-328,Task,Closed,OBSDOCS,Observability Documentation,software,Done,20/06/2023 17:37,07/07/2023 16:10
+OBSDOCS-327,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,16/06/2023 15:44,17/10/2023 14:25
+OBSDOCS-323,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,14/06/2023 17:18,01/11/2023 16:36
+OBSDOCS-316,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,09/06/2023 15:31,18/07/2023 17:23
+OBSDOCS-315,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,09/06/2023 10:46,06/11/2023 14:36
+OBSDOCS-311,Task,Closed,OBSDOCS,Observability Documentation,software,Done,08/06/2023 13:47,19/10/2023 18:22
+OBSDOCS-310,Task,Closed,OBSDOCS,Observability Documentation,software,Done,08/06/2023 13:46,22/09/2023 18:53
+OBSDOCS-309,Task,Closed,OBSDOCS,Observability Documentation,software,Done,08/06/2023 13:47,26/10/2023 15:46
+OBSDOCS-308,Epic,Closed,OBSDOCS,Observability Documentation,software,Done,08/06/2023 13:43,26/10/2023 15:47
+OBSDOCS-298,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,06/06/2023 14:03,20/04/2024 15:43
+OBSDOCS-297,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,06/06/2023 14:03,20/04/2024 15:44
+OBSDOCS-295,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,06/06/2023 14:03,20/04/2024 15:43
+OBSDOCS-294,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,06/06/2023 14:03,20/04/2024 15:43
+OBSDOCS-293,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,06/06/2023 14:03,20/04/2024 15:43
+OBSDOCS-292,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,06/06/2023 14:03,20/04/2024 15:43
+OBSDOCS-291,Epic,Closed,OBSDOCS,Observability Documentation,software,Won't Do,06/06/2023 14:03,20/04/2024 15:44
+OBSDOCS-290,Story,Closed,OBSDOCS,Observability Documentation,software,Done,06/06/2023 10:25,08/11/2023 19:30
+OBSDOCS-289,Story,Closed,OBSDOCS,Observability Documentation,software,Done,05/06/2023 16:22,02/11/2023 11:49
+OBSDOCS-287,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,30/05/2023 21:06,26/09/2023 09:20
+OBSDOCS-286,Task,Closed,OBSDOCS,Observability Documentation,software,Done,30/05/2023 21:04,20/06/2023 17:37
+OBSDOCS-285,Task,Closed,OBSDOCS,Observability Documentation,software,Done,30/05/2023 21:04,20/06/2023 17:35
+OBSDOCS-281,Bug,New,OBSDOCS,Observability Documentation,software,,26/05/2023 16:05,
+OBSDOCS-280,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,26/05/2023 10:34,19/02/2024 15:22
+OBSDOCS-276,Task,Closed,OBSDOCS,Observability Documentation,software,Obsolete,25/05/2023 17:57,25/05/2023 17:58
+OBSDOCS-272,Task,Closed,OBSDOCS,Observability Documentation,software,Obsolete,25/05/2023 17:52,25/05/2023 17:54
+OBSDOCS-271,Story,Closed,OBSDOCS,Observability Documentation,software,Done,25/05/2023 16:44,28/08/2024 09:12
+OBSDOCS-270,Story,Closed,OBSDOCS,Observability Documentation,software,Done,25/05/2023 11:43,25/09/2024 13:34
+OBSDOCS-266,Task,Closed,OBSDOCS,Observability Documentation,software,Obsolete,22/05/2023 20:58,22/05/2023 21:00
+OBSDOCS-262,Task,Closed,OBSDOCS,Observability Documentation,software,Obsolete,22/05/2023 20:54,22/05/2023 21:02
+OBSDOCS-258,Task,Closed,OBSDOCS,Observability Documentation,software,Obsolete,22/05/2023 20:51,22/05/2023 20:54
+OBSDOCS-256,Story,Closed,OBSDOCS,Observability Documentation,software,Done,21/04/2023 17:43,19/01/2024 20:22
+OBSDOCS-248,Story,Closed,OBSDOCS,Observability Documentation,software,Done,22/05/2023 14:10,20/10/2023 17:10
+OBSDOCS-246,Story,Closed,OBSDOCS,Observability Documentation,software,Done,06/03/2023 18:20,10/05/2023 21:26
+OBSDOCS-239,Task,Closed,OBSDOCS,Observability Documentation,software,Done,18/05/2023 15:17,30/05/2023 20:08
+OBSDOCS-238,Task,Closed,OBSDOCS,Observability Documentation,software,Done,04/05/2023 19:09,30/05/2023 18:36
+OBSDOCS-237,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,04/05/2023 19:09,30/05/2023 21:06
+OBSDOCS-236,Story,Closed,OBSDOCS,Observability Documentation,software,Done,04/05/2023 18:09,19/07/2024 14:23
+OBSDOCS-232,Story,Closed,OBSDOCS,Observability Documentation,software,Done,24/03/2021 11:56,23/05/2023 19:55
+OBSDOCS-219,Story,Closed,OBSDOCS,Observability Documentation,software,Test Pending,28/11/2022 06:57,01/11/2023 00:56
+OBSDOCS-215,Story,Closed,OBSDOCS,Observability Documentation,software,Done,12/05/2023 15:24,12/07/2023 14:02
+OBSDOCS-214,Story,Closed,OBSDOCS,Observability Documentation,software,Done,17/05/2023 13:53,20/09/2023 20:34
+OBSDOCS-213,Story,Closed,OBSDOCS,Observability Documentation,software,Done,17/05/2023 13:47,03/10/2023 16:52
+OBSDOCS-212,Story,Closed,OBSDOCS,Observability Documentation,software,Done,17/05/2023 13:37,01/03/2024 15:46
+OBSDOCS-207,Story,Backlog,OBSDOCS,Observability Documentation,software,,17/05/2023 13:12,
+OBSDOCS-206,Story,Closed,OBSDOCS,Observability Documentation,software,Done,17/05/2023 13:06,10/10/2023 13:51
+OBSDOCS-205,Story,Closed,OBSDOCS,Observability Documentation,software,Done,17/05/2023 11:53,02/02/2024 19:49
+OBSDOCS-204,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,27/02/2023 15:14,01/09/2023 17:40
+OBSDOCS-203,Story,Closed,OBSDOCS,Observability Documentation,software,Obsolete,16/05/2023 20:44,21/11/2023 17:03
+OBSDOCS-201,Story,Closed,OBSDOCS,Observability Documentation,software,Done,26/12/2022 07:02,14/03/2024 14:56
+OBSDOCS-197,Story,Closed,OBSDOCS,Observability Documentation,software,Done,08/05/2023 19:36,28/03/2024 13:14
+OBSDOCS-195,Story,Closed,OBSDOCS,Observability Documentation,software,Obsolete,24/09/2020 06:05,19/02/2024 19:11
+OBSDOCS-193,Task,Closed,OBSDOCS,Observability Documentation,software,Done,23/01/2023 17:03,13/03/2024 21:07
+OBSDOCS-190,Story,Closed,OBSDOCS,Observability Documentation,software,Done,04/05/2023 18:10,22/07/2024 13:57
+OBSDOCS-189,Story,Backlog,OBSDOCS,Observability Documentation,software,,04/05/2023 18:10,
+OBSDOCS-188,Story,New,OBSDOCS,Observability Documentation,software,,04/05/2023 18:09,
+OBSDOCS-185,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,30/09/2022 08:22,29/06/2023 16:26
+OBSDOCS-184,Story,Backlog,OBSDOCS,Observability Documentation,software,,09/01/2023 13:19,
+OBSDOCS-183,Story,Backlog,OBSDOCS,Observability Documentation,software,,09/01/2023 14:08,
+OBSDOCS-182,Story,Closed,OBSDOCS,Observability Documentation,software,Obsolete,09/01/2023 14:19,19/02/2024 19:48
+OBSDOCS-181,Story,To Do,OBSDOCS,Observability Documentation,software,,09/01/2023 14:41,
+OBSDOCS-180,Story,Closed,OBSDOCS,Observability Documentation,software,Done,02/11/2021 19:57,20/01/2023 23:07
+OBSDOCS-179,Bug,Closed,OBSDOCS,Observability Documentation,software,Duplicate,18/01/2023 06:46,03/05/2024 06:45
+OBSDOCS-176,Story,Closed,OBSDOCS,Observability Documentation,software,Done,12/01/2022 17:29,10/05/2023 21:27
+OBSDOCS-173,Story,Closed,OBSDOCS,Observability Documentation,software,Done,13/03/2023 16:31,12/10/2023 19:59
+OBSDOCS-170,Story,Closed,OBSDOCS,Observability Documentation,software,Obsolete,06/12/2021 13:07,15/11/2023 17:29
+OBSDOCS-169,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,09/03/2023 10:52,24/01/2024 21:35
+OBSDOCS-168,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,06/02/2023 22:02,01/11/2023 21:09
+OBSDOCS-167,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,06/02/2023 21:56,27/07/2023 14:26
+OBSDOCS-166,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,20/02/2023 22:49,27/07/2023 14:13
+OBSDOCS-165,Story,Closed,OBSDOCS,Observability Documentation,software,Obsolete,21/01/2021 10:26,19/02/2024 18:53
+OBSDOCS-164,Story,Closed,OBSDOCS,Observability Documentation,software,Won't Do,29/10/2020 12:20,19/02/2024 19:30
+OBSDOCS-163,Story,Closed,OBSDOCS,Observability Documentation,software,Obsolete,22/06/2021 20:41,19/02/2024 19:07
+OBSDOCS-162,Story,Closed,OBSDOCS,Observability Documentation,software,Won't Do,03/03/2023 16:03,19/02/2024 20:11
+OBSDOCS-161,Story,Closed,OBSDOCS,Observability Documentation,software,Duplicate,19/11/2020 09:12,19/02/2024 19:03
+OBSDOCS-160,Story,Closed,OBSDOCS,Observability Documentation,software,Obsolete,08/12/2020 04:23,21/02/2024 18:50
+OBSDOCS-159,Story,Closed,OBSDOCS,Observability Documentation,software,Won't Do,10/08/2020 12:04,19/02/2024 18:49
+OBSDOCS-158,Story,Closed,OBSDOCS,Observability Documentation,software,Done,21/09/2020 10:36,09/04/2024 06:47
+OBSDOCS-157,Story,Closed,OBSDOCS,Observability Documentation,software,Obsolete,12/10/2020 11:09,19/02/2024 19:01
+OBSDOCS-156,Story,Closed,OBSDOCS,Observability Documentation,software,Obsolete,09/06/2020 05:03,12/02/2024 21:28
+OBSDOCS-155,Bug,Closed,OBSDOCS,Observability Documentation,software,Not a Bug,05/02/2023 08:54,08/06/2023 18:33
+OBSDOCS-154,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,09/08/2022 20:16,09/08/2023 18:15
+OBSDOCS-153,Bug,Closed,OBSDOCS,Observability Documentation,software,Won't Do,29/08/2022 16:16,19/02/2024 19:16
+OBSDOCS-152,Epic,Closed,OBSDOCS,Observability Documentation,software,Done,13/09/2022 19:19,01/12/2023 21:14
+OBSDOCS-151,Task,Closed,OBSDOCS,Observability Documentation,software,Obsolete,15/02/2021 14:52,03/02/2024 08:02
+OBSDOCS-150,Bug,Closed,OBSDOCS,Observability Documentation,software,Obsolete,01/11/2021 14:00,12/10/2023 16:54
+OBSDOCS-149,Story,Backlog,OBSDOCS,Observability Documentation,software,,08/04/2021 06:15,
+OBSDOCS-148,Story,Closed,OBSDOCS,Observability Documentation,software,Done,30/07/2021 16:02,11/12/2023 19:23
+OBSDOCS-147,Story,Closed,OBSDOCS,Observability Documentation,software,Obsolete,13/06/2022 16:14,08/02/2024 18:06
+OBSDOCS-146,Story,Closed,OBSDOCS,Observability Documentation,software,Obsolete,22/03/2021 19:40,17/04/2024 02:18
+OBSDOCS-145,Story,Closed,OBSDOCS,Observability Documentation,software,Duplicate,26/07/2021 21:08,03/02/2024 08:04
+OBSDOCS-143,Story,Closed,OBSDOCS,Observability Documentation,software,Obsolete,05/12/2022 14:57,17/04/2024 01:35
+OBSDOCS-142,Story,Closed,OBSDOCS,Observability Documentation,software,Obsolete,09/05/2022 19:12,12/10/2023 20:01
+OBSDOCS-141,Story,Backlog,OBSDOCS,Observability Documentation,software,,14/04/2022 18:08,
+OBSDOCS-140,Story,Closed,OBSDOCS,Observability Documentation,software,Done,06/03/2021 17:16,17/04/2024 02:17
+OBSDOCS-139,Story,Backlog,OBSDOCS,Observability Documentation,software,,02/09/2022 21:57,
+OBSDOCS-138,Story,Closed,OBSDOCS,Observability Documentation,software,Done,23/09/2022 03:16,30/11/2023 21:50
+OBSDOCS-137,Story,Closed,OBSDOCS,Observability Documentation,software,Won't Do,18/10/2021 16:23,12/12/2023 20:13
+OBSDOCS-136,Epic,Backlog,OBSDOCS,Observability Documentation,software,,13/06/2022 14:59,
+OBSDOCS-135,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,10/02/2023 14:58,06/11/2023 16:20
+OBSDOCS-134,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,02/11/2022 08:58,19/01/2024 18:17
+OBSDOCS-133,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,15/08/2022 23:50,11/12/2023 19:28
+OBSDOCS-132,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,17/03/2023 01:31,10/11/2023 15:02
+OBSDOCS-131,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,09/02/2023 09:12,08/12/2023 17:23
+OBSDOCS-130,Bug,Closed,OBSDOCS,Observability Documentation,software,Won't Do,13/04/2023 08:15,18/10/2023 15:21
+OBSDOCS-129,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,23/02/2023 08:49,17/01/2024 21:42
+OBSDOCS-128,Bug,Closed,OBSDOCS,Observability Documentation,software,Obsolete,14/04/2023 11:29,29/09/2023 17:07
+OBSDOCS-127,Bug,Backlog,OBSDOCS,Observability Documentation,software,,05/01/2023 15:28,
+OBSDOCS-126,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,25/01/2023 09:45,15/12/2023 17:10
+OBSDOCS-125,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,01/11/2022 15:09,23/01/2024 18:11
+OBSDOCS-124,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,23/02/2023 09:27,03/01/2024 22:48
+OBSDOCS-123,Bug,Closed,OBSDOCS,Observability Documentation,software,Obsolete,30/03/2023 05:04,25/09/2023 13:43
+OBSDOCS-122,Bug,Closed,OBSDOCS,Observability Documentation,software,Won't Do,05/04/2023 20:11,05/06/2023 13:21
+OBSDOCS-121,Bug,Backlog,OBSDOCS,Observability Documentation,software,,30/01/2023 15:31,
+OBSDOCS-120,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,05/04/2023 09:51,03/11/2023 18:20
+OBSDOCS-119,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,10/02/2023 16:16,09/11/2023 13:48
+OBSDOCS-118,Bug,Verified,OBSDOCS,Observability Documentation,software,Test Pending,11/10/2022 18:41,19/06/2024 10:23
+OBSDOCS-117,Bug,Closed,OBSDOCS,Observability Documentation,software,Duplicate,12/12/2022 13:28,20/11/2023 22:44
+OBSDOCS-116,Bug,Closed,OBSDOCS,Observability Documentation,software,Obsolete,27/10/2021 15:17,03/01/2024 23:23
+OBSDOCS-115,Bug,Backlog,OBSDOCS,Observability Documentation,software,,31/01/2022 16:12,
+OBSDOCS-114,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,13/01/2022 17:39,16/11/2023 15:40
+OBSDOCS-113,Bug,Closed,OBSDOCS,Observability Documentation,software,Won't Do,27/03/2023 06:40,13/11/2023 19:43
+OBSDOCS-112,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,08/12/2022 12:10,29/11/2023 14:44
+OBSDOCS-111,Bug,Closed,OBSDOCS,Observability Documentation,software,Cannot Reproduce,07/02/2023 13:07,20/12/2023 15:11
+OBSDOCS-110,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,09/08/2022 19:59,15/12/2023 17:10
+OBSDOCS-109,Bug,To Do,OBSDOCS,Observability Documentation,software,,22/11/2021 08:48,
+OBSDOCS-108,Bug,To Do,OBSDOCS,Observability Documentation,software,,08/06/2022 07:00,
+OBSDOCS-107,Bug,Backlog,OBSDOCS,Observability Documentation,software,,02/02/2023 05:59,
+OBSDOCS-106,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,15/02/2023 09:50,06/09/2023 18:31
+OBSDOCS-105,Bug,Closed,OBSDOCS,Observability Documentation,software,Obsolete,29/03/2023 16:36,17/04/2024 02:14
+OBSDOCS-104,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,25/01/2023 10:52,19/12/2023 16:31
+OBSDOCS-103,Bug,Backlog,OBSDOCS,Observability Documentation,software,,04/03/2022 20:29,
+OBSDOCS-102,Bug,Closed,OBSDOCS,Observability Documentation,software,Cannot Reproduce,28/03/2022 13:52,03/10/2023 17:16
+OBSDOCS-101,Bug,Closed,OBSDOCS,Observability Documentation,software,Obsolete,03/04/2023 16:02,20/12/2023 15:44
+OBSDOCS-100,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,02/11/2022 11:38,20/12/2023 16:07
+OBSDOCS-99,Bug,Verified,OBSDOCS,Observability Documentation,software,Test Pending,29/08/2022 01:43,04/04/2024 22:29
+OBSDOCS-98,Story,Closed,OBSDOCS,Observability Documentation,software,Won't Do,01/11/2022 12:57,06/09/2023 18:03
+OBSDOCS-97,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,06/02/2023 12:18,12/10/2023 17:01
+OBSDOCS-96,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,06/10/2022 01:25,20/10/2023 17:10
+OBSDOCS-95,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,09/08/2022 19:55,08/11/2023 19:32
+OBSDOCS-94,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,29/03/2023 15:53,29/11/2023 16:58
+OBSDOCS-93,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,12/12/2022 19:07,15/11/2023 18:34
+OBSDOCS-92,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,04/04/2023 08:19,20/11/2023 22:41
+OBSDOCS-91,Bug,Closed,OBSDOCS,Observability Documentation,software,Obsolete,14/04/2023 10:57,29/09/2023 17:06
+OBSDOCS-90,Story,Closed,OBSDOCS,Observability Documentation,software,Won't Do,05/10/2022 19:51,29/03/2024 15:53
+OBSDOCS-89,Story,Backlog,OBSDOCS,Observability Documentation,software,,05/11/2022 00:37,
+OBSDOCS-88,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,30/06/2021 17:35,07/12/2023 20:26
+OBSDOCS-87,Story,Backlog,OBSDOCS,Observability Documentation,software,,07/09/2022 14:39,
+OBSDOCS-86,Story,Closed,OBSDOCS,Observability Documentation,software,Done,25/02/2022 21:27,13/12/2023 15:27
+OBSDOCS-85,Story,Backlog,OBSDOCS,Observability Documentation,software,,09/05/2022 14:24,
+OBSDOCS-84,Story,Closed,OBSDOCS,Observability Documentation,software,Obsolete,07/09/2022 14:35,12/10/2023 20:25
+OBSDOCS-83,Bug,Closed,OBSDOCS,Observability Documentation,software,Test Pending,16/12/2022 09:03,10/01/2024 21:54
+OBSDOCS-82,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,26/04/2022 12:14,15/11/2023 15:10
+OBSDOCS-81,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,11/10/2022 08:50,14/11/2023 17:55
+OBSDOCS-79,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,17/02/2023 10:15,29/11/2023 16:30
+OBSDOCS-77,Story,Closed,OBSDOCS,Observability Documentation,software,Obsolete,07/04/2022 09:38,19/02/2024 19:25
+OBSDOCS-76,Story,Closed,OBSDOCS,Observability Documentation,software,Obsolete,19/05/2022 12:35,19/02/2024 19:34
+OBSDOCS-75,Bug,Closed,OBSDOCS,Observability Documentation,software,Cannot Reproduce,30/06/2022 12:29,21/02/2024 18:46
+OBSDOCS-74,Story,Closed,OBSDOCS,Observability Documentation,software,Done,21/07/2022 13:45,14/03/2024 14:36
+OBSDOCS-73,Story,Closed,OBSDOCS,Observability Documentation,software,Duplicate,10/05/2022 15:50,29/02/2024 21:53
+OBSDOCS-72,Story,Closed,OBSDOCS,Observability Documentation,software,Done,06/06/2022 13:40,12/03/2024 10:06
+OBSDOCS-71,Story,Closed,OBSDOCS,Observability Documentation,software,Done,10/06/2022 18:52,02/09/2024 12:37
+OBSDOCS-70,Story,Closed,OBSDOCS,Observability Documentation,software,Done,18/10/2022 12:34,12/03/2024 10:08
+OBSDOCS-69,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,19/10/2022 12:31,08/03/2024 07:31
+OBSDOCS-68,Story,Closed,OBSDOCS,Observability Documentation,software,Done,11/10/2022 14:16,19/04/2024 06:25
+OBSDOCS-67,Story,Closed,OBSDOCS,Observability Documentation,software,Done,09/06/2022 15:03,21/03/2024 19:34
+OBSDOCS-66,Story,Closed,OBSDOCS,Observability Documentation,software,Duplicate,04/10/2022 15:29,12/07/2023 15:40
+OBSDOCS-65,Story,Closed,OBSDOCS,Observability Documentation,software,Done,11/03/2022 14:12,08/04/2024 18:31
+OBSDOCS-64,Story,Closed,OBSDOCS,Observability Documentation,software,Duplicate,03/10/2022 14:46,12/07/2023 15:39
+OBSDOCS-63,Story,Closed,OBSDOCS,Observability Documentation,software,Done,20/04/2022 14:13,22/08/2024 08:25
+OBSDOCS-62,Story,Closed,OBSDOCS,Observability Documentation,software,Duplicate,26/09/2022 10:42,22/05/2024 12:27
+OBSDOCS-61,Task,Closed,OBSDOCS,Observability Documentation,software,Done,25/10/2022 18:10,01/12/2022 15:08
+OBSDOCS-60,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,27/01/2021 09:38,15/09/2022 16:57
+OBSDOCS-59,Task,Closed,OBSDOCS,Observability Documentation,software,Done,30/03/2022 17:22,14/04/2022 18:12
+OBSDOCS-58,Task,Closed,OBSDOCS,Observability Documentation,software,Done,08/12/2021 23:47,02/03/2022 02:32
+OBSDOCS-57,Task,Closed,OBSDOCS,Observability Documentation,software,Done,24/03/2022 17:06,24/06/2022 17:37
+OBSDOCS-56,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,23/11/2021 23:27,10/02/2023 16:00
+OBSDOCS-55,Story,Closed,OBSDOCS,Observability Documentation,software,Done,23/02/2022 13:37,16/06/2022 18:17
+OBSDOCS-54,Story,Closed,OBSDOCS,Observability Documentation,software,Done,13/05/2022 18:53,17/08/2022 16:16
+OBSDOCS-53,Story,Closed,OBSDOCS,Observability Documentation,software,Done,12/01/2022 18:40,16/02/2022 18:40
+OBSDOCS-52,Story,Closed,OBSDOCS,Observability Documentation,software,Done,19/01/2022 21:07,24/03/2022 18:53
+OBSDOCS-51,Story,Closed,OBSDOCS,Observability Documentation,software,Done,08/12/2021 15:42,28/01/2022 16:47
+OBSDOCS-50,Story,Closed,OBSDOCS,Observability Documentation,software,Done,13/05/2022 18:54,20/10/2022 18:28
+OBSDOCS-49,Epic,Closed,OBSDOCS,Observability Documentation,software,Done,13/05/2022 18:57,28/04/2023 14:25
+OBSDOCS-47,Story,Backlog,OBSDOCS,Observability Documentation,software,,03/02/2022 23:42,
+OBSDOCS-45,Story,Backlog,OBSDOCS,Observability Documentation,software,,14/11/2019 14:54,
+OBSDOCS-43,Task,Backlog,OBSDOCS,Observability Documentation,software,,28/04/2023 17:17,
+OBSDOCS-42,Story,Backlog,OBSDOCS,Observability Documentation,software,,25/09/2020 11:51,
+OBSDOCS-41,Story,Closed,OBSDOCS,Observability Documentation,software,Won't Do,02/03/2021 14:31,22/07/2024 16:36
+OBSDOCS-40,Task,Backlog,OBSDOCS,Observability Documentation,software,,14/04/2022 17:48,
+OBSDOCS-39,Story,Backlog,OBSDOCS,Observability Documentation,software,,22/12/2021 15:12,
+OBSDOCS-37,Story,Backlog,OBSDOCS,Observability Documentation,software,,28/04/2021 21:18,
+OBSDOCS-34,Story,Closed,OBSDOCS,Observability Documentation,software,Won't Do,02/03/2021 14:32,22/07/2024 16:36
+OBSDOCS-32,Story,Backlog,OBSDOCS,Observability Documentation,software,,21/02/2022 19:54,
+OBSDOCS-29,Task,Backlog,OBSDOCS,Observability Documentation,software,,15/09/2022 15:11,
+OBSDOCS-27,Story,Backlog,OBSDOCS,Observability Documentation,software,,27/04/2022 14:23,
+OBSDOCS-24,Epic,Backlog,OBSDOCS,Observability Documentation,software,,18/01/2022 19:25,
+OBSDOCS-23,Story,Backlog,OBSDOCS,Observability Documentation,software,,27/10/2020 07:32,
+OBSDOCS-22,Story,Backlog,OBSDOCS,Observability Documentation,software,,26/11/2020 07:30,
+OBSDOCS-21,Task,Closed,OBSDOCS,Observability Documentation,software,Obsolete,05/05/2023 16:37,05/05/2023 16:53
+OBSDOCS-20,Epic,Closed,OBSDOCS,Observability Documentation,software,Obsolete,05/05/2023 16:37,05/05/2023 16:53
+OBSDOCS-16,Task,Closed,OBSDOCS,Observability Documentation,software,Obsolete,05/05/2023 14:01,05/05/2023 15:54
+OBSDOCS-12,Task,Closed,OBSDOCS,Observability Documentation,software,Obsolete,05/05/2023 13:46,05/05/2023 15:56
+OBSDOCS-5,Task,Closed,OBSDOCS,Observability Documentation,software,Obsolete,05/05/2023 13:19,05/05/2023 15:53
+OBSDOCS-4,Task,Closed,OBSDOCS,Observability Documentation,software,Obsolete,05/05/2023 13:19,05/05/2023 15:54
+OBSDOCS-3,Task,Closed,OBSDOCS,Observability Documentation,software,Obsolete,05/04/2023 06:35,18/05/2023 19:48
+OBSDOCS-2,Task,Closed,OBSDOCS,Observability Documentation,software,Obsolete,05/04/2023 06:35,18/05/2023 19:47
+OBSDOCS-1,Task,Closed,OBSDOCS,Observability Documentation,software,Obsolete,05/04/2023 06:35,18/05/2023 19:47
+OBSDOCS-1493,Task,New,OBSDOCS,Observability Documentation,software,,11/11/2024 16:58,
+OBSDOCS-1492,Story,New,OBSDOCS,Observability Documentation,software,,11/11/2024 11:37,
+OBSDOCS-1491,Story,New,OBSDOCS,Observability Documentation,software,,11/11/2024 11:32,
+OBSDOCS-1490,Task,To Do,OBSDOCS,Observability Documentation,software,,11/11/2024 08:04,
+OBSDOCS-1489,Task,To Do,OBSDOCS,Observability Documentation,software,,11/11/2024 08:04,
+OBSDOCS-1488,Task,New,OBSDOCS,Observability Documentation,software,,08/11/2024 15:32,
+OBSDOCS-1487,Bug,New,OBSDOCS,Observability Documentation,software,,08/11/2024 11:44,
+OBSDOCS-1485,Bug,New,OBSDOCS,Observability Documentation,software,,07/11/2024 11:52,
+OBSDOCS-1484,Task,New,OBSDOCS,Observability Documentation,software,,07/11/2024 10:49,
+OBSDOCS-1483,Bug,New,OBSDOCS,Observability Documentation,software,,24/10/2024 08:31,
+OBSDOCS-1482,Bug,New,OBSDOCS,Observability Documentation,software,,27/10/2024 11:50,
+OBSDOCS-1481,Task,Closed,OBSDOCS,Observability Documentation,software,Done,07/11/2024 08:45,07/11/2024 15:47
+OBSDOCS-1480,Task,Review,OBSDOCS,Observability Documentation,software,,05/11/2024 15:30,
+OBSDOCS-1479,Story,New,OBSDOCS,Observability Documentation,software,,05/11/2024 14:53,
+OBSDOCS-1478,Story,New,OBSDOCS,Observability Documentation,software,,05/11/2024 14:45,
+OBSDOCS-1476,Epic,New,OBSDOCS,Observability Documentation,software,,04/11/2024 16:18,
+OBSDOCS-1475,Task,New,OBSDOCS,Observability Documentation,software,,04/11/2024 16:15,
+OBSDOCS-1474,Story,New,OBSDOCS,Observability Documentation,software,,04/11/2024 08:23,
+OBSDOCS-1473,Task,Review,OBSDOCS,Observability Documentation,software,,04/11/2024 08:06,
+OBSDOCS-1472,Task,Review,OBSDOCS,Observability Documentation,software,,04/11/2024 07:55,
+OBSDOCS-1471,Bug,New,OBSDOCS,Observability Documentation,software,,01/11/2024 09:57,
+OBSDOCS-1470,Bug,New,OBSDOCS,Observability Documentation,software,,01/11/2024 09:44,
+OBSDOCS-1469,Task,New,OBSDOCS,Observability Documentation,software,,31/10/2024 14:37,
+OBSDOCS-1468,Task,New,OBSDOCS,Observability Documentation,software,,31/10/2024 12:27,
+OBSDOCS-1466,Task,Closed,OBSDOCS,Observability Documentation,software,Done,30/10/2024 10:26,30/10/2024 14:13
+OBSDOCS-1462,Task,New,OBSDOCS,Observability Documentation,software,,24/10/2024 11:50,
+OBSDOCS-1461,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,24/10/2024 11:44,24/10/2024 12:10
+OBSDOCS-1460,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,24/10/2024 11:44,24/10/2024 12:10
+OBSDOCS-1456,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,24/10/2024 11:44,24/10/2024 12:10
+OBSDOCS-1455,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,24/10/2024 11:44,24/10/2024 12:10
+OBSDOCS-1454,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,24/10/2024 11:44,24/10/2024 12:10
+OBSDOCS-1453,Task,New,OBSDOCS,Observability Documentation,software,,24/10/2024 11:44,25/09/2024 13:36
+OBSDOCS-1452,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,24/10/2024 11:44,24/10/2024 12:06
+OBSDOCS-1451,Task,New,OBSDOCS,Observability Documentation,software,,24/10/2024 11:44,30/09/2024 07:19
+OBSDOCS-1450,Epic,Closed,OBSDOCS,Observability Documentation,software,Won't Do,24/10/2024 11:44,24/10/2024 12:05
+OBSDOCS-1446,Task,New,OBSDOCS,Observability Documentation,software,,24/10/2024 11:44,27/09/2024 07:19
+OBSDOCS-1445,Task,New,OBSDOCS,Observability Documentation,software,,24/10/2024 11:44,25/09/2024 13:37
+OBSDOCS-1444,Task,New,OBSDOCS,Observability Documentation,software,,24/10/2024 11:44,25/09/2024 13:37
+OBSDOCS-1443,Task,New,OBSDOCS,Observability Documentation,software,,24/10/2024 11:44,19/09/2024 10:58
+OBSDOCS-1442,Epic,New,OBSDOCS,Observability Documentation,software,,24/10/2024 11:44,30/09/2024 07:19
+OBSDOCS-1441,Epic,Closed,OBSDOCS,Observability Documentation,software,Won't Do,24/10/2024 11:41,24/10/2024 11:44
+OBSDOCS-1436,Story,New,OBSDOCS,Observability Documentation,software,,22/10/2024 13:47,
+OBSDOCS-1435,Bug,To Do,OBSDOCS,Observability Documentation,software,,22/10/2024 07:20,
+OBSDOCS-1434,Task,Closed,OBSDOCS,Observability Documentation,software,Done,21/10/2024 11:42,04/11/2024 14:59
+OBSDOCS-1431,Bug,New,OBSDOCS,Observability Documentation,software,,18/10/2024 18:20,
+OBSDOCS-1430,Bug,To Do,OBSDOCS,Observability Documentation,software,,18/10/2024 12:03,
+OBSDOCS-1426,Bug,To Do,OBSDOCS,Observability Documentation,software,,16/10/2024 18:01,
+OBSDOCS-1425,Bug,Verified,OBSDOCS,Observability Documentation,software,Test Pending,16/10/2024 16:16,18/10/2024 19:57
+OBSDOCS-1424,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,16/10/2024 15:06,01/11/2024 16:05
+OBSDOCS-1423,Task,In Progress,OBSDOCS,Observability Documentation,software,,16/10/2024 14:59,
+OBSDOCS-1422,Task,Review,OBSDOCS,Observability Documentation,software,,16/10/2024 10:23,
+OBSDOCS-1421,Task,Closed,OBSDOCS,Observability Documentation,software,Done,16/10/2024 10:19,04/11/2024 15:01
+OBSDOCS-1420,Bug,To Do,OBSDOCS,Observability Documentation,software,,16/10/2024 09:03,
+OBSDOCS-1419,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,15/10/2024 15:00,16/10/2024 15:22
+OBSDOCS-1418,Task,New,OBSDOCS,Observability Documentation,software,,15/10/2024 14:45,
+OBSDOCS-1417,Task,New,OBSDOCS,Observability Documentation,software,,15/10/2024 14:43,
+OBSDOCS-1416,Task,New,OBSDOCS,Observability Documentation,software,,15/10/2024 13:34,
+OBSDOCS-1413,Task,To Do,OBSDOCS,Observability Documentation,software,,15/10/2024 12:23,
+OBSDOCS-1412,Task,In Progress,OBSDOCS,Observability Documentation,software,,15/10/2024 12:17,
+OBSDOCS-1411,Bug,New,OBSDOCS,Observability Documentation,software,,14/10/2024 16:38,
+OBSDOCS-1410,Bug,New,OBSDOCS,Observability Documentation,software,,14/10/2024 16:56,
+OBSDOCS-1407,Task,To Do,OBSDOCS,Observability Documentation,software,,11/10/2024 17:57,
+OBSDOCS-1405,Task,Review,OBSDOCS,Observability Documentation,software,,11/10/2024 12:40,
+OBSDOCS-1402,Task,Closed,OBSDOCS,Observability Documentation,software,Done,11/10/2024 09:31,04/11/2024 15:02
+OBSDOCS-1401,Bug,New,OBSDOCS,Observability Documentation,software,,11/10/2024 09:11,
+OBSDOCS-1400,Task,New,OBSDOCS,Observability Documentation,software,,10/10/2024 16:04,
+OBSDOCS-1397,Task,New,OBSDOCS,Observability Documentation,software,,10/10/2024 15:16,
+OBSDOCS-1396,Bug,To Do,OBSDOCS,Observability Documentation,software,,10/10/2024 14:30,
+OBSDOCS-1395,Bug,To Do,OBSDOCS,Observability Documentation,software,,10/10/2024 13:12,
+OBSDOCS-1394,Bug,To Do,OBSDOCS,Observability Documentation,software,,09/10/2024 14:41,
+OBSDOCS-1393,Bug,New,OBSDOCS,Observability Documentation,software,,10/10/2024 04:07,
+OBSDOCS-1392,Task,New,OBSDOCS,Observability Documentation,software,,09/10/2024 18:43,
+OBSDOCS-1391,Bug,New,OBSDOCS,Observability Documentation,software,,09/10/2024 03:16,
+OBSDOCS-1390,Task,Closed,OBSDOCS,Observability Documentation,software,Done,09/10/2024 07:25,11/10/2024 13:36
+OBSDOCS-1389,Task,Review,OBSDOCS,Observability Documentation,software,,08/10/2024 15:46,
+OBSDOCS-1388,Task,Review,OBSDOCS,Observability Documentation,software,,08/10/2024 15:44,
+OBSDOCS-1387,Task,Closed,OBSDOCS,Observability Documentation,software,Done,08/10/2024 15:40,24/10/2024 10:11
+OBSDOCS-1386,Task,Closed,OBSDOCS,Observability Documentation,software,Done,08/10/2024 15:38,24/10/2024 10:11
+OBSDOCS-1380,Task,Closed,OBSDOCS,Observability Documentation,software,Done,08/10/2024 13:56,11/11/2024 08:00
+OBSDOCS-1379,Epic,In Progress,OBSDOCS,Observability Documentation,software,,08/10/2024 13:51,
+OBSDOCS-1378,Task,In Progress,OBSDOCS,Observability Documentation,software,,07/10/2024 14:29,
+OBSDOCS-1377,Bug,New,OBSDOCS,Observability Documentation,software,,08/10/2024 09:23,
+OBSDOCS-1376,Bug,To Do,OBSDOCS,Observability Documentation,software,,08/10/2024 07:16,
+OBSDOCS-1375,Bug,Review,OBSDOCS,Observability Documentation,software,,07/10/2024 13:50,
+OBSDOCS-1374,Bug,Release Pending,OBSDOCS,Observability Documentation,software,Done,04/10/2024 10:11,18/10/2024 20:37
+OBSDOCS-1369,Bug,To Do,OBSDOCS,Observability Documentation,software,,02/10/2024 10:39,
+OBSDOCS-1368,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,02/10/2024 10:22,01/11/2024 16:04
+OBSDOCS-1366,Task,Closed,OBSDOCS,Observability Documentation,software,Done,02/10/2024 07:32,24/10/2024 10:48
+OBSDOCS-1358,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,30/09/2024 13:46,11/11/2024 10:59
+OBSDOCS-1357,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,30/09/2024 13:46,03/10/2024 12:47
+OBSDOCS-1356,Task,Review,OBSDOCS,Observability Documentation,software,,30/09/2024 13:46,
+OBSDOCS-1355,Task,Closed,OBSDOCS,Observability Documentation,software,Done,30/09/2024 13:46,02/10/2024 13:44
+OBSDOCS-1354,Task,Closed,OBSDOCS,Observability Documentation,software,Done,30/09/2024 12:04,03/10/2024 07:46
+OBSDOCS-1352,Epic,To Do,OBSDOCS,Observability Documentation,software,,30/09/2024 11:55,
+OBSDOCS-1351,Task,Closed,OBSDOCS,Observability Documentation,software,Done,30/09/2024 11:10,15/10/2024 08:33
+OBSDOCS-1349,Bug,New,OBSDOCS,Observability Documentation,software,,26/09/2024 17:17,
+OBSDOCS-1347,Bug,To Do,OBSDOCS,Observability Documentation,software,,26/09/2024 06:02,
+OBSDOCS-1346,Bug,To Do,OBSDOCS,Observability Documentation,software,,26/09/2024 02:31,
+OBSDOCS-1345,Task,To Do,OBSDOCS,Observability Documentation,software,,26/09/2024 00:01,
+OBSDOCS-1344,Bug,To Do,OBSDOCS,Observability Documentation,software,,25/09/2024 15:16,
+OBSDOCS-1340,Bug,To Do,OBSDOCS,Observability Documentation,software,,25/09/2024 13:32,
+OBSDOCS-1339,Bug,New,OBSDOCS,Observability Documentation,software,,25/09/2024 09:13,
+OBSDOCS-1338,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,25/09/2024 07:40,21/10/2024 06:28
+OBSDOCS-1336,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,24/09/2024 10:13,11/10/2024 08:08
+OBSDOCS-1335,Bug,New,OBSDOCS,Observability Documentation,software,,24/09/2024 07:44,
+OBSDOCS-1334,Epic,New,OBSDOCS,Observability Documentation,software,,23/09/2024 13:23,
+OBSDOCS-1333,Task,Closed,OBSDOCS,Observability Documentation,software,Done,23/09/2024 07:54,21/10/2024 06:41
+OBSDOCS-1332,Epic,New,OBSDOCS,Observability Documentation,software,,20/09/2024 09:54,
+OBSDOCS-1331,Task,New,OBSDOCS,Observability Documentation,software,,19/09/2024 20:49,
+OBSDOCS-1330,Bug,New,OBSDOCS,Observability Documentation,software,,19/09/2024 16:14,
+OBSDOCS-1329,Bug,New,OBSDOCS,Observability Documentation,software,,19/09/2024 15:25,
+OBSDOCS-1328,Bug,New,OBSDOCS,Observability Documentation,software,,19/09/2024 15:14,
+OBSDOCS-1327,Bug,New,OBSDOCS,Observability Documentation,software,,19/09/2024 14:59,
+OBSDOCS-1326,Bug,New,OBSDOCS,Observability Documentation,software,,19/09/2024 14:43,
+OBSDOCS-1325,Bug,To Do,OBSDOCS,Observability Documentation,software,,11/04/2024 20:42,
+OBSDOCS-1324,Bug,New,OBSDOCS,Observability Documentation,software,,19/09/2024 14:38,
+OBSDOCS-1323,Task,New,OBSDOCS,Observability Documentation,software,,19/09/2024 13:24,
+OBSDOCS-1321,Bug,Backlog,OBSDOCS,Observability Documentation,software,,18/09/2024 15:14,
+OBSDOCS-1320,Task,To Do,OBSDOCS,Observability Documentation,software,,18/09/2024 11:54,
+OBSDOCS-1319,Task,Closed,OBSDOCS,Observability Documentation,software,Done,17/09/2024 14:07,30/09/2024 11:53
+OBSDOCS-1318,Task,Closed,OBSDOCS,Observability Documentation,software,Done,17/09/2024 14:03,19/09/2024 10:58
+OBSDOCS-1317,Task,Review,OBSDOCS,Observability Documentation,software,,17/09/2024 13:53,
+OBSDOCS-1316,Bug,New,OBSDOCS,Observability Documentation,software,,16/09/2024 13:10,
+OBSDOCS-1315,Bug,New,OBSDOCS,Observability Documentation,software,,16/09/2024 12:29,
+OBSDOCS-1314,Bug,New,OBSDOCS,Observability Documentation,software,,16/09/2024 12:24,
+OBSDOCS-1303,Task,Closed,OBSDOCS,Observability Documentation,software,Done,13/09/2024 11:15,01/10/2024 14:53
+OBSDOCS-1302,Task,Closed,OBSDOCS,Observability Documentation,software,Done,13/09/2024 11:15,01/10/2024 05:36
+OBSDOCS-1301,Task,Closed,OBSDOCS,Observability Documentation,software,Done,13/09/2024 11:15,01/10/2024 03:09
+OBSDOCS-1300,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,11/09/2024 14:08,11/09/2024 14:18
+OBSDOCS-1299,Bug,Backlog,OBSDOCS,Observability Documentation,software,,11/09/2024 10:30,
+OBSDOCS-1297,Epic,In Progress,OBSDOCS,Observability Documentation,software,,10/09/2024 14:37,
+OBSDOCS-1296,Task,Closed,OBSDOCS,Observability Documentation,software,Done,08/09/2024 18:47,07/10/2024 13:28
+OBSDOCS-1295,Task,Closed,OBSDOCS,Observability Documentation,software,Done,04/09/2024 14:00,07/10/2024 13:27
+OBSDOCS-1294,Task,Closed,OBSDOCS,Observability Documentation,software,Done,04/09/2024 09:45,07/10/2024 13:27
+OBSDOCS-1293,Task,Closed,OBSDOCS,Observability Documentation,software,Done,04/09/2024 08:50,05/09/2024 09:21
+OBSDOCS-1292,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,04/09/2024 08:21,19/09/2024 08:57
+OBSDOCS-1290,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,02/09/2024 12:14,02/09/2024 13:56
+OBSDOCS-1289,Task,New,OBSDOCS,Observability Documentation,software,,30/08/2024 17:00,
+OBSDOCS-1287,Bug,New,OBSDOCS,Observability Documentation,software,,29/08/2024 02:11,
+OBSDOCS-1286,Task,Closed,OBSDOCS,Observability Documentation,software,Done,28/08/2024 13:17,29/08/2024 15:37
+OBSDOCS-1285,Task,New,OBSDOCS,Observability Documentation,software,,28/08/2024 12:56,
+OBSDOCS-1284,Task,Closed,OBSDOCS,Observability Documentation,software,Done,28/08/2024 10:34,12/09/2024 12:24
+OBSDOCS-1283,Task,New,OBSDOCS,Observability Documentation,software,,28/08/2024 09:51,
+OBSDOCS-1282,Task,New,OBSDOCS,Observability Documentation,software,,28/08/2024 09:51,
+OBSDOCS-1281,Task,Closed,OBSDOCS,Observability Documentation,software,Done,28/08/2024 09:36,12/09/2024 12:24
+OBSDOCS-1280,Task,Closed,OBSDOCS,Observability Documentation,software,Done,28/08/2024 09:33,12/09/2024 12:26
+OBSDOCS-1279,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,27/08/2024 15:19,29/08/2024 15:26
+OBSDOCS-1278,Task,New,OBSDOCS,Observability Documentation,software,,27/08/2024 08:52,
+OBSDOCS-1277,Bug,Review,OBSDOCS,Observability Documentation,software,,27/08/2024 02:35,
+OBSDOCS-1276,Bug,New,OBSDOCS,Observability Documentation,software,,19/08/2024 21:04,
+OBSDOCS-1275,Bug,New,OBSDOCS,Observability Documentation,software,,22/08/2024 14:10,
+OBSDOCS-1274,Bug,New,OBSDOCS,Observability Documentation,software,,22/08/2024 15:47,
+OBSDOCS-1272,Task,Closed,OBSDOCS,Observability Documentation,software,Done,26/08/2024 09:09,04/09/2024 15:11
+OBSDOCS-1271,Bug,Closed,OBSDOCS,Observability Documentation,software,Duplicate,23/08/2024 11:57,02/10/2024 14:05
+OBSDOCS-1270,Task,Review,OBSDOCS,Observability Documentation,software,,22/08/2024 13:42,
+OBSDOCS-1268,Task,Closed,OBSDOCS,Observability Documentation,software,Done,21/08/2024 10:16,30/09/2024 11:30
+OBSDOCS-1266,Task,Closed,OBSDOCS,Observability Documentation,software,Done,20/08/2024 13:35,08/10/2024 12:39
+OBSDOCS-1265,Task,Closed,OBSDOCS,Observability Documentation,software,Done,19/08/2024 10:08,25/09/2024 13:40
+OBSDOCS-1264,Task,Closed,OBSDOCS,Observability Documentation,software,Done,19/08/2024 10:05,19/09/2024 12:51
+OBSDOCS-1259,Epic,New,OBSDOCS,Observability Documentation,software,,15/08/2024 16:22,
+OBSDOCS-1258,Story,New,OBSDOCS,Observability Documentation,software,,14/08/2024 08:39,
+OBSDOCS-1255,Bug,To Do,OBSDOCS,Observability Documentation,software,,12/08/2024 09:50,
+OBSDOCS-1254,Task,Closed,OBSDOCS,Observability Documentation,software,Done,06/08/2024 10:05,04/09/2024 16:16
+OBSDOCS-1252,Bug,New,OBSDOCS,Observability Documentation,software,,02/08/2024 11:20,
+OBSDOCS-1251,Bug,New,OBSDOCS,Observability Documentation,software,,02/08/2024 07:32,
+OBSDOCS-1250,Task,Closed,OBSDOCS,Observability Documentation,software,Done,01/08/2024 20:06,07/10/2024 13:26
+OBSDOCS-1249,Task,Closed,OBSDOCS,Observability Documentation,software,Done,01/08/2024 19:57,07/10/2024 13:25
+OBSDOCS-1248,Task,Closed,OBSDOCS,Observability Documentation,software,Done,01/08/2024 19:55,07/10/2024 13:24
+OBSDOCS-1247,Task,Closed,OBSDOCS,Observability Documentation,software,Done,01/08/2024 19:52,07/10/2024 13:22
+OBSDOCS-1246,Task,Closed,OBSDOCS,Observability Documentation,software,Done,01/08/2024 19:50,07/10/2024 13:22
+OBSDOCS-1245,Task,Closed,OBSDOCS,Observability Documentation,software,Done,01/08/2024 19:45,07/10/2024 13:21
+OBSDOCS-1244,Task,Closed,OBSDOCS,Observability Documentation,software,Done,01/08/2024 19:43,07/10/2024 13:20
+OBSDOCS-1243,Task,Closed,OBSDOCS,Observability Documentation,software,Done,01/08/2024 19:41,07/10/2024 13:19
+OBSDOCS-1242,Task,Closed,OBSDOCS,Observability Documentation,software,Done,01/08/2024 19:36,07/10/2024 13:17
+OBSDOCS-1241,Task,Closed,OBSDOCS,Observability Documentation,software,Done,01/08/2024 19:33,07/10/2024 13:16
+OBSDOCS-1240,Epic,Closed,OBSDOCS,Observability Documentation,software,Done,01/08/2024 19:29,07/10/2024 13:28
+OBSDOCS-1239,Task,Closed,OBSDOCS,Observability Documentation,software,Done,01/08/2024 14:32,04/11/2024 15:25
+OBSDOCS-1238,Task,Closed,OBSDOCS,Observability Documentation,software,Done,01/08/2024 14:28,04/11/2024 15:03
+OBSDOCS-1237,Task,Closed,OBSDOCS,Observability Documentation,software,Done,01/08/2024 14:23,01/08/2024 20:15
+OBSDOCS-1236,Task,Closed,OBSDOCS,Observability Documentation,software,Done,01/08/2024 14:22,02/08/2024 19:18
+OBSDOCS-1235,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,01/08/2024 10:57,07/08/2024 04:53
+OBSDOCS-1234,Task,Closed,OBSDOCS,Observability Documentation,software,Done,31/07/2024 13:03,31/07/2024 17:36
+OBSDOCS-1232,Bug,New,OBSDOCS,Observability Documentation,software,,29/07/2024 12:17,
+OBSDOCS-1231,Task,Release Pending,OBSDOCS,Observability Documentation,software,Done,29/07/2024 08:16,01/11/2024 16:01
+OBSDOCS-1230,Bug,New,OBSDOCS,Observability Documentation,software,,26/07/2024 16:55,
+OBSDOCS-1229,Task,Closed,OBSDOCS,Observability Documentation,software,Done,26/07/2024 16:23,07/10/2024 08:18
+OBSDOCS-1228,Epic,Closed,OBSDOCS,Observability Documentation,software,Done,26/07/2024 13:41,04/11/2024 15:25
+OBSDOCS-1227,Task,Closed,OBSDOCS,Observability Documentation,software,Done,26/07/2024 13:32,18/09/2024 10:13
+OBSDOCS-1226,Task,Closed,OBSDOCS,Observability Documentation,software,Done,26/07/2024 09:44,16/08/2024 07:24
+OBSDOCS-1225,Task,Closed,OBSDOCS,Observability Documentation,software,Done,26/07/2024 09:42,16/08/2024 07:25
+OBSDOCS-1224,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,26/07/2024 09:41,26/07/2024 09:42
+OBSDOCS-1223,Task,Closed,OBSDOCS,Observability Documentation,software,Done,26/07/2024 09:38,19/08/2024 09:55
+OBSDOCS-1222,Bug,New,OBSDOCS,Observability Documentation,software,,25/07/2024 09:43,
+OBSDOCS-1221,Task,Closed,OBSDOCS,Observability Documentation,software,Done,25/07/2024 19:36,26/07/2024 13:47
+OBSDOCS-1220,Task,In Progress,OBSDOCS,Observability Documentation,software,,25/07/2024 12:37,
+OBSDOCS-1219,Bug,New,OBSDOCS,Observability Documentation,software,,24/07/2024 16:32,
+OBSDOCS-1218,Task,New,OBSDOCS,Observability Documentation,software,,24/07/2024 08:49,
+OBSDOCS-1217,Task,Backlog,OBSDOCS,Observability Documentation,software,,23/07/2024 15:25,
+OBSDOCS-1216,Task,New,OBSDOCS,Observability Documentation,software,,23/07/2024 15:08,
+OBSDOCS-1215,Story,New,OBSDOCS,Observability Documentation,software,,22/07/2024 23:31,
+OBSDOCS-1214,Task,Closed,OBSDOCS,Observability Documentation,software,Done,22/07/2024 12:02,02/10/2024 10:25
+OBSDOCS-1213,Task,Backlog,OBSDOCS,Observability Documentation,software,,19/07/2024 15:35,
+OBSDOCS-1212,Bug,New,OBSDOCS,Observability Documentation,software,,18/07/2024 14:18,
+OBSDOCS-1211,Task,Closed,OBSDOCS,Observability Documentation,software,Done,18/07/2024 14:14,23/07/2024 06:03
+OBSDOCS-1210,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,18/07/2024 13:39,23/10/2024 05:56
+OBSDOCS-1209,Story,In Progress,OBSDOCS,Observability Documentation,software,,18/07/2024 13:35,
+OBSDOCS-1207,Task,Closed,OBSDOCS,Observability Documentation,software,Done,17/07/2024 08:38,18/07/2024 08:44
+OBSDOCS-1206,Epic,Closed,OBSDOCS,Observability Documentation,software,Done,17/07/2024 08:32,30/09/2024 11:54
+OBSDOCS-1205,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,16/07/2024 13:23,05/08/2024 11:45
+OBSDOCS-1204,Epic,Closed,OBSDOCS,Observability Documentation,software,Obsolete,16/07/2024 07:45,17/07/2024 08:33
+OBSDOCS-1203,Task,Closed,OBSDOCS,Observability Documentation,software,Done,15/07/2024 12:52,26/07/2024 13:39
+OBSDOCS-1202,Task,Closed,OBSDOCS,Observability Documentation,software,Done,15/07/2024 12:50,19/07/2024 20:15
+OBSDOCS-1201,Task,Closed,OBSDOCS,Observability Documentation,software,Obsolete,12/07/2024 14:16,25/09/2024 13:37
+OBSDOCS-1200,Task,Closed,OBSDOCS,Observability Documentation,software,Obsolete,12/07/2024 14:16,25/09/2024 13:37
+OBSDOCS-1196,Task,Closed,OBSDOCS,Observability Documentation,software,Done,12/07/2024 14:16,27/09/2024 07:19
+OBSDOCS-1195,Task,Closed,OBSDOCS,Observability Documentation,software,Done,12/07/2024 14:16,30/09/2024 07:19
+OBSDOCS-1194,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,12/07/2024 14:16,12/07/2024 14:31
+OBSDOCS-1193,Task,Closed,OBSDOCS,Observability Documentation,software,Obsolete,12/07/2024 14:16,25/09/2024 13:36
+OBSDOCS-1192,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,12/07/2024 14:16,12/07/2024 14:32
+OBSDOCS-1191,Epic,Closed,OBSDOCS,Observability Documentation,software,Done,12/07/2024 14:16,30/09/2024 07:19
+OBSDOCS-1187,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,12/07/2024 14:16,12/07/2024 14:32
+OBSDOCS-1186,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,12/07/2024 14:16,12/07/2024 14:33
+OBSDOCS-1185,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,12/07/2024 14:16,12/07/2024 14:34
+OBSDOCS-1184,Epic,Closed,OBSDOCS,Observability Documentation,software,Duplicate,12/07/2024 14:16,12/07/2024 14:31
+OBSDOCS-1183,Epic,Closed,OBSDOCS,Observability Documentation,software,Done,12/07/2024 14:10,12/07/2024 14:15
+OBSDOCS-1182,Task,To Do,OBSDOCS,Observability Documentation,software,,11/07/2024 18:14,
+OBSDOCS-1181,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,09/07/2024 14:35,10/07/2024 12:33
+OBSDOCS-1180,Task,Closed,OBSDOCS,Observability Documentation,software,Done,08/07/2024 17:50,09/07/2024 13:33
+OBSDOCS-1179,Task,Closed,OBSDOCS,Observability Documentation,software,Done,08/07/2024 13:31,12/07/2024 13:41
+OBSDOCS-1177,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,08/07/2024 08:07,11/07/2024 11:30
+OBSDOCS-1176,Bug,New,OBSDOCS,Observability Documentation,software,,05/07/2024 14:47,
+OBSDOCS-1174,Bug,New,OBSDOCS,Observability Documentation,software,,02/07/2024 19:22,
+OBSDOCS-1173,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,01/07/2024 19:27,19/07/2024 07:52
+OBSDOCS-1172,Task,Closed,OBSDOCS,Observability Documentation,software,Done,28/06/2024 15:33,28/06/2024 20:00
+OBSDOCS-1171,Task,Closed,OBSDOCS,Observability Documentation,software,Done,28/06/2024 14:02,16/07/2024 10:27
+OBSDOCS-1169,Task,In Progress,OBSDOCS,Observability Documentation,software,,28/06/2024 13:44,
+OBSDOCS-1168,Task,Closed,OBSDOCS,Observability Documentation,software,Obsolete,28/06/2024 13:30,20/08/2024 06:37
+OBSDOCS-1167,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,27/06/2024 14:28,02/07/2024 18:22
+OBSDOCS-1166,Task,Closed,OBSDOCS,Observability Documentation,software,Done,27/06/2024 11:32,29/07/2024 06:37
+OBSDOCS-1165,Task,Closed,OBSDOCS,Observability Documentation,software,Done,25/06/2024 11:10,29/07/2024 06:37
+OBSDOCS-1164,Task,Closed,OBSDOCS,Observability Documentation,software,Done,25/06/2024 11:09,18/07/2024 15:28
+OBSDOCS-1163,Task,Closed,OBSDOCS,Observability Documentation,software,Done,25/06/2024 11:07,24/07/2024 11:08
+OBSDOCS-1162,Bug,Review,OBSDOCS,Observability Documentation,software,,21/06/2024 15:50,
+OBSDOCS-1161,Bug,To Do,OBSDOCS,Observability Documentation,software,,03/06/2024 21:11,
+OBSDOCS-1160,Bug,New,OBSDOCS,Observability Documentation,software,,20/06/2024 17:04,
+OBSDOCS-1159,Bug,Closed,OBSDOCS,Observability Documentation,software,Won't Do,20/06/2024 09:14,18/07/2024 10:21
+OBSDOCS-1157,Bug,In Progress,OBSDOCS,Observability Documentation,software,,15/06/2024 16:10,
+OBSDOCS-1156,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,17/06/2024 07:33,17/06/2024 13:00
+OBSDOCS-1155,Task,Closed,OBSDOCS,Observability Documentation,software,Done,12/06/2024 11:08,11/07/2024 11:29
+OBSDOCS-1154,Bug,New,OBSDOCS,Observability Documentation,software,,12/06/2024 06:27,
+OBSDOCS-1153,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,11/06/2024 16:50,29/07/2024 14:39
+OBSDOCS-1152,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,11/06/2024 16:26,14/08/2024 11:24
+OBSDOCS-1151,Task,Closed,OBSDOCS,Observability Documentation,software,Done,11/06/2024 16:21,04/09/2024 16:28
+OBSDOCS-1150,Task,Backlog,OBSDOCS,Observability Documentation,software,,11/06/2024 16:16,
+OBSDOCS-1149,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,11/06/2024 16:10,11/06/2024 16:14
+OBSDOCS-1148,Task,Closed,OBSDOCS,Observability Documentation,software,Done,11/06/2024 15:53,23/08/2024 10:26
+OBSDOCS-1147,Bug,In Progress,OBSDOCS,Observability Documentation,software,,11/06/2024 15:50,
+OBSDOCS-1146,Task,Closed,OBSDOCS,Observability Documentation,software,Done,11/06/2024 15:48,21/08/2024 16:06
+OBSDOCS-1145,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,11/06/2024 15:42,25/07/2024 09:27
+OBSDOCS-1144,Task,Closed,OBSDOCS,Observability Documentation,software,Done,11/06/2024 15:01,13/09/2024 10:14
+OBSDOCS-1143,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,11/06/2024 14:40,11/06/2024 14:46
+OBSDOCS-1141,Bug,New,OBSDOCS,Observability Documentation,software,,11/06/2024 10:18,
+OBSDOCS-1140,Bug,New,OBSDOCS,Observability Documentation,software,,10/06/2024 11:56,
+OBSDOCS-1139,Story,In Progress,OBSDOCS,Observability Documentation,software,,11/06/2024 01:26,
+OBSDOCS-1138,Story,Closed,OBSDOCS,Observability Documentation,software,Done,11/06/2024 01:24,19/08/2024 22:25
+OBSDOCS-1137,Story,In Progress,OBSDOCS,Observability Documentation,software,,11/06/2024 01:20,
+OBSDOCS-1136,Story,Closed,OBSDOCS,Observability Documentation,software,Done,11/06/2024 01:21,29/07/2024 06:34
+OBSDOCS-1135,Story,Closed,OBSDOCS,Observability Documentation,software,Duplicate,11/06/2024 01:19,19/07/2024 08:52
+OBSDOCS-1134,Story,Closed,OBSDOCS,Observability Documentation,software,Won't Do,11/06/2024 01:15,06/08/2024 15:01
+OBSDOCS-1133,Epic,Review,OBSDOCS,Observability Documentation,software,,11/06/2024 01:12,
+OBSDOCS-1130,Bug,New,OBSDOCS,Observability Documentation,software,,08/06/2024 08:27,
+OBSDOCS-1129,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,07/06/2024 14:33,18/07/2024 13:32
+OBSDOCS-1128,Bug,New,OBSDOCS,Observability Documentation,software,,07/06/2024 08:32,
+OBSDOCS-1127,Bug,In Progress,OBSDOCS,Observability Documentation,software,,07/06/2024 08:08,
+OBSDOCS-1126,Bug,New,OBSDOCS,Observability Documentation,software,,07/06/2024 07:45,
+OBSDOCS-1125,Task,Closed,OBSDOCS,Observability Documentation,software,Done,06/06/2024 15:07,28/06/2024 19:26
+OBSDOCS-1122,Task,In Progress,OBSDOCS,Observability Documentation,software,,06/06/2024 09:39,
+OBSDOCS-1121,Epic,Closed,OBSDOCS,Observability Documentation,software,Done,06/06/2024 08:52,15/10/2024 12:45
+OBSDOCS-1120,Bug,New,OBSDOCS,Observability Documentation,software,,05/06/2024 12:48,
+OBSDOCS-1119,Task,Closed,OBSDOCS,Observability Documentation,software,Done,05/06/2024 12:15,21/06/2024 11:54
+OBSDOCS-1118,Bug,New,OBSDOCS,Observability Documentation,software,,04/06/2024 09:31,
+OBSDOCS-1117,Bug,Release Pending,OBSDOCS,Observability Documentation,software,Done,04/06/2024 15:33,28/06/2024 12:39
+OBSDOCS-1116,Bug,New,OBSDOCS,Observability Documentation,software,,03/06/2024 09:27,
+OBSDOCS-1115,Bug,New,OBSDOCS,Observability Documentation,software,,03/06/2024 12:37,
+OBSDOCS-1114,Task,Closed,OBSDOCS,Observability Documentation,software,Done,03/06/2024 08:50,18/10/2024 15:21
+OBSDOCS-1113,Bug,New,OBSDOCS,Observability Documentation,software,,31/05/2024 15:56,
+OBSDOCS-1112,Task,Closed,OBSDOCS,Observability Documentation,software,Done,31/05/2024 13:59,01/07/2024 13:41
+OBSDOCS-1111,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,31/05/2024 13:03,31/05/2024 13:18
+OBSDOCS-1109,Task,To Do,OBSDOCS,Observability Documentation,software,,31/05/2024 02:37,
+OBSDOCS-1108,Bug,New,OBSDOCS,Observability Documentation,software,,30/05/2024 12:35,
+OBSDOCS-1105,Bug,In Progress,OBSDOCS,Observability Documentation,software,,29/05/2024 16:21,
+OBSDOCS-1098,Task,Closed,OBSDOCS,Observability Documentation,software,Done,29/05/2024 13:34,31/05/2024 19:04
+OBSDOCS-1097,Task,Closed,OBSDOCS,Observability Documentation,software,Done,29/05/2024 08:55,09/08/2024 11:56
+OBSDOCS-1096,Task,To Do,OBSDOCS,Observability Documentation,software,,29/05/2024 06:30,
+OBSDOCS-1095,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,29/05/2024 02:50,30/05/2024 15:48
+OBSDOCS-1093,Task,New,OBSDOCS,Observability Documentation,software,,28/05/2024 18:20,
+OBSDOCS-1092,Task,New,OBSDOCS,Observability Documentation,software,,28/05/2024 17:19,
+OBSDOCS-1090,Task,Closed,OBSDOCS,Observability Documentation,software,Done,28/05/2024 07:56,17/06/2024 10:24
+OBSDOCS-1089,Bug,To Do,OBSDOCS,Observability Documentation,software,,27/05/2024 21:23,
+OBSDOCS-1088,Task,Closed,OBSDOCS,Observability Documentation,software,Done,27/05/2024 13:21,25/06/2024 06:39
+OBSDOCS-1087,Task,Closed,OBSDOCS,Observability Documentation,software,Done,27/05/2024 13:20,17/06/2024 10:25
+OBSDOCS-1086,Task,Closed,OBSDOCS,Observability Documentation,software,Done,27/05/2024 13:18,17/06/2024 10:24
+OBSDOCS-1084,Task,Closed,OBSDOCS,Observability Documentation,software,Done,23/05/2024 13:40,20/06/2024 18:18
+OBSDOCS-1081,Bug,Closed,OBSDOCS,Observability Documentation,software,Duplicate,22/05/2024 08:11,23/05/2024 08:14
+OBSDOCS-1080,Bug,Closed,OBSDOCS,Observability Documentation,software,Duplicate,22/05/2024 15:31,10/06/2024 05:20
+OBSDOCS-1079,Task,Closed,OBSDOCS,Observability Documentation,software,Done,22/05/2024 10:37,02/09/2024 11:37
+OBSDOCS-1078,Bug,Closed,OBSDOCS,Observability Documentation,software,Duplicate,22/05/2024 09:11,22/05/2024 10:18
+OBSDOCS-1077,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,21/05/2024 13:56,30/05/2024 10:29
+OBSDOCS-1076,Task,Closed,OBSDOCS,Observability Documentation,software,Done,21/05/2024 11:38,27/06/2024 14:08
+OBSDOCS-1074,Task,New,OBSDOCS,Observability Documentation,software,,20/05/2024 08:20,
+OBSDOCS-1072,Task,Closed,OBSDOCS,Observability Documentation,software,Done,20/05/2024 21:08,20/05/2024 21:09
+OBSDOCS-1071,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,20/05/2024 13:18,21/05/2024 14:28
+OBSDOCS-1070,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,17/05/2024 17:12,22/05/2024 05:43
+OBSDOCS-1068,Task,Closed,OBSDOCS,Observability Documentation,software,Done,16/05/2024 13:09,03/06/2024 06:29
+OBSDOCS-1067,Task,Backlog,OBSDOCS,Observability Documentation,software,,16/05/2024 08:44,
+OBSDOCS-1066,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,15/05/2024 21:24,27/05/2024 05:05
+OBSDOCS-1065,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,15/05/2024 16:09,25/06/2024 12:18
+OBSDOCS-1064,Task,Closed,OBSDOCS,Observability Documentation,software,Done,15/05/2024 13:05,23/05/2024 13:38
+OBSDOCS-1063,Task,Closed,OBSDOCS,Observability Documentation,software,Done,15/05/2024 13:03,27/05/2024 09:56
+OBSDOCS-1062,Task,Closed,OBSDOCS,Observability Documentation,software,Done,15/05/2024 13:02,27/05/2024 09:55
+OBSDOCS-1061,Task,Closed,OBSDOCS,Observability Documentation,software,Done,15/05/2024 12:58,23/05/2024 13:39
+OBSDOCS-1059,Bug,New,OBSDOCS,Observability Documentation,software,,14/05/2024 20:21,
+OBSDOCS-1058,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,14/05/2024 04:40,29/07/2024 08:18
+OBSDOCS-1056,Task,Closed,OBSDOCS,Observability Documentation,software,Done,10/05/2024 15:11,16/05/2024 06:56
+OBSDOCS-1055,Task,Closed,OBSDOCS,Observability Documentation,software,Done,10/05/2024 15:10,16/05/2024 06:56
+OBSDOCS-1054,Task,Closed,OBSDOCS,Observability Documentation,software,Done,10/05/2024 15:09,16/05/2024 06:56
+OBSDOCS-1053,Task,Closed,OBSDOCS,Observability Documentation,software,Done,10/05/2024 15:07,16/05/2024 06:56
+OBSDOCS-1052,Epic,Closed,OBSDOCS,Observability Documentation,software,Done,10/05/2024 15:05,16/05/2024 06:56
+OBSDOCS-1051,Task,Closed,OBSDOCS,Observability Documentation,software,Done,10/05/2024 14:25,16/05/2024 06:56
+OBSDOCS-1049,Bug,To Do,OBSDOCS,Observability Documentation,software,,08/05/2024 16:02,
+OBSDOCS-1048,Task,Closed,OBSDOCS,Observability Documentation,software,Done,08/05/2024 15:31,21/06/2024 14:19
+OBSDOCS-1044,Task,Closed,OBSDOCS,Observability Documentation,software,Done,08/05/2024 12:26,29/05/2024 04:25
+OBSDOCS-1043,Bug,New,OBSDOCS,Observability Documentation,software,,07/05/2024 15:18,
+OBSDOCS-1041,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,07/05/2024 08:44,05/07/2024 11:29
+OBSDOCS-1040,Bug,New,OBSDOCS,Observability Documentation,software,,28/04/2024 18:29,
+OBSDOCS-1039,Bug,New,OBSDOCS,Observability Documentation,software,,28/04/2024 18:41,
+OBSDOCS-1038,Bug,New,OBSDOCS,Observability Documentation,software,,28/04/2024 20:32,
+OBSDOCS-1037,Bug,New,OBSDOCS,Observability Documentation,software,,28/04/2024 21:30,
+OBSDOCS-1036,Task,Closed,OBSDOCS,Observability Documentation,software,Done,06/05/2024 13:52,22/05/2024 16:42
+OBSDOCS-1035,Task,Closed,OBSDOCS,Observability Documentation,software,Done,06/05/2024 13:48,23/05/2024 10:51
+OBSDOCS-1034,Task,Closed,OBSDOCS,Observability Documentation,software,Done,06/05/2024 13:44,23/05/2024 10:21
+OBSDOCS-1032,Bug,Closed,OBSDOCS,Observability Documentation,software,Duplicate,03/05/2024 18:33,03/05/2024 19:20
+OBSDOCS-1031,Task,Closed,OBSDOCS,Observability Documentation,software,Done,03/05/2024 12:36,23/05/2024 14:27
+OBSDOCS-1030,Bug,To Do,OBSDOCS,Observability Documentation,software,,03/05/2024 10:20,
+OBSDOCS-1029,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,02/05/2024 05:23,07/05/2024 09:22
+OBSDOCS-1028,Bug,New,OBSDOCS,Observability Documentation,software,,03/05/2024 08:19,
+OBSDOCS-1026,Bug,New,OBSDOCS,Observability Documentation,software,,02/05/2024 15:08,
+OBSDOCS-1025,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,01/05/2024 16:24,09/05/2024 04:44
+OBSDOCS-1024,Task,Closed,OBSDOCS,Observability Documentation,software,Done,30/04/2024 15:28,06/06/2024 12:39
+OBSDOCS-1021,Task,Closed,OBSDOCS,Observability Documentation,software,Done,29/04/2024 16:41,06/05/2024 20:50
+OBSDOCS-1020,Task,Closed,OBSDOCS,Observability Documentation,software,Done,29/04/2024 15:37,23/05/2024 10:11
+OBSDOCS-1019,Bug,New,OBSDOCS,Observability Documentation,software,,29/04/2024 11:05,
+OBSDOCS-1018,Task,New,OBSDOCS,Observability Documentation,software,,29/04/2024 09:36,
+OBSDOCS-1017,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,29/04/2024 09:35,29/04/2024 10:02
+OBSDOCS-1016,Bug,New,OBSDOCS,Observability Documentation,software,,26/04/2024 15:38,
+OBSDOCS-1015,Task,New,OBSDOCS,Observability Documentation,software,,29/04/2024 02:28,
+OBSDOCS-1012,Bug,New,OBSDOCS,Observability Documentation,software,,26/04/2024 09:35,
+OBSDOCS-1011,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,25/04/2024 12:38,14/05/2024 07:57
+OBSDOCS-1010,Task,To Do,OBSDOCS,Observability Documentation,software,,24/04/2024 15:58,
+OBSDOCS-1009,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,24/04/2024 15:02,10/05/2024 06:26
+OBSDOCS-1008,Task,Closed,OBSDOCS,Observability Documentation,software,Done,24/04/2024 12:48,03/05/2024 07:29
+OBSDOCS-1007,Bug,New,OBSDOCS,Observability Documentation,software,,22/04/2024 11:50,
+OBSDOCS-1004,Bug,New,OBSDOCS,Observability Documentation,software,,20/04/2024 15:09,
+OBSDOCS-1003,Task,Review,OBSDOCS,Observability Documentation,software,,20/04/2024 21:29,
+OBSDOCS-1002,Task,Review,OBSDOCS,Observability Documentation,software,,20/04/2024 21:29,
+OBSDOCS-997,Task,Verified,OBSDOCS,Observability Documentation,software,Test Pending,20/04/2024 12:15,28/06/2024 12:41
+OBSDOCS-996,Task,Closed,OBSDOCS,Observability Documentation,software,Done,19/04/2024 21:31,23/05/2024 14:53
+OBSDOCS-995,Task,New,OBSDOCS,Observability Documentation,software,,19/04/2024 17:09,
+OBSDOCS-994,Bug,To Do,OBSDOCS,Observability Documentation,software,,19/04/2024 08:40,
+OBSDOCS-993,Bug,Closed,OBSDOCS,Observability Documentation,software,Duplicate,18/04/2024 19:50,19/04/2024 13:06
+OBSDOCS-992,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,18/04/2024 06:23,17/06/2024 13:51
+OBSDOCS-991,Task,Closed,OBSDOCS,Observability Documentation,software,Done,17/04/2024 09:45,22/04/2024 06:13
+OBSDOCS-990,Task,Closed,OBSDOCS,Observability Documentation,software,Done,16/04/2024 19:12,06/05/2024 20:50
+OBSDOCS-989,Task,Closed,OBSDOCS,Observability Documentation,software,Done,16/04/2024 19:10,19/04/2024 21:20
+OBSDOCS-988,Bug,Backlog,OBSDOCS,Observability Documentation,software,,16/04/2024 18:08,
+OBSDOCS-987,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,16/04/2024 14:58,17/04/2024 08:08
+OBSDOCS-986,Task,Closed,OBSDOCS,Observability Documentation,software,Done,15/04/2024 14:57,24/04/2024 12:58
+OBSDOCS-985,Bug,Closed,OBSDOCS,Observability Documentation,software,Duplicate,13/04/2024 00:45,20/04/2024 15:48
+OBSDOCS-984,Epic,New,OBSDOCS,Observability Documentation,software,,14/04/2024 22:48,
+OBSDOCS-983,Epic,Closed,OBSDOCS,Observability Documentation,software,Done,12/04/2024 21:09,04/11/2024 15:24
+OBSDOCS-981,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,12/04/2024 12:57,15/04/2024 17:36
+OBSDOCS-979,Bug,New,OBSDOCS,Observability Documentation,software,,11/04/2024 14:29,
+OBSDOCS-978,Story,In Progress,OBSDOCS,Observability Documentation,software,,10/04/2024 18:49,
+OBSDOCS-977,Task,Closed,OBSDOCS,Observability Documentation,software,Done,10/04/2024 18:43,04/06/2024 06:17
+OBSDOCS-976,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,10/04/2024 18:36,22/07/2024 07:01
+OBSDOCS-975,Task,Closed,OBSDOCS,Observability Documentation,software,Done,10/04/2024 14:31,03/05/2024 07:29
+OBSDOCS-974,Task,Closed,OBSDOCS,Observability Documentation,software,Done,10/04/2024 14:30,03/05/2024 07:31
+OBSDOCS-973,Task,Closed,OBSDOCS,Observability Documentation,software,Done,10/04/2024 14:27,03/05/2024 07:30
+OBSDOCS-972,Task,Closed,OBSDOCS,Observability Documentation,software,Done,09/04/2024 20:43,25/04/2024 10:59
+OBSDOCS-971,Bug,New,OBSDOCS,Observability Documentation,software,,09/04/2024 18:55,
+OBSDOCS-970,Bug,New,OBSDOCS,Observability Documentation,software,,09/04/2024 18:43,
+OBSDOCS-969,Task,Closed,OBSDOCS,Observability Documentation,software,Done,09/04/2024 16:23,02/05/2024 08:05
+OBSDOCS-968,Bug,New,OBSDOCS,Observability Documentation,software,,09/04/2024 09:23,
+OBSDOCS-967,Task,New,OBSDOCS,Observability Documentation,software,,09/04/2024 14:27,
+OBSDOCS-966,Task,New,OBSDOCS,Observability Documentation,software,,09/04/2024 14:25,
+OBSDOCS-965,Task,New,OBSDOCS,Observability Documentation,software,,09/04/2024 14:24,
+OBSDOCS-964,Task,New,OBSDOCS,Observability Documentation,software,,09/04/2024 14:22,
+OBSDOCS-963,Task,New,OBSDOCS,Observability Documentation,software,,09/04/2024 14:20,
+OBSDOCS-962,Epic,New,OBSDOCS,Observability Documentation,software,,09/04/2024 14:19,
+OBSDOCS-961,Task,Closed,OBSDOCS,Observability Documentation,software,Done,09/04/2024 13:57,25/04/2024 13:53
+OBSDOCS-960,Task,Closed,OBSDOCS,Observability Documentation,software,Done,09/04/2024 13:53,22/05/2024 15:44
+OBSDOCS-959,Bug,Closed,OBSDOCS,Observability Documentation,software,Duplicate,09/04/2024 13:45,09/04/2024 20:27
+OBSDOCS-958,Bug,New,OBSDOCS,Observability Documentation,software,,08/04/2024 16:35,
+OBSDOCS-957,Task,Closed,OBSDOCS,Observability Documentation,software,Done,08/04/2024 19:35,12/09/2024 12:08
+OBSDOCS-956,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,08/04/2024 14:36,12/04/2024 18:10
+OBSDOCS-955,Bug,Closed,OBSDOCS,Observability Documentation,software,Duplicate,08/04/2024 13:51,23/05/2024 08:15
+OBSDOCS-954,Bug,To Do,OBSDOCS,Observability Documentation,software,,04/04/2024 18:15,
+OBSDOCS-953,Task,Closed,OBSDOCS,Observability Documentation,software,Done,08/04/2024 08:00,23/05/2024 10:28
+OBSDOCS-952,Task,Closed,OBSDOCS,Observability Documentation,software,Done,05/04/2024 13:00,26/04/2024 07:17
+OBSDOCS-951,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,04/04/2024 22:40,18/09/2024 08:54
+OBSDOCS-949,Task,Closed,OBSDOCS,Observability Documentation,software,Done,03/04/2024 19:38,30/04/2024 01:16
+OBSDOCS-947,Task,New,OBSDOCS,Observability Documentation,software,,03/04/2024 12:56,
+OBSDOCS-946,Task,Backlog,OBSDOCS,Observability Documentation,software,,02/04/2024 15:15,
+OBSDOCS-944,Task,Closed,OBSDOCS,Observability Documentation,software,Done,02/04/2024 06:22,03/06/2024 14:12
+OBSDOCS-943,Bug,New,OBSDOCS,Observability Documentation,software,,29/03/2024 10:48,
+OBSDOCS-942,Epic,Closed,OBSDOCS,Observability Documentation,software,Done,28/03/2024 15:22,02/05/2024 15:49
+OBSDOCS-941,Epic,Closed,OBSDOCS,Observability Documentation,software,Done,28/03/2024 14:42,21/06/2024 07:22
+OBSDOCS-940,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,28/03/2024 04:51,17/04/2024 02:31
+OBSDOCS-939,Task,Closed,OBSDOCS,Observability Documentation,software,Done,27/03/2024 15:31,23/05/2024 10:52
+OBSDOCS-938,Task,Closed,OBSDOCS,Observability Documentation,software,Done,27/03/2024 14:53,22/05/2024 15:40
+OBSDOCS-937,Task,Closed,OBSDOCS,Observability Documentation,software,Done,27/03/2024 14:43,22/05/2024 15:25
+OBSDOCS-936,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,27/03/2024 13:44,27/03/2024 15:28
+OBSDOCS-933,Task,Closed,OBSDOCS,Observability Documentation,software,Done,26/03/2024 11:17,22/05/2024 15:19
+OBSDOCS-931,Bug,Closed,OBSDOCS,Observability Documentation,software,Obsolete,22/03/2024 20:37,30/05/2024 14:02
+OBSDOCS-930,Task,Closed,OBSDOCS,Observability Documentation,software,Done,22/03/2024 19:24,22/03/2024 19:25
+OBSDOCS-928,Task,Closed,OBSDOCS,Observability Documentation,software,Done,22/03/2024 12:02,22/05/2024 15:11
+OBSDOCS-927,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,21/03/2024 13:46,25/03/2024 10:41
+OBSDOCS-926,Bug,New,OBSDOCS,Observability Documentation,software,,22/03/2024 02:09,
+OBSDOCS-925,Bug,New,OBSDOCS,Observability Documentation,software,,21/03/2024 08:05,
+OBSDOCS-924,Bug,New,OBSDOCS,Observability Documentation,software,,21/03/2024 07:52,
+OBSDOCS-923,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,21/03/2024 06:21,28/08/2024 08:13
+OBSDOCS-922,Task,Closed,OBSDOCS,Observability Documentation,software,Done,20/03/2024 17:22,03/04/2024 06:07
+OBSDOCS-921,Task,Closed,OBSDOCS,Observability Documentation,software,Done,20/03/2024 17:01,12/04/2024 18:07
+OBSDOCS-920,Task,Closed,OBSDOCS,Observability Documentation,software,Done,20/03/2024 14:53,22/04/2024 13:36
+OBSDOCS-919,Task,Closed,OBSDOCS,Observability Documentation,software,Done,20/03/2024 14:25,28/05/2024 16:16
+OBSDOCS-918,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,19/03/2024 07:52,26/07/2024 11:45
+OBSDOCS-917,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,14/03/2024 17:39,09/04/2024 13:07
+OBSDOCS-916,Task,Closed,OBSDOCS,Observability Documentation,software,Done,18/03/2024 15:03,22/03/2024 20:38
+OBSDOCS-915,Bug,Closed,OBSDOCS,Observability Documentation,software,Duplicate,15/03/2024 08:28,18/04/2024 14:42
+OBSDOCS-913,Story,Closed,OBSDOCS,Observability Documentation,software,Done,14/03/2024 14:48,30/07/2024 13:16
+OBSDOCS-912,Story,Closed,OBSDOCS,Observability Documentation,software,Done,14/03/2024 14:32,19/04/2024 06:53
+OBSDOCS-910,Task,Closed,OBSDOCS,Observability Documentation,software,Done,11/03/2024 01:12,08/04/2024 17:51
+OBSDOCS-909,Task,Closed,OBSDOCS,Observability Documentation,software,Done,13/03/2024 17:44,17/06/2024 12:36
+OBSDOCS-908,Epic,New,OBSDOCS,Observability Documentation,software,,13/03/2024 15:41,
+OBSDOCS-907,Bug,New,OBSDOCS,Observability Documentation,software,,12/03/2024 19:17,
+OBSDOCS-906,Task,Closed,OBSDOCS,Observability Documentation,software,Done,12/03/2024 16:39,22/03/2024 20:38
+OBSDOCS-905,Task,Closed,OBSDOCS,Observability Documentation,software,Done,12/03/2024 14:52,13/03/2024 18:55
+OBSDOCS-904,Task,Closed,OBSDOCS,Observability Documentation,software,Done,12/03/2024 11:09,28/03/2024 14:38
+OBSDOCS-903,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,11/03/2024 17:33,14/03/2024 08:09
+OBSDOCS-901,Task,Closed,OBSDOCS,Observability Documentation,software,Done,08/03/2024 15:28,22/03/2024 20:27
+OBSDOCS-900,Task,Closed,OBSDOCS,Observability Documentation,software,Done,08/03/2024 14:32,14/03/2024 13:52
+OBSDOCS-899,Epic,In Progress,OBSDOCS,Observability Documentation,software,,08/03/2024 14:13,
+OBSDOCS-898,Story,New,OBSDOCS,Observability Documentation,software,,17/01/2024 09:44,
+OBSDOCS-897,Bug,New,OBSDOCS,Observability Documentation,software,,19/01/2024 19:43,
+OBSDOCS-896,Bug,New,OBSDOCS,Observability Documentation,software,,19/01/2024 19:46,
+OBSDOCS-893,Task,Closed,OBSDOCS,Observability Documentation,software,Done,07/03/2024 11:00,30/05/2024 11:45
+OBSDOCS-892,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,05/03/2024 13:59,16/04/2024 10:56
+OBSDOCS-891,Bug,In Progress,OBSDOCS,Observability Documentation,software,,06/03/2024 08:02,
+OBSDOCS-890,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,06/03/2024 16:35,09/10/2024 15:27
+OBSDOCS-889,Bug,New,OBSDOCS,Observability Documentation,software,,06/03/2024 10:56,
+OBSDOCS-888,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,05/03/2024 16:37,12/04/2024 15:28
+OBSDOCS-887,Task,Closed,OBSDOCS,Observability Documentation,software,Done,04/03/2024 19:32,14/03/2024 11:31
+OBSDOCS-886,Task,Closed,OBSDOCS,Observability Documentation,software,Done,04/03/2024 17:13,14/03/2024 11:34
+OBSDOCS-885,Bug,Closed,OBSDOCS,Observability Documentation,software,Duplicate,04/03/2024 15:32,04/03/2024 15:33
+OBSDOCS-884,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,04/03/2024 10:06,18/03/2024 12:43
+OBSDOCS-883,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,04/03/2024 07:56,21/06/2024 07:25
+OBSDOCS-881,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,04/03/2024 06:30,23/10/2024 05:25
+OBSDOCS-880,Task,Closed,OBSDOCS,Observability Documentation,software,Done,01/03/2024 18:06,17/04/2024 14:59
+OBSDOCS-879,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,01/03/2024 17:18,01/03/2024 19:23
+OBSDOCS-875,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,29/02/2024 17:35,22/03/2024 12:48
+OBSDOCS-874,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,28/02/2024 19:13,30/04/2024 15:14
+OBSDOCS-873,Task,Closed,OBSDOCS,Observability Documentation,software,Done,28/02/2024 19:10,22/05/2024 15:02
+OBSDOCS-872,Task,Closed,OBSDOCS,Observability Documentation,software,Done,28/02/2024 19:01,09/05/2024 09:30
+OBSDOCS-871,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,28/02/2024 16:55,09/05/2024 09:09
+OBSDOCS-870,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,28/02/2024 16:51,08/05/2024 14:14
+OBSDOCS-869,Task,Closed,OBSDOCS,Observability Documentation,software,Done,28/02/2024 16:48,22/05/2024 14:49
+OBSDOCS-866,Task,Closed,OBSDOCS,Observability Documentation,software,Done,28/02/2024 16:29,22/05/2024 16:16
+OBSDOCS-865,Task,Closed,OBSDOCS,Observability Documentation,software,Done,28/02/2024 16:18,22/05/2024 16:20
+OBSDOCS-864,Task,Closed,OBSDOCS,Observability Documentation,software,Done,28/02/2024 16:13,29/08/2024 13:30
+OBSDOCS-863,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,27/02/2024 10:47,01/04/2024 16:28
+OBSDOCS-862,Bug,Closed,OBSDOCS,Observability Documentation,software,Not a Bug,27/02/2024 16:34,29/02/2024 11:20
+OBSDOCS-861,Bug,New,OBSDOCS,Observability Documentation,software,,27/02/2024 12:05,
+OBSDOCS-860,Bug,New,OBSDOCS,Observability Documentation,software,,27/02/2024 10:27,
+OBSDOCS-858,Epic,Closed,OBSDOCS,Observability Documentation,software,Done,26/02/2024 10:10,06/06/2024 17:10
+OBSDOCS-857,Bug,New,OBSDOCS,Observability Documentation,software,,26/02/2024 09:58,
+OBSDOCS-856,Bug,To Do,OBSDOCS,Observability Documentation,software,,23/02/2024 18:09,
+OBSDOCS-855,Bug,New,OBSDOCS,Observability Documentation,software,,23/02/2024 17:07,
+OBSDOCS-854,Task,Closed,OBSDOCS,Observability Documentation,software,Done,22/02/2024 17:02,01/03/2024 20:43
+OBSDOCS-853,Task,Closed,OBSDOCS,Observability Documentation,software,Done,22/02/2024 16:59,01/03/2024 16:04
+OBSDOCS-852,Task,Closed,OBSDOCS,Observability Documentation,software,Done,22/02/2024 16:54,12/04/2024 18:11
+OBSDOCS-851,Bug,New,OBSDOCS,Observability Documentation,software,,21/02/2024 19:15,
+OBSDOCS-850,Task,Closed,OBSDOCS,Observability Documentation,software,Done,21/02/2024 17:54,01/03/2024 16:00
+OBSDOCS-849,Task,Closed,OBSDOCS,Observability Documentation,software,Done,21/02/2024 17:08,01/03/2024 20:42
+OBSDOCS-848,Task,Closed,OBSDOCS,Observability Documentation,software,Done,21/02/2024 13:49,28/03/2024 14:38
+OBSDOCS-847,Task,Closed,OBSDOCS,Observability Documentation,software,Done,21/02/2024 13:48,06/03/2024 13:26
+OBSDOCS-846,Task,Closed,OBSDOCS,Observability Documentation,software,Done,21/02/2024 13:46,28/03/2024 15:28
+OBSDOCS-845,Task,Review,OBSDOCS,Observability Documentation,software,,20/02/2024 15:28,
+OBSDOCS-844,Task,Closed,OBSDOCS,Observability Documentation,software,Done,20/02/2024 14:07,30/05/2024 15:40
+OBSDOCS-843,Task,Closed,OBSDOCS,Observability Documentation,software,Done,20/02/2024 13:59,17/06/2024 12:38
+OBSDOCS-842,Task,Closed,OBSDOCS,Observability Documentation,software,Done,20/02/2024 13:45,21/06/2024 07:23
+OBSDOCS-838,Task,Closed,OBSDOCS,Observability Documentation,software,Done,20/02/2024 13:45,21/06/2024 11:56
+OBSDOCS-837,Task,Closed,OBSDOCS,Observability Documentation,software,Done,20/02/2024 13:45,17/06/2024 12:38
+OBSDOCS-836,Task,Closed,OBSDOCS,Observability Documentation,software,Done,20/02/2024 13:45,21/06/2024 11:56
+OBSDOCS-835,Epic,Closed,OBSDOCS,Observability Documentation,software,Done,20/02/2024 13:45,21/06/2024 19:33
+OBSDOCS-834,Task,Closed,OBSDOCS,Observability Documentation,software,Done,19/02/2024 19:44,04/04/2024 15:42
+OBSDOCS-833,Story,Closed,OBSDOCS,Observability Documentation,software,Done,19/02/2024 16:54,04/04/2024 20:06
+OBSDOCS-832,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,19/02/2024 14:36,22/02/2024 07:46
+OBSDOCS-831,Bug,New,OBSDOCS,Observability Documentation,software,,19/02/2024 11:56,
+OBSDOCS-830,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,15/02/2024 12:36,15/02/2024 14:33
+OBSDOCS-828,Task,Closed,OBSDOCS,Observability Documentation,software,Done,14/02/2024 13:37,16/02/2024 18:57
+OBSDOCS-826,Task,Backlog,OBSDOCS,Observability Documentation,software,,13/02/2024 11:13,
+OBSDOCS-825,Epic,To Do,OBSDOCS,Observability Documentation,software,,13/02/2024 11:08,
+OBSDOCS-824,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,13/02/2024 11:08,06/06/2024 11:04
+OBSDOCS-823,Task,New,OBSDOCS,Observability Documentation,software,,13/02/2024 11:08,
+OBSDOCS-822,Task,Closed,OBSDOCS,Observability Documentation,software,Done,13/02/2024 11:05,25/03/2024 16:37
+OBSDOCS-821,Task,Closed,OBSDOCS,Observability Documentation,software,Done,13/02/2024 11:03,27/03/2024 06:05
+OBSDOCS-820,Task,Closed,OBSDOCS,Observability Documentation,software,Done,13/02/2024 10:55,05/04/2024 01:06
+OBSDOCS-819,Task,Closed,OBSDOCS,Observability Documentation,software,Done,12/02/2024 19:26,18/07/2024 14:01
+OBSDOCS-818,Task,Closed,OBSDOCS,Observability Documentation,software,Done,12/02/2024 18:33,19/02/2024 14:21
+OBSDOCS-816,Task,Closed,OBSDOCS,Observability Documentation,software,Done,12/02/2024 10:37,14/02/2024 16:49
+OBSDOCS-815,Bug,New,OBSDOCS,Observability Documentation,software,,09/02/2024 09:38,
+OBSDOCS-814,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,08/02/2024 15:53,12/02/2024 17:55
+OBSDOCS-813,Task,Closed,OBSDOCS,Observability Documentation,software,Done,08/02/2024 14:47,09/02/2024 15:13
+OBSDOCS-812,Bug,New,OBSDOCS,Observability Documentation,software,,08/02/2024 12:19,
+OBSDOCS-811,Task,Closed,OBSDOCS,Observability Documentation,software,Done,08/02/2024 11:01,13/02/2024 21:51
+OBSDOCS-810,Task,New,OBSDOCS,Observability Documentation,software,,07/02/2024 15:19,
+OBSDOCS-809,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,07/02/2024 15:17,06/03/2024 16:52
+OBSDOCS-808,Task,New,OBSDOCS,Observability Documentation,software,,07/02/2024 15:16,
+OBSDOCS-807,Task,Closed,OBSDOCS,Observability Documentation,software,Done,07/02/2024 15:13,07/02/2024 15:14
+OBSDOCS-806,Task,New,OBSDOCS,Observability Documentation,software,,07/02/2024 15:13,
+OBSDOCS-805,Task,Closed,OBSDOCS,Observability Documentation,software,Done,07/02/2024 15:12,12/03/2024 15:26
+OBSDOCS-804,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,07/02/2024 10:47,28/03/2024 14:55
+OBSDOCS-803,Bug,New,OBSDOCS,Observability Documentation,software,,07/02/2024 07:55,
+OBSDOCS-802,Bug,New,OBSDOCS,Observability Documentation,software,,06/02/2024 19:16,
+OBSDOCS-800,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,05/02/2024 15:22,25/09/2024 13:35
+OBSDOCS-798,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,02/02/2024 16:12,05/02/2024 15:21
+OBSDOCS-797,Task,Closed,OBSDOCS,Observability Documentation,software,Done,02/02/2024 14:20,17/04/2024 21:28
+OBSDOCS-793,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,01/02/2024 14:12,14/02/2024 09:47
+OBSDOCS-792,Bug,Closed,OBSDOCS,Observability Documentation,software,Duplicate,01/02/2024 11:37,03/02/2024 08:20
+OBSDOCS-789,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,31/01/2024 16:54,28/03/2024 17:01
+OBSDOCS-788,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,31/01/2024 16:50,20/09/2024 08:41
+OBSDOCS-787,Bug,New,OBSDOCS,Observability Documentation,software,,31/01/2024 15:03,
+OBSDOCS-785,Bug,New,OBSDOCS,Observability Documentation,software,,31/01/2024 08:33,
+OBSDOCS-784,Bug,To Do,OBSDOCS,Observability Documentation,software,,29/01/2024 12:57,
+OBSDOCS-782,Bug,To Do,OBSDOCS,Observability Documentation,software,,26/01/2024 13:13,
+OBSDOCS-781,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,26/01/2024 13:00,28/02/2024 19:58
+OBSDOCS-780,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,26/01/2024 12:43,06/06/2024 15:30
+OBSDOCS-779,Task,Backlog,OBSDOCS,Observability Documentation,software,,26/01/2024 10:34,
+OBSDOCS-778,Task,Closed,OBSDOCS,Observability Documentation,software,Done,26/01/2024 10:11,16/02/2024 23:02
+OBSDOCS-777,Task,Closed,OBSDOCS,Observability Documentation,software,Done,26/01/2024 10:10,16/02/2024 01:00
+OBSDOCS-776,Task,Closed,OBSDOCS,Observability Documentation,software,Done,26/01/2024 10:09,09/02/2024 15:35
+OBSDOCS-775,Task,Closed,OBSDOCS,Observability Documentation,software,Done,25/01/2024 19:35,26/01/2024 15:01
+OBSDOCS-774,Task,Closed,OBSDOCS,Observability Documentation,software,Done,25/01/2024 19:21,22/02/2024 17:04
+OBSDOCS-773,Bug,To Do,OBSDOCS,Observability Documentation,software,,25/01/2024 16:29,
+OBSDOCS-772,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,25/01/2024 10:38,19/03/2024 13:22
+OBSDOCS-771,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,25/01/2024 05:57,05/02/2024 19:43
+OBSDOCS-769,Story,New,OBSDOCS,Observability Documentation,software,,24/01/2024 14:32,
+OBSDOCS-765,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,23/01/2024 15:55,18/03/2024 10:50
+OBSDOCS-763,Task,Closed,OBSDOCS,Observability Documentation,software,Done,23/01/2024 12:18,24/01/2024 16:47
+OBSDOCS-762,Bug,Review,OBSDOCS,Observability Documentation,software,,22/01/2024 16:07,
+OBSDOCS-761,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,23/01/2024 00:18,02/04/2024 17:00
+OBSDOCS-760,Story,Closed,OBSDOCS,Observability Documentation,software,Done,22/01/2024 18:34,06/02/2024 22:14
+OBSDOCS-758,Task,New,OBSDOCS,Observability Documentation,software,,19/01/2024 18:08,
+OBSDOCS-757,Task,New,OBSDOCS,Observability Documentation,software,,19/01/2024 16:20,
+OBSDOCS-756,Bug,Backlog,OBSDOCS,Observability Documentation,software,,19/01/2024 08:01,
+OBSDOCS-755,Bug,New,OBSDOCS,Observability Documentation,software,,19/01/2024 08:42,
+OBSDOCS-754,Epic,Release Pending,OBSDOCS,Observability Documentation,software,Done,18/01/2024 22:27,28/06/2024 12:41
+OBSDOCS-753,Task,New,OBSDOCS,Observability Documentation,software,,18/01/2024 20:43,
+OBSDOCS-752,Bug,Review,OBSDOCS,Observability Documentation,software,,17/01/2024 18:37,
+OBSDOCS-750,Bug,Closed,OBSDOCS,Observability Documentation,software,Duplicate,18/01/2024 09:26,30/01/2024 00:16
+OBSDOCS-749,Task,Closed,OBSDOCS,Observability Documentation,software,Done,17/01/2024 17:03,19/01/2024 19:14
+OBSDOCS-748,Task,Closed,OBSDOCS,Observability Documentation,software,Done,17/01/2024 15:17,29/01/2024 19:00
+OBSDOCS-747,Task,Closed,OBSDOCS,Observability Documentation,software,Done,17/01/2024 11:06,19/02/2024 17:56
+OBSDOCS-746,Task,Closed,OBSDOCS,Observability Documentation,software,Done,17/01/2024 11:02,29/01/2024 12:37
+OBSDOCS-745,Task,Backlog,OBSDOCS,Observability Documentation,software,,17/01/2024 10:59,
+OBSDOCS-743,Task,Closed,OBSDOCS,Observability Documentation,software,Won't Do,17/01/2024 10:49,01/02/2024 10:54
+OBSDOCS-742,Task,Closed,OBSDOCS,Observability Documentation,software,Duplicate,17/01/2024 10:42,25/01/2024 14:03
+OBSDOCS-741,Task,Closed,OBSDOCS,Observability Documentation,software,Done,17/01/2024 10:39,27/02/2024 16:29
+OBSDOCS-740,Task,Closed,OBSDOCS,Observability Documentation,software,Done,17/01/2024 10:10,05/02/2024 08:56
+OBSDOCS-736,Bug,In Progress,OBSDOCS,Observability Documentation,software,,12/01/2024 22:44,
+OBSDOCS-734,Task,Closed,OBSDOCS,Observability Documentation,software,Done,15/01/2024 17:50,01/03/2024 20:31
+OBSDOCS-733,Task,Closed,OBSDOCS,Observability Documentation,software,Done,15/01/2024 15:40,19/01/2024 21:10
+OBSDOCS-732,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,12/01/2024 17:51,28/03/2024 14:52
+OBSDOCS-726,Bug,In Progress,OBSDOCS,Observability Documentation,software,,11/01/2024 11:21,
+OBSDOCS-725,Task,Closed,OBSDOCS,Observability Documentation,software,Done,10/01/2024 16:26,01/03/2024 20:31
+OBSDOCS-724,Task,Closed,OBSDOCS,Observability Documentation,software,Done,10/01/2024 14:24,22/01/2024 18:57
+OBSDOCS-723,Task,Closed,OBSDOCS,Observability Documentation,software,Done,10/01/2024 13:59,22/01/2024 18:57
+OBSDOCS-722,Task,Closed,OBSDOCS,Observability Documentation,software,Done,10/01/2024 13:57,22/01/2024 18:56
+OBSDOCS-721,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,10/01/2024 13:49,12/01/2024 17:47
+OBSDOCS-720,Epic,Backlog,OBSDOCS,Observability Documentation,software,,09/01/2024 19:08,
+OBSDOCS-719,Task,Closed,OBSDOCS,Observability Documentation,software,Done,09/01/2024 14:55,10/01/2024 16:43
+OBSDOCS-718,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,09/01/2024 13:03,14/04/2024 22:43
+OBSDOCS-717,Story,New,OBSDOCS,Observability Documentation,software,,03/01/2024 20:31,
+OBSDOCS-716,Task,Closed,OBSDOCS,Observability Documentation,software,Done,05/01/2024 16:29,14/03/2024 11:35
+OBSDOCS-715,Task,Closed,OBSDOCS,Observability Documentation,software,Done,04/01/2024 19:36,22/01/2024 15:50
+OBSDOCS-714,Task,New,OBSDOCS,Observability Documentation,software,,04/01/2024 16:10,
+OBSDOCS-713,Epic,Closed,OBSDOCS,Observability Documentation,software,Done,04/01/2024 15:06,28/02/2024 11:29
+OBSDOCS-712,Bug,Closed,OBSDOCS,Observability Documentation,software,Done,03/01/2024 16:12,29/07/2024 10:53
+OBSDOCS-711,Story,Closed,OBSDOCS,Observability Documentation,software,Done,03/01/2024 16:27,22/01/2024 21:14
+OBSDOCS-709,Bug,New,OBSDOCS,Observability Documentation,software,,03/01/2024 11:33,
+OBSDOCS-707,Task,Closed,OBSDOCS,Observability Documentation,software,Can't Do,02/01/2024 21:42,12/02/2024 14:55
