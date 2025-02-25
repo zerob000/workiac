@@ -32,7 +32,7 @@ def my_extractor(data, last_pbi, start_date):
     lt_count = 0
 
     arr_timeline = [] # Unfiltered Arr Timeline
-    ser_timeline = [] # Unfiltered Se Timeline
+    ser_timeline = [] # Unfiltered Ser Timeline
     t_bi = []
     queues = {"GS_PL_TM_DN": [], # Goldilocks-sized, Planned, Work for Team, Already Completed
               "GS_UP_TM_DN": [], # Goldilocks-sized, Unplanned, Work for Team, Already Completed
@@ -169,9 +169,11 @@ def my_extractor(data, last_pbi, start_date):
     plan = (queues["GS_PL_TM_DN"]+queues["GS_PL_TM_IP"]+queues["GS_PL_CX_DN"]+queues["GS_PL_CX_IP"]) # All right-sized planned work
     unpl = (queues["GS_UP_TM_DN"]+queues["GS_UP_TM_IP"]+queues["GS_UP_CX_DN"]+queues["GS_UP_CX_IP"]) # All right-sized unplanned work
     canc = (queues["GS_PL_CX_DN"]+queues["GS_UP_CX_DN"]) # All right-sized work, rejected by the team
+    arrs = (queues["GS_PL_TM_DN"]+queues["GS_PL_TM_IP"]+queues["GS_PL_CX_IP"]+queues["GS_UP_TM_DN"]+queues["GS_UP_TM_IP"]+queues["GS_UP_CX_IP"])
     done = (queues["GS_PL_TM_DN"]+queues["GS_UP_TM_DN"]) # All right-sized work, completed by the team
     wips = (queues["GS_PL_TM_IP"]+queues["GS_PL_CX_IP"]+queues["GS_UP_TM_IP"]+queues["GS_UP_CX_IP"]) # All incomplete right-sized work
-    print(len(tbts),len(plan),len(unpl),len(canc),len(done),len(wips))
+    print(len(tbts),len(plan),len(unpl),len(canc),len(arrs),len(done),len(wips))
+    
     buckets = [plan, unpl, canc, done, wips]
     
     # Create the timeline of arrivals and departures and the cumulative flow data for the system size.
@@ -782,23 +784,23 @@ f.write("Inventory Days: "+str(inventory_days)+" days to backlog 0 with no addit
 f.write("Recommended High-Level Strategy: "+strategy+"\n\n")
 
 g = open("ReadyReckonerInputs_All.csv", "w", encoding="utf-8")
-g.write("System,Duration Analysed (days),Start Date & Time (date),End Date & Time (date),\
+g.write("System,Group,Duration Analysed (days),Start Date & Time (date),End Date & Time (date),\
 Total PBIs (PBIs),Filtered PBIs (PBIs),\
 Planned Arrivals (PBIs),Unplanned Arrivals (PBIs),Cancelled Arrivals (PBIs),\
 Net Arrivals (PBIs),Services (PBIs),Measured System Size (PBIs),\
 Planned Arrival Rate - alpha (PBIs/day),Unplanned Arrival Rate - epsilon (PBIs/day),\
-Cancelled Rate - gamma (PBIs/day),Net Arrival Rate - lambda (PBIs/day),Service Rate - mu (PBIs/day),\
+Cancelled Rate - gamma (PBIs/day),Service Rate - mu (PBIs/day),\
 Psi,Nu,Zeta,Inventory Days,Strategy,\
-alpha R^2,epsilon R^2,gamma R^2,lambda R^2,mu R^2,\
+alpha R^2,epsilon R^2,gamma R^2,mu R^2,\
 Date/Time of Analysis,Notes\n")
-g.write(sname+","+str(t_delta)+","+str(t_b[0])+","+str(t_b[-1])+",")
+g.write(sname+",All,"+str(t_delta)+","+str(t_b[0])+","+str(t_b[-1])+",")
 g.write(str(len(data))+","+str(alp_cum[-1]+err_cum[-1])+",")
 g.write(str(alp_cum[-1])+","+str(err_cum[-1])+","+str(cxl_cum[-1])+",")
 g.write(str(alp_cum[-1]+err_cum[-1]-cxl_cum[-1])+","+str(ser_cum[-1])+","+str(back[-1])+",")
 g.write(str(alpha)+","+str(epsilon)+",")
-g.write(str(gamma)+","+str(alpha+epsilon-gamma)+","+str(mu)+",")
+g.write(str(gamma)+","+str(mu)+",")
 g.write(str(psi)+","+str(nu)+","+str(zeta)+","+str(inventory_days)+","+strategy+",")
-g.write(str(R2_alpha)+","+str(R2_epsilon)+","+str(R2_gamma)+","+str(R2_lambda)+","+str(R2_mu)+",")
+g.write(str(R2_alpha)+","+str(R2_epsilon)+","+str(R2_gamma)+","+str(R2_mu)+",")
 g.write(str(datetime.now())+",,\n")
 g.close
 
@@ -830,6 +832,13 @@ err_ls = epsilon_outs[3] # Line of least squares
 R2_epsilon = epsilon_outs[4] # R-squared value for least squares
 c_epsilon = epsilon_outs[5] # y value at x=0. The c in y = mx+c
 t_ave_e = [t_be[0],t_be[-1]] # Get first and last elements 
+
+# Table
+sus_X = open("epsilon100.csv", "w", encoding="utf-8")
+csvWriter = csv.writer(sus_X,delimiter=',', lineterminator='\n')
+csvWriter.writerow(t_be)
+csvWriter.writerow(err_cum)
+sus_X.close()
  
 
 if len(t_bf) == 0:
@@ -954,21 +963,24 @@ f.write("Inventory Days: "+str(inventory_days)+" days to backlog 0 with no addit
 f.write("Recommended High-Level Strategy: "+strategy+"\n\n")
 
 g = open("ReadyReckonerInputs_last100.csv", "w", encoding="utf-8")
-g.write("System,Duration Analysed (days),Start Date & Time (date),End Date & Time (date),\
+g.write("System,Group,Duration Analysed (days),Start Date & Time (date),End Date & Time (date),\
+Total PBIs (PBIs),Filtered PBIs (PBIs),\
 Planned Arrivals (PBIs),Unplanned Arrivals (PBIs),Cancelled Arrivals (PBIs),\
 Net Arrivals (PBIs),Services (PBIs),Measured System Size (PBIs),\
 Planned Arrival Rate - alpha (PBIs/day),Unplanned Arrival Rate - epsilon (PBIs/day),\
-Cancelled Rate - gamma (PBIs/day),Net Arrival Rate - lambda (PBIs/day),Service Rate - mu (PBIs/day),\
+Cancelled Rate - gamma (PBIs/day),Service Rate - mu (PBIs/day),\
 Psi,Nu,Zeta,Inventory Days,Strategy,\
-alpha R^2,epsilon R^2,gamma R^2,lambda R^2,mu R^2,\
+alpha R^2,epsilon R^2,gamma,mu R^2,\
 Date/Time of Analysis,Notes\n")
-g.write(sname+","+str(t_delta)+","+str(t_b[0])+","+str(t_b[-1])+",")
-g.write(str(alp_cum[-1]-alp_cum[0])+","+str(err_cum[-1]-err_cum[0])+","+str(cxl_cum[-1]-cxl_cum[0])+",")
-g.write(str(alp_cum[-1]+err_cum[-1]-cxl_cum[-1]-alp_cum[0]-err_cum[0]+cxl_cum[0])+","+str(ser_cum[-1]-ser_cum[0])+","+str(back[-1]-back[0])+",")
+print(alp_cum[-1],alp_cum[0],err_cum[-1],err_cum[0],cxl_cum[-1],cxl_cum[0],ser_cum[-1],ser_cum[0],back[-1],back[0])
+g.write(sname+",Last100,"+str(t_delta)+","+str(t_b[0])+","+str(t_b[-1])+",")
+g.write(" , ,") # It's not (straighforward) possible to get a full measure of the total and filtered for the shorter list so leaving these blank
+g.write(str(alp_cum[-1]-alp_cum[0]+1)+","+str(err_cum[-1]-err_cum[0]+1)+","+str(cxl_cum[-1]-cxl_cum[0]+1)+",") # The totals amounts are the last minus the first plus 1
+g.write("N/A,"+str(ser_cum[-1]-ser_cum[0]+1)+","+str(back[-1]-back[0])+",")
 g.write(str(alpha)+","+str(epsilon)+",")
-g.write(str(gamma)+","+str(lamda)+","+str(mu)+",")
+g.write(str(gamma)+","+str(mu)+",")
 g.write(str(psi)+","+str(nu)+","+str(zeta)+","+str(inventory_days)+","+strategy+",")
-g.write(str(R2_alpha)+","+str(R2_epsilon)+","+str(R2_gamma)+","+str(R2_lambda)+","+str(R2_mu)+",")
+g.write(str(R2_alpha)+","+str(R2_epsilon)+","+str(R2_gamma)+","+str(R2_mu)+",")
 g.write(str(datetime.now())+",,\n")
 g.close
 
