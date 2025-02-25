@@ -1,0 +1,420 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+HELM-539,Story,In Progress,HELM,Helm,software,,04/09/2024 14:57,
+HELM-538,Story,Backlog,HELM,Helm,software,,28/08/2024 10:34,
+HELM-537,Story,New,HELM,Helm,software,,25/06/2024 15:38,
+HELM-536,Story,New,HELM,Helm,software,,04/06/2024 19:24,
+HELM-535,Story,Closed,HELM,Helm,software,Done-Errata,30/05/2024 05:24,25/06/2024 00:12
+HELM-534,Story,Closed,HELM,Helm,software,Done,15/05/2024 10:28,24/06/2024 07:22
+HELM-533,Story,Closed,HELM,Helm,software,Duplicate,15/05/2024 10:23,28/08/2024 14:33
+HELM-532,Story,Closed,HELM,Helm,software,Done,07/05/2024 23:56,27/05/2024 08:50
+HELM-528,Bug,Closed,HELM,Helm,software,Not a Bug,22/03/2024 10:20,22/03/2024 14:18
+HELM-527,Story,Closed,HELM,Helm,software,Done-Errata,15/02/2024 09:00,18/04/2024 00:07
+HELM-526,Bug,Closed,HELM,Helm,software,Done,09/02/2024 07:00,16/02/2024 14:06
+HELM-525,Task,Closed,HELM,Helm,software,Done,16/01/2024 17:33,12/02/2024 05:27
+HELM-524,Story,Closed,HELM,Helm,software,Done-Errata,22/12/2023 06:13,15/02/2024 00:10
+HELM-523,Story,Closed,HELM,Helm,software,Done,21/12/2023 06:55,10/01/2024 04:54
+HELM-522,Story,Closed,HELM,Helm,software,Done,05/12/2023 06:44,21/12/2023 06:56
+HELM-519,Bug,Closed,HELM,Helm,software,Done,20/11/2023 07:45,17/01/2024 16:56
+HELM-518,Story,Closed,HELM,Helm,software,Done,12/10/2023 12:02,22/02/2024 07:15
+HELM-517,Bug,Closed,HELM,Helm,software,Done,22/08/2023 07:34,22/08/2023 14:27
+HELM-506,Story,New,HELM,Helm,software,,20/07/2023 19:03,
+HELM-505,Story,Closed,HELM,Helm,software,Done,20/07/2023 10:41,20/07/2023 12:40
+HELM-504,Story,To Do,HELM,Helm,software,,20/07/2023 10:14,
+HELM-503,Story,Closed,HELM,Helm,software,Done-Errata,18/07/2023 01:36,09/11/2023 00:10
+HELM-502,Story,Closed,HELM,Helm,software,Done,13/07/2023 07:57,18/07/2023 01:35
+HELM-501,Task,Closed,HELM,Helm,software,Done,13/07/2023 06:04,19/07/2023 13:27
+HELM-500,Task,Closed,HELM,Helm,software,Done,13/07/2023 06:03,13/07/2023 06:05
+HELM-499,Task,Closed,HELM,Helm,software,Done,13/07/2023 06:02,20/07/2023 19:42
+HELM-498,Task,Closed,HELM,Helm,software,Done,13/07/2023 06:02,20/07/2023 00:09
+HELM-497,Story,Closed,HELM,Helm,software,Done,13/07/2023 05:59,06/09/2023 12:18
+HELM-496,Story,Backlog,HELM,Helm,software,,13/07/2023 05:57,
+HELM-495,Story,Closed,HELM,Helm,software,Done,13/07/2023 05:56,21/07/2023 00:55
+HELM-494,Task,Closed,HELM,Helm,software,Done,13/07/2023 05:55,08/01/2024 12:07
+HELM-493,Story,Closed,HELM,Helm,software,Done,13/07/2023 05:53,23/08/2023 13:56
+HELM-491,Story,Closed,HELM,Helm,software,Done,13/07/2023 05:45,21/07/2023 00:54
+HELM-489,Bug,Closed,HELM,Helm,software,Done,04/07/2023 08:27,20/07/2023 13:33
+HELM-488,Bug,Closed,HELM,Helm,software,Done,21/06/2023 07:15,22/06/2023 14:09
+HELM-487,Bug,Closed,HELM,Helm,software,Done,05/06/2023 10:01,08/06/2023 13:53
+HELM-486,Story,Closed,HELM,Helm,software,Done,22/05/2023 10:33,13/06/2023 13:26
+HELM-485,Bug,Closed,HELM,Helm,software,Done,19/05/2023 11:15,21/07/2023 14:00
+HELM-484,Bug,Closed,HELM,Helm,software,Done,27/04/2023 05:18,03/05/2023 06:26
+HELM-483,Bug,Closed,HELM,Helm,software,Done,18/04/2023 08:06,20/04/2023 19:17
+HELM-482,Task,Closed,HELM,Helm,software,Done,03/04/2023 06:17,17/04/2023 08:21
+HELM-481,Story,Closed,HELM,Helm,software,Done,23/02/2023 05:44,03/04/2023 06:19
+HELM-480,Story,Backlog,HELM,Helm,software,,17/02/2023 13:32,
+HELM-479,Story,Closed,HELM,Helm,software,Done,24/01/2023 10:50,01/02/2023 13:38
+HELM-478,Story,Closed,HELM,Helm,software,Done,19/01/2023 19:49,26/01/2023 12:33
+HELM-477,Story,Closed,HELM,Helm,software,Done,19/01/2023 18:59,26/01/2023 16:17
+HELM-476,Bug,New,HELM,Helm,software,,19/01/2023 09:10,
+HELM-475,Task,New,HELM,Helm,software,,18/01/2023 12:29,
+HELM-474,Story,Closed,HELM,Helm,software,Done,16/01/2023 21:33,24/01/2023 13:12
+HELM-473,Story,Backlog,HELM,Helm,software,,11/01/2023 12:51,
+HELM-471,Story,Closed,HELM,Helm,software,Done,29/12/2022 08:39,04/01/2023 12:32
+HELM-470,Task,Closed,HELM,Helm,software,Done,19/12/2022 13:20,17/01/2023 05:42
+HELM-469,Task,Closed,HELM,Helm,software,Duplicate,15/12/2022 19:15,03/01/2023 13:01
+HELM-468,Task,Closed,HELM,Helm,software,Done,15/12/2022 07:52,21/12/2022 12:09
+HELM-467,Task,Closed,HELM,Helm,software,Done,14/12/2022 08:24,24/01/2023 12:20
+HELM-466,Story,New,HELM,Helm,software,,13/12/2022 21:22,
+HELM-465,Task,Closed,HELM,Helm,software,Done,13/12/2022 12:19,23/12/2022 09:49
+HELM-464,Story,Closed,HELM,Helm,software,Done,13/12/2022 05:57,16/12/2022 06:10
+HELM-463,Story,Closed,HELM,Helm,software,Done,30/11/2022 18:34,12/12/2022 19:52
+HELM-462,Story,Closed,HELM,Helm,software,Done,30/11/2022 16:25,14/12/2022 12:40
+HELM-461,Story,Closed,HELM,Helm,software,Done,30/11/2022 15:25,09/12/2022 14:27
+HELM-460,Story,Refinement,HELM,Helm,software,,29/11/2022 20:03,
+HELM-458,Story,Backlog,HELM,Helm,software,,28/11/2022 19:51,
+HELM-457,Story,Closed,HELM,Helm,software,Done,28/11/2022 17:06,10/01/2023 12:46
+HELM-456,Story,Closed,HELM,Helm,software,Done,28/11/2022 16:42,19/01/2023 16:30
+HELM-455,Story,Closed,HELM,Helm,software,Done,28/11/2022 14:15,15/12/2022 16:19
+HELM-454,Story,Closed,HELM,Helm,software,Done,28/11/2022 13:29,14/12/2022 22:48
+HELM-453,Task,Closed,HELM,Helm,software,Done,16/11/2022 12:26,22/11/2022 12:57
+HELM-452,Story,Closed,HELM,Helm,software,Done,15/11/2022 14:53,13/12/2022 13:22
+HELM-451,Story,Closed,HELM,Helm,software,Done,15/11/2022 05:18,12/12/2022 04:05
+HELM-450,Story,Closed,HELM,Helm,software,Done,15/11/2022 05:18,12/12/2022 04:05
+HELM-449,Task,Backlog,HELM,Helm,software,,08/11/2022 20:23,
+HELM-448,Story,Backlog,HELM,Helm,software,,07/11/2022 12:49,
+HELM-447,Task,Closed,HELM,Helm,software,Done,03/11/2022 05:55,07/03/2023 12:44
+HELM-446,Bug,Closed,HELM,Helm,software,Done,03/11/2022 05:45,09/11/2022 12:41
+HELM-445,Story,Closed,HELM,Helm,software,Done,02/11/2022 18:02,09/11/2022 04:31
+HELM-444,Task,Closed,HELM,Helm,software,Done,02/11/2022 12:09,24/01/2023 08:30
+HELM-443,Story,Closed,HELM,Helm,software,Done,31/10/2022 03:50,10/01/2023 12:51
+HELM-442,Bug,Closed,HELM,Helm,software,Done,27/10/2022 21:26,10/11/2022 15:55
+HELM-441,Story,Closed,HELM,Helm,software,Done,26/10/2022 04:04,14/12/2022 08:25
+HELM-440,Task,Closed,HELM,Helm,software,Done,21/10/2022 07:52,27/10/2022 08:00
+HELM-439,Story,Closed,HELM,Helm,software,Done,18/10/2022 17:47,08/12/2022 14:06
+HELM-438,Story,Closed,HELM,Helm,software,Done,18/10/2022 15:16,03/01/2023 12:58
+HELM-437,Story,Closed,HELM,Helm,software,Done,18/10/2022 15:13,16/01/2023 12:32
+HELM-436,Story,Closed,HELM,Helm,software,Done,18/10/2022 14:56,29/11/2022 12:35
+HELM-435,Story,Closed,HELM,Helm,software,Done,18/10/2022 14:28,18/11/2022 16:29
+HELM-434,Story,Closed,HELM,Helm,software,Done,17/10/2022 21:54,06/12/2022 18:24
+HELM-433,Story,Closed,HELM,Helm,software,Done,17/10/2022 19:21,17/11/2022 11:58
+HELM-432,Story,Backlog,HELM,Helm,software,,12/10/2022 16:53,
+HELM-431,Task,Closed,HELM,Helm,software,Done,11/10/2022 12:09,31/10/2022 12:42
+HELM-430,Task,Closed,HELM,Helm,software,Done,11/10/2022 12:07,02/11/2022 14:08
+HELM-429,Task,Closed,HELM,Helm,software,Done,11/10/2022 12:05,02/11/2022 14:08
+HELM-428,Story,Closed,HELM,Helm,software,Duplicate,10/10/2022 11:45,10/10/2022 11:47
+HELM-427,Story,Backlog,HELM,Helm,software,,10/10/2022 11:45,
+HELM-426,Story,Closed,HELM,Helm,software,Done,07/10/2022 07:59,05/12/2022 13:52
+HELM-425,Story,Backlog,HELM,Helm,software,,28/09/2022 21:07,
+HELM-424,Story,Backlog,HELM,Helm,software,,28/09/2022 19:08,
+HELM-423,Bug,Closed,HELM,Helm,software,Done,26/09/2022 19:06,04/10/2022 12:08
+HELM-422,Story,Closed,HELM,Helm,software,Done,26/09/2022 18:59,13/02/2023 14:51
+HELM-420,Task,Closed,HELM,Helm,software,Done,22/09/2022 04:41,23/09/2022 07:27
+HELM-419,Bug,Closed,HELM,Helm,software,Duplicate,21/09/2022 14:16,26/09/2022 03:56
+HELM-418,Bug,Closed,HELM,Helm,software,Duplicate,21/09/2022 06:25,26/09/2022 05:54
+HELM-417,Story,Closed,HELM,Helm,software,Done,20/09/2022 19:16,08/11/2022 12:47
+HELM-416,Story,Backlog,HELM,Helm,software,,20/09/2022 17:58,
+HELM-415,Story,Backlog,HELM,Helm,software,,20/09/2022 15:25,
+HELM-414,Story,Closed,HELM,Helm,software,Done,20/09/2022 15:17,02/11/2022 16:18
+HELM-413,Task,Closed,HELM,Helm,software,Done,13/09/2022 18:03,19/09/2022 11:21
+HELM-412,Story,Closed,HELM,Helm,software,Done,07/09/2022 07:51,28/09/2022 06:16
+HELM-411,Story,Closed,HELM,Helm,software,Done,06/09/2022 12:01,14/11/2022 21:02
+HELM-410,Story,Closed,HELM,Helm,software,Done,01/09/2022 04:12,28/10/2022 14:48
+HELM-409,Story,Closed,HELM,Helm,software,Done,30/08/2022 21:20,21/09/2022 07:10
+HELM-408,Story,Backlog,HELM,Helm,software,,25/08/2022 22:08,
+HELM-407,Bug,Closed,HELM,Helm,software,Duplicate,25/08/2022 21:30,30/08/2022 12:05
+HELM-406,Story,Backlog,HELM,Helm,software,,23/08/2022 13:56,
+HELM-404,Story,Closed,HELM,Helm,software,Done,19/08/2022 07:47,26/10/2022 04:12
+HELM-403,Story,Closed,HELM,Helm,software,Done,19/08/2022 07:44,23/08/2022 11:15
+HELM-402,Story,Closed,HELM,Helm,software,Done,17/08/2022 10:04,07/10/2022 07:57
+HELM-401,Bug,Backlog,HELM,Helm,software,,15/08/2022 09:42,
+HELM-400,Story,Closed,HELM,Helm,software,Done,10/08/2022 14:09,19/08/2022 13:18
+HELM-399,Task,Closed,HELM,Helm,software,Done,10/08/2022 12:00,25/08/2022 04:53
+HELM-398,Story,Closed,HELM,Helm,software,Done,02/08/2022 20:58,18/08/2022 11:34
+HELM-396,Bug,Backlog,HELM,Helm,software,,02/08/2022 07:03,
+HELM-395,Story,Closed,HELM,Helm,software,Done,01/08/2022 21:16,17/11/2022 08:11
+HELM-394,Story,Closed,HELM,Helm,software,Won't Do,01/08/2022 21:02,02/11/2022 18:49
+HELM-393,Story,Closed,HELM,Helm,software,Done,01/08/2022 04:49,26/08/2022 12:40
+HELM-392,Story,Closed,HELM,Helm,software,Won't Do,29/07/2022 10:44,17/08/2022 12:18
+HELM-391,Story,Closed,HELM,Helm,software,Done,27/07/2022 04:26,30/08/2022 10:40
+HELM-390,Story,Closed,HELM,Helm,software,Done,26/07/2022 14:05,29/08/2022 11:15
+HELM-389,Story,Backlog,HELM,Helm,software,,21/07/2022 14:21,
+HELM-388,Story,Backlog,HELM,Helm,software,,21/07/2022 13:04,
+HELM-387,Story,Closed,HELM,Helm,software,Done,20/07/2022 17:17,09/08/2022 20:45
+HELM-386,Story,Closed,HELM,Helm,software,Done,20/07/2022 03:23,06/10/2022 05:54
+HELM-385,Story,Closed,HELM,Helm,software,Done,19/07/2022 16:04,03/08/2022 20:10
+HELM-384,Story,Closed,HELM,Helm,software,Done,19/07/2022 15:57,19/07/2022 17:33
+HELM-383,Bug,Closed,HELM,Helm,software,Done,19/07/2022 14:02,02/08/2022 14:20
+HELM-382,Bug,Closed,HELM,Helm,software,Done,19/07/2022 13:41,19/01/2023 14:06
+HELM-381,Story,Backlog,HELM,Helm,software,,12/07/2022 22:34,
+HELM-380,Story,Closed,HELM,Helm,software,Duplicate,06/07/2022 13:52,12/07/2022 12:20
+HELM-379,Story,Closed,HELM,Helm,software,Done,06/07/2022 12:25,08/08/2022 05:05
+HELM-378,Story,Closed,HELM,Helm,software,Done,06/07/2022 12:23,02/08/2022 10:13
+HELM-376,Story,Closed,HELM,Helm,software,Done,23/06/2022 15:47,27/10/2022 02:24
+HELM-375,Task,Closed,HELM,Helm,software,Done,22/06/2022 12:21,14/07/2022 05:56
+HELM-374,Story,New,HELM,Helm,software,,20/06/2022 14:19,
+HELM-373,Story,Closed,HELM,Helm,software,Done,15/06/2022 14:56,19/07/2022 21:22
+HELM-372,Bug,Closed,HELM,Helm,software,Done,15/06/2022 13:13,29/06/2022 18:44
+HELM-371,Bug,Closed,HELM,Helm,software,Done,15/06/2022 13:07,17/06/2022 01:26
+HELM-370,Bug,Closed,HELM,Helm,software,Done,15/06/2022 12:59,17/06/2022 01:45
+HELM-369,Story,Closed,HELM,Helm,software,Done,14/06/2022 15:03,16/08/2022 11:48
+HELM-368,Story,Closed,HELM,Helm,software,Done,14/06/2022 14:39,30/08/2022 07:19
+HELM-367,Story,Closed,HELM,Helm,software,Done,14/06/2022 14:23,20/10/2022 07:33
+HELM-366,Task,Closed,HELM,Helm,software,Done,10/06/2022 02:56,18/07/2022 12:14
+HELM-365,Bug,Closed,HELM,Helm,software,Done,08/06/2022 12:42,16/06/2022 13:19
+HELM-364,Bug,Closed,HELM,Helm,software,Done,08/06/2022 10:52,27/06/2022 08:44
+HELM-363,Bug,Closed,HELM,Helm,software,Done,07/06/2022 16:21,19/09/2022 11:35
+HELM-362,Bug,Closed,HELM,Helm,software,Done,02/06/2022 18:42,07/06/2022 11:30
+HELM-361,Bug,Closed,HELM,Helm,software,Done,01/06/2022 22:50,07/06/2022 11:29
+HELM-358,Story,Closed,HELM,Helm,software,Done,24/05/2022 21:33,05/08/2022 12:08
+HELM-357,Story,Closed,HELM,Helm,software,Done,23/05/2022 17:34,11/06/2022 19:27
+HELM-356,Story,Closed,HELM,Helm,software,Done,23/05/2022 17:22,09/06/2022 11:26
+HELM-355,Story,Closed,HELM,Helm,software,Done,23/05/2022 15:33,21/09/2022 14:26
+HELM-353,Story,Closed,HELM,Helm,software,Done,23/05/2022 15:01,06/09/2022 11:34
+HELM-352,Story,Closed,HELM,Helm,software,Done,23/05/2022 14:37,02/06/2022 12:09
+HELM-351,Story,Closed,HELM,Helm,software,Done,23/05/2022 14:14,07/06/2022 20:29
+HELM-350,Bug,New,HELM,Helm,software,,19/05/2022 11:29,
+HELM-349,Story,Closed,HELM,Helm,software,Done,18/05/2022 16:02,19/05/2022 17:55
+HELM-348,Story,Closed,HELM,Helm,software,Done,17/05/2022 06:47,28/06/2022 10:44
+HELM-347,Story,Closed,HELM,Helm,software,Done,10/05/2022 21:30,10/08/2022 09:11
+HELM-346,Story,Closed,HELM,Helm,software,Done,10/05/2022 21:23,02/06/2022 11:43
+HELM-345,Story,Closed,HELM,Helm,software,Done,10/05/2022 21:18,31/05/2022 13:13
+HELM-343,Bug,Closed,HELM,Helm,software,Done,10/05/2022 20:59,22/08/2022 03:50
+HELM-342,Story,Closed,HELM,Helm,software,Done,10/05/2022 20:50,02/09/2022 04:34
+HELM-341,Story,Closed,HELM,Helm,software,Done,10/05/2022 18:52,03/08/2022 13:27
+HELM-340,Story,Closed,HELM,Helm,software,Done,10/05/2022 12:25,23/06/2022 05:36
+HELM-339,Bug,Closed,HELM,Helm,software,Can't Do,05/05/2022 12:21,02/11/2022 18:43
+HELM-338,Bug,Closed,HELM,Helm,software,Done,28/04/2022 18:57,01/06/2022 11:26
+HELM-337,Bug,Closed,HELM,Helm,software,Done,28/04/2022 18:48,01/06/2022 11:25
+HELM-336,Story,Closed,HELM,Helm,software,Done,20/04/2022 14:43,24/05/2022 12:14
+HELM-335,Story,Closed,HELM,Helm,software,Done,20/04/2022 14:32,24/05/2022 12:13
+HELM-334,Story,Closed,HELM,Helm,software,Done,20/04/2022 07:37,28/04/2022 12:55
+HELM-333,Bug,Closed,HELM,Helm,software,Done,19/04/2022 13:32,21/04/2022 19:00
+HELM-332,Bug,Closed,HELM,Helm,software,Done,19/04/2022 13:22,26/04/2022 13:40
+HELM-331,Story,Backlog,HELM,Helm,software,,12/04/2022 21:14,
+HELM-330,Story,Closed,HELM,Helm,software,Done,12/04/2022 20:43,17/05/2022 20:27
+HELM-329,Story,Closed,HELM,Helm,software,Done,07/04/2022 10:36,26/04/2022 19:06
+HELM-325,Story,Closed,HELM,Helm,software,Done,15/03/2022 09:41,28/04/2022 11:55
+HELM-324,Story,Closed,HELM,Helm,software,Done,04/03/2022 07:07,19/05/2022 05:07
+HELM-323,Story,Closed,HELM,Helm,software,Done,04/03/2022 06:46,07/04/2022 01:07
+HELM-322,Story,Closed,HELM,Helm,software,Done,03/03/2022 20:26,06/04/2022 13:18
+HELM-317,Bug,Closed,HELM,Helm,software,Done,01/03/2022 12:58,24/05/2022 12:48
+HELM-316,Story,Closed,HELM,Helm,software,Won't Do,22/02/2022 09:49,24/10/2022 12:08
+HELM-315,Story,Closed,HELM,Helm,software,Won't Do,21/02/2022 13:23,24/10/2022 12:08
+HELM-314,Story,Closed,HELM,Helm,software,Won't Do,17/02/2022 18:22,30/11/2022 14:30
+HELM-313,Story,Closed,HELM,Helm,software,Done,17/02/2022 10:33,08/03/2022 13:06
+HELM-312,Story,Closed,HELM,Helm,software,Won't Do,16/02/2022 10:38,24/10/2022 12:07
+HELM-311,Story,Closed,HELM,Helm,software,Done,16/02/2022 10:32,07/06/2022 12:00
+HELM-310,Story,Closed,HELM,Helm,software,Done,16/02/2022 10:08,06/04/2022 13:19
+HELM-307,Story,Closed,HELM,Helm,software,Done,02/02/2022 21:07,22/02/2022 13:07
+HELM-306,Story,Closed,HELM,Helm,software,Done,02/02/2022 20:50,22/02/2022 13:07
+HELM-305,Story,Closed,HELM,Helm,software,Done,02/02/2022 20:43,23/02/2022 15:06
+HELM-302,Story,Closed,HELM,Helm,software,Done,28/01/2022 22:09,07/04/2022 11:49
+HELM-300,Bug,Closed,HELM,Helm,software,Done,25/01/2022 13:08,23/02/2022 14:35
+HELM-299,Bug,Closed,HELM,Helm,software,Done,24/01/2022 15:42,26/01/2022 13:55
+HELM-298,Story,Closed,HELM,Helm,software,Done,20/01/2022 13:28,15/03/2022 04:43
+HELM-297,Story,Backlog,HELM,Helm,software,,12/01/2022 17:18,
+HELM-296,Story,Backlog,HELM,Helm,software,,12/01/2022 17:11,
+HELM-295,Story,Closed,HELM,Helm,software,Won't Do,12/01/2022 17:03,30/11/2022 14:20
+HELM-294,Story,Backlog,HELM,Helm,software,,12/01/2022 16:07,
+HELM-293,Story,Closed,HELM,Helm,software,Done,12/01/2022 15:36,01/02/2022 14:45
+HELM-292,Bug,Closed,HELM,Helm,software,Done,10/01/2022 19:00,01/02/2022 14:42
+HELM-291,Story,Closed,HELM,Helm,software,Done,05/01/2022 16:00,11/02/2022 02:52
+HELM-290,Story,Closed,HELM,Helm,software,Duplicate,05/01/2022 11:08,06/01/2022 14:12
+HELM-289,Bug,Closed,HELM,Helm,software,Done,23/12/2021 13:50,13/01/2022 21:02
+HELM-288,Story,Closed,HELM,Helm,software,Done,22/12/2021 19:16,11/01/2022 14:34
+HELM-287,Story,Closed,HELM,Helm,software,Done,17/12/2021 11:40,12/01/2022 06:25
+HELM-286,Story,Closed,HELM,Helm,software,Done,17/12/2021 11:27,07/01/2022 13:54
+HELM-285,Story,Closed,HELM,Helm,software,Done,17/12/2021 11:07,07/02/2022 09:44
+HELM-284,Story,Backlog,HELM,Helm,software,,15/12/2021 14:07,
+HELM-281,Bug,Closed,HELM,Helm,software,Done,14/12/2021 02:30,14/12/2021 22:46
+HELM-280,Story,Closed,HELM,Helm,software,Done,08/12/2021 11:30,16/12/2021 10:25
+HELM-279,Story,Closed,HELM,Helm,software,Done,08/12/2021 11:09,06/01/2022 15:06
+HELM-278,Story,Closed,HELM,Helm,software,Done,07/12/2021 07:04,07/02/2022 09:44
+HELM-277,Story,Closed,HELM,Helm,software,Done,07/12/2021 02:54,16/12/2021 18:24
+HELM-276,Bug,Closed,HELM,Helm,software,Done,03/12/2021 20:44,18/05/2022 11:26
+HELM-273,Story,Closed,HELM,Helm,software,Done,01/12/2021 14:08,26/04/2022 12:21
+HELM-272,Story,Closed,HELM,Helm,software,Done,01/12/2021 03:09,17/12/2021 16:03
+HELM-271,Story,Closed,HELM,Helm,software,Done,01/12/2021 02:40,17/12/2021 16:03
+HELM-267,Story,Closed,HELM,Helm,software,Done,16/11/2021 12:22,01/12/2021 14:32
+HELM-266,Story,Closed,HELM,Helm,software,Done,23/11/2021 11:43,16/12/2021 10:27
+HELM-265,Story,Closed,HELM,Helm,software,Done,18/11/2021 05:46,16/12/2021 10:25
+HELM-263,Bug,Closed,HELM,Helm,software,Done,16/11/2021 02:03,30/11/2021 21:46
+HELM-262,Story,Closed,HELM,Helm,software,Done,11/11/2021 16:16,16/12/2021 18:24
+HELM-261,Story,Closed,HELM,Helm,software,Done,11/11/2021 16:09,01/12/2021 18:51
+HELM-260,Task,Closed,HELM,Helm,software,Duplicate,11/11/2021 15:39,11/11/2021 16:20
+HELM-259,Story,Closed,HELM,Helm,software,Done,01/11/2021 22:24,15/01/2022 21:06
+HELM-258,Story,Closed,HELM,Helm,software,Done,01/11/2021 21:50,17/01/2022 14:58
+HELM-257,Bug,Closed,HELM,Helm,software,Done,28/10/2021 09:53,18/01/2022 14:22
+HELM-256,Story,Closed,HELM,Helm,software,Done,21/10/2021 10:54,08/11/2021 15:40
+HELM-255,Bug,Closed,HELM,Helm,software,Done,21/10/2021 07:34,18/01/2022 14:22
+HELM-254,Story,Closed,HELM,Helm,software,Done,19/10/2021 18:19,24/11/2021 09:22
+HELM-253,Story,Closed,HELM,Helm,software,Done,19/10/2021 18:13,27/10/2021 13:12
+HELM-252,Story,Closed,HELM,Helm,software,Done,19/10/2021 15:29,21/01/2022 16:05
+HELM-251,Story,Closed,HELM,Helm,software,Done,19/10/2021 03:58,17/12/2021 16:03
+HELM-250,Bug,Closed,HELM,Helm,software,Done,19/10/2021 03:43,04/11/2021 21:22
+HELM-249,Story,Closed,HELM,Helm,software,Done,19/10/2021 03:35,21/10/2021 12:15
+HELM-248,Story,Closed,HELM,Helm,software,Done,19/10/2021 03:13,29/11/2021 14:35
+HELM-247,Story,Closed,HELM,Helm,software,Done,19/10/2021 02:50,29/11/2021 14:34
+HELM-246,Story,Closed,HELM,Helm,software,Done,19/10/2021 02:20,08/11/2021 15:35
+HELM-245,Story,Closed,HELM,Helm,software,Done,17/10/2021 16:18,18/11/2021 04:40
+HELM-243,Story,Closed,HELM,Helm,software,Done,17/10/2021 16:43,09/12/2021 05:44
+HELM-242,Story,Closed,HELM,Helm,software,Done,17/10/2021 15:48,29/10/2021 05:41
+HELM-240,Story,Closed,HELM,Helm,software,Done,08/10/2021 15:25,29/10/2021 05:40
+HELM-239,Bug,Closed,HELM,Helm,software,Done,07/10/2021 11:28,18/01/2022 14:21
+HELM-238,Bug,New,HELM,Helm,software,,01/10/2021 13:16,
+HELM-236,Bug,Closed,HELM,Helm,software,Done,28/09/2021 20:32,10/11/2021 19:43
+HELM-235,Story,Closed,HELM,Helm,software,Done,28/09/2021 20:10,01/11/2021 13:54
+HELM-234,Story,Closed,HELM,Helm,software,Done,28/09/2021 18:16,19/10/2021 02:28
+HELM-233,Bug,Closed,HELM,Helm,software,Done,23/09/2021 12:04,23/09/2021 15:25
+HELM-232,Bug,Closed,HELM,Helm,software,Done,20/09/2021 20:48,23/09/2021 12:08
+HELM-230,Bug,Closed,HELM,Helm,software,Done,10/09/2021 15:50,23/09/2021 12:09
+HELM-229,Bug,Closed,HELM,Helm,software,Done,10/09/2021 15:20,14/09/2021 17:20
+HELM-228,Story,Closed,HELM,Helm,software,Done,10/09/2021 11:18,17/06/2022 07:17
+HELM-227,Bug,Closed,HELM,Helm,software,Done,02/09/2021 12:23,07/09/2021 20:06
+HELM-226,Story,Closed,HELM,Helm,software,Done,26/08/2021 21:07,21/10/2021 18:14
+HELM-225,Story,Closed,HELM,Helm,software,Done,23/08/2021 12:48,28/09/2021 17:26
+HELM-224,Story,Closed,HELM,Helm,software,Obsolete,20/08/2021 20:41,28/10/2021 13:19
+HELM-223,Bug,Closed,HELM,Helm,software,Done,20/08/2021 20:11,18/01/2022 14:10
+HELM-222,Bug,Closed,HELM,Helm,software,Done,19/08/2021 14:30,03/09/2021 13:31
+HELM-221,Bug,Closed,HELM,Helm,software,Done,19/08/2021 10:42,13/09/2021 21:38
+HELM-220,Story,Backlog,HELM,Helm,software,,05/08/2021 12:41,
+HELM-218,Story,Closed,HELM,Helm,software,Done,29/07/2021 11:29,18/08/2021 18:20
+HELM-217,Story,Closed,HELM,Helm,software,Done,29/07/2021 11:24,18/08/2021 18:20
+HELM-216,Bug,Closed,HELM,Helm,software,Done,20/07/2021 21:51,22/07/2021 11:57
+HELM-215,Story,Closed,HELM,Helm,software,Done,19/07/2021 11:52,13/01/2022 19:55
+HELM-214,Story,Closed,HELM,Helm,software,Done,14/07/2021 12:08,28/07/2021 11:05
+HELM-212,Bug,Closed,HELM,Helm,software,Done,12/07/2021 11:24,21/07/2021 11:55
+HELM-211,Bug,Closed,HELM,Helm,software,Done,12/07/2021 11:18,08/11/2021 18:06
+HELM-210,Bug,Closed,HELM,Helm,software,Done,09/07/2021 14:23,21/07/2021 11:55
+HELM-209,Bug,Closed,HELM,Helm,software,Done,28/06/2021 12:05,06/07/2021 12:19
+HELM-208,Bug,Closed,HELM,Helm,software,,24/06/2021 13:05,
+HELM-206,Story,Closed,HELM,Helm,software,Done,10/06/2021 12:42,29/07/2021 14:24
+HELM-205,Story,Closed,HELM,Helm,software,Done,10/06/2021 12:28,29/07/2021 14:25
+HELM-204,Story,Closed,HELM,Helm,software,Done,09/06/2021 19:26,08/03/2022 13:18
+HELM-203,Story,Closed,HELM,Helm,software,Done,09/06/2021 18:51,20/07/2021 11:21
+HELM-202,Story,Closed,HELM,Helm,software,Done,09/06/2021 18:04,08/07/2021 11:35
+HELM-201,Bug,Closed,HELM,Helm,software,Done,09/06/2021 14:39,28/07/2021 16:37
+HELM-200,Story,Closed,HELM,Helm,software,Done,09/06/2021 02:20,12/08/2021 13:10
+HELM-199,Story,Closed,HELM,Helm,software,Done,09/06/2021 01:06,07/09/2021 20:05
+HELM-198,Story,Closed,HELM,Helm,software,Done,08/06/2021 17:38,21/07/2021 11:56
+HELM-197,Story,Closed,HELM,Helm,software,Done,08/06/2021 16:34,28/06/2021 11:51
+HELM-196,Story,Closed,HELM,Helm,software,Done,08/06/2021 15:35,14/12/2021 02:48
+HELM-195,Story,Closed,HELM,Helm,software,Done,07/06/2021 17:12,02/02/2022 14:16
+HELM-194,Story,Closed,HELM,Helm,software,Done,07/06/2021 17:04,02/02/2022 14:16
+HELM-193,Story,Closed,HELM,Helm,software,Done,07/06/2021 12:59,21/03/2022 14:01
+HELM-192,Story,Closed,HELM,Helm,software,Done,07/06/2021 11:26,19/08/2021 12:41
+HELM-191,Story,Closed,HELM,Helm,software,Done,02/06/2021 08:45,26/07/2021 18:08
+HELM-190,Story,Closed,HELM,Helm,software,Done,01/06/2021 12:21,16/02/2022 13:08
+HELM-189,Story,Closed,HELM,Helm,software,Done,01/06/2021 11:54,25/07/2022 11:38
+HELM-188,Story,Closed,HELM,Helm,software,Done,31/05/2021 13:04,09/06/2021 10:56
+HELM-187,Story,Closed,HELM,Helm,software,Done,31/05/2021 13:00,09/06/2021 10:55
+HELM-186,Story,Closed,HELM,Helm,software,Done,31/05/2021 12:53,21/06/2021 11:31
+HELM-185,Story,Closed,HELM,Helm,software,Done,19/05/2021 22:48,11/06/2021 10:42
+HELM-184,Bug,Closed,HELM,Helm,software,Done,09/05/2021 04:32,15/05/2021 01:05
+HELM-183,Story,Closed,HELM,Helm,software,Done,06/05/2021 07:34,13/05/2021 01:10
+HELM-182,Story,Closed,HELM,Helm,software,Done,05/05/2021 14:21,08/03/2022 13:12
+HELM-180,Bug,Closed,HELM,Helm,software,Done,03/05/2021 14:54,08/07/2021 16:16
+HELM-179,Bug,Closed,HELM,Helm,software,Done,01/05/2021 03:07,06/05/2021 01:43
+HELM-174,Story,Closed,HELM,Helm,software,Obsolete,28/04/2021 11:29,29/04/2021 07:13
+HELM-173,Story,Closed,HELM,Helm,software,Done,28/04/2021 09:58,01/05/2021 03:07
+HELM-172,Bug,Closed,HELM,Helm,software,Done,28/04/2021 02:34,30/04/2021 02:36
+HELM-171,Bug,Closed,HELM,Helm,software,Done,27/04/2021 11:44,28/04/2021 09:57
+HELM-170,Story,Closed,HELM,Helm,software,Done,27/04/2021 10:52,28/04/2021 09:57
+HELM-169,Story,Closed,HELM,Helm,software,Done,27/04/2021 03:05,28/04/2021 09:57
+HELM-168,Story,Closed,HELM,Helm,software,Done,27/04/2021 01:31,28/04/2021 09:56
+HELM-167,Story,Closed,HELM,Helm,software,Done,26/04/2021 18:15,28/04/2021 09:56
+HELM-166,Story,Closed,HELM,Helm,software,Done,26/04/2021 10:15,27/04/2021 02:35
+HELM-165,Story,Closed,HELM,Helm,software,Obsolete,26/04/2021 09:14,26/04/2021 09:15
+HELM-164,Story,New,HELM,Helm,software,,26/04/2021 09:13,
+HELM-163,Story,New,HELM,Helm,software,,26/04/2021 09:02,
+HELM-162,Story,New,HELM,Helm,software,,26/04/2021 07:34,
+HELM-161,Story,Closed,HELM,Helm,software,Done,25/04/2021 16:26,27/04/2021 02:37
+HELM-160,Story,New,HELM,Helm,software,,25/04/2021 06:38,
+HELM-159,Story,Closed,HELM,Helm,software,Done,25/04/2021 04:56,05/05/2021 15:41
+HELM-158,Story,Closed,HELM,Helm,software,Done,24/04/2021 18:51,27/04/2021 02:38
+HELM-157,Story,Closed,HELM,Helm,software,Done,24/04/2021 06:27,27/04/2021 02:38
+HELM-156,Story,Closed,HELM,Helm,software,Done,24/04/2021 06:14,27/04/2021 02:38
+HELM-155,Story,Closed,HELM,Helm,software,Done,24/04/2021 06:13,06/05/2021 01:43
+HELM-154,Story,Closed,HELM,Helm,software,Done,24/04/2021 06:12,06/05/2021 01:42
+HELM-151,Story,Closed,HELM,Helm,software,Done,22/04/2021 07:45,27/04/2021 02:34
+HELM-150,Story,Closed,HELM,Helm,software,Done,22/04/2021 04:32,24/04/2021 04:20
+HELM-149,Bug,Closed,HELM,Helm,software,Done,22/04/2021 02:42,24/04/2021 04:20
+HELM-148,Story,Closed,HELM,Helm,software,Done,21/04/2021 10:03,24/04/2021 04:20
+HELM-147,Story,Closed,HELM,Helm,software,Done,21/04/2021 07:24,27/04/2021 02:34
+HELM-146,Story,Closed,HELM,Helm,software,Done,20/04/2021 15:24,22/04/2021 11:50
+HELM-145,Story,New,HELM,Helm,software,,20/04/2021 15:22,
+HELM-144,Story,New,HELM,Helm,software,,20/04/2021 15:14,
+HELM-143,Story,New,HELM,Helm,software,,20/04/2021 10:32,
+HELM-142,Story,Closed,HELM,Helm,software,Done,20/04/2021 08:45,25/05/2021 11:55
+HELM-141,Story,Closed,HELM,Helm,software,Done,20/04/2021 07:01,22/04/2021 01:32
+HELM-140,Story,Closed,HELM,Helm,software,Done,19/04/2021 09:45,20/04/2021 15:08
+HELM-139,Story,New,HELM,Helm,software,,19/04/2021 07:50,
+HELM-138,Story,Closed,HELM,Helm,software,Done,19/04/2021 07:02,20/04/2021 08:29
+HELM-135,Story,Closed,HELM,Helm,software,Done,12/04/2021 11:39,20/04/2021 15:14
+HELM-134,Story,Closed,HELM,Helm,software,Done,12/04/2021 11:37,20/04/2021 15:15
+HELM-133,Bug,Closed,HELM,Helm,software,Done,09/04/2021 05:27,09/04/2021 07:57
+HELM-132,Story,Closed,HELM,Helm,software,Done,07/04/2021 22:53,13/05/2021 01:11
+HELM-131,Story,Closed,HELM,Helm,software,Done,07/04/2021 10:20,29/04/2021 07:16
+HELM-130,Story,Closed,HELM,Helm,software,Done,07/04/2021 10:19,27/04/2021 02:34
+HELM-129,Story,Closed,HELM,Helm,software,Done,07/04/2021 06:51,20/04/2021 15:19
+HELM-118,Story,Closed,HELM,Helm,software,Done,06/04/2021 11:48,14/05/2021 01:38
+HELM-115,Bug,Closed,HELM,Helm,software,Done,08/03/2021 10:58,04/05/2021 13:29
+HELM-114,Task,New,HELM,Helm,software,,02/03/2021 11:58,
+HELM-112,Story,Closed,HELM,Helm,software,Done,23/02/2021 12:56,17/05/2021 11:16
+HELM-111,Story,Closed,HELM,Helm,software,Done,22/02/2021 12:01,16/06/2021 08:44
+HELM-110,Task,Closed,HELM,Helm,software,Done,09/02/2021 07:51,09/02/2021 12:57
+HELM-109,Story,Closed,HELM,Helm,software,Done,08/02/2021 06:36,09/02/2021 07:38
+HELM-108,Story,Closed,HELM,Helm,software,Done,05/02/2021 05:29,13/04/2023 14:38
+HELM-107,Story,Closed,HELM,Helm,software,Won't Do,05/02/2021 05:27,13/04/2023 14:32
+HELM-106,Task,Closed,HELM,Helm,software,Done,02/02/2021 08:09,11/02/2021 08:26
+HELM-105,Task,Closed,HELM,Helm,software,Done,02/02/2021 08:05,11/02/2021 09:31
+HELM-103,Story,New,HELM,Helm,software,,28/01/2021 12:05,
+HELM-102,Task,Closed,HELM,Helm,software,Done,28/01/2021 11:19,02/02/2021 08:02
+HELM-101,Task,Closed,HELM,Helm,software,Done,28/01/2021 07:56,31/01/2021 06:13
+HELM-100,Task,Closed,HELM,Helm,software,Done,25/01/2021 05:48,28/01/2021 07:45
+HELM-98,Story,Closed,HELM,Helm,software,Obsolete,20/01/2021 13:56,16/11/2022 20:10
+HELM-97,Story,Closed,HELM,Helm,software,Obsolete,20/01/2021 13:37,16/11/2022 20:09
+HELM-96,Story,Closed,HELM,Helm,software,Obsolete,20/01/2021 13:11,16/11/2022 20:09
+HELM-95,Story,Closed,HELM,Helm,software,Obsolete,17/01/2021 03:02,16/11/2022 20:07
+HELM-92,Story,Closed,HELM,Helm,software,Done,17/01/2021 10:15,28/01/2021 09:19
+HELM-91,Story,Closed,HELM,Helm,software,Obsolete,16/01/2021 14:34,19/01/2021 08:16
+HELM-89,Story,New,HELM,Helm,software,,15/01/2021 14:03,
+HELM-88,Story,Closed,HELM,Helm,software,Won't Do,15/01/2021 13:36,16/11/2022 20:05
+HELM-87,Story,Closed,HELM,Helm,software,Done,15/01/2021 13:35,26/04/2022 10:20
+HELM-85,Story,Closed,HELM,Helm,software,Won't Do,15/01/2021 07:14,16/11/2022 20:03
+HELM-73,Task,Closed,HELM,Helm,software,Done,11/01/2021 09:38,19/01/2021 07:30
+HELM-65,Story,New,HELM,Helm,software,,20/12/2020 14:55,
+HELM-64,Story,New,HELM,Helm,software,,20/12/2020 14:54,
+HELM-63,Story,New,HELM,Helm,software,,20/12/2020 14:53,
+HELM-62,Story,Closed,HELM,Helm,software,Done,20/12/2020 14:53,13/04/2023 14:39
+HELM-61,Story,Closed,HELM,Helm,software,Done,20/12/2020 14:49,07/04/2021 06:04
+HELM-60,Story,Closed,HELM,Helm,software,Done,20/12/2020 14:48,09/02/2021 08:24
+HELM-59,Story,Closed,HELM,Helm,software,Done,20/12/2020 14:47,01/02/2021 07:35
+HELM-58,Story,Closed,HELM,Helm,software,Done,20/12/2020 14:44,01/02/2021 05:33
+HELM-57,Story,Closed,HELM,Helm,software,Done,20/12/2020 14:41,28/01/2021 04:43
+HELM-56,Story,Closed,HELM,Helm,software,Done,20/12/2020 14:41,08/02/2021 06:34
+HELM-55,Story,Closed,HELM,Helm,software,Done,20/12/2020 14:36,25/01/2021 07:49
+HELM-54,Story,Closed,HELM,Helm,software,Done,20/12/2020 14:34,09/02/2021 07:57
+HELM-53,Story,Closed,HELM,Helm,software,Done,20/12/2020 14:33,15/04/2021 12:51
+HELM-52,Story,Closed,HELM,Helm,software,Done,16/12/2020 08:24,18/01/2021 11:52
+HELM-51,Story,New,HELM,Helm,software,,14/12/2020 16:38,
+HELM-50,Story,Closed,HELM,Helm,software,Done,14/12/2020 16:20,17/03/2022 17:49
+HELM-48,Story,Closed,HELM,Helm,software,Obsolete,08/12/2020 08:09,
+HELM-47,Story,Closed,HELM,Helm,software,Done,08/12/2020 05:12,15/12/2020 03:07
+HELM-46,Story,Closed,HELM,Helm,software,Done,08/12/2020 05:09,03/02/2021 06:26
+HELM-45,Story,Closed,HELM,Helm,software,Won't Do,23/01/2020 05:33,16/11/2022 19:57
+HELM-44,Story,New,HELM,Helm,software,,30/04/2020 13:23,
+HELM-43,Story,Closed,HELM,Helm,software,Won't Do,06/05/2020 08:45,26/10/2022 19:00
+HELM-42,Story,Closed,HELM,Helm,software,Done,14/05/2020 12:18,13/12/2022 03:54
+HELM-40,Story,Closed,HELM,Helm,software,Done,08/10/2020 08:19,23/11/2021 14:44
+HELM-39,Story,Closed,HELM,Helm,software,Done,02/12/2020 05:03,28/01/2021 07:47
+HELM-38,Story,Closed,HELM,Helm,software,Done,02/12/2020 05:00,20/12/2020 14:19
+HELM-37,Story,Closed,HELM,Helm,software,Done,01/12/2020 12:26,14/04/2021 11:41
+HELM-34,Story,Closed,HELM,Helm,software,Won't Do,30/03/2020 10:23,19/04/2022 12:09
+HELM-33,Story,Closed,HELM,Helm,software,Done,26/11/2020 10:59,03/12/2020 23:19
+HELM-32,Story,Closed,HELM,Helm,software,Done,18/02/2020 18:52,08/12/2020 04:04
+HELM-31,Story,Closed,HELM,Helm,software,Done,18/02/2020 18:58,08/12/2020 04:05
+HELM-27,Story,Closed,HELM,Helm,software,Obsolete,09/09/2020 08:24,
+HELM-26,Story,Closed,HELM,Helm,software,Obsolete,10/09/2020 10:31,
+HELM-25,Bug,Closed,HELM,Helm,software,Done,26/09/2020 12:14,05/10/2020 08:30
+HELM-24,Bug,Closed,HELM,Helm,software,Done,05/11/2020 05:35,17/11/2020 08:16
+HELM-20,Story,Closed,HELM,Helm,software,Done,06/10/2020 04:25,12/11/2020 06:11
+HELM-19,Story,New,HELM,Helm,software,,06/10/2020 04:24,
+HELM-18,Story,Closed,HELM,Helm,software,Obsolete,06/10/2020 04:24,
+HELM-17,Story,New,HELM,Helm,software,,06/10/2020 04:23,
+HELM-16,Story,Closed,HELM,Helm,software,Done,06/10/2020 04:22,23/06/2021 11:36
+HELM-15,Story,Closed,HELM,Helm,software,Done,08/01/2020 09:46,14/04/2021 22:13
+HELM-14,Story,Closed,HELM,Helm,software,Obsolete,27/05/2020 08:18,20/01/2021 21:27
+HELM-13,Story,Closed,HELM,Helm,software,Obsolete,04/12/2019 20:48,
+HELM-12,Story,Closed,HELM,Helm,software,Done,09/09/2020 08:13,03/12/2020 08:51
+HELM-11,Story,Closed,HELM,Helm,software,Done,23/09/2020 07:56,21/10/2020 07:24

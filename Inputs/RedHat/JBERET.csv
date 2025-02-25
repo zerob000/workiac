@@ -1,0 +1,511 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+JBERET-610,Task,Resolved,JBERET,JBeret,software,Done,24/09/2024 08:09,26/09/2024 14:18
+JBERET-609,Task,Resolved,JBERET,JBeret,software,Done,14/09/2024 14:19,16/09/2024 08:51
+JBERET-608,Task,Resolved,JBERET,JBeret,software,Done,14/09/2024 14:18,16/09/2024 08:52
+JBERET-607,Bug,Open,JBERET,JBeret,software,,05/09/2024 12:30,
+JBERET-606,Task,Resolved,JBERET,JBeret,software,Done,29/05/2024 03:25,29/05/2024 07:13
+JBERET-605,Task,Closed,JBERET,JBeret,software,Done,14/03/2024 15:32,14/03/2024 17:09
+JBERET-604,Task,Closed,JBERET,JBeret,software,Done,04/03/2024 16:11,14/03/2024 15:15
+JBERET-603,Task,Open,JBERET,JBeret,software,,04/03/2024 16:09,
+JBERET-602,Task,Open,JBERET,JBeret,software,,04/03/2024 16:08,
+JBERET-601,Task,Open,JBERET,JBeret,software,,04/03/2024 16:08,
+JBERET-600,Task,Open,JBERET,JBeret,software,,04/03/2024 16:07,
+JBERET-599,Task,Closed,JBERET,JBeret,software,Done,04/03/2024 15:56,14/03/2024 15:15
+JBERET-598,Bug,Resolved,JBERET,JBeret,software,Done,31/01/2024 15:15,01/02/2024 09:58
+JBERET-597,Bug,Resolved,JBERET,JBeret,software,Done,04/10/2023 21:09,02/11/2023 15:27
+JBERET-596,Task,Resolved,JBERET,JBeret,software,Done,07/08/2023 21:52,08/08/2023 14:52
+JBERET-595,Task,Resolved,JBERET,JBeret,software,Done,31/07/2023 14:46,07/08/2023 21:09
+JBERET-594,Enhancement,Open,JBERET,JBeret,software,,14/07/2023 08:34,
+JBERET-593,Task,Resolved,JBERET,JBeret,software,Done,12/07/2023 21:28,13/07/2023 12:04
+JBERET-592,Task,Resolved,JBERET,JBeret,software,Done,12/07/2023 12:32,12/07/2023 17:07
+JBERET-591,Bug,Coding In Progress,JBERET,JBeret,software,,26/05/2023 12:20,
+JBERET-590,Task,Resolved,JBERET,JBeret,software,Done,24/05/2023 18:47,24/05/2023 19:10
+JBERET-589,Enhancement,Resolved,JBERET,JBeret,software,Done,14/02/2023 22:11,15/02/2023 02:37
+JBERET-588,Enhancement,Resolved,JBERET,JBeret,software,Done,14/02/2023 19:46,14/02/2023 20:00
+JBERET-587,Task,Resolved,JBERET,JBeret,software,Done,09/12/2022 20:16,12/12/2022 21:07
+JBERET-586,Task,Resolved,JBERET,JBeret,software,Done,21/11/2022 21:33,01/03/2023 04:41
+JBERET-585,Task,Resolved,JBERET,JBeret,software,Done,13/11/2022 17:19,16/11/2022 15:48
+JBERET-584,Task,Resolved,JBERET,JBeret,software,Done,12/11/2022 14:41,16/11/2022 15:47
+JBERET-583,Bug,Resolved,JBERET,JBeret,software,Done,11/11/2022 16:28,16/02/2023 16:12
+JBERET-582,Task,Open,JBERET,JBeret,software,,04/11/2022 15:31,
+JBERET-581,Task,Resolved,JBERET,JBeret,software,Done,20/10/2022 14:27,20/10/2022 14:39
+JBERET-580,Task,Resolved,JBERET,JBeret,software,Done,30/08/2022 13:07,13/07/2023 12:06
+JBERET-579,Task,Resolved,JBERET,JBeret,software,Done,30/08/2022 12:53,01/09/2022 23:35
+JBERET-578,Task,Resolved,JBERET,JBeret,software,Done,19/08/2022 20:52,20/08/2022 01:03
+JBERET-577,Task,Resolved,JBERET,JBeret,software,Done,19/08/2022 18:43,19/08/2022 18:54
+JBERET-576,Task,Open,JBERET,JBeret,software,,02/08/2022 19:52,
+JBERET-575,Task,Resolved,JBERET,JBeret,software,Done,01/08/2022 21:30,01/08/2022 21:51
+JBERET-574,Task,Resolved,JBERET,JBeret,software,Done,22/07/2022 22:08,25/07/2022 14:30
+JBERET-573,Task,Resolved,JBERET,JBeret,software,Done,22/07/2022 20:05,22/07/2022 20:27
+JBERET-572,Task,Resolved,JBERET,JBeret,software,Done,12/07/2022 21:42,13/07/2022 21:18
+JBERET-571,Task,Resolved,JBERET,JBeret,software,Done,07/07/2022 18:57,12/07/2022 21:37
+JBERET-570,Enhancement,Resolved,JBERET,JBeret,software,Done,05/07/2022 22:23,05/07/2022 22:59
+JBERET-569,Enhancement,Resolved,JBERET,JBeret,software,Done,05/07/2022 21:50,05/07/2022 22:20
+JBERET-568,Task,Resolved,JBERET,JBeret,software,Done,05/07/2022 18:33,05/07/2022 19:29
+JBERET-567,Task,Pull Request Sent,JBERET,JBeret,software,,05/07/2022 18:26,
+JBERET-566,Task,Resolved,JBERET,JBeret,software,Done,28/06/2022 18:37,28/06/2022 21:20
+JBERET-565,Task,Resolved,JBERET,JBeret,software,Done,23/06/2022 20:34,24/06/2022 15:56
+JBERET-564,Task,Resolved,JBERET,JBeret,software,Done,21/06/2022 18:28,21/06/2022 18:47
+JBERET-563,Task,Resolved,JBERET,JBeret,software,Done,16/06/2022 14:42,16/06/2022 15:17
+JBERET-562,Task,Resolved,JBERET,JBeret,software,Done,15/06/2022 14:04,15/06/2022 14:44
+JBERET-561,Feature Request,Closed,JBERET,JBeret,software,Done,25/05/2022 07:19,12/01/2024 09:00
+JBERET-560,Task,Resolved,JBERET,JBeret,software,Done,24/05/2022 14:45,26/05/2022 20:35
+JBERET-559,Task,Resolved,JBERET,JBeret,software,Done,23/05/2022 23:15,26/05/2022 20:36
+JBERET-558,Bug,Resolved,JBERET,JBeret,software,Done,21/05/2022 15:16,26/05/2022 20:36
+JBERET-557,Bug,Resolved,JBERET,JBeret,software,Done,21/05/2022 14:03,26/05/2022 20:37
+JBERET-556,Task,Resolved,JBERET,JBeret,software,Done,18/05/2022 18:12,30/06/2022 19:51
+JBERET-555,Task,Resolved,JBERET,JBeret,software,Done,17/05/2022 16:25,26/05/2022 20:38
+JBERET-554,Task,Resolved,JBERET,JBeret,software,Done,16/05/2022 23:34,26/05/2022 20:39
+JBERET-553,Task,Resolved,JBERET,JBeret,software,Done,16/05/2022 18:36,26/05/2022 20:40
+JBERET-551,Feature Request,Resolved,JBERET,JBeret,software,Done,09/05/2022 21:28,26/05/2022 20:38
+JBERET-550,Bug,Resolved,JBERET,JBeret,software,Done,01/05/2022 21:24,06/05/2022 21:26
+JBERET-549,Bug,Resolved,JBERET,JBeret,software,Done,01/05/2022 21:21,06/05/2022 21:26
+JBERET-548,Enhancement,Resolved,JBERET,JBeret,software,Done,29/03/2022 14:09,09/04/2022 19:28
+JBERET-547,Task,Resolved,JBERET,JBeret,software,Done,27/03/2022 15:58,29/03/2022 18:08
+JBERET-546,Task,Resolved,JBERET,JBeret,software,Done,26/03/2022 21:50,29/03/2022 19:23
+JBERET-544,Task,Resolved,JBERET,JBeret,software,Done,24/03/2022 14:28,25/03/2022 15:25
+JBERET-543,Bug,Resolved,JBERET,JBeret,software,Done,24/03/2022 09:50,29/03/2022 19:25
+JBERET-542,Task,Resolved,JBERET,JBeret,software,Done,18/03/2022 19:30,21/03/2022 17:10
+JBERET-541,Task,Resolved,JBERET,JBeret,software,Done,18/03/2022 19:13,11/05/2022 20:01
+JBERET-540,Task,Resolved,JBERET,JBeret,software,Done,18/03/2022 19:11,21/03/2022 17:09
+JBERET-538,Task,Resolved,JBERET,JBeret,software,Done,18/03/2022 14:01,21/03/2022 17:11
+JBERET-537,Bug,Resolved,JBERET,JBeret,software,Done,08/02/2022 20:50,04/03/2022 20:44
+JBERET-536,Bug,Resolved,JBERET,JBeret,software,Won't Do,21/01/2022 23:46,07/02/2022 15:08
+JBERET-535,Task,Resolved,JBERET,JBeret,software,Done,20/01/2022 16:48,20/01/2022 17:12
+JBERET-534,Enhancement,Pull Request Sent,JBERET,JBeret,software,,19/01/2022 14:10,
+JBERET-533,Enhancement,Resolved,JBERET,JBeret,software,Done,19/01/2022 14:09,13/01/2023 06:29
+JBERET-532,Enhancement,Resolved,JBERET,JBeret,software,Done,10/01/2022 22:46,13/07/2023 17:44
+JBERET-529,Enhancement,Resolved,JBERET,JBeret,software,Done,26/10/2021 07:13,20/01/2022 17:18
+JBERET-522,Enhancement,Resolved,JBERET,JBeret,software,Done,13/09/2021 20:33,15/09/2021 15:23
+JBERET-518,Bug,Resolved,JBERET,JBeret,software,Done,18/08/2021 11:37,18/08/2021 13:07
+JBERET-517,Task,Resolved,JBERET,JBeret,software,Done,11/08/2021 07:24,12/08/2021 06:01
+JBERET-516,Task,Resolved,JBERET,JBeret,software,Done,01/08/2021 11:39,02/08/2021 19:02
+JBERET-514,Bug,Resolved,JBERET,JBeret,software,Done,03/07/2021 00:46,06/07/2021 18:27
+JBERET-513,Task,Resolved,JBERET,JBeret,software,Done,30/06/2021 03:10,09/07/2021 14:08
+JBERET-512,Bug,Resolved,JBERET,JBeret,software,Done,23/06/2021 15:43,23/06/2021 18:31
+JBERET-511,Task,Resolved,JBERET,JBeret,software,Done,08/03/2021 16:12,03/08/2021 13:44
+JBERET-509,Bug,Resolved,JBERET,JBeret,software,Done,04/03/2021 22:49,28/04/2021 16:00
+JBERET-508,Feature Request,Resolved,JBERET,JBeret,software,Done,04/03/2021 22:47,28/04/2021 16:00
+JBERET-507,Enhancement,Open,JBERET,JBeret,software,,26/01/2021 23:12,
+JBERET-506,Enhancement,Resolved,JBERET,JBeret,software,Done,10/01/2021 22:39,30/06/2021 03:08
+JBERET-504,Bug,Open,JBERET,JBeret,software,,21/12/2020 08:50,
+JBERET-503,Bug,Open,JBERET,JBeret,software,,17/12/2020 10:34,
+JBERET-502,Task,Resolved,JBERET,JBeret,software,Done,15/12/2020 16:52,20/12/2021 11:58
+JBERET-501,Feature Request,Resolved,JBERET,JBeret,software,Done,30/09/2020 11:07,30/09/2020 11:12
+JBERET-500,Bug,Resolved,JBERET,JBeret,software,Done,15/09/2020 16:57,15/09/2020 17:23
+JBERET-499,Task,Resolved,JBERET,JBeret,software,Done,14/09/2020 00:25,14/09/2020 22:56
+JBERET-498,Bug,Resolved,JBERET,JBeret,software,Done,14/09/2020 00:24,14/09/2020 22:57
+JBERET-497,Bug,Resolved,JBERET,JBeret,software,Done,13/09/2020 23:32,14/09/2020 22:57
+JBERET-495,Enhancement,Resolved,JBERET,JBeret,software,Done,27/08/2020 17:45,27/07/2021 12:52
+JBERET-494,Bug,Resolved,JBERET,JBeret,software,Done,23/05/2020 10:19,09/06/2020 22:25
+JBERET-493,Enhancement,Resolved,JBERET,JBeret,software,Done,29/04/2020 14:37,29/04/2020 16:06
+JBERET-491,Task,Resolved,JBERET,JBeret,software,Done,31/10/2019 22:31,18/04/2022 13:28
+JBERET-490,Task,Resolved,JBERET,JBeret,software,Done,12/10/2019 20:37,07/11/2019 20:11
+JBERET-489,Bug,Open,JBERET,JBeret,software,,22/08/2019 05:20,
+JBERET-488,Bug,Open,JBERET,JBeret,software,,01/08/2019 08:59,
+JBERET-487,Bug,Resolved,JBERET,JBeret,software,Done,01/08/2019 08:58,02/08/2021 17:32
+JBERET-486,Feature Request,Resolved,JBERET,JBeret,software,Done,23/07/2019 10:50,24/07/2019 07:07
+JBERET-485,Bug,Coding In Progress,JBERET,JBeret,software,,28/05/2019 04:06,
+JBERET-484,Task,Resolved,JBERET,JBeret,software,Done,23/05/2019 10:57,07/11/2019 19:14
+JBERET-483,Feature Request,Coding In Progress,JBERET,JBeret,software,,17/05/2019 15:53,
+JBERET-482,Task,Resolved,JBERET,JBeret,software,Done,14/05/2019 17:25,06/01/2022 14:27
+JBERET-481,Bug,Resolved,JBERET,JBeret,software,Done,02/05/2019 14:07,06/11/2019 17:05
+JBERET-480,Task,Resolved,JBERET,JBeret,software,Done,29/04/2019 09:52,29/04/2019 12:26
+JBERET-479,Feature Request,Open,JBERET,JBeret,software,,27/04/2019 10:07,
+JBERET-478,Task,Resolved,JBERET,JBeret,software,Done,17/04/2019 14:31,17/04/2019 16:09
+JBERET-477,Task,Resolved,JBERET,JBeret,software,Done,17/04/2019 11:49,29/04/2019 13:04
+JBERET-476,Task,Resolved,JBERET,JBeret,software,Done,15/04/2019 23:45,02/05/2019 09:28
+JBERET-475,Task,Resolved,JBERET,JBeret,software,Done,11/04/2019 09:27,02/05/2019 16:40
+JBERET-474,Bug,Resolved,JBERET,JBeret,software,Done,11/04/2019 09:18,15/04/2019 23:39
+JBERET-473,Bug,Resolved,JBERET,JBeret,software,Not a Bug,24/03/2019 21:46,01/04/2019 22:29
+JBERET-472,Enhancement,Open,JBERET,JBeret,software,,28/02/2019 13:23,
+JBERET-471,Bug,Resolved,JBERET,JBeret,software,Done,07/02/2019 23:17,09/02/2019 23:41
+JBERET-470,Task,Resolved,JBERET,JBeret,software,Done,25/01/2019 18:09,13/02/2019 15:58
+JBERET-469,Task,Resolved,JBERET,JBeret,software,Done,09/01/2019 19:06,16/01/2019 19:01
+JBERET-468,Task,Resolved,JBERET,JBeret,software,Done,09/01/2019 11:53,21/01/2019 14:22
+JBERET-467,Bug,Resolved,JBERET,JBeret,software,Done,04/01/2019 15:35,06/01/2019 18:14
+JBERET-466,Bug,Resolved,JBERET,JBeret,software,Done,18/12/2018 11:46,21/12/2018 22:48
+JBERET-465,Bug,Resolved,JBERET,JBeret,software,Done,16/12/2018 22:00,19/12/2018 14:13
+JBERET-464,Bug,Resolved,JBERET,JBeret,software,Not a Bug,29/11/2018 14:25,16/12/2018 22:12
+JBERET-463,Bug,Resolved,JBERET,JBeret,software,Done,29/11/2018 14:23,16/12/2018 19:43
+JBERET-462,Bug,Resolved,JBERET,JBeret,software,Done,19/11/2018 05:18,30/11/2018 23:38
+JBERET-461,Bug,Resolved,JBERET,JBeret,software,Done,18/11/2018 22:18,02/12/2018 15:27
+JBERET-460,Bug,Resolved,JBERET,JBeret,software,Done,08/11/2018 13:51,12/11/2018 22:11
+JBERET-459,Bug,Resolved,JBERET,JBeret,software,Done,06/11/2018 12:15,09/11/2018 11:29
+JBERET-458,Bug,Resolved,JBERET,JBeret,software,Done,05/11/2018 22:09,06/11/2019 10:24
+JBERET-457,Task,Resolved,JBERET,JBeret,software,Done,17/10/2018 12:55,09/12/2018 22:04
+JBERET-456,Task,Resolved,JBERET,JBeret,software,Done,16/10/2018 22:28,10/12/2018 14:33
+JBERET-455,Enhancement,Resolved,JBERET,JBeret,software,Done,07/10/2018 18:52,08/10/2018 22:21
+JBERET-454,Bug,Open,JBERET,JBeret,software,,01/10/2018 13:51,
+JBERET-453,Feature Request,Open,JBERET,JBeret,software,,26/09/2018 10:40,
+JBERET-452,Enhancement,Resolved,JBERET,JBeret,software,Done,25/09/2018 16:41,08/10/2018 23:04
+JBERET-451,Feature Request,Coding In Progress,JBERET,JBeret,software,,12/09/2018 18:47,
+JBERET-450,Task,Coding In Progress,JBERET,JBeret,software,,10/09/2018 22:43,
+JBERET-449,Feature Request,Coding In Progress,JBERET,JBeret,software,,04/09/2018 22:38,
+JBERET-448,Task,Resolved,JBERET,JBeret,software,Done,14/08/2018 10:23,20/08/2018 22:56
+JBERET-447,Task,Resolved,JBERET,JBeret,software,Done,11/08/2018 17:37,17/08/2018 09:31
+JBERET-446,Bug,Resolved,JBERET,JBeret,software,Done,09/08/2018 22:01,22/08/2018 17:30
+JBERET-445,Bug,Closed,JBERET,JBeret,software,Cannot Reproduce,31/07/2018 08:58,31/05/2022 08:23
+JBERET-444,Bug,Resolved,JBERET,JBeret,software,Done,30/07/2018 15:15,09/08/2018 15:04
+JBERET-443,Bug,Resolved,JBERET,JBeret,software,Done,30/07/2018 15:08,08/08/2018 17:52
+JBERET-442,Bug,Open,JBERET,JBeret,software,,30/07/2018 15:01,
+JBERET-441,Bug,Resolved,JBERET,JBeret,software,Done,30/07/2018 14:58,05/08/2018 22:44
+JBERET-440,Bug,Resolved,JBERET,JBeret,software,Done,30/07/2018 14:56,06/08/2018 22:26
+JBERET-439,Bug,Resolved,JBERET,JBeret,software,Done,24/07/2018 14:48,25/07/2018 15:11
+JBERET-438,Bug,Resolved,JBERET,JBeret,software,Done,23/07/2018 23:10,25/07/2018 16:24
+JBERET-435,Task,Resolved,JBERET,JBeret,software,Done,28/06/2018 10:06,10/07/2018 13:30
+JBERET-434,Bug,Resolved,JBERET,JBeret,software,Done,27/06/2018 11:59,27/06/2018 16:28
+JBERET-432,Bug,Resolved,JBERET,JBeret,software,Done,25/06/2018 15:05,26/06/2018 13:37
+JBERET-422,Task,Resolved,JBERET,JBeret,software,Done,12/06/2018 22:22,14/06/2018 10:25
+JBERET-421,Task,Resolved,JBERET,JBeret,software,Done,11/06/2018 22:27,14/06/2018 10:10
+JBERET-420,Task,Resolved,JBERET,JBeret,software,Done,11/06/2018 15:48,14/06/2018 10:11
+JBERET-419,Bug,Resolved,JBERET,JBeret,software,Done,05/06/2018 11:12,05/06/2018 15:15
+JBERET-418,Bug,Resolved,JBERET,JBeret,software,Done,30/05/2018 13:06,30/05/2018 16:17
+JBERET-417,Bug,Resolved,JBERET,JBeret,software,Done,24/05/2018 11:38,08/06/2018 08:50
+JBERET-416,Feature Request,Open,JBERET,JBeret,software,,23/05/2018 15:50,
+JBERET-415,Task,Resolved,JBERET,JBeret,software,Done,19/05/2018 20:06,31/05/2018 23:13
+JBERET-414,Bug,Resolved,JBERET,JBeret,software,Done,17/05/2018 22:09,29/05/2018 09:29
+JBERET-413,Bug,Resolved,JBERET,JBeret,software,Done,16/05/2018 14:14,30/05/2018 11:37
+JBERET-412,Bug,Resolved,JBERET,JBeret,software,Done,11/05/2018 15:27,14/05/2018 12:15
+JBERET-411,Bug,Resolved,JBERET,JBeret,software,Not a Bug,09/05/2018 13:38,09/05/2018 17:16
+JBERET-410,Bug,Resolved,JBERET,JBeret,software,Done,09/05/2018 13:33,09/05/2018 17:14
+JBERET-409,Enhancement,Resolved,JBERET,JBeret,software,Done,03/05/2018 22:55,06/05/2018 15:30
+JBERET-408,Enhancement,Resolved,JBERET,JBeret,software,Done,16/04/2018 22:31,23/04/2018 15:58
+JBERET-407,Task,Resolved,JBERET,JBeret,software,Done,16/04/2018 19:53,30/04/2018 15:48
+JBERET-406,Task,Resolved,JBERET,JBeret,software,Done,15/04/2018 17:26,07/05/2018 07:19
+JBERET-405,Task,Resolved,JBERET,JBeret,software,Done,13/04/2018 23:24,15/04/2018 16:08
+JBERET-404,Bug,Coding In Progress,JBERET,JBeret,software,,12/04/2018 17:38,
+JBERET-403,Enhancement,Resolved,JBERET,JBeret,software,Done,10/04/2018 13:35,08/05/2018 11:18
+JBERET-402,Task,Open,JBERET,JBeret,software,,09/04/2018 21:57,
+JBERET-401,Bug,Resolved,JBERET,JBeret,software,Done,05/04/2018 10:35,05/04/2018 11:10
+JBERET-400,Task,Resolved,JBERET,JBeret,software,Done,04/04/2018 16:39,05/04/2018 11:12
+JBERET-399,Task,Resolved,JBERET,JBeret,software,Done,27/03/2018 21:44,02/04/2018 15:17
+JBERET-398,Bug,Resolved,JBERET,JBeret,software,Done,27/03/2018 21:28,03/04/2018 07:51
+JBERET-397,Task,Resolved,JBERET,JBeret,software,Done,25/03/2018 16:41,26/03/2018 18:03
+JBERET-396,Enhancement,Resolved,JBERET,JBeret,software,Done,19/03/2018 22:53,02/05/2018 16:26
+JBERET-395,Enhancement,Open,JBERET,JBeret,software,,19/03/2018 09:52,
+JBERET-394,Enhancement,Resolved,JBERET,JBeret,software,Done,16/03/2018 14:01,18/03/2018 16:18
+JBERET-393,Bug,Resolved,JBERET,JBeret,software,Done,15/03/2018 09:32,18/03/2018 16:39
+JBERET-392,Task,Resolved,JBERET,JBeret,software,Done,07/03/2018 20:52,13/07/2018 23:34
+JBERET-391,Enhancement,Resolved,JBERET,JBeret,software,Done,07/03/2018 20:47,26/03/2018 18:03
+JBERET-390,Feature Request,Open,JBERET,JBeret,software,,06/03/2018 13:01,
+JBERET-389,Feature Request,Open,JBERET,JBeret,software,,06/03/2018 12:32,
+JBERET-388,Feature Request,Open,JBERET,JBeret,software,,05/03/2018 14:07,
+JBERET-387,Task,Resolved,JBERET,JBeret,software,Done,01/03/2018 21:39,02/03/2018 15:39
+JBERET-386,Enhancement,Resolved,JBERET,JBeret,software,Done,26/02/2018 07:14,01/03/2018 08:22
+JBERET-385,Task,Resolved,JBERET,JBeret,software,Done,25/02/2018 22:35,27/02/2018 12:41
+JBERET-384,Bug,Resolved,JBERET,JBeret,software,Done,21/02/2018 19:28,23/02/2018 17:53
+JBERET-383,Bug,Resolved,JBERET,JBeret,software,Done,19/02/2018 08:04,24/07/2018 13:42
+JBERET-382,Task,Coding In Progress,JBERET,JBeret,software,,13/02/2018 14:08,
+JBERET-381,Enhancement,Open,JBERET,JBeret,software,,13/02/2018 10:57,
+JBERET-380,Feature Request,Resolved,JBERET,JBeret,software,Done,28/01/2018 23:11,29/01/2018 22:01
+JBERET-379,Feature Request,Resolved,JBERET,JBeret,software,Done,25/01/2018 12:48,22/02/2018 22:17
+JBERET-378,Bug,Open,JBERET,JBeret,software,,12/01/2018 11:41,
+JBERET-377,Bug,Resolved,JBERET,JBeret,software,Done,10/01/2018 11:01,11/01/2018 16:25
+JBERET-376,Bug,Resolved,JBERET,JBeret,software,Done,09/01/2018 11:49,10/01/2018 14:56
+JBERET-375,Enhancement,Coding In Progress,JBERET,JBeret,software,,02/01/2018 10:54,
+JBERET-374,Feature Request,Resolved,JBERET,JBeret,software,Done,01/01/2018 20:13,22/02/2018 22:17
+JBERET-373,Feature Request,Resolved,JBERET,JBeret,software,Done,16/12/2017 10:52,18/12/2017 22:54
+JBERET-372,Bug,Resolved,JBERET,JBeret,software,Done,11/12/2017 15:06,12/12/2017 22:15
+JBERET-371,Feature Request,Open,JBERET,JBeret,software,,07/12/2017 23:15,
+JBERET-370,Enhancement,Resolved,JBERET,JBeret,software,Done,04/12/2017 13:12,13/01/2023 06:28
+JBERET-369,Enhancement,Resolved,JBERET,JBeret,software,Done,04/12/2017 13:06,01/11/2021 06:01
+JBERET-368,Enhancement,Resolved,JBERET,JBeret,software,Done,02/12/2017 21:40,10/12/2017 22:25
+JBERET-367,Task,Open,JBERET,JBeret,software,,01/12/2017 09:48,
+JBERET-366,Feature Request,Coding In Progress,JBERET,JBeret,software,,30/11/2017 22:09,
+JBERET-365,Task,Open,JBERET,JBeret,software,,15/11/2017 15:03,
+JBERET-364,Bug,Resolved,JBERET,JBeret,software,Done,13/11/2017 09:41,15/11/2017 17:33
+JBERET-363,Bug,Resolved,JBERET,JBeret,software,Done,08/11/2017 17:06,09/11/2017 13:34
+JBERET-362,Bug,Resolved,JBERET,JBeret,software,Done,06/11/2017 13:18,09/11/2017 14:34
+JBERET-361,Enhancement,Resolved,JBERET,JBeret,software,Done,06/11/2017 13:13,09/11/2017 22:32
+JBERET-360,Enhancement,Resolved,JBERET,JBeret,software,Done,29/10/2017 22:46,06/11/2017 23:07
+JBERET-359,Task,Resolved,JBERET,JBeret,software,Done,21/10/2017 21:58,04/12/2017 21:16
+JBERET-358,Enhancement,Open,JBERET,JBeret,software,,08/10/2017 19:31,
+JBERET-357,Bug,Resolved,JBERET,JBeret,software,Done,30/09/2017 22:15,02/10/2017 21:52
+JBERET-356,Task,Pull Request Sent,JBERET,JBeret,software,,28/09/2017 09:47,
+JBERET-355,Task,Resolved,JBERET,JBeret,software,Done,23/09/2017 14:30,08/10/2017 19:22
+JBERET-354,Enhancement,Resolved,JBERET,JBeret,software,Done,22/09/2017 12:55,16/10/2017 14:05
+JBERET-351,Bug,Resolved,JBERET,JBeret,software,Done,27/08/2017 22:28,31/08/2017 03:56
+JBERET-350,Bug,Resolved,JBERET,JBeret,software,Done,28/07/2017 03:25,11/08/2017 23:00
+JBERET-349,Enhancement,Coding In Progress,JBERET,JBeret,software,,27/07/2017 15:32,
+JBERET-348,Enhancement,Resolved,JBERET,JBeret,software,Done,20/07/2017 14:31,24/07/2017 15:06
+JBERET-346,Task,Resolved,JBERET,JBeret,software,Done,10/07/2017 11:38,17/07/2017 23:03
+JBERET-345,Bug,Resolved,JBERET,JBeret,software,Done,29/06/2017 19:53,29/06/2017 21:41
+JBERET-343,Bug,Resolved,JBERET,JBeret,software,Done,28/06/2017 17:32,29/06/2017 21:41
+JBERET-341,Enhancement,Resolved,JBERET,JBeret,software,Done,23/06/2017 23:52,25/06/2017 22:21
+JBERET-336,Feature Request,Resolved,JBERET,JBeret,software,Done,12/06/2017 20:39,10/12/2017 22:27
+JBERET-335,Feature Request,Resolved,JBERET,JBeret,software,Done,06/06/2017 22:44,10/12/2017 22:29
+JBERET-334,Task,Resolved,JBERET,JBeret,software,Done,06/06/2017 22:39,10/12/2017 22:30
+JBERET-332,Task,Resolved,JBERET,JBeret,software,Done,21/05/2017 22:43,10/12/2017 22:31
+JBERET-328,Enhancement,Resolved,JBERET,JBeret,software,Done,04/05/2017 13:59,08/05/2017 21:27
+JBERET-326,Enhancement,Resolved,JBERET,JBeret,software,Done,18/04/2017 14:31,19/04/2017 15:12
+JBERET-325,Bug,Resolved,JBERET,JBeret,software,Duplicate,12/04/2017 14:19,10/12/2017 22:29
+JBERET-324,Bug,Resolved,JBERET,JBeret,software,Done,11/04/2017 06:35,17/12/2018 13:18
+JBERET-323,Bug,Resolved,JBERET,JBeret,software,Won't Do,05/04/2017 14:53,06/04/2017 14:32
+JBERET-322,Feature Request,Resolved,JBERET,JBeret,software,Done,27/03/2017 13:37,10/04/2017 18:14
+JBERET-321,Feature Request,Resolved,JBERET,JBeret,software,Done,27/03/2017 13:33,10/04/2017 18:14
+JBERET-320,Bug,Resolved,JBERET,JBeret,software,Won't Do,13/03/2017 12:26,15/03/2017 13:41
+JBERET-319,Enhancement,Resolved,JBERET,JBeret,software,Done,10/03/2017 12:48,14/03/2017 10:41
+JBERET-318,Feature Request,Open,JBERET,JBeret,software,,05/03/2017 22:33,
+JBERET-317,Feature Request,Open,JBERET,JBeret,software,,28/02/2017 15:47,
+JBERET-316,Feature Request,Coding In Progress,JBERET,JBeret,software,,28/02/2017 15:44,
+JBERET-315,Feature Request,Coding In Progress,JBERET,JBeret,software,,28/02/2017 15:09,
+JBERET-314,Feature Request,Open,JBERET,JBeret,software,,27/02/2017 17:05,
+JBERET-313,Enhancement,Resolved,JBERET,JBeret,software,Done,23/02/2017 10:18,07/03/2017 22:36
+JBERET-312,Feature Request,Open,JBERET,JBeret,software,,22/02/2017 22:35,
+JBERET-311,Enhancement,Resolved,JBERET,JBeret,software,Done,15/02/2017 16:09,19/02/2017 16:53
+JBERET-310,Enhancement,Resolved,JBERET,JBeret,software,Done,15/02/2017 14:41,19/02/2017 16:54
+JBERET-309,Feature Request,Resolved,JBERET,JBeret,software,Done,14/02/2017 23:33,21/02/2017 22:32
+JBERET-308,Feature Request,Resolved,JBERET,JBeret,software,Done,12/02/2017 17:58,27/02/2017 22:07
+JBERET-307,Feature Request,Resolved,JBERET,JBeret,software,Done,12/02/2017 17:52,27/02/2017 22:06
+JBERET-306,Task,Resolved,JBERET,JBeret,software,Done,08/02/2017 16:20,21/02/2017 22:33
+JBERET-305,Bug,Resolved,JBERET,JBeret,software,Done,06/02/2017 22:11,21/02/2017 22:33
+JBERET-304,Task,Open,JBERET,JBeret,software,,05/02/2017 12:06,
+JBERET-303,Task,Resolved,JBERET,JBeret,software,Done,29/01/2017 23:33,30/01/2017 21:42
+JBERET-302,Bug,Resolved,JBERET,JBeret,software,Done,29/01/2017 14:51,30/01/2017 21:42
+JBERET-301,Task,Open,JBERET,JBeret,software,,27/01/2017 10:04,
+JBERET-300,Task,Open,JBERET,JBeret,software,,22/01/2017 22:18,
+JBERET-299,Bug,Resolved,JBERET,JBeret,software,Done,20/01/2017 23:26,22/01/2017 15:12
+JBERET-298,Feature Request,Resolved,JBERET,JBeret,software,Done,20/01/2017 22:46,31/01/2017 22:05
+JBERET-297,Feature Request,Open,JBERET,JBeret,software,,20/01/2017 22:17,
+JBERET-296,Feature Request,Coding In Progress,JBERET,JBeret,software,,16/01/2017 21:38,
+JBERET-295,Task,Open,JBERET,JBeret,software,,16/01/2017 21:28,
+JBERET-294,Enhancement,Resolved,JBERET,JBeret,software,Done,12/01/2017 20:48,13/01/2017 21:58
+JBERET-293,Bug,Resolved,JBERET,JBeret,software,Done,12/01/2017 11:28,12/01/2017 11:45
+JBERET-292,Feature Request,Resolved,JBERET,JBeret,software,Done,05/01/2017 16:41,13/01/2017 21:59
+JBERET-291,Enhancement,Resolved,JBERET,JBeret,software,Done,21/12/2016 11:13,03/01/2017 21:42
+JBERET-290,Enhancement,Coding In Progress,JBERET,JBeret,software,,18/12/2016 22:16,
+JBERET-289,Bug,Resolved,JBERET,JBeret,software,Done,07/12/2016 19:35,12/12/2016 12:10
+JBERET-288,Bug,Resolved,JBERET,JBeret,software,Done,05/12/2016 13:14,06/12/2016 11:19
+JBERET-287,Enhancement,Resolved,JBERET,JBeret,software,Done,01/12/2016 22:20,12/12/2016 13:35
+JBERET-286,Enhancement,Resolved,JBERET,JBeret,software,Done,30/11/2016 18:31,05/12/2016 18:53
+JBERET-285,Bug,Resolved,JBERET,JBeret,software,Done,28/11/2016 15:57,29/11/2016 17:06
+JBERET-284,Enhancement,Resolved,JBERET,JBeret,software,Done,21/11/2016 22:34,09/01/2017 21:43
+JBERET-283,Task,Resolved,JBERET,JBeret,software,Done,18/11/2016 20:14,29/11/2016 18:32
+JBERET-282,Bug,Resolved,JBERET,JBeret,software,Cannot Reproduce,18/11/2016 11:17,16/12/2016 22:59
+JBERET-281,Task,Resolved,JBERET,JBeret,software,Done,11/11/2016 15:45,16/11/2016 15:34
+JBERET-280,Bug,Resolved,JBERET,JBeret,software,Done,11/11/2016 13:38,15/11/2016 07:28
+JBERET-279,Bug,Resolved,JBERET,JBeret,software,Done,09/11/2016 15:56,10/11/2016 22:06
+JBERET-278,Task,Open,JBERET,JBeret,software,,07/11/2016 16:12,
+JBERET-277,Task,Open,JBERET,JBeret,software,,07/11/2016 09:45,
+JBERET-276,Task,Open,JBERET,JBeret,software,,04/11/2016 13:42,
+JBERET-275,Task,Open,JBERET,JBeret,software,,04/11/2016 13:02,
+JBERET-274,Task,Coding In Progress,JBERET,JBeret,software,,02/11/2016 10:27,
+JBERET-273,Feature Request,Open,JBERET,JBeret,software,,24/10/2016 16:23,
+JBERET-272,Feature Request,Open,JBERET,JBeret,software,,24/10/2016 16:22,
+JBERET-271,Feature Request,Open,JBERET,JBeret,software,,18/10/2016 11:54,
+JBERET-270,Bug,Resolved,JBERET,JBeret,software,Done,07/10/2016 15:35,07/10/2016 22:52
+JBERET-269,Bug,Resolved,JBERET,JBeret,software,Done,04/10/2016 17:48,17/11/2016 22:35
+JBERET-268,Feature Request,Open,JBERET,JBeret,software,,28/09/2016 22:58,
+JBERET-267,Feature Request,Open,JBERET,JBeret,software,,28/09/2016 22:51,
+JBERET-266,Enhancement,Coding In Progress,JBERET,JBeret,software,,27/09/2016 22:15,
+JBERET-265,Feature Request,Resolved,JBERET,JBeret,software,Done,26/09/2016 22:36,16/12/2016 22:59
+JBERET-264,Feature Request,Resolved,JBERET,JBeret,software,Done,26/09/2016 22:23,18/12/2016 22:20
+JBERET-263,Feature Request,Closed,JBERET,JBeret,software,Won't Do,25/09/2016 15:44,30/09/2016 16:14
+JBERET-262,Feature Request,Resolved,JBERET,JBeret,software,Done,16/09/2016 13:51,21/09/2016 22:38
+JBERET-261,Bug,Resolved,JBERET,JBeret,software,Done,12/09/2016 16:01,16/09/2016 09:24
+JBERET-260,Bug,Resolved,JBERET,JBeret,software,Done,12/09/2016 15:58,22/09/2016 11:18
+JBERET-259,Bug,Resolved,JBERET,JBeret,software,Done,12/09/2016 15:55,15/09/2016 20:42
+JBERET-258,Bug,Resolved,JBERET,JBeret,software,Done,12/09/2016 15:49,20/10/2016 22:01
+JBERET-257,Bug,Resolved,JBERET,JBeret,software,Done,06/09/2016 10:58,10/09/2016 22:37
+JBERET-256,Enhancement,Resolved,JBERET,JBeret,software,Done,01/09/2016 15:22,05/09/2016 16:50
+JBERET-255,Bug,Resolved,JBERET,JBeret,software,Duplicate,18/08/2016 04:35,21/08/2016 17:56
+JBERET-254,Bug,Resolved,JBERET,JBeret,software,Done,05/08/2016 22:36,08/08/2016 17:18
+JBERET-253,Bug,Resolved,JBERET,JBeret,software,Done,05/08/2016 16:06,08/08/2016 17:18
+JBERET-249,Enhancement,Resolved,JBERET,JBeret,software,Done,12/07/2016 17:39,01/08/2016 22:26
+JBERET-248,Bug,Resolved,JBERET,JBeret,software,Done,05/07/2016 21:19,02/03/2017 14:24
+JBERET-242,Bug,Resolved,JBERET,JBeret,software,Done,20/05/2016 11:08,31/05/2016 11:01
+JBERET-241,Bug,Resolved,JBERET,JBeret,software,Done,19/05/2016 22:23,24/05/2016 13:56
+JBERET-240,Bug,Resolved,JBERET,JBeret,software,Done,18/05/2016 11:50,23/05/2016 15:59
+JBERET-239,Enhancement,Open,JBERET,JBeret,software,,17/05/2016 22:38,
+JBERET-238,Bug,Coding In Progress,JBERET,JBeret,software,,10/05/2016 23:25,
+JBERET-237,Bug,Resolved,JBERET,JBeret,software,Done,05/05/2016 21:19,12/05/2016 13:23
+JBERET-236,Task,Open,JBERET,JBeret,software,,03/05/2016 18:08,
+JBERET-235,Enhancement,Resolved,JBERET,JBeret,software,Done,29/04/2016 14:06,09/05/2016 21:26
+JBERET-234,Enhancement,Resolved,JBERET,JBeret,software,Done,28/04/2016 03:54,21/11/2016 16:04
+JBERET-233,Task,Resolved,JBERET,JBeret,software,Done,27/04/2016 22:34,16/05/2016 21:06
+JBERET-232,Task,Resolved,JBERET,JBeret,software,Done,27/04/2016 22:31,16/05/2016 21:06
+JBERET-231,Bug,Resolved,JBERET,JBeret,software,Done,25/04/2016 06:20,01/06/2016 15:47
+JBERET-229,Bug,Closed,JBERET,JBeret,software,Won't Do,19/04/2016 09:46,21/04/2016 00:55
+JBERET-228,Bug,Open,JBERET,JBeret,software,,24/03/2016 15:09,
+JBERET-227,Enhancement,Resolved,JBERET,JBeret,software,Done,20/03/2016 22:19,11/04/2016 22:41
+JBERET-226,Enhancement,Resolved,JBERET,JBeret,software,Done,12/03/2016 13:26,29/04/2016 13:48
+JBERET-225,Enhancement,Resolved,JBERET,JBeret,software,Done,12/03/2016 13:25,29/04/2016 13:49
+JBERET-224,Enhancement,Resolved,JBERET,JBeret,software,Done,12/03/2016 13:24,29/04/2016 13:47
+JBERET-223,Enhancement,Open,JBERET,JBeret,software,,12/03/2016 11:37,
+JBERET-222,Feature Request,Resolved,JBERET,JBeret,software,Done,08/03/2016 22:23,29/04/2016 13:53
+JBERET-221,Bug,Resolved,JBERET,JBeret,software,Done,23/02/2016 17:28,29/02/2016 16:10
+JBERET-220,Bug,Resolved,JBERET,JBeret,software,Done,15/02/2016 12:23,19/02/2016 14:45
+JBERET-219,Task,Resolved,JBERET,JBeret,software,Done,10/02/2016 15:41,29/02/2016 16:02
+JBERET-218,Enhancement,Resolved,JBERET,JBeret,software,Done,09/02/2016 22:56,25/02/2016 16:47
+JBERET-217,Bug,Resolved,JBERET,JBeret,software,Done,06/02/2016 11:05,16/02/2016 17:28
+JBERET-216,Task,Resolved,JBERET,JBeret,software,Done,04/02/2016 21:45,15/02/2016 14:06
+JBERET-215,Enhancement,Resolved,JBERET,JBeret,software,Done,02/02/2016 22:02,15/02/2016 14:06
+JBERET-214,Task,Open,JBERET,JBeret,software,,02/02/2016 14:43,
+JBERET-213,Enhancement,Resolved,JBERET,JBeret,software,Done,30/01/2016 23:20,03/02/2016 17:15
+JBERET-212,Task,Resolved,JBERET,JBeret,software,Done,26/01/2016 17:11,28/01/2016 22:20
+JBERET-211,Bug,Resolved,JBERET,JBeret,software,Done,23/01/2016 23:16,27/01/2016 12:44
+JBERET-210,Task,Resolved,JBERET,JBeret,software,Done,22/01/2016 12:22,27/01/2016 12:44
+JBERET-209,Feature Request,Resolved,JBERET,JBeret,software,Done,08/01/2016 09:43,22/01/2016 22:36
+JBERET-208,Enhancement,Resolved,JBERET,JBeret,software,Done,04/01/2016 15:36,11/01/2016 15:32
+JBERET-207,Enhancement,Resolved,JBERET,JBeret,software,Done,15/12/2015 17:41,21/12/2015 21:50
+JBERET-206,Bug,Closed,JBERET,JBeret,software,Cannot Reproduce,10/12/2015 15:47,11/12/2015 07:33
+JBERET-205,Enhancement,Resolved,JBERET,JBeret,software,Done,08/12/2015 13:16,09/12/2015 15:36
+JBERET-204,Enhancement,Resolved,JBERET,JBeret,software,Done,04/12/2015 23:27,07/12/2015 19:38
+JBERET-203,Enhancement,Resolved,JBERET,JBeret,software,Done,26/11/2015 07:31,30/11/2015 12:07
+JBERET-202,Enhancement,Resolved,JBERET,JBeret,software,Done,17/11/2015 23:13,30/11/2015 12:10
+JBERET-201,Enhancement,Resolved,JBERET,JBeret,software,Done,15/11/2015 09:14,23/11/2015 16:09
+JBERET-200,Enhancement,Resolved,JBERET,JBeret,software,Done,13/11/2015 19:26,23/11/2015 16:09
+JBERET-199,Enhancement,Resolved,JBERET,JBeret,software,Done,10/11/2015 11:01,16/11/2015 15:41
+JBERET-198,Enhancement,Resolved,JBERET,JBeret,software,Done,08/11/2015 22:51,23/11/2015 16:09
+JBERET-197,Enhancement,Resolved,JBERET,JBeret,software,Done,08/11/2015 22:44,16/11/2015 15:38
+JBERET-196,Bug,Resolved,JBERET,JBeret,software,Done,04/11/2015 22:33,09/12/2015 15:37
+JBERET-195,Enhancement,Resolved,JBERET,JBeret,software,Done,04/11/2015 22:06,16/11/2015 15:37
+JBERET-194,Enhancement,Resolved,JBERET,JBeret,software,Done,04/11/2015 22:02,16/11/2015 15:39
+JBERET-193,Bug,Resolved,JBERET,JBeret,software,Done,21/10/2015 14:06,02/11/2015 22:00
+JBERET-192,Bug,Resolved,JBERET,JBeret,software,Done,21/10/2015 13:57,02/11/2015 22:02
+JBERET-191,Bug,Resolved,JBERET,JBeret,software,Done,16/10/2015 21:31,02/11/2015 22:00
+JBERET-190,Feature Request,Resolved,JBERET,JBeret,software,Done,06/10/2015 11:23,21/12/2015 21:48
+JBERET-187,Bug,Resolved,JBERET,JBeret,software,Done,04/09/2015 19:24,06/09/2015 22:21
+JBERET-186,Bug,Resolved,JBERET,JBeret,software,Done,02/09/2015 11:08,08/09/2015 14:34
+JBERET-185,Task,Resolved,JBERET,JBeret,software,Done,20/08/2015 19:52,21/08/2015 11:28
+JBERET-184,Bug,Resolved,JBERET,JBeret,software,Done,19/08/2015 14:33,21/08/2015 11:28
+JBERET-182,Bug,Resolved,JBERET,JBeret,software,Done,20/07/2015 02:31,22/07/2015 22:28
+JBERET-180,Bug,Resolved,JBERET,JBeret,software,Done,10/07/2015 10:35,03/09/2015 18:52
+JBERET-179,Bug,Resolved,JBERET,JBeret,software,Done,04/07/2015 19:10,13/07/2015 14:02
+JBERET-178,Bug,Resolved,JBERET,JBeret,software,Done,17/06/2015 02:24,09/07/2015 17:57
+JBERET-177,Feature Request,Resolved,JBERET,JBeret,software,Done,07/06/2015 05:28,16/06/2015 08:39
+JBERET-173,Enhancement,Resolved,JBERET,JBeret,software,Done,01/06/2015 09:46,15/06/2015 15:39
+JBERET-172,Bug,Resolved,JBERET,JBeret,software,Done,27/05/2015 08:58,27/05/2015 10:55
+JBERET-171,Bug,Resolved,JBERET,JBeret,software,Done,27/05/2015 06:58,27/05/2015 10:55
+JBERET-170,Bug,Resolved,JBERET,JBeret,software,Done,27/05/2015 05:47,29/05/2015 03:08
+JBERET-169,Bug,Resolved,JBERET,JBeret,software,Done,26/05/2015 23:08,28/05/2015 10:09
+JBERET-168,Enhancement,Open,JBERET,JBeret,software,,25/05/2015 20:29,
+JBERET-167,Task,Resolved,JBERET,JBeret,software,Done,21/05/2015 19:20,25/05/2015 20:26
+JBERET-166,Bug,Resolved,JBERET,JBeret,software,Done,13/05/2015 10:23,13/05/2015 12:56
+JBERET-165,Bug,Resolved,JBERET,JBeret,software,Done,06/05/2015 06:21,27/07/2015 20:12
+JBERET-164,Enhancement,Open,JBERET,JBeret,software,,04/05/2015 17:55,
+JBERET-161,Enhancement,Resolved,JBERET,JBeret,software,Done,01/05/2015 17:16,25/05/2015 20:26
+JBERET-160,Enhancement,Resolved,JBERET,JBeret,software,Done,24/04/2015 03:26,04/05/2015 17:43
+JBERET-159,Bug,Resolved,JBERET,JBeret,software,Done,21/04/2015 13:05,22/04/2015 10:47
+JBERET-158,Feature Request,Closed,JBERET,JBeret,software,Done,19/04/2015 00:37,19/04/2015 11:31
+JBERET-157,Bug,Open,JBERET,JBeret,software,,17/04/2015 22:13,
+JBERET-156,Bug,Resolved,JBERET,JBeret,software,Done,16/04/2015 08:57,20/04/2015 15:49
+JBERET-154,Enhancement,Resolved,JBERET,JBeret,software,Done,08/04/2015 22:12,22/04/2015 10:50
+JBERET-151,Feature Request,Resolved,JBERET,JBeret,software,Done,29/03/2015 02:05,30/03/2015 11:46
+JBERET-150,Bug,Resolved,JBERET,JBeret,software,Done,28/03/2015 02:32,07/04/2015 12:12
+JBERET-149,Feature Request,Resolved,JBERET,JBeret,software,Done,25/03/2015 23:22,29/04/2016 13:59
+JBERET-148,Bug,Resolved,JBERET,JBeret,software,Done,23/03/2015 14:19,08/08/2017 12:01
+JBERET-147,Bug,Resolved,JBERET,JBeret,software,Done,20/03/2015 20:10,10/04/2015 22:19
+JBERET-146,Bug,Resolved,JBERET,JBeret,software,Done,19/03/2015 06:36,30/03/2015 20:05
+JBERET-145,Bug,Resolved,JBERET,JBeret,software,Done,09/03/2015 15:43,16/03/2015 22:18
+JBERET-144,Bug,Resolved,JBERET,JBeret,software,Done,06/03/2015 17:15,12/03/2015 11:34
+JBERET-142,Bug,Resolved,JBERET,JBeret,software,Done,05/03/2015 20:13,24/07/2015 14:43
+JBERET-141,Bug,Resolved,JBERET,JBeret,software,Done,03/03/2015 21:51,09/03/2015 15:39
+JBERET-140,Bug,Resolved,JBERET,JBeret,software,Done,03/03/2015 19:37,04/03/2015 19:39
+JBERET-139,Feature Request,Resolved,JBERET,JBeret,software,Done,02/03/2015 10:59,02/03/2015 20:39
+JBERET-138,Feature Request,Resolved,JBERET,JBeret,software,Done,28/02/2015 10:30,03/03/2015 08:59
+JBERET-137,Bug,Resolved,JBERET,JBeret,software,Done,25/02/2015 21:48,26/02/2015 15:37
+JBERET-136,Bug,Resolved,JBERET,JBeret,software,Done,19/02/2015 10:51,23/02/2015 16:45
+JBERET-135,Bug,Resolved,JBERET,JBeret,software,Done,17/02/2015 10:55,23/02/2015 16:46
+JBERET-134,Enhancement,Resolved,JBERET,JBeret,software,Done,16/02/2015 17:12,03/03/2015 14:11
+JBERET-133,Bug,Resolved,JBERET,JBeret,software,Done,14/02/2015 22:59,23/02/2015 16:49
+JBERET-132,Enhancement,Resolved,JBERET,JBeret,software,Done,11/02/2015 23:16,23/02/2015 22:00
+JBERET-128,Bug,Resolved,JBERET,JBeret,software,Done,02/02/2015 16:13,03/02/2015 11:10
+JBERET-127,Bug,Resolved,JBERET,JBeret,software,Done,30/01/2015 22:20,31/01/2015 19:57
+JBERET-126,Bug,Resolved,JBERET,JBeret,software,Done,20/01/2015 11:17,21/01/2015 10:51
+JBERET-125,Bug,Resolved,JBERET,JBeret,software,Done,11/01/2015 23:57,26/01/2015 14:27
+JBERET-124,Bug,Resolved,JBERET,JBeret,software,Done,09/01/2015 23:07,15/01/2015 14:08
+JBERET-123,Bug,Resolved,JBERET,JBeret,software,Done,09/01/2015 19:09,09/01/2015 22:04
+JBERET-122,Bug,Resolved,JBERET,JBeret,software,Done,17/12/2014 13:10,21/05/2015 12:25
+JBERET-121,Bug,Resolved,JBERET,JBeret,software,Duplicate,11/11/2014 16:42,16/12/2014 18:10
+JBERET-120,Bug,Resolved,JBERET,JBeret,software,Done,06/11/2014 22:54,09/11/2014 16:17
+JBERET-119,Task,Resolved,JBERET,JBeret,software,Done,18/10/2014 16:36,23/10/2014 22:18
+JBERET-118,Bug,Resolved,JBERET,JBeret,software,Done,07/10/2014 08:56,07/10/2014 21:49
+JBERET-117,Bug,Resolved,JBERET,JBeret,software,Done,30/09/2014 19:09,30/10/2014 21:46
+JBERET-110,Feature Request,Resolved,JBERET,JBeret,software,Done,15/09/2014 16:27,14/12/2014 22:16
+JBERET-109,Task,Open,JBERET,JBeret,software,,04/09/2014 11:16,
+JBERET-108,Bug,Resolved,JBERET,JBeret,software,Done,29/08/2014 12:06,29/08/2014 17:35
+JBERET-107,Bug,Resolved,JBERET,JBeret,software,Won't Do,29/08/2014 09:27,02/09/2014 17:38
+JBERET-106,Feature Request,Resolved,JBERET,JBeret,software,Done,23/07/2014 23:36,08/08/2014 16:03
+JBERET-105,Feature Request,Resolved,JBERET,JBeret,software,Done,16/07/2014 16:14,18/07/2014 11:28
+JBERET-104,Enhancement,Open,JBERET,JBeret,software,,11/07/2014 23:52,
+JBERET-103,Bug,Resolved,JBERET,JBeret,software,Done,11/07/2014 23:40,23/07/2014 20:53
+JBERET-102,Feature Request,Resolved,JBERET,JBeret,software,Done,02/07/2014 13:48,09/07/2014 11:51
+JBERET-101,Feature Request,Resolved,JBERET,JBeret,software,Done,02/07/2014 13:47,09/07/2014 11:51
+JBERET-100,Task,Resolved,JBERET,JBeret,software,Done,30/06/2014 22:35,01/07/2014 10:16
+JBERET-99,Enhancement,Resolved,JBERET,JBeret,software,Done,23/06/2014 13:27,23/03/2015 15:40
+JBERET-98,Feature Request,Resolved,JBERET,JBeret,software,Done,19/06/2014 04:30,07/07/2014 12:14
+JBERET-97,Enhancement,Closed,JBERET,JBeret,software,Won't Do,13/06/2014 14:28,12/09/2016 14:43
+JBERET-96,Task,Coding In Progress,JBERET,JBeret,software,,09/06/2014 18:07,
+JBERET-95,Task,Open,JBERET,JBeret,software,,09/06/2014 18:03,
+JBERET-94,Task,Resolved,JBERET,JBeret,software,Done,09/06/2014 17:57,15/07/2014 22:07
+JBERET-93,Feature Request,Resolved,JBERET,JBeret,software,Done,04/06/2014 22:35,10/09/2016 22:42
+JBERET-92,Feature Request,Resolved,JBERET,JBeret,software,Done,04/06/2014 22:32,10/09/2016 22:42
+JBERET-91,Feature Request,Resolved,JBERET,JBeret,software,Done,04/06/2014 22:25,30/06/2014 11:48
+JBERET-90,Feature Request,Resolved,JBERET,JBeret,software,Done,04/06/2014 22:24,30/06/2014 11:47
+JBERET-89,Task,Resolved,JBERET,JBeret,software,Done,04/06/2014 22:04,10/06/2014 12:29
+JBERET-88,Bug,Resolved,JBERET,JBeret,software,Done,29/05/2014 13:53,30/05/2014 17:46
+JBERET-87,Enhancement,Resolved,JBERET,JBeret,software,Done,27/05/2014 21:54,04/06/2014 11:04
+JBERET-84,Bug,Resolved,JBERET,JBeret,software,Done,20/05/2014 13:57,27/05/2014 20:31
+JBERET-83,Bug,Resolved,JBERET,JBeret,software,Done,18/05/2014 22:43,19/05/2014 10:59
+JBERET-71,Feature Request,Resolved,JBERET,JBeret,software,Done,30/04/2014 12:13,27/05/2014 14:37
+JBERET-70,Feature Request,Resolved,JBERET,JBeret,software,Done,30/04/2014 12:12,03/06/2014 23:07
+JBERET-69,Feature Request,Resolved,JBERET,JBeret,software,Done,29/04/2014 09:44,30/04/2014 10:54
+JBERET-68,Enhancement,Resolved,JBERET,JBeret,software,Done,21/04/2014 07:32,30/04/2014 10:54
+JBERET-67,Feature Request,Open,JBERET,JBeret,software,,17/04/2014 09:51,
+JBERET-66,Bug,Open,JBERET,JBeret,software,,15/04/2014 06:19,
+JBERET-65,Bug,Resolved,JBERET,JBeret,software,Done,09/04/2014 04:01,10/04/2014 14:14
+JBERET-64,Enhancement,Resolved,JBERET,JBeret,software,Done,07/04/2014 11:14,07/04/2014 14:46
+JBERET-63,Feature Request,Open,JBERET,JBeret,software,,05/04/2014 20:02,
+JBERET-62,Feature Request,Open,JBERET,JBeret,software,,05/04/2014 19:53,
+JBERET-61,Feature Request,Resolved,JBERET,JBeret,software,Done,05/04/2014 11:03,28/05/2014 14:38
+JBERET-59,Feature Request,Open,JBERET,JBeret,software,,01/04/2014 14:14,
+JBERET-58,Feature Request,Resolved,JBERET,JBeret,software,Done,18/03/2014 22:29,16/06/2014 23:20
+JBERET-57,Feature Request,Resolved,JBERET,JBeret,software,Done,18/03/2014 22:21,21/06/2014 21:40
+JBERET-56,Feature Request,Resolved,JBERET,JBeret,software,Done,13/03/2014 21:57,20/01/2017 23:21
+JBERET-55,Bug,Resolved,JBERET,JBeret,software,Done,10/03/2014 20:53,11/03/2014 16:54
+JBERET-54,Bug,Resolved,JBERET,JBeret,software,Done,10/03/2014 10:28,10/03/2014 22:31
+JBERET-53,Feature Request,Resolved,JBERET,JBeret,software,Done,05/03/2014 14:23,24/03/2014 19:58
+JBERET-52,Bug,Resolved,JBERET,JBeret,software,Done,04/03/2014 08:26,07/03/2014 22:32
+JBERET-51,Feature Request,Coding In Progress,JBERET,JBeret,software,,28/02/2014 08:39,
+JBERET-50,Feature Request,Open,JBERET,JBeret,software,,28/02/2014 08:38,
+JBERET-49,Feature Request,Open,JBERET,JBeret,software,,26/02/2014 23:08,
+JBERET-48,Feature Request,Resolved,JBERET,JBeret,software,Done,26/02/2014 22:55,05/03/2014 22:32
+JBERET-47,Feature Request,Resolved,JBERET,JBeret,software,Done,26/02/2014 22:53,05/03/2014 22:32
+JBERET-46,Feature Request,Resolved,JBERET,JBeret,software,Done,26/02/2014 11:30,24/03/2014 23:02
+JBERET-45,Enhancement,Resolved,JBERET,JBeret,software,Done,24/02/2014 23:05,05/03/2014 22:35
+JBERET-44,Bug,Resolved,JBERET,JBeret,software,Done,24/02/2014 06:37,26/02/2014 22:05
+JBERET-43,Enhancement,Resolved,JBERET,JBeret,software,Done,21/02/2014 05:22,03/03/2014 18:01
+JBERET-42,Feature Request,Resolved,JBERET,JBeret,software,Done,20/02/2014 22:38,05/03/2014 22:37
+JBERET-41,Feature Request,Resolved,JBERET,JBeret,software,Done,20/02/2014 22:37,05/03/2014 22:37
+JBERET-40,Enhancement,Resolved,JBERET,JBeret,software,Done,19/02/2014 11:10,05/03/2014 22:37
+JBERET-39,Enhancement,Resolved,JBERET,JBeret,software,Done,18/02/2014 16:03,18/02/2014 17:13
+JBERET-38,Feature Request,Resolved,JBERET,JBeret,software,Done,17/02/2014 14:22,24/02/2014 16:04
+JBERET-37,Feature Request,Resolved,JBERET,JBeret,software,Done,17/02/2014 14:15,24/02/2014 16:03
+JBERET-36,Bug,Resolved,JBERET,JBeret,software,Done,14/02/2014 08:35,18/02/2014 11:39
+JBERET-35,Enhancement,Resolved,JBERET,JBeret,software,Done,12/02/2014 17:00,13/02/2014 10:12
+JBERET-34,Enhancement,Resolved,JBERET,JBeret,software,Done,12/02/2014 16:57,12/02/2014 21:53
+JBERET-33,Enhancement,Resolved,JBERET,JBeret,software,Done,07/02/2014 13:31,10/02/2014 10:47
+JBERET-32,Feature Request,Resolved,JBERET,JBeret,software,Done,05/02/2014 14:38,14/02/2014 21:57
+JBERET-31,Feature Request,Resolved,JBERET,JBeret,software,Done,05/02/2014 14:37,14/02/2014 21:57
+JBERET-30,Bug,Resolved,JBERET,JBeret,software,Done,04/02/2014 01:44,04/02/2014 13:46
+JBERET-29,Bug,Resolved,JBERET,JBeret,software,Done,03/02/2014 12:20,05/02/2014 20:13
+JBERET-28,Bug,Resolved,JBERET,JBeret,software,Done,31/01/2014 10:19,04/02/2014 13:13
+JBERET-27,Bug,Resolved,JBERET,JBeret,software,Done,31/01/2014 08:38,03/02/2014 14:47
+JBERET-26,Bug,Resolved,JBERET,JBeret,software,Done,30/01/2014 11:05,02/02/2014 23:08
+JBERET-25,Task,Resolved,JBERET,JBeret,software,Done,28/01/2014 22:40,03/02/2014 23:00
+JBERET-24,Feature Request,Resolved,JBERET,JBeret,software,Done,19/01/2014 22:21,28/01/2014 22:37
+JBERET-23,Bug,Resolved,JBERET,JBeret,software,Done,18/01/2014 10:44,20/01/2014 10:50
+JBERET-22,Bug,Resolved,JBERET,JBeret,software,Done,17/01/2014 09:11,20/01/2014 17:00
+JBERET-21,Bug,Open,JBERET,JBeret,software,,15/01/2014 05:54,
+JBERET-18,Enhancement,Resolved,JBERET,JBeret,software,Done,10/12/2013 17:04,03/02/2014 23:01
+JBERET-17,Enhancement,Open,JBERET,JBeret,software,,09/12/2013 13:14,
+JBERET-8,Enhancement,Resolved,JBERET,JBeret,software,Done,26/11/2013 23:14,19/01/2014 10:46
+JBERET-7,Bug,Closed,JBERET,JBeret,software,Done,19/11/2013 22:07,20/11/2013 12:19
+JBERET-6,Enhancement,Closed,JBERET,JBeret,software,Done,19/11/2013 17:22,22/11/2013 15:34
+JBERET-5,Enhancement,Open,JBERET,JBeret,software,,19/11/2013 17:16,
+JBERET-4,Bug,Resolved,JBERET,JBeret,software,Done,16/11/2013 13:41,25/11/2013 11:28
+JBERET-3,Bug,Closed,JBERET,JBeret,software,Done,07/11/2013 10:49,09/11/2013 14:36
+JBERET-2,Bug,Closed,JBERET,JBeret,software,Can't Do,30/10/2013 08:47,30/10/2013 08:48
+JBERET-1,Enhancement,Open,JBERET,JBeret,software,,23/10/2013 10:44,

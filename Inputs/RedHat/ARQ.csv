@@ -1,0 +1,2141 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+ARQ-1,Task,Closed,ARQ,Arquillian,software,Done,06/08/2009 08:20,15/12/2009 07:59
+ARQ-10,Task,Closed,ARQ,Arquillian,software,Done,06/08/2009 08:23,25/12/2009 18:25
+ARQ-100,Patch,Closed,ARQ,Arquillian,software,Done,14/04/2010 07:33,14/04/2010 11:23
+ARQ-1001,Feature Request,Closed,ARQ,Arquillian,software,Done,13/06/2012 08:42,13/06/2012 08:47
+ARQ-1002,Bug,Open,ARQ,Arquillian,software,,18/06/2012 08:40,
+ARQ-1003,Feature Request,Open,ARQ,Arquillian,software,,21/06/2012 04:48,
+ARQ-1004,Feature Request,Open,ARQ,Arquillian,software,,21/06/2012 04:51,
+ARQ-1005,Feature Request,Open,ARQ,Arquillian,software,,21/06/2012 04:55,
+ARQ-1006,Feature Request,Open,ARQ,Arquillian,software,,21/06/2012 05:00,
+ARQ-1007,Feature Request,Open,ARQ,Arquillian,software,,21/06/2012 07:41,
+ARQ-1008,Bug,Closed,ARQ,Arquillian,software,Obsolete,22/06/2012 04:22,02/07/2015 06:53
+ARQ-1009,Bug,Closed,ARQ,Arquillian,software,Won't Do,22/06/2012 20:47,09/03/2014 12:51
+ARQ-101,Feature Request,Closed,ARQ,Arquillian,software,Done,15/04/2010 05:57,21/04/2010 10:02
+ARQ-1010,Feature Request,Open,ARQ,Arquillian,software,,26/06/2012 05:15,
+ARQ-1011,Feature Request,Open,ARQ,Arquillian,software,,26/06/2012 05:56,
+ARQ-1012,Bug,Closed,ARQ,Arquillian,software,Done,26/06/2012 08:26,18/03/2014 14:31
+ARQ-1013,Feature Request,Open,ARQ,Arquillian,software,,27/06/2012 17:33,
+ARQ-1014,Bug,Open,ARQ,Arquillian,software,,28/06/2012 08:30,
+ARQ-1015,Feature Request,Open,ARQ,Arquillian,software,,29/06/2012 02:23,
+ARQ-1016,Bug,Closed,ARQ,Arquillian,software,Won't Do,29/06/2012 12:12,07/08/2012 06:17
+ARQ-1017,Enhancement,Closed,ARQ,Arquillian,software,Done,01/07/2012 09:35,01/07/2012 12:01
+ARQ-1018,Bug,Open,ARQ,Arquillian,software,,03/07/2012 07:47,
+ARQ-1019,Task,Closed,ARQ,Arquillian,software,Done,04/07/2012 14:03,21/07/2012 14:04
+ARQ-102,Task,Closed,ARQ,Arquillian,software,Done,16/04/2010 01:47,20/04/2010 11:37
+ARQ-1020,Bug,Open,ARQ,Arquillian,software,,05/07/2012 06:06,
+ARQ-1021,Bug,Closed,ARQ,Arquillian,software,Done,06/07/2012 05:54,11/07/2012 03:50
+ARQ-1022,Bug,Closed,ARQ,Arquillian,software,Done,09/07/2012 07:22,09/07/2012 12:43
+ARQ-1023,Bug,Closed,ARQ,Arquillian,software,Done,10/07/2012 04:28,10/07/2012 04:39
+ARQ-1024,Feature Request,Closed,ARQ,Arquillian,software,Done,10/07/2012 07:00,23/07/2012 13:16
+ARQ-1025,Bug,Closed,ARQ,Arquillian,software,Duplicate,12/07/2012 09:30,13/07/2012 04:21
+ARQ-1026,Bug,Closed,ARQ,Arquillian,software,Done,12/07/2012 10:52,12/07/2012 10:58
+ARQ-1027,Bug,Closed,ARQ,Arquillian,software,Done,12/07/2012 12:08,18/02/2013 11:43
+ARQ-1028,Bug,Closed,ARQ,Arquillian,software,Won't Do,12/07/2012 16:37,01/10/2012 08:41
+ARQ-1029,Feature Request,Closed,ARQ,Arquillian,software,Done,13/07/2012 01:07,12/08/2012 13:10
+ARQ-103,Feature Request,Closed,ARQ,Arquillian,software,Done,16/04/2010 02:27,29/04/2010 15:06
+ARQ-1030,Bug,Closed,ARQ,Arquillian,software,Done,13/07/2012 08:31,16/07/2012 07:34
+ARQ-1031,Bug,Closed,ARQ,Arquillian,software,Done,16/07/2012 04:52,18/07/2012 08:40
+ARQ-1032,Feature Request,Resolved,ARQ,Arquillian,software,Won't Do,17/07/2012 08:52,02/03/2015 06:06
+ARQ-1033,Feature Request,Closed,ARQ,Arquillian,software,Done,18/07/2012 11:31,13/08/2012 08:21
+ARQ-1034,Release,Closed,ARQ,Arquillian,software,Done,21/07/2012 07:12,21/07/2012 16:20
+ARQ-1035,Feature Request,Closed,ARQ,Arquillian,software,Done,22/07/2012 10:24,23/07/2012 13:22
+ARQ-1036,Bug,Open,ARQ,Arquillian,software,,22/07/2012 15:25,
+ARQ-1037,Bug,Open,ARQ,Arquillian,software,,23/07/2012 03:45,
+ARQ-1038,Feature Request,Open,ARQ,Arquillian,software,,23/07/2012 04:38,
+ARQ-1039,Task,Closed,ARQ,Arquillian,software,Done,23/07/2012 05:05,23/07/2012 07:49
+ARQ-104,Bug,Closed,ARQ,Arquillian,software,Done,18/04/2010 09:07,21/04/2010 05:19
+ARQ-1040,Bug,Closed,ARQ,Arquillian,software,Done,23/07/2012 06:42,02/08/2013 17:02
+ARQ-1041,Enhancement,Closed,ARQ,Arquillian,software,Done,23/07/2012 07:37,23/07/2012 07:49
+ARQ-1042,Release,Closed,ARQ,Arquillian,software,Done,23/07/2012 13:23,25/07/2012 12:43
+ARQ-1043,Release,Closed,ARQ,Arquillian,software,Done,23/07/2012 17:21,24/07/2012 07:16
+ARQ-1044,Bug,Closed,ARQ,Arquillian,software,Done,24/07/2012 04:43,25/09/2012 08:58
+ARQ-1045,Enhancement,Closed,ARQ,Arquillian,software,Won't Do,24/07/2012 15:59,17/04/2014 11:25
+ARQ-1047,Bug,Closed,ARQ,Arquillian,software,Done,24/07/2012 16:42,03/09/2012 09:25
+ARQ-1048,Bug,Closed,ARQ,Arquillian,software,Done,27/07/2012 04:31,23/10/2012 15:25
+ARQ-1049,Bug,Open,ARQ,Arquillian,software,,27/07/2012 07:29,
+ARQ-105,Feature Request,Open,ARQ,Arquillian,software,,18/04/2010 20:29,
+ARQ-1050,Bug,Closed,ARQ,Arquillian,software,Won't Do,28/07/2012 10:07,03/08/2012 04:39
+ARQ-1051,Bug,Closed,ARQ,Arquillian,software,Done,30/07/2012 04:15,30/07/2012 10:03
+ARQ-1052,Component Upgrade,Closed,ARQ,Arquillian,software,Done,02/08/2012 05:38,02/08/2012 08:27
+ARQ-1053,Component Upgrade,Closed,ARQ,Arquillian,software,Done,02/08/2012 05:39,02/08/2012 08:27
+ARQ-1054,Task,Closed,ARQ,Arquillian,software,Done,02/08/2012 05:50,27/11/2012 02:58
+ARQ-1055,Task,Closed,ARQ,Arquillian,software,Done,02/08/2012 05:58,27/11/2012 03:14
+ARQ-1056,Feature Request,Closed,ARQ,Arquillian,software,Done,02/08/2012 06:07,27/11/2012 08:23
+ARQ-1057,Feature Request,Closed,ARQ,Arquillian,software,Done,02/08/2012 06:09,02/08/2012 08:27
+ARQ-1058,Feature Request,Closed,ARQ,Arquillian,software,Done,02/08/2012 15:12,13/08/2012 06:23
+ARQ-1059,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,03/08/2012 05:08,12/07/2013 09:04
+ARQ-106,Bug,Closed,ARQ,Arquillian,software,Done,21/04/2010 04:12,01/01/2011 03:51
+ARQ-1060,Enhancement,Closed,ARQ,Arquillian,software,Done,07/08/2012 06:10,27/11/2012 08:52
+ARQ-1061,Feature Request,Closed,ARQ,Arquillian,software,Done,07/08/2012 06:13,07/01/2013 10:15
+ARQ-1062,Bug,Closed,ARQ,Arquillian,software,Obsolete,08/08/2012 09:54,05/08/2013 06:46
+ARQ-1063,Bug,Closed,ARQ,Arquillian,software,Done,08/08/2012 13:23,18/10/2012 10:56
+ARQ-1064,Bug,Closed,ARQ,Arquillian,software,Done,09/08/2012 07:21,09/08/2012 07:45
+ARQ-1065,Feature Request,Closed,ARQ,Arquillian,software,Done,12/08/2012 12:15,12/08/2012 14:36
+ARQ-1066,Bug,Resolved,ARQ,Arquillian,software,Won't Do,13/08/2012 00:39,13/08/2012 02:24
+ARQ-1067,Release,Closed,ARQ,Arquillian,software,Done,13/08/2012 06:56,13/08/2012 07:31
+ARQ-107,Task,Closed,ARQ,Arquillian,software,Done,21/04/2010 04:52,22/04/2010 18:36
+ARQ-1070,Bug,Open,ARQ,Arquillian,software,,14/08/2012 04:10,
+ARQ-1071,Bug,Closed,ARQ,Arquillian,software,Done,14/08/2012 11:18,26/02/2014 11:51
+ARQ-1072,Bug,Open,ARQ,Arquillian,software,,14/08/2012 14:07,
+ARQ-1073,Feature Request,Closed,ARQ,Arquillian,software,Done,15/08/2012 10:56,15/08/2012 10:58
+ARQ-1074,Feature Request,Closed,ARQ,Arquillian,software,Done,15/08/2012 12:41,30/08/2012 13:16
+ARQ-1075,Bug,Closed,ARQ,Arquillian,software,Done,16/08/2012 20:25,19/08/2012 17:55
+ARQ-1076,Release,Closed,ARQ,Arquillian,software,Done,17/08/2012 11:32,17/08/2012 11:58
+ARQ-1077,Feature Request,Open,ARQ,Arquillian,software,,21/08/2012 21:38,
+ARQ-1078,Bug,Closed,ARQ,Arquillian,software,Duplicate,23/08/2012 07:24,27/08/2012 04:19
+ARQ-1079,Bug,Closed,ARQ,Arquillian,software,Done,28/08/2012 04:50,30/08/2012 06:21
+ARQ-108,Task,Closed,ARQ,Arquillian,software,Done,21/04/2010 05:46,19/10/2011 14:52
+ARQ-1080,Release,Closed,ARQ,Arquillian,software,Done,28/08/2012 16:00,31/08/2012 11:55
+ARQ-1081,Bug,Closed,ARQ,Arquillian,software,Done,29/08/2012 18:35,01/09/2012 16:37
+ARQ-1082,Feature Request,Resolved,ARQ,Arquillian,software,Done,30/08/2012 16:32,31/10/2013 12:49
+ARQ-1083,Bug,Closed,ARQ,Arquillian,software,Done,31/08/2012 03:03,31/08/2012 04:45
+ARQ-1084,Enhancement,Closed,ARQ,Arquillian,software,Done,31/08/2012 04:44,31/08/2012 11:53
+ARQ-1085,Enhancement,Closed,ARQ,Arquillian,software,Done,31/08/2012 13:02,01/09/2012 05:36
+ARQ-1086,Bug,Closed,ARQ,Arquillian,software,Done,31/08/2012 15:13,20/09/2012 10:03
+ARQ-1087,Bug,Closed,ARQ,Arquillian,software,Done,02/09/2012 15:38,22/09/2012 14:28
+ARQ-1088,Component Upgrade,Closed,ARQ,Arquillian,software,Done,03/09/2012 08:39,03/09/2012 08:52
+ARQ-1089,Enhancement,Closed,ARQ,Arquillian,software,Won't Do,03/09/2012 17:46,11/12/2012 12:52
+ARQ-109,Feature Request,Closed,ARQ,Arquillian,software,Done,21/04/2010 12:27,27/04/2011 15:46
+ARQ-1090,Bug,Closed,ARQ,Arquillian,software,Done,04/09/2012 09:30,04/09/2012 09:47
+ARQ-1091,Bug,Closed,ARQ,Arquillian,software,Done,04/09/2012 11:06,10/09/2012 17:39
+ARQ-1092,Task,Open,ARQ,Arquillian,software,,06/09/2012 03:17,
+ARQ-1093,Feature Request,Closed,ARQ,Arquillian,software,Done,06/09/2012 14:05,20/09/2012 16:32
+ARQ-1094,Bug,Closed,ARQ,Arquillian,software,Done,06/09/2012 16:37,22/09/2012 13:31
+ARQ-1095,Release,Closed,ARQ,Arquillian,software,Done,10/09/2012 17:13,10/09/2012 17:44
+ARQ-1096,Enhancement,Open,ARQ,Arquillian,software,,11/09/2012 18:18,
+ARQ-1097,Feature Request,Open,ARQ,Arquillian,software,,12/09/2012 08:11,
+ARQ-1098,Bug,Closed,ARQ,Arquillian,software,Obsolete,12/09/2012 09:00,22/09/2013 17:05
+ARQ-1099,Task,Open,ARQ,Arquillian,software,,12/09/2012 10:02,
+ARQ-11,Task,Closed,ARQ,Arquillian,software,Duplicate,06/08/2009 08:24,15/07/2010 17:33
+ARQ-110,Bug,Closed,ARQ,Arquillian,software,Done,21/04/2010 12:36,02/02/2011 17:41
+ARQ-1100,Bug,Closed,ARQ,Arquillian,software,Done,13/09/2012 08:25,20/09/2012 13:49
+ARQ-1101,Bug,Closed,ARQ,Arquillian,software,Done,15/09/2012 10:27,04/10/2012 08:11
+ARQ-1102,Feature Request,Closed,ARQ,Arquillian,software,Done,17/09/2012 07:22,18/10/2012 09:55
+ARQ-1103,Enhancement,Open,ARQ,Arquillian,software,,17/09/2012 09:47,
+ARQ-1104,Feature Request,Closed,ARQ,Arquillian,software,Done,17/09/2012 13:57,29/05/2013 10:06
+ARQ-1105,Feature Request,Closed,ARQ,Arquillian,software,Done,17/09/2012 13:58,12/11/2012 08:46
+ARQ-1106,Feature Request,Closed,ARQ,Arquillian,software,Done,17/09/2012 13:59,12/11/2012 08:46
+ARQ-1107,Feature Request,Closed,ARQ,Arquillian,software,Done,17/09/2012 14:03,26/06/2014 16:49
+ARQ-1108,Feature Request,Closed,ARQ,Arquillian,software,Done,17/09/2012 16:08,03/03/2013 12:00
+ARQ-1109,Feature Request,Open,ARQ,Arquillian,software,,18/09/2012 04:47,
+ARQ-111,Task,Closed,ARQ,Arquillian,software,Done,21/04/2010 18:27,22/04/2010 04:51
+ARQ-1110,Bug,Closed,ARQ,Arquillian,software,Done,18/09/2012 05:43,20/09/2012 03:40
+ARQ-1111,Bug,Closed,ARQ,Arquillian,software,Done,18/09/2012 10:42,26/08/2013 08:46
+ARQ-1113,Bug,Closed,ARQ,Arquillian,software,Done,19/09/2012 03:44,19/09/2012 03:48
+ARQ-1114,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,19/09/2012 08:38,30/06/2013 16:19
+ARQ-1115,Task,Closed,ARQ,Arquillian,software,Done,19/09/2012 09:27,11/10/2012 16:15
+ARQ-1116,Task,Closed,ARQ,Arquillian,software,Done,19/09/2012 09:40,11/10/2012 16:31
+ARQ-1117,Enhancement,Closed,ARQ,Arquillian,software,Done,19/09/2012 09:53,17/10/2012 10:05
+ARQ-1118,Bug,Closed,ARQ,Arquillian,software,Done,19/09/2012 15:02,21/09/2012 05:07
+ARQ-1119,Feature Request,Closed,ARQ,Arquillian,software,Done,20/09/2012 03:53,21/09/2012 05:08
+ARQ-112,Task,Closed,ARQ,Arquillian,software,Done,21/04/2010 19:11,22/04/2010 07:54
+ARQ-1120,Enhancement,Closed,ARQ,Arquillian,software,Done,20/09/2012 17:00,12/10/2012 09:44
+ARQ-1121,Feature Request,Closed,ARQ,Arquillian,software,Done,21/09/2012 05:11,21/09/2012 08:13
+ARQ-1122,Enhancement,Closed,ARQ,Arquillian,software,Done,21/09/2012 09:33,16/10/2012 17:44
+ARQ-1123,Release,Closed,ARQ,Arquillian,software,Done,24/09/2012 10:16,25/09/2012 08:56
+ARQ-1124,Task,Resolved,ARQ,Arquillian,software,Done,25/09/2012 04:00,17/10/2012 08:10
+ARQ-1125,Feature Request,Open,ARQ,Arquillian,software,,26/09/2012 09:46,
+ARQ-1126,Feature Request,Open,ARQ,Arquillian,software,,26/09/2012 09:48,
+ARQ-1127,Bug,Closed,ARQ,Arquillian,software,Done,01/10/2012 09:24,01/10/2012 17:47
+ARQ-1128,Component Upgrade,Resolved,ARQ,Arquillian,software,Done,02/10/2012 17:42,18/06/2013 11:03
+ARQ-1129,Task,Closed,ARQ,Arquillian,software,Done,02/10/2012 17:44,11/04/2017 14:01
+ARQ-113,Bug,Closed,ARQ,Arquillian,software,Done,22/04/2010 16:38,24/04/2010 16:49
+ARQ-1130,Feature Request,Open,ARQ,Arquillian,software,,03/10/2012 05:51,
+ARQ-1131,Enhancement,Reopened,ARQ,Arquillian,software,,04/10/2012 09:22,
+ARQ-1132,Bug,Closed,ARQ,Arquillian,software,Done,05/10/2012 07:46,22/11/2012 07:10
+ARQ-1133,Component Upgrade,Closed,ARQ,Arquillian,software,Done,05/10/2012 08:58,16/10/2012 17:31
+ARQ-1134,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,05/10/2012 14:24,04/02/2013 12:12
+ARQ-1135,Bug,Open,ARQ,Arquillian,software,,06/10/2012 01:33,
+ARQ-1136,Enhancement,Resolved,ARQ,Arquillian,software,Duplicate,07/10/2012 10:07,09/10/2012 07:14
+ARQ-1137,Enhancement,Closed,ARQ,Arquillian,software,Done,08/10/2012 06:30,16/10/2012 04:10
+ARQ-1138,Feature Request,Closed,ARQ,Arquillian,software,Done,08/10/2012 08:01,09/01/2013 02:52
+ARQ-1139,Feature Request,Open,ARQ,Arquillian,software,,08/10/2012 08:03,
+ARQ-114,Task,Closed,ARQ,Arquillian,software,Done,23/04/2010 07:24,24/04/2010 16:48
+ARQ-1140,Component Upgrade,Closed,ARQ,Arquillian,software,Done,08/10/2012 08:05,18/06/2013 09:31
+ARQ-1141,Enhancement,Closed,ARQ,Arquillian,software,Won't Do,08/10/2012 08:07,28/02/2013 05:37
+ARQ-1142,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,08/10/2012 08:10,20/06/2013 04:02
+ARQ-1143,Feature Request,Closed,ARQ,Arquillian,software,Done,09/10/2012 04:50,19/06/2013 18:58
+ARQ-1144,Feature Request,Closed,ARQ,Arquillian,software,Done,09/10/2012 04:53,19/06/2013 19:14
+ARQ-1145,Feature Request,Open,ARQ,Arquillian,software,,09/10/2012 06:11,
+ARQ-1146,Bug,Closed,ARQ,Arquillian,software,Done,09/10/2012 07:10,11/12/2012 14:01
+ARQ-1147,Feature Request,Closed,ARQ,Arquillian,software,Done,09/10/2012 07:49,06/04/2014 09:06
+ARQ-1148,Feature Request,Closed,ARQ,Arquillian,software,Duplicate,09/10/2012 09:27,02/11/2012 11:03
+ARQ-1149,Feature Request,Closed,ARQ,Arquillian,software,Done,09/10/2012 10:53,16/11/2012 15:09
+ARQ-115,Feature Request,Closed,ARQ,Arquillian,software,Done,23/04/2010 15:58,24/04/2010 10:37
+ARQ-1150,Bug,Closed,ARQ,Arquillian,software,Won't Do,11/10/2012 09:02,11/10/2012 09:46
+ARQ-1151,Task,Closed,ARQ,Arquillian,software,Done,11/10/2012 16:16,11/10/2012 16:25
+ARQ-1152,Feature Request,Resolved,ARQ,Arquillian,software,Done,15/10/2012 03:20,15/10/2012 10:32
+ARQ-1153,Feature Request,Resolved,ARQ,Arquillian,software,Done,15/10/2012 03:31,16/10/2012 05:04
+ARQ-1154,Bug,Closed,ARQ,Arquillian,software,Done,15/10/2012 05:21,28/05/2013 04:23
+ARQ-1155,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,15/10/2012 09:14,16/10/2012 03:04
+ARQ-1156,Enhancement,Closed,ARQ,Arquillian,software,Done,16/10/2012 03:20,16/10/2012 04:06
+ARQ-1157,Feature Request,Closed,ARQ,Arquillian,software,Done,16/10/2012 04:26,16/11/2012 15:11
+ARQ-1159,Feature Request,Resolved,ARQ,Arquillian,software,Done,16/10/2012 05:05,16/10/2012 07:58
+ARQ-116,Feature Request,Closed,ARQ,Arquillian,software,Done,23/04/2010 16:00,24/04/2010 10:37
+ARQ-1160,Feature Request,Closed,ARQ,Arquillian,software,Done,17/10/2012 10:05,17/10/2012 11:11
+ARQ-1161,Release,Closed,ARQ,Arquillian,software,Done,17/10/2012 15:14,17/10/2012 15:27
+ARQ-1162,Release,Closed,ARQ,Arquillian,software,Done,18/10/2012 09:26,18/10/2012 10:15
+ARQ-1163,Bug,Closed,ARQ,Arquillian,software,Done,19/10/2012 07:40,19/10/2012 09:07
+ARQ-1164,Feature Request,Closed,ARQ,Arquillian,software,Done,19/10/2012 08:47,19/10/2012 08:53
+ARQ-1165,Enhancement,Closed,ARQ,Arquillian,software,Done,19/10/2012 09:52,19/10/2012 09:57
+ARQ-1166,Enhancement,Open,ARQ,Arquillian,software,,22/10/2012 04:24,
+ARQ-1167,Bug,Closed,ARQ,Arquillian,software,Done,23/10/2012 04:01,01/03/2013 14:19
+ARQ-1168,Feature Request,Closed,ARQ,Arquillian,software,Done,23/10/2012 11:51,02/11/2012 12:15
+ARQ-1169,Feature Request,Closed,ARQ,Arquillian,software,Done,23/10/2012 23:01,02/11/2012 21:23
+ARQ-117,Feature Request,Closed,ARQ,Arquillian,software,Done,24/04/2010 07:30,24/04/2010 15:01
+ARQ-1170,Component Upgrade,Closed,ARQ,Arquillian,software,Done,24/10/2012 02:08,24/10/2012 02:39
+ARQ-1171,Release,Closed,ARQ,Arquillian,software,Done,24/10/2012 03:06,25/10/2012 02:53
+ARQ-1172,Feature Request,Closed,ARQ,Arquillian,software,Done,24/10/2012 22:35,05/12/2012 14:50
+ARQ-1173,Enhancement,Closed,ARQ,Arquillian,software,Done,24/10/2012 22:38,24/10/2012 22:49
+ARQ-1174,Bug,Closed,ARQ,Arquillian,software,Done,29/10/2012 12:34,11/12/2012 11:32
+ARQ-1175,Release,Closed,ARQ,Arquillian,software,Done,29/10/2012 18:58,30/10/2012 13:02
+ARQ-1176,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,06/10/2012 07:43,02/07/2015 06:39
+ARQ-1177,Feature Request,Closed,ARQ,Arquillian,software,Done,30/10/2012 11:13,24/02/2013 09:27
+ARQ-1178,Bug,Closed,ARQ,Arquillian,software,Done,30/10/2012 11:14,14/10/2015 06:44
+ARQ-1179,Feature Request,Open,ARQ,Arquillian,software,,19/09/2012 15:21,
+ARQ-118,Bug,Closed,ARQ,Arquillian,software,Done,24/04/2010 08:14,24/04/2010 10:33
+ARQ-1181,Bug,Open,ARQ,Arquillian,software,,01/11/2012 19:44,
+ARQ-1182,Release,Closed,ARQ,Arquillian,software,Done,02/11/2012 12:16,02/11/2012 12:38
+ARQ-1183,Enhancement,Closed,ARQ,Arquillian,software,Done,03/11/2012 15:40,09/11/2012 04:05
+ARQ-1184,Enhancement,Closed,ARQ,Arquillian,software,Done,04/11/2012 02:54,09/11/2012 04:06
+ARQ-1185,Enhancement,Closed,ARQ,Arquillian,software,Done,04/11/2012 13:24,16/11/2012 12:07
+ARQ-1186,Enhancement,Closed,ARQ,Arquillian,software,Done,05/11/2012 04:56,16/11/2012 12:07
+ARQ-1187,Task,Resolved,ARQ,Arquillian,software,Done,06/11/2012 00:21,06/11/2012 00:24
+ARQ-1188,Bug,Open,ARQ,Arquillian,software,,08/11/2012 05:37,
+ARQ-1189,Enhancement,Open,ARQ,Arquillian,software,,09/11/2012 09:13,
+ARQ-119,Task,Closed,ARQ,Arquillian,software,Done,24/04/2010 16:23,24/04/2010 16:40
+ARQ-1190,Feature Request,Closed,ARQ,Arquillian,software,Done,09/11/2012 10:51,01/09/2013 15:45
+ARQ-1191,Bug,Closed,ARQ,Arquillian,software,Done,12/11/2012 14:31,27/06/2014 14:00
+ARQ-1193,Feature Request,Resolved,ARQ,Arquillian,software,Done,13/11/2012 15:29,13/11/2012 15:41
+ARQ-1194,Feature Request,Open,ARQ,Arquillian,software,,14/11/2012 02:28,
+ARQ-1195,Bug,Closed,ARQ,Arquillian,software,Done,14/11/2012 02:34,27/11/2012 09:11
+ARQ-1196,Bug,Closed,ARQ,Arquillian,software,Won't Do,14/11/2012 02:35,14/11/2012 14:40
+ARQ-1197,Bug,Closed,ARQ,Arquillian,software,Done,14/11/2012 02:37,14/12/2012 11:36
+ARQ-1198,Bug,Open,ARQ,Arquillian,software,,14/11/2012 02:42,
+ARQ-1199,Feature Request,Open,ARQ,Arquillian,software,,14/11/2012 14:48,
+ARQ-12,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,24/08/2009 15:59,24/05/2011 10:53
+ARQ-120,Bug,Closed,ARQ,Arquillian,software,Done,25/04/2010 18:29,23/05/2010 15:46
+ARQ-1200,Release,Closed,ARQ,Arquillian,software,Done,16/11/2012 12:19,16/11/2012 12:31
+ARQ-1201,Bug,Open,ARQ,Arquillian,software,,16/11/2012 14:14,
+ARQ-1202,Bug,Open,ARQ,Arquillian,software,,19/11/2012 12:45,
+ARQ-1203,Feature Request,Open,ARQ,Arquillian,software,,20/11/2012 01:22,
+ARQ-1204,Feature Request,Closed,ARQ,Arquillian,software,Done,20/11/2012 09:42,07/01/2013 10:13
+ARQ-1205,Feature Request,Open,ARQ,Arquillian,software,,20/11/2012 11:36,
+ARQ-1206,Feature Request,Closed,ARQ,Arquillian,software,Done,20/11/2012 12:53,24/02/2013 09:27
+ARQ-1207,Feature Request,Open,ARQ,Arquillian,software,,20/11/2012 13:29,
+ARQ-1208,Bug,Closed,ARQ,Arquillian,software,Done,20/11/2012 15:27,06/12/2012 14:48
+ARQ-1209,Enhancement,Closed,ARQ,Arquillian,software,Done,20/11/2012 15:28,26/08/2013 07:42
+ARQ-121,Task,Closed,ARQ,Arquillian,software,Done,26/04/2010 08:36,24/05/2010 09:02
+ARQ-1210,Enhancement,Open,ARQ,Arquillian,software,,20/11/2012 16:39,
+ARQ-1211,Enhancement,Closed,ARQ,Arquillian,software,Done,20/11/2012 16:49,21/11/2012 06:35
+ARQ-1212,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,20/11/2012 18:47,21/04/2017 06:52
+ARQ-1213,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,20/11/2012 18:52,21/04/2017 06:50
+ARQ-1214,Enhancement,Open,ARQ,Arquillian,software,,21/11/2012 03:49,
+ARQ-1215,Enhancement,Closed,ARQ,Arquillian,software,Done,21/11/2012 07:05,21/11/2012 07:10
+ARQ-1216,Enhancement,Open,ARQ,Arquillian,software,,21/11/2012 16:33,
+ARQ-1217,Bug,Closed,ARQ,Arquillian,software,Done,22/11/2012 05:59,22/11/2012 07:11
+ARQ-1218,Enhancement,Closed,ARQ,Arquillian,software,Done,22/11/2012 06:02,22/11/2012 07:12
+ARQ-1219,Feature Request,Closed,ARQ,Arquillian,software,Done,24/11/2012 09:38,27/11/2012 07:20
+ARQ-122,Task,Closed,ARQ,Arquillian,software,Done,26/04/2010 08:42,22/05/2010 11:03
+ARQ-1220,Feature Request,Closed,ARQ,Arquillian,software,Done,24/11/2012 09:50,27/11/2012 07:20
+ARQ-1221,Feature Request,Closed,ARQ,Arquillian,software,Done,25/11/2012 08:05,20/07/2013 12:19
+ARQ-1222,Bug,Closed,ARQ,Arquillian,software,Duplicate,26/11/2012 12:30,26/11/2012 14:29
+ARQ-1223,Enhancement,Closed,ARQ,Arquillian,software,Done,27/11/2012 05:17,27/11/2012 05:23
+ARQ-1224,Enhancement,Closed,ARQ,Arquillian,software,Done,27/11/2012 05:41,27/11/2012 08:33
+ARQ-1225,Release,Closed,ARQ,Arquillian,software,Done,27/11/2012 07:38,27/11/2012 08:21
+ARQ-1226,Bug,Closed,ARQ,Arquillian,software,Done,27/11/2012 11:01,27/11/2012 11:12
+ARQ-1227,Release,Closed,ARQ,Arquillian,software,Done,27/11/2012 11:05,27/11/2012 11:13
+ARQ-1228,Bug,Coding In Progress,ARQ,Arquillian,software,,27/11/2012 12:52,
+ARQ-1229,Bug,Resolved,ARQ,Arquillian,software,Done,30/11/2012 11:57,03/12/2012 08:01
+ARQ-123,Task,Closed,ARQ,Arquillian,software,Done,27/04/2010 03:51,31/05/2011 11:56
+ARQ-1230,Enhancement,Closed,ARQ,Arquillian,software,Done,30/11/2012 18:30,17/02/2013 14:26
+ARQ-1231,Feature Request,Closed,ARQ,Arquillian,software,Done,03/12/2012 07:25,11/12/2012 13:58
+ARQ-1232,Bug,Closed,ARQ,Arquillian,software,Done,03/12/2012 08:06,03/12/2012 22:52
+ARQ-1233,Task,Closed,ARQ,Arquillian,software,Done,05/12/2012 07:34,13/12/2012 05:53
+ARQ-1234,Bug,Open,ARQ,Arquillian,software,,08/12/2012 04:43,
+ARQ-1235,Feature Request,Open,ARQ,Arquillian,software,,10/12/2012 11:25,
+ARQ-1236,Enhancement,Closed,ARQ,Arquillian,software,Done,11/12/2012 13:13,14/12/2012 10:43
+ARQ-1237,Enhancement,Closed,ARQ,Arquillian,software,Done,12/12/2012 04:29,21/09/2015 15:43
+ARQ-1238,Feature Request,Open,ARQ,Arquillian,software,,12/12/2012 04:35,
+ARQ-1239,Enhancement,Closed,ARQ,Arquillian,software,Won't Do,12/12/2012 04:37,20/06/2013 03:57
+ARQ-124,Bug,Closed,ARQ,Arquillian,software,Done,27/04/2010 06:12,02/02/2011 17:20
+ARQ-1240,Feature Request,Open,ARQ,Arquillian,software,,12/12/2012 04:43,
+ARQ-1241,Enhancement,Closed,ARQ,Arquillian,software,Won't Do,12/12/2012 04:44,20/06/2013 03:58
+ARQ-1242,Enhancement,Resolved,ARQ,Arquillian,software,Won't Do,12/12/2012 04:45,15/10/2015 16:05
+ARQ-1243,Feature Request,Open,ARQ,Arquillian,software,,12/12/2012 05:04,
+ARQ-1244,Feature Request,Open,ARQ,Arquillian,software,,13/12/2012 06:15,
+ARQ-1245,Feature Request,Closed,ARQ,Arquillian,software,Done,13/12/2012 10:51,27/08/2013 04:10
+ARQ-1246,Enhancement,Closed,ARQ,Arquillian,software,Done,14/12/2012 10:29,14/12/2012 10:42
+ARQ-1247,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,15/12/2012 17:15,04/01/2013 14:47
+ARQ-1248,Feature Request,Closed,ARQ,Arquillian,software,Done,16/12/2012 13:38,16/12/2012 13:47
+ARQ-1249,Feature Request,Closed,ARQ,Arquillian,software,Duplicate,17/12/2012 05:24,03/06/2013 23:33
+ARQ-125,Feature Request,Open,ARQ,Arquillian,software,,28/04/2010 14:45,
+ARQ-1250,Bug,Closed,ARQ,Arquillian,software,Duplicate,20/12/2012 08:09,28/05/2013 14:47
+ARQ-1251,Bug,Closed,ARQ,Arquillian,software,Done,20/12/2012 11:52,09/01/2013 03:37
+ARQ-1252,Component Upgrade,Closed,ARQ,Arquillian,software,Done,21/12/2012 06:01,09/01/2013 03:29
+ARQ-1253,Bug,Open,ARQ,Arquillian,software,,21/12/2012 12:13,
+ARQ-1254,Bug,Closed,ARQ,Arquillian,software,Done,21/12/2012 12:16,21/12/2012 12:18
+ARQ-1255,Bug,Pull Request Sent,ARQ,Arquillian,software,,04/01/2013 11:01,
+ARQ-1256,Enhancement,Open,ARQ,Arquillian,software,,06/01/2013 19:59,
+ARQ-1257,Enhancement,Open,ARQ,Arquillian,software,,07/01/2013 07:31,
+ARQ-1258,Bug,Closed,ARQ,Arquillian,software,Done,07/01/2013 10:49,09/01/2013 03:35
+ARQ-1259,Feature Request,Closed,ARQ,Arquillian,software,Done,07/01/2013 10:51,09/01/2013 03:35
+ARQ-126,Bug,Closed,ARQ,Arquillian,software,Done,28/04/2010 19:51,23/05/2010 16:06
+ARQ-1260,Feature Request,Open,ARQ,Arquillian,software,,12/10/2012 14:26,
+ARQ-1261,Feature Request,Resolved,ARQ,Arquillian,software,Done,08/01/2013 06:42,30/10/2013 06:54
+ARQ-1262,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,08/01/2013 06:48,20/06/2013 03:44
+ARQ-1263,Feature Request,Open,ARQ,Arquillian,software,,08/01/2013 07:48,
+ARQ-1264,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,09/01/2013 04:39,11/01/2017 06:17
+ARQ-1265,Bug,Closed,ARQ,Arquillian,software,Done,09/01/2013 04:50,22/09/2013 17:04
+ARQ-1266,Bug,Closed,ARQ,Arquillian,software,Done,09/01/2013 04:53,09/01/2013 07:36
+ARQ-1267,Component Upgrade,Closed,ARQ,Arquillian,software,Done,09/01/2013 07:06,09/01/2013 07:35
+ARQ-1268,Task,Closed,ARQ,Arquillian,software,Done,11/01/2013 06:54,15/02/2013 05:08
+ARQ-1269,Feature Request,Closed,ARQ,Arquillian,software,Done,11/01/2013 23:02,21/02/2013 16:06
+ARQ-127,Feature Request,Open,ARQ,Arquillian,software,,04/05/2010 09:17,
+ARQ-1270,Feature Request,Closed,ARQ,Arquillian,software,Done,11/01/2013 23:03,21/02/2013 15:20
+ARQ-1271,Feature Request,Open,ARQ,Arquillian,software,,13/01/2013 16:54,
+ARQ-1272,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,14/01/2013 11:48,15/10/2015 16:15
+ARQ-1273,Feature Request,Closed,ARQ,Arquillian,software,Done,15/01/2013 10:53,22/09/2013 17:03
+ARQ-1274,Feature Request,Closed,ARQ,Arquillian,software,Done,16/01/2013 03:56,03/06/2013 22:46
+ARQ-1275,Bug,Open,ARQ,Arquillian,software,,16/01/2013 05:10,
+ARQ-1277,Feature Request,Closed,ARQ,Arquillian,software,Done,20/01/2013 18:34,23/02/2013 19:19
+ARQ-1278,Feature Request,Open,ARQ,Arquillian,software,,21/01/2013 06:12,
+ARQ-1279,Feature Request,Closed,ARQ,Arquillian,software,Done,22/01/2013 15:22,23/01/2013 14:57
+ARQ-128,Feature Request,Closed,ARQ,Arquillian,software,Done,04/05/2010 09:26,13/07/2010 18:15
+ARQ-1280,Component Upgrade,Closed,ARQ,Arquillian,software,Done,23/01/2013 09:42,23/01/2013 09:44
+ARQ-1281,Component Upgrade,Closed,ARQ,Arquillian,software,Done,24/01/2013 08:28,15/02/2013 05:08
+ARQ-1282,Bug,Open,ARQ,Arquillian,software,,31/01/2013 07:00,
+ARQ-1283,Feature Request,Closed,ARQ,Arquillian,software,Done,31/01/2013 07:25,31/01/2013 09:38
+ARQ-1284,Feature Request,Closed,ARQ,Arquillian,software,Done,31/01/2013 07:40,13/05/2013 16:48
+ARQ-1285,Release,Closed,ARQ,Arquillian,software,Done,31/01/2013 11:20,31/01/2013 11:26
+ARQ-1286,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,02/02/2013 07:02,23/05/2017 04:52
+ARQ-1287,Bug,Closed,ARQ,Arquillian,software,Done,04/02/2013 08:24,03/06/2013 17:52
+ARQ-1288,Feature Request,Open,ARQ,Arquillian,software,,04/02/2013 08:45,
+ARQ-1289,Feature Request,Pull Request Sent,ARQ,Arquillian,software,,06/02/2013 10:39,
+ARQ-129,Task,Closed,ARQ,Arquillian,software,Done,04/05/2010 09:27,05/05/2010 06:56
+ARQ-1290,Enhancement,Closed,ARQ,Arquillian,software,Duplicate,06/02/2013 13:30,19/02/2013 05:56
+ARQ-1291,Bug,Closed,ARQ,Arquillian,software,Done,06/02/2013 13:33,25/03/2013 11:12
+ARQ-1292,Task,Open,ARQ,Arquillian,software,,07/02/2013 12:06,
+ARQ-1293,Feature Request,Closed,ARQ,Arquillian,software,Done,12/02/2013 17:57,12/02/2013 18:32
+ARQ-1294,Bug,Closed,ARQ,Arquillian,software,Done,13/02/2013 04:54,06/03/2013 12:02
+ARQ-1295,Bug,Open,ARQ,Arquillian,software,,13/02/2013 05:26,
+ARQ-1296,Feature Request,Open,ARQ,Arquillian,software,,13/02/2013 08:27,
+ARQ-1297,Bug,Open,ARQ,Arquillian,software,,13/02/2013 08:33,
+ARQ-1298,Component Upgrade,Closed,ARQ,Arquillian,software,Done,14/02/2013 10:00,28/06/2013 12:20
+ARQ-1299,Bug,Closed,ARQ,Arquillian,software,Done,14/02/2013 13:25,02/03/2013 09:45
+ARQ-13,Feature Request,Open,ARQ,Arquillian,software,,06/08/2009 14:48,
+ARQ-130,Task,Closed,ARQ,Arquillian,software,Done,04/05/2010 09:31,05/05/2010 07:21
+ARQ-1300,Bug,Closed,ARQ,Arquillian,software,Done,14/02/2013 16:31,01/03/2013 17:15
+ARQ-1301,Bug,Open,ARQ,Arquillian,software,,16/02/2013 09:08,
+ARQ-1302,Feature Request,Closed,ARQ,Arquillian,software,Done,17/02/2013 10:37,17/02/2013 13:58
+ARQ-1303,Enhancement,Open,ARQ,Arquillian,software,,18/02/2013 01:30,
+ARQ-1304,Feature Request,Closed,ARQ,Arquillian,software,Done,20/02/2013 12:47,16/06/2013 19:04
+ARQ-1305,Feature Request,Closed,ARQ,Arquillian,software,Done,20/02/2013 12:55,02/03/2013 21:55
+ARQ-1306,Release,Closed,ARQ,Arquillian,software,Done,23/02/2013 09:08,23/02/2013 09:46
+ARQ-1307,Feature Request,Closed,ARQ,Arquillian,software,Done,08/10/2012 08:18,24/02/2013 09:27
+ARQ-1308,Component Upgrade,Closed,ARQ,Arquillian,software,Done,24/02/2013 08:11,26/02/2013 06:02
+ARQ-1309,Bug,Reopened,ARQ,Arquillian,software,,25/02/2013 03:34,
+ARQ-131,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,04/05/2010 09:59,02/03/2012 03:03
+ARQ-1310,Component Upgrade,Closed,ARQ,Arquillian,software,Done,25/02/2013 07:02,26/02/2013 06:02
+ARQ-1311,Bug,Closed,ARQ,Arquillian,software,Done,25/02/2013 10:07,26/11/2013 09:24
+ARQ-1312,Feature Request,Closed,ARQ,Arquillian,software,Done,26/02/2013 04:10,28/02/2013 04:38
+ARQ-1313,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,26/02/2013 05:11,02/09/2013 04:53
+ARQ-1314,Enhancement,Closed,ARQ,Arquillian,software,Done,26/02/2013 05:19,26/02/2013 06:04
+ARQ-1315,Feature Request,Closed,ARQ,Arquillian,software,Done,26/02/2013 08:39,26/08/2013 12:41
+ARQ-1317,Feature Request,Closed,ARQ,Arquillian,software,Done,26/02/2013 15:22,27/02/2013 16:15
+ARQ-1318,Enhancement,Open,ARQ,Arquillian,software,,26/02/2013 17:04,
+ARQ-1319,Feature Request,Closed,ARQ,Arquillian,software,Done,28/02/2013 04:31,11/03/2013 13:59
+ARQ-132,Task,Closed,ARQ,Arquillian,software,Done,04/05/2010 14:03,07/05/2010 07:35
+ARQ-1320,Bug,Closed,ARQ,Arquillian,software,Done,28/02/2013 15:15,12/03/2013 04:08
+ARQ-1321,Feature Request,Pull Request Sent,ARQ,Arquillian,software,,28/02/2013 19:31,
+ARQ-1322,Feature Request,Open,ARQ,Arquillian,software,,02/03/2013 12:36,
+ARQ-1323,Feature Request,Open,ARQ,Arquillian,software,,02/03/2013 12:50,
+ARQ-1324,Bug,Closed,ARQ,Arquillian,software,Obsolete,04/03/2013 03:39,18/06/2013 09:35
+ARQ-1325,Enhancement,Closed,ARQ,Arquillian,software,Done,04/03/2013 03:47,18/06/2013 09:31
+ARQ-1326,Bug,Closed,ARQ,Arquillian,software,Done,04/03/2013 04:38,30/05/2013 05:40
+ARQ-1327,Bug,Closed,ARQ,Arquillian,software,Done,04/03/2013 07:01,02/03/2014 19:58
+ARQ-1328,Feature Request,Open,ARQ,Arquillian,software,,05/03/2013 08:05,
+ARQ-1329,Feature Request,Open,ARQ,Arquillian,software,,05/03/2013 08:06,
+ARQ-133,Task,Closed,ARQ,Arquillian,software,Done,05/05/2010 12:27,23/05/2010 15:52
+ARQ-1330,Feature Request,Open,ARQ,Arquillian,software,,23/09/2011 14:14,
+ARQ-1331,Feature Request,Open,ARQ,Arquillian,software,,05/03/2013 16:17,
+ARQ-1332,Feature Request,Open,ARQ,Arquillian,software,,06/03/2013 09:47,
+ARQ-1333,Feature Request,Closed,ARQ,Arquillian,software,Done,06/03/2013 10:04,17/03/2013 04:25
+ARQ-1336,Feature Request,Open,ARQ,Arquillian,software,,06/03/2013 10:43,
+ARQ-1337,Feature Request,Closed,ARQ,Arquillian,software,Duplicate,06/03/2013 10:45,30/05/2017 03:43
+ARQ-1338,Feature Request,Closed,ARQ,Arquillian,software,Done,06/03/2013 11:35,24/02/2014 16:34
+ARQ-1339,Feature Request,Open,ARQ,Arquillian,software,,06/03/2013 11:35,
+ARQ-134,Task,Closed,ARQ,Arquillian,software,Done,07/05/2010 13:51,07/05/2010 16:28
+ARQ-1340,Bug,Closed,ARQ,Arquillian,software,Done,06/03/2013 11:53,08/12/2015 07:50
+ARQ-1341,Feature Request,Closed,ARQ,Arquillian,software,Done,06/03/2013 14:13,23/10/2013 15:26
+ARQ-1342,Task,Closed,ARQ,Arquillian,software,Done,06/03/2013 17:32,06/03/2013 17:48
+ARQ-1343,Task,Closed,ARQ,Arquillian,software,Done,07/03/2013 08:50,07/03/2013 09:00
+ARQ-1344,Release,Closed,ARQ,Arquillian,software,Done,07/03/2013 10:25,07/03/2013 11:22
+ARQ-1345,Bug,Closed,ARQ,Arquillian,software,Done,07/03/2013 11:08,03/06/2013 23:26
+ARQ-1346,Bug,Open,ARQ,Arquillian,software,,08/03/2013 01:10,
+ARQ-1347,Feature Request,Closed,ARQ,Arquillian,software,Done,08/03/2013 01:54,18/06/2013 17:34
+ARQ-1348,Release,Closed,ARQ,Arquillian,software,Done,08/03/2013 05:07,08/03/2013 05:17
+ARQ-1349,Component Upgrade,Closed,ARQ,Arquillian,software,Done,11/03/2013 02:20,11/03/2013 08:09
+ARQ-135,Bug,Closed,ARQ,Arquillian,software,Done,07/05/2010 14:38,07/05/2010 15:34
+ARQ-1350,Enhancement,Closed,ARQ,Arquillian,software,Done,11/03/2013 02:29,19/03/2013 04:30
+ARQ-1351,Feature Request,Closed,ARQ,Arquillian,software,Done,11/03/2013 02:36,19/03/2013 04:30
+ARQ-1352,Bug,Closed,ARQ,Arquillian,software,Done,11/03/2013 09:56,14/03/2013 16:33
+ARQ-1353,Enhancement,Closed,ARQ,Arquillian,software,Done,11/03/2013 13:38,14/06/2013 15:20
+ARQ-1354,Feature Request,Resolved,ARQ,Arquillian,software,Done,12/03/2013 17:23,12/03/2013 17:24
+ARQ-1355,Feature Request,Closed,ARQ,Arquillian,software,Done,14/03/2013 02:38,17/03/2013 03:30
+ARQ-1356,Bug,Closed,ARQ,Arquillian,software,Done,14/03/2013 12:03,13/05/2013 16:04
+ARQ-1357,Feature Request,Open,ARQ,Arquillian,software,,16/03/2013 04:45,
+ARQ-1358,Feature Request,Closed,ARQ,Arquillian,software,Done,16/03/2013 13:32,23/03/2013 04:22
+ARQ-1359,Bug,Open,ARQ,Arquillian,software,,16/03/2013 17:41,
+ARQ-136,Task,Closed,ARQ,Arquillian,software,Done,08/05/2010 14:06,24/05/2010 09:01
+ARQ-1360,Bug,Closed,ARQ,Arquillian,software,Done,18/03/2013 19:06,03/06/2013 07:15
+ARQ-1361,Enhancement,Closed,ARQ,Arquillian,software,Done,22/03/2013 11:30,25/03/2013 11:12
+ARQ-1362,Feature Request,Open,ARQ,Arquillian,software,,25/03/2013 16:14,
+ARQ-1363,Feature Request,Closed,ARQ,Arquillian,software,Done,26/03/2013 11:24,29/03/2013 10:45
+ARQ-1364,Feature Request,Closed,ARQ,Arquillian,software,Done,26/03/2013 11:40,29/03/2013 10:46
+ARQ-1365,Bug,Closed,ARQ,Arquillian,software,Done,28/03/2013 10:26,04/04/2013 04:59
+ARQ-1366,Feature Request,Open,ARQ,Arquillian,software,,28/03/2013 11:10,
+ARQ-1367,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,02/04/2013 05:28,18/06/2013 09:38
+ARQ-1368,Feature Request,Closed,ARQ,Arquillian,software,Done,02/04/2013 05:51,30/05/2013 06:05
+ARQ-1369,Bug,Closed,ARQ,Arquillian,software,Cannot Reproduce,03/04/2013 03:48,18/06/2013 09:50
+ARQ-137,Feature Request,Closed,ARQ,Arquillian,software,Done,09/05/2010 17:48,09/05/2010 17:49
+ARQ-1370,Enhancement,Open,ARQ,Arquillian,software,,05/04/2013 02:31,
+ARQ-1371,Feature Request,Closed,ARQ,Arquillian,software,Done,05/04/2013 09:36,20/06/2013 00:53
+ARQ-1372,Task,Resolved,ARQ,Arquillian,software,Won't Do,07/04/2013 17:32,08/04/2013 03:03
+ARQ-1373,Bug,Closed,ARQ,Arquillian,software,Done,11/04/2013 09:34,03/06/2013 11:08
+ARQ-1374,Feature Request,Open,ARQ,Arquillian,software,,15/04/2013 07:42,
+ARQ-1375,Release,Resolved,ARQ,Arquillian,software,Done,15/04/2013 15:55,16/04/2013 09:05
+ARQ-1376,Bug,Closed,ARQ,Arquillian,software,Duplicate,16/04/2013 07:33,03/05/2013 14:57
+ARQ-1377,Feature Request,Open,ARQ,Arquillian,software,,16/04/2013 13:00,
+ARQ-1378,Bug,Closed,ARQ,Arquillian,software,Won't Do,17/04/2013 10:44,22/04/2013 05:43
+ARQ-1379,Feature Request,Open,ARQ,Arquillian,software,,19/04/2013 10:16,
+ARQ-138,Feature Request,Closed,ARQ,Arquillian,software,Done,10/05/2010 12:42,02/11/2011 12:09
+ARQ-1381,Feature Request,Closed,ARQ,Arquillian,software,Done,29/04/2013 14:20,29/04/2013 14:51
+ARQ-1382,Release,Closed,ARQ,Arquillian,software,Done,29/04/2013 16:15,29/04/2013 17:49
+ARQ-1383,Feature Request,Open,ARQ,Arquillian,software,,30/04/2013 10:01,
+ARQ-1384,Feature Request,Resolved,ARQ,Arquillian,software,Done,03/05/2013 13:32,06/06/2013 12:10
+ARQ-1385,Feature Request,Closed,ARQ,Arquillian,software,Done,07/05/2013 10:36,11/09/2013 08:13
+ARQ-1386,Feature Request,Closed,ARQ,Arquillian,software,Done,08/05/2013 09:18,30/05/2013 05:47
+ARQ-1387,Feature Request,Closed,ARQ,Arquillian,software,Done,12/05/2013 21:49,02/03/2014 19:57
+ARQ-1388,Feature Request,Open,ARQ,Arquillian,software,,21/05/2013 12:24,
+ARQ-1389,Feature Request,Open,ARQ,Arquillian,software,,22/05/2013 07:49,
+ARQ-139,Bug,Closed,ARQ,Arquillian,software,Done,14/05/2010 00:04,19/05/2010 07:35
+ARQ-1390,Bug,Resolved,ARQ,Arquillian,software,Duplicate,22/05/2013 11:09,29/07/2013 08:10
+ARQ-1391,Bug,Closed,ARQ,Arquillian,software,Duplicate,23/05/2013 03:48,23/05/2013 09:21
+ARQ-1392,Feature Request,Closed,ARQ,Arquillian,software,Done,23/05/2013 05:18,04/06/2013 00:38
+ARQ-1393,Bug,Closed,ARQ,Arquillian,software,Done,26/05/2013 14:46,15/06/2013 11:17
+ARQ-1394,Release,Closed,ARQ,Arquillian,software,Done,27/05/2013 13:26,27/05/2013 13:36
+ARQ-1395,Bug,Closed,ARQ,Arquillian,software,Done,28/05/2013 01:02,18/06/2013 09:49
+ARQ-1396,Bug,Closed,ARQ,Arquillian,software,Done,28/05/2013 01:07,30/05/2013 05:25
+ARQ-1397,Bug,Closed,ARQ,Arquillian,software,Done,28/05/2013 04:01,18/06/2013 11:12
+ARQ-1398,Enhancement,Closed,ARQ,Arquillian,software,Done,31/05/2013 12:08,03/06/2013 10:19
+ARQ-1399,Release,Closed,ARQ,Arquillian,software,Done,04/06/2013 00:51,04/06/2013 02:01
+ARQ-14,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,06/08/2009 14:29,25/02/2010 04:54
+ARQ-140,Task,Closed,ARQ,Arquillian,software,Done,19/05/2010 07:42,20/05/2010 19:50
+ARQ-1400,Feature Request,Closed,ARQ,Arquillian,software,Done,07/06/2013 08:11,19/06/2013 16:21
+ARQ-1401,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,07/06/2013 09:05,30/05/2017 03:43
+ARQ-1402,Feature Request,Closed,ARQ,Arquillian,software,Done,09/06/2013 16:07,26/06/2014 16:56
+ARQ-1403,Feature Request,Resolved,ARQ,Arquillian,software,Done,10/06/2013 07:25,10/06/2013 07:30
+ARQ-1404,Feature Request,Resolved,ARQ,Arquillian,software,Done,10/06/2013 07:28,10/06/2013 07:29
+ARQ-1405,Task,Resolved,ARQ,Arquillian,software,Done,10/06/2013 07:31,10/06/2013 07:32
+ARQ-1406,Task,Resolved,ARQ,Arquillian,software,Done,10/06/2013 09:29,10/06/2013 10:04
+ARQ-1407,Bug,Open,ARQ,Arquillian,software,,10/06/2013 09:30,
+ARQ-1408,Feature Request,Closed,ARQ,Arquillian,software,Done,17/06/2013 01:50,17/06/2013 02:10
+ARQ-1409,Feature Request,Open,ARQ,Arquillian,software,,18/06/2013 07:10,
+ARQ-141,Task,Closed,ARQ,Arquillian,software,Done,19/05/2010 07:45,20/05/2010 19:51
+ARQ-1410,Bug,Open,ARQ,Arquillian,software,,18/06/2013 09:34,
+ARQ-1411,Release,Closed,ARQ,Arquillian,software,Done,19/06/2013 12:03,19/06/2013 12:19
+ARQ-1412,Feature Request,Resolved,ARQ,Arquillian,software,Won't Do,19/06/2013 15:42,15/10/2015 16:19
+ARQ-1413,Bug,Open,ARQ,Arquillian,software,,19/06/2013 15:52,
+ARQ-1414,Release,Closed,ARQ,Arquillian,software,Done,19/06/2013 17:06,19/06/2013 17:36
+ARQ-1415,Component Upgrade,Closed,ARQ,Arquillian,software,Done,20/06/2013 03:14,20/06/2013 03:16
+ARQ-1416,Component Upgrade,Closed,ARQ,Arquillian,software,Done,20/06/2013 03:14,20/06/2013 03:16
+ARQ-1417,Task,Open,ARQ,Arquillian,software,,20/06/2013 03:47,
+ARQ-1418,Release,Closed,ARQ,Arquillian,software,Done,20/06/2013 05:52,20/06/2013 10:15
+ARQ-1419,Feature Request,Closed,ARQ,Arquillian,software,Done,20/06/2013 10:48,17/07/2013 13:15
+ARQ-142,Task,Closed,ARQ,Arquillian,software,Done,20/05/2010 05:57,20/05/2010 06:16
+ARQ-1420,Bug,Closed,ARQ,Arquillian,software,Done,24/06/2013 05:19,17/07/2013 06:55
+ARQ-1421,Bug,Closed,ARQ,Arquillian,software,Done,28/06/2013 08:09,28/06/2013 12:21
+ARQ-1422,Feature Request,Closed,ARQ,Arquillian,software,Done,01/07/2013 08:02,17/07/2013 06:59
+ARQ-1423,Release,Closed,ARQ,Arquillian,software,Done,01/07/2013 11:06,01/07/2013 12:31
+ARQ-1424,Feature Request,Closed,ARQ,Arquillian,software,Done,29/04/2013 02:37,22/07/2013 08:45
+ARQ-1425,Feature Request,Closed,ARQ,Arquillian,software,Done,04/07/2013 01:50,27/01/2014 09:00
+ARQ-1426,Feature Request,Open,ARQ,Arquillian,software,,08/07/2013 06:07,
+ARQ-1427,Bug,Closed,ARQ,Arquillian,software,Done,08/07/2013 09:10,17/07/2013 16:45
+ARQ-1428,Bug,Resolved,ARQ,Arquillian,software,Won't Do,09/07/2013 05:05,15/07/2013 05:37
+ARQ-1429,Bug,Closed,ARQ,Arquillian,software,Done,09/07/2013 11:22,17/07/2013 16:46
+ARQ-143,Task,Closed,ARQ,Arquillian,software,Done,20/05/2010 06:20,20/05/2010 06:48
+ARQ-1430,Bug,Closed,ARQ,Arquillian,software,Done,10/07/2013 12:39,10/09/2013 11:47
+ARQ-1431,Bug,Open,ARQ,Arquillian,software,,17/07/2013 15:33,
+ARQ-1432,Bug,Open,ARQ,Arquillian,software,,19/07/2013 10:15,
+ARQ-1433,Release,Closed,ARQ,Arquillian,software,Done,20/07/2013 12:22,20/07/2013 15:43
+ARQ-1434,Bug,Closed,ARQ,Arquillian,software,Done,20/07/2013 15:49,28/08/2013 10:44
+ARQ-1435,Component Upgrade,Closed,ARQ,Arquillian,software,Done,22/07/2013 08:55,22/07/2013 08:58
+ARQ-1436,Feature Request,Closed,ARQ,Arquillian,software,Done,22/07/2013 12:35,22/07/2013 12:57
+ARQ-1437,Bug,Closed,ARQ,Arquillian,software,Done,23/07/2013 09:25,22/06/2014 12:17
+ARQ-1438,Bug,Open,ARQ,Arquillian,software,,23/07/2013 15:45,
+ARQ-1439,Bug,Closed,ARQ,Arquillian,software,Done,23/07/2013 20:22,25/07/2013 15:55
+ARQ-144,Task,Closed,ARQ,Arquillian,software,Done,20/05/2010 07:23,20/05/2010 07:47
+ARQ-1440,Bug,Closed,ARQ,Arquillian,software,Done,24/07/2013 16:59,09/03/2014 10:41
+ARQ-1441,Bug,Closed,ARQ,Arquillian,software,Done,25/07/2013 02:57,25/07/2013 03:48
+ARQ-1442,Component Upgrade,Closed,ARQ,Arquillian,software,Done,25/07/2013 03:50,25/07/2013 05:45
+ARQ-1443,Bug,Open,ARQ,Arquillian,software,,25/07/2013 23:29,
+ARQ-1444,Feature Request,Closed,ARQ,Arquillian,software,Done,26/07/2013 09:24,21/02/2014 02:05
+ARQ-1445,Bug,Closed,ARQ,Arquillian,software,Done,26/07/2013 10:18,18/09/2013 03:21
+ARQ-1446,Release,Closed,ARQ,Arquillian,software,Done,26/07/2013 11:47,26/07/2013 12:18
+ARQ-1447,Feature Request,Closed,ARQ,Arquillian,software,Done,28/07/2013 09:12,31/07/2013 10:32
+ARQ-1448,Feature Request,Closed,ARQ,Arquillian,software,Done,30/07/2013 07:29,19/08/2013 10:02
+ARQ-1449,Release,Closed,ARQ,Arquillian,software,Done,01/08/2013 12:41,01/08/2013 12:53
+ARQ-145,Feature Request,Closed,ARQ,Arquillian,software,Done,20/05/2010 11:00,10/07/2010 11:16
+ARQ-1451,Release,Closed,ARQ,Arquillian,software,Done,04/08/2013 04:34,04/08/2013 05:02
+ARQ-1452,Component Upgrade,Closed,ARQ,Arquillian,software,Done,05/08/2013 10:04,05/08/2013 10:16
+ARQ-1453,Feature Request,Open,ARQ,Arquillian,software,,08/08/2013 16:30,
+ARQ-1454,Bug,Closed,ARQ,Arquillian,software,Done,14/08/2013 04:28,15/08/2013 05:32
+ARQ-1455,Bug,Open,ARQ,Arquillian,software,,14/08/2013 08:17,
+ARQ-1456,Bug,Closed,ARQ,Arquillian,software,Won't Do,19/08/2013 09:11,23/08/2013 06:11
+ARQ-1457,Feature Request,Closed,ARQ,Arquillian,software,Done,19/08/2013 16:12,10/09/2013 11:47
+ARQ-1458,Bug,Closed,ARQ,Arquillian,software,Done,20/08/2013 03:05,19/02/2014 00:16
+ARQ-1459,Component Upgrade,Closed,ARQ,Arquillian,software,Done,26/08/2013 04:00,26/08/2013 06:26
+ARQ-146,Feature Request,Resolved,ARQ,Arquillian,software,Done,20/05/2010 11:03,22/02/2012 13:55
+ARQ-1460,Feature Request,Closed,ARQ,Arquillian,software,Done,26/08/2013 04:26,26/08/2013 06:29
+ARQ-1461,Task,Closed,ARQ,Arquillian,software,Done,26/08/2013 09:51,26/08/2013 10:19
+ARQ-1462,Feature Request,Closed,ARQ,Arquillian,software,Done,27/08/2013 02:49,27/08/2013 04:13
+ARQ-1463,Bug,Closed,ARQ,Arquillian,software,Done,27/08/2013 12:36,28/08/2013 10:44
+ARQ-1464,Bug,Open,ARQ,Arquillian,software,,28/08/2013 06:16,
+ARQ-1466,Component Upgrade,Closed,ARQ,Arquillian,software,Done,03/09/2013 14:53,05/09/2013 09:33
+ARQ-1467,Bug,Closed,ARQ,Arquillian,software,Done,05/09/2013 08:08,05/09/2013 09:31
+ARQ-1468,Bug,Closed,ARQ,Arquillian,software,Done,05/09/2013 08:09,05/09/2013 09:32
+ARQ-1469,Bug,Closed,ARQ,Arquillian,software,Done,05/09/2013 08:10,05/09/2013 09:32
+ARQ-147,Feature Request,Closed,ARQ,Arquillian,software,Done,20/05/2010 21:24,21/07/2010 18:29
+ARQ-1470,Bug,Closed,ARQ,Arquillian,software,Done,05/09/2013 08:15,05/09/2013 09:33
+ARQ-1471,Enhancement,Closed,ARQ,Arquillian,software,Done,05/09/2013 11:20,15/11/2013 13:17
+ARQ-1472,Bug,Closed,ARQ,Arquillian,software,Done,05/09/2013 11:36,09/09/2013 08:36
+ARQ-1473,Bug,Closed,ARQ,Arquillian,software,Done,06/09/2013 15:57,28/10/2013 19:40
+ARQ-1474,Bug,Open,ARQ,Arquillian,software,,08/09/2013 09:45,
+ARQ-1475,Bug,Closed,ARQ,Arquillian,software,Done,11/09/2013 07:49,11/09/2013 08:12
+ARQ-1476,Enhancement,Closed,ARQ,Arquillian,software,Done,11/09/2013 10:11,11/09/2013 10:38
+ARQ-1477,Feature Request,Open,ARQ,Arquillian,software,,11/09/2013 11:31,
+ARQ-1478,Bug,Resolved,ARQ,Arquillian,software,Done,12/09/2013 11:37,13/09/2013 10:24
+ARQ-1479,Bug,Closed,ARQ,Arquillian,software,Won't Do,15/09/2013 12:08,14/03/2014 03:08
+ARQ-148,Feature Request,Closed,ARQ,Arquillian,software,Done,21/05/2010 12:17,10/09/2011 11:48
+ARQ-1480,Bug,Closed,ARQ,Arquillian,software,Done,18/09/2013 03:10,08/10/2013 08:08
+ARQ-1481,Bug,Closed,ARQ,Arquillian,software,Done,18/09/2013 03:12,08/10/2013 08:08
+ARQ-1482,Release,Closed,ARQ,Arquillian,software,Done,18/09/2013 10:11,18/09/2013 10:22
+ARQ-1483,Component Upgrade,Closed,ARQ,Arquillian,software,Done,19/09/2013 09:35,23/09/2013 06:40
+ARQ-1484,Bug,Closed,ARQ,Arquillian,software,Done,20/09/2013 11:58,20/09/2013 15:10
+ARQ-1485,Bug,Closed,ARQ,Arquillian,software,Done,20/09/2013 15:12,20/09/2013 15:19
+ARQ-1486,Bug,Closed,ARQ,Arquillian,software,Done,20/09/2013 15:13,20/09/2013 15:19
+ARQ-1487,Release,Closed,ARQ,Arquillian,software,Done,20/09/2013 15:22,20/09/2013 15:38
+ARQ-1488,Bug,Closed,ARQ,Arquillian,software,Done,22/09/2013 06:13,27/09/2013 14:31
+ARQ-1489,Enhancement,Reopened,ARQ,Arquillian,software,,23/09/2013 03:53,
+ARQ-149,Task,Closed,ARQ,Arquillian,software,Done,22/05/2010 11:02,25/05/2010 10:06
+ARQ-1490,Release,Closed,ARQ,Arquillian,software,Done,23/09/2013 04:52,10/10/2013 10:57
+ARQ-1492,Task,Closed,ARQ,Arquillian,software,Done,23/09/2013 06:11,23/09/2013 06:40
+ARQ-1493,Feature Request,Closed,ARQ,Arquillian,software,Done,23/09/2013 06:54,24/09/2013 09:24
+ARQ-1494,Bug,Resolved,ARQ,Arquillian,software,Done,23/09/2013 09:07,23/09/2013 09:09
+ARQ-1495,Feature Request,Closed,ARQ,Arquillian,software,Done,23/09/2013 11:02,03/10/2013 18:58
+ARQ-1496,Feature Request,Closed,ARQ,Arquillian,software,Done,24/09/2013 06:59,13/02/2014 20:27
+ARQ-1497,Task,Closed,ARQ,Arquillian,software,Done,24/09/2013 08:42,24/09/2013 09:25
+ARQ-1498,Bug,Resolved,ARQ,Arquillian,software,Won't Do,25/09/2013 07:56,10/03/2014 12:04
+ARQ-1499,Component Upgrade,Closed,ARQ,Arquillian,software,Done,27/09/2013 10:32,02/10/2013 08:11
+ARQ-15,Feature Request,Closed,ARQ,Arquillian,software,Done,11/09/2009 14:51,12/09/2009 14:26
+ARQ-150,Task,Closed,ARQ,Arquillian,software,Done,22/05/2010 11:25,22/05/2010 19:55
+ARQ-1500,Bug,Closed,ARQ,Arquillian,software,Done,27/09/2013 10:35,02/10/2013 08:10
+ARQ-1501,Enhancement,Closed,ARQ,Arquillian,software,Done,27/09/2013 10:36,02/10/2013 08:11
+ARQ-1502,Feature Request,Closed,ARQ,Arquillian,software,Done,27/09/2013 10:39,02/10/2013 08:12
+ARQ-1503,Enhancement,Open,ARQ,Arquillian,software,,27/09/2013 10:49,
+ARQ-1504,Bug,Open,ARQ,Arquillian,software,,27/09/2013 11:20,
+ARQ-1505,Bug,Closed,ARQ,Arquillian,software,Done,28/09/2013 05:29,04/10/2013 04:41
+ARQ-1506,Enhancement,Closed,ARQ,Arquillian,software,Done,28/09/2013 08:15,03/10/2013 18:57
+ARQ-1507,Enhancement,Closed,ARQ,Arquillian,software,Done,28/09/2013 08:19,05/10/2013 17:23
+ARQ-1508,Bug,Closed,ARQ,Arquillian,software,Done,28/09/2013 09:09,07/10/2013 11:07
+ARQ-1509,Bug,Closed,ARQ,Arquillian,software,Done,28/09/2013 09:51,04/12/2013 04:15
+ARQ-151,Bug,Closed,ARQ,Arquillian,software,Done,22/05/2010 15:22,22/05/2010 17:56
+ARQ-1510,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,29/09/2013 08:20,02/10/2013 06:48
+ARQ-1511,Bug,Closed,ARQ,Arquillian,software,Done,29/09/2013 10:35,03/10/2013 18:58
+ARQ-1512,Bug,Closed,ARQ,Arquillian,software,Done,29/09/2013 10:47,03/10/2013 18:56
+ARQ-1513,Bug,Closed,ARQ,Arquillian,software,Done,30/09/2013 03:41,05/10/2013 15:30
+ARQ-1514,Bug,Closed,ARQ,Arquillian,software,Done,30/09/2013 04:46,02/10/2013 08:10
+ARQ-1515,Enhancement,Closed,ARQ,Arquillian,software,Done,30/09/2013 08:27,03/10/2013 18:57
+ARQ-1516,Bug,Resolved,ARQ,Arquillian,software,Done,01/10/2013 04:03,06/03/2014 13:14
+ARQ-1517,Bug,Closed,ARQ,Arquillian,software,Done,01/10/2013 04:53,02/10/2013 08:12
+ARQ-1518,Feature Request,Closed,ARQ,Arquillian,software,Done,01/10/2013 17:58,02/10/2013 08:13
+ARQ-1519,Bug,Closed,ARQ,Arquillian,software,Done,02/10/2013 15:18,27/06/2014 14:00
+ARQ-152,Feature Request,Closed,ARQ,Arquillian,software,Done,23/05/2010 05:36,02/02/2011 17:19
+ARQ-1520,Release,Closed,ARQ,Arquillian,software,Done,02/10/2013 16:16,02/10/2013 16:24
+ARQ-1521,Feature Request,Closed,ARQ,Arquillian,software,Done,04/10/2013 05:06,04/10/2013 10:51
+ARQ-1522,Feature Request,Closed,ARQ,Arquillian,software,Done,04/10/2013 05:20,04/10/2013 07:03
+ARQ-1523,Bug,Closed,ARQ,Arquillian,software,Done,04/10/2013 07:33,07/10/2013 11:07
+ARQ-1524,Enhancement,Closed,ARQ,Arquillian,software,Done,04/10/2013 11:00,06/10/2013 13:31
+ARQ-1525,Feature Request,Closed,ARQ,Arquillian,software,Done,06/10/2013 13:17,06/10/2013 13:32
+ARQ-1526,Enhancement,Closed,ARQ,Arquillian,software,Done,06/10/2013 13:19,06/10/2013 13:32
+ARQ-1527,Feature Request,Open,ARQ,Arquillian,software,,07/10/2013 07:23,
+ARQ-1528,Feature Request,Closed,ARQ,Arquillian,software,Done,07/10/2013 17:45,14/04/2014 17:45
+ARQ-1529,Enhancement,Closed,ARQ,Arquillian,software,Done,08/10/2013 07:07,28/10/2013 19:41
+ARQ-153,Feature Request,Closed,ARQ,Arquillian,software,Done,23/05/2010 05:43,02/02/2011 17:18
+ARQ-1530,Bug,Closed,ARQ,Arquillian,software,Done,08/10/2013 07:47,31/10/2013 09:43
+ARQ-1532,Bug,Closed,ARQ,Arquillian,software,Won't Do,09/10/2013 12:26,23/05/2017 04:51
+ARQ-1533,Feature Request,Closed,ARQ,Arquillian,software,Done,10/10/2013 18:34,26/10/2013 20:32
+ARQ-1534,Bug,Closed,ARQ,Arquillian,software,Done,11/10/2013 04:09,08/03/2014 13:27
+ARQ-1535,Bug,Resolved,ARQ,Arquillian,software,Won't Do,11/10/2013 07:37,11/03/2014 09:31
+ARQ-1536,Feature Request,Closed,ARQ,Arquillian,software,Done,11/10/2013 07:38,11/04/2014 04:10
+ARQ-1537,Feature Request,Closed,ARQ,Arquillian,software,Done,14/10/2013 04:04,21/11/2013 08:15
+ARQ-1538,Enhancement,Closed,ARQ,Arquillian,software,Done,14/10/2013 12:10,15/10/2013 11:47
+ARQ-1539,Feature Request,Closed,ARQ,Arquillian,software,Done,15/10/2013 11:07,31/10/2013 15:38
+ARQ-154,Task,Closed,ARQ,Arquillian,software,Done,23/05/2010 15:29,23/05/2010 15:30
+ARQ-1540,Task,Closed,ARQ,Arquillian,software,Done,15/10/2013 15:07,18/10/2013 16:33
+ARQ-1541,Enhancement,Closed,ARQ,Arquillian,software,Won't Do,15/10/2013 15:21,31/10/2013 09:34
+ARQ-1542,Task,Closed,ARQ,Arquillian,software,Done,15/10/2013 15:26,23/10/2013 09:39
+ARQ-1543,Bug,Closed,ARQ,Arquillian,software,Done,19/10/2013 09:23,17/11/2013 11:13
+ARQ-1544,Bug,Closed,ARQ,Arquillian,software,Won't Do,23/10/2013 03:43,23/10/2013 06:15
+ARQ-1545,Feature Request,Open,ARQ,Arquillian,software,,23/10/2013 07:45,
+ARQ-1546,Release,Closed,ARQ,Arquillian,software,Done,23/10/2013 15:29,26/10/2013 04:01
+ARQ-1547,Feature Request,Closed,ARQ,Arquillian,software,Done,24/10/2013 04:14,04/11/2013 17:18
+ARQ-1548,Feature Request,Open,ARQ,Arquillian,software,,24/10/2013 04:42,
+ARQ-1549,Task,Open,ARQ,Arquillian,software,,25/10/2013 05:16,
+ARQ-155,Feature Request,Closed,ARQ,Arquillian,software,Done,23/05/2010 15:32,23/05/2010 15:33
+ARQ-1550,Bug,Resolved,ARQ,Arquillian,software,Won't Do,25/10/2013 07:40,14/11/2013 06:11
+ARQ-1551,Bug,Open,ARQ,Arquillian,software,,26/10/2013 13:13,
+ARQ-1552,Enhancement,Resolved,ARQ,Arquillian,software,Done,27/10/2013 14:10,28/10/2013 14:54
+ARQ-1553,Enhancement,Open,ARQ,Arquillian,software,,28/10/2013 14:57,
+ARQ-1554,Feature Request,Closed,ARQ,Arquillian,software,Done,28/10/2013 16:36,28/10/2013 19:41
+ARQ-1555,Enhancement,Open,ARQ,Arquillian,software,,29/10/2013 07:04,
+ARQ-1556,Bug,Resolved,ARQ,Arquillian,software,Done,29/10/2013 08:56,29/10/2013 17:20
+ARQ-1557,Feature Request,Closed,ARQ,Arquillian,software,Done,29/10/2013 12:02,11/04/2014 06:05
+ARQ-1558,Release,Closed,ARQ,Arquillian,software,Done,29/10/2013 17:51,29/10/2013 17:58
+ARQ-1559,Release,Closed,ARQ,Arquillian,software,Done,31/10/2013 15:40,31/10/2013 15:54
+ARQ-156,Feature Request,Closed,ARQ,Arquillian,software,Done,26/05/2010 05:49,12/06/2010 14:53
+ARQ-1560,Bug,Resolved,ARQ,Arquillian,software,Can't Do,06/11/2013 12:09,01/07/2014 10:13
+ARQ-1561,Bug,Closed,ARQ,Arquillian,software,Done,07/11/2013 12:23,09/01/2014 12:55
+ARQ-1562,Enhancement,Closed,ARQ,Arquillian,software,Done,08/11/2013 07:48,17/01/2014 04:09
+ARQ-1563,Feature Request,Closed,ARQ,Arquillian,software,Done,08/11/2013 19:56,10/12/2013 08:35
+ARQ-1564,Bug,Open,ARQ,Arquillian,software,,09/11/2013 08:42,
+ARQ-1565,Bug,Open,ARQ,Arquillian,software,,11/11/2013 11:59,
+ARQ-1566,Bug,Pull Request Sent,ARQ,Arquillian,software,,12/11/2013 07:56,
+ARQ-1567,Enhancement,Closed,ARQ,Arquillian,software,Done,13/11/2013 05:12,04/12/2013 04:16
+ARQ-1568,Enhancement,Closed,ARQ,Arquillian,software,Done,14/11/2013 04:31,14/11/2013 05:45
+ARQ-1569,Bug,Resolved,ARQ,Arquillian,software,Won't Do,14/11/2013 06:07,14/11/2013 06:09
+ARQ-157,Bug,Open,ARQ,Arquillian,software,,26/05/2010 19:46,
+ARQ-1570,Enhancement,Closed,ARQ,Arquillian,software,Done,14/11/2013 09:19,14/11/2013 09:40
+ARQ-1571,Feature Request,Closed,ARQ,Arquillian,software,Done,15/11/2013 04:36,15/11/2013 09:41
+ARQ-1572,Feature Request,Closed,ARQ,Arquillian,software,Done,15/11/2013 11:27,01/03/2014 10:22
+ARQ-1573,Release,Closed,ARQ,Arquillian,software,Done,15/11/2013 12:11,15/11/2013 13:17
+ARQ-1574,Component Upgrade,Closed,ARQ,Arquillian,software,Done,16/11/2013 12:36,16/11/2013 13:58
+ARQ-1575,Feature Request,Closed,ARQ,Arquillian,software,Done,18/11/2013 06:44,18/11/2013 06:47
+ARQ-1576,Bug,Closed,ARQ,Arquillian,software,Obsolete,19/11/2013 09:47,22/06/2014 14:26
+ARQ-1577,Enhancement,Closed,ARQ,Arquillian,software,Done,20/11/2013 10:45,21/11/2013 11:55
+ARQ-1578,Feature Request,Open,ARQ,Arquillian,software,,25/11/2013 21:29,
+ARQ-1579,Release,Closed,ARQ,Arquillian,software,Done,26/11/2013 09:27,26/11/2013 10:04
+ARQ-158,Feature Request,Closed,ARQ,Arquillian,software,Done,28/05/2010 05:37,02/02/2011 17:26
+ARQ-1580,Feature Request,Closed,ARQ,Arquillian,software,Done,26/11/2013 11:52,29/11/2013 16:21
+ARQ-1581,Bug,Closed,ARQ,Arquillian,software,Won't Do,26/11/2013 12:59,08/03/2014 13:18
+ARQ-1582,Feature Request,Closed,ARQ,Arquillian,software,Done,27/11/2013 07:31,29/11/2013 16:16
+ARQ-1583,Bug,Closed,ARQ,Arquillian,software,Done,27/11/2013 07:46,29/11/2013 07:58
+ARQ-1584,Feature Request,Closed,ARQ,Arquillian,software,Done,28/11/2013 06:03,03/12/2013 06:37
+ARQ-1585,Bug,Closed,ARQ,Arquillian,software,Done,28/11/2013 06:10,04/12/2013 04:15
+ARQ-1586,Bug,Open,ARQ,Arquillian,software,,28/11/2013 06:26,
+ARQ-1587,Feature Request,Closed,ARQ,Arquillian,software,Done,29/11/2013 16:29,04/12/2013 04:16
+ARQ-1588,Release,Closed,ARQ,Arquillian,software,Done,30/11/2013 09:58,03/12/2013 10:33
+ARQ-1589,Component Upgrade,Closed,ARQ,Arquillian,software,Done,02/12/2013 04:00,03/12/2013 04:48
+ARQ-159,Bug,Closed,ARQ,Arquillian,software,Done,30/05/2010 17:34,30/05/2010 17:39
+ARQ-1590,Component Upgrade,Closed,ARQ,Arquillian,software,Done,02/12/2013 05:16,04/12/2013 04:21
+ARQ-1591,Bug,Closed,ARQ,Arquillian,software,Done,02/12/2013 11:17,02/12/2013 11:43
+ARQ-1592,Bug,Open,ARQ,Arquillian,software,,02/12/2013 12:13,
+ARQ-1593,Bug,Closed,ARQ,Arquillian,software,Done,03/12/2013 03:44,03/12/2013 04:32
+ARQ-1594,Bug,Closed,ARQ,Arquillian,software,Done,03/12/2013 03:48,03/12/2013 04:32
+ARQ-1595,Component Upgrade,Closed,ARQ,Arquillian,software,Done,03/12/2013 04:40,03/12/2013 04:47
+ARQ-1596,Bug,Open,ARQ,Arquillian,software,,04/12/2013 04:54,
+ARQ-1597,Feature Request,Open,ARQ,Arquillian,software,,04/12/2013 18:28,
+ARQ-1598,Bug,Closed,ARQ,Arquillian,software,Done,05/12/2013 03:54,09/01/2014 07:08
+ARQ-1599,Feature Request,Open,ARQ,Arquillian,software,,06/12/2013 07:11,
+ARQ-16,Task,Closed,ARQ,Arquillian,software,Done,01/10/2009 05:39,13/11/2009 07:51
+ARQ-160,Feature Request,Open,ARQ,Arquillian,software,,02/06/2010 08:02,
+ARQ-1600,Bug,Closed,ARQ,Arquillian,software,Done,09/12/2013 06:47,17/12/2013 03:24
+ARQ-1601,Bug,Closed,ARQ,Arquillian,software,Done,09/12/2013 06:49,17/12/2013 03:25
+ARQ-1602,Bug,Closed,ARQ,Arquillian,software,Done,10/12/2013 04:03,17/12/2013 03:26
+ARQ-1603,Enhancement,Closed,ARQ,Arquillian,software,Done,10/12/2013 04:24,17/12/2013 03:27
+ARQ-1604,Release,Closed,ARQ,Arquillian,software,Done,10/12/2013 08:37,10/12/2013 09:12
+ARQ-1605,Bug,Closed,ARQ,Arquillian,software,Done,10/12/2013 09:01,06/01/2014 07:53
+ARQ-1606,Feature Request,Closed,ARQ,Arquillian,software,Done,11/12/2013 17:16,21/06/2014 18:22
+ARQ-1607,Feature Request,Closed,ARQ,Arquillian,software,Done,12/12/2013 09:58,23/06/2014 17:44
+ARQ-1608,Feature Request,Closed,ARQ,Arquillian,software,Done,16/12/2013 08:21,19/02/2014 00:17
+ARQ-1609,Feature Request,Closed,ARQ,Arquillian,software,Done,18/12/2013 10:36,19/12/2013 11:18
+ARQ-161,Bug,Closed,ARQ,Arquillian,software,Done,02/06/2010 08:08,18/07/2010 10:32
+ARQ-1610,Component Upgrade,Closed,ARQ,Arquillian,software,Done,19/12/2013 11:21,20/12/2013 04:17
+ARQ-1611,Bug,Open,ARQ,Arquillian,software,,30/12/2013 10:59,
+ARQ-1612,Feature Request,Resolved,ARQ,Arquillian,software,Done,03/01/2014 08:42,03/01/2014 09:01
+ARQ-1613,Feature Request,Closed,ARQ,Arquillian,software,Done,06/01/2014 06:24,24/01/2014 05:52
+ARQ-1614,Bug,Open,ARQ,Arquillian,software,,09/01/2014 05:31,
+ARQ-1615,Bug,Closed,ARQ,Arquillian,software,Done,09/01/2014 06:24,11/03/2014 08:49
+ARQ-1616,Component Upgrade,Closed,ARQ,Arquillian,software,Done,09/01/2014 07:05,09/01/2014 07:08
+ARQ-1617,Task,Resolved,ARQ,Arquillian,software,Won't Do,09/01/2014 12:47,15/10/2015 16:10
+ARQ-1618,Enhancement,Closed,ARQ,Arquillian,software,Done,12/01/2014 13:32,15/02/2014 17:14
+ARQ-1619,Bug,Resolved,ARQ,Arquillian,software,Obsolete,13/01/2014 07:39,14/02/2017 10:17
+ARQ-162,Patch,Closed,ARQ,Arquillian,software,Done,03/06/2010 02:12,04/06/2010 06:16
+ARQ-1620,Feature Request,Closed,ARQ,Arquillian,software,Done,14/01/2014 03:08,14/01/2014 03:21
+ARQ-1621,Component Upgrade,Closed,ARQ,Arquillian,software,Done,14/01/2014 03:13,14/01/2014 03:21
+ARQ-1622,Feature Request,Closed,ARQ,Arquillian,software,Done,15/01/2014 02:57,15/01/2014 03:29
+ARQ-1623,Task,Resolved,ARQ,Arquillian,software,Won't Do,16/01/2014 03:33,07/03/2014 16:10
+ARQ-1624,Feature Request,Closed,ARQ,Arquillian,software,Done,16/01/2014 05:35,18/04/2014 12:30
+ARQ-1625,Feature Request,Closed,ARQ,Arquillian,software,Done,16/01/2014 08:20,17/01/2014 06:18
+ARQ-1626,Enhancement,Open,ARQ,Arquillian,software,,16/01/2014 10:40,
+ARQ-1627,Enhancement,Open,ARQ,Arquillian,software,,20/01/2014 09:04,
+ARQ-1628,Bug,Open,ARQ,Arquillian,software,,20/01/2014 11:15,
+ARQ-1629,Feature Request,Open,ARQ,Arquillian,software,,20/01/2014 17:18,
+ARQ-163,Feature Request,Closed,ARQ,Arquillian,software,Done,03/06/2010 08:03,14/07/2011 05:54
+ARQ-1630,Bug,Closed,ARQ,Arquillian,software,Done,22/01/2014 11:25,27/01/2014 09:03
+ARQ-1631,Feature Request,Open,ARQ,Arquillian,software,,28/01/2014 03:11,
+ARQ-1632,Component Upgrade,Closed,ARQ,Arquillian,software,Done,28/01/2014 07:22,03/02/2014 04:06
+ARQ-1633,Feature Request,Resolved,ARQ,Arquillian,software,Done,28/01/2014 10:23,28/01/2014 10:24
+ARQ-1634,Bug,Closed,ARQ,Arquillian,software,Done,04/02/2014 08:13,03/03/2014 11:24
+ARQ-1635,Bug,Closed,ARQ,Arquillian,software,Done,07/02/2014 07:16,07/02/2014 07:24
+ARQ-1637,Bug,Closed,ARQ,Arquillian,software,Done,11/02/2014 00:03,11/02/2014 00:06
+ARQ-1638,Bug,Closed,ARQ,Arquillian,software,Done,12/02/2014 09:10,24/02/2014 07:59
+ARQ-1639,Task,Closed,ARQ,Arquillian,software,Done,13/02/2014 05:44,06/08/2015 05:34
+ARQ-164,Bug,Closed,ARQ,Arquillian,software,Done,03/06/2010 10:24,02/02/2011 17:28
+ARQ-1640,Bug,Open,ARQ,Arquillian,software,,13/02/2014 14:15,
+ARQ-1641,Bug,Closed,ARQ,Arquillian,software,Done,14/02/2014 03:28,18/03/2014 14:33
+ARQ-1642,Feature Request,Pull Request Sent,ARQ,Arquillian,software,,14/02/2014 09:39,
+ARQ-1643,Bug,Closed,ARQ,Arquillian,software,Done,15/02/2014 16:11,15/02/2014 17:13
+ARQ-1644,Enhancement,Open,ARQ,Arquillian,software,,16/02/2014 02:53,
+ARQ-1645,Feature Request,Open,ARQ,Arquillian,software,,16/02/2014 02:56,
+ARQ-1646,Task,Closed,ARQ,Arquillian,software,Done,16/02/2014 06:28,01/03/2014 11:18
+ARQ-1647,Feature Request,Closed,ARQ,Arquillian,software,Done,18/02/2014 12:21,27/05/2014 03:04
+ARQ-1648,Component Upgrade,Closed,ARQ,Arquillian,software,Done,19/02/2014 00:56,19/02/2014 01:10
+ARQ-1649,Bug,Resolved,ARQ,Arquillian,software,Obsolete,19/02/2014 03:42,14/02/2017 10:17
+ARQ-165,Bug,Closed,ARQ,Arquillian,software,Done,07/06/2010 06:43,16/07/2010 04:59
+ARQ-1650,Bug,Closed,ARQ,Arquillian,software,Done,19/02/2014 04:06,27/06/2014 14:00
+ARQ-1651,Bug,Resolved,ARQ,Arquillian,software,Done,19/02/2014 04:13,21/02/2014 08:10
+ARQ-1652,Bug,Resolved,ARQ,Arquillian,software,Obsolete,19/02/2014 10:13,14/02/2017 10:17
+ARQ-1653,Bug,Closed,ARQ,Arquillian,software,Done,23/02/2014 04:08,03/03/2014 06:15
+ARQ-1654,Feature Request,Closed,ARQ,Arquillian,software,Done,23/02/2014 04:30,30/03/2014 18:19
+ARQ-1655,Bug,Closed,ARQ,Arquillian,software,Duplicate,24/02/2014 09:43,03/03/2014 06:09
+ARQ-1656,Bug,Closed,ARQ,Arquillian,software,Done,24/02/2014 16:27,07/03/2014 12:54
+ARQ-1657,Enhancement,Closed,ARQ,Arquillian,software,Won't Do,25/02/2014 04:00,11/07/2016 07:42
+ARQ-1658,Bug,Closed,ARQ,Arquillian,software,Done,25/02/2014 06:09,25/02/2014 06:29
+ARQ-1659,Component Upgrade,Closed,ARQ,Arquillian,software,Done,25/02/2014 09:46,13/03/2014 09:43
+ARQ-166,Feature Request,Closed,ARQ,Arquillian,software,Done,07/06/2010 11:19,12/06/2010 14:50
+ARQ-1660,Component Upgrade,Closed,ARQ,Arquillian,software,Done,26/02/2014 08:12,26/02/2014 08:15
+ARQ-1661,Component Upgrade,Closed,ARQ,Arquillian,software,Done,26/02/2014 09:00,26/02/2014 09:10
+ARQ-1662,Component Upgrade,Closed,ARQ,Arquillian,software,Done,26/02/2014 09:03,26/02/2014 09:10
+ARQ-1663,Bug,Open,ARQ,Arquillian,software,,26/02/2014 10:52,
+ARQ-1664,Feature Request,Closed,ARQ,Arquillian,software,Done,26/02/2014 15:41,27/02/2014 11:29
+ARQ-1665,Feature Request,Closed,ARQ,Arquillian,software,Done,02/03/2014 18:10,02/03/2014 19:58
+ARQ-1666,Bug,Closed,ARQ,Arquillian,software,Done,02/03/2014 18:13,02/03/2014 19:58
+ARQ-1667,Feature Request,Closed,ARQ,Arquillian,software,Done,02/03/2014 20:03,02/03/2014 20:05
+ARQ-1668,Feature Request,Resolved,ARQ,Arquillian,software,Done,03/03/2014 03:14,03/03/2014 03:21
+ARQ-1669,Task,Closed,ARQ,Arquillian,software,Done,03/03/2014 06:17,31/03/2014 07:04
+ARQ-167,Feature Request,Closed,ARQ,Arquillian,software,Done,07/06/2010 11:39,17/03/2011 21:59
+ARQ-1670,Task,Closed,ARQ,Arquillian,software,Done,04/03/2014 05:32,05/03/2014 06:33
+ARQ-1671,Task,Closed,ARQ,Arquillian,software,Done,04/03/2014 09:12,25/03/2014 12:50
+ARQ-1672,Feature Request,Closed,ARQ,Arquillian,software,Done,05/03/2014 05:09,06/03/2014 06:45
+ARQ-1673,Feature Request,Closed,ARQ,Arquillian,software,Done,05/03/2014 05:10,14/03/2014 09:42
+ARQ-1674,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,05/03/2014 05:15,08/03/2014 12:49
+ARQ-1675,Feature Request,Closed,ARQ,Arquillian,software,Done,05/03/2014 05:21,05/03/2014 21:21
+ARQ-1676,Feature Request,Closed,ARQ,Arquillian,software,Done,05/03/2014 06:58,05/03/2014 20:44
+ARQ-1677,Feature Request,Closed,ARQ,Arquillian,software,Done,05/03/2014 07:15,06/03/2014 05:24
+ARQ-1678,Bug,Open,ARQ,Arquillian,software,,05/03/2014 07:25,
+ARQ-1679,Bug,Closed,ARQ,Arquillian,software,Done,05/03/2014 09:11,24/06/2014 04:16
+ARQ-168,Feature Request,Closed,ARQ,Arquillian,software,Done,07/06/2010 12:16,21/02/2011 16:03
+ARQ-1680,Task,Closed,ARQ,Arquillian,software,Done,06/03/2014 13:30,27/06/2014 14:00
+ARQ-1681,Feature Request,Closed,ARQ,Arquillian,software,Done,07/03/2014 03:45,08/03/2014 12:40
+ARQ-1682,Enhancement,Closed,ARQ,Arquillian,software,Done,07/03/2014 12:46,07/03/2014 13:05
+ARQ-1683,Bug,Closed,ARQ,Arquillian,software,Done,07/03/2014 12:59,07/03/2014 15:10
+ARQ-1684,Bug,Resolved,ARQ,Arquillian,software,Done,07/03/2014 15:21,13/01/2017 03:42
+ARQ-1685,Feature Request,Closed,ARQ,Arquillian,software,Done,08/03/2014 06:37,10/03/2014 13:10
+ARQ-1686,Enhancement,Open,ARQ,Arquillian,software,,09/03/2014 19:49,
+ARQ-1687,Feature Request,Closed,ARQ,Arquillian,software,Done,10/03/2014 08:00,10/03/2014 08:11
+ARQ-1688,Task,Closed,ARQ,Arquillian,software,Done,10/03/2014 11:02,15/03/2014 17:05
+ARQ-1689,Task,Closed,ARQ,Arquillian,software,Done,10/03/2014 11:04,23/07/2015 10:22
+ARQ-169,Bug,Closed,ARQ,Arquillian,software,Done,07/06/2010 12:54,12/06/2010 13:24
+ARQ-1690,Task,Closed,ARQ,Arquillian,software,Won't Do,10/03/2014 11:07,02/07/2015 06:52
+ARQ-1691,Task,Closed,ARQ,Arquillian,software,Done,10/03/2014 11:08,27/05/2014 03:08
+ARQ-1692,Task,Closed,ARQ,Arquillian,software,Done,10/03/2014 11:09,08/12/2015 07:49
+ARQ-1693,Task,Open,ARQ,Arquillian,software,,10/03/2014 11:11,
+ARQ-1694,Task,Closed,ARQ,Arquillian,software,Done,10/03/2014 11:13,24/03/2016 07:07
+ARQ-1695,Task,Closed,ARQ,Arquillian,software,Done,10/03/2014 11:14,03/01/2017 10:37
+ARQ-1696,Task,Closed,ARQ,Arquillian,software,Done,10/03/2014 11:15,02/02/2016 07:37
+ARQ-1697,Task,Closed,ARQ,Arquillian,software,Done,10/03/2014 11:16,02/02/2016 10:00
+ARQ-1698,Task,Closed,ARQ,Arquillian,software,Done,10/03/2014 11:16,02/02/2016 10:01
+ARQ-1699,Task,Closed,ARQ,Arquillian,software,Done,10/03/2014 11:18,21/04/2017 02:42
+ARQ-17,Task,Closed,ARQ,Arquillian,software,Done,13/11/2009 07:36,16/11/2009 14:36
+ARQ-170,Bug,Closed,ARQ,Arquillian,software,Done,07/06/2010 13:10,12/06/2010 14:50
+ARQ-1700,Task,Closed,ARQ,Arquillian,software,Done,10/03/2014 11:20,15/03/2014 17:04
+ARQ-1701,Feature Request,Closed,ARQ,Arquillian,software,Done,11/03/2014 05:53,24/06/2014 07:29
+ARQ-1702,Feature Request,Closed,ARQ,Arquillian,software,Done,11/03/2014 06:18,11/03/2014 10:53
+ARQ-1703,Feature Request,Closed,ARQ,Arquillian,software,Done,11/03/2014 07:07,11/03/2014 10:32
+ARQ-1704,Feature Request,Closed,ARQ,Arquillian,software,Done,13/03/2014 07:51,03/04/2014 10:01
+ARQ-1705,Component Upgrade,Closed,ARQ,Arquillian,software,Done,13/03/2014 09:35,13/03/2014 09:41
+ARQ-1706,Feature Request,Closed,ARQ,Arquillian,software,Done,15/03/2014 14:46,25/03/2014 13:56
+ARQ-1707,Enhancement,Closed,ARQ,Arquillian,software,Done,15/03/2014 15:39,15/03/2014 17:04
+ARQ-1708,Task,Closed,ARQ,Arquillian,software,Done,15/03/2014 16:59,15/03/2014 17:06
+ARQ-1709,Enhancement,Closed,ARQ,Arquillian,software,Done,17/03/2014 11:44,17/03/2014 12:34
+ARQ-171,Bug,Closed,ARQ,Arquillian,software,Done,07/06/2010 13:39,02/02/2011 17:29
+ARQ-1710,Task,Closed,ARQ,Arquillian,software,Won't Do,17/03/2014 11:51,24/06/2014 04:23
+ARQ-1711,Enhancement,Closed,ARQ,Arquillian,software,Done,18/03/2014 13:44,19/03/2014 15:26
+ARQ-1712,Enhancement,Closed,ARQ,Arquillian,software,Done,19/03/2014 10:00,31/03/2014 04:16
+ARQ-1713,Bug,Closed,ARQ,Arquillian,software,Done,20/03/2014 04:48,26/03/2014 19:00
+ARQ-1714,Enhancement,Closed,ARQ,Arquillian,software,Done,20/03/2014 04:51,21/03/2014 04:53
+ARQ-1715,Enhancement,Closed,ARQ,Arquillian,software,Done,20/03/2014 04:52,25/03/2014 13:18
+ARQ-1716,Feature Request,Closed,ARQ,Arquillian,software,Done,20/03/2014 10:53,25/06/2014 07:38
+ARQ-1717,Component Upgrade,Closed,ARQ,Arquillian,software,Obsolete,21/03/2014 05:29,21/06/2014 13:12
+ARQ-1718,Feature Request,Closed,ARQ,Arquillian,software,Done,21/03/2014 07:34,26/06/2014 11:31
+ARQ-1719,Feature Request,Closed,ARQ,Arquillian,software,Done,21/03/2014 08:11,21/03/2014 09:46
+ARQ-172,Feature Request,Closed,ARQ,Arquillian,software,Done,08/06/2010 05:45,20/07/2010 08:07
+ARQ-1720,Bug,Closed,ARQ,Arquillian,software,Done,21/03/2014 11:43,24/03/2014 05:51
+ARQ-1721,Task,Closed,ARQ,Arquillian,software,Done,24/03/2014 11:29,24/03/2014 11:36
+ARQ-1722,Bug,Closed,ARQ,Arquillian,software,Done,25/03/2014 06:02,25/03/2014 13:07
+ARQ-1723,Task,Resolved,ARQ,Arquillian,software,Done,25/03/2014 08:13,25/03/2014 10:48
+ARQ-1725,Task,Open,ARQ,Arquillian,software,,25/03/2014 08:30,
+ARQ-1726,Feature Request,Closed,ARQ,Arquillian,software,Done,25/03/2014 12:11,08/04/2014 07:54
+ARQ-1727,Component Upgrade,Closed,ARQ,Arquillian,software,Done,26/03/2014 09:22,26/03/2014 18:58
+ARQ-1728,Feature Request,Open,ARQ,Arquillian,software,,27/03/2014 08:33,
+ARQ-1729,Enhancement,Closed,ARQ,Arquillian,software,Done,27/03/2014 10:14,18/04/2014 12:31
+ARQ-173,Task,Closed,ARQ,Arquillian,software,Done,10/06/2010 06:32,10/06/2010 15:12
+ARQ-1730,Bug,Closed,ARQ,Arquillian,software,Done,28/03/2014 06:35,28/03/2014 07:36
+ARQ-1731,Component Upgrade,Closed,ARQ,Arquillian,software,Done,28/03/2014 07:26,28/03/2014 07:35
+ARQ-1732,Feature Request,Open,ARQ,Arquillian,software,,30/03/2014 18:23,
+ARQ-1733,Component Upgrade,Closed,ARQ,Arquillian,software,Done,30/03/2014 18:31,30/03/2014 18:34
+ARQ-1734,Component Upgrade,Closed,ARQ,Arquillian,software,Done,31/03/2014 05:09,31/03/2014 05:11
+ARQ-1735,Release,Closed,ARQ,Arquillian,software,Done,31/03/2014 15:12,01/04/2014 07:44
+ARQ-1736,Enhancement,Closed,ARQ,Arquillian,software,Done,31/03/2014 22:19,18/04/2014 12:31
+ARQ-1737,Bug,Closed,ARQ,Arquillian,software,Done,31/03/2014 22:26,18/04/2014 12:32
+ARQ-1738,Bug,Closed,ARQ,Arquillian,software,Obsolete,01/04/2014 00:07,09/06/2014 12:44
+ARQ-1739,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,01/04/2014 05:37,13/03/2015 06:55
+ARQ-174,Bug,Closed,ARQ,Arquillian,software,Done,10/06/2010 17:28,01/07/2010 05:22
+ARQ-1740,Feature Request,Closed,ARQ,Arquillian,software,Done,01/04/2014 11:02,28/06/2014 11:39
+ARQ-1741,Enhancement,Open,ARQ,Arquillian,software,,02/04/2014 08:12,
+ARQ-1742,Bug,Closed,ARQ,Arquillian,software,Done,02/04/2014 08:20,21/06/2014 17:46
+ARQ-1743,Feature Request,Closed,ARQ,Arquillian,software,Done,04/04/2014 07:31,08/12/2015 07:48
+ARQ-1744,Feature Request,Closed,ARQ,Arquillian,software,Done,04/04/2014 07:33,07/04/2014 11:38
+ARQ-1745,Feature Request,Closed,ARQ,Arquillian,software,Done,04/04/2014 07:34,07/04/2014 05:35
+ARQ-1746,Feature Request,Closed,ARQ,Arquillian,software,Done,04/04/2014 07:35,17/04/2014 11:25
+ARQ-1747,Feature Request,Closed,ARQ,Arquillian,software,Done,04/04/2014 07:40,07/04/2014 08:35
+ARQ-1748,Bug,Closed,ARQ,Arquillian,software,Done,07/04/2014 10:07,07/04/2014 11:51
+ARQ-1749,Feature Request,Closed,ARQ,Arquillian,software,Done,07/04/2014 22:50,09/06/2014 07:22
+ARQ-175,Bug,Closed,ARQ,Arquillian,software,Done,11/06/2010 11:13,11/06/2010 12:38
+ARQ-1750,Feature Request,Closed,ARQ,Arquillian,software,Done,08/04/2014 08:44,19/05/2014 16:43
+ARQ-1751,Feature Request,Open,ARQ,Arquillian,software,,08/04/2014 09:53,
+ARQ-1752,Component Upgrade,Closed,ARQ,Arquillian,software,Done,08/04/2014 10:56,08/04/2014 12:21
+ARQ-1753,Feature Request,Closed,ARQ,Arquillian,software,Duplicate,09/04/2014 03:05,11/04/2014 04:03
+ARQ-1754,Task,Closed,ARQ,Arquillian,software,Done,09/04/2014 03:48,09/04/2014 04:35
+ARQ-1755,Component Upgrade,Closed,ARQ,Arquillian,software,Done,09/04/2014 03:48,09/04/2014 04:34
+ARQ-1756,Feature Request,Resolved,ARQ,Arquillian,software,Done,10/04/2014 08:42,09/03/2016 14:55
+ARQ-1757,Feature Request,Open,ARQ,Arquillian,software,,11/04/2014 07:27,
+ARQ-1758,Bug,Closed,ARQ,Arquillian,software,Done,11/04/2014 10:27,22/06/2014 17:54
+ARQ-1759,Bug,Closed,ARQ,Arquillian,software,Done,11/04/2014 10:53,18/04/2014 12:27
+ARQ-176,Task,Closed,ARQ,Arquillian,software,Done,11/06/2010 16:44,02/02/2011 17:31
+ARQ-1760,Feature Request,Closed,ARQ,Arquillian,software,Done,14/04/2014 01:32,14/04/2014 01:52
+ARQ-1761,Feature Request,Open,ARQ,Arquillian,software,,16/04/2014 04:06,
+ARQ-1762,Enhancement,Closed,ARQ,Arquillian,software,Done,17/04/2014 14:09,18/04/2014 12:28
+ARQ-1763,Feature Request,Closed,ARQ,Arquillian,software,Done,22/04/2014 07:06,13/05/2014 05:12
+ARQ-1764,Feature Request,Closed,ARQ,Arquillian,software,Done,25/04/2014 05:22,25/04/2014 05:32
+ARQ-1765,Release,Closed,ARQ,Arquillian,software,Done,25/04/2014 10:35,25/04/2014 10:52
+ARQ-1766,Feature Request,Open,ARQ,Arquillian,software,,26/04/2014 09:16,
+ARQ-1767,Feature Request,Pull Request Sent,ARQ,Arquillian,software,,28/04/2014 07:50,
+ARQ-1768,Bug,Open,ARQ,Arquillian,software,,29/04/2014 05:21,
+ARQ-1769,Bug,Open,ARQ,Arquillian,software,,30/04/2014 19:29,
+ARQ-177,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,12/06/2010 14:56,09/05/2011 08:14
+ARQ-1770,Bug,Open,ARQ,Arquillian,software,,08/05/2014 15:02,
+ARQ-1771,Bug,Closed,ARQ,Arquillian,software,Won't Do,11/05/2014 16:54,12/05/2014 04:54
+ARQ-1772,Bug,Closed,ARQ,Arquillian,software,Done,12/05/2014 04:35,21/06/2014 16:08
+ARQ-1773,Bug,Closed,ARQ,Arquillian,software,Done,12/05/2014 06:25,22/06/2014 17:59
+ARQ-1774,Release,Closed,ARQ,Arquillian,software,Done,12/05/2014 08:24,12/05/2014 08:47
+ARQ-1775,Feature Request,Closed,ARQ,Arquillian,software,Done,14/05/2014 10:30,06/08/2015 05:34
+ARQ-1776,Bug,Resolved,ARQ,Arquillian,software,Done,14/05/2014 11:42,11/06/2014 04:32
+ARQ-1777,Bug,Closed,ARQ,Arquillian,software,Obsolete,15/05/2014 16:32,29/05/2024 19:53
+ARQ-1778,Feature Request,Resolved,ARQ,Arquillian,software,Done,16/05/2014 11:16,26/09/2014 07:47
+ARQ-1779,Bug,Closed,ARQ,Arquillian,software,Duplicate,19/05/2014 05:32,17/04/2016 17:58
+ARQ-178,Task,Closed,ARQ,Arquillian,software,Done,15/06/2010 07:56,15/06/2010 08:02
+ARQ-1780,Bug,Resolved,ARQ,Arquillian,software,Done,19/05/2014 10:45,06/10/2014 17:18
+ARQ-1781,Feature Request,Resolved,ARQ,Arquillian,software,Done,23/05/2014 10:10,06/10/2014 17:20
+ARQ-1782,Bug,Closed,ARQ,Arquillian,software,Obsolete,27/05/2014 03:21,30/05/2017 03:54
+ARQ-1783,Component Upgrade,Closed,ARQ,Arquillian,software,Done,27/05/2014 03:28,27/05/2014 04:11
+ARQ-1784,Enhancement,Closed,ARQ,Arquillian,software,Done,27/05/2014 03:36,27/05/2014 04:12
+ARQ-1785,Enhancement,Closed,ARQ,Arquillian,software,Done,27/05/2014 03:37,27/05/2014 04:12
+ARQ-1786,Feature Request,Resolved,ARQ,Arquillian,software,Done,27/05/2014 04:09,27/05/2014 07:48
+ARQ-1787,Enhancement,Resolved,ARQ,Arquillian,software,Done,28/05/2014 04:00,11/02/2015 03:31
+ARQ-1788,Enhancement,Resolved,ARQ,Arquillian,software,Done,28/05/2014 10:53,06/10/2014 17:21
+ARQ-1789,Feature Request,Closed,ARQ,Arquillian,software,Done,30/05/2014 03:39,29/05/2024 19:43
+ARQ-179,Bug,Closed,ARQ,Arquillian,software,Done,15/06/2010 08:16,15/06/2010 08:29
+ARQ-1790,Feature Request,Open,ARQ,Arquillian,software,,30/05/2014 03:48,
+ARQ-1791,Feature Request,Open,ARQ,Arquillian,software,,30/05/2014 03:57,
+ARQ-1792,Feature Request,Open,ARQ,Arquillian,software,,31/05/2014 11:52,
+ARQ-1793,Feature Request,Closed,ARQ,Arquillian,software,Done,03/06/2014 06:36,12/06/2014 12:04
+ARQ-1794,Task,Pull Request Sent,ARQ,Arquillian,software,,06/06/2014 10:10,
+ARQ-1795,Task,Closed,ARQ,Arquillian,software,Obsolete,06/06/2014 10:49,02/07/2015 06:23
+ARQ-1796,Bug,Closed,ARQ,Arquillian,software,Done,11/06/2014 17:08,22/06/2014 17:54
+ARQ-1797,Enhancement,Closed,ARQ,Arquillian,software,Done,13/06/2014 05:59,04/08/2014 05:59
+ARQ-1799,Bug,Closed,ARQ,Arquillian,software,Done,18/06/2014 06:44,27/06/2014 14:00
+ARQ-18,Task,Closed,ARQ,Arquillian,software,Done,15/11/2009 08:46,15/11/2009 09:24
+ARQ-180,Feature Request,Closed,ARQ,Arquillian,software,Done,15/06/2010 13:30,20/07/2010 08:17
+ARQ-1800,Feature Request,Resolved,ARQ,Arquillian,software,Done,19/06/2014 03:02,15/08/2014 04:55
+ARQ-1801,Bug,Closed,ARQ,Arquillian,software,Done,20/06/2014 03:07,21/06/2014 15:45
+ARQ-1802,Feature Request,Closed,ARQ,Arquillian,software,Done,22/06/2014 10:49,22/06/2014 10:53
+ARQ-1803,Bug,Closed,ARQ,Arquillian,software,Done,22/06/2014 18:15,22/06/2014 18:24
+ARQ-1804,Bug,Closed,ARQ,Arquillian,software,Done,23/06/2014 17:19,24/06/2014 12:48
+ARQ-1805,Feature Request,Open,ARQ,Arquillian,software,,26/06/2014 09:04,
+ARQ-1806,Bug,Closed,ARQ,Arquillian,software,Done,26/06/2014 10:06,26/06/2014 10:11
+ARQ-1807,Bug,Closed,ARQ,Arquillian,software,Done,26/06/2014 18:40,26/06/2014 18:50
+ARQ-1808,Bug,Closed,ARQ,Arquillian,software,Done,26/06/2014 18:44,26/06/2014 18:50
+ARQ-1809,Feature Request,Coding In Progress,ARQ,Arquillian,software,,27/06/2014 10:24,
+ARQ-181,Bug,Closed,ARQ,Arquillian,software,Done,17/06/2010 14:12,23/06/2014 17:22
+ARQ-1810,Enhancement,Closed,ARQ,Arquillian,software,Done,27/06/2014 12:17,27/06/2014 14:00
+ARQ-1811,Bug,Open,ARQ,Arquillian,software,,01/07/2014 09:16,
+ARQ-1812,Feature Request,Closed,ARQ,Arquillian,software,Done,01/07/2014 16:33,01/07/2014 16:33
+ARQ-1813,Bug,Resolved,ARQ,Arquillian,software,Done,01/07/2014 17:39,02/07/2014 04:58
+ARQ-1814,Bug,Closed,ARQ,Arquillian,software,Done,06/07/2014 10:10,07/07/2014 17:09
+ARQ-1815,Bug,Resolved,ARQ,Arquillian,software,Done,10/07/2014 11:32,17/04/2016 16:48
+ARQ-1816,Bug,Resolved,ARQ,Arquillian,software,Done,11/07/2014 03:55,14/07/2014 03:35
+ARQ-1817,Bug,Coding In Progress,ARQ,Arquillian,software,,11/07/2014 10:20,
+ARQ-1818,Bug,Closed,ARQ,Arquillian,software,Done,14/07/2014 09:51,11/02/2015 13:11
+ARQ-1819,Bug,Resolved,ARQ,Arquillian,software,Done,15/07/2014 07:53,15/07/2014 09:48
+ARQ-182,Feature Request,Closed,ARQ,Arquillian,software,Done,17/06/2010 15:23,17/06/2010 15:27
+ARQ-1820,Bug,Open,ARQ,Arquillian,software,,16/07/2014 06:30,
+ARQ-1821,Bug,Open,ARQ,Arquillian,software,,17/07/2014 15:11,
+ARQ-1822,Bug,Open,ARQ,Arquillian,software,,18/07/2014 05:26,
+ARQ-1823,Bug,Closed,ARQ,Arquillian,software,Done,21/07/2014 08:00,06/08/2015 05:34
+ARQ-1824,Bug,Closed,ARQ,Arquillian,software,Done,21/07/2014 08:33,06/08/2014 18:52
+ARQ-1825,Bug,Open,ARQ,Arquillian,software,,22/07/2014 05:25,
+ARQ-1826,Feature Request,Closed,ARQ,Arquillian,software,Done,24/07/2014 10:05,03/01/2017 10:48
+ARQ-1827,Bug,Open,ARQ,Arquillian,software,,28/07/2014 04:35,
+ARQ-1828,Feature Request,Resolved,ARQ,Arquillian,software,Done,29/07/2014 04:45,20/12/2017 10:15
+ARQ-1829,Bug,Closed,ARQ,Arquillian,software,Done,30/07/2014 05:30,06/08/2014 04:28
+ARQ-183,Bug,Closed,ARQ,Arquillian,software,Duplicate,17/06/2010 17:47,17/06/2010 18:21
+ARQ-1830,Bug,Open,ARQ,Arquillian,software,,01/08/2014 08:23,
+ARQ-1831,Enhancement,Closed,ARQ,Arquillian,software,Done,01/08/2014 09:00,12/08/2014 08:53
+ARQ-1832,Feature Request,Open,ARQ,Arquillian,software,,03/08/2014 03:11,
+ARQ-1833,Feature Request,Open,ARQ,Arquillian,software,,03/08/2014 10:39,
+ARQ-1834,Feature Request,Open,ARQ,Arquillian,software,,03/08/2014 11:43,
+ARQ-1835,Bug,Closed,ARQ,Arquillian,software,Done,04/08/2014 16:21,12/12/2014 11:03
+ARQ-1836,Feature Request,Closed,ARQ,Arquillian,software,Done,05/08/2014 04:00,21/04/2017 02:41
+ARQ-1837,Feature Request,Open,ARQ,Arquillian,software,,05/08/2014 05:58,
+ARQ-1838,Feature Request,Closed,ARQ,Arquillian,software,Done,06/08/2014 05:11,06/08/2014 18:46
+ARQ-1839,Bug,Closed,ARQ,Arquillian,software,Done,07/08/2014 11:05,12/08/2014 08:53
+ARQ-184,Bug,Open,ARQ,Arquillian,software,,17/06/2010 21:32,
+ARQ-1840,Feature Request,Open,ARQ,Arquillian,software,,07/08/2014 15:11,
+ARQ-1841,Bug,Open,ARQ,Arquillian,software,,19/08/2014 08:39,
+ARQ-1843,Bug,Resolved,ARQ,Arquillian,software,Done,28/08/2014 20:06,28/08/2014 20:09
+ARQ-1844,Bug,Open,ARQ,Arquillian,software,,01/09/2014 11:03,
+ARQ-1845,Bug,Closed,ARQ,Arquillian,software,Done,05/09/2014 10:25,22/01/2015 07:24
+ARQ-1846,Feature Request,Closed,ARQ,Arquillian,software,Duplicate,05/09/2014 19:14,21/09/2014 21:02
+ARQ-1847,Feature Request,Closed,ARQ,Arquillian,software,Done,05/09/2014 21:54,08/09/2014 15:42
+ARQ-1848,Feature Request,Open,ARQ,Arquillian,software,,06/09/2014 16:43,
+ARQ-1849,Bug,Open,ARQ,Arquillian,software,,08/09/2014 11:40,
+ARQ-185,Bug,Closed,ARQ,Arquillian,software,Done,19/06/2010 11:06,04/09/2010 13:08
+ARQ-1850,Feature Request,Open,ARQ,Arquillian,software,,08/09/2014 17:13,
+ARQ-1851,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,10/09/2014 04:39,02/07/2015 06:12
+ARQ-1852,Enhancement,Open,ARQ,Arquillian,software,,10/09/2014 07:32,
+ARQ-1853,Task,Resolved,ARQ,Arquillian,software,Done,14/09/2014 11:17,29/05/2024 19:46
+ARQ-1854,Feature Request,Closed,ARQ,Arquillian,software,Done,15/09/2014 10:48,15/09/2014 11:20
+ARQ-1855,Feature Request,Closed,ARQ,Arquillian,software,Done,17/09/2014 00:08,17/09/2014 01:04
+ARQ-1856,Feature Request,Resolved,ARQ,Arquillian,software,Done,23/09/2014 09:02,11/02/2015 03:30
+ARQ-1857,Enhancement,Open,ARQ,Arquillian,software,,25/09/2014 09:45,
+ARQ-1858,Bug,Closed,ARQ,Arquillian,software,Done,25/09/2014 10:04,29/09/2014 14:02
+ARQ-1859,Bug,Closed,ARQ,Arquillian,software,Done,26/09/2014 16:39,01/10/2014 13:51
+ARQ-186,Feature Request,Closed,ARQ,Arquillian,software,Done,19/06/2010 19:02,21/07/2010 05:02
+ARQ-1860,Release,Closed,ARQ,Arquillian,software,Done,29/09/2014 14:03,29/09/2014 16:35
+ARQ-1861,Bug,Closed,ARQ,Arquillian,software,Done,30/09/2014 22:26,01/10/2014 13:51
+ARQ-1862,Feature Request,Open,ARQ,Arquillian,software,,03/10/2014 11:49,
+ARQ-1863,Enhancement,Resolved,ARQ,Arquillian,software,Done,04/10/2014 06:33,17/10/2014 03:48
+ARQ-1864,Enhancement,Resolved,ARQ,Arquillian,software,Done,04/10/2014 07:17,17/10/2014 03:56
+ARQ-1865,Bug,Resolved,ARQ,Arquillian,software,Done,06/10/2014 10:01,02/04/2015 11:44
+ARQ-1866,Enhancement,Closed,ARQ,Arquillian,software,Obsolete,07/10/2014 03:01,29/05/2024 19:11
+ARQ-1867,Feature Request,Resolved,ARQ,Arquillian,software,Done,07/10/2014 18:30,17/10/2014 04:12
+ARQ-1868,Bug,Closed,ARQ,Arquillian,software,Obsolete,07/10/2014 19:03,23/05/2017 05:07
+ARQ-1869,Feature Request,Open,ARQ,Arquillian,software,,12/10/2014 12:26,
+ARQ-187,Task,Open,ARQ,Arquillian,software,,21/06/2010 13:06,
+ARQ-1870,Bug,Resolved,ARQ,Arquillian,software,Done,13/10/2014 04:41,11/02/2015 03:30
+ARQ-1871,Enhancement,Resolved,ARQ,Arquillian,software,Done,14/10/2014 19:32,21/10/2014 10:55
+ARQ-1872,Bug,Open,ARQ,Arquillian,software,,18/10/2014 18:57,
+ARQ-1873,Bug,Open,ARQ,Arquillian,software,,22/10/2014 09:17,
+ARQ-1874,Bug,Closed,ARQ,Arquillian,software,Done,31/10/2014 04:15,21/07/2015 03:52
+ARQ-1875,Bug,Closed,ARQ,Arquillian,software,Won't Do,01/11/2014 13:39,21/04/2017 07:02
+ARQ-1876,Feature Request,Closed,ARQ,Arquillian,software,Done,04/11/2014 08:15,13/01/2015 18:10
+ARQ-1877,Bug,Closed,ARQ,Arquillian,software,Done,04/11/2014 08:16,03/12/2014 06:55
+ARQ-1878,Enhancement,Closed,ARQ,Arquillian,software,Done,04/11/2014 08:17,03/12/2014 06:55
+ARQ-1879,Bug,Resolved,ARQ,Arquillian,software,Obsolete,05/11/2014 04:31,10/02/2015 07:53
+ARQ-188,Feature Request,Closed,ARQ,Arquillian,software,Done,22/06/2010 09:13,24/06/2010 05:50
+ARQ-1880,Bug,Closed,ARQ,Arquillian,software,Done,06/11/2014 02:33,11/02/2015 13:51
+ARQ-1881,Bug,Resolved,ARQ,Arquillian,software,Done,06/11/2014 03:56,11/02/2015 03:29
+ARQ-1882,Bug,Closed,ARQ,Arquillian,software,Done,07/11/2014 02:34,21/04/2017 04:39
+ARQ-1883,Feature Request,Open,ARQ,Arquillian,software,,09/11/2014 09:28,
+ARQ-1884,Component Upgrade,Closed,ARQ,Arquillian,software,Obsolete,10/11/2014 09:22,02/07/2015 06:12
+ARQ-1885,Bug,Closed,ARQ,Arquillian,software,Done,11/11/2014 09:04,11/11/2014 10:32
+ARQ-1886,Feature Request,Resolved,ARQ,Arquillian,software,Obsolete,19/11/2014 04:52,14/02/2017 10:17
+ARQ-1887,Feature Request,Open,ARQ,Arquillian,software,,20/11/2014 02:16,
+ARQ-1888,Bug,Closed,ARQ,Arquillian,software,Done,20/11/2014 12:46,26/01/2015 11:56
+ARQ-1889,Bug,Closed,ARQ,Arquillian,software,Cannot Reproduce,01/12/2014 03:09,21/03/2015 16:02
+ARQ-189,Feature Request,Closed,ARQ,Arquillian,software,Done,23/06/2010 16:14,10/07/2010 11:18
+ARQ-1890,Feature Request,Closed,ARQ,Arquillian,software,Done,01/12/2014 09:18,21/04/2017 02:49
+ARQ-1892,Bug,Open,ARQ,Arquillian,software,,10/12/2014 03:22,
+ARQ-1893,Feature Request,Closed,ARQ,Arquillian,software,Done,28/12/2014 12:04,28/12/2014 14:10
+ARQ-1894,Bug,Closed,ARQ,Arquillian,software,Done,02/01/2015 06:18,13/01/2015 18:11
+ARQ-1895,Feature Request,Closed,ARQ,Arquillian,software,Done,02/01/2015 12:55,08/01/2015 08:12
+ARQ-1896,Feature Request,Closed,ARQ,Arquillian,software,Done,05/01/2015 11:13,13/01/2015 15:06
+ARQ-1897,Bug,Closed,ARQ,Arquillian,software,Done,06/01/2015 10:50,06/01/2015 10:56
+ARQ-1898,Feature Request,Closed,ARQ,Arquillian,software,Done,09/01/2015 06:08,09/01/2015 06:11
+ARQ-1899,Bug,Open,ARQ,Arquillian,software,,12/01/2015 10:37,
+ARQ-19,Task,Closed,ARQ,Arquillian,software,Done,15/11/2009 09:23,15/11/2009 09:52
+ARQ-190,Task,Closed,ARQ,Arquillian,software,Obsolete,24/06/2010 06:01,26/04/2011 06:29
+ARQ-1900,Bug,Open,ARQ,Arquillian,software,,14/01/2015 09:54,
+ARQ-1902,Feature Request,Closed,ARQ,Arquillian,software,Done,20/01/2015 12:01,25/01/2015 07:45
+ARQ-1903,Feature Request,Resolved,ARQ,Arquillian,software,Done,25/01/2015 11:06,25/01/2015 11:11
+ARQ-1904,Enhancement,Closed,ARQ,Arquillian,software,Done,25/01/2015 16:37,25/01/2015 17:08
+ARQ-1905,Enhancement,Closed,ARQ,Arquillian,software,Done,25/01/2015 16:37,25/01/2015 17:08
+ARQ-1906,Bug,Closed,ARQ,Arquillian,software,Won't Do,26/01/2015 11:55,21/04/2017 04:36
+ARQ-1907,Task,Resolved,ARQ,Arquillian,software,Done,26/01/2015 15:01,26/01/2015 17:31
+ARQ-1908,Bug,Open,ARQ,Arquillian,software,,28/01/2015 11:36,
+ARQ-1909,Feature Request,Open,ARQ,Arquillian,software,,01/02/2015 15:26,
+ARQ-1910,Bug,Closed,ARQ,Arquillian,software,Done,04/02/2015 05:33,11/02/2015 16:10
+ARQ-1911,Enhancement,Closed,ARQ,Arquillian,software,Done,04/02/2015 10:00,11/02/2015 16:11
+ARQ-1912,Bug,Closed,ARQ,Arquillian,software,Obsolete,09/02/2015 06:11,09/02/2015 06:31
+ARQ-1913,Bug,Closed,ARQ,Arquillian,software,Won't Do,09/02/2015 07:52,10/02/2015 07:59
+ARQ-1914,Bug,Closed,ARQ,Arquillian,software,Won't Do,10/02/2015 09:44,16/02/2015 08:01
+ARQ-1915,Enhancement,Closed,ARQ,Arquillian,software,Done,11/02/2015 15:07,11/02/2015 15:10
+ARQ-1916,Task,Closed,ARQ,Arquillian,software,Done,16/02/2015 07:38,13/03/2015 07:01
+ARQ-1917,Task,Closed,ARQ,Arquillian,software,Done,16/02/2015 07:41,20/02/2015 07:24
+ARQ-1918,Task,Closed,ARQ,Arquillian,software,Done,16/02/2015 07:42,25/02/2015 17:14
+ARQ-1919,Bug,Closed,ARQ,Arquillian,software,Done,16/02/2015 07:45,25/02/2015 10:48
+ARQ-192,Task,Closed,ARQ,Arquillian,software,Done,24/06/2010 06:07,01/09/2010 17:04
+ARQ-1920,Task,Closed,ARQ,Arquillian,software,Done,16/02/2015 07:55,25/02/2015 15:57
+ARQ-1921,Feature Request,Resolved,ARQ,Arquillian,software,Done,16/02/2015 08:21,26/02/2015 14:19
+ARQ-1922,Bug,Closed,ARQ,Arquillian,software,Done,17/02/2015 11:08,17/02/2015 11:19
+ARQ-1923,Bug,Closed,ARQ,Arquillian,software,Done,19/02/2015 10:22,14/03/2016 05:17
+ARQ-1924,Bug,Open,ARQ,Arquillian,software,,20/02/2015 13:08,
+ARQ-1925,Feature Request,Resolved,ARQ,Arquillian,software,Done,24/02/2015 07:21,27/03/2017 15:06
+ARQ-1926,Bug,Closed,ARQ,Arquillian,software,Done,24/02/2015 07:58,27/03/2017 15:05
+ARQ-1927,Feature Request,Resolved,ARQ,Arquillian,software,Done,27/02/2015 08:41,17/04/2015 03:41
+ARQ-1928,Task,Closed,ARQ,Arquillian,software,Done,28/02/2015 08:40,28/02/2015 08:50
+ARQ-1929,Component Upgrade,Closed,ARQ,Arquillian,software,Done,02/03/2015 06:08,02/03/2015 06:25
+ARQ-193,Task,Closed,ARQ,Arquillian,software,Done,24/06/2010 06:10,26/04/2011 06:01
+ARQ-1930,Component Upgrade,Closed,ARQ,Arquillian,software,Done,02/03/2015 06:10,02/03/2015 06:25
+ARQ-1931,Bug,Resolved,ARQ,Arquillian,software,Done,04/03/2015 09:17,13/01/2017 03:39
+ARQ-1933,Task,Closed,ARQ,Arquillian,software,Done,09/03/2015 11:27,13/03/2015 07:00
+ARQ-1934,Task,Closed,ARQ,Arquillian,software,Done,10/03/2015 07:25,13/03/2015 07:00
+ARQ-1935,Enhancement,Open,ARQ,Arquillian,software,,11/03/2015 08:52,
+ARQ-1936,Bug,Closed,ARQ,Arquillian,software,Done,21/03/2015 12:47,20/04/2015 06:48
+ARQ-1937,Bug,Closed,ARQ,Arquillian,software,Done,23/03/2015 06:22,27/01/2016 12:18
+ARQ-1938,Feature Request,Open,ARQ,Arquillian,software,,23/03/2015 15:55,
+ARQ-1939,Bug,Open,ARQ,Arquillian,software,,27/03/2015 11:42,
+ARQ-194,Feature Request,Closed,ARQ,Arquillian,software,Done,24/06/2010 06:13,18/05/2011 18:17
+ARQ-1940,Bug,Resolved,ARQ,Arquillian,software,Done,02/04/2015 11:34,25/01/2016 09:30
+ARQ-1941,Enhancement,Open,ARQ,Arquillian,software,,07/04/2015 09:45,
+ARQ-1942,Bug,Closed,ARQ,Arquillian,software,Obsolete,12/04/2015 14:53,30/05/2017 03:37
+ARQ-1943,Bug,Resolved,ARQ,Arquillian,software,Won't Do,16/04/2015 18:59,21/04/2015 19:20
+ARQ-1944,Bug,Open,ARQ,Arquillian,software,,19/04/2015 18:26,
+ARQ-1945,Feature Request,Closed,ARQ,Arquillian,software,Done,20/04/2015 06:36,20/04/2015 06:47
+ARQ-1946,Bug,Open,ARQ,Arquillian,software,,22/04/2015 05:42,
+ARQ-1947,Bug,Resolved,ARQ,Arquillian,software,Done,06/05/2015 08:14,07/05/2015 03:57
+ARQ-1948,Bug,Open,ARQ,Arquillian,software,,07/05/2015 00:45,
+ARQ-1949,Bug,Resolved,ARQ,Arquillian,software,Obsolete,08/05/2015 04:52,10/07/2017 04:50
+ARQ-195,Feature Request,Closed,ARQ,Arquillian,software,Done,24/06/2010 13:48,18/05/2011 10:18
+ARQ-1950,Feature Request,Resolved,ARQ,Arquillian,software,Done,14/05/2015 13:24,14/05/2015 13:37
+ARQ-1951,Bug,Resolved,ARQ,Arquillian,software,Done,18/05/2015 09:49,18/05/2015 10:16
+ARQ-1952,Bug,Open,ARQ,Arquillian,software,,18/05/2015 18:30,
+ARQ-1953,Feature Request,Open,ARQ,Arquillian,software,,19/05/2015 06:10,
+ARQ-1954,Feature Request,Closed,ARQ,Arquillian,software,Done,28/05/2015 07:12,27/01/2016 11:33
+ARQ-1955,Bug,Open,ARQ,Arquillian,software,,29/05/2015 05:33,
+ARQ-1956,Feature Request,Closed,ARQ,Arquillian,software,Done,29/05/2015 10:27,27/01/2016 12:07
+ARQ-1957,Bug,Open,ARQ,Arquillian,software,,08/06/2015 16:46,
+ARQ-1958,Bug,Open,ARQ,Arquillian,software,,11/06/2015 08:44,
+ARQ-1959,Bug,Open,ARQ,Arquillian,software,,19/06/2015 10:56,
+ARQ-196,Feature Request,Closed,ARQ,Arquillian,software,Done,24/06/2010 14:07,02/02/2011 17:21
+ARQ-1960,Component Upgrade,Resolved,ARQ,Arquillian,software,Done,24/06/2015 08:30,24/06/2015 08:54
+ARQ-1961,Bug,Closed,ARQ,Arquillian,software,Cannot Reproduce,24/06/2015 14:24,07/03/2016 10:32
+ARQ-1962,Component Upgrade,Closed,ARQ,Arquillian,software,Done,02/07/2015 06:11,06/08/2015 05:34
+ARQ-1963,Bug,Open,ARQ,Arquillian,software,,09/07/2015 05:18,
+ARQ-1964,Bug,Open,ARQ,Arquillian,software,,10/07/2015 07:34,
+ARQ-1965,Bug,Closed,ARQ,Arquillian,software,Done,15/07/2015 19:09,14/11/2016 08:22
+ARQ-1966,Feature Request,Closed,ARQ,Arquillian,software,Done,28/07/2015 21:23,28/07/2015 21:32
+ARQ-1967,Feature Request,Resolved,ARQ,Arquillian,software,Done,28/07/2015 21:38,28/07/2015 22:00
+ARQ-1968,Feature Request,Resolved,ARQ,Arquillian,software,Won't Do,28/07/2015 23:11,29/07/2015 04:04
+ARQ-1969,Bug,Closed,ARQ,Arquillian,software,Won't Do,04/08/2015 09:36,05/08/2015 09:59
+ARQ-197,Feature Request,Coding In Progress,ARQ,Arquillian,software,,24/06/2010 14:29,
+ARQ-1970,Bug,Closed,ARQ,Arquillian,software,Done,07/08/2015 04:23,07/08/2015 04:37
+ARQ-1971,Bug,Resolved,ARQ,Arquillian,software,Done,18/08/2015 10:23,25/08/2016 11:37
+ARQ-1972,Feature Request,Closed,ARQ,Arquillian,software,Done,18/08/2015 20:18,18/08/2015 20:22
+ARQ-1973,Feature Request,Closed,ARQ,Arquillian,software,Done,19/08/2015 11:27,28/01/2016 07:35
+ARQ-1975,Feature Request,Closed,ARQ,Arquillian,software,Done,31/08/2015 08:00,01/09/2015 14:13
+ARQ-1976,Bug,Closed,ARQ,Arquillian,software,Done,01/09/2015 11:33,01/09/2015 13:34
+ARQ-1977,Feature Request,Closed,ARQ,Arquillian,software,Done,01/09/2015 13:35,01/09/2015 14:23
+ARQ-1978,Feature Request,Open,ARQ,Arquillian,software,,01/09/2015 14:19,
+ARQ-1979,Bug,Closed,ARQ,Arquillian,software,Done,08/09/2015 09:58,01/10/2015 05:36
+ARQ-198,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,24/06/2010 22:51,18/05/2011 18:19
+ARQ-1980,Feature Request,Closed,ARQ,Arquillian,software,Duplicate,18/09/2015 04:11,30/05/2016 08:42
+ARQ-1981,Enhancement,Closed,ARQ,Arquillian,software,Won't Do,21/09/2015 15:37,22/10/2024 07:24
+ARQ-1982,Bug,Open,ARQ,Arquillian,software,,24/09/2015 14:07,
+ARQ-1983,Bug,Closed,ARQ,Arquillian,software,Done,29/09/2015 06:29,14/11/2016 08:20
+ARQ-1984,Component Upgrade,Closed,ARQ,Arquillian,software,Done,30/09/2015 07:48,30/09/2015 18:44
+ARQ-1985,Component Upgrade,Closed,ARQ,Arquillian,software,Done,30/09/2015 18:45,30/09/2015 18:47
+ARQ-1986,Bug,Open,ARQ,Arquillian,software,,01/10/2015 12:24,
+ARQ-1987,Bug,Closed,ARQ,Arquillian,software,Done,04/10/2015 11:40,04/04/2024 14:22
+ARQ-1988,Component Upgrade,Closed,ARQ,Arquillian,software,Done,07/10/2015 08:07,08/10/2015 16:29
+ARQ-1989,Enhancement,Closed,ARQ,Arquillian,software,Done,07/10/2015 09:07,10/11/2015 04:58
+ARQ-199,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,24/06/2010 22:53,26/04/2011 06:31
+ARQ-1990,Bug,Closed,ARQ,Arquillian,software,Done,08/10/2015 16:04,08/10/2015 16:27
+ARQ-1991,Bug,Closed,ARQ,Arquillian,software,Cannot Reproduce,09/10/2015 14:41,10/10/2015 08:50
+ARQ-1992,Bug,Closed,ARQ,Arquillian,software,Done,14/10/2015 05:09,16/10/2015 11:12
+ARQ-1993,Bug,Closed,ARQ,Arquillian,software,Done,16/10/2015 08:08,19/10/2015 06:16
+ARQ-1994,Bug,Closed,ARQ,Arquillian,software,Won't Do,19/10/2015 04:33,19/10/2015 09:01
+ARQ-1995,Component Upgrade,Closed,ARQ,Arquillian,software,Done,19/10/2015 09:18,02/02/2016 10:07
+ARQ-1996,Component Upgrade,Closed,ARQ,Arquillian,software,Done,27/10/2015 15:54,27/10/2015 15:58
+ARQ-1997,Bug,Resolved,ARQ,Arquillian,software,Won't Do,10/11/2015 07:23,10/11/2015 09:50
+ARQ-1998,Bug,Open,ARQ,Arquillian,software,,10/11/2015 15:18,
+ARQ-1999,Bug,Resolved,ARQ,Arquillian,software,Done,15/11/2015 04:34,17/11/2015 10:51
+ARQ-2,Task,Closed,ARQ,Arquillian,software,Done,06/08/2009 08:20,15/12/2009 07:59
+ARQ-20,Task,Closed,ARQ,Arquillian,software,Done,15/11/2009 09:29,15/11/2009 09:51
+ARQ-200,Task,Closed,ARQ,Arquillian,software,Done,26/06/2010 19:51,01/07/2010 05:21
+ARQ-2000,Bug,Pull Request Sent,ARQ,Arquillian,software,,19/11/2015 08:14,
+ARQ-2001,Enhancement,Resolved,ARQ,Arquillian,software,Done,01/12/2015 14:49,09/03/2016 11:39
+ARQ-2002,Bug,Open,ARQ,Arquillian,software,,08/12/2015 08:00,
+ARQ-2003,Bug,Open,ARQ,Arquillian,software,,14/12/2015 07:31,
+ARQ-2004,Bug,Open,ARQ,Arquillian,software,,14/12/2015 08:14,
+ARQ-2005,Bug,Resolved,ARQ,Arquillian,software,Done,30/12/2015 07:47,30/12/2015 08:01
+ARQ-2006,Bug,Closed,ARQ,Arquillian,software,Done,12/01/2016 09:32,02/02/2016 10:09
+ARQ-2007,Bug,Open,ARQ,Arquillian,software,,13/01/2016 15:58,
+ARQ-2008,Feature Request,Resolved,ARQ,Arquillian,software,Done,18/01/2016 10:25,19/01/2016 16:25
+ARQ-2009,Bug,Closed,ARQ,Arquillian,software,Done,27/01/2016 10:41,27/01/2016 11:19
+ARQ-201,Bug,Closed,ARQ,Arquillian,software,Done,28/06/2010 00:26,19/07/2010 14:29
+ARQ-2010,Enhancement,Closed,ARQ,Arquillian,software,Done,27/01/2016 11:22,27/01/2016 11:26
+ARQ-2011,Component Upgrade,Closed,ARQ,Arquillian,software,Done,15/02/2016 05:07,15/02/2016 05:18
+ARQ-2012,Bug,Closed,ARQ,Arquillian,software,Done,15/02/2016 09:16,05/01/2017 11:21
+ARQ-2013,Component Upgrade,Closed,ARQ,Arquillian,software,Done,24/02/2016 03:42,14/03/2016 05:17
+ARQ-2014,Bug,Closed,ARQ,Arquillian,software,Done,01/03/2016 03:08,14/03/2016 05:17
+ARQ-2015,Bug,Open,ARQ,Arquillian,software,,02/03/2016 09:35,
+ARQ-2016,Feature Request,Resolved,ARQ,Arquillian,software,Done,03/03/2016 18:55,22/05/2017 03:23
+ARQ-2018,Enhancement,Closed,ARQ,Arquillian,software,Duplicate,05/03/2016 12:48,14/03/2016 12:12
+ARQ-202,Feature Request,Closed,ARQ,Arquillian,software,Done,29/06/2010 08:26,01/07/2010 05:22
+ARQ-2020,Feature Request,Resolved,ARQ,Arquillian,software,Done,07/03/2016 10:07,18/02/2018 04:12
+ARQ-2022,Feature Request,Closed,ARQ,Arquillian,software,Done,17/03/2016 08:38,21/04/2017 04:18
+ARQ-2023,Enhancement,Resolved,ARQ,Arquillian,software,Done,18/03/2016 05:50,13/10/2016 03:53
+ARQ-2024,Component Upgrade,Closed,ARQ,Arquillian,software,Done,23/03/2016 04:26,24/03/2016 07:07
+ARQ-2025,Feature Request,Closed,ARQ,Arquillian,software,Done,23/03/2016 04:33,24/03/2016 07:07
+ARQ-2026,Enhancement,Closed,ARQ,Arquillian,software,Done,15/04/2016 04:28,14/10/2016 08:51
+ARQ-2027,Bug,Open,ARQ,Arquillian,software,,03/05/2016 03:19,
+ARQ-2028,Enhancement,Resolved,ARQ,Arquillian,software,Done,08/05/2016 07:27,19/05/2016 15:27
+ARQ-2029,Enhancement,Closed,ARQ,Arquillian,software,Done,10/05/2016 09:56,29/06/2016 03:52
+ARQ-203,Bug,Closed,ARQ,Arquillian,software,Done,29/06/2010 09:08,08/07/2010 10:30
+ARQ-2030,Bug,Resolved,ARQ,Arquillian,software,Obsolete,10/05/2016 10:54,08/02/2017 04:58
+ARQ-2031,Bug,Open,ARQ,Arquillian,software,,17/05/2016 06:04,
+ARQ-2032,Feature Request,Open,ARQ,Arquillian,software,,18/05/2016 05:05,
+ARQ-2033,Bug,Closed,ARQ,Arquillian,software,Done,27/05/2016 15:39,14/11/2016 08:25
+ARQ-2034,Bug,Closed,ARQ,Arquillian,software,Done,17/06/2016 11:23,05/01/2017 11:20
+ARQ-2035,Enhancement,Open,ARQ,Arquillian,software,,27/06/2016 04:18,
+ARQ-2036,Bug,Closed,ARQ,Arquillian,software,Won't Do,27/06/2016 04:40,11/04/2017 14:02
+ARQ-2037,Feature Request,Closed,ARQ,Arquillian,software,Done,22/07/2016 09:38,15/09/2016 06:44
+ARQ-2038,Feature Request,Closed,ARQ,Arquillian,software,Done,26/07/2016 10:21,12/07/2017 06:26
+ARQ-2039,Enhancement,Resolved,ARQ,Arquillian,software,Done,18/08/2016 09:16,01/09/2016 03:44
+ARQ-204,Bug,Closed,ARQ,Arquillian,software,Done,01/07/2010 07:46,01/07/2010 07:48
+ARQ-2040,Feature Request,Resolved,ARQ,Arquillian,software,Duplicate,18/08/2016 09:20,29/08/2016 09:21
+ARQ-2041,Bug,Resolved,ARQ,Arquillian,software,Done,30/08/2016 04:53,07/09/2016 02:47
+ARQ-2042,Bug,Closed,ARQ,Arquillian,software,Done,05/09/2016 07:43,05/09/2016 08:05
+ARQ-2043,Component Upgrade,Closed,ARQ,Arquillian,software,Done,05/09/2016 08:02,15/09/2016 06:45
+ARQ-2044,Feature Request,Closed,ARQ,Arquillian,software,Done,05/09/2016 08:24,15/09/2016 06:42
+ARQ-2045,Feature Request,Closed,ARQ,Arquillian,software,Done,14/09/2016 08:19,15/09/2016 06:43
+ARQ-2046,Bug,Open,ARQ,Arquillian,software,,27/09/2016 05:20,
+ARQ-2047,Feature Request,Open,ARQ,Arquillian,software,,30/09/2016 03:59,
+ARQ-2048,Bug,Resolved,ARQ,Arquillian,software,Done,11/10/2016 09:10,13/10/2016 09:05
+ARQ-2049,Bug,Open,ARQ,Arquillian,software,,14/10/2016 16:34,
+ARQ-205,Feature Request,Closed,ARQ,Arquillian,software,Done,02/07/2010 13:13,07/07/2010 14:44
+ARQ-2050,Bug,Open,ARQ,Arquillian,software,,19/10/2016 07:09,
+ARQ-2051,Feature Request,Resolved,ARQ,Arquillian,software,Done,24/10/2016 04:54,29/10/2016 10:19
+ARQ-2052,Feature Request,Closed,ARQ,Arquillian,software,Done,04/11/2016 08:27,15/11/2016 02:40
+ARQ-2053,Bug,Closed,ARQ,Arquillian,software,Done,09/11/2016 11:28,09/01/2017 15:44
+ARQ-2054,Feature Request,Resolved,ARQ,Arquillian,software,Done,11/11/2016 07:30,13/01/2017 03:37
+ARQ-2055,Component Upgrade,Closed,ARQ,Arquillian,software,Done,11/11/2016 07:40,11/11/2016 10:12
+ARQ-2056,Task,Closed,ARQ,Arquillian,software,Done,11/11/2016 07:43,11/11/2016 10:13
+ARQ-2057,Component Upgrade,Closed,ARQ,Arquillian,software,Done,11/11/2016 08:09,11/11/2016 10:14
+ARQ-2058,Component Upgrade,Closed,ARQ,Arquillian,software,Done,11/11/2016 08:23,05/01/2017 11:24
+ARQ-2059,Feature Request,Open,ARQ,Arquillian,software,,21/11/2016 07:47,
+ARQ-206,Feature Request,Closed,ARQ,Arquillian,software,Done,05/07/2010 07:32,18/07/2010 11:43
+ARQ-2060,Feature Request,Closed,ARQ,Arquillian,software,Done,29/11/2016 03:48,16/02/2017 08:30
+ARQ-2061,Component Upgrade,Closed,ARQ,Arquillian,software,Done,07/12/2016 07:11,09/03/2017 15:05
+ARQ-2062,Component Upgrade,Closed,ARQ,Arquillian,software,Done,07/12/2016 07:13,10/02/2017 09:02
+ARQ-2063,Component Upgrade,Closed,ARQ,Arquillian,software,Done,07/12/2016 07:14,10/02/2017 09:02
+ARQ-2064,Component Upgrade,Closed,ARQ,Arquillian,software,Done,07/12/2016 10:13,10/02/2017 09:03
+ARQ-2065,Feature Request,Closed,ARQ,Arquillian,software,Done,13/12/2016 09:14,13/12/2016 09:16
+ARQ-2066,Feature Request,Open,ARQ,Arquillian,software,,15/12/2016 04:43,
+ARQ-2067,Bug,Closed,ARQ,Arquillian,software,Won't Do,30/12/2016 05:11,04/01/2017 11:22
+ARQ-2068,Bug,Closed,ARQ,Arquillian,software,Done,05/01/2017 11:31,05/01/2017 11:33
+ARQ-2069,Bug,Resolved,ARQ,Arquillian,software,Done,13/01/2017 03:43,13/01/2017 03:44
+ARQ-207,Bug,Closed,ARQ,Arquillian,software,Done,05/07/2010 07:58,05/07/2010 08:02
+ARQ-2070,Feature Request,Resolved,ARQ,Arquillian,software,Done,19/01/2017 15:10,15/03/2017 12:59
+ARQ-2071,Enhancement,Closed,ARQ,Arquillian,software,Done,02/02/2017 08:48,16/02/2017 04:40
+ARQ-2072,Bug,Closed,ARQ,Arquillian,software,Done,02/02/2017 11:28,16/02/2017 04:49
+ARQ-2073,Bug,Closed,ARQ,Arquillian,software,Won't Do,08/02/2017 04:31,15/02/2017 05:43
+ARQ-2074,Enhancement,Closed,ARQ,Arquillian,software,Done,15/02/2017 02:32,09/03/2017 15:03
+ARQ-2075,Enhancement,Closed,ARQ,Arquillian,software,Done,15/02/2017 05:46,21/04/2017 06:39
+ARQ-208,Bug,Resolved,ARQ,Arquillian,software,Obsolete,05/07/2010 11:49,10/06/2013 07:19
+ARQ-2080,Bug,Closed,ARQ,Arquillian,software,Done,17/02/2017 06:50,09/03/2017 15:01
+ARQ-2081,Component Upgrade,Closed,ARQ,Arquillian,software,Done,06/03/2017 09:25,09/03/2017 15:00
+ARQ-2082,Feature Request,Open,ARQ,Arquillian,software,,06/03/2017 12:20,
+ARQ-2083,Component Upgrade,Closed,ARQ,Arquillian,software,Done,09/03/2017 06:12,09/03/2017 14:59
+ARQ-2084,Component Upgrade,Closed,ARQ,Arquillian,software,Done,18/03/2017 13:34,20/03/2017 03:17
+ARQ-2085,Enhancement,Closed,ARQ,Arquillian,software,Done,20/03/2017 03:15,20/03/2017 03:17
+ARQ-2086,Bug,Resolved,ARQ,Arquillian,software,Done,20/03/2017 12:36,28/11/2017 02:58
+ARQ-2087,Enhancement,Resolved,ARQ,Arquillian,software,Done,27/03/2017 15:00,27/03/2017 15:01
+ARQ-2088,Enhancement,Closed,ARQ,Arquillian,software,Won't Do,28/03/2017 08:47,23/05/2017 04:59
+ARQ-2089,Feature Request,Closed,ARQ,Arquillian,software,Done,04/04/2017 04:37,04/04/2017 05:28
+ARQ-209,Feature Request,Closed,ARQ,Arquillian,software,Done,06/07/2010 07:24,08/07/2010 09:04
+ARQ-2090,Bug,Resolved,ARQ,Arquillian,software,Done,04/04/2017 05:41,06/04/2017 12:41
+ARQ-2092,Story,Open,ARQ,Arquillian,software,,11/04/2017 14:27,
+ARQ-2093,Story,Open,ARQ,Arquillian,software,,11/04/2017 14:28,
+ARQ-21,Task,Closed,ARQ,Arquillian,software,Done,16/11/2009 06:45,09/03/2010 09:21
+ARQ-210,Feature Request,Closed,ARQ,Arquillian,software,Done,06/07/2010 14:48,18/07/2010 14:47
+ARQ-2104,Enhancement,Resolved,ARQ,Arquillian,software,Done,12/04/2017 03:26,13/04/2017 06:21
+ARQ-2106,Feature Request,Closed,ARQ,Arquillian,software,Done,18/04/2017 07:17,18/04/2017 07:19
+ARQ-2107,Bug,Resolved,ARQ,Arquillian,software,Done,28/04/2017 07:02,18/07/2017 11:00
+ARQ-2109,Bug,Resolved,ARQ,Arquillian,software,Done,04/05/2017 11:08,18/07/2017 11:00
+ARQ-211,Bug,Closed,ARQ,Arquillian,software,Done,10/07/2010 11:23,02/02/2011 17:23
+ARQ-2110,Feature Request,Resolved,ARQ,Arquillian,software,Done,04/05/2017 14:56,23/05/2017 05:01
+ARQ-2111,Component Upgrade,Closed,ARQ,Arquillian,software,Done,10/05/2017 04:10,11/05/2017 09:12
+ARQ-2112,Feature Request,Closed,ARQ,Arquillian,software,Done,10/05/2017 09:59,11/05/2017 09:11
+ARQ-2114,Bug,Closed,ARQ,Arquillian,software,Done,18/05/2017 11:08,25/05/2017 08:20
+ARQ-2115,Feature Request,Resolved,ARQ,Arquillian,software,Done,22/05/2017 11:49,24/05/2017 17:02
+ARQ-2117,Enhancement,Resolved,ARQ,Arquillian,software,Done,25/05/2017 05:39,25/05/2017 05:58
+ARQ-2118,Enhancement,Pull Request Sent,ARQ,Arquillian,software,,29/05/2017 12:31,
+ARQ-2119,Feature Request,Closed,ARQ,Arquillian,software,Done,01/06/2017 09:30,13/06/2017 07:43
+ARQ-212,Bug,Closed,ARQ,Arquillian,software,Done,10/07/2010 17:14,16/07/2010 05:20
+ARQ-2121,Feature Request,Resolved,ARQ,Arquillian,software,Done,09/06/2017 10:41,21/06/2017 04:35
+ARQ-2122,Enhancement,Closed,ARQ,Arquillian,software,Done,12/06/2017 12:13,12/06/2017 12:15
+ARQ-2123,Enhancement,Resolved,ARQ,Arquillian,software,Done,08/07/2017 05:03,08/07/2017 05:05
+ARQ-2124,Bug,Resolved,ARQ,Arquillian,software,Done,08/07/2017 05:06,08/07/2017 05:07
+ARQ-2125,Bug,Resolved,ARQ,Arquillian,software,Done,08/07/2017 05:07,08/07/2017 05:08
+ARQ-2126,Bug,Closed,ARQ,Arquillian,software,Done,12/07/2017 04:28,13/07/2017 05:19
+ARQ-2127,Bug,Closed,ARQ,Arquillian,software,Done,13/07/2017 04:19,13/07/2017 04:23
+ARQ-2128,Bug,Closed,ARQ,Arquillian,software,Done,14/07/2017 11:45,17/07/2017 06:43
+ARQ-2129,Bug,Closed,ARQ,Arquillian,software,Done,20/07/2017 08:14,23/08/2017 09:46
+ARQ-213,Feature Request,Closed,ARQ,Arquillian,software,Done,10/07/2010 17:17,16/07/2010 05:20
+ARQ-2130,Enhancement,Closed,ARQ,Arquillian,software,Done,25/07/2017 09:20,29/03/2018 16:06
+ARQ-2131,Bug,Resolved,ARQ,Arquillian,software,Duplicate,27/07/2017 08:40,31/07/2017 12:27
+ARQ-2132,Feature Request,Closed,ARQ,Arquillian,software,Done,03/08/2017 10:36,23/08/2017 09:47
+ARQ-2133,Bug,Open,ARQ,Arquillian,software,,07/08/2017 04:02,
+ARQ-2134,Bug,Open,ARQ,Arquillian,software,,09/08/2017 00:35,
+ARQ-2135,Bug,Closed,ARQ,Arquillian,software,Done,09/08/2017 04:08,09/08/2017 04:12
+ARQ-2136,Enhancement,Resolved,ARQ,Arquillian,software,Done,11/08/2017 12:23,11/08/2017 12:29
+ARQ-2137,Component Upgrade,Closed,ARQ,Arquillian,software,Done,14/08/2017 08:57,23/08/2017 09:46
+ARQ-2138,Feature Request,Open,ARQ,Arquillian,software,,18/08/2017 07:40,
+ARQ-2139,Feature Request,Closed,ARQ,Arquillian,software,Done,23/08/2017 12:00,23/08/2017 12:02
+ARQ-214,Task,Closed,ARQ,Arquillian,software,Done,12/07/2010 18:14,27/07/2010 18:52
+ARQ-2140,Enhancement,Closed,ARQ,Arquillian,software,Done,28/08/2017 05:33,06/09/2017 04:54
+ARQ-2141,Component Upgrade,Closed,ARQ,Arquillian,software,Done,05/09/2017 11:47,06/09/2017 04:54
+ARQ-2142,Bug,Open,ARQ,Arquillian,software,,05/09/2017 14:29,
+ARQ-2143,Bug,Resolved,ARQ,Arquillian,software,Done,16/09/2017 22:24,15/11/2017 12:56
+ARQ-2144,Bug,Open,ARQ,Arquillian,software,,20/09/2017 20:10,
+ARQ-2145,Bug,Closed,ARQ,Arquillian,software,Done,21/09/2017 07:40,30/11/2017 06:58
+ARQ-2146,Bug,Open,ARQ,Arquillian,software,,13/10/2017 03:55,
+ARQ-2147,Component Upgrade,Closed,ARQ,Arquillian,software,Done,03/11/2017 08:19,03/11/2017 11:05
+ARQ-2148,Enhancement,Closed,ARQ,Arquillian,software,Done,09/11/2017 04:18,20/12/2017 10:43
+ARQ-2149,Component Upgrade,Closed,ARQ,Arquillian,software,Done,09/11/2017 09:12,09/11/2017 10:00
+ARQ-215,Feature Request,Closed,ARQ,Arquillian,software,Done,13/07/2010 17:27,16/09/2010 10:41
+ARQ-2150,Component Upgrade,Closed,ARQ,Arquillian,software,Done,09/11/2017 09:18,09/11/2017 09:34
+ARQ-2151,Bug,Closed,ARQ,Arquillian,software,Done,09/11/2017 09:25,13/11/2017 09:02
+ARQ-2152,Feature Request,Resolved,ARQ,Arquillian,software,Done,15/11/2017 11:29,18/11/2017 10:30
+ARQ-2153,Feature Request,Resolved,ARQ,Arquillian,software,Done,16/11/2017 11:46,29/03/2018 16:02
+ARQ-2154,Bug,Closed,ARQ,Arquillian,software,Done,17/11/2017 09:30,12/12/2017 16:54
+ARQ-2155,Bug,Open,ARQ,Arquillian,software,,22/11/2017 15:57,
+ARQ-2156,Enhancement,Resolved,ARQ,Arquillian,software,Done,28/11/2017 03:27,28/11/2017 03:27
+ARQ-2157,Bug,Resolved,ARQ,Arquillian,software,Done,28/11/2017 03:29,28/11/2017 03:29
+ARQ-2158,Enhancement,Resolved,ARQ,Arquillian,software,Done,29/11/2017 03:38,29/11/2017 03:39
+ARQ-2159,Component Upgrade,Closed,ARQ,Arquillian,software,Done,30/11/2017 10:23,12/12/2017 16:55
+ARQ-216,Feature Request,Closed,ARQ,Arquillian,software,Done,13/07/2010 17:33,18/05/2011 10:18
+ARQ-2160,Component Upgrade,Closed,ARQ,Arquillian,software,Done,01/12/2017 09:08,12/12/2017 16:55
+ARQ-2161,Component Upgrade,Closed,ARQ,Arquillian,software,Done,01/12/2017 09:08,12/12/2017 16:55
+ARQ-2162,Release,Resolved,ARQ,Arquillian,software,Done,01/12/2017 15:33,29/03/2018 16:04
+ARQ-2163,Bug,Closed,ARQ,Arquillian,software,Done,04/12/2017 07:24,12/12/2017 16:55
+ARQ-2164,Feature Request,Open,ARQ,Arquillian,software,,12/12/2017 04:59,
+ARQ-2165,Bug,Resolved,ARQ,Arquillian,software,Done,12/12/2017 08:36,12/12/2017 08:37
+ARQ-2166,Task,Open,ARQ,Arquillian,software,,12/12/2017 11:15,
+ARQ-2167,Component Upgrade,Closed,ARQ,Arquillian,software,Done,12/12/2017 14:11,12/12/2017 16:55
+ARQ-2168,Enhancement,Open,ARQ,Arquillian,software,,19/12/2017 04:01,
+ARQ-2169,Bug,Resolved,ARQ,Arquillian,software,Done,17/01/2018 11:03,22/01/2018 14:04
+ARQ-217,Bug,Closed,ARQ,Arquillian,software,Done,15/07/2010 17:40,02/02/2011 17:25
+ARQ-2170,Bug,Resolved,ARQ,Arquillian,software,Not a Bug,19/01/2018 12:54,05/02/2018 10:41
+ARQ-2171,Bug,Resolved,ARQ,Arquillian,software,Done,22/01/2018 10:07,24/01/2018 06:38
+ARQ-2172,Enhancement,Resolved,ARQ,Arquillian,software,Done,23/01/2018 04:26,23/01/2018 04:27
+ARQ-2173,Enhancement,Resolved,ARQ,Arquillian,software,Done,02/02/2018 07:45,05/02/2018 10:41
+ARQ-2174,Enhancement,Resolved,ARQ,Arquillian,software,Done,05/02/2018 06:21,05/02/2018 10:40
+ARQ-2175,Bug,Closed,ARQ,Arquillian,software,Done,21/02/2018 05:27,27/02/2018 11:19
+ARQ-2176,Feature Request,Open,ARQ,Arquillian,software,,21/02/2018 08:17,
+ARQ-2177,Enhancement,Closed,ARQ,Arquillian,software,Done,22/02/2018 04:22,22/02/2018 04:31
+ARQ-2178,Task,Resolved,ARQ,Arquillian,software,Done,23/02/2018 05:31,23/02/2018 05:32
+ARQ-2179,Bug,Closed,ARQ,Arquillian,software,Done,19/03/2018 12:31,20/03/2018 05:14
+ARQ-218,Feature Request,Closed,ARQ,Arquillian,software,Done,16/07/2010 04:41,13/09/2010 09:40
+ARQ-2180,Bug,Resolved,ARQ,Arquillian,software,Done,23/03/2018 11:49,29/03/2018 16:03
+ARQ-2181,Bug,Open,ARQ,Arquillian,software,,04/04/2018 08:51,
+ARQ-2182,Bug,Open,ARQ,Arquillian,software,,22/04/2018 12:59,
+ARQ-2183,Enhancement,Resolved,ARQ,Arquillian,software,Done,22/04/2018 21:24,26/04/2018 13:27
+ARQ-2184,Bug,Resolved,ARQ,Arquillian,software,Done,22/04/2018 21:41,23/04/2018 15:45
+ARQ-2185,Bug,Open,ARQ,Arquillian,software,,29/06/2018 10:47,
+ARQ-2186,Enhancement,Open,ARQ,Arquillian,software,,03/07/2018 08:03,
+ARQ-2187,Bug,Open,ARQ,Arquillian,software,,05/07/2018 08:26,
+ARQ-2188,Enhancement,Open,ARQ,Arquillian,software,,13/07/2018 01:37,
+ARQ-2189,Bug,Open,ARQ,Arquillian,software,,17/07/2018 11:21,
+ARQ-219,Feature Request,Closed,ARQ,Arquillian,software,Done,16/07/2010 14:54,21/07/2012 14:05
+ARQ-2190,Bug,Open,ARQ,Arquillian,software,,15/08/2018 03:04,
+ARQ-2191,Bug,Resolved,ARQ,Arquillian,software,Done,23/08/2018 02:56,06/09/2018 03:50
+ARQ-2192,Bug,Open,ARQ,Arquillian,software,,28/08/2018 08:34,
+ARQ-2193,Bug,Open,ARQ,Arquillian,software,,29/08/2018 05:53,
+ARQ-2194,Bug,Resolved,ARQ,Arquillian,software,Done,29/08/2018 10:20,06/09/2018 03:44
+ARQ-2195,Bug,Coding In Progress,ARQ,Arquillian,software,,10/09/2018 09:42,
+ARQ-2196,Bug,Resolved,ARQ,Arquillian,software,Done,09/10/2018 02:14,12/10/2018 04:44
+ARQ-2197,Enhancement,Resolved,ARQ,Arquillian,software,Done,09/10/2018 02:20,12/10/2018 04:44
+ARQ-2198,Bug,Open,ARQ,Arquillian,software,,29/10/2018 02:38,
+ARQ-2199,Enhancement,Open,ARQ,Arquillian,software,,08/11/2018 14:42,
+ARQ-22,Task,Closed,ARQ,Arquillian,software,Done,16/11/2009 15:29,16/11/2009 15:35
+ARQ-220,Feature Request,Closed,ARQ,Arquillian,software,Done,18/07/2010 07:25,05/09/2010 11:18
+ARQ-2200,Bug,Open,ARQ,Arquillian,software,,15/11/2018 05:24,
+ARQ-2201,Bug,Open,ARQ,Arquillian,software,,21/11/2018 06:35,
+ARQ-2202,Bug,Open,ARQ,Arquillian,software,,18/12/2018 11:39,
+ARQ-2203,Bug,Open,ARQ,Arquillian,software,,15/01/2019 09:03,
+ARQ-2204,Bug,Closed,ARQ,Arquillian,software,Done,25/05/2019 19:53,29/07/2019 11:57
+ARQ-2205,Bug,Open,ARQ,Arquillian,software,,24/05/2020 13:48,
+ARQ-2206,Bug,Open,ARQ,Arquillian,software,,24/08/2020 08:38,
+ARQ-2207,Bug,Resolved,ARQ,Arquillian,software,Done,12/10/2020 06:18,27/10/2020 03:17
+ARQ-2208,Bug,Resolved,ARQ,Arquillian,software,Done,18/11/2020 02:14,18/11/2020 03:03
+ARQ-2209,Bug,Open,ARQ,Arquillian,software,,23/11/2020 07:01,
+ARQ-221,Task,Closed,ARQ,Arquillian,software,Done,18/07/2010 09:07,27/07/2010 20:04
+ARQ-2210,Bug,Open,ARQ,Arquillian,software,,30/01/2021 07:31,
+ARQ-2211,Enhancement,Resolved,ARQ,Arquillian,software,Obsolete,05/02/2021 11:54,09/02/2021 10:22
+ARQ-2212,Bug,Resolved,ARQ,Arquillian,software,Done,22/02/2021 01:19,22/02/2021 01:58
+ARQ-2213,Bug,Open,ARQ,Arquillian,software,,19/05/2021 06:57,
+ARQ-2214,Task,Resolved,ARQ,Arquillian,software,Done,13/07/2021 19:27,05/11/2021 18:00
+ARQ-2215,Task,Open,ARQ,Arquillian,software,,14/12/2021 14:27,
+ARQ-2216,Enhancement,Resolved,ARQ,Arquillian,software,Done,20/01/2022 19:22,08/05/2023 20:29
+ARQ-2217,Bug,Closed,ARQ,Arquillian,software,Not a Bug,02/05/2022 20:26,07/07/2022 13:40
+ARQ-2218,Story,Closed,ARQ,Arquillian,software,Won't Do,01/06/2022 11:54,07/07/2022 13:37
+ARQ-2219,Story,Closed,ARQ,Arquillian,software,Won't Do,15/06/2022 09:21,07/07/2022 13:38
+ARQ-222,Task,Closed,ARQ,Arquillian,software,Done,19/07/2010 17:40,13/08/2010 05:27
+ARQ-2220,Task,Open,ARQ,Arquillian,software,,07/07/2022 13:58,
+ARQ-2221,Bug,Closed,ARQ,Arquillian,software,Done,01/08/2022 01:57,04/04/2024 14:21
+ARQ-2222,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,14/12/2022 11:04,15/12/2022 08:42
+ARQ-2223,Bug,Open,ARQ,Arquillian,software,,13/03/2023 23:16,
+ARQ-2224,Feature Request,Resolved,ARQ,Arquillian,software,Done,30/05/2023 17:24,21/05/2024 21:58
+ARQ-2225,Bug,Open,ARQ,Arquillian,software,,02/06/2023 12:27,
+ARQ-2226,Feature Request,Open,ARQ,Arquillian,software,,10/06/2023 11:26,
+ARQ-2227,Enhancement,Resolved,ARQ,Arquillian,software,Done,12/07/2023 03:52,15/08/2023 02:46
+ARQ-2228,Feature Request,Open,ARQ,Arquillian,software,,04/08/2023 09:47,
+ARQ-2229,Task,Open,ARQ,Arquillian,software,,13/09/2023 18:58,
+ARQ-223,Feature Request,Open,ARQ,Arquillian,software,,20/07/2010 07:49,
+ARQ-2230,Enhancement,Pull Request Sent,ARQ,Arquillian,software,,07/03/2024 14:07,
+ARQ-2231,Bug,Resolved,ARQ,Arquillian,software,Done,08/03/2024 22:18,08/07/2024 14:21
+ARQ-2232,Task,Resolved,ARQ,Arquillian,software,Done,28/03/2024 14:50,15/04/2024 08:14
+ARQ-2234,Bug,Open,ARQ,Arquillian,software,,29/05/2024 08:35,
+ARQ-2235,Bug,Pull Request Sent,ARQ,Arquillian,software,,29/05/2024 15:54,
+ARQ-2236,Bug,Resolved,ARQ,Arquillian,software,Done,01/07/2024 17:17,01/07/2024 20:00
+ARQ-2237,Feature Request,Resolved,ARQ,Arquillian,software,Done,01/07/2024 17:19,10/07/2024 09:18
+ARQ-224,Feature Request,Open,ARQ,Arquillian,software,,20/07/2010 12:36,
+ARQ-225,Feature Request,Open,ARQ,Arquillian,software,,21/07/2010 19:21,
+ARQ-226,Bug,Closed,ARQ,Arquillian,software,Done,22/07/2010 13:18,22/07/2010 13:25
+ARQ-227,Feature Request,Closed,ARQ,Arquillian,software,Done,26/07/2010 11:59,15/03/2011 10:58
+ARQ-228,Bug,Closed,ARQ,Arquillian,software,Done,27/07/2010 11:24,27/07/2010 11:31
+ARQ-229,Feature Request,Closed,ARQ,Arquillian,software,Done,27/07/2010 14:28,31/05/2011 11:27
+ARQ-23,Task,Closed,ARQ,Arquillian,software,Done,23/11/2009 08:23,25/11/2009 09:30
+ARQ-230,Feature Request,Closed,ARQ,Arquillian,software,Done,30/07/2010 14:42,30/08/2010 16:29
+ARQ-231,Feature Request,Open,ARQ,Arquillian,software,,02/08/2010 07:51,
+ARQ-232,Feature Request,Open,ARQ,Arquillian,software,,02/08/2010 08:06,
+ARQ-233,Feature Request,Open,ARQ,Arquillian,software,,02/08/2010 17:05,
+ARQ-235,Bug,Closed,ARQ,Arquillian,software,Duplicate,03/08/2010 04:41,27/04/2011 10:19
+ARQ-236,Feature Request,Closed,ARQ,Arquillian,software,Done,03/08/2010 05:25,22/11/2011 12:34
+ARQ-237,Feature Request,Closed,ARQ,Arquillian,software,Done,03/08/2010 09:15,12/08/2010 13:57
+ARQ-238,Feature Request,Closed,ARQ,Arquillian,software,Done,03/08/2010 18:16,27/05/2011 06:22
+ARQ-239,Bug,Closed,ARQ,Arquillian,software,Done,04/08/2010 12:57,05/09/2010 11:08
+ARQ-24,Task,Closed,ARQ,Arquillian,software,Done,23/11/2009 08:33,24/11/2009 09:33
+ARQ-240,Bug,Closed,ARQ,Arquillian,software,Done,04/08/2010 13:27,13/08/2010 05:29
+ARQ-241,Bug,Closed,ARQ,Arquillian,software,Done,05/08/2010 03:18,12/08/2010 13:59
+ARQ-242,Bug,Closed,ARQ,Arquillian,software,Done,05/08/2010 04:55,12/08/2010 14:00
+ARQ-243,Bug,Closed,ARQ,Arquillian,software,Done,09/08/2010 05:14,13/08/2010 05:26
+ARQ-244,Feature Request,Coding In Progress,ARQ,Arquillian,software,,09/08/2010 11:12,
+ARQ-245,Bug,Open,ARQ,Arquillian,software,,09/08/2010 11:37,
+ARQ-246,Bug,Closed,ARQ,Arquillian,software,Done,10/08/2010 12:32,04/09/2010 10:00
+ARQ-247,Bug,Closed,ARQ,Arquillian,software,Duplicate,11/08/2010 02:57,28/06/2011 10:13
+ARQ-248,Task,Closed,ARQ,Arquillian,software,Done,11/08/2010 05:56,11/08/2010 09:13
+ARQ-249,Feature Request,Closed,ARQ,Arquillian,software,Done,11/08/2010 06:31,13/08/2010 05:24
+ARQ-25,Task,Closed,ARQ,Arquillian,software,Done,23/11/2009 08:37,01/03/2010 05:12
+ARQ-250,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,11/08/2010 06:46,21/03/2012 05:17
+ARQ-251,Task,Closed,ARQ,Arquillian,software,Done,12/08/2010 04:02,05/09/2010 16:43
+ARQ-252,Bug,Closed,ARQ,Arquillian,software,Done,12/08/2010 09:00,13/08/2010 10:40
+ARQ-253,Task,Closed,ARQ,Arquillian,software,Done,12/08/2010 11:07,13/08/2010 16:29
+ARQ-254,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,12/08/2010 13:19,12/08/2010 13:54
+ARQ-255,Feature Request,Closed,ARQ,Arquillian,software,Done,15/08/2010 09:03,16/08/2010 17:06
+ARQ-256,Bug,Closed,ARQ,Arquillian,software,Done,15/08/2010 11:38,16/08/2010 17:06
+ARQ-257,Bug,Closed,ARQ,Arquillian,software,Done,15/08/2010 16:59,18/08/2010 06:08
+ARQ-258,Bug,Closed,ARQ,Arquillian,software,Done,15/08/2010 19:10,31/08/2010 15:23
+ARQ-259,Task,Closed,ARQ,Arquillian,software,Done,15/08/2010 20:28,02/02/2011 17:43
+ARQ-26,Task,Closed,ARQ,Arquillian,software,Obsolete,23/11/2009 08:38,09/05/2011 08:49
+ARQ-260,Feature Request,Closed,ARQ,Arquillian,software,Done,18/08/2010 09:45,04/09/2010 09:13
+ARQ-261,Feature Request,Closed,ARQ,Arquillian,software,Done,19/08/2010 10:25,30/08/2011 12:54
+ARQ-262,Feature Request,Closed,ARQ,Arquillian,software,Done,19/08/2010 10:25,18/06/2011 09:03
+ARQ-263,Bug,Closed,ARQ,Arquillian,software,Done,24/08/2010 01:49,04/09/2010 08:25
+ARQ-264,Feature Request,Closed,ARQ,Arquillian,software,Done,25/08/2010 04:27,22/01/2014 02:15
+ARQ-265,Feature Request,Open,ARQ,Arquillian,software,,26/08/2010 13:12,
+ARQ-266,Feature Request,Closed,ARQ,Arquillian,software,Done,30/08/2010 11:16,04/09/2010 13:09
+ARQ-267,Bug,Closed,ARQ,Arquillian,software,Duplicate,31/08/2010 12:46,31/08/2010 15:19
+ARQ-268,Task,Closed,ARQ,Arquillian,software,Done,02/09/2010 10:20,05/09/2010 09:30
+ARQ-269,Feature Request,Closed,ARQ,Arquillian,software,Done,02/09/2010 10:26,29/07/2011 08:06
+ARQ-27,Task,Closed,ARQ,Arquillian,software,Done,23/11/2009 08:42,23/11/2009 09:33
+ARQ-270,Task,Closed,ARQ,Arquillian,software,Done,02/09/2010 13:55,02/09/2010 14:06
+ARQ-271,Feature Request,Resolved,ARQ,Arquillian,software,Obsolete,03/09/2010 05:40,11/02/2015 03:41
+ARQ-272,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,03/09/2010 07:15,26/04/2011 06:19
+ARQ-273,Task,Closed,ARQ,Arquillian,software,Obsolete,03/09/2010 10:19,26/04/2011 06:28
+ARQ-275,Bug,Closed,ARQ,Arquillian,software,Done,06/09/2010 12:30,15/03/2011 18:55
+ARQ-276,Bug,Open,ARQ,Arquillian,software,,06/09/2010 12:34,
+ARQ-277,Feature Request,Open,ARQ,Arquillian,software,,07/09/2010 09:31,
+ARQ-278,Feature Request,Open,ARQ,Arquillian,software,,08/09/2010 07:20,
+ARQ-279,Feature Request,Open,ARQ,Arquillian,software,,08/09/2010 08:11,
+ARQ-28,Task,Closed,ARQ,Arquillian,software,Done,24/11/2009 07:56,24/11/2009 09:33
+ARQ-280,Feature Request,Open,ARQ,Arquillian,software,,08/09/2010 08:12,
+ARQ-281,Bug,Closed,ARQ,Arquillian,software,Done,08/09/2010 17:34,13/03/2011 10:54
+ARQ-282,Bug,Closed,ARQ,Arquillian,software,Done,10/09/2010 08:59,13/07/2011 10:33
+ARQ-283,Feature Request,Closed,ARQ,Arquillian,software,Done,10/09/2010 09:38,23/09/2010 12:32
+ARQ-284,Feature Request,Closed,ARQ,Arquillian,software,Done,10/09/2010 14:18,14/12/2011 07:08
+ARQ-285,Feature Request,Open,ARQ,Arquillian,software,,10/09/2010 14:38,
+ARQ-286,Feature Request,Closed,ARQ,Arquillian,software,Done,11/09/2010 09:52,22/06/2014 17:54
+ARQ-287,Feature Request,Coding In Progress,ARQ,Arquillian,software,,12/09/2010 01:56,
+ARQ-288,Task,Closed,ARQ,Arquillian,software,Done,12/09/2010 02:32,07/06/2011 03:43
+ARQ-289,Bug,Closed,ARQ,Arquillian,software,Done,12/09/2010 14:35,17/03/2011 10:11
+ARQ-29,Task,Closed,ARQ,Arquillian,software,Done,24/11/2009 08:01,24/11/2009 08:12
+ARQ-290,Bug,Closed,ARQ,Arquillian,software,Done,13/09/2010 08:47,15/09/2010 11:29
+ARQ-291,Task,Closed,ARQ,Arquillian,software,Done,13/09/2010 12:39,23/09/2010 12:32
+ARQ-292,Bug,Closed,ARQ,Arquillian,software,Done,13/09/2010 18:30,15/09/2010 11:38
+ARQ-293,Feature Request,Open,ARQ,Arquillian,software,,14/09/2010 11:20,
+ARQ-294,Bug,Closed,ARQ,Arquillian,software,Obsolete,14/09/2010 19:46,27/04/2011 10:24
+ARQ-295,Bug,Closed,ARQ,Arquillian,software,Obsolete,14/09/2010 21:37,26/04/2011 06:28
+ARQ-296,Bug,Closed,ARQ,Arquillian,software,Duplicate,15/09/2010 03:31,15/09/2010 07:06
+ARQ-297,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,15/09/2010 15:09,27/04/2011 15:14
+ARQ-298,Bug,Closed,ARQ,Arquillian,software,Done,17/09/2010 17:26,14/03/2011 07:06
+ARQ-299,Feature Request,Closed,ARQ,Arquillian,software,Done,21/09/2010 12:37,15/03/2011 20:04
+ARQ-3,Task,Closed,ARQ,Arquillian,software,Done,06/08/2009 08:08,25/12/2009 18:26
+ARQ-30,Task,Open,ARQ,Arquillian,software,,24/11/2009 09:21,
+ARQ-300,Feature Request,Open,ARQ,Arquillian,software,,22/09/2010 15:25,
+ARQ-301,Feature Request,Closed,ARQ,Arquillian,software,Done,26/09/2010 17:36,21/05/2012 18:31
+ARQ-302,Bug,Closed,ARQ,Arquillian,software,Obsolete,27/09/2010 10:54,26/04/2011 06:26
+ARQ-303,Bug,Closed,ARQ,Arquillian,software,Obsolete,28/09/2010 03:38,26/04/2011 06:25
+ARQ-304,Bug,Closed,ARQ,Arquillian,software,Done,29/09/2010 06:26,29/09/2010 10:53
+ARQ-305,Bug,Closed,ARQ,Arquillian,software,Duplicate,29/09/2010 17:06,29/09/2010 17:36
+ARQ-306,Bug,Closed,ARQ,Arquillian,software,Duplicate,02/10/2010 12:53,02/10/2010 13:19
+ARQ-307,Feature Request,Closed,ARQ,Arquillian,software,Duplicate,06/10/2010 12:27,02/02/2011 17:39
+ARQ-308,Patch,Open,ARQ,Arquillian,software,,06/10/2010 16:32,
+ARQ-309,Feature Request,Closed,ARQ,Arquillian,software,Done,06/10/2010 16:40,13/03/2011 15:12
+ARQ-31,Feature Request,Open,ARQ,Arquillian,software,,25/11/2009 04:52,
+ARQ-310,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,06/10/2010 18:07,15/06/2011 11:39
+ARQ-311,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,06/10/2010 18:52,09/05/2011 08:29
+ARQ-312,Bug,Open,ARQ,Arquillian,software,,07/10/2010 12:02,
+ARQ-313,Feature Request,Closed,ARQ,Arquillian,software,Done,07/10/2010 13:32,02/02/2011 17:20
+ARQ-314,Bug,Closed,ARQ,Arquillian,software,Done,10/10/2010 07:35,31/05/2011 14:16
+ARQ-315,Feature Request,Pull Request Sent,ARQ,Arquillian,software,,11/10/2010 01:40,
+ARQ-316,Feature Request,Closed,ARQ,Arquillian,software,Done,11/10/2010 02:28,02/02/2011 17:24
+ARQ-317,Bug,Open,ARQ,Arquillian,software,,12/10/2010 13:13,
+ARQ-318,Feature Request,Open,ARQ,Arquillian,software,,13/10/2010 14:06,
+ARQ-319,Feature Request,Closed,ARQ,Arquillian,software,Done,14/10/2010 14:25,14/03/2011 18:08
+ARQ-32,Task,Closed,ARQ,Arquillian,software,Done,25/11/2009 09:35,25/12/2009 18:27
+ARQ-320,Feature Request,Closed,ARQ,Arquillian,software,Done,18/10/2010 14:29,15/06/2011 12:25
+ARQ-321,Feature Request,Closed,ARQ,Arquillian,software,Done,18/10/2010 15:06,27/04/2011 15:43
+ARQ-322,Feature Request,Closed,ARQ,Arquillian,software,Done,20/10/2010 17:32,15/03/2012 18:50
+ARQ-323,Feature Request,Closed,ARQ,Arquillian,software,Done,20/10/2010 17:40,16/03/2011 18:28
+ARQ-325,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,28/10/2010 01:01,09/05/2011 08:28
+ARQ-326,Feature Request,Closed,ARQ,Arquillian,software,Done,01/11/2010 12:51,13/03/2011 10:56
+ARQ-327,Bug,Open,ARQ,Arquillian,software,,01/11/2010 16:57,
+ARQ-328,Feature Request,Closed,ARQ,Arquillian,software,Done,04/11/2010 11:42,01/09/2015 21:10
+ARQ-329,Feature Request,Closed,ARQ,Arquillian,software,Done,06/11/2010 14:50,14/03/2011 07:24
+ARQ-33,Task,Closed,ARQ,Arquillian,software,Done,25/11/2009 09:40,21/04/2010 04:53
+ARQ-330,Bug,Closed,ARQ,Arquillian,software,Done,09/11/2010 05:22,15/06/2011 11:44
+ARQ-331,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,11/11/2010 10:57,11/11/2010 11:27
+ARQ-332,Feature Request,Open,ARQ,Arquillian,software,,13/11/2010 12:16,
+ARQ-335,Bug,Closed,ARQ,Arquillian,software,Duplicate,16/11/2010 11:21,27/03/2011 10:24
+ARQ-336,Feature Request,Closed,ARQ,Arquillian,software,Done,23/11/2010 09:12,22/11/2011 12:33
+ARQ-337,Feature Request,Open,ARQ,Arquillian,software,,23/11/2010 16:56,
+ARQ-338,Task,Resolved,ARQ,Arquillian,software,Won't Do,26/11/2010 10:53,23/05/2012 03:56
+ARQ-339,Feature Request,Open,ARQ,Arquillian,software,,28/11/2010 19:51,
+ARQ-34,Task,Closed,ARQ,Arquillian,software,Done,26/11/2009 04:12,25/12/2009 18:27
+ARQ-340,Bug,Closed,ARQ,Arquillian,software,Done,05/12/2010 03:46,17/03/2011 22:00
+ARQ-341,Bug,Closed,ARQ,Arquillian,software,Done,06/12/2010 08:19,16/12/2010 09:25
+ARQ-342,Bug,Closed,ARQ,Arquillian,software,Obsolete,06/12/2010 18:32,13/03/2011 11:04
+ARQ-343,Feature Request,Resolved,ARQ,Arquillian,software,Obsolete,07/12/2010 07:08,11/02/2015 03:41
+ARQ-344,Feature Request,Open,ARQ,Arquillian,software,,07/12/2010 07:10,
+ARQ-345,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,13/12/2010 10:57,24/05/2011 11:17
+ARQ-346,Feature Request,Closed,ARQ,Arquillian,software,Done,20/12/2010 06:37,02/02/2011 17:18
+ARQ-347,Feature Request,Closed,ARQ,Arquillian,software,Done,29/12/2010 18:37,13/02/2012 07:29
+ARQ-348,Feature Request,Closed,ARQ,Arquillian,software,Done,30/12/2010 11:20,19/01/2012 14:25
+ARQ-349,Feature Request,Closed,ARQ,Arquillian,software,Done,02/01/2011 09:53,02/02/2011 17:22
+ARQ-35,Task,Open,ARQ,Arquillian,software,,27/11/2009 11:12,
+ARQ-350,Feature Request,Open,ARQ,Arquillian,software,,02/01/2011 10:19,
+ARQ-351,Feature Request,Open,ARQ,Arquillian,software,,02/01/2011 10:25,
+ARQ-352,Bug,Closed,ARQ,Arquillian,software,Done,03/01/2011 12:46,13/03/2011 10:54
+ARQ-353,Feature Request,Closed,ARQ,Arquillian,software,Done,03/01/2011 13:01,07/02/2011 04:13
+ARQ-354,Feature Request,Open,ARQ,Arquillian,software,,03/01/2011 14:00,
+ARQ-355,Feature Request,Open,ARQ,Arquillian,software,,03/01/2011 14:04,
+ARQ-356,Bug,Closed,ARQ,Arquillian,software,Done,06/01/2011 09:21,14/03/2011 18:08
+ARQ-357,Feature Request,Closed,ARQ,Arquillian,software,Done,14/01/2011 08:42,27/04/2011 15:32
+ARQ-358,Feature Request,Open,ARQ,Arquillian,software,,18/01/2011 11:44,
+ARQ-359,Feature Request,Open,ARQ,Arquillian,software,,24/01/2011 11:58,
+ARQ-36,Bug,Closed,ARQ,Arquillian,software,Done,04/12/2009 18:40,16/12/2009 07:09
+ARQ-360,Feature Request,Closed,ARQ,Arquillian,software,Done,24/01/2011 12:03,24/05/2011 11:22
+ARQ-361,Feature Request,Closed,ARQ,Arquillian,software,Done,02/02/2011 08:48,18/05/2011 16:36
+ARQ-362,Feature Request,Closed,ARQ,Arquillian,software,Done,04/02/2011 11:35,04/02/2011 11:44
+ARQ-363,Feature Request,Open,ARQ,Arquillian,software,,08/02/2011 10:32,
+ARQ-364,Bug,Open,ARQ,Arquillian,software,,08/02/2011 10:55,
+ARQ-365,Bug,Closed,ARQ,Arquillian,software,Done,09/02/2011 06:21,26/06/2011 14:07
+ARQ-366,Bug,Closed,ARQ,Arquillian,software,Duplicate,09/02/2011 11:24,09/02/2011 12:01
+ARQ-367,Feature Request,Closed,ARQ,Arquillian,software,Done,14/02/2011 09:14,16/03/2011 14:09
+ARQ-368,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,14/02/2011 11:29,13/07/2012 04:16
+ARQ-369,Task,Closed,ARQ,Arquillian,software,Done,14/02/2011 11:48,22/06/2011 11:52
+ARQ-37,Task,Closed,ARQ,Arquillian,software,Done,08/12/2009 03:09,17/06/2010 15:07
+ARQ-370,Task,Closed,ARQ,Arquillian,software,Done,15/02/2011 20:30,13/03/2011 09:15
+ARQ-371,Feature Request,Closed,ARQ,Arquillian,software,Done,18/02/2011 11:25,14/03/2011 07:26
+ARQ-372,Bug,Closed,ARQ,Arquillian,software,Done,22/02/2011 02:22,16/03/2011 15:47
+ARQ-373,Feature Request,Closed,ARQ,Arquillian,software,Done,24/02/2011 10:58,14/03/2011 07:24
+ARQ-374,Task,Closed,ARQ,Arquillian,software,Done,24/02/2011 12:07,15/03/2011 11:00
+ARQ-376,Bug,Closed,ARQ,Arquillian,software,Done,07/03/2011 06:41,08/06/2012 12:03
+ARQ-377,Bug,Closed,ARQ,Arquillian,software,Done,07/03/2011 07:58,13/03/2011 11:08
+ARQ-378,Feature Request,Closed,ARQ,Arquillian,software,Done,07/03/2011 21:34,14/03/2011 18:08
+ARQ-379,Bug,Closed,ARQ,Arquillian,software,Done,08/03/2011 14:33,16/03/2011 15:49
+ARQ-38,Task,Closed,ARQ,Arquillian,software,Done,15/12/2009 08:06,16/12/2009 04:11
+ARQ-380,Feature Request,Closed,ARQ,Arquillian,software,Done,11/03/2011 10:06,13/03/2011 09:12
+ARQ-381,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,11/03/2011 13:36,30/06/2013 16:01
+ARQ-382,Feature Request,Closed,ARQ,Arquillian,software,Done,12/03/2011 09:47,26/11/2011 06:47
+ARQ-383,Feature Request,Closed,ARQ,Arquillian,software,Done,13/03/2011 05:31,16/03/2011 09:41
+ARQ-384,Task,Closed,ARQ,Arquillian,software,Done,13/03/2011 10:35,18/03/2011 01:02
+ARQ-385,Feature Request,Closed,ARQ,Arquillian,software,Done,14/03/2011 06:15,18/05/2011 13:44
+ARQ-386,Feature Request,Closed,ARQ,Arquillian,software,Done,14/03/2011 06:17,27/04/2011 15:15
+ARQ-387,Feature Request,Closed,ARQ,Arquillian,software,Done,14/03/2011 07:38,16/03/2011 14:47
+ARQ-388,Task,Closed,ARQ,Arquillian,software,Done,14/03/2011 09:09,15/03/2011 10:59
+ARQ-389,Feature Request,Closed,ARQ,Arquillian,software,Done,14/03/2011 10:02,17/03/2011 08:47
+ARQ-39,Task,Closed,ARQ,Arquillian,software,Done,15/12/2009 08:07,16/12/2009 04:15
+ARQ-390,Feature Request,Open,ARQ,Arquillian,software,,14/03/2011 10:05,
+ARQ-391,Bug,Closed,ARQ,Arquillian,software,Done,14/03/2011 15:29,07/07/2011 19:36
+ARQ-392,Bug,Closed,ARQ,Arquillian,software,Done,15/03/2011 09:45,15/03/2011 10:55
+ARQ-393,Task,Closed,ARQ,Arquillian,software,Done,16/03/2011 03:58,18/03/2011 01:02
+ARQ-394,Bug,Closed,ARQ,Arquillian,software,Done,18/03/2011 12:42,19/03/2011 06:30
+ARQ-395,Feature Request,Closed,ARQ,Arquillian,software,Done,19/03/2011 09:03,22/06/2011 13:25
+ARQ-396,Bug,Closed,ARQ,Arquillian,software,Won't Do,19/03/2011 09:11,25/03/2011 10:44
+ARQ-397,Feature Request,Closed,ARQ,Arquillian,software,Done,19/03/2011 09:28,27/06/2011 15:30
+ARQ-398,Feature Request,Closed,ARQ,Arquillian,software,Done,21/03/2011 15:49,20/10/2011 17:03
+ARQ-399,Task,Closed,ARQ,Arquillian,software,Done,22/03/2011 14:58,22/03/2011 16:13
+ARQ-4,Task,Closed,ARQ,Arquillian,software,Done,06/08/2009 08:20,15/12/2009 07:57
+ARQ-40,Task,Closed,ARQ,Arquillian,software,Done,15/12/2009 08:26,09/03/2010 09:07
+ARQ-400,Bug,Closed,ARQ,Arquillian,software,Done,23/03/2011 16:30,20/10/2011 14:25
+ARQ-401,Bug,Closed,ARQ,Arquillian,software,Done,24/03/2011 02:40,21/04/2017 06:23
+ARQ-402,Bug,Closed,ARQ,Arquillian,software,Done,24/03/2011 12:17,26/10/2011 11:12
+ARQ-403,Feature Request,Closed,ARQ,Arquillian,software,Done,25/03/2011 18:36,21/10/2011 15:38
+ARQ-404,Feature Request,Closed,ARQ,Arquillian,software,Done,25/03/2011 19:03,31/05/2011 06:31
+ARQ-405,Feature Request,Closed,ARQ,Arquillian,software,Done,30/03/2011 04:35,18/05/2011 13:52
+ARQ-406,Feature Request,Closed,ARQ,Arquillian,software,Done,31/03/2011 08:39,22/06/2011 12:56
+ARQ-407,Bug,Closed,ARQ,Arquillian,software,Done,31/03/2011 09:49,24/05/2011 11:30
+ARQ-408,Bug,Open,ARQ,Arquillian,software,,04/04/2011 05:12,
+ARQ-409,Bug,Closed,ARQ,Arquillian,software,Done,05/04/2011 07:18,26/11/2011 06:49
+ARQ-41,Task,Closed,ARQ,Arquillian,software,Done,16/12/2009 04:21,16/12/2009 04:23
+ARQ-410,Bug,Closed,ARQ,Arquillian,software,Done,07/04/2011 11:56,11/09/2011 06:13
+ARQ-411,Quality Risk,Closed,ARQ,Arquillian,software,Done,07/04/2011 14:01,06/06/2011 15:50
+ARQ-412,Enhancement,Open,ARQ,Arquillian,software,,07/04/2011 17:59,
+ARQ-413,Task,Open,ARQ,Arquillian,software,,07/04/2011 19:36,
+ARQ-414,Component Upgrade,Open,ARQ,Arquillian,software,,15/04/2011 04:46,
+ARQ-415,Component Upgrade,Resolved,ARQ,Arquillian,software,Obsolete,15/04/2011 04:59,01/05/2012 23:32
+ARQ-416,Component Upgrade,Closed,ARQ,Arquillian,software,Done,15/04/2011 06:13,16/04/2011 06:07
+ARQ-417,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,15/04/2011 07:34,09/11/2016 05:24
+ARQ-418,Bug,Closed,ARQ,Arquillian,software,Done,16/04/2011 01:02,16/04/2011 06:08
+ARQ-419,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,18/04/2011 05:38,27/04/2011 19:00
+ARQ-42,Task,Closed,ARQ,Arquillian,software,Duplicate,16/12/2009 08:19,16/12/2009 08:37
+ARQ-420,Task,Closed,ARQ,Arquillian,software,Done,21/04/2011 07:29,18/05/2011 18:23
+ARQ-421,Task,Closed,ARQ,Arquillian,software,Done,21/04/2011 09:44,29/04/2011 05:51
+ARQ-422,Feature Request,Closed,ARQ,Arquillian,software,Done,22/04/2011 20:17,31/05/2011 06:31
+ARQ-423,Feature Request,Closed,ARQ,Arquillian,software,Done,25/04/2011 04:13,21/10/2011 12:34
+ARQ-424,Feature Request,Closed,ARQ,Arquillian,software,Done,25/04/2011 04:16,21/10/2011 12:34
+ARQ-425,Bug,Closed,ARQ,Arquillian,software,Done,26/04/2011 09:49,06/06/2011 15:50
+ARQ-426,Bug,Closed,ARQ,Arquillian,software,Done,26/04/2011 17:05,02/05/2011 11:50
+ARQ-427,Bug,Closed,ARQ,Arquillian,software,Done,27/04/2011 10:44,02/05/2011 11:47
+ARQ-428,Bug,Closed,ARQ,Arquillian,software,Done,27/04/2011 13:29,27/04/2011 20:02
+ARQ-429,Task,Closed,ARQ,Arquillian,software,Done,28/04/2011 03:46,29/04/2011 05:49
+ARQ-43,Bug,Closed,ARQ,Arquillian,software,Done,24/12/2009 08:18,25/12/2009 05:54
+ARQ-430,Feature Request,Resolved,ARQ,Arquillian,software,Obsolete,28/04/2011 04:35,11/02/2015 03:41
+ARQ-431,Bug,Closed,ARQ,Arquillian,software,Done,28/04/2011 11:40,01/05/2011 06:23
+ARQ-432,Feature Request,Closed,ARQ,Arquillian,software,Done,23/02/2011 08:03,26/08/2013 08:02
+ARQ-433,Feature Request,Closed,ARQ,Arquillian,software,Done,04/05/2011 17:18,27/07/2011 05:43
+ARQ-435,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,09/05/2011 13:05,02/07/2015 06:57
+ARQ-436,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,09/05/2011 13:11,27/06/2011 11:15
+ARQ-437,Feature Request,Open,ARQ,Arquillian,software,,24/03/2011 05:55,
+ARQ-438,Feature Request,Pull Request Sent,ARQ,Arquillian,software,,10/05/2011 02:31,
+ARQ-439,Bug,Closed,ARQ,Arquillian,software,Done,10/05/2011 08:19,28/06/2011 10:05
+ARQ-44,Task,Closed,ARQ,Arquillian,software,Done,25/12/2009 17:54,09/03/2010 06:39
+ARQ-440,Task,Closed,ARQ,Arquillian,software,Done,13/05/2011 04:58,26/05/2011 12:04
+ARQ-441,Task,Closed,ARQ,Arquillian,software,Done,16/05/2011 09:18,26/05/2011 12:04
+ARQ-442,Feature Request,Open,ARQ,Arquillian,software,,16/05/2011 11:48,
+ARQ-443,Task,Closed,ARQ,Arquillian,software,Done,16/05/2011 12:12,26/05/2011 12:05
+ARQ-444,Bug,Closed,ARQ,Arquillian,software,Done,16/05/2011 12:14,23/09/2011 11:36
+ARQ-445,Bug,Closed,ARQ,Arquillian,software,Done,17/05/2011 05:47,17/05/2011 07:31
+ARQ-446,Task,Closed,ARQ,Arquillian,software,Done,17/05/2011 08:49,26/05/2011 12:04
+ARQ-447,Feature Request,Closed,ARQ,Arquillian,software,Done,18/05/2011 06:10,18/05/2011 18:15
+ARQ-448,Feature Request,Closed,ARQ,Arquillian,software,Done,18/05/2011 08:06,29/05/2011 08:04
+ARQ-449,Feature Request,Closed,ARQ,Arquillian,software,Done,18/05/2011 08:07,29/07/2011 08:06
+ARQ-45,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,26/12/2009 18:01,25/02/2010 07:51
+ARQ-450,Feature Request,Closed,ARQ,Arquillian,software,Done,18/05/2011 08:08,29/07/2011 08:05
+ARQ-451,Bug,Closed,ARQ,Arquillian,software,Obsolete,19/05/2011 05:53,19/05/2011 07:48
+ARQ-452,Bug,Closed,ARQ,Arquillian,software,Done,19/05/2011 16:09,02/09/2011 11:19
+ARQ-453,Feature Request,Open,ARQ,Arquillian,software,,20/05/2011 11:55,
+ARQ-454,Enhancement,Open,ARQ,Arquillian,software,,23/05/2011 15:36,
+ARQ-455,Bug,Closed,ARQ,Arquillian,software,Done,23/05/2011 20:02,24/05/2011 04:41
+ARQ-456,Bug,Closed,ARQ,Arquillian,software,Done,25/05/2011 03:25,05/06/2011 14:06
+ARQ-457,Task,Closed,ARQ,Arquillian,software,Done,29/05/2011 11:04,15/06/2011 11:35
+ARQ-458,Bug,Closed,ARQ,Arquillian,software,Done,02/06/2011 11:12,07/07/2011 17:03
+ARQ-459,Feature Request,Resolved,ARQ,Arquillian,software,Obsolete,02/06/2011 11:38,11/02/2015 03:41
+ARQ-46,Bug,Closed,ARQ,Arquillian,software,Done,27/12/2009 07:00,27/12/2009 07:04
+ARQ-460,Feature Request,Closed,ARQ,Arquillian,software,Done,03/06/2011 10:39,06/06/2011 16:31
+ARQ-461,Release,Closed,ARQ,Arquillian,software,Done,04/06/2011 03:40,22/06/2011 17:02
+ARQ-462,Feature Request,Open,ARQ,Arquillian,software,,06/06/2011 06:00,
+ARQ-463,Feature Request,Open,ARQ,Arquillian,software,,07/06/2011 03:40,
+ARQ-464,Task,Closed,ARQ,Arquillian,software,Done,07/06/2011 07:54,08/06/2011 14:57
+ARQ-465,Feature Request,Closed,ARQ,Arquillian,software,Done,07/06/2011 13:19,07/06/2011 15:53
+ARQ-466,Feature Request,Closed,ARQ,Arquillian,software,Done,07/06/2011 15:47,07/06/2011 15:53
+ARQ-467,CTS Challenge,Closed,ARQ,Arquillian,software,Obsolete,08/06/2011 05:20,11/04/2017 14:03
+ARQ-468,Enhancement,Resolved,ARQ,Arquillian,software,Done,09/06/2011 06:55,16/10/2012 03:27
+ARQ-469,Bug,Closed,ARQ,Arquillian,software,Done,09/06/2011 08:45,14/06/2011 14:41
+ARQ-47,Feature Request,Closed,ARQ,Arquillian,software,Done,27/12/2009 07:06,27/12/2009 07:14
+ARQ-470,Bug,Closed,ARQ,Arquillian,software,Done,09/06/2011 12:27,07/07/2011 17:04
+ARQ-471,Task,Closed,ARQ,Arquillian,software,Done,15/06/2011 09:10,30/06/2011 14:33
+ARQ-472,Feature Request,Open,ARQ,Arquillian,software,,16/06/2011 09:30,
+ARQ-473,Feature Request,Open,ARQ,Arquillian,software,,16/06/2011 09:34,
+ARQ-474,Feature Request,Closed,ARQ,Arquillian,software,Done,16/06/2011 12:11,24/11/2011 11:50
+ARQ-475,Feature Request,Closed,ARQ,Arquillian,software,Done,21/06/2011 03:11,22/06/2011 13:16
+ARQ-476,Feature Request,Closed,ARQ,Arquillian,software,Done,21/06/2011 05:05,29/08/2011 12:47
+ARQ-477,Bug,Closed,ARQ,Arquillian,software,Done,22/06/2011 11:49,22/06/2011 12:56
+ARQ-479,Feature Request,Closed,ARQ,Arquillian,software,Done,22/06/2011 13:01,22/06/2011 13:16
+ARQ-48,Feature Request,Closed,ARQ,Arquillian,software,Done,27/12/2009 13:33,22/05/2010 16:10
+ARQ-480,Feature Request,Open,ARQ,Arquillian,software,,22/06/2011 13:15,
+ARQ-482,Bug,Closed,ARQ,Arquillian,software,Done,23/06/2011 09:04,26/06/2011 05:25
+ARQ-483,Feature Request,Open,ARQ,Arquillian,software,,25/06/2011 14:38,
+ARQ-484,Release,Closed,ARQ,Arquillian,software,Done,26/06/2011 04:35,26/06/2011 10:51
+ARQ-485,Release,Closed,ARQ,Arquillian,software,Done,26/06/2011 11:03,26/06/2011 14:11
+ARQ-486,Release,Closed,ARQ,Arquillian,software,Done,26/06/2011 11:03,14/07/2011 05:09
+ARQ-488,Bug,Closed,ARQ,Arquillian,software,Done,27/06/2011 10:09,29/06/2011 04:43
+ARQ-489,Feature Request,Open,ARQ,Arquillian,software,,27/06/2011 14:43,
+ARQ-49,Task,Closed,ARQ,Arquillian,software,Done,27/12/2009 18:52,22/09/2011 03:29
+ARQ-490,Release,Closed,ARQ,Arquillian,software,Done,28/06/2011 09:45,28/06/2011 10:00
+ARQ-491,Bug,Closed,ARQ,Arquillian,software,Done,28/06/2011 10:53,03/07/2011 04:00
+ARQ-492,Bug,Closed,ARQ,Arquillian,software,Won't Do,28/06/2011 17:08,29/06/2011 08:10
+ARQ-493,Release,Closed,ARQ,Arquillian,software,Done,29/06/2011 09:42,29/06/2011 12:23
+ARQ-495,Bug,Closed,ARQ,Arquillian,software,Done,29/06/2011 16:56,29/06/2011 17:00
+ARQ-496,Bug,Closed,ARQ,Arquillian,software,Done,29/06/2011 22:32,02/07/2011 08:08
+ARQ-497,Feature Request,Open,ARQ,Arquillian,software,,30/06/2011 04:35,
+ARQ-499,Bug,Closed,ARQ,Arquillian,software,Done,01/07/2011 10:34,07/07/2011 20:49
+ARQ-5,Task,Closed,ARQ,Arquillian,software,Done,06/08/2009 08:22,25/12/2009 18:24
+ARQ-50,Feature Request,Open,ARQ,Arquillian,software,,28/12/2009 13:57,
+ARQ-500,Bug,Closed,ARQ,Arquillian,software,Done,02/07/2011 03:29,06/07/2011 13:49
+ARQ-501,Feature Request,Closed,ARQ,Arquillian,software,Done,02/07/2011 17:05,26/07/2011 10:04
+ARQ-502,Feature Request,Closed,ARQ,Arquillian,software,Done,02/07/2011 17:10,20/12/2011 07:43
+ARQ-503,Release,Closed,ARQ,Arquillian,software,Done,03/07/2011 04:05,04/07/2011 03:56
+ARQ-504,Bug,Closed,ARQ,Arquillian,software,Duplicate,04/07/2011 07:18,11/07/2011 08:45
+ARQ-505,Release,Closed,ARQ,Arquillian,software,Done,06/07/2011 13:58,07/07/2011 18:15
+ARQ-506,Enhancement,Open,ARQ,Arquillian,software,,09/07/2011 05:08,
+ARQ-507,Feature Request,Open,ARQ,Arquillian,software,,12/07/2011 07:20,
+ARQ-508,Release,Closed,ARQ,Arquillian,software,Done,12/07/2011 07:46,14/07/2011 05:33
+ARQ-509,Feature Request,Resolved,ARQ,Arquillian,software,Done,13/07/2011 09:50,14/07/2011 10:54
+ARQ-51,Task,Closed,ARQ,Arquillian,software,Done,29/12/2009 14:28,29/12/2009 17:16
+ARQ-510,Bug,Resolved,ARQ,Arquillian,software,Won't Do,13/07/2011 18:12,18/07/2011 04:50
+ARQ-511,Release,Closed,ARQ,Arquillian,software,Done,14/07/2011 05:37,14/07/2011 05:53
+ARQ-512,Feature Request,Resolved,ARQ,Arquillian,software,Obsolete,14/07/2011 11:23,22/05/2013 03:12
+ARQ-513,Feature Request,Resolved,ARQ,Arquillian,software,Done,15/07/2011 04:36,22/07/2011 07:27
+ARQ-514,Task,Closed,ARQ,Arquillian,software,Done,15/07/2011 05:47,27/07/2011 17:45
+ARQ-515,Task,Closed,ARQ,Arquillian,software,Done,15/07/2011 10:38,15/08/2011 07:11
+ARQ-516,Task,Closed,ARQ,Arquillian,software,Obsolete,15/07/2011 10:55,02/10/2012 17:40
+ARQ-517,Task,Open,ARQ,Arquillian,software,,15/07/2011 23:20,
+ARQ-518,Feature Request,Pull Request Sent,ARQ,Arquillian,software,,16/07/2011 17:31,
+ARQ-519,Bug,Closed,ARQ,Arquillian,software,Duplicate,18/07/2011 10:20,18/07/2011 10:56
+ARQ-52,Task,Closed,ARQ,Arquillian,software,Done,29/12/2009 14:30,29/12/2009 18:13
+ARQ-520,Bug,Resolved,ARQ,Arquillian,software,Won't Do,19/07/2011 06:58,23/05/2012 15:19
+ARQ-521,Enhancement,Closed,ARQ,Arquillian,software,Won't Do,20/07/2011 04:48,26/08/2013 08:18
+ARQ-522,Component Upgrade,Closed,ARQ,Arquillian,software,Done,22/07/2011 03:20,26/07/2011 13:19
+ARQ-523,Task,Resolved,ARQ,Arquillian,software,Done,22/07/2011 07:29,22/07/2011 07:35
+ARQ-524,Bug,Closed,ARQ,Arquillian,software,Done,22/07/2011 08:35,22/07/2011 11:29
+ARQ-525,Bug,Open,ARQ,Arquillian,software,,24/07/2011 18:52,
+ARQ-526,Feature Request,Closed,ARQ,Arquillian,software,Done,25/07/2011 06:18,04/08/2011 15:54
+ARQ-527,Patch,Closed,ARQ,Arquillian,software,Done,25/07/2011 15:23,29/07/2011 08:06
+ARQ-528,Bug,Closed,ARQ,Arquillian,software,Done,26/07/2011 12:49,27/07/2011 11:21
+ARQ-529,Feature Request,Closed,ARQ,Arquillian,software,Done,27/07/2011 06:56,05/08/2011 05:05
+ARQ-53,Feature Request,Open,ARQ,Arquillian,software,,04/01/2010 14:32,
+ARQ-530,Feature Request,Open,ARQ,Arquillian,software,,27/07/2011 12:03,
+ARQ-531,Feature Request,Open,ARQ,Arquillian,software,,27/07/2011 12:26,
+ARQ-532,Feature Request,Closed,ARQ,Arquillian,software,Done,29/07/2011 06:00,22/11/2011 15:45
+ARQ-533,Feature Request,Closed,ARQ,Arquillian,software,Done,29/07/2011 06:11,07/12/2011 08:12
+ARQ-534,Bug,Closed,ARQ,Arquillian,software,Done,29/07/2011 13:52,29/07/2011 17:05
+ARQ-535,Bug,Closed,ARQ,Arquillian,software,Done,29/07/2011 13:53,29/07/2011 17:34
+ARQ-536,Enhancement,Closed,ARQ,Arquillian,software,Done,03/08/2011 04:16,05/08/2011 05:05
+ARQ-537,Component Upgrade,Closed,ARQ,Arquillian,software,Done,03/08/2011 04:34,30/08/2011 09:18
+ARQ-538,Bug,Closed,ARQ,Arquillian,software,Done,03/08/2011 05:33,09/08/2011 09:36
+ARQ-539,Enhancement,Closed,ARQ,Arquillian,software,Won't Do,04/08/2011 13:48,04/08/2011 16:38
+ARQ-54,Feature Request,Closed,ARQ,Arquillian,software,Done,05/01/2010 18:58,27/02/2010 19:25
+ARQ-540,Enhancement,Closed,ARQ,Arquillian,software,Done,04/08/2011 18:11,01/09/2015 20:22
+ARQ-541,Release,Closed,ARQ,Arquillian,software,Done,10/08/2011 06:30,10/08/2011 06:42
+ARQ-542,Bug,Closed,ARQ,Arquillian,software,Duplicate,10/08/2011 07:10,10/08/2011 08:27
+ARQ-543,Bug,Closed,ARQ,Arquillian,software,Done,10/08/2011 09:12,10/08/2011 12:04
+ARQ-544,Bug,Closed,ARQ,Arquillian,software,Done,11/08/2011 05:11,11/08/2011 08:34
+ARQ-545,Release,Closed,ARQ,Arquillian,software,Done,14/08/2011 11:09,15/08/2011 07:10
+ARQ-546,Release,Closed,ARQ,Arquillian,software,Done,14/08/2011 11:10,15/08/2011 07:10
+ARQ-547,Release,Closed,ARQ,Arquillian,software,Done,15/08/2011 05:36,15/08/2011 07:21
+ARQ-548,Bug,Closed,ARQ,Arquillian,software,Done,15/08/2011 20:35,23/02/2012 14:20
+ARQ-549,Bug,Closed,ARQ,Arquillian,software,Done,16/08/2011 11:41,16/08/2011 11:52
+ARQ-55,Bug,Closed,ARQ,Arquillian,software,Done,20/01/2010 05:35,20/03/2011 09:21
+ARQ-550,Release,Closed,ARQ,Arquillian,software,Done,16/08/2011 11:50,16/08/2011 13:18
+ARQ-551,Enhancement,Closed,ARQ,Arquillian,software,Done,17/08/2011 10:07,29/08/2011 03:25
+ARQ-552,Enhancement,Closed,ARQ,Arquillian,software,Done,17/08/2011 15:12,16/09/2011 15:06
+ARQ-553,Bug,Open,ARQ,Arquillian,software,,17/08/2011 18:05,
+ARQ-554,Bug,Closed,ARQ,Arquillian,software,Done,18/08/2011 14:09,21/08/2011 16:00
+ARQ-555,Bug,Closed,ARQ,Arquillian,software,Done,22/08/2011 08:10,05/09/2011 11:40
+ARQ-556,Feature Request,Open,ARQ,Arquillian,software,,23/08/2011 02:38,
+ARQ-557,Bug,Open,ARQ,Arquillian,software,,23/08/2011 03:14,
+ARQ-558,Release,Closed,ARQ,Arquillian,software,Done,23/08/2011 11:58,23/08/2011 13:09
+ARQ-559,Bug,Closed,ARQ,Arquillian,software,Done,23/08/2011 12:47,23/08/2011 13:29
+ARQ-56,Bug,Closed,ARQ,Arquillian,software,Done,20/01/2010 07:46,07/07/2011 21:07
+ARQ-560,Feature Request,Open,ARQ,Arquillian,software,,24/08/2011 05:13,
+ARQ-561,Feature Request,Open,ARQ,Arquillian,software,,25/08/2011 08:57,
+ARQ-562,Bug,Resolved,ARQ,Arquillian,software,Won't Do,26/08/2011 04:13,05/09/2011 08:25
+ARQ-563,Bug,Closed,ARQ,Arquillian,software,Done,26/08/2011 06:20,18/10/2012 09:25
+ARQ-564,Task,Closed,ARQ,Arquillian,software,Done,27/08/2011 00:48,09/09/2011 04:56
+ARQ-565,Task,Closed,ARQ,Arquillian,software,Done,28/08/2011 08:06,29/08/2011 09:40
+ARQ-566,Feature Request,Resolved,ARQ,Arquillian,software,Won't Do,28/08/2011 11:31,31/08/2011 09:18
+ARQ-567,Feature Request,Open,ARQ,Arquillian,software,,29/08/2011 00:04,
+ARQ-568,Bug,Closed,ARQ,Arquillian,software,Done,29/08/2011 10:31,01/09/2011 12:15
+ARQ-569,Bug,Closed,ARQ,Arquillian,software,Done,29/08/2011 10:55,03/11/2011 17:01
+ARQ-57,Bug,Closed,ARQ,Arquillian,software,Done,05/02/2010 09:37,07/02/2011 04:13
+ARQ-570,Quality Risk,Closed,ARQ,Arquillian,software,Done,29/08/2011 21:03,26/11/2011 06:45
+ARQ-571,Feature Request,Closed,ARQ,Arquillian,software,Done,30/08/2011 03:19,30/08/2011 10:31
+ARQ-572,Release,Closed,ARQ,Arquillian,software,Done,30/08/2011 10:32,31/08/2011 10:43
+ARQ-573,Bug,Open,ARQ,Arquillian,software,,30/08/2011 10:45,
+ARQ-574,Enhancement,Closed,ARQ,Arquillian,software,Won't Do,31/08/2011 05:53,27/06/2014 13:59
+ARQ-575,Bug,Closed,ARQ,Arquillian,software,Done,31/08/2011 09:55,31/08/2011 09:59
+ARQ-576,Feature Request,Coding In Progress,ARQ,Arquillian,software,,31/08/2011 10:03,
+ARQ-577,Enhancement,Closed,ARQ,Arquillian,software,Done,31/08/2011 11:41,23/09/2011 11:36
+ARQ-578,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,01/09/2011 08:10,26/06/2012 05:45
+ARQ-579,Feature Request,Open,ARQ,Arquillian,software,,01/09/2011 10:38,
+ARQ-58,Task,Closed,ARQ,Arquillian,software,Done,05/02/2010 16:32,05/02/2010 16:33
+ARQ-581,Component Upgrade,Closed,ARQ,Arquillian,software,Done,01/09/2011 15:05,06/09/2011 10:57
+ARQ-582,Feature Request,Open,ARQ,Arquillian,software,,04/09/2011 10:47,
+ARQ-583,Feature Request,Open,ARQ,Arquillian,software,,07/09/2011 19:35,
+ARQ-585,Enhancement,Closed,ARQ,Arquillian,software,Won't Do,12/09/2011 05:20,09/01/2012 04:54
+ARQ-587,Feature Request,Closed,ARQ,Arquillian,software,Done,12/09/2011 15:35,14/09/2011 20:07
+ARQ-588,Bug,Resolved,ARQ,Arquillian,software,Duplicate,13/09/2011 05:22,13/09/2011 05:23
+ARQ-589,Bug,Open,ARQ,Arquillian,software,,13/09/2011 07:38,
+ARQ-59,Task,Closed,ARQ,Arquillian,software,Done,05/02/2010 17:33,05/02/2010 17:33
+ARQ-590,Bug,Open,ARQ,Arquillian,software,,13/09/2011 09:14,
+ARQ-591,Feature Request,Closed,ARQ,Arquillian,software,Done,13/09/2011 10:13,27/09/2013 10:30
+ARQ-592,Feature Request,Closed,ARQ,Arquillian,software,Done,13/09/2011 11:25,20/10/2011 14:08
+ARQ-593,Bug,Closed,ARQ,Arquillian,software,Done,13/09/2011 12:59,20/10/2011 12:15
+ARQ-594,Bug,Closed,ARQ,Arquillian,software,Done,14/09/2011 04:55,26/11/2011 06:48
+ARQ-595,Release,Closed,ARQ,Arquillian,software,Done,14/09/2011 10:11,14/09/2011 10:41
+ARQ-596,Feature Request,Open,ARQ,Arquillian,software,,14/09/2011 11:06,
+ARQ-597,Task,Closed,ARQ,Arquillian,software,Done,15/09/2011 05:18,16/09/2011 15:00
+ARQ-598,Enhancement,Closed,ARQ,Arquillian,software,Done,15/09/2011 05:20,16/09/2011 15:02
+ARQ-599,Feature Request,Closed,ARQ,Arquillian,software,Done,15/09/2011 09:23,22/09/2011 13:57
+ARQ-6,Task,Closed,ARQ,Arquillian,software,Done,06/08/2009 08:19,30/11/2009 06:36
+ARQ-60,Task,Closed,ARQ,Arquillian,software,Done,05/02/2010 18:05,05/02/2010 18:16
+ARQ-600,Feature Request,Closed,ARQ,Arquillian,software,Done,16/09/2011 15:10,07/07/2014 17:06
+ARQ-601,Release,Closed,ARQ,Arquillian,software,Done,16/09/2011 15:18,20/09/2011 15:03
+ARQ-602,Bug,Resolved,ARQ,Arquillian,software,Done,17/09/2011 17:05,02/02/2013 14:16
+ARQ-603,Feature Request,Open,ARQ,Arquillian,software,,17/09/2011 17:08,
+ARQ-604,Bug,Closed,ARQ,Arquillian,software,Done,19/09/2011 07:56,20/09/2011 15:01
+ARQ-605,Bug,Closed,ARQ,Arquillian,software,Done,20/09/2011 16:52,08/11/2011 14:17
+ARQ-606,Bug,Closed,ARQ,Arquillian,software,Done,20/09/2011 18:10,04/10/2011 19:48
+ARQ-607,Component Upgrade,Closed,ARQ,Arquillian,software,Done,22/09/2011 03:09,22/09/2011 03:29
+ARQ-608,Feature Request,Closed,ARQ,Arquillian,software,Done,22/09/2011 05:28,22/09/2011 13:43
+ARQ-61,Task,Closed,ARQ,Arquillian,software,Done,08/02/2010 06:53,09/02/2010 07:03
+ARQ-610,Bug,Closed,ARQ,Arquillian,software,Done,23/09/2011 08:04,23/09/2011 11:35
+ARQ-611,Bug,Closed,ARQ,Arquillian,software,Done,23/09/2011 12:38,23/09/2011 12:50
+ARQ-612,Bug,Open,ARQ,Arquillian,software,,24/09/2011 06:25,
+ARQ-613,Bug,Closed,ARQ,Arquillian,software,Done,27/09/2011 08:00,27/09/2011 08:27
+ARQ-614,Enhancement,Open,ARQ,Arquillian,software,,03/10/2011 04:19,
+ARQ-615,Feature Request,Closed,ARQ,Arquillian,software,Duplicate,04/10/2011 03:53,14/10/2011 11:33
+ARQ-616,Feature Request,Closed,ARQ,Arquillian,software,Duplicate,04/10/2011 04:11,04/10/2011 05:23
+ARQ-617,Enhancement,Resolved,ARQ,Arquillian,software,Obsolete,04/10/2011 04:29,04/10/2011 04:31
+ARQ-618,Enhancement,Closed,ARQ,Arquillian,software,Done,04/10/2011 09:07,10/04/2012 07:11
+ARQ-619,Bug,Closed,ARQ,Arquillian,software,Done,04/10/2011 09:43,10/04/2012 07:11
+ARQ-62,Task,Closed,ARQ,Arquillian,software,Done,09/02/2010 03:27,09/02/2010 07:46
+ARQ-620,Bug,Closed,ARQ,Arquillian,software,Done,04/10/2011 10:09,22/07/2012 13:22
+ARQ-621,Bug,Closed,ARQ,Arquillian,software,Done,05/10/2011 09:50,21/10/2011 16:36
+ARQ-622,Feature Request,Pull Request Sent,ARQ,Arquillian,software,,06/10/2011 04:16,
+ARQ-623,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,06/10/2011 04:25,11/04/2017 14:10
+ARQ-624,Bug,Closed,ARQ,Arquillian,software,Done,06/10/2011 23:31,10/11/2011 09:50
+ARQ-625,Bug,Closed,ARQ,Arquillian,software,Done,07/10/2011 06:11,20/07/2013 12:20
+ARQ-626,Bug,Open,ARQ,Arquillian,software,,07/10/2011 07:40,
+ARQ-627,Bug,Closed,ARQ,Arquillian,software,Done,09/10/2011 02:20,20/10/2011 16:23
+ARQ-628,Bug,Closed,ARQ,Arquillian,software,Done,12/10/2011 10:32,27/06/2014 14:00
+ARQ-629,Bug,Closed,ARQ,Arquillian,software,Done,14/10/2011 11:31,27/06/2014 12:43
+ARQ-63,Task,Closed,ARQ,Arquillian,software,Done,09/02/2010 08:00,27/02/2010 19:21
+ARQ-630,Bug,Closed,ARQ,Arquillian,software,Done,15/10/2011 06:11,21/10/2011 15:12
+ARQ-631,Bug,Closed,ARQ,Arquillian,software,Done,18/10/2011 11:12,29/11/2011 08:14
+ARQ-632,Bug,Closed,ARQ,Arquillian,software,Done,19/10/2011 19:19,10/04/2012 08:49
+ARQ-633,Enhancement,Open,ARQ,Arquillian,software,,20/10/2011 05:23,
+ARQ-634,Bug,Open,ARQ,Arquillian,software,,20/10/2011 11:42,
+ARQ-635,Feature Request,Closed,ARQ,Arquillian,software,Done,20/10/2011 16:48,20/10/2011 17:10
+ARQ-636,Feature Request,Closed,ARQ,Arquillian,software,Done,20/10/2011 18:01,11/01/2012 17:20
+ARQ-637,Component Upgrade,Closed,ARQ,Arquillian,software,Done,21/10/2011 15:33,09/11/2011 07:26
+ARQ-638,Feature Request,Pull Request Sent,ARQ,Arquillian,software,,24/10/2011 13:51,
+ARQ-639,Feature Request,Resolved,ARQ,Arquillian,software,Obsolete,25/10/2011 07:57,09/04/2013 03:43
+ARQ-64,Task,Closed,ARQ,Arquillian,software,Done,15/02/2010 04:33,27/02/2010 19:14
+ARQ-640,Release,Closed,ARQ,Arquillian,software,Done,25/10/2011 15:28,25/10/2011 15:53
+ARQ-641,Release,Closed,ARQ,Arquillian,software,Done,02/11/2011 11:59,02/11/2011 12:18
+ARQ-642,Task,Open,ARQ,Arquillian,software,,04/11/2011 13:25,
+ARQ-643,Bug,Closed,ARQ,Arquillian,software,Done,06/11/2011 03:27,10/11/2011 17:45
+ARQ-644,Feature Request,Open,ARQ,Arquillian,software,,07/11/2011 16:19,
+ARQ-645,Feature Request,Closed,ARQ,Arquillian,software,Done,08/11/2011 06:58,07/12/2011 08:13
+ARQ-646,Bug,Open,ARQ,Arquillian,software,,08/11/2011 14:03,
+ARQ-647,Feature Request,Open,ARQ,Arquillian,software,,08/11/2011 16:21,
+ARQ-648,Feature Request,Open,ARQ,Arquillian,software,,09/11/2011 04:09,
+ARQ-649,Bug,Closed,ARQ,Arquillian,software,Won't Do,10/11/2011 07:29,11/11/2011 13:11
+ARQ-65,Task,Closed,ARQ,Arquillian,software,Done,15/02/2010 15:14,09/03/2010 09:06
+ARQ-650,Feature Request,Open,ARQ,Arquillian,software,,10/11/2011 21:06,
+ARQ-651,Release,Closed,ARQ,Arquillian,software,Done,14/11/2011 09:32,14/11/2011 10:06
+ARQ-652,Feature Request,Open,ARQ,Arquillian,software,,14/11/2011 09:36,
+ARQ-653,Feature Request,Closed,ARQ,Arquillian,software,Done,14/11/2011 09:38,03/12/2011 11:44
+ARQ-654,Feature Request,Closed,ARQ,Arquillian,software,Done,14/11/2011 09:47,26/11/2011 10:43
+ARQ-655,Component Upgrade,Closed,ARQ,Arquillian,software,Done,15/11/2011 06:46,06/04/2012 13:05
+ARQ-656,Bug,Closed,ARQ,Arquillian,software,Done,15/11/2011 07:30,22/11/2011 12:33
+ARQ-658,Bug,Closed,ARQ,Arquillian,software,Done,18/11/2011 03:14,18/11/2011 11:24
+ARQ-659,Bug,Open,ARQ,Arquillian,software,,18/11/2011 17:07,
+ARQ-66,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,20/02/2010 00:07,09/05/2011 08:46
+ARQ-660,Feature Request,Open,ARQ,Arquillian,software,,23/11/2011 06:11,
+ARQ-661,Feature Request,Closed,ARQ,Arquillian,software,Done,24/11/2011 09:04,24/11/2011 11:50
+ARQ-662,Bug,Closed,ARQ,Arquillian,software,Done,25/11/2011 07:08,26/11/2011 11:58
+ARQ-663,Bug,Closed,ARQ,Arquillian,software,Done,25/11/2011 07:14,25/11/2011 07:16
+ARQ-664,Release,Closed,ARQ,Arquillian,software,Done,26/11/2011 06:39,26/11/2011 09:57
+ARQ-665,Component Upgrade,Closed,ARQ,Arquillian,software,Done,28/11/2011 02:36,28/11/2011 08:03
+ARQ-666,Enhancement,Closed,ARQ,Arquillian,software,Done,28/11/2011 02:59,29/11/2011 08:14
+ARQ-667,Feature Request,Closed,ARQ,Arquillian,software,Done,28/11/2011 04:13,28/11/2011 08:04
+ARQ-668,Release,Closed,ARQ,Arquillian,software,Done,28/11/2011 04:59,28/11/2011 07:06
+ARQ-669,Task,Closed,ARQ,Arquillian,software,Done,28/11/2011 07:08,28/11/2011 08:04
+ARQ-67,Feature Request,Closed,ARQ,Arquillian,software,Done,20/02/2010 17:25,02/02/2011 17:25
+ARQ-670,Bug,Closed,ARQ,Arquillian,software,Done,16/10/2011 03:48,08/02/2012 12:56
+ARQ-671,Release,Closed,ARQ,Arquillian,software,Done,29/11/2011 09:42,29/11/2011 15:35
+ARQ-672,Bug,Open,ARQ,Arquillian,software,,29/11/2011 12:37,
+ARQ-673,Release,Closed,ARQ,Arquillian,software,Done,29/11/2011 17:45,29/11/2011 18:03
+ARQ-674,Feature Request,Closed,ARQ,Arquillian,software,Duplicate,30/11/2011 08:35,30/11/2011 09:12
+ARQ-675,Feature Request,Closed,ARQ,Arquillian,software,Done,30/11/2011 09:10,11/12/2011 15:19
+ARQ-676,Release,Closed,ARQ,Arquillian,software,Done,30/11/2011 10:47,30/11/2011 10:53
+ARQ-677,Feature Request,Closed,ARQ,Arquillian,software,Done,01/12/2011 07:47,07/12/2011 08:18
+ARQ-678,Bug,Closed,ARQ,Arquillian,software,Done,01/12/2011 17:57,14/12/2011 07:08
+ARQ-679,Bug,Open,ARQ,Arquillian,software,,02/12/2011 04:20,
+ARQ-68,Feature Request,Open,ARQ,Arquillian,software,,21/02/2010 09:07,
+ARQ-680,Enhancement,Closed,ARQ,Arquillian,software,Done,02/12/2011 08:13,03/12/2011 11:45
+ARQ-681,Enhancement,Closed,ARQ,Arquillian,software,Done,02/12/2011 08:17,03/12/2011 11:45
+ARQ-682,Enhancement,Closed,ARQ,Arquillian,software,Done,02/12/2011 08:20,03/12/2011 11:45
+ARQ-683,Release,Closed,ARQ,Arquillian,software,Done,03/12/2011 12:01,04/12/2011 17:53
+ARQ-684,Enhancement,Open,ARQ,Arquillian,software,,05/12/2011 04:32,
+ARQ-685,Bug,Closed,ARQ,Arquillian,software,Done,05/12/2011 16:31,14/12/2011 15:50
+ARQ-686,Feature Request,Closed,ARQ,Arquillian,software,Done,06/12/2011 11:41,08/04/2012 08:38
+ARQ-687,Feature Request,Closed,ARQ,Arquillian,software,Done,06/12/2011 18:47,02/01/2012 10:03
+ARQ-688,Bug,Open,ARQ,Arquillian,software,,07/12/2011 02:40,
+ARQ-689,Feature Request,Open,ARQ,Arquillian,software,,07/12/2011 10:37,
+ARQ-69,Task,Closed,ARQ,Arquillian,software,Done,22/02/2010 06:34,21/04/2010 05:20
+ARQ-690,Feature Request,Open,ARQ,Arquillian,software,,08/12/2011 13:43,
+ARQ-691,Release,Closed,ARQ,Arquillian,software,Done,12/12/2011 03:56,22/01/2012 15:56
+ARQ-692,Feature Request,Closed,ARQ,Arquillian,software,Done,12/12/2011 10:53,15/12/2011 15:30
+ARQ-693,Enhancement,Closed,ARQ,Arquillian,software,Done,13/12/2011 04:41,30/12/2011 09:01
+ARQ-694,Feature Request,Closed,ARQ,Arquillian,software,Done,13/12/2011 05:43,29/12/2011 15:57
+ARQ-695,Feature Request,Closed,ARQ,Arquillian,software,Done,14/12/2011 09:39,30/12/2011 09:01
+ARQ-696,Bug,Open,ARQ,Arquillian,software,,14/12/2011 11:20,
+ARQ-697,Enhancement,Closed,ARQ,Arquillian,software,Done,14/12/2011 12:32,09/03/2012 05:26
+ARQ-698,Bug,Open,ARQ,Arquillian,software,,15/12/2011 04:37,
+ARQ-699,Bug,Closed,ARQ,Arquillian,software,Done,15/12/2011 07:54,15/12/2011 15:16
+ARQ-7,Task,Closed,ARQ,Arquillian,software,Done,06/08/2009 08:11,25/12/2009 18:11
+ARQ-70,Feature Request,Closed,ARQ,Arquillian,software,Done,24/02/2010 05:17,22/04/2010 18:37
+ARQ-700,Bug,Closed,ARQ,Arquillian,software,Done,15/12/2011 10:07,13/05/2013 16:15
+ARQ-701,Bug,Closed,ARQ,Arquillian,software,Done,15/12/2011 11:36,27/06/2014 14:00
+ARQ-702,Bug,Open,ARQ,Arquillian,software,,15/12/2011 11:51,
+ARQ-703,Release,Closed,ARQ,Arquillian,software,Done,15/12/2011 15:22,15/12/2011 19:14
+ARQ-705,Bug,Closed,ARQ,Arquillian,software,Won't Do,16/12/2011 07:44,29/04/2012 08:56
+ARQ-706,Component Upgrade,Closed,ARQ,Arquillian,software,Done,19/12/2011 22:55,16/01/2012 02:57
+ARQ-707,Feature Request,Closed,ARQ,Arquillian,software,Done,19/12/2011 23:07,22/01/2012 09:57
+ARQ-708,Feature Request,Closed,ARQ,Arquillian,software,Done,20/12/2011 07:48,06/02/2012 05:49
+ARQ-71,Feature Request,Closed,ARQ,Arquillian,software,Done,24/02/2010 05:56,21/04/2010 12:47
+ARQ-710,Feature Request,Open,ARQ,Arquillian,software,,22/12/2011 00:45,
+ARQ-711,Feature Request,Closed,ARQ,Arquillian,software,Done,22/12/2011 03:58,23/12/2011 06:11
+ARQ-712,Bug,Resolved,ARQ,Arquillian,software,Won't Do,22/12/2011 09:51,15/06/2022 14:42
+ARQ-713,Bug,Closed,ARQ,Arquillian,software,Won't Do,23/12/2011 04:46,23/12/2011 06:09
+ARQ-714,Bug,Resolved,ARQ,Arquillian,software,Won't Do,23/12/2011 05:24,23/12/2011 06:07
+ARQ-715,Enhancement,Closed,ARQ,Arquillian,software,Done,26/12/2011 06:11,02/01/2012 10:17
+ARQ-716,Release,Closed,ARQ,Arquillian,software,Done,28/12/2011 13:39,30/12/2011 16:14
+ARQ-717,Feature Request,Closed,ARQ,Arquillian,software,Done,04/01/2012 08:17,20/01/2012 06:36
+ARQ-718,Feature Request,Closed,ARQ,Arquillian,software,Done,05/01/2012 17:29,06/04/2012 09:18
+ARQ-719,Feature Request,Closed,ARQ,Arquillian,software,Done,05/01/2012 17:38,06/01/2012 17:25
+ARQ-72,Task,Closed,ARQ,Arquillian,software,Done,25/02/2010 03:42,27/02/2010 19:17
+ARQ-720,Feature Request,Closed,ARQ,Arquillian,software,Done,05/01/2012 17:45,06/01/2012 17:27
+ARQ-721,Bug,Closed,ARQ,Arquillian,software,Done,06/01/2012 14:21,06/01/2012 14:39
+ARQ-723,Bug,Closed,ARQ,Arquillian,software,Done,09/01/2012 14:00,19/02/2012 06:56
+ARQ-724,Bug,Closed,ARQ,Arquillian,software,Done,10/01/2012 09:59,10/01/2012 11:11
+ARQ-725,Enhancement,Closed,ARQ,Arquillian,software,Done,16/01/2012 02:56,22/01/2012 09:58
+ARQ-726,Bug,Closed,ARQ,Arquillian,software,Done,19/01/2012 14:05,22/07/2012 13:19
+ARQ-727,Release,Closed,ARQ,Arquillian,software,Done,19/01/2012 16:36,19/01/2012 16:47
+ARQ-728,Feature Request,Open,ARQ,Arquillian,software,,19/01/2012 16:38,
+ARQ-729,Feature Request,Open,ARQ,Arquillian,software,,20/01/2012 07:59,
+ARQ-73,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,25/02/2010 04:45,18/07/2010 06:48
+ARQ-730,Bug,Open,ARQ,Arquillian,software,,20/01/2012 17:27,
+ARQ-731,Release,Closed,ARQ,Arquillian,software,Done,22/01/2012 10:03,22/01/2012 14:34
+ARQ-732,Enhancement,Open,ARQ,Arquillian,software,,22/01/2012 16:38,
+ARQ-733,Feature Request,Open,ARQ,Arquillian,software,,29/01/2012 16:50,
+ARQ-734,Feature Request,Open,ARQ,Arquillian,software,,02/02/2012 10:28,
+ARQ-735,Bug,Open,ARQ,Arquillian,software,,02/02/2012 12:54,
+ARQ-736,Bug,Open,ARQ,Arquillian,software,,02/02/2012 13:01,
+ARQ-737,Feature Request,Closed,ARQ,Arquillian,software,Done,02/02/2012 15:50,05/06/2012 12:25
+ARQ-738,Feature Request,Closed,ARQ,Arquillian,software,Done,07/02/2012 18:01,22/02/2012 09:15
+ARQ-739,Feature Request,Open,ARQ,Arquillian,software,,08/02/2012 08:10,
+ARQ-74,Feature Request,Open,ARQ,Arquillian,software,,25/02/2010 04:57,
+ARQ-742,Enhancement,Open,ARQ,Arquillian,software,,10/02/2012 23:06,
+ARQ-743,Release,Closed,ARQ,Arquillian,software,Done,12/02/2012 17:26,12/02/2012 17:44
+ARQ-744,Feature Request,Closed,ARQ,Arquillian,software,Done,13/02/2012 05:28,23/02/2012 07:45
+ARQ-746,Feature Request,Open,ARQ,Arquillian,software,,13/02/2012 05:53,
+ARQ-747,Bug,Closed,ARQ,Arquillian,software,Won't Do,13/02/2012 17:34,14/02/2012 13:57
+ARQ-748,Bug,Closed,ARQ,Arquillian,software,Done,14/02/2012 03:18,22/02/2012 09:09
+ARQ-749,Component Upgrade,Closed,ARQ,Arquillian,software,Duplicate,14/02/2012 03:35,16/03/2012 10:29
+ARQ-75,Feature Request,Open,ARQ,Arquillian,software,,25/02/2010 05:22,
+ARQ-750,Component Upgrade,Closed,ARQ,Arquillian,software,Done,14/02/2012 03:36,27/03/2012 15:21
+ARQ-751,Bug,Closed,ARQ,Arquillian,software,Done,14/02/2012 13:29,18/02/2012 14:13
+ARQ-752,Bug,Closed,ARQ,Arquillian,software,Done,14/02/2012 13:35,18/02/2012 13:16
+ARQ-753,Bug,Closed,ARQ,Arquillian,software,Done,13/12/2011 07:35,16/02/2012 08:59
+ARQ-754,Bug,Closed,ARQ,Arquillian,software,Done,16/02/2012 08:59,05/08/2013 06:43
+ARQ-755,Enhancement,Closed,ARQ,Arquillian,software,Done,16/02/2012 09:44,23/02/2012 14:14
+ARQ-756,Enhancement,Closed,ARQ,Arquillian,software,Done,16/02/2012 13:03,18/02/2012 05:44
+ARQ-757,Task,Closed,ARQ,Arquillian,software,Done,16/02/2012 13:06,11/04/2012 17:56
+ARQ-758,Enhancement,Closed,ARQ,Arquillian,software,Done,16/02/2012 13:52,17/02/2012 15:47
+ARQ-759,Enhancement,Closed,ARQ,Arquillian,software,Done,16/02/2012 13:54,01/09/2013 15:14
+ARQ-76,Task,Closed,ARQ,Arquillian,software,Done,27/02/2010 16:11,27/02/2010 16:16
+ARQ-760,Enhancement,Closed,ARQ,Arquillian,software,Done,16/02/2012 13:55,01/09/2013 15:14
+ARQ-761,Task,Closed,ARQ,Arquillian,software,Done,16/02/2012 13:56,02/03/2012 15:14
+ARQ-762,Enhancement,Open,ARQ,Arquillian,software,,20/02/2012 16:23,
+ARQ-763,Enhancement,Closed,ARQ,Arquillian,software,Done,20/02/2012 16:24,01/07/2012 14:59
+ARQ-764,Feature Request,Closed,ARQ,Arquillian,software,Done,21/02/2012 16:06,07/04/2012 12:42
+ARQ-765,Bug,Closed,ARQ,Arquillian,software,Done,21/02/2012 16:09,11/03/2012 14:47
+ARQ-766,Bug,Closed,ARQ,Arquillian,software,Done,21/02/2012 17:30,21/02/2012 17:30
+ARQ-767,Release,Closed,ARQ,Arquillian,software,Done,22/02/2012 06:52,22/02/2012 07:19
+ARQ-768,Bug,Open,ARQ,Arquillian,software,,22/02/2012 07:14,
+ARQ-769,Feature Request,Open,ARQ,Arquillian,software,,22/02/2012 07:33,
+ARQ-77,Bug,Open,ARQ,Arquillian,software,,27/02/2010 16:18,
+ARQ-770,Release,Open,ARQ,Arquillian,software,,22/02/2012 13:55,
+ARQ-773,Release,Closed,ARQ,Arquillian,software,Done,23/02/2012 07:48,23/02/2012 08:41
+ARQ-774,Release,Closed,ARQ,Arquillian,software,Done,23/02/2012 07:49,23/02/2012 08:41
+ARQ-775,Bug,Resolved,ARQ,Arquillian,software,Won't Do,23/02/2012 08:32,28/02/2013 12:21
+ARQ-776,Bug,Closed,ARQ,Arquillian,software,Done,23/02/2012 08:42,23/02/2012 09:57
+ARQ-777,Feature Request,Closed,ARQ,Arquillian,software,Done,23/02/2012 12:05,11/03/2012 10:09
+ARQ-778,Feature Request,Open,ARQ,Arquillian,software,,23/02/2012 13:45,
+ARQ-779,Bug,Closed,ARQ,Arquillian,software,Done,23/02/2012 13:55,22/07/2012 17:26
+ARQ-78,Task,Closed,ARQ,Arquillian,software,Done,04/03/2010 15:15,05/03/2010 04:37
+ARQ-780,Enhancement,Closed,ARQ,Arquillian,software,Done,24/02/2012 02:07,05/03/2012 07:33
+ARQ-781,Bug,Closed,ARQ,Arquillian,software,Done,24/02/2012 09:24,26/02/2012 12:26
+ARQ-782,Task,Open,ARQ,Arquillian,software,,24/02/2012 15:03,
+ARQ-783,Task,Open,ARQ,Arquillian,software,,24/02/2012 15:10,
+ARQ-784,Enhancement,Closed,ARQ,Arquillian,software,Done,24/02/2012 16:24,09/11/2012 04:18
+ARQ-785,Feature Request,Closed,ARQ,Arquillian,software,Done,24/02/2012 17:06,09/11/2012 04:20
+ARQ-786,Feature Request,Closed,ARQ,Arquillian,software,Done,25/02/2012 10:16,27/02/2012 03:02
+ARQ-787,Component Upgrade,Closed,ARQ,Arquillian,software,Done,25/02/2012 10:24,25/02/2012 11:35
+ARQ-788,Component Upgrade,Closed,ARQ,Arquillian,software,Done,25/02/2012 10:36,25/02/2012 11:35
+ARQ-789,Bug,Closed,ARQ,Arquillian,software,Done,26/02/2012 12:16,26/02/2012 12:27
+ARQ-79,Task,Closed,ARQ,Arquillian,software,Done,05/03/2010 04:19,05/03/2010 06:31
+ARQ-790,Release,Closed,ARQ,Arquillian,software,Done,27/02/2012 07:44,27/02/2012 07:55
+ARQ-791,Bug,Open,ARQ,Arquillian,software,,28/02/2012 06:26,
+ARQ-792,Feature Request,Closed,ARQ,Arquillian,software,Done,28/02/2012 15:12,05/03/2012 07:43
+ARQ-793,Bug,Closed,ARQ,Arquillian,software,Done,29/02/2012 03:55,29/04/2012 05:56
+ARQ-794,Release,Closed,ARQ,Arquillian,software,Done,29/02/2012 17:43,29/02/2012 18:33
+ARQ-795,Bug,Closed,ARQ,Arquillian,software,Cannot Reproduce,02/03/2012 10:36,22/03/2012 06:23
+ARQ-796,Enhancement,Closed,ARQ,Arquillian,software,Done,05/03/2012 13:31,20/11/2012 18:55
+ARQ-797,Feature Request,Closed,ARQ,Arquillian,software,Duplicate,05/03/2012 16:35,29/04/2012 09:10
+ARQ-798,Feature Request,Closed,ARQ,Arquillian,software,Duplicate,05/03/2012 16:46,05/03/2012 17:46
+ARQ-799,Task,Open,ARQ,Arquillian,software,,06/03/2012 12:16,
+ARQ-8,Task,Closed,ARQ,Arquillian,software,Done,06/08/2009 08:13,25/12/2009 18:16
+ARQ-80,Task,Closed,ARQ,Arquillian,software,Done,05/03/2010 04:19,05/03/2010 06:31
+ARQ-800,Enhancement,Closed,ARQ,Arquillian,software,Done,06/03/2012 12:34,03/09/2013 15:36
+ARQ-803,Enhancement,Open,ARQ,Arquillian,software,,07/03/2012 08:12,
+ARQ-804,Feature Request,Closed,ARQ,Arquillian,software,Done,07/03/2012 11:36,11/03/2012 12:56
+ARQ-805,Enhancement,Closed,ARQ,Arquillian,software,Done,11/03/2012 12:53,11/03/2012 14:30
+ARQ-807,Feature Request,Closed,ARQ,Arquillian,software,Done,11/03/2012 19:02,07/04/2012 16:10
+ARQ-808,Task,Resolved,ARQ,Arquillian,software,Done,12/03/2012 07:08,24/04/2016 06:21
+ARQ-809,Task,Closed,ARQ,Arquillian,software,Obsolete,13/03/2012 23:03,10/04/2012 09:09
+ARQ-81,Task,Closed,ARQ,Arquillian,software,Done,05/03/2010 05:44,05/03/2010 06:31
+ARQ-810,Release,Closed,ARQ,Arquillian,software,Done,14/03/2012 08:26,14/03/2012 08:34
+ARQ-811,Release,Closed,ARQ,Arquillian,software,Done,14/03/2012 08:27,15/03/2012 19:12
+ARQ-812,Enhancement,Closed,ARQ,Arquillian,software,Done,15/03/2012 06:36,10/03/2014 03:38
+ARQ-813,Bug,Open,ARQ,Arquillian,software,,15/03/2012 10:25,
+ARQ-814,Bug,Resolved,ARQ,Arquillian,software,Won't Do,13/03/2012 12:34,24/04/2017 04:24
+ARQ-815,Bug,Resolved,ARQ,Arquillian,software,Done,15/03/2012 17:18,15/03/2012 18:10
+ARQ-816,Bug,Resolved,ARQ,Arquillian,software,Done,15/03/2012 17:40,15/03/2012 18:09
+ARQ-817,Bug,Closed,ARQ,Arquillian,software,Done,15/03/2012 19:12,13/06/2012 09:25
+ARQ-818,Bug,Closed,ARQ,Arquillian,software,Done,15/03/2012 19:59,13/06/2012 09:25
+ARQ-819,Bug,Closed,ARQ,Arquillian,software,Done,15/03/2012 20:18,13/06/2012 09:26
+ARQ-82,Task,Closed,ARQ,Arquillian,software,Done,05/03/2010 07:57,05/03/2010 08:19
+ARQ-820,Component Upgrade,Closed,ARQ,Arquillian,software,Done,16/03/2012 10:34,27/03/2012 15:21
+ARQ-821,Enhancement,Closed,ARQ,Arquillian,software,Done,16/03/2012 10:48,27/03/2012 15:21
+ARQ-822,Bug,Closed,ARQ,Arquillian,software,Done,16/03/2012 14:02,16/03/2012 14:20
+ARQ-823,Feature Request,Closed,ARQ,Arquillian,software,Done,16/03/2012 14:23,26/03/2012 12:25
+ARQ-824,Bug,Resolved,ARQ,Arquillian,software,Obsolete,19/03/2012 10:47,24/04/2024 14:02
+ARQ-826,Bug,Open,ARQ,Arquillian,software,,21/03/2012 02:19,
+ARQ-828,Bug,Closed,ARQ,Arquillian,software,Can't Do,26/03/2012 08:29,16/01/2014 09:38
+ARQ-829,Release,Closed,ARQ,Arquillian,software,Done,26/03/2012 12:28,26/03/2012 12:36
+ARQ-83,Task,Closed,ARQ,Arquillian,software,Done,05/03/2010 07:58,05/03/2010 08:19
+ARQ-830,Release,Closed,ARQ,Arquillian,software,Done,27/03/2012 15:21,27/03/2012 16:37
+ARQ-831,Task,Open,ARQ,Arquillian,software,,28/03/2012 03:07,
+ARQ-835,Feature Request,Resolved,ARQ,Arquillian,software,Done,28/03/2012 12:44,19/04/2012 07:38
+ARQ-836,Bug,Open,ARQ,Arquillian,software,,29/03/2012 04:19,
+ARQ-837,Bug,Closed,ARQ,Arquillian,software,Done,30/03/2012 08:05,20/11/2012 18:56
+ARQ-838,Task,Closed,ARQ,Arquillian,software,Won't Do,02/04/2012 06:06,02/07/2015 06:54
+ARQ-84,Task,Closed,ARQ,Arquillian,software,Done,05/03/2010 07:59,05/03/2010 08:18
+ARQ-840,Feature Request,Closed,ARQ,Arquillian,software,Done,03/04/2012 05:54,07/04/2012 07:19
+ARQ-841,Bug,Closed,ARQ,Arquillian,software,Done,03/04/2012 06:04,17/02/2013 13:58
+ARQ-842,Enhancement,Closed,ARQ,Arquillian,software,Done,04/04/2012 02:42,06/04/2012 17:16
+ARQ-843,Task,Closed,ARQ,Arquillian,software,Done,04/04/2012 03:48,08/04/2012 10:49
+ARQ-844,Bug,Resolved,ARQ,Arquillian,software,Won't Do,04/04/2012 05:13,23/05/2012 07:59
+ARQ-845,Task,Resolved,ARQ,Arquillian,software,Won't Do,04/04/2012 05:20,23/05/2012 07:57
+ARQ-846,Enhancement,Closed,ARQ,Arquillian,software,Done,04/04/2012 07:22,12/04/2012 09:06
+ARQ-847,Feature Request,Closed,ARQ,Arquillian,software,Done,05/04/2012 07:41,20/04/2012 10:39
+ARQ-848,Feature Request,Closed,ARQ,Arquillian,software,Done,05/04/2012 13:09,05/04/2012 14:04
+ARQ-849,Feature Request,Closed,ARQ,Arquillian,software,Done,05/04/2012 13:12,05/04/2012 14:03
+ARQ-850,Feature Request,Closed,ARQ,Arquillian,software,Done,05/04/2012 13:16,05/04/2012 14:03
+ARQ-851,Release,Closed,ARQ,Arquillian,software,Done,05/04/2012 13:51,05/04/2012 14:09
+ARQ-852,Feature Request,Closed,ARQ,Arquillian,software,Done,05/04/2012 14:08,06/04/2012 13:11
+ARQ-853,Feature Request,Closed,ARQ,Arquillian,software,Done,05/04/2012 16:41,10/04/2012 06:09
+ARQ-854,Feature Request,Closed,ARQ,Arquillian,software,Duplicate,07/04/2012 02:48,29/04/2012 08:48
+ARQ-856,Bug,Closed,ARQ,Arquillian,software,Done,09/04/2012 01:49,05/12/2012 07:46
+ARQ-857,Bug,Closed,ARQ,Arquillian,software,Done,10/04/2012 06:10,10/04/2012 06:12
+ARQ-858,Feature Request,Closed,ARQ,Arquillian,software,Done,10/04/2012 08:08,10/04/2012 08:49
+ARQ-859,Enhancement,Closed,ARQ,Arquillian,software,Done,10/04/2012 08:16,10/04/2012 11:02
+ARQ-86,Bug,Closed,ARQ,Arquillian,software,Done,05/03/2010 10:18,10/06/2010 13:35
+ARQ-860,Release,Closed,ARQ,Arquillian,software,Done,10/04/2012 08:51,10/04/2012 15:04
+ARQ-861,Release,Closed,ARQ,Arquillian,software,Done,10/04/2012 11:31,10/04/2012 15:05
+ARQ-862,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,10/04/2012 11:44,22/07/2012 13:13
+ARQ-863,Bug,Closed,ARQ,Arquillian,software,Done,11/04/2012 02:08,03/06/2013 18:00
+ARQ-864,Feature Request,Open,ARQ,Arquillian,software,,11/04/2012 06:22,
+ARQ-865,Bug,Resolved,ARQ,Arquillian,software,Obsolete,11/04/2012 20:08,27/06/2014 12:30
+ARQ-866,Enhancement,Closed,ARQ,Arquillian,software,Done,11/04/2012 20:44,27/06/2014 14:00
+ARQ-867,Feature Request,Open,ARQ,Arquillian,software,,12/04/2012 00:47,
+ARQ-868,Task,Closed,ARQ,Arquillian,software,Done,12/04/2012 04:05,28/06/2012 03:44
+ARQ-869,Feature Request,Closed,ARQ,Arquillian,software,Done,12/04/2012 09:01,12/04/2012 12:34
+ARQ-87,Bug,Closed,ARQ,Arquillian,software,Done,09/03/2010 06:59,09/03/2010 09:08
+ARQ-870,Release,Closed,ARQ,Arquillian,software,Done,12/04/2012 13:06,12/04/2012 14:39
+ARQ-871,Feature Request,Closed,ARQ,Arquillian,software,Done,13/04/2012 04:56,22/07/2012 15:58
+ARQ-872,Bug,Closed,ARQ,Arquillian,software,Done,14/04/2012 10:43,01/07/2012 12:00
+ARQ-873,Enhancement,Closed,ARQ,Arquillian,software,Done,14/04/2012 10:44,26/08/2012 11:56
+ARQ-874,Feature Request,Resolved,ARQ,Arquillian,software,Done,15/04/2012 18:03,18/06/2013 11:02
+ARQ-875,Feature Request,Closed,ARQ,Arquillian,software,Done,15/04/2012 18:15,11/04/2017 14:08
+ARQ-877,Enhancement,Closed,ARQ,Arquillian,software,Done,16/04/2012 02:46,16/04/2012 18:28
+ARQ-88,Task,Closed,ARQ,Arquillian,software,Done,09/03/2010 09:29,26/04/2010 05:15
+ARQ-880,Feature Request,Open,ARQ,Arquillian,software,,16/04/2012 11:02,
+ARQ-882,Enhancement,Closed,ARQ,Arquillian,software,Done,16/04/2012 18:36,22/04/2012 05:31
+ARQ-883,Bug,Closed,ARQ,Arquillian,software,Done,17/04/2012 03:35,22/07/2012 16:56
+ARQ-884,Feature Request,Closed,ARQ,Arquillian,software,Done,22/04/2012 05:38,22/04/2012 07:54
+ARQ-885,Enhancement,Closed,ARQ,Arquillian,software,Done,22/04/2012 08:07,22/04/2012 13:59
+ARQ-888,Release,Closed,ARQ,Arquillian,software,Done,24/04/2012 10:33,24/04/2012 10:44
+ARQ-889,Bug,Closed,ARQ,Arquillian,software,Done,24/04/2012 10:42,01/06/2012 02:00
+ARQ-89,Bug,Closed,ARQ,Arquillian,software,Done,10/03/2010 09:03,10/03/2010 12:29
+ARQ-890,Bug,Closed,ARQ,Arquillian,software,Done,24/04/2012 10:54,13/06/2012 09:26
+ARQ-891,Feature Request,Closed,ARQ,Arquillian,software,Done,26/04/2012 07:46,03/06/2013 17:59
+ARQ-892,Feature Request,Closed,ARQ,Arquillian,software,Done,26/04/2012 08:02,26/11/2013 09:24
+ARQ-893,Feature Request,Closed,ARQ,Arquillian,software,Done,26/04/2012 08:04,18/05/2012 11:48
+ARQ-894,Feature Request,Closed,ARQ,Arquillian,software,Done,26/04/2012 12:01,18/05/2012 11:48
+ARQ-895,Bug,Closed,ARQ,Arquillian,software,Done,29/04/2012 05:54,24/07/2012 07:13
+ARQ-896,Feature Request,Open,ARQ,Arquillian,software,,29/04/2012 09:53,
+ARQ-897,Enhancement,Open,ARQ,Arquillian,software,,29/04/2012 17:03,
+ARQ-898,Enhancement,Open,ARQ,Arquillian,software,,29/04/2012 17:10,
+ARQ-899,Feature Request,Closed,ARQ,Arquillian,software,Done,30/04/2012 02:48,26/08/2012 11:00
+ARQ-9,Task,Closed,ARQ,Arquillian,software,Done,06/08/2009 08:15,25/12/2009 18:13
+ARQ-90,Bug,Closed,ARQ,Arquillian,software,Done,10/03/2010 10:44,10/03/2010 11:53
+ARQ-900,Feature Request,Closed,ARQ,Arquillian,software,Done,30/04/2012 03:08,28/08/2012 11:39
+ARQ-901,Bug,Closed,ARQ,Arquillian,software,Done,30/04/2012 10:33,01/07/2012 09:33
+ARQ-902,Task,Closed,ARQ,Arquillian,software,Done,30/04/2012 16:43,08/05/2012 15:37
+ARQ-903,Task,Closed,ARQ,Arquillian,software,Done,30/04/2012 16:50,08/05/2012 12:00
+ARQ-904,Task,Closed,ARQ,Arquillian,software,Done,01/05/2012 14:02,08/05/2012 10:36
+ARQ-905,Feature Request,Open,ARQ,Arquillian,software,,02/05/2012 01:46,
+ARQ-906,Feature Request,Open,ARQ,Arquillian,software,,02/05/2012 02:22,
+ARQ-907,Feature Request,Open,ARQ,Arquillian,software,,02/05/2012 03:08,
+ARQ-908,Feature Request,Open,ARQ,Arquillian,software,,02/05/2012 06:26,
+ARQ-909,Feature Request,Open,ARQ,Arquillian,software,,02/05/2012 10:36,
+ARQ-91,Bug,Closed,ARQ,Arquillian,software,Done,10/03/2010 10:47,10/03/2010 11:53
+ARQ-910,Bug,Open,ARQ,Arquillian,software,,03/05/2012 04:59,
+ARQ-911,Enhancement,Closed,ARQ,Arquillian,software,Obsolete,03/05/2012 10:07,11/04/2017 14:07
+ARQ-912,Feature Request,Closed,ARQ,Arquillian,software,Done,05/05/2012 14:13,23/10/2013 15:26
+ARQ-913,Enhancement,Pull Request Sent,ARQ,Arquillian,software,,08/05/2012 00:25,
+ARQ-914,Enhancement,Pull Request Sent,ARQ,Arquillian,software,,08/05/2012 00:51,
+ARQ-915,Feature Request,Open,ARQ,Arquillian,software,,08/05/2012 08:01,
+ARQ-916,Release,Closed,ARQ,Arquillian,software,Done,08/05/2012 16:09,08/05/2012 16:31
+ARQ-917,Enhancement,Pull Request Sent,ARQ,Arquillian,software,,08/05/2012 19:33,
+ARQ-918,Enhancement,Pull Request Sent,ARQ,Arquillian,software,,08/05/2012 20:10,
+ARQ-919,Task,Open,ARQ,Arquillian,software,,10/05/2012 12:09,
+ARQ-92,Task,Closed,ARQ,Arquillian,software,Duplicate,11/03/2010 03:45,12/03/2010 15:51
+ARQ-920,Enhancement,Closed,ARQ,Arquillian,software,Done,13/05/2012 13:46,22/07/2012 13:05
+ARQ-921,Enhancement,Closed,ARQ,Arquillian,software,Done,13/05/2012 15:24,08/06/2012 12:02
+ARQ-922,Bug,Closed,ARQ,Arquillian,software,Obsolete,13/05/2012 16:10,11/04/2017 14:08
+ARQ-923,Enhancement,Closed,ARQ,Arquillian,software,Done,13/05/2012 17:35,13/05/2012 17:36
+ARQ-924,Feature Request,Resolved,ARQ,Arquillian,software,Done,15/05/2012 19:48,17/10/2013 16:45
+ARQ-925,Feature Request,Closed,ARQ,Arquillian,software,Obsolete,15/05/2012 19:50,03/03/2014 03:13
+ARQ-926,Feature Request,Closed,ARQ,Arquillian,software,Done,02/05/2012 03:26,27/06/2012 03:33
+ARQ-928,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,16/05/2012 16:13,23/05/2017 05:11
+ARQ-929,Enhancement,Closed,ARQ,Arquillian,software,Done,17/05/2012 05:24,19/10/2012 09:30
+ARQ-93,Bug,Closed,ARQ,Arquillian,software,Done,12/03/2010 12:16,07/05/2010 07:33
+ARQ-930,Feature Request,Open,ARQ,Arquillian,software,,18/05/2012 07:15,
+ARQ-931,Enhancement,Closed,ARQ,Arquillian,software,Done,18/05/2012 07:17,18/05/2012 13:37
+ARQ-932,Feature Request,Closed,ARQ,Arquillian,software,Done,18/05/2012 07:18,12/10/2012 09:43
+ARQ-933,Enhancement,Closed,ARQ,Arquillian,software,Done,18/05/2012 07:19,18/05/2012 13:37
+ARQ-934,Enhancement,Closed,ARQ,Arquillian,software,Done,18/05/2012 07:27,11/03/2013 13:59
+ARQ-935,Bug,Closed,ARQ,Arquillian,software,Done,18/05/2012 17:11,22/05/2012 08:30
+ARQ-936,Release,Closed,ARQ,Arquillian,software,Done,19/05/2012 13:44,25/05/2012 04:23
+ARQ-937,Feature Request,Closed,ARQ,Arquillian,software,Done,19/05/2012 15:57,11/12/2012 11:24
+ARQ-938,Feature Request,Open,ARQ,Arquillian,software,,20/05/2012 16:10,
+ARQ-939,Release,Closed,ARQ,Arquillian,software,Done,20/05/2012 16:29,21/05/2012 20:38
+ARQ-94,Bug,Closed,ARQ,Arquillian,software,Done,13/03/2010 13:05,07/05/2010 14:21
+ARQ-940,Enhancement,Resolved,ARQ,Arquillian,software,Done,20/05/2012 16:34,20/05/2012 16:56
+ARQ-941,Enhancement,Closed,ARQ,Arquillian,software,Done,20/05/2012 19:04,13/05/2013 16:22
+ARQ-942,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,21/05/2012 04:51,23/05/2012 04:00
+ARQ-943,Bug,Closed,ARQ,Arquillian,software,Done,21/05/2012 06:59,22/05/2012 13:24
+ARQ-944,Feature Request,Open,ARQ,Arquillian,software,,22/05/2012 02:22,
+ARQ-945,Feature Request,Closed,ARQ,Arquillian,software,Done,22/05/2012 06:16,23/06/2012 08:56
+ARQ-946,Feature Request,Open,ARQ,Arquillian,software,,22/05/2012 06:43,
+ARQ-947,Feature Request,Open,ARQ,Arquillian,software,,22/05/2012 07:07,
+ARQ-948,Enhancement,Closed,ARQ,Arquillian,software,Done,22/05/2012 07:10,22/05/2012 07:49
+ARQ-949,Enhancement,Open,ARQ,Arquillian,software,,22/05/2012 07:16,
+ARQ-95,Feature Request,Closed,ARQ,Arquillian,software,Done,27/03/2010 13:59,07/05/2010 13:52
+ARQ-950,Feature Request,Open,ARQ,Arquillian,software,,22/05/2012 07:19,
+ARQ-951,Feature Request,Closed,ARQ,Arquillian,software,Done,22/05/2012 07:32,03/12/2013 04:33
+ARQ-952,Task,Closed,ARQ,Arquillian,software,Done,22/05/2012 07:39,14/11/2012 16:20
+ARQ-953,Task,Closed,ARQ,Arquillian,software,Obsolete,22/05/2012 07:48,19/02/2013 06:01
+ARQ-954,Task,Resolved,ARQ,Arquillian,software,Done,23/05/2012 04:06,23/05/2012 07:56
+ARQ-955,Enhancement,Closed,ARQ,Arquillian,software,Done,23/05/2012 04:27,23/05/2012 08:13
+ARQ-956,Task,Closed,ARQ,Arquillian,software,Done,23/05/2012 04:36,05/06/2012 10:19
+ARQ-957,Feature Request,Closed,ARQ,Arquillian,software,Done,23/05/2012 08:09,25/05/2012 04:22
+ARQ-958,Feature Request,Closed,ARQ,Arquillian,software,Done,23/05/2012 14:02,13/08/2012 08:20
+ARQ-959,Feature Request,Open,ARQ,Arquillian,software,,23/05/2012 14:07,
+ARQ-96,Feature Request,Closed,ARQ,Arquillian,software,Done,04/04/2010 16:27,23/05/2010 15:50
+ARQ-960,Feature Request,Closed,ARQ,Arquillian,software,Done,23/05/2012 14:22,09/06/2013 16:05
+ARQ-961,Bug,Closed,ARQ,Arquillian,software,Done,23/05/2012 15:55,23/05/2012 16:01
+ARQ-963,Feature Request,Closed,ARQ,Arquillian,software,Done,24/05/2012 15:10,26/07/2013 12:02
+ARQ-964,Feature Request,Closed,ARQ,Arquillian,software,Done,25/05/2012 04:34,18/12/2012 05:38
+ARQ-965,Feature Request,Closed,ARQ,Arquillian,software,Done,25/05/2012 04:52,27/11/2012 08:23
+ARQ-966,Feature Request,Open,ARQ,Arquillian,software,,25/05/2012 04:54,
+ARQ-967,Feature Request,Closed,ARQ,Arquillian,software,Done,25/05/2012 04:57,26/11/2012 12:51
+ARQ-968,Feature Request,Open,ARQ,Arquillian,software,,25/05/2012 05:00,
+ARQ-969,Enhancement,Closed,ARQ,Arquillian,software,Won't Do,25/05/2012 16:24,27/11/2012 02:00
+ARQ-97,Bug,Closed,ARQ,Arquillian,software,Done,04/04/2010 16:31,18/07/2010 10:32
+ARQ-970,Task,Closed,ARQ,Arquillian,software,Done,28/05/2012 05:36,28/06/2012 03:45
+ARQ-971,Feature Request,Closed,ARQ,Arquillian,software,Done,30/05/2012 04:50,01/06/2012 02:43
+ARQ-972,Bug,Closed,ARQ,Arquillian,software,Done,30/05/2012 07:40,12/10/2012 09:44
+ARQ-973,Bug,Closed,ARQ,Arquillian,software,Done,31/05/2012 04:23,31/05/2012 04:46
+ARQ-974,Release,Closed,ARQ,Arquillian,software,Done,01/06/2012 02:45,01/06/2012 03:18
+ARQ-975,Bug,Open,ARQ,Arquillian,software,,01/06/2012 18:31,
+ARQ-976,Bug,Closed,ARQ,Arquillian,software,Done,02/06/2012 17:52,04/06/2012 07:42
+ARQ-977,Feature Request,Open,ARQ,Arquillian,software,,03/06/2012 00:24,
+ARQ-978,Feature Request,Closed,ARQ,Arquillian,software,Done,03/06/2012 10:12,23/06/2012 08:57
+ARQ-979,Enhancement,Closed,ARQ,Arquillian,software,Done,04/06/2012 05:56,27/11/2012 05:23
+ARQ-98,Feature Request,Closed,ARQ,Arquillian,software,Won't Do,07/04/2010 13:20,22/06/2010 17:25
+ARQ-980,Enhancement,Closed,ARQ,Arquillian,software,Done,04/06/2012 05:57,27/11/2012 03:40
+ARQ-981,Enhancement,Closed,ARQ,Arquillian,software,Done,04/06/2012 05:59,27/11/2012 02:14
+ARQ-982,Bug,Closed,ARQ,Arquillian,software,Done,05/06/2012 11:04,12/10/2012 09:43
+ARQ-983,Release,Closed,ARQ,Arquillian,software,Done,05/06/2012 12:25,05/06/2012 12:32
+ARQ-984,Feature Request,Open,ARQ,Arquillian,software,,05/06/2012 12:38,
+ARQ-985,Feature Request,Closed,ARQ,Arquillian,software,Done,05/06/2012 14:04,15/08/2012 10:59
+ARQ-986,Feature Request,Closed,ARQ,Arquillian,software,Done,05/06/2012 15:13,15/11/2013 13:18
+ARQ-987,Task,Resolved,ARQ,Arquillian,software,Done,06/06/2012 04:58,10/06/2012 05:12
+ARQ-988,Bug,Resolved,ARQ,Arquillian,software,Done,06/06/2012 05:00,02/02/2013 14:15
+ARQ-989,Task,Resolved,ARQ,Arquillian,software,Done,06/06/2012 05:06,11/06/2012 15:24
+ARQ-99,Bug,Closed,ARQ,Arquillian,software,Done,13/04/2010 07:07,22/05/2010 15:17
+ARQ-990,Feature Request,Closed,ARQ,Arquillian,software,Done,07/06/2012 05:00,08/06/2012 11:51
+ARQ-991,Bug,Resolved,ARQ,Arquillian,software,Done,07/06/2012 05:46,02/02/2013 13:37
+ARQ-992,Bug,Closed,ARQ,Arquillian,software,Done,08/06/2012 10:59,07/01/2013 10:13
+ARQ-993,Feature Request,Open,ARQ,Arquillian,software,,10/06/2012 07:42,
+ARQ-994,Feature Request,Closed,ARQ,Arquillian,software,Done,11/06/2012 08:51,05/08/2013 06:44
+ARQ-995,Feature Request,Closed,ARQ,Arquillian,software,Done,11/06/2012 09:27,29/06/2012 02:35
+ARQ-996,Task,Resolved,ARQ,Arquillian,software,Obsolete,12/06/2012 03:50,11/02/2015 03:41
