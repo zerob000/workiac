@@ -43,7 +43,7 @@ def my_scheduler(yml, sname):
     os.system("python 2_Scheduler.py RedHat.yaml "+sname)
 
 def my_strategist(yml, sname):
-    os.system("python 2_Scheduler.py RedHat.yaml "+sname)
+    os.system("python 3_Strategist.py RedHat.yaml "+sname)
     
     # Change into the strategy directory
     path = os.getcwd()
@@ -91,9 +91,8 @@ for sname, yml in snames.items():
     tot_reso = updates[1]
     tot_stat = updates[2]
 
-    
-    #my_scheduler(yml, sname)
-    #my_strategist(yml, sname)
+    my_scheduler(yml, sname)
+    my_strategist(yml, sname)
 
 f.close()
 
