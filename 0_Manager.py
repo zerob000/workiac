@@ -40,10 +40,10 @@ def my_analyst(yml, sname, tot_issu, tot_reso, tot_stat):
     return(tot_issu, tot_reso, tot_stat)
 
 def my_scheduler(yml, sname):
-    os.system("python 2_Scheduler.py RedHat.yaml "+sname)
+    os.system("python 2_Scheduler.py "+yml+" "+sname)
 
 def my_strategist(yml, sname):
-    os.system("python 3_Strategist.py RedHat.yaml "+sname)
+    os.system("python 3_Strategist.py "+yml+" "+sname)
     
     # Change into the strategy directory
     path = os.getcwd()
