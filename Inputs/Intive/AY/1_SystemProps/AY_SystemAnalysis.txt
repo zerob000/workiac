@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2016-06-22 11:38:00
+System: {'BBCIPNG': 270}
+Types: {'Task': 38, 'Bug': 85, 'Sub-task': 117, 'Note': 3, 'Improvement': 19, 'Question': 5, 'New Feature': 3}
+Resolutions: {'Closed': 20, 'Open': 12, 'Resolved': 237, 'Reopened': 1}
+Statuses: {'Closed': 20, 'Open': 12, 'Resolved': 237, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 39.0 days
+Average Lead Time (Task): 181.7 days
+Average Lead Time (Bug): 39.5 days
+Average Lead Time (Sub-task): 0.3 days
+Average Lead Time (Note): 94.7 days
+Average Lead Time (Improvement): 17.6 days
+Average Lead Time (Question): 5.8 days
+Average Lead Time (New Feature): 6.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2016-03-14 11:38:00 End date: 2016-06-22 11:38:00
+System: {'BBCIPNG': 11}
+Types: {'Task': 10, 'Bug': 1}
+Resolutions: {'Closed': 11}
+Statuses: {'Closed': 11}
+
+Average Lead Time (all PBIs): 577.2 days
+Average Lead Time (Task): 588.0 days
+Average Lead Time (Bug): 469.0 days

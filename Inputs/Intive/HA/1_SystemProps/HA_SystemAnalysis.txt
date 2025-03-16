@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2013-08-21 12:49:00
+System: {'MONSTAZ': 1230}
+Types: {'Bug': 627, 'Task': 402, 'Sub-task': 69, 'New Feature': 37, 'Note': 3, 'Improvement': 90, 'Test': 1, 'Question': 1}
+Resolutions: {'Resolved': 1008, 'Open': 102, 'In progress': 4, 'Closed': 115, 'Reopened': 1}
+Statuses: {'Resolved': 1008, 'Open': 102, 'In progress': 4, 'Closed': 115, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 14.8 days
+Average Lead Time (Bug): 7.4 days
+Average Lead Time (Task): 28.7 days
+Average Lead Time (Sub-task): 6.8 days
+Average Lead Time (New Feature): 10.7 days
+Average Lead Time (Improvement): 9.7 days
+Average Lead Time (Test): 2.0 days
+Average Lead Time (Note): 8.0 days
+Average Lead Time (Question): 117.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-05-13 12:49:00 End date: 2013-08-21 12:49:00
+System: {'MONSTAZ': 7}
+Types: {'Bug': 5, 'Task': 2}
+Resolutions: {'Resolved': 7}
+Statuses: {'Resolved': 7}
+
+Average Lead Time (all PBIs): 252.9 days
+Average Lead Time (Bug): 190.6 days
+Average Lead Time (Task): 408.5 days

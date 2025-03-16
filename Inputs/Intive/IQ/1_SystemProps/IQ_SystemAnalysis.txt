@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2016-07-08 14:10:00
+System: {'INKSMART': 720}
+Types: {'Task': 101, 'Bug': 396, 'New Feature': 61, 'Improvement': 24, 'Note': 12, 'Test': 1, 'Question': 4, 'Sub-task': 110, 'User Story': 11}
+Resolutions: {'Closed': 583, 'Resolved': 127, 'Open': 8, 'In progress': 2}
+Statuses: {'Closed': 583, 'Resolved': 127, 'Open': 8, 'In progress': 2}
+
+Average Lead Time (all PBIs): 39.1 days
+Average Lead Time (Task): 103.1 days
+Average Lead Time (Bug): 16.8 days
+Average Lead Time (New Feature): 39.4 days
+Average Lead Time (Improvement): 45.3 days
+Average Lead Time (Note): 41.9 days
+Average Lead Time (Test): 1.0 days
+Average Lead Time (Question): 62.5 days
+Average Lead Time (Sub-task): 52.9 days
+Average Lead Time (User Story): 121.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2016-03-30 14:10:00 End date: 2016-07-08 14:10:00
+System: {'INKSMART': 1}
+Types: {'Task': 1}
+Resolutions: {'Closed': 1}
+Statuses: {'Closed': 1}
+
+Average Lead Time (all PBIs): 1442.0 days
+Average Lead Time (Task): 1442.0 days

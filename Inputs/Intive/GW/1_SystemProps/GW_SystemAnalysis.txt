@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2010-10-12 13:17:00
+System: {'CLOCKIN': 82}
+Types: {'Bug': 25, 'Task': 50, 'Internal Bug sub-task': 3, 'Risk': 1, 'Sub-task': 3}
+Resolutions: {'Resolved': 72, 'Open': 5, 'Closed': 5}
+Statuses: {'Resolved': 72, 'Open': 5, 'Closed': 5}
+
+Average Lead Time (all PBIs): 17.1 days
+Average Lead Time (Bug): 6.0 days
+Average Lead Time (Task): 21.7 days
+Average Lead Time (Sub-task): 33.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2010-07-04 13:17:00 End date: 2010-10-12 13:17:00
+System: {'CLOCKIN': 54}
+Types: {'Bug': 14, 'Task': 35, 'Internal Bug sub-task': 3, 'Risk': 1, 'Sub-task': 1}
+Resolutions: {'Resolved': 47, 'Open': 5, 'Closed': 2}
+Statuses: {'Resolved': 47, 'Open': 5, 'Closed': 2}
+
+Average Lead Time (all PBIs): 22.5 days
+Average Lead Time (Bug): 9.0 days
+Average Lead Time (Task): 27.3 days
+Average Lead Time (Sub-task): 48.0 days

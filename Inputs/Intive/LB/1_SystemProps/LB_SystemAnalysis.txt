@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2016-11-03 17:32:00
+System: {'TECNOBD': 119}
+Types: {'Task': 62, 'Bug': 21, 'User Story': 29, 'Improvement': 6, 'Sub-task': 1}
+Resolutions: {'Closed': 98, 'Resolved': 18, 'Open': 3}
+Statuses: {'Closed': 98, 'Resolved': 18, 'Open': 3}
+
+Average Lead Time (all PBIs): 89.8 days
+Average Lead Time (Task): 56.6 days
+Average Lead Time (Bug): 85.6 days
+Average Lead Time (User Story): 171.1 days
+Average Lead Time (Improvement): 39.8 days
+Average Lead Time (Sub-task): 77.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2016-07-26 17:32:00 End date: 2016-11-03 17:32:00
+System: {'TECNOBD': 1}
+Types: {'Task': 1}
+Resolutions: {'Closed': 1}
+Statuses: {'Closed': 1}
+
+Average Lead Time (all PBIs): 588.0 days
+Average Lead Time (Task): 588.0 days

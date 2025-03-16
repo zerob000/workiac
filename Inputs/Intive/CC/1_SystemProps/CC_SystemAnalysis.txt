@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2010-09-02 10:26:00
+System: {'DISMSAS': 256}
+Types: {'Bug': 79, 'Sub-task': 34, 'Task': 63, 'User Story': 32, 'Improvement': 17, 'New Feature': 4, 'Risk': 5, 'Test': 9, 'Question': 12, 'Note': 1}
+Resolutions: {'Open': 40, 'Reopened Internally': 66, 'Resolved': 150}
+Statuses: {'Open': 40, 'Reopened Internally': 66, 'Resolved': 150}
+
+Average Lead Time (all PBIs): 42.5 days
+Average Lead Time (Bug): 19.9 days
+Average Lead Time (Sub-task): 30.0 days
+Average Lead Time (Task): 77.7 days
+Average Lead Time (User Story): 66.4 days
+Average Lead Time (Improvement): 7.0 days
+Average Lead Time (Risk): 69.4 days
+Average Lead Time (Test): 46.6 days
+Average Lead Time (Question): 21.5 days
+Average Lead Time (Note): 11.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2010-05-25 10:26:00 End date: 2010-09-02 10:26:00
+System: {'DISMSAS': 6}
+Types: {'Task': 5, 'Sub-task': 1}
+Resolutions: {'Resolved': 6}
+Statuses: {'Resolved': 6}
+
+Average Lead Time (all PBIs): 563.5 days
+Average Lead Time (Task): 567.2 days
+Average Lead Time (Sub-task): 545.0 days

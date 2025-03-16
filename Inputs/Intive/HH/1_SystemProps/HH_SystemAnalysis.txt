@@ -1,0 +1,33 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2013-03-12 09:13:00
+System: {'NETWHEELSX': 223}
+Types: {'Bug': 106, 'New Feature': 11, 'Task': 71, 'Improvement': 4, 'Question': 9, 'Test': 1, 'Sub-task': 21}
+Resolutions: {'Resolved': 174, 'Closed': 47, 'Open': 1, 'Reopened': 1}
+Statuses: {'Resolved': 174, 'Closed': 47, 'Open': 1, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 2.3 days
+Average Lead Time (Bug): 1.2 days
+Average Lead Time (New Feature): 3.5 days
+Average Lead Time (Task): 3.2 days
+Average Lead Time (Improvement): 1.0 days
+Average Lead Time (Question): 10.6 days
+Average Lead Time (Test): 0.0 days
+Average Lead Time (Sub-task): 1.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2012-12-02 09:13:00 End date: 2013-03-12 09:13:00
+System: {'NETWHEELSX': 223}
+Types: {'Bug': 106, 'New Feature': 11, 'Task': 71, 'Improvement': 4, 'Question': 9, 'Test': 1, 'Sub-task': 21}
+Resolutions: {'Resolved': 174, 'Closed': 47, 'Open': 1, 'Reopened': 1}
+Statuses: {'Resolved': 174, 'Closed': 47, 'Open': 1, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 2.3 days
+Average Lead Time (Bug): 1.2 days
+Average Lead Time (New Feature): 3.5 days
+Average Lead Time (Task): 3.2 days
+Average Lead Time (Improvement): 1.0 days
+Average Lead Time (Question): 10.6 days
+Average Lead Time (Test): 0.0 days
+Average Lead Time (Sub-task): 1.0 days

@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2019-01-23 10:37:00
+System: {'NTVMAINT': 895}
+Types: {'Task': 167, 'Sub-task': 70, 'Bug': 479, 'New Feature': 108, 'Epic': 6, 'Improvement': 65}
+Resolutions: {'Done': 778, 'Ready for UAT': 3, 'Backlog': 18, 'Ready for Testing': 9, 'Resolved': 79, 'To Do': 4, 'Testing': 1, 'On Hold': 3}
+Statuses: {'Done': 778, 'Ready for UAT': 3, 'Backlog': 18, 'Ready for Testing': 9, 'Resolved': 79, 'To Do': 4, 'Testing': 1, 'On Hold': 3}
+
+Average Lead Time (all PBIs): 34.2 days
+Average Lead Time (Task): 43.1 days
+Average Lead Time (Sub-task): 63.3 days
+Average Lead Time (Bug): 21.9 days
+Average Lead Time (New Feature): 56.0 days
+Average Lead Time (Improvement): 44.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2018-10-15 10:37:00 End date: 2019-01-23 10:37:00
+System: {'NTVMAINT': 211}
+Types: {'Task': 36, 'Sub-task': 46, 'Bug': 96, 'New Feature': 24, 'Epic': 2, 'Improvement': 7}
+Resolutions: {'Done': 187, 'Ready for UAT': 1, 'Backlog': 9, 'Ready for Testing': 7, 'Resolved': 4, 'To Do': 2, 'Testing': 1}
+Statuses: {'Done': 187, 'Ready for UAT': 1, 'Backlog': 9, 'Ready for Testing': 7, 'Resolved': 4, 'To Do': 2, 'Testing': 1}
+
+Average Lead Time (all PBIs): 62.6 days
+Average Lead Time (Task): 87.2 days
+Average Lead Time (Sub-task): 78.0 days
+Average Lead Time (Bug): 36.7 days
+Average Lead Time (New Feature): 94.8 days
+Average Lead Time (Improvement): 139.0 days

@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2013-05-13 14:24:00
+System: {'XMLBLASTER': 56}
+Types: {'Task': 21, 'Internal Bug': 26, 'Sub-task': 9}
+Resolutions: {'Closed': 56}
+Statuses: {'Closed': 56}
+
+Average Lead Time (all PBIs): 46.6 days
+Average Lead Time (Task): 82.0 days
+Average Lead Time (Internal Bug): 22.7 days
+Average Lead Time (Sub-task): 32.9 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-02-02 14:24:00 End date: 2013-05-13 14:24:00
+System: {'XMLBLASTER': 1}
+Types: {'Task': 1}
+Resolutions: {'Closed': 1}
+Statuses: {'Closed': 1}
+
+Average Lead Time (all PBIs): 3.0 days
+Average Lead Time (Task): 3.0 days

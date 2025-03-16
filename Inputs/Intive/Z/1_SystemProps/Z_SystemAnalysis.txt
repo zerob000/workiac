@@ -1,0 +1,40 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2020-04-30 14:37:00
+System: {'VTNS': 11507}
+Types: {'Task': 1714, 'Bug': 5422, 'Sub-task': 1731, 'Live - Bug': 204, 'Improvement': 838, 'Content Change': 120, 'Information': 738, 'Epic': 68, 'New Feature': 229, 'Story': 242, 'Live - Task': 31, 'Content Task': 140, 'Test': 5, 'Technical task (obsolete)': 25}
+Resolutions: {'Closed': 10178, 'Resolved': 14, 'Withdrawed': 161, 'Done': 1146, 'Blocked': 5, 'Open': 1, 'READY FOR PROD': 2}
+Statuses: {'Closed': 10178, 'Resolved': 14, 'Withdrawed': 161, 'Done': 1146, 'Blocked': 5, 'Open': 1, 'READY FOR PROD': 2}
+
+Average Lead Time (all PBIs): 30.4 days
+Average Lead Time (Task): 44.8 days
+Average Lead Time (Bug): 12.5 days
+Average Lead Time (Sub-task): 28.3 days
+Average Lead Time (Live - Bug): 10.7 days
+Average Lead Time (Content Change): 43.9 days
+Average Lead Time (Improvement): 60.9 days
+Average Lead Time (Information): 39.9 days
+Average Lead Time (Epic): 525.8 days
+Average Lead Time (Live - Task): 30.3 days
+Average Lead Time (Content Task): 78.6 days
+Average Lead Time (Story): 63.9 days
+Average Lead Time (New Feature): 47.0 days
+Average Lead Time (Test): 63.0 days
+Average Lead Time (Technical task (obsolete)): 139.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-01-21 14:37:00 End date: 2020-04-30 14:37:00
+System: {'VTNS': 72}
+Types: {'Task': 33, 'Bug': 18, 'Sub-task': 14, 'Live - Bug': 1, 'Improvement': 3, 'Content Change': 2, 'Epic': 1}
+Resolutions: {'Closed': 61, 'Resolved': 8, 'Withdrawed': 1, 'Done': 2}
+Statuses: {'Closed': 61, 'Resolved': 8, 'Withdrawed': 1, 'Done': 2}
+
+Average Lead Time (all PBIs): 68.0 days
+Average Lead Time (Task): 102.8 days
+Average Lead Time (Bug): 24.8 days
+Average Lead Time (Sub-task): 29.6 days
+Average Lead Time (Live - Bug): 12.0 days
+Average Lead Time (Content Change): 66.5 days
+Average Lead Time (Improvement): 4.0 days
+Average Lead Time (Epic): 354.0 days

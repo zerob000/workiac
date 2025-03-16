@@ -1,0 +1,33 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2010-08-30 18:38:00
+System: {'CRAHATWO': 303}
+Types: {'Bug': 248, 'Note': 2, 'Improvement': 26, 'Task': 19, 'New Feature': 3, 'Question': 4, 'Device': 1}
+Resolutions: {'Closed': 294, 'Resolved': 9}
+Statuses: {'Closed': 294, 'Resolved': 9}
+
+Average Lead Time (all PBIs): 7.1 days
+Average Lead Time (Bug): 4.9 days
+Average Lead Time (Note): 29.0 days
+Average Lead Time (Improvement): 9.9 days
+Average Lead Time (Task): 22.0 days
+Average Lead Time (New Feature): 38.7 days
+Average Lead Time (Question): 15.5 days
+Average Lead Time (Device): 21.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2010-05-22 18:38:00 End date: 2010-08-30 18:38:00
+System: {'CRAHATWO': 301}
+Types: {'Bug': 248, 'Note': 2, 'Improvement': 26, 'Task': 17, 'New Feature': 3, 'Question': 4, 'Device': 1}
+Resolutions: {'Closed': 292, 'Resolved': 9}
+Statuses: {'Closed': 292, 'Resolved': 9}
+
+Average Lead Time (all PBIs): 7.1 days
+Average Lead Time (Bug): 4.9 days
+Average Lead Time (Note): 29.0 days
+Average Lead Time (Improvement): 9.9 days
+Average Lead Time (Task): 24.5 days
+Average Lead Time (New Feature): 38.7 days
+Average Lead Time (Question): 15.5 days
+Average Lead Time (Device): 21.0 days

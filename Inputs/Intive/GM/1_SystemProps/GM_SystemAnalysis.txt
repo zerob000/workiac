@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2011-10-12 11:58:00
+System: {'MASDCD': 98}
+Types: {'Bug': 63, 'Improvement': 1, 'Task': 32, 'Test': 2}
+Resolutions: {'Closed': 98}
+Statuses: {'Closed': 98}
+
+Average Lead Time (all PBIs): 129.0 days
+Average Lead Time (Bug): 136.3 days
+Average Lead Time (Improvement): 313.0 days
+Average Lead Time (Task): 95.1 days
+Average Lead Time (Test): 348.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2011-07-04 11:58:00 End date: 2011-10-12 11:58:00
+System: {'MASDCD': 37}
+Types: {'Bug': 27, 'Improvement': 1, 'Task': 7, 'Test': 2}
+Resolutions: {'Closed': 37}
+Statuses: {'Closed': 37}
+
+Average Lead Time (all PBIs): 319.6 days
+Average Lead Time (Bug): 311.0 days
+Average Lead Time (Improvement): 313.0 days
+Average Lead Time (Task): 345.3 days
+Average Lead Time (Test): 348.0 days

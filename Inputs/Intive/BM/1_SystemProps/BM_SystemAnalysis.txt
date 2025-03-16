@@ -1,0 +1,22 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2017-10-16 11:38:00
+System: {'CFCD': 138}
+Types: {'Epic': 24, 'Design': 78, 'Story': 6, 'Task': 3, 'Concept-Design-Sub-Task': 11, 'Concept': 16}
+Resolutions: {'Open': 25, 'Ready for Deployment': 9, 'Done': 7, 'Approved': 22, 'Reviewed': 1, 'Rejected': 1, 'Backlog': 6, 'Published': 67}
+Statuses: {'Open': 25, 'Ready for Deployment': 9, 'Done': 7, 'Approved': 22, 'Reviewed': 1, 'Rejected': 1, 'Backlog': 6, 'Published': 67}
+
+Average Lead Time (all PBIs): 52.7 days
+Average Lead Time (Design): 52.5 days
+Average Lead Time (Concept-Design-Sub-Task): 62.5 days
+Average Lead Time (Concept): 50.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2017-07-08 11:38:00 End date: 2017-10-16 11:38:00
+System: {'CFCD': 1}
+Types: {'Epic': 1}
+Resolutions: {'Open': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

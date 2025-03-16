@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2012-09-18 13:48:00
+System: {'MORAE': 286}
+Types: {'Bug': 237, 'Task': 9, 'Improvement': 28, 'New Feature': 10, 'Note': 1, 'Question': 1}
+Resolutions: {'Resolved': 5, 'Open': 26, 'Closed': 253, 'Reopened': 2}
+Statuses: {'Resolved': 5, 'Open': 26, 'Closed': 253, 'Reopened': 2}
+
+Average Lead Time (all PBIs): 21.4 days
+Average Lead Time (Bug): 20.1 days
+Average Lead Time (Task): 27.4 days
+Average Lead Time (Improvement): 31.7 days
+Average Lead Time (New Feature): 34.1 days
+Average Lead Time (Note): 0.0 days
+Average Lead Time (Question): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2012-06-10 13:48:00 End date: 2012-09-18 13:48:00
+System: {'MORAE': 4}
+Types: {'Bug': 3, 'Task': 1}
+Resolutions: {'Resolved': 3, 'Open': 1}
+Statuses: {'Resolved': 3, 'Open': 1}
+
+Average Lead Time (all PBIs): 5.7 days
+Average Lead Time (Bug): 7.0 days
+Average Lead Time (Task): 3.0 days

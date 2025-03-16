@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2021-08-18 15:50:00
+System: {'HEPFANCA': 923}
+Types: {'Bug': 160, 'Test': 81, 'Task': 58, 'Sub-task': 351, 'Improvement': 8, 'Sub-bug': 132, 'New Feature': 2, 'User Story': 110, 'Epic': 21}
+Resolutions: {'New': 118, 'Done': 715, 'QA': 2, 'To Do': 26, 'In progress': 5, 'Rejected': 52, 'Blocked': 4, 'Ready for Estimation': 1}
+Statuses: {'New': 118, 'Done': 715, 'QA': 2, 'To Do': 26, 'In progress': 5, 'Rejected': 52, 'Blocked': 4, 'Ready for Estimation': 1}
+
+Average Lead Time (all PBIs): 25.6 days
+Average Lead Time (Bug): 12.9 days
+Average Lead Time (Task): 63.7 days
+Average Lead Time (Improvement): 19.0 days
+Average Lead Time (Sub-bug): 10.7 days
+Average Lead Time (Sub-task): 14.8 days
+Average Lead Time (User Story): 81.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-05-10 15:50:00 End date: 2021-08-18 15:50:00
+System: {'HEPFANCA': 348}
+Types: {'Bug': 145, 'Test': 43, 'Task': 15, 'Sub-task': 38, 'Improvement': 6, 'Sub-bug': 47, 'New Feature': 2, 'User Story': 52}
+Resolutions: {'New': 60, 'Done': 263, 'QA': 2, 'To Do': 4, 'In progress': 4, 'Rejected': 11, 'Blocked': 4}
+Statuses: {'New': 60, 'Done': 263, 'QA': 2, 'To Do': 4, 'In progress': 4, 'Rejected': 11, 'Blocked': 4}
+
+Average Lead Time (all PBIs): 32.5 days
+Average Lead Time (Bug): 13.3 days
+Average Lead Time (Task): 107.6 days
+Average Lead Time (Improvement): 23.5 days
+Average Lead Time (Sub-bug): 13.5 days
+Average Lead Time (Sub-task): 13.4 days
+Average Lead Time (User Story): 96.0 days

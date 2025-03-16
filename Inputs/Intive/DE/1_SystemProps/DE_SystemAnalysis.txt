@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2013-06-10 10:43:00
+System: {'FSECBOR': 175}
+Types: {'Bug': 9, 'Task': 108, 'New Feature': 2, 'Improvement': 2, 'User Story': 16, 'Sub-task': 38}
+Resolutions: {'Closed': 167, 'Resolved': 8}
+Statuses: {'Closed': 167, 'Resolved': 8}
+
+Average Lead Time (all PBIs): 107.5 days
+Average Lead Time (Bug): 70.1 days
+Average Lead Time (Task): 129.7 days
+Average Lead Time (New Feature): 60.5 days
+Average Lead Time (Improvement): 17.5 days
+Average Lead Time (User Story): 83.3 days
+Average Lead Time (Sub-task): 70.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-03-02 10:43:00 End date: 2013-06-10 10:43:00
+System: {'FSECBOR': 5}
+Types: {'Bug': 4, 'Task': 1}
+Resolutions: {'Closed': 5}
+Statuses: {'Closed': 5}
+
+Average Lead Time (all PBIs): 165.2 days
+Average Lead Time (Bug): 120.0 days
+Average Lead Time (Task): 346.0 days

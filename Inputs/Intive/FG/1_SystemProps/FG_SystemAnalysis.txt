@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2017-10-09 12:43:00
+System: {'JFP': 52}
+Types: {'Task': 19, 'Bug': 26, 'Sub-task': 7}
+Resolutions: {'To Do': 8, 'In progress': 5, 'Ready for Tests': 2, 'Done': 37}
+Statuses: {'To Do': 8, 'In progress': 5, 'Ready for Tests': 2, 'Done': 37}
+
+Average Lead Time (all PBIs): 123.9 days
+Average Lead Time (Bug): 41.6 days
+Average Lead Time (Task): 180.8 days
+Average Lead Time (Sub-task): 218.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2017-07-01 12:43:00 End date: 2017-10-09 12:43:00
+System: {'JFP': 29}
+Types: {'Task': 15, 'Bug': 7, 'Sub-task': 7}
+Resolutions: {'To Do': 4, 'In progress': 3, 'Ready for Tests': 1, 'Done': 21}
+Statuses: {'To Do': 4, 'In progress': 3, 'Ready for Tests': 1, 'Done': 21}
+
+Average Lead Time (all PBIs): 197.2 days
+Average Lead Time (Bug): 71.6 days
+Average Lead Time (Task): 250.8 days
+Average Lead Time (Sub-task): 218.1 days

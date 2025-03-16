@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2014-11-06 14:40:00
+System: {'KNPW': 245}
+Types: {'Improvement': 76, 'Bug': 126, 'Task': 16, 'New Feature': 25, 'Sub-task': 1, 'Note': 1}
+Resolutions: {'Closed': 245}
+Statuses: {'Closed': 245}
+
+Average Lead Time (all PBIs): 49.0 days
+Average Lead Time (Improvement): 54.8 days
+Average Lead Time (Bug): 26.3 days
+Average Lead Time (Task): 169.9 days
+Average Lead Time (New Feature): 48.0 days
+Average Lead Time (Sub-task): 23.0 days
+Average Lead Time (Note): 568.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2014-07-29 14:40:00 End date: 2014-11-06 14:40:00
+System: {'KNPW': 5}
+Types: {'Task': 4, 'Note': 1}
+Resolutions: {'Closed': 5}
+Statuses: {'Closed': 5}
+
+Average Lead Time (all PBIs): 547.2 days
+Average Lead Time (Task): 542.0 days
+Average Lead Time (Note): 568.0 days

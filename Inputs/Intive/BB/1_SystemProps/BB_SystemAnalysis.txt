@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2017-11-23 10:36:00
+System: {'GOODWPSEVEN': 322}
+Types: {'Task': 195, 'User Story': 5, 'Bug': 5, 'Improvement': 3, 'Sub-task': 112, 'Question': 2}
+Resolutions: {'Closed': 317, 'Resolved': 3, 'Open': 1, 'Reopened': 1}
+Statuses: {'Closed': 317, 'Resolved': 3, 'Open': 1, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 54.4 days
+Average Lead Time (Task): 77.2 days
+Average Lead Time (User Story): 34.0 days
+Average Lead Time (Bug): 29.6 days
+Average Lead Time (Improvement): 5.7 days
+Average Lead Time (Sub-task): 19.0 days
+Average Lead Time (Question): 21.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2017-08-15 10:36:00 End date: 2017-11-23 10:36:00
+System: {'GOODWPSEVEN': 1}
+Types: {'Task': 1}
+Resolutions: {'Resolved': 1}
+Statuses: {'Resolved': 1}
+
+Average Lead Time (all PBIs): 2302.0 days
+Average Lead Time (Task): 2302.0 days

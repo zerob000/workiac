@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 1901-01-01 12:01:00 End date: 2013-12-20 21:54:00
+System: {'DFTWO': 647}
+Types: {'Bug': 276, 'Task': 286, 'Improvement': 55, 'New Feature': 22, 'Test': 1, 'Sub-task': 7}
+Resolutions: {'Open': 61, 'Resolved': 563, 'Closed': 23}
+Statuses: {'Open': 61, 'Resolved': 563, 'Closed': 23}
+
+Average Lead Time (all PBIs): 12.3 days
+Average Lead Time (Bug): 8.3 days
+Average Lead Time (Task): 17.4 days
+Average Lead Time (Improvement): 7.7 days
+Average Lead Time (New Feature): 12.8 days
+Average Lead Time (Test): 161.0 days
+Average Lead Time (Sub-task): 3.4 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-11 21:54:00 End date: 2013-12-20 21:54:00
+System: {'DFTWO': 4}
+Types: {'Bug': 2, 'Task': 2}
+Resolutions: {'Closed': 3, 'Resolved': 1}
+Statuses: {'Closed': 3, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 692.5 days
+Average Lead Time (Bug): 602.0 days
+Average Lead Time (Task): 783.0 days
