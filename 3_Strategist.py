@@ -42,14 +42,14 @@ def my_extractor(data, last_pbi, start_date):
               "GS_UP_TM_IP": [], # Goldilocks-sized, Unplanned, Work for Team, In Progress
               "GS_PL_CX_IP": [], # Goldilocks-sized, Planned, Cancelled, In Progress
               "GS_UP_CX_IP": [], # Goldilocks-sized, Unplanned, Cancelled, In Progress
-              "BS_PL_TM_DN": [], # Too big/ too small, Planned, Work for Team, Already Completed              
-              "BS_UP_TM_DN": [], # Too big/ too small, Unplanned, Work for Team, Already Completed              
-              "BS_PL_CX_DN": [], # Too big/ too small, Planned, Cancelled, Already Completed              
-              "BS_UP_CX_DN": [], # Too big/ too small, Unplanned, Cancelled, Already Completed               
-              "BS_PL_TM_IP": [], # Too big/ too small, Planned, Work for Team, In Progress              
-              "BS_UP_TM_IP": [], # Too big/ too small, Unplanned, Work for Team, In Progress              
-              "BS_PL_CX_IP": [], # Too big/ too small, Planned, Cancelled, In Progress              
-              "BS_UP_CX_IP": []} # Too big/ too small, Unplanned, Cancelled, In Progress   
+              "BS_PL_TM_DN": [], # Too big / too small, Planned, Work for Team, Already Completed              
+              "BS_UP_TM_DN": [], # Too big / too small, Unplanned, Work for Team, Already Completed              
+              "BS_PL_CX_DN": [], # Too big / too small, Planned, Cancelled, Already Completed              
+              "BS_UP_CX_DN": [], # Too big / too small, Unplanned, Cancelled, Already Completed               
+              "BS_PL_TM_IP": [], # Too big / too small, Planned, Work for Team, In Progress              
+              "BS_UP_TM_IP": [], # Too big / too small, Unplanned, Work for Team, In Progress              
+              "BS_PL_CX_IP": [], # Too big / too small, Planned, Cancelled, In Progress              
+              "BS_UP_CX_IP": []} # Too big / too small, Unplanned, Cancelled, In Progress   
     # Loop through data
     for i in range(len(data)):
         item = data[i]
@@ -438,6 +438,7 @@ def my_plot_feed_ctrl(t_bf, alp_cum, t_be, err_cum, t_bc, cxl_cum,
     plt.ylabel('PBIs (Calculated)', fontweight ='bold', fontsize = 15)
     plt.legend(loc='upper left')
     plt.ylim(0, 1.1*max(alp_cum[-1],err_cum[-1],cxl_cum[-1],ser_cum[-1])) # The best fit line was dragging this below 0.
+    plt.xlim(t_b[0]-timedelta(days=10),t_b[-1]+timedelta(days=10))
     plt.tight_layout()
     plt.savefig(sname+'_'+'_FeedbackAndControl_'+g+'.png')
     #plt.show()
@@ -457,7 +458,7 @@ def my_strategy(psi, inventory_days, g):
             strategy="Catch-up" 
     
     plt.rcParams["figure.figsize"] = (10, 7)
-    plt.scatter([inventory_days], [psi], label = 'All data', color='red', marker="X")
+    plt.scatter([inventory_days], [psi], label = g, color='red', marker="X")
     plt.plot([0,60], [0.9,0.9], color='green', linestyle=':')
     plt.plot([0,60], [1.1,1.1], color='green', linestyle=':')
     plt.plot([0,0], [0.9,1.1], color='green', linestyle=':')
@@ -617,14 +618,17 @@ c_gamma = gamma_outs[5] # y value at x=0. The c in y = mx+c
 t_ave_c = [t_bc[0],t_bc[-1]] # Get first and last elements
 
 # Net arrivals timeline
-# Lambda = Alpha + Epsilon - Gamma. This means it has to be calculated slightly differntly than the rest as it is a combination of the arrival timestamp and the resolution timestamp
+# Lambda = Alpha + Epsilon - Gamma. This means it has to be calculated slightly differently than the rest as it is a combination of the arrival timestamp and the resolution timestamp
 lamda_outs = []
-for i in t_be:
-    lamda_outs.append([i,1])
-for i in t_bf:
-    lamda_outs.append([i,1])
-for i in t_bc:
-    lamda_outs.append([i,-1])
+if t_be[0] != all_start_date: # Do not append when no data exists
+    for i in t_be:
+        lamda_outs.append([i,1])
+if t_bf[0] != all_start_date: # Do not append when no data exists
+    for i in t_bf:
+        lamda_outs.append([i,1])
+if t_bc[0] != all_start_date: # Do not append when no data exists
+    for i in t_bc:
+        lamda_outs.append([i,-1])
 lamda_outs = sorted(lamda_outs, reverse=False)
 t_ba = []
 arr_cum = []
@@ -814,45 +818,40 @@ t_b = incomplete_outs[1]
 back = incomplete_outs[2]
 
 # Planned (story/feature/task/idea) timeline, and least squares line
-alpha_outs = my_last100(t_bf, alp_cum, last100_start_date)
-alpha = alpha_outs[0] # Slope of the least squares line through all datapoints
-t_bf = alpha_outs[1] # timeline 
-alp_cum = alpha_outs[2] # Cumulative flow data 
-alp_ls = alpha_outs[3] # Line of least squares
-R2_alpha = alpha_outs[4] # R-squared value for least squares
-c_alpha = alpha_outs[5] # y value at x=0. The c in y = mx+c
-t_ave_f = [t_bf[0],t_bf[-1]] # Get first and last elements 
+if t_bf[0] != all_start_date: # Do not update when no data exists Note: this is a risky strategy - it might make more sense to use different varaible names in future
+    alpha_outs = my_last100(t_bf, alp_cum, last100_start_date)
+    alpha = alpha_outs[0] # Slope of the least squares line through all datapoints
+    t_bf = alpha_outs[1] # timeline 
+    alp_cum = alpha_outs[2] # Cumulative flow data 
+    alp_ls = alpha_outs[3] # Line of least squares
+    R2_alpha = alpha_outs[4] # R-squared value for least squares
+    c_alpha = alpha_outs[5] # y value at x=0. The c in y = mx+c
+    t_ave_f = [t_bf[0],t_bf[-1]] # Get first and last elements 
 
 # Unplanned (defect/bug/error) timeline
-epsilon_outs = my_last100(t_be, err_cum, last100_start_date) 
-epsilon = epsilon_outs[0] # Slope of the least squares line through all datapoints
-t_be = epsilon_outs[1] # timeline
-err_cum = epsilon_outs[2] # Cumulative flow data 
-err_ls = epsilon_outs[3] # Line of least squares
-R2_epsilon = epsilon_outs[4] # R-squared value for least squares
-c_epsilon = epsilon_outs[5] # y value at x=0. The c in y = mx+c
-t_ave_e = [t_be[0],t_be[-1]] # Get first and last elements 
-
-# Table
-sus_X = open("epsilon100.csv", "w", encoding="utf-8")
-csvWriter = csv.writer(sus_X,delimiter=',', lineterminator='\n')
-csvWriter.writerow(t_be)
-csvWriter.writerow(err_cum)
-sus_X.close()
- 
+if t_be[0] != all_start_date: # Do not update when no data exists Note: this is a risky strategy - it might make more sense to use different varaible names in future
+    epsilon_outs = my_last100(t_be, err_cum, last100_start_date) 
+    epsilon = epsilon_outs[0] # Slope of the least squares line through all datapoints
+    t_be = epsilon_outs[1] # timeline
+    err_cum = epsilon_outs[2] # Cumulative flow data 
+    err_ls = epsilon_outs[3] # Line of least squares
+    R2_epsilon = epsilon_outs[4] # R-squared value for least squares
+    c_epsilon = epsilon_outs[5] # y value at x=0. The c in y = mx+c
+    t_ave_e = [t_be[0],t_be[-1]] # Get first and last elements 
 
 if len(t_bf) == 0:
     t_bf = t_be # This workaround is needed to allow plots (of 0) to appear
 
 # Cancelled timeline 
-gamma_outs = my_last100(t_bc, cxl_cum, last100_start_date) 
-gamma = gamma_outs[0] # Slope of the least squares line through all datapoints
-t_bc = gamma_outs[1] # timeline
-cxl_cum = gamma_outs[2] # Cumulative flow data 
-cxl_ls = gamma_outs[3] # Line of least squares
-R2_gamma = gamma_outs[4] # R-squared value for least squares
-c_gamma = gamma_outs[5] # y value at x=0. The c in y = mx+c
-t_ave_c = [t_bc[0],t_bc[-1]] # Get first and last elements
+if t_bc[0] != all_start_date: # Do not update when no data exists Note: this is a risky strategy - it might make more sense to use different varaible names in future
+    gamma_outs = my_last100(t_bc, cxl_cum, last100_start_date) 
+    gamma = gamma_outs[0] # Slope of the least squares line through all datapoints
+    t_bc = gamma_outs[1] # timeline
+    cxl_cum = gamma_outs[2] # Cumulative flow data 
+    cxl_ls = gamma_outs[3] # Line of least squares
+    R2_gamma = gamma_outs[4] # R-squared value for least squares
+    c_gamma = gamma_outs[5] # y value at x=0. The c in y = mx+c
+    t_ave_c = [t_bc[0],t_bc[-1]] # Get first and last elements
  
 
 # Net arrivals timeline
@@ -914,7 +913,7 @@ else:
     # Strategy
     if psi != "NaN":
         if inventory_days != "NaN":
-            strategy=my_strategy(psi, inventory_days, "all")
+            strategy=my_strategy(psi, inventory_days, "last100")
     else:
        strategy = "Indeterminate" 
     

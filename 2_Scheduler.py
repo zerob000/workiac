@@ -188,7 +188,7 @@ def my_extractor(data, last_pbi, start_date):
     for i, item in enumerate(back):
         back[i] = back[i] + abs(min_size) # correcting for the case that there is a negative minimum size so backlog never goes to 0
                         
-    return(arr_timeline, ser_timeline, last_pbi)
+    return(arr_timeline, ser_timeline, last_pbi, t_b[0])
     
 
 # Day and Time Distribution
@@ -351,6 +351,7 @@ extract = my_extractor(data, last_pbi, all_start_date)
 arr_timeline = extract[0]
 ser_timeline = extract[1]
 last_pbi = extract[2]
+first_pbi = extract[3]
 
 
 # Open Output files and write
@@ -358,7 +359,7 @@ f = open(sname+"_DateAndTimeAnalysis.txt", "w", encoding="utf-8")
 # Time distribution
 arr_day=my_daytimedistrib(arr_timeline, "Arrivals", "all")
 ser_day=my_daytimedistrib(ser_timeline, "Services", "all")
-f.write("Unfiltered All PBIs between  Start Date: "+str(all_start_date)+" and  End Date: "+str(last_pbi)+"\n")
+f.write("Unfiltered All PBIs between  Start Date: "+str(first_pbi)+" and  End Date: "+str(last_pbi)+"\n")
 f.write("\nArrival Days: "+str(arr_day[0])+"\n")
 f.write("Total Arrivals: "+str(len(arr_timeline))+"\n")
 f.write("Service Days: "+str(ser_day[0])+"\n")

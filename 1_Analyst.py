@@ -170,7 +170,7 @@ def my_extractor(data, last_pbi, start_date):
     done = (queues["GS_PL_TM_DN"]+queues["GS_UP_TM_DN"]) # All right-sized work, completed by the team
     wips = (queues["GS_PL_TM_IP"]+queues["GS_PL_CX_IP"]+queues["GS_UP_TM_IP"]+queues["GS_UP_CX_IP"]) # All incomplete right-sized work
     print(len(tbts),len(plan),len(unpl),len(canc),len(done),len(wips))
-    buckets = [plan, unpl, canc, done, wips]
+    #buckets = [plan, unpl, canc, done, wips]
     
     # Create the timeline of arrivals and departures and the cumulative flow data for the system size.
     tb_sorted = sorted(t_bi, reverse=False) # sort the entire timeline in ascending order
@@ -188,7 +188,7 @@ def my_extractor(data, last_pbi, start_date):
     for i, item in enumerate(back):
         back[i] = back[i] + abs(min_size) # correcting for the case that there is a negative minimum size so backlog never goes to 0
   
-    return(sysms, types, resos, statu, matched, last_pbi, lt_cum, lt_count)
+    return(sysms, types, resos, statu, matched, last_pbi, lt_cum, lt_count, t_b[0])
 
 
 # Barchart
@@ -289,6 +289,7 @@ matched = extract[4]
 last_pbi = extract[5]
 lt_cum = extract[6]
 lt_count = extract[7]
+first_pbi = extract[8] 
 
 # Output dictionaries - for now use one of each
 a = open(sname+"_issuetypes.txt", "w", encoding="utf-8")
@@ -313,7 +314,7 @@ my_leadtimechart(matched, "all")
 # Open Output file and write
 f = open(sname+"_SystemAnalysis.txt", "w", encoding="utf-8")
 f.write("All PBIS - Unfiltered \n")
-f.write("Start date: "+str(all_start_date)+" End date: "+str(last_pbi)+"\n")
+f.write("Start date: "+str(first_pbi)+" End date: "+str(last_pbi)+"\n")
 f.write("System: "+str(sysms)+"\n")
 f.write("Types: "+str(types)+"\n")
 f.write("Resolutions: "+str(resos)+"\n")
