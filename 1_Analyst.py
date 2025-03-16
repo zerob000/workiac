@@ -290,6 +290,17 @@ last_pbi = extract[5]
 lt_cum = extract[6]
 lt_count = extract[7]
 
+# Output dictionaries - for now use one of each
+a = open(sname+"_issuetypes.txt", "w", encoding="utf-8")
+a.write(str(types))
+a.close()
+b = open(sname+"_resolutions.txt", "w", encoding="utf-8")
+b.write(str(resos))
+b.close()
+c = open(sname+"_statuses.txt", "w", encoding="utf-8")
+c.write(str(statu))
+c.close()
+
 # Issuetypes chart
 my_barchart(list(types.keys()), list(types.values()), "IssueType", "all")
 # Resolutions Chart
