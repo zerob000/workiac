@@ -440,7 +440,7 @@ def my_plot_feed_ctrl(t_bf, alp_cum, t_be, err_cum, t_bc, cxl_cum,
     plt.xlabel('Time', fontweight ='bold', fontsize = 15)
     plt.ylabel('PBIs (Calculated)', fontweight ='bold', fontsize = 15)
     plt.legend(loc='upper left')
-    plt.ylim(0, 1.1*max(alp_cum[-1],err_cum[-1],cxl_cum[-1],ser_cum[-1])) # The best fit line was dragging this below 0.
+    plt.ylim(0, 1.1*max(alp_cum[-1],err_cum[-1],cxl_cum[-1],ser_cum[-1],back[-1])) # The best fit line was dragging this below 0.
     plt.xlim(t_b[0]-timedelta(days=10),t_b[-1]+timedelta(days=10))
     plt.tight_layout()
     plt.savefig(sname+'_'+'_FeedbackAndControl_'+g+'.png')
