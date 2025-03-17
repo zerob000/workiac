@@ -1,0 +1,23 @@
+Follow the steps below to be able to run Workiac on the Public Jira Dataset
+
+You will need:
+- An installation of MongoDB
+
+Steps:
+1. Download the dataset from https://zenodo.org/records/5901804 and extract
+
+2. In the datadump folder run
+mongorestore --gzip --archive=mongodump-JiraRepos.archive --nsFrom "JiraRepos.*" --nsTo "JiraRepos.*"
+
+3. Open MongoDB and ensure you can see the JiraRepos 
+
+4. Run the Extractor script: 0_Extractor.py
+Steps:
+- For each collection:
+-- Extracts the relevant fields to a csv file
+-- Filters the csv into different systems (based on JiraProjects that have more than 30 PBIs onece subtasks and epics have been filtered)
+-- Creates the queue file for each organisation.
+-- Creates an extraction report "_Extract_Report.csv"
+
+
+

@@ -1,0 +1,9 @@
+key
+id
+fields.project.key
+fields.issuetype.name
+fields.issuetype.subtask
+fields.status.name
+fields.resolution.name
+fields.created
+fields.resolutiondate
