@@ -1,0 +1,398 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+XNIO-443,Bug,Open,XNIO,XNIO,software,,30/10/2024 20:19,
+XNIO-442,Task,Resolved,XNIO,XNIO,software,Done,04/10/2024 09:55,04/10/2024 12:14
+XNIO-437,Task,Pull Request Sent,XNIO,XNIO,software,,27/09/2024 07:08,
+XNIO-435,Bug,Pull Request Sent,XNIO,XNIO,software,,05/09/2024 08:37,
+XNIO-434,Bug,Resolved,XNIO,XNIO,software,Done,09/06/2024 11:56,14/06/2024 04:45
+XNIO-433,Bug,Closed,XNIO,XNIO,software,Done,20/05/2024 15:48,24/05/2024 06:13
+XNIO-432,Feature Request,Open,XNIO,XNIO,software,,15/05/2024 14:56,
+XNIO-431,Enhancement,Pull Request Sent,XNIO,XNIO,software,,22/04/2024 10:19,
+XNIO-430,Enhancement,Resolved,XNIO,XNIO,software,Done,22/04/2024 10:18,04/09/2024 13:59
+XNIO-429,Task,Pull Request Sent,XNIO,XNIO,software,,17/04/2024 16:21,
+XNIO-428,Enhancement,Closed,XNIO,XNIO,software,Done,04/03/2024 18:18,12/04/2024 10:02
+XNIO-427,Bug,Closed,XNIO,XNIO,software,Done,04/01/2024 19:12,11/01/2024 12:15
+XNIO-426,Enhancement,Open,XNIO,XNIO,software,,20/10/2023 15:15,
+XNIO-425,Bug,Closed,XNIO,XNIO,software,Done,17/10/2023 21:49,18/10/2023 14:33
+XNIO-424,Enhancement,Open,XNIO,XNIO,software,,13/10/2023 23:57,
+XNIO-423,Bug,Closed,XNIO,XNIO,software,Done,10/10/2023 05:51,04/10/2024 12:01
+XNIO-422,Enhancement,Closed,XNIO,XNIO,software,Done,16/08/2023 14:02,10/10/2023 05:22
+XNIO-421,Enhancement,Closed,XNIO,XNIO,software,Done,08/08/2023 05:48,17/08/2023 05:26
+XNIO-420,Task,Closed,XNIO,XNIO,software,Done,13/07/2023 13:54,01/04/2024 06:17
+XNIO-419,Bug,Closed,XNIO,XNIO,software,Done,15/06/2023 09:54,10/10/2023 15:33
+XNIO-417,Bug,Closed,XNIO,XNIO,software,Done,06/03/2023 11:55,03/04/2023 18:05
+XNIO-416,Feature Request,Resolved,XNIO,XNIO,software,Won't Do,15/01/2021 15:05,24/11/2022 09:40
+XNIO-415,Bug,Closed,XNIO,XNIO,software,Done,21/10/2022 07:48,03/04/2023 18:05
+XNIO-414,Enhancement,Open,XNIO,XNIO,software,,17/10/2022 18:16,
+XNIO-413,Enhancement,Closed,XNIO,XNIO,software,Done,14/10/2022 19:46,03/04/2023 18:07
+XNIO-412,Enhancement,Closed,XNIO,XNIO,software,Done,14/10/2022 19:43,03/04/2023 18:05
+XNIO-411,Enhancement,Coding In Progress,XNIO,XNIO,software,,17/09/2022 16:00,
+XNIO-410,Task,Resolved,XNIO,XNIO,software,Done,24/04/2022 09:49,24/04/2022 10:31
+XNIO-409,Bug,Resolved,XNIO,XNIO,software,Done,24/04/2022 08:35,24/04/2022 09:13
+XNIO-408,Enhancement,Resolved,XNIO,XNIO,software,Done,24/04/2022 08:24,24/04/2022 08:49
+XNIO-407,Bug,Open,XNIO,XNIO,software,,23/04/2022 15:43,
+XNIO-406,Bug,Resolved,XNIO,XNIO,software,Done,23/04/2022 15:28,24/04/2022 07:54
+XNIO-405,Enhancement,Resolved,XNIO,XNIO,software,Done,22/04/2022 18:20,24/04/2022 08:14
+XNIO-404,Bug,Resolved,XNIO,XNIO,software,Done,22/04/2022 17:43,23/04/2022 17:34
+XNIO-403,Bug,Resolved,XNIO,XNIO,software,Done,21/04/2022 20:26,24/04/2022 10:09
+XNIO-402,Enhancement,Resolved,XNIO,XNIO,software,Done,26/02/2022 17:34,24/04/2022 08:13
+XNIO-400,Enhancement,Resolved,XNIO,XNIO,software,Done,05/02/2022 05:00,05/02/2022 05:22
+XNIO-399,Component Upgrade,Resolved,XNIO,XNIO,software,Done,05/02/2022 04:34,05/02/2022 04:56
+XNIO-398,Bug,Resolved,XNIO,XNIO,software,Done,05/02/2022 03:50,05/02/2022 04:35
+XNIO-397,Task,Resolved,XNIO,XNIO,software,Done,05/02/2022 02:28,05/02/2022 03:46
+XNIO-396,Bug,Open,XNIO,XNIO,software,,10/12/2021 16:24,
+XNIO-395,Bug,Resolved,XNIO,XNIO,software,Done,26/11/2021 11:16,26/11/2021 14:16
+XNIO-394,Bug,Resolved,XNIO,XNIO,software,Done,26/11/2021 11:15,26/11/2021 13:53
+XNIO-393,Enhancement,Resolved,XNIO,XNIO,software,Done,25/11/2021 19:23,26/11/2021 12:05
+XNIO-392,Bug,Resolved,XNIO,XNIO,software,Done,18/11/2021 10:19,04/02/2022 22:07
+XNIO-391,Bug,Resolved,XNIO,XNIO,software,Done,18/11/2021 10:14,04/02/2022 17:17
+XNIO-390,Feature Request,Pull Request Sent,XNIO,XNIO,software,,25/09/2021 22:12,
+XNIO-389,Enhancement,Resolved,XNIO,XNIO,software,Done,25/09/2021 18:26,25/09/2021 21:03
+XNIO-388,Bug,Resolved,XNIO,XNIO,software,Done,24/09/2021 18:26,29/09/2021 08:50
+XNIO-387,Enhancement,Closed,XNIO,XNIO,software,Won't Do,16/09/2021 13:53,17/09/2021 14:27
+XNIO-386,Bug,Resolved,XNIO,XNIO,software,Done,24/08/2021 15:41,25/09/2021 22:07
+XNIO-385,Bug,Closed,XNIO,XNIO,software,Done,07/07/2021 15:55,19/04/2024 05:03
+XNIO-384,Bug,Closed,XNIO,XNIO,software,Not a Bug,22/03/2021 15:18,26/03/2021 14:51
+XNIO-383,Enhancement,Resolved,XNIO,XNIO,software,Done,03/03/2021 15:05,25/09/2021 21:04
+XNIO-382,Enhancement,Open,XNIO,XNIO,software,,25/11/2020 02:53,
+XNIO-381,Bug,Resolved,XNIO,XNIO,software,Done,11/10/2020 16:09,28/10/2020 17:07
+XNIO-380,Bug,Resolved,XNIO,XNIO,software,Done,21/09/2020 20:40,11/10/2020 16:10
+XNIO-378,Enhancement,Resolved,XNIO,XNIO,software,Done,23/07/2020 04:07,10/09/2020 14:29
+XNIO-377,Bug,Resolved,XNIO,XNIO,software,Done,17/07/2020 11:50,12/08/2020 11:42
+XNIO-376,Enhancement,Resolved,XNIO,XNIO,software,Done,17/07/2020 11:49,12/08/2020 11:42
+XNIO-375,Component Upgrade,Open,XNIO,XNIO,software,,14/07/2020 13:48,
+XNIO-374,Bug,Resolved,XNIO,XNIO,software,Done,15/05/2020 03:26,15/05/2020 04:04
+XNIO-372,Bug,Resolved,XNIO,XNIO,software,Done,24/03/2020 21:33,15/05/2020 03:58
+XNIO-362,Component Upgrade,Resolved,XNIO,XNIO,software,Done,18/03/2020 03:21,19/03/2020 03:50
+XNIO-361,Enhancement,Resolved,XNIO,XNIO,software,Done,18/03/2020 02:21,19/03/2020 02:19
+XNIO-360,Bug,Resolved,XNIO,XNIO,software,Done,18/03/2020 02:18,19/03/2020 03:43
+XNIO-359,Component Upgrade,Open,XNIO,XNIO,software,,16/03/2020 11:11,
+XNIO-358,Bug,Resolved,XNIO,XNIO,software,Done,15/02/2020 08:53,19/03/2020 04:00
+XNIO-357,Enhancement,Resolved,XNIO,XNIO,software,Done,09/12/2019 16:09,19/03/2020 04:08
+XNIO-356,Bug,Resolved,XNIO,XNIO,software,Done,09/12/2019 14:21,18/03/2020 13:56
+XNIO-355,Bug,Resolved,XNIO,XNIO,software,Won't Do,21/10/2019 09:54,22/10/2019 04:09
+XNIO-354,Bug,Open,XNIO,XNIO,software,,17/10/2019 16:10,
+XNIO-353,Enhancement,Resolved,XNIO,XNIO,software,Done,14/10/2019 17:13,19/11/2019 16:54
+XNIO-352,Bug,Resolved,XNIO,XNIO,software,Done,09/10/2019 10:09,09/10/2019 10:45
+XNIO-351,Bug,Resolved,XNIO,XNIO,software,Done,07/10/2019 17:42,07/10/2019 21:55
+XNIO-350,Bug,Resolved,XNIO,XNIO,software,Done,04/10/2019 10:39,07/10/2019 21:55
+XNIO-348,Enhancement,Resolved,XNIO,XNIO,software,Done,25/09/2019 09:31,08/10/2019 02:56
+XNIO-347,Bug,Open,XNIO,XNIO,software,,12/08/2019 01:48,
+XNIO-346,Enhancement,Resolved,XNIO,XNIO,software,Done,12/08/2019 00:22,12/08/2019 02:31
+XNIO-345,Bug,Resolved,XNIO,XNIO,software,Done,12/08/2019 00:16,12/08/2019 02:31
+XNIO-344,Bug,Resolved,XNIO,XNIO,software,Done,31/07/2019 04:51,12/08/2019 02:13
+XNIO-343,Component Upgrade,Resolved,XNIO,XNIO,software,Done,24/05/2019 02:54,02/10/2019 20:19
+XNIO-342,Bug,Resolved,XNIO,XNIO,software,Done,24/05/2019 00:19,24/05/2019 00:58
+XNIO-341,Task,Resolved,XNIO,XNIO,software,Done,24/05/2019 00:17,02/10/2019 20:19
+XNIO-340,Bug,Resolved,XNIO,XNIO,software,Done,14/05/2019 21:59,23/05/2019 23:44
+XNIO-339,Bug,Resolved,XNIO,XNIO,software,Done,08/05/2019 15:52,24/05/2019 00:58
+XNIO-338,Bug,Resolved,XNIO,XNIO,software,Done,19/03/2019 11:27,19/03/2019 12:01
+XNIO-337,Feature Request,Open,XNIO,XNIO,software,,14/03/2019 10:34,
+XNIO-336,Bug,Resolved,XNIO,XNIO,software,Done,11/03/2019 04:45,21/03/2019 21:07
+XNIO-335,Bug,Resolved,XNIO,XNIO,software,Done,22/02/2019 18:46,02/10/2019 19:53
+XNIO-334,Bug,Closed,XNIO,XNIO,software,Won't Do,12/02/2019 10:00,12/02/2019 10:36
+XNIO-332,Enhancement,Resolved,XNIO,XNIO,software,Done,12/10/2018 12:31,19/10/2018 16:46
+XNIO-331,Enhancement,Resolved,XNIO,XNIO,software,Done,12/10/2018 10:25,19/10/2018 16:45
+XNIO-330,Bug,Open,XNIO,XNIO,software,,28/08/2018 15:03,
+XNIO-329,Bug,Closed,XNIO,XNIO,software,Won't Do,24/08/2018 11:25,05/09/2018 06:14
+XNIO-328,Bug,Resolved,XNIO,XNIO,software,Done,15/08/2018 00:26,07/10/2019 21:57
+XNIO-327,Bug,Resolved,XNIO,XNIO,software,Done,08/08/2018 13:53,13/08/2018 06:09
+XNIO-326,Bug,Closed,XNIO,XNIO,software,Won't Do,23/07/2018 05:34,23/07/2018 22:15
+XNIO-325,Bug,Resolved,XNIO,XNIO,software,Done,18/07/2018 06:41,05/09/2018 15:50
+XNIO-324,Enhancement,Resolved,XNIO,XNIO,software,Won't Do,27/06/2018 11:09,19/07/2018 11:33
+XNIO-323,Bug,Resolved,XNIO,XNIO,software,Done,06/06/2018 08:31,06/06/2018 09:31
+XNIO-322,Bug,Resolved,XNIO,XNIO,software,Done,18/05/2018 12:09,05/06/2018 15:11
+XNIO-321,Bug,Open,XNIO,XNIO,software,,10/03/2018 01:02,
+XNIO-320,Bug,Resolved,XNIO,XNIO,software,Done,23/02/2018 12:24,27/02/2018 16:36
+XNIO-319,Bug,Resolved,XNIO,XNIO,software,Done,18/09/2017 14:34,07/02/2018 16:03
+XNIO-318,Bug,Resolved,XNIO,XNIO,software,Done,05/02/2018 09:25,05/02/2018 09:35
+XNIO-317,Enhancement,Resolved,XNIO,XNIO,software,Done,02/02/2018 03:34,08/01/2019 09:00
+XNIO-316,Task,Resolved,XNIO,XNIO,software,Done,26/01/2018 08:15,26/01/2018 09:46
+XNIO-315,Bug,Resolved,XNIO,XNIO,software,Done,23/01/2018 10:53,23/01/2018 14:17
+XNIO-314,Bug,Open,XNIO,XNIO,software,,03/01/2018 01:22,
+XNIO-313,Enhancement,Open,XNIO,XNIO,software,,20/11/2017 10:50,
+XNIO-312,Enhancement,Resolved,XNIO,XNIO,software,Done,02/11/2017 18:05,26/01/2018 10:42
+XNIO-311,Enhancement,Open,XNIO,XNIO,software,,02/11/2017 17:46,
+XNIO-310,Enhancement,Resolved,XNIO,XNIO,software,Done,02/11/2017 17:15,02/11/2017 17:57
+XNIO-309,Bug,Resolved,XNIO,XNIO,software,Done,19/10/2017 09:13,19/10/2017 10:00
+XNIO-308,Bug,Open,XNIO,XNIO,software,,16/10/2017 15:52,
+XNIO-307,Bug,Resolved,XNIO,XNIO,software,Done,13/10/2017 16:05,19/10/2017 08:54
+XNIO-306,Enhancement,Resolved,XNIO,XNIO,software,Done,03/10/2017 08:20,05/10/2017 22:25
+XNIO-305,Bug,Resolved,XNIO,XNIO,software,Obsolete,29/09/2017 09:34,10/11/2017 14:53
+XNIO-304,Bug,Resolved,XNIO,XNIO,software,Done,29/09/2017 04:50,23/10/2017 08:55
+XNIO-303,Bug,Resolved,XNIO,XNIO,software,Done,28/09/2017 05:51,23/10/2017 08:55
+XNIO-302,Enhancement,Resolved,XNIO,XNIO,software,Done,25/09/2017 10:00,13/12/2017 09:02
+XNIO-301,Bug,Open,XNIO,XNIO,software,,25/09/2017 04:04,
+XNIO-300,Bug,Open,XNIO,XNIO,software,,22/08/2017 08:19,
+XNIO-299,Task,Resolved,XNIO,XNIO,software,Done,14/07/2017 10:22,14/07/2017 10:26
+XNIO-298,Enhancement,Resolved,XNIO,XNIO,software,Done,20/06/2017 11:18,20/06/2017 11:19
+XNIO-297,Bug,Resolved,XNIO,XNIO,software,Done,07/06/2017 05:36,19/06/2017 04:37
+XNIO-296,Bug,Resolved,XNIO,XNIO,software,Done,12/05/2017 04:15,17/05/2017 04:44
+XNIO-294,Bug,Resolved,XNIO,XNIO,software,Done,02/05/2017 09:51,03/05/2017 16:25
+XNIO-293,Enhancement,Resolved,XNIO,XNIO,software,Done,27/04/2017 18:53,27/04/2017 18:56
+XNIO-292,Feature Request,Resolved,XNIO,XNIO,software,Won't Do,27/04/2017 09:21,27/04/2017 09:28
+XNIO-291,Bug,Closed,XNIO,XNIO,software,Won't Do,27/04/2017 06:41,27/04/2017 07:42
+XNIO-290,Bug,Open,XNIO,XNIO,software,,20/04/2017 12:04,
+XNIO-289,Bug,Resolved,XNIO,XNIO,software,Done,18/04/2017 08:57,02/05/2017 09:50
+XNIO-288,Feature Request,Resolved,XNIO,XNIO,software,Done,26/03/2017 13:11,01/04/2017 11:44
+XNIO-287,Enhancement,Open,XNIO,XNIO,software,,28/02/2017 07:59,
+XNIO-286,Bug,Resolved,XNIO,XNIO,software,Done,13/02/2017 10:18,02/10/2019 19:53
+XNIO-285,Enhancement,Resolved,XNIO,XNIO,software,Done,24/05/2016 15:48,02/11/2017 17:57
+XNIO-284,Bug,Resolved,XNIO,XNIO,software,Done,05/12/2016 21:59,14/03/2017 20:19
+XNIO-283,Feature Request,Resolved,XNIO,XNIO,software,Done,05/12/2016 08:49,03/05/2017 11:42
+XNIO-282,Bug,Resolved,XNIO,XNIO,software,Done,02/12/2016 13:47,24/04/2017 10:55
+XNIO-281,Enhancement,Resolved,XNIO,XNIO,software,Done,03/11/2016 04:20,02/11/2017 18:08
+XNIO-279,Bug,Resolved,XNIO,XNIO,software,Done,21/10/2016 00:07,28/09/2017 09:37
+XNIO-277,Bug,Open,XNIO,XNIO,software,,18/10/2016 15:32,
+XNIO-276,Bug,Resolved,XNIO,XNIO,software,Done,12/10/2016 05:31,21/10/2016 00:15
+XNIO-275,Enhancement,Resolved,XNIO,XNIO,software,Done,12/10/2016 03:17,17/10/2016 09:02
+XNIO-274,Enhancement,Open,XNIO,XNIO,software,,24/08/2016 05:37,
+XNIO-273,Bug,Resolved,XNIO,XNIO,software,Won't Do,04/08/2016 11:27,29/08/2016 07:56
+XNIO-272,Feature Request,Open,XNIO,XNIO,software,,15/07/2016 18:13,
+XNIO-270,Bug,Resolved,XNIO,XNIO,software,Won't Do,31/05/2016 13:38,01/03/2018 14:04
+XNIO-269,Bug,Resolved,XNIO,XNIO,software,Won't Do,20/04/2016 20:55,01/03/2018 14:02
+XNIO-268,Bug,Resolved,XNIO,XNIO,software,Done,20/04/2016 20:46,27/12/2016 06:11
+XNIO-267,Feature Request,Open,XNIO,XNIO,software,,13/04/2016 08:26,
+XNIO-266,Feature Request,Open,XNIO,XNIO,software,,10/03/2016 05:26,
+XNIO-265,Bug,Resolved,XNIO,XNIO,software,Done,04/03/2016 19:41,02/10/2019 19:54
+XNIO-263,Enhancement,Resolved,XNIO,XNIO,software,Done,01/03/2016 13:31,20/04/2017 12:01
+XNIO-262,Bug,Resolved,XNIO,XNIO,software,Done,22/02/2016 19:40,25/02/2016 17:07
+XNIO-261,Bug,Resolved,XNIO,XNIO,software,Done,02/02/2016 08:40,02/02/2016 08:42
+XNIO-260,Feature Request,Resolved,XNIO,XNIO,software,Done,14/01/2016 02:53,18/01/2016 11:59
+XNIO-259,Bug,Resolved,XNIO,XNIO,software,Done,21/12/2015 10:12,21/12/2015 10:18
+XNIO-258,Enhancement,Resolved,XNIO,XNIO,software,Done,17/11/2015 11:13,02/10/2019 19:52
+XNIO-257,Feature Request,Resolved,XNIO,XNIO,software,Obsolete,17/11/2015 07:02,01/03/2018 12:00
+XNIO-255,Feature Request,Resolved,XNIO,XNIO,software,Done,10/11/2015 05:52,05/10/2017 11:54
+XNIO-254,Bug,Open,XNIO,XNIO,software,,31/10/2015 14:55,
+XNIO-253,Bug,Resolved,XNIO,XNIO,software,Done,27/10/2015 04:54,27/10/2015 07:15
+XNIO-250,Bug,Resolved,XNIO,XNIO,software,Won't Do,12/10/2015 10:13,20/10/2015 06:58
+XNIO-249,Bug,Resolved,XNIO,XNIO,software,Won't Do,12/10/2015 10:00,14/10/2015 17:09
+XNIO-248,Bug,Closed,XNIO,XNIO,software,Won't Do,12/10/2015 08:51,05/11/2015 08:17
+XNIO-247,Enhancement,Open,XNIO,XNIO,software,,20/08/2015 11:37,
+XNIO-246,Bug,Open,XNIO,XNIO,software,,01/07/2015 11:00,
+XNIO-245,Bug,Open,XNIO,XNIO,software,,29/05/2015 14:51,
+XNIO-244,Bug,Resolved,XNIO,XNIO,software,Done,05/05/2015 04:08,27/07/2015 10:22
+XNIO-242,Bug,Resolved,XNIO,XNIO,software,Done,03/03/2015 06:11,14/09/2016 09:05
+XNIO-240,Feature Request,Resolved,XNIO,XNIO,software,Done,25/11/2014 07:38,17/02/2015 07:11
+XNIO-239,Enhancement,Resolved,XNIO,XNIO,software,Done,11/11/2014 13:41,11/11/2014 14:58
+XNIO-238,Task,Open,XNIO,XNIO,software,,19/09/2014 14:57,
+XNIO-237,Bug,Closed,XNIO,XNIO,software,Done,15/09/2014 17:58,15/10/2014 09:10
+XNIO-235,Bug,Resolved,XNIO,XNIO,software,Done,01/09/2014 00:08,21/01/2015 06:05
+XNIO-234,Enhancement,Resolved,XNIO,XNIO,software,Done,08/08/2014 00:25,15/09/2014 17:22
+XNIO-232,Bug,Resolved,XNIO,XNIO,software,Done,01/08/2014 14:26,01/08/2014 14:49
+XNIO-231,Bug,Open,XNIO,XNIO,software,,24/07/2014 17:52,
+XNIO-230,Bug,Resolved,XNIO,XNIO,software,Done,09/07/2014 14:07,01/03/2018 11:19
+XNIO-229,Enhancement,Closed,XNIO,XNIO,software,Won't Do,09/05/2014 06:23,25/09/2015 13:35
+XNIO-228,Bug,Resolved,XNIO,XNIO,software,Obsolete,02/05/2014 18:23,01/03/2018 11:12
+XNIO-227,Feature Request,Open,XNIO,XNIO,software,,16/04/2014 07:32,
+XNIO-226,Bug,Resolved,XNIO,XNIO,software,Done,26/03/2014 18:02,10/04/2014 10:57
+XNIO-224,Bug,Resolved,XNIO,XNIO,software,Done,14/03/2014 14:29,10/09/2014 04:14
+XNIO-223,Feature Request,Resolved,XNIO,XNIO,software,Done,10/03/2014 20:47,11/03/2014 14:22
+XNIO-222,Bug,Resolved,XNIO,XNIO,software,Done,08/02/2014 10:41,11/02/2014 23:16
+XNIO-221,Bug,Resolved,XNIO,XNIO,software,Obsolete,10/01/2014 05:37,01/03/2018 10:49
+XNIO-219,Task,Resolved,XNIO,XNIO,software,Done,21/11/2013 12:33,22/11/2013 10:05
+XNIO-218,Feature Request,Resolved,XNIO,XNIO,software,Done,20/11/2013 14:15,02/11/2017 18:09
+XNIO-217,Bug,Resolved,XNIO,XNIO,software,Done,15/11/2013 13:18,16/11/2016 06:25
+XNIO-216,Feature Request,Resolved,XNIO,XNIO,software,Done,13/11/2013 07:19,16/11/2016 06:25
+XNIO-215,Bug,Resolved,XNIO,XNIO,software,Done,12/11/2013 10:00,23/01/2014 14:55
+XNIO-214,Feature Request,Resolved,XNIO,XNIO,software,Done,08/11/2013 06:29,01/03/2018 10:55
+XNIO-213,Bug,Resolved,XNIO,XNIO,software,Done,06/11/2013 09:16,04/04/2014 12:21
+XNIO-212,Bug,Resolved,XNIO,XNIO,software,Done,05/11/2013 12:37,11/11/2013 08:53
+XNIO-211,Feature Request,Closed,XNIO,XNIO,software,Duplicate,25/10/2013 10:06,25/10/2013 10:08
+XNIO-210,Bug,Resolved,XNIO,XNIO,software,Done,21/10/2013 07:07,25/10/2013 10:09
+XNIO-209,Bug,Open,XNIO,XNIO,software,,21/10/2013 06:06,
+XNIO-208,Feature Request,Resolved,XNIO,XNIO,software,Done,21/10/2013 05:59,29/10/2013 19:04
+XNIO-207,Feature Request,Resolved,XNIO,XNIO,software,Done,09/10/2013 14:36,09/10/2013 15:06
+XNIO-206,Bug,Resolved,XNIO,XNIO,software,Done,30/09/2013 06:03,30/09/2013 18:05
+XNIO-205,Bug,Resolved,XNIO,XNIO,software,Done,24/09/2013 11:01,01/10/2013 11:51
+XNIO-204,Feature Request,Resolved,XNIO,XNIO,software,Done,07/08/2013 11:02,07/08/2013 11:02
+XNIO-203,Bug,Open,XNIO,XNIO,software,,02/08/2013 11:50,
+XNIO-202,Feature Request,Resolved,XNIO,XNIO,software,Done,30/06/2013 22:48,08/07/2013 11:05
+XNIO-200,Enhancement,Resolved,XNIO,XNIO,software,Done,05/06/2013 08:43,08/07/2013 08:47
+XNIO-199,Bug,Open,XNIO,XNIO,software,,14/04/2013 21:45,
+XNIO-198,Enhancement,Resolved,XNIO,XNIO,software,Done,11/04/2013 10:36,12/04/2013 10:30
+XNIO-197,Bug,Resolved,XNIO,XNIO,software,Duplicate,11/04/2013 06:03,11/04/2013 10:40
+XNIO-196,Bug,Resolved,XNIO,XNIO,software,Done,03/04/2013 16:02,03/04/2013 18:29
+XNIO-195,Enhancement,Resolved,XNIO,XNIO,software,Done,01/04/2013 13:16,11/04/2017 10:05
+XNIO-194,Bug,Resolved,XNIO,XNIO,software,Done,07/03/2013 18:39,07/03/2013 18:44
+XNIO-192,Task,Open,XNIO,XNIO,software,,26/02/2013 18:01,
+XNIO-191,Bug,Resolved,XNIO,XNIO,software,Done,26/02/2013 15:56,27/02/2013 07:23
+XNIO-189,Feature Request,Closed,XNIO,XNIO,software,Won't Do,20/02/2013 08:36,20/02/2013 09:54
+XNIO-187,Bug,Resolved,XNIO,XNIO,software,Done,13/01/2013 13:51,13/01/2013 13:53
+XNIO-186,Task,Resolved,XNIO,XNIO,software,Done,10/01/2013 13:10,11/01/2013 01:15
+XNIO-185,Bug,Resolved,XNIO,XNIO,software,Done,26/11/2012 00:59,26/11/2012 10:42
+XNIO-184,Task,Closed,XNIO,XNIO,software,Won't Do,07/11/2012 03:39,30/01/2013 12:35
+XNIO-183,Bug,Resolved,XNIO,XNIO,software,Done,15/10/2012 09:10,15/10/2012 09:25
+XNIO-181,Bug,Closed,XNIO,XNIO,software,Won't Do,28/09/2012 17:51,28/09/2012 19:12
+XNIO-179,Feature Request,Resolved,XNIO,XNIO,software,Done,11/09/2012 10:48,11/09/2012 10:48
+XNIO-178,Enhancement,Resolved,XNIO,XNIO,software,Done,11/09/2012 10:47,11/09/2012 10:47
+XNIO-177,Enhancement,Resolved,XNIO,XNIO,software,Done,11/09/2012 10:46,11/09/2012 10:46
+XNIO-176,Enhancement,Resolved,XNIO,XNIO,software,Done,11/09/2012 10:44,11/09/2012 10:45
+XNIO-175,Bug,Resolved,XNIO,XNIO,software,Done,11/09/2012 10:43,11/09/2012 10:43
+XNIO-174,Bug,Resolved,XNIO,XNIO,software,Done,11/09/2012 10:42,11/09/2012 10:43
+XNIO-173,Bug,Closed,XNIO,XNIO,software,Done,28/08/2012 09:52,28/08/2012 11:44
+XNIO-172,Feature Request,Resolved,XNIO,XNIO,software,Cannot Reproduce,17/08/2012 11:43,05/10/2012 09:55
+XNIO-171,Enhancement,Open,XNIO,XNIO,software,,10/08/2012 17:49,
+XNIO-170,Bug,Resolved,XNIO,XNIO,software,Won't Do,10/08/2012 17:44,01/10/2013 17:33
+XNIO-169,Bug,Open,XNIO,XNIO,software,,10/08/2012 17:41,
+XNIO-168,Bug,Resolved,XNIO,XNIO,software,Done,09/08/2012 17:38,11/09/2012 10:41
+XNIO-167,Bug,Resolved,XNIO,XNIO,software,Done,09/08/2012 16:44,11/09/2012 10:41
+XNIO-166,Bug,Resolved,XNIO,XNIO,software,Done,09/08/2012 16:39,11/09/2012 10:41
+XNIO-165,Bug,Resolved,XNIO,XNIO,software,Done,09/08/2012 16:29,09/08/2012 20:52
+XNIO-164,Bug,Resolved,XNIO,XNIO,software,Done,09/08/2012 16:15,09/08/2012 20:39
+XNIO-163,Bug,Resolved,XNIO,XNIO,software,Done,09/08/2012 16:09,09/08/2012 19:58
+XNIO-162,Bug,Resolved,XNIO,XNIO,software,Done,09/08/2012 15:57,09/08/2012 19:57
+XNIO-161,Bug,Resolved,XNIO,XNIO,software,Done,09/08/2012 15:50,09/08/2012 19:35
+XNIO-160,Bug,Resolved,XNIO,XNIO,software,Done,09/08/2012 15:43,09/08/2012 19:17
+XNIO-159,Bug,Resolved,XNIO,XNIO,software,Done,09/08/2012 15:24,09/08/2012 19:17
+XNIO-158,Bug,Closed,XNIO,XNIO,software,Won't Do,09/08/2012 14:41,11/09/2012 17:41
+XNIO-157,Bug,Resolved,XNIO,XNIO,software,Done,08/08/2012 11:27,11/01/2013 00:19
+XNIO-156,Bug,Resolved,XNIO,XNIO,software,Done,07/08/2012 13:24,07/08/2012 13:24
+XNIO-155,Enhancement,Resolved,XNIO,XNIO,software,Done,07/08/2012 13:23,07/08/2012 13:23
+XNIO-154,Feature Request,Resolved,XNIO,XNIO,software,Done,07/08/2012 13:23,07/08/2012 13:23
+XNIO-153,Feature Request,Resolved,XNIO,XNIO,software,Done,07/08/2012 13:22,07/08/2012 13:22
+XNIO-152,Bug,Resolved,XNIO,XNIO,software,Done,26/07/2012 15:28,26/07/2012 18:31
+XNIO-151,Feature Request,Resolved,XNIO,XNIO,software,Done,20/07/2012 15:06,26/07/2012 19:22
+XNIO-150,Task,Resolved,XNIO,XNIO,software,Obsolete,10/07/2012 12:21,01/03/2018 10:45
+XNIO-149,Bug,Resolved,XNIO,XNIO,software,Done,02/07/2012 11:02,26/07/2012 13:49
+XNIO-148,Task,Resolved,XNIO,XNIO,software,Done,29/06/2012 09:45,05/09/2013 18:50
+XNIO-147,Bug,Closed,XNIO,XNIO,software,Done,19/06/2012 11:09,19/06/2012 11:48
+XNIO-146,Enhancement,Resolved,XNIO,XNIO,software,Done,18/06/2012 21:37,19/06/2012 11:41
+XNIO-145,Enhancement,Resolved,XNIO,XNIO,software,Done,18/06/2012 21:24,19/06/2012 11:47
+XNIO-144,Bug,Resolved,XNIO,XNIO,software,Done,18/06/2012 21:14,19/06/2012 11:47
+XNIO-143,Bug,Resolved,XNIO,XNIO,software,Done,18/06/2012 21:08,19/06/2012 11:47
+XNIO-142,Bug,Resolved,XNIO,XNIO,software,Done,18/06/2012 21:02,19/06/2012 11:47
+XNIO-141,Bug,Resolved,XNIO,XNIO,software,Done,18/06/2012 20:56,19/06/2012 11:46
+XNIO-140,Bug,Resolved,XNIO,XNIO,software,Done,18/06/2012 20:50,19/06/2012 11:46
+XNIO-139,Bug,Resolved,XNIO,XNIO,software,Done,18/06/2012 20:42,19/06/2012 11:43
+XNIO-138,Bug,Resolved,XNIO,XNIO,software,Done,18/06/2012 20:35,19/06/2012 11:42
+XNIO-137,Bug,Resolved,XNIO,XNIO,software,Done,18/06/2012 20:28,19/06/2012 11:41
+XNIO-136,Bug,Resolved,XNIO,XNIO,software,Done,18/06/2012 20:23,19/06/2012 11:41
+XNIO-135,Enhancement,Resolved,XNIO,XNIO,software,Done,18/06/2012 20:16,19/06/2012 11:40
+XNIO-134,Bug,Resolved,XNIO,XNIO,software,Done,18/06/2012 20:11,19/06/2012 11:40
+XNIO-133,Bug,Resolved,XNIO,XNIO,software,Done,18/06/2012 20:01,19/06/2012 11:40
+XNIO-132,Enhancement,Resolved,XNIO,XNIO,software,Done,18/06/2012 19:52,19/06/2012 11:38
+XNIO-131,Bug,Resolved,XNIO,XNIO,software,Done,18/06/2012 19:08,19/06/2012 11:32
+XNIO-130,Bug,Resolved,XNIO,XNIO,software,Done,18/06/2012 19:00,19/06/2012 11:31
+XNIO-129,Bug,Resolved,XNIO,XNIO,software,Done,18/06/2012 18:55,19/06/2012 11:30
+XNIO-128,Bug,Resolved,XNIO,XNIO,software,Done,18/06/2012 18:44,19/06/2012 11:29
+XNIO-127,Enhancement,Resolved,XNIO,XNIO,software,Done,18/06/2012 18:33,19/06/2012 11:29
+XNIO-126,Bug,Resolved,XNIO,XNIO,software,Done,18/06/2012 18:26,19/06/2012 11:22
+XNIO-125,Bug,Resolved,XNIO,XNIO,software,Done,18/06/2012 18:19,19/06/2012 11:21
+XNIO-122,Bug,Resolved,XNIO,XNIO,software,Done,18/06/2012 17:50,19/06/2012 11:21
+XNIO-121,Enhancement,Resolved,XNIO,XNIO,software,Done,18/06/2012 16:09,02/07/2012 13:49
+XNIO-120,Enhancement,Open,XNIO,XNIO,software,,15/06/2012 11:31,
+XNIO-119,Enhancement,Resolved,XNIO,XNIO,software,Obsolete,14/06/2012 17:58,01/03/2018 10:50
+XNIO-118,Enhancement,Resolved,XNIO,XNIO,software,Done,13/06/2012 22:59,13/06/2012 23:14
+XNIO-117,Enhancement,Resolved,XNIO,XNIO,software,Done,13/06/2012 15:02,13/06/2012 15:17
+XNIO-116,Task,Resolved,XNIO,XNIO,software,Done,12/06/2012 21:08,12/06/2012 21:10
+XNIO-115,Bug,Resolved,XNIO,XNIO,software,Done,12/06/2012 15:13,28/06/2012 11:19
+XNIO-114,Enhancement,Open,XNIO,XNIO,software,,12/06/2012 11:33,
+XNIO-113,Bug,Resolved,XNIO,XNIO,software,Done,08/06/2012 16:35,08/06/2012 16:56
+XNIO-112,Task,Closed,XNIO,XNIO,software,Obsolete,08/06/2012 13:50,09/02/2016 05:33
+XNIO-111,Bug,Resolved,XNIO,XNIO,software,Done,08/06/2012 12:43,08/06/2012 16:56
+XNIO-110,Bug,Resolved,XNIO,XNIO,software,Done,29/05/2012 09:38,29/05/2012 09:42
+XNIO-109,Bug,Resolved,XNIO,XNIO,software,Done,22/05/2012 21:07,22/05/2012 21:52
+XNIO-108,Feature Request,Resolved,XNIO,XNIO,software,Won't Do,29/03/2012 06:41,29/03/2012 10:12
+XNIO-107,Task,Resolved,XNIO,XNIO,software,Done,05/03/2012 12:15,22/05/2012 22:07
+XNIO-106,Bug,Resolved,XNIO,XNIO,software,Done,14/02/2012 18:07,14/02/2012 18:07
+XNIO-105,Bug,Resolved,XNIO,XNIO,software,Done,08/02/2012 17:09,08/02/2012 17:13
+XNIO-104,Bug,Resolved,XNIO,XNIO,software,Done,02/02/2012 11:57,15/02/2012 12:13
+XNIO-103,Task,Resolved,XNIO,XNIO,software,Done,02/01/2012 13:53,02/01/2012 13:54
+XNIO-102,Task,Resolved,XNIO,XNIO,software,Done,22/12/2011 17:32,08/02/2012 10:34
+XNIO-101,Bug,Resolved,XNIO,XNIO,software,Done,16/11/2011 02:36,16/11/2011 08:12
+XNIO-100,Bug,Resolved,XNIO,XNIO,software,Done,11/11/2011 16:19,11/11/2011 16:19
+XNIO-99,Bug,Resolved,XNIO,XNIO,software,Done,10/11/2011 04:57,10/11/2011 18:13
+XNIO-98,Feature Request,Resolved,XNIO,XNIO,software,Done,19/10/2011 13:07,25/10/2011 08:29
+XNIO-97,Bug,Closed,XNIO,XNIO,software,Obsolete,15/09/2011 07:08,08/06/2012 17:01
+XNIO-96,Feature Request,Resolved,XNIO,XNIO,software,Done,24/08/2011 10:47,07/09/2011 10:53
+XNIO-95,Bug,Resolved,XNIO,XNIO,software,Done,23/06/2011 01:37,23/06/2011 08:52
+XNIO-93,Bug,Resolved,XNIO,XNIO,software,Done,12/04/2010 19:45,15/02/2011 21:40
+XNIO-92,Feature Request,Resolved,XNIO,XNIO,software,Done,03/03/2010 02:07,15/02/2011 21:36
+XNIO-91,Bug,Closed,XNIO,XNIO,software,Done,27/02/2010 19:55,27/02/2010 20:44
+XNIO-90,Bug,Closed,XNIO,XNIO,software,Done,04/02/2010 15:39,04/02/2010 15:58
+XNIO-89,Feature Request,Closed,XNIO,XNIO,software,Won't Do,02/02/2010 12:38,08/02/2012 15:53
+XNIO-88,Bug,Closed,XNIO,XNIO,software,Done,20/01/2010 13:39,20/01/2010 13:44
+XNIO-87,Bug,Closed,XNIO,XNIO,software,Done,20/01/2010 12:17,20/01/2010 12:17
+XNIO-86,Bug,Closed,XNIO,XNIO,software,Done,20/01/2010 12:08,20/01/2010 12:08
+XNIO-85,Bug,Closed,XNIO,XNIO,software,Done,20/01/2010 12:03,20/01/2010 12:04
+XNIO-84,Bug,Closed,XNIO,XNIO,software,Won't Do,20/01/2010 11:51,28/01/2010 12:31
+XNIO-83,Bug,Closed,XNIO,XNIO,software,Done,20/01/2010 11:21,20/01/2010 12:39
+XNIO-82,Bug,Closed,XNIO,XNIO,software,Done,22/12/2009 23:51,23/12/2009 00:00
+XNIO-81,Feature Request,Closed,XNIO,XNIO,software,Done,10/12/2009 17:02,10/12/2009 17:46
+XNIO-80,Feature Request,Closed,XNIO,XNIO,software,Done,10/12/2009 16:57,10/12/2009 17:46
+XNIO-79,Feature Request,Closed,XNIO,XNIO,software,Done,08/12/2009 12:22,08/12/2009 12:27
+XNIO-78,Bug,Closed,XNIO,XNIO,software,Done,04/12/2009 11:42,04/12/2009 11:42
+XNIO-77,Feature Request,Closed,XNIO,XNIO,software,Won't Do,03/12/2009 19:46,08/02/2012 15:53
+XNIO-76,Bug,Closed,XNIO,XNIO,software,Done,30/11/2009 14:43,30/11/2009 14:55
+XNIO-75,Bug,Closed,XNIO,XNIO,software,Done,26/11/2009 03:53,27/11/2009 09:08
+XNIO-74,Feature Request,Closed,XNIO,XNIO,software,Done,25/11/2009 22:08,04/12/2009 11:37
+XNIO-73,Feature Request,Closed,XNIO,XNIO,software,Done,09/11/2009 19:24,09/11/2009 19:36
+XNIO-72,Feature Request,Closed,XNIO,XNIO,software,Done,19/09/2009 15:13,19/09/2009 15:13
+XNIO-71,Feature Request,Closed,XNIO,XNIO,software,Done,05/05/2009 11:21,20/09/2009 13:40
+XNIO-70,Task,Closed,XNIO,XNIO,software,Done,03/04/2009 18:02,17/09/2009 00:15
+XNIO-69,Quality Risk,Closed,XNIO,XNIO,software,Done,02/04/2009 14:41,03/04/2009 16:47
+XNIO-68,Feature Request,Closed,XNIO,XNIO,software,Done,14/01/2009 15:01,14/01/2009 15:51
+XNIO-67,Bug,Closed,XNIO,XNIO,software,Won't Do,07/01/2009 13:28,07/01/2009 16:07
+XNIO-66,Feature Request,Closed,XNIO,XNIO,software,Done,07/01/2009 13:02,07/01/2009 21:05
+XNIO-65,Bug,Closed,XNIO,XNIO,software,Duplicate,06/01/2009 18:05,07/01/2009 16:05
+XNIO-64,Feature Request,Closed,XNIO,XNIO,software,Done,06/01/2009 13:13,07/01/2009 21:05
+XNIO-63,Patch,Resolved,XNIO,XNIO,software,Obsolete,06/01/2009 05:47,08/06/2012 17:02
+XNIO-62,Bug,Closed,XNIO,XNIO,software,Obsolete,04/01/2009 18:20,08/06/2012 17:00
+XNIO-61,Feature Request,Closed,XNIO,XNIO,software,Done,22/12/2008 14:06,03/04/2009 16:48
+XNIO-60,Bug,Closed,XNIO,XNIO,software,Done,18/12/2008 12:30,18/12/2008 12:44
+XNIO-59,Task,Open,XNIO,XNIO,software,,16/12/2008 19:19,
+XNIO-58,Bug,Closed,XNIO,XNIO,software,Done,16/12/2008 18:09,16/12/2008 18:36
+XNIO-57,Bug,Closed,XNIO,XNIO,software,Done,20/10/2008 06:34,20/10/2008 08:40
+XNIO-56,Bug,Closed,XNIO,XNIO,software,Done,14/10/2008 00:07,12/11/2008 20:16
+XNIO-55,Bug,Closed,XNIO,XNIO,software,Done,13/10/2008 13:51,13/10/2008 13:54
+XNIO-54,Feature Request,Closed,XNIO,XNIO,software,Done,13/10/2008 13:30,14/10/2008 17:27
+XNIO-53,Feature Request,Open,XNIO,XNIO,software,,09/10/2008 16:54,
+XNIO-52,Bug,Closed,XNIO,XNIO,software,Done,09/10/2008 16:53,09/10/2008 17:18
+XNIO-51,Bug,Closed,XNIO,XNIO,software,Done,19/09/2008 21:34,19/09/2008 21:42
+XNIO-50,Feature Request,Closed,XNIO,XNIO,software,Done,12/09/2008 11:28,21/10/2008 11:44
+XNIO-49,Task,Closed,XNIO,XNIO,software,Won't Do,08/08/2008 11:25,02/11/2009 15:38
+XNIO-48,Task,Closed,XNIO,XNIO,software,Done,08/08/2008 11:18,30/11/2008 18:16
+XNIO-47,Task,Resolved,XNIO,XNIO,software,Won't Do,08/08/2008 11:10,05/09/2013 20:30
+XNIO-46,Task,Resolved,XNIO,XNIO,software,Obsolete,08/08/2008 11:09,01/03/2018 10:56
+XNIO-45,Bug,Closed,XNIO,XNIO,software,Done,31/07/2008 20:19,08/08/2008 17:42
+XNIO-44,Feature Request,Closed,XNIO,XNIO,software,Done,25/07/2008 11:58,08/08/2008 17:37
+XNIO-43,Task,Closed,XNIO,XNIO,software,Done,25/07/2008 11:25,25/07/2008 11:25
+XNIO-42,Bug,Closed,XNIO,XNIO,software,Done,25/07/2008 11:09,25/07/2008 11:25
+XNIO-41,Task,Closed,XNIO,XNIO,software,Won't Do,25/07/2008 09:20,25/07/2008 10:25
+XNIO-40,Bug,Closed,XNIO,XNIO,software,Won't Do,25/07/2008 09:20,25/07/2008 10:23
+XNIO-39,Task,Closed,XNIO,XNIO,software,Done,22/07/2008 17:47,14/10/2008 18:52
+XNIO-38,Feature Request,Closed,XNIO,XNIO,software,Done,22/07/2008 17:45,25/07/2008 14:21
+XNIO-37,Feature Request,Closed,XNIO,XNIO,software,Won't Do,22/07/2008 12:51,08/02/2012 15:53
+XNIO-36,Bug,Closed,XNIO,XNIO,software,Done,17/07/2008 12:28,21/07/2008 08:40
+XNIO-32,Feature Request,Closed,XNIO,XNIO,software,Done,14/07/2008 12:47,02/11/2009 15:37
+XNIO-31,Bug,Closed,XNIO,XNIO,software,Done,07/07/2008 20:18,07/07/2008 20:18
+XNIO-30,Bug,Closed,XNIO,XNIO,software,Done,07/07/2008 20:14,07/07/2008 20:14
+XNIO-29,Task,Closed,XNIO,XNIO,software,Done,07/07/2008 19:40,07/07/2008 20:13
+XNIO-28,Bug,Closed,XNIO,XNIO,software,Done,02/07/2008 12:12,02/07/2008 12:12
+XNIO-27,Bug,Closed,XNIO,XNIO,software,Done,02/07/2008 12:10,02/07/2008 12:10
+XNIO-26,Task,Closed,XNIO,XNIO,software,Done,23/06/2008 16:59,23/06/2008 20:35
+XNIO-25,Bug,Closed,XNIO,XNIO,software,Done,19/06/2008 23:09,19/06/2008 23:52
+XNIO-24,Task,Closed,XNIO,XNIO,software,Done,19/06/2008 17:19,25/07/2008 14:21
+XNIO-23,Bug,Closed,XNIO,XNIO,software,Done,16/06/2008 17:01,23/06/2008 09:57
+XNIO-22,Bug,Closed,XNIO,XNIO,software,Done,16/06/2008 14:16,16/06/2008 17:22
+XNIO-21,Feature Request,Closed,XNIO,XNIO,software,Done,14/06/2008 17:43,19/06/2008 22:19
+XNIO-20,Bug,Closed,XNIO,XNIO,software,Done,13/06/2008 12:54,23/06/2008 16:56
+XNIO-19,Feature Request,Closed,XNIO,XNIO,software,Done,13/06/2008 11:47,16/10/2008 04:09
+XNIO-18,Task,Closed,XNIO,XNIO,software,Done,11/06/2008 14:43,16/06/2008 11:11
+XNIO-17,Task,Closed,XNIO,XNIO,software,Done,11/06/2008 04:45,30/11/2008 18:17
+XNIO-16,Bug,Closed,XNIO,XNIO,software,Done,10/06/2008 23:57,11/06/2008 00:43
+XNIO-15,Bug,Closed,XNIO,XNIO,software,Done,10/06/2008 22:21,11/06/2008 04:53
+XNIO-14,Task,Closed,XNIO,XNIO,software,Won't Do,10/06/2008 20:41,10/06/2008 21:20
+XNIO-13,Bug,Closed,XNIO,XNIO,software,Done,10/06/2008 19:48,11/06/2008 04:18
+XNIO-12,Bug,Closed,XNIO,XNIO,software,Done,10/06/2008 19:44,11/06/2008 00:11
+XNIO-11,Task,Closed,XNIO,XNIO,software,Done,10/06/2008 00:58,10/06/2008 19:13
+XNIO-10,Task,Closed,XNIO,XNIO,software,Done,10/06/2008 00:54,11/06/2008 04:46
+XNIO-9,Task,Closed,XNIO,XNIO,software,Done,10/06/2008 00:46,10/06/2008 23:56
+XNIO-8,Task,Closed,XNIO,XNIO,software,Done,09/06/2008 09:50,11/06/2008 04:17
+XNIO-7,Task,Closed,XNIO,XNIO,software,Done,09/06/2008 09:44,10/06/2008 00:43
+XNIO-6,Task,Closed,XNIO,XNIO,software,Done,05/06/2008 21:22,02/11/2009 22:18
+XNIO-5,Task,Closed,XNIO,XNIO,software,Won't Do,04/06/2008 14:31,19/09/2009 13:42
+XNIO-4,Task,Closed,XNIO,XNIO,software,Done,04/06/2008 13:50,09/06/2008 08:55
+XNIO-3,Task,Closed,XNIO,XNIO,software,Obsolete,04/06/2008 13:49,19/09/2009 16:24
+XNIO-2,Task,Closed,XNIO,XNIO,software,Done,04/06/2008 13:48,04/06/2008 13:49
+XNIO-1,Task,Closed,XNIO,XNIO,software,Won't Do,04/06/2008 13:48,12/11/2008 20:19

@@ -1,0 +1,127 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+WFTC-142,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,22/02/2024 08:47,26/02/2024 09:30
+WFTC-141,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,12/01/2024 08:11,22/02/2024 15:07
+WFTC-140,Feature Request,Closed,WFTC,WildFly Transaction Client,software,Won't Do,13/12/2023 09:53,13/12/2023 09:54
+WFTC-138,Task,Resolved,WFTC,WildFly Transaction Client,software,Done,27/09/2023 14:26,04/10/2023 10:04
+WFTC-137,Task,Resolved,WFTC,WildFly Transaction Client,software,Done,22/09/2023 09:34,08/10/2023 17:30
+WFTC-136,Task,Resolved,WFTC,WildFly Transaction Client,software,Done,22/09/2023 09:26,22/09/2023 16:24
+WFTC-134,Task,Resolved,WFTC,WildFly Transaction Client,software,Done,30/08/2023 02:53,22/09/2023 19:42
+WFTC-133,Task,Resolved,WFTC,WildFly Transaction Client,software,Done,07/08/2023 15:22,22/09/2023 19:43
+WFTC-132,Task,Resolved,WFTC,WildFly Transaction Client,software,Done,30/07/2023 21:50,22/09/2023 19:43
+WFTC-131,Component Upgrade,Resolved,WFTC,WildFly Transaction Client,software,Done,20/07/2023 18:06,26/07/2023 02:24
+WFTC-130,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,28/06/2023 17:29,05/07/2023 14:28
+WFTC-129,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,13/06/2023 17:45,23/06/2023 22:19
+WFTC-128,Task,Resolved,WFTC,WildFly Transaction Client,software,Done,13/06/2023 15:57,23/06/2023 19:43
+WFTC-127,Task,Resolved,WFTC,WildFly Transaction Client,software,Done,07/06/2023 18:37,13/06/2023 15:53
+WFTC-126,Task,Pull Request Sent,WFTC,WildFly Transaction Client,software,,01/06/2023 17:27,
+WFTC-125,Task,Open,WFTC,WildFly Transaction Client,software,,01/06/2023 14:49,
+WFTC-124,Task,Open,WFTC,WildFly Transaction Client,software,,01/06/2023 14:47,
+WFTC-123,Task,Open,WFTC,WildFly Transaction Client,software,,01/06/2023 14:02,
+WFTC-122,Task,Open,WFTC,WildFly Transaction Client,software,,31/05/2023 21:24,
+WFTC-121,Task,Resolved,WFTC,WildFly Transaction Client,software,Done,23/05/2023 02:43,23/05/2023 19:09
+WFTC-120,Feature Request,Closed,WFTC,WildFly Transaction Client,software,Duplicate,15/03/2023 16:45,30/03/2023 11:30
+WFTC-119,Enhancement,Resolved,WFTC,WildFly Transaction Client,software,Done,03/02/2023 18:04,14/04/2023 16:03
+WFTC-118,Component Upgrade,Resolved,WFTC,WildFly Transaction Client,software,Done,11/01/2023 14:55,24/01/2023 21:55
+WFTC-117,Task,Resolved,WFTC,WildFly Transaction Client,software,Done,07/12/2022 04:46,09/12/2022 20:18
+WFTC-116,Enhancement,Resolved,WFTC,WildFly Transaction Client,software,Done,21/11/2022 16:41,30/11/2022 15:20
+WFTC-115,Task,Resolved,WFTC,WildFly Transaction Client,software,Done,09/11/2022 12:04,09/11/2022 21:31
+WFTC-114,Task,Resolved,WFTC,WildFly Transaction Client,software,Done,09/11/2022 12:00,09/11/2022 21:31
+WFTC-113,Task,Resolved,WFTC,WildFly Transaction Client,software,Done,08/11/2022 21:00,09/11/2022 21:31
+WFTC-112,Task,Resolved,WFTC,WildFly Transaction Client,software,Done,08/11/2022 20:30,09/11/2022 21:30
+WFTC-111,Component Upgrade,Resolved,WFTC,WildFly Transaction Client,software,Done,19/10/2022 16:24,19/10/2022 16:41
+WFTC-110,Task,Resolved,WFTC,WildFly Transaction Client,software,Done,18/10/2022 22:17,21/11/2022 20:24
+WFTC-106,Task,Open,WFTC,WildFly Transaction Client,software,,18/10/2022 08:24,
+WFTC-105,Task,Resolved,WFTC,WildFly Transaction Client,software,Done,13/10/2022 21:05,21/11/2022 20:41
+WFTC-104,Component Upgrade,Resolved,WFTC,WildFly Transaction Client,software,Done,12/10/2022 16:02,12/10/2022 16:20
+WFTC-103,Component Upgrade,Resolved,WFTC,WildFly Transaction Client,software,Done,03/10/2022 19:37,04/10/2022 02:35
+WFTC-102,Task,Resolved,WFTC,WildFly Transaction Client,software,Done,03/10/2022 19:34,04/10/2022 02:36
+WFTC-101,Enhancement,Resolved,WFTC,WildFly Transaction Client,software,Done,03/10/2022 19:04,04/10/2022 02:36
+WFTC-100,Component Upgrade,Resolved,WFTC,WildFly Transaction Client,software,Done,03/10/2022 18:48,04/10/2022 02:36
+WFTC-99,Task,Resolved,WFTC,WildFly Transaction Client,software,Done,03/10/2022 15:29,04/10/2022 02:37
+WFTC-98,Task,Resolved,WFTC,WildFly Transaction Client,software,Done,21/04/2022 14:58,05/10/2022 13:50
+WFTC-97,Component Upgrade,Resolved,WFTC,WildFly Transaction Client,software,Done,11/03/2022 15:06,29/03/2022 10:49
+WFTC-95,Enhancement,Open,WFTC,WildFly Transaction Client,software,,20/07/2021 15:45,
+WFTC-93,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,11/06/2021 14:53,14/06/2021 18:34
+WFTC-92,Enhancement,Resolved,WFTC,WildFly Transaction Client,software,Done,03/05/2021 12:29,10/06/2021 20:47
+WFTC-90,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,15/03/2021 13:00,24/03/2021 03:04
+WFTC-89,Bug,Closed,WFTC,WildFly Transaction Client,software,Not a Bug,03/03/2021 23:45,10/03/2021 08:03
+WFTC-87,Enhancement,Open,WFTC,WildFly Transaction Client,software,,03/08/2020 10:01,
+WFTC-86,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,28/07/2020 11:31,04/08/2020 05:42
+WFTC-85,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,08/06/2020 18:21,23/06/2020 06:54
+WFTC-84,Enhancement,Open,WFTC,WildFly Transaction Client,software,,17/05/2020 13:38,
+WFTC-83,Bug,Closed,WFTC,WildFly Transaction Client,software,Done,08/05/2020 07:51,16/05/2020 07:32
+WFTC-82,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,06/05/2020 02:37,07/05/2020 07:08
+WFTC-81,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,14/02/2020 08:33,24/03/2020 05:41
+WFTC-79,Component Upgrade,Resolved,WFTC,WildFly Transaction Client,software,Won't Do,05/11/2019 09:34,05/11/2019 19:00
+WFTC-78,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,04/11/2019 19:32,04/11/2019 19:53
+WFTC-77,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,02/10/2019 19:36,19/12/2019 08:49
+WFTC-76,Component Upgrade,Closed,WFTC,WildFly Transaction Client,software,Won't Do,29/08/2019 06:07,29/08/2019 06:08
+WFTC-75,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,23/08/2019 10:33,29/08/2019 05:57
+WFTC-74,Enhancement,Open,WFTC,WildFly Transaction Client,software,,19/08/2019 07:23,
+WFTC-73,Enhancement,Resolved,WFTC,WildFly Transaction Client,software,Done,24/07/2019 16:36,28/07/2019 04:58
+WFTC-72,Enhancement,Resolved,WFTC,WildFly Transaction Client,software,Done,24/07/2019 16:15,28/07/2019 04:59
+WFTC-71,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,04/07/2019 13:43,10/07/2019 16:10
+WFTC-70,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,03/07/2019 13:23,08/07/2019 07:33
+WFTC-69,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,01/07/2019 18:22,28/07/2019 06:47
+WFTC-68,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,28/06/2019 14:49,10/07/2019 16:14
+WFTC-67,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,06/06/2019 06:08,13/06/2019 11:10
+WFTC-66,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,03/06/2019 16:37,03/06/2019 16:40
+WFTC-65,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,31/05/2019 08:25,13/06/2019 11:09
+WFTC-64,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,22/05/2019 15:58,17/06/2019 21:08
+WFTC-63,Enhancement,Open,WFTC,WildFly Transaction Client,software,,12/04/2019 10:26,
+WFTC-62,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,05/04/2019 10:09,17/06/2019 21:07
+WFTC-61,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,03/04/2019 09:21,18/04/2019 06:23
+WFTC-60,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,05/02/2019 11:52,07/02/2019 05:48
+WFTC-58,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,22/01/2019 07:01,08/02/2019 05:22
+WFTC-57,Bug,Resolved,WFTC,WildFly Transaction Client,software,Obsolete,21/01/2019 20:30,31/10/2023 10:50
+WFTC-56,Bug,Closed,WFTC,WildFly Transaction Client,software,Duplicate,21/01/2019 20:24,06/02/2019 03:44
+WFTC-55,Enhancement,Resolved,WFTC,WildFly Transaction Client,software,Done,03/01/2019 11:12,08/01/2019 04:29
+WFTC-54,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,23/12/2018 01:39,03/01/2019 03:47
+WFTC-53,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,18/11/2018 21:21,05/02/2020 04:52
+WFTC-52,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,05/06/2018 14:49,08/06/2018 10:53
+WFTC-51,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,25/05/2018 09:08,25/05/2018 10:44
+WFTC-50,Task,Resolved,WFTC,WildFly Transaction Client,software,Done,15/05/2018 13:13,24/05/2018 13:20
+WFTC-49,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,26/04/2018 15:48,03/05/2018 15:30
+WFTC-48,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,24/04/2018 14:20,01/05/2018 17:27
+WFTC-47,Enhancement,Pull Request Sent,WFTC,WildFly Transaction Client,software,,13/04/2018 15:56,
+WFTC-46,Enhancement,Pull Request Sent,WFTC,WildFly Transaction Client,software,,13/04/2018 15:54,
+WFTC-45,Enhancement,Resolved,WFTC,WildFly Transaction Client,software,Done,05/04/2018 09:28,09/04/2018 09:18
+WFTC-44,Enhancement,Resolved,WFTC,WildFly Transaction Client,software,Done,04/04/2018 12:31,05/04/2018 09:51
+WFTC-43,Bug,Resolved,WFTC,WildFly Transaction Client,software,Won't Do,15/02/2018 10:31,05/03/2018 09:33
+WFTC-42,Task,Open,WFTC,WildFly Transaction Client,software,,12/01/2018 09:22,
+WFTC-41,Enhancement,Open,WFTC,WildFly Transaction Client,software,,03/11/2017 07:39,
+WFTC-40,Bug,Resolved,WFTC,WildFly Transaction Client,software,Won't Do,01/10/2017 23:11,09/04/2018 09:20
+WFTC-39,Enhancement,Resolved,WFTC,WildFly Transaction Client,software,Done,28/09/2017 14:26,04/10/2017 09:25
+WFTC-38,Enhancement,Resolved,WFTC,WildFly Transaction Client,software,Done,28/09/2017 11:42,15/03/2018 00:29
+WFTC-37,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,28/09/2017 10:13,28/09/2017 10:15
+WFTC-36,Feature Request,Resolved,WFTC,WildFly Transaction Client,software,Done,28/09/2017 10:03,29/09/2017 10:01
+WFTC-35,Feature Request,Resolved,WFTC,WildFly Transaction Client,software,Done,27/09/2017 16:04,29/09/2017 10:01
+WFTC-34,Task,Resolved,WFTC,WildFly Transaction Client,software,Done,19/09/2017 00:29,19/09/2017 00:33
+WFTC-33,Task,Resolved,WFTC,WildFly Transaction Client,software,Done,21/08/2017 12:28,21/08/2017 12:37
+WFTC-32,Enhancement,Resolved,WFTC,WildFly Transaction Client,software,Done,26/07/2017 18:12,31/07/2017 09:31
+WFTC-30,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,30/06/2017 08:46,30/06/2017 12:44
+WFTC-29,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,20/06/2017 11:18,26/06/2017 04:23
+WFTC-28,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,07/06/2017 08:02,07/06/2017 08:36
+WFTC-27,Bug,Open,WFTC,WildFly Transaction Client,software,,30/05/2017 02:44,
+WFTC-26,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,19/05/2017 17:30,19/05/2017 18:15
+WFTC-25,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,17/05/2017 08:59,07/06/2017 06:14
+WFTC-24,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,09/05/2017 04:38,06/06/2017 07:00
+WFTC-23,Feature Request,Resolved,WFTC,WildFly Transaction Client,software,Done,02/05/2017 23:51,03/05/2017 11:58
+WFTC-22,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,02/05/2017 16:37,02/05/2017 16:37
+WFTC-21,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,02/05/2017 15:13,02/05/2017 15:16
+WFTC-20,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,28/04/2017 09:32,28/04/2017 09:33
+WFTC-18,Task,Resolved,WFTC,WildFly Transaction Client,software,Done,05/04/2017 13:02,20/04/2017 16:00
+WFTC-17,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,03/04/2017 19:36,03/04/2017 19:37
+WFTC-16,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,07/03/2017 16:48,03/04/2017 19:34
+WFTC-15,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,24/02/2017 12:44,24/02/2017 20:37
+WFTC-14,Enhancement,Resolved,WFTC,WildFly Transaction Client,software,Done,08/02/2017 22:23,08/02/2017 23:15
+WFTC-13,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,08/02/2017 09:24,24/02/2017 16:43
+WFTC-12,Enhancement,Resolved,WFTC,WildFly Transaction Client,software,Done,01/02/2017 14:28,01/02/2017 14:30
+WFTC-11,Enhancement,Resolved,WFTC,WildFly Transaction Client,software,Done,25/01/2017 11:56,03/04/2017 19:35
+WFTC-10,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,17/01/2017 11:54,17/01/2017 12:10
+WFTC-9,Enhancement,Resolved,WFTC,WildFly Transaction Client,software,Done,13/01/2017 08:47,02/05/2017 16:36
+WFTC-8,Enhancement,Resolved,WFTC,WildFly Transaction Client,software,Done,12/01/2017 16:43,13/01/2017 18:28
+WFTC-7,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,20/12/2016 11:14,21/12/2016 16:56
+WFTC-6,Task,Resolved,WFTC,WildFly Transaction Client,software,Done,31/10/2016 15:33,31/01/2017 17:35
+WFTC-3,Bug,Resolved,WFTC,WildFly Transaction Client,software,Done,28/09/2016 10:32,28/09/2016 11:39
+WFTC-2,Enhancement,Closed,WFTC,WildFly Transaction Client,software,Obsolete,22/09/2016 12:13,21/12/2016 16:56

@@ -1,5 +1,5 @@
 All PBIS - Unfiltered 
-Start date: 1901-01-01 12:01:00 End date: 2024-10-16 07:42:00
+Start date: 2004-11-23 04:07:00 End date: 2024-10-16 07:42:00
 System: {'JBPM': 8951}
 Types: {'Enhancement': 940, 'Bug': 4608, 'Task': 1377, 'Feature Request': 1793, 'Component Upgrade': 21, 'Patch': 47, 'Release': 20, 'Story': 52, 'Epic': 58, 'Quality Risk': 30, 'CTS Challenge': 1, 'Support Patch': 4}
 Resolutions: {'Done': 5360, '': 1584, 'Not a Bug': 70, "Can't Do": 26, 'Obsolete': 558, "Won't Do": 919, 'Duplicate': 288, 'Cannot Reproduce': 146}

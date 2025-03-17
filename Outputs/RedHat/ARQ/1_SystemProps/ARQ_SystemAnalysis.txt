@@ -1,5 +1,5 @@
 All PBIS - Unfiltered 
-Start date: 1901-01-01 12:01:00 End date: 2024-10-22 07:24:00
+Start date: 2009-08-06 08:08:00 End date: 2024-10-22 07:24:00
 System: {'ARQ': 2140}
 Types: {'Task': 230, 'Patch': 4, 'Feature Request': 742, 'Bug': 730, 'Enhancement': 229, 'Release': 102, 'Component Upgrade': 96, 'Story': 4, 'Quality Risk': 2, 'CTS Challenge': 1}
 Resolutions: {'Done': 1456, '': 456, 'Obsolete': 76, "Won't Do": 99, 'Duplicate': 44, 'Cannot Reproduce': 5, "Can't Do": 2, 'Not a Bug': 2}

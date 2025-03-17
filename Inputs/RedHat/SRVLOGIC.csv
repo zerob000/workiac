@@ -1,0 +1,390 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+SRVLOGIC-464,Story,New,SRVLOGIC,Serverless logic,software,,14/11/2024 11:16,
+SRVLOGIC-463,Task,New,SRVLOGIC,Serverless logic,software,,13/11/2024 19:57,
+SRVLOGIC-462,Feature,ON_QA,SRVLOGIC,Serverless logic,software,,11/11/2024 11:45,
+SRVLOGIC-461,Feature,ON_QA,SRVLOGIC,Serverless logic,software,,11/11/2024 11:37,
+SRVLOGIC-460,Feature,ON_QA,SRVLOGIC,Serverless logic,software,,11/11/2024 11:30,
+SRVLOGIC-459,Feature,ON_QA,SRVLOGIC,Serverless logic,software,,11/11/2024 11:16,
+SRVLOGIC-458,Task,Closed,SRVLOGIC,Serverless logic,software,Done,05/11/2024 23:20,13/11/2024 14:31
+SRVLOGIC-457,Task,Closed,SRVLOGIC,Serverless logic,software,Done,05/11/2024 23:19,13/11/2024 14:30
+SRVLOGIC-456,Task,Code Review,SRVLOGIC,Serverless logic,software,,05/11/2024 16:23,
+SRVLOGIC-454,Task,In Progress,SRVLOGIC,Serverless logic,software,,31/10/2024 11:38,
+SRVLOGIC-453,Task,Closed,SRVLOGIC,Serverless logic,software,Done,31/10/2024 11:25,31/10/2024 11:26
+SRVLOGIC-452,Task,In Progress,SRVLOGIC,Serverless logic,software,,31/10/2024 11:17,
+SRVLOGIC-450,Task,New,SRVLOGIC,Serverless logic,software,,24/10/2024 11:31,
+SRVLOGIC-449,Task,New,SRVLOGIC,Serverless logic,software,,24/10/2024 11:29,
+SRVLOGIC-448,Task,New,SRVLOGIC,Serverless logic,software,,24/10/2024 11:27,
+SRVLOGIC-447,Task,New,SRVLOGIC,Serverless logic,software,,24/10/2024 11:25,
+SRVLOGIC-446,Task,New,SRVLOGIC,Serverless logic,software,,24/10/2024 11:24,
+SRVLOGIC-445,Task,New,SRVLOGIC,Serverless logic,software,,24/10/2024 11:23,
+SRVLOGIC-444,Task,New,SRVLOGIC,Serverless logic,software,,24/10/2024 11:16,
+SRVLOGIC-443,Task,New,SRVLOGIC,Serverless logic,software,,24/10/2024 11:11,
+SRVLOGIC-442,Task,New,SRVLOGIC,Serverless logic,software,,24/10/2024 11:09,
+SRVLOGIC-441,Task,New,SRVLOGIC,Serverless logic,software,,24/10/2024 11:05,
+SRVLOGIC-440,Task,New,SRVLOGIC,Serverless logic,software,,24/10/2024 11:03,
+SRVLOGIC-439,Task,New,SRVLOGIC,Serverless logic,software,,24/10/2024 11:01,
+SRVLOGIC-438,Task,New,SRVLOGIC,Serverless logic,software,,24/10/2024 10:55,
+SRVLOGIC-437,Task,New,SRVLOGIC,Serverless logic,software,,24/10/2024 10:53,
+SRVLOGIC-436,Task,In Progress,SRVLOGIC,Serverless logic,software,,24/10/2024 10:51,
+SRVLOGIC-435,Task,New,SRVLOGIC,Serverless logic,software,,24/10/2024 10:49,
+SRVLOGIC-434,Feature,New,SRVLOGIC,Serverless logic,software,,24/10/2024 10:30,
+SRVLOGIC-433,Epic,New,SRVLOGIC,Serverless logic,software,,23/10/2024 15:40,
+SRVLOGIC-432,Bug,Code Review,SRVLOGIC,Serverless logic,software,,22/10/2024 17:10,
+SRVLOGIC-431,Epic,New,SRVLOGIC,Serverless logic,software,,22/10/2024 15:15,
+SRVLOGIC-429,Task,New,SRVLOGIC,Serverless logic,software,,21/10/2024 17:34,
+SRVLOGIC-428,Task,New,SRVLOGIC,Serverless logic,software,,21/10/2024 17:29,
+SRVLOGIC-427,Task,New,SRVLOGIC,Serverless logic,software,,21/10/2024 17:27,
+SRVLOGIC-426,Task,New,SRVLOGIC,Serverless logic,software,,21/10/2024 17:23,
+SRVLOGIC-425,Epic,New,SRVLOGIC,Serverless logic,software,,21/10/2024 17:19,
+SRVLOGIC-424,Task,New,SRVLOGIC,Serverless logic,software,,21/10/2024 17:09,
+SRVLOGIC-423,Task,ON_QA,SRVLOGIC,Serverless logic,software,,21/10/2024 15:01,
+SRVLOGIC-422,Task,Closed,SRVLOGIC,Serverless logic,software,Won't Do,21/10/2024 14:30,23/10/2024 18:40
+SRVLOGIC-421,Bug,ON_QA,SRVLOGIC,Serverless logic,software,,21/10/2024 08:12,
+SRVLOGIC-420,Task,In Progress,SRVLOGIC,Serverless logic,software,,18/10/2024 08:16,
+SRVLOGIC-419,Bug,ON_QA,SRVLOGIC,Serverless logic,software,,17/10/2024 19:03,
+SRVLOGIC-418,Feature,Closed,SRVLOGIC,Serverless logic,software,Won't Do,16/10/2024 14:54,16/10/2024 15:16
+SRVLOGIC-417,Feature,Closed,SRVLOGIC,Serverless logic,software,Won't Do,16/10/2024 14:52,16/10/2024 15:16
+SRVLOGIC-416,Epic,New,SRVLOGIC,Serverless logic,software,,16/10/2024 14:50,
+SRVLOGIC-415,Epic,New,SRVLOGIC,Serverless logic,software,,16/10/2024 14:28,
+SRVLOGIC-414,Feature,ON_QA,SRVLOGIC,Serverless logic,software,,16/10/2024 10:00,
+SRVLOGIC-413,Bug,Closed,SRVLOGIC,Serverless logic,software,Done,14/10/2024 15:55,18/10/2024 10:22
+SRVLOGIC-412,Epic,New,SRVLOGIC,Serverless logic,software,,11/10/2024 14:07,
+SRVLOGIC-411,Feature,In Progress,SRVLOGIC,Serverless logic,software,,11/10/2024 08:57,
+SRVLOGIC-410,Epic,New,SRVLOGIC,Serverless logic,software,,10/10/2024 16:58,
+SRVLOGIC-409,Bug,New,SRVLOGIC,Serverless logic,software,,10/10/2024 08:59,
+SRVLOGIC-408,Bug,Closed,SRVLOGIC,Serverless logic,software,Not a Bug,09/10/2024 10:39,10/10/2024 08:47
+SRVLOGIC-407,Epic,ON_QA,SRVLOGIC,Serverless logic,software,,08/10/2024 14:55,
+SRVLOGIC-406,Feature,ON_QA,SRVLOGIC,Serverless logic,software,,08/10/2024 14:48,
+SRVLOGIC-405,Bug,New,SRVLOGIC,Serverless logic,software,,07/10/2024 07:42,
+SRVLOGIC-404,Bug,New,SRVLOGIC,Serverless logic,software,,04/10/2024 07:59,
+SRVLOGIC-403,Bug,New,SRVLOGIC,Serverless logic,software,,04/10/2024 07:57,
+SRVLOGIC-402,Bug,New,SRVLOGIC,Serverless logic,software,,04/10/2024 07:54,
+SRVLOGIC-401,Bug,In Progress,SRVLOGIC,Serverless logic,software,,04/10/2024 07:49,
+SRVLOGIC-400,Bug,ON_QA,SRVLOGIC,Serverless logic,software,,02/10/2024 14:04,
+SRVLOGIC-399,Epic,New,SRVLOGIC,Serverless logic,software,,02/10/2024 14:01,
+SRVLOGIC-398,Task,New,SRVLOGIC,Serverless logic,software,,01/10/2024 07:46,
+SRVLOGIC-396,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,27/09/2024 11:30,10/10/2024 11:23
+SRVLOGIC-395,Task,Closed,SRVLOGIC,Serverless logic,software,Done,26/09/2024 13:12,27/09/2024 10:56
+SRVLOGIC-394,Task,Closed,SRVLOGIC,Serverless logic,software,Done,26/09/2024 13:10,27/09/2024 10:55
+SRVLOGIC-393,Task,In Progress,SRVLOGIC,Serverless logic,software,,26/09/2024 12:57,
+SRVLOGIC-392,Task,In Progress,SRVLOGIC,Serverless logic,software,,26/09/2024 12:37,
+SRVLOGIC-391,Epic,In Progress,SRVLOGIC,Serverless logic,software,,26/09/2024 12:13,
+SRVLOGIC-390,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,20/09/2024 12:48,03/10/2024 13:12
+SRVLOGIC-389,Task,Closed,SRVLOGIC,Serverless logic,software,Done,18/09/2024 18:56,10/10/2024 12:39
+SRVLOGIC-388,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,18/09/2024 13:45,26/09/2024 14:07
+SRVLOGIC-387,Task,New,SRVLOGIC,Serverless logic,software,,16/09/2024 16:35,
+SRVLOGIC-386,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,12/09/2024 13:52,27/09/2024 07:44
+SRVLOGIC-385,Bug,In Progress,SRVLOGIC,Serverless logic,software,,12/09/2024 09:58,
+SRVLOGIC-384,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,10/09/2024 13:53,10/10/2024 12:18
+SRVLOGIC-383,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,10/09/2024 13:42,10/10/2024 12:38
+SRVLOGIC-382,Feature,Release Pending,SRVLOGIC,Serverless logic,software,Done,09/09/2024 08:35,10/10/2024 12:18
+SRVLOGIC-381,Feature,Release Pending,SRVLOGIC,Serverless logic,software,Done,09/09/2024 08:23,10/10/2024 12:22
+SRVLOGIC-380,Epic,Release Pending,SRVLOGIC,Serverless logic,software,Done,09/09/2024 08:21,11/10/2024 07:00
+SRVLOGIC-379,Epic,Closed,SRVLOGIC,Serverless logic,software,Done,06/09/2024 16:44,06/09/2024 17:13
+SRVLOGIC-378,Task,New,SRVLOGIC,Serverless logic,software,,30/08/2024 16:49,
+SRVLOGIC-377,Task,New,SRVLOGIC,Serverless logic,software,,30/08/2024 16:44,
+SRVLOGIC-375,Task,New,SRVLOGIC,Serverless logic,software,,19/08/2024 14:59,
+SRVLOGIC-374,Feature,Closed,SRVLOGIC,Serverless logic,software,Won't Do,13/08/2024 19:04,13/08/2024 20:43
+SRVLOGIC-373,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,13/08/2024 13:32,01/10/2024 13:41
+SRVLOGIC-372,Feature,New,SRVLOGIC,Serverless logic,software,,12/08/2024 15:03,
+SRVLOGIC-371,Feature,New,SRVLOGIC,Serverless logic,software,,07/08/2024 15:48,
+SRVLOGIC-370,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,07/08/2024 06:34,10/10/2024 12:24
+SRVLOGIC-369,Task,Closed,SRVLOGIC,Serverless logic,software,Done,05/08/2024 12:47,20/08/2024 13:24
+SRVLOGIC-368,Bug,New,SRVLOGIC,Serverless logic,software,,25/07/2024 07:42,
+SRVLOGIC-367,Epic,In Progress,SRVLOGIC,Serverless logic,software,,25/07/2024 07:24,
+SRVLOGIC-366,Feature,Code Review,SRVLOGIC,Serverless logic,software,,24/07/2024 17:16,
+SRVLOGIC-365,Epic,ON_QA,SRVLOGIC,Serverless logic,software,,22/07/2024 06:08,
+SRVLOGIC-364,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,22/07/2024 06:05,06/08/2024 05:42
+SRVLOGIC-363,Feature,Release Pending,SRVLOGIC,Serverless logic,software,Done,18/07/2024 06:28,11/10/2024 07:01
+SRVLOGIC-362,Feature,In Progress,SRVLOGIC,Serverless logic,software,,18/07/2024 06:16,
+SRVLOGIC-361,Feature,In Progress,SRVLOGIC,Serverless logic,software,,18/07/2024 06:15,
+SRVLOGIC-360,Feature,New,SRVLOGIC,Serverless logic,software,,18/07/2024 06:11,
+SRVLOGIC-359,Feature,New,SRVLOGIC,Serverless logic,software,,18/07/2024 06:05,
+SRVLOGIC-358,Feature,New,SRVLOGIC,Serverless logic,software,,18/07/2024 05:58,
+SRVLOGIC-357,Feature,Release Pending,SRVLOGIC,Serverless logic,software,Done,18/07/2024 05:50,10/10/2024 12:43
+SRVLOGIC-356,Task,Closed,SRVLOGIC,Serverless logic,software,Won't Do,10/07/2024 18:38,11/07/2024 06:49
+SRVLOGIC-355,Task,Closed,SRVLOGIC,Serverless logic,software,Done,05/07/2024 04:20,17/07/2024 08:00
+SRVLOGIC-354,Feature,Release Pending,SRVLOGIC,Serverless logic,software,Done,04/07/2024 07:45,26/09/2024 14:13
+SRVLOGIC-353,Task,In Progress,SRVLOGIC,Serverless logic,software,,03/07/2024 13:45,
+SRVLOGIC-352,Task,Closed,SRVLOGIC,Serverless logic,software,Done,03/07/2024 13:41,10/10/2024 14:12
+SRVLOGIC-351,Task,In Progress,SRVLOGIC,Serverless logic,software,,03/07/2024 12:07,
+SRVLOGIC-350,Epic,New,SRVLOGIC,Serverless logic,software,,25/06/2024 17:35,
+SRVLOGIC-349,Feature,New,SRVLOGIC,Serverless logic,software,,17/06/2024 11:04,
+SRVLOGIC-348,Feature,New,SRVLOGIC,Serverless logic,software,,17/06/2024 10:23,
+SRVLOGIC-347,Feature,New,SRVLOGIC,Serverless logic,software,,17/06/2024 10:13,
+SRVLOGIC-346,Epic,New,SRVLOGIC,Serverless logic,software,,17/06/2024 10:08,
+SRVLOGIC-345,Feature,New,SRVLOGIC,Serverless logic,software,,14/06/2024 09:41,
+SRVLOGIC-344,Bug,New,SRVLOGIC,Serverless logic,software,,14/06/2024 06:03,
+SRVLOGIC-343,Feature,New,SRVLOGIC,Serverless logic,software,,13/06/2024 13:55,
+SRVLOGIC-342,Feature,New,SRVLOGIC,Serverless logic,software,,13/06/2024 12:50,
+SRVLOGIC-341,Feature,New,SRVLOGIC,Serverless logic,software,,13/06/2024 12:33,
+SRVLOGIC-340,Epic,Release Pending,SRVLOGIC,Serverless logic,software,Done,13/06/2024 10:46,26/09/2024 14:14
+SRVLOGIC-339,Task,Closed,SRVLOGIC,Serverless logic,software,Can't Do,13/06/2024 09:20,29/08/2024 14:41
+SRVLOGIC-338,Feature,Release Pending,SRVLOGIC,Serverless logic,software,Done,13/06/2024 08:33,10/10/2024 12:31
+SRVLOGIC-337,Feature,Release Pending,SRVLOGIC,Serverless logic,software,Done,13/06/2024 08:08,01/10/2024 07:50
+SRVLOGIC-336,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,13/06/2024 08:07,25/09/2024 14:05
+SRVLOGIC-335,Epic,Release Pending,SRVLOGIC,Serverless logic,software,Done,13/06/2024 07:52,11/10/2024 07:02
+SRVLOGIC-334,Bug,New,SRVLOGIC,Serverless logic,software,,12/06/2024 18:18,
+SRVLOGIC-333,Bug,New,SRVLOGIC,Serverless logic,software,,12/06/2024 14:54,
+SRVLOGIC-331,Bug,New,SRVLOGIC,Serverless logic,software,,11/06/2024 15:59,
+SRVLOGIC-330,Bug,ON_QA,SRVLOGIC,Serverless logic,software,,11/06/2024 14:01,
+SRVLOGIC-329,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,11/06/2024 06:19,11/10/2024 07:01
+SRVLOGIC-328,Story,Closed,SRVLOGIC,Serverless logic,software,Done,10/06/2024 15:02,19/08/2024 14:44
+SRVLOGIC-327,Bug,New,SRVLOGIC,Serverless logic,software,,10/06/2024 06:04,
+SRVLOGIC-326,Bug,New,SRVLOGIC,Serverless logic,software,,10/06/2024 05:59,
+SRVLOGIC-325,Bug,Closed,SRVLOGIC,Serverless logic,software,Done,07/06/2024 11:42,13/06/2024 08:30
+SRVLOGIC-324,Bug,Code Review,SRVLOGIC,Serverless logic,software,,07/06/2024 09:38,
+SRVLOGIC-323,Bug,ON_DEV,SRVLOGIC,Serverless logic,software,,06/06/2024 08:58,
+SRVLOGIC-322,Bug,Closed,SRVLOGIC,Serverless logic,software,Not a Bug,05/06/2024 07:45,06/06/2024 08:59
+SRVLOGIC-321,Story,Closed,SRVLOGIC,Serverless logic,software,Done,04/06/2024 11:18,17/09/2024 06:43
+SRVLOGIC-320,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,04/06/2024 07:53,26/09/2024 10:18
+SRVLOGIC-319,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,03/06/2024 09:47,13/06/2024 12:04
+SRVLOGIC-318,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,31/05/2024 07:52,10/06/2024 05:30
+SRVLOGIC-317,Task,Closed,SRVLOGIC,Serverless logic,software,Done,30/05/2024 13:21,02/07/2024 19:03
+SRVLOGIC-311,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,28/05/2024 12:44,11/06/2024 12:31
+SRVLOGIC-310,Story,Closed,SRVLOGIC,Serverless logic,software,Done,28/05/2024 11:02,09/10/2024 18:24
+SRVLOGIC-309,Story,Closed,SRVLOGIC,Serverless logic,software,Done,28/05/2024 10:56,10/10/2024 14:18
+SRVLOGIC-308,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,28/05/2024 10:50,06/08/2024 05:41
+SRVLOGIC-307,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,28/05/2024 07:14,28/05/2024 13:30
+SRVLOGIC-300,Story,Closed,SRVLOGIC,Serverless logic,software,Done,26/05/2024 09:44,17/07/2024 07:58
+SRVLOGIC-299,Task,Closed,SRVLOGIC,Serverless logic,software,Won't Do,22/05/2024 07:28,10/06/2024 13:48
+SRVLOGIC-298,Bug,New,SRVLOGIC,Serverless logic,software,,15/05/2024 12:54,
+SRVLOGIC-297,Task,Closed,SRVLOGIC,Serverless logic,software,Done,15/05/2024 19:59,16/05/2024 17:45
+SRVLOGIC-296,Epic,ON_QA,SRVLOGIC,Serverless logic,software,,15/05/2024 19:52,
+SRVLOGIC-295,Feature,Release Pending,SRVLOGIC,Serverless logic,software,Done,09/05/2024 11:31,12/06/2024 09:52
+SRVLOGIC-294,Task,Closed,SRVLOGIC,Serverless logic,software,Done,03/05/2024 09:42,11/06/2024 18:23
+SRVLOGIC-291,Task,Closed,SRVLOGIC,Serverless logic,software,Done,22/04/2024 13:38,24/06/2024 05:38
+SRVLOGIC-290,Task,Closed,SRVLOGIC,Serverless logic,software,Duplicate,22/04/2024 13:28,19/06/2024 06:37
+SRVLOGIC-289,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,22/04/2024 13:15,24/06/2024 05:40
+SRVLOGIC-288,Epic,Release Pending,SRVLOGIC,Serverless logic,software,Done,22/04/2024 13:07,18/07/2024 08:06
+SRVLOGIC-287,Task,Closed,SRVLOGIC,Serverless logic,software,Done,22/04/2024 12:25,11/06/2024 12:17
+SRVLOGIC-286,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,22/04/2024 11:15,01/10/2024 13:34
+SRVLOGIC-285,Task,Closed,SRVLOGIC,Serverless logic,software,Done,15/04/2024 13:19,11/06/2024 08:11
+SRVLOGIC-284,Task,Closed,SRVLOGIC,Serverless logic,software,Done,15/04/2024 13:16,24/05/2024 05:39
+SRVLOGIC-283,Task,Closed,SRVLOGIC,Serverless logic,software,Done,15/04/2024 13:13,24/05/2024 05:40
+SRVLOGIC-282,Task,Closed,SRVLOGIC,Serverless logic,software,Done,12/04/2024 09:35,03/05/2024 07:27
+SRVLOGIC-281,Task,Closed,SRVLOGIC,Serverless logic,software,Done,12/04/2024 09:34,02/05/2024 15:02
+SRVLOGIC-280,Epic,New,SRVLOGIC,Serverless logic,software,,10/04/2024 07:41,
+SRVLOGIC-279,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,09/04/2024 17:25,14/06/2024 08:46
+SRVLOGIC-278,Epic,Release Pending,SRVLOGIC,Serverless logic,software,Done,09/04/2024 15:24,19/06/2024 08:50
+SRVLOGIC-277,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,09/04/2024 06:22,29/04/2024 11:45
+SRVLOGIC-276,Feature,Closed,SRVLOGIC,Serverless logic,software,Duplicate,18/09/2023 14:47,15/04/2024 15:47
+SRVLOGIC-275,Task,Closed,SRVLOGIC,Serverless logic,software,Done,05/04/2024 07:43,24/05/2024 05:37
+SRVLOGIC-274,Story,Release Pending,SRVLOGIC,Serverless logic,software,Done,03/04/2024 05:36,06/06/2024 09:18
+SRVLOGIC-273,Epic,Release Pending,SRVLOGIC,Serverless logic,software,Done,01/04/2024 20:39,04/06/2024 11:16
+SRVLOGIC-272,Feature,ON_DEV,SRVLOGIC,Serverless logic,software,,27/09/2023 10:56,
+SRVLOGIC-271,Story,In Progress,SRVLOGIC,Serverless logic,software,,25/03/2024 08:04,
+SRVLOGIC-270,Bug,Closed,SRVLOGIC,Serverless logic,software,Done,21/03/2024 17:19,23/10/2024 16:16
+SRVLOGIC-269,Epic,Release Pending,SRVLOGIC,Serverless logic,software,Done,21/03/2024 12:57,12/06/2024 15:55
+SRVLOGIC-268,Task,Closed,SRVLOGIC,Serverless logic,software,Done,21/03/2024 08:51,11/06/2024 12:42
+SRVLOGIC-267,Task,Closed,SRVLOGIC,Serverless logic,software,Done,21/03/2024 08:43,11/06/2024 15:08
+SRVLOGIC-266,Bug,Closed,SRVLOGIC,Serverless logic,software,Done,20/03/2024 16:06,23/10/2024 16:15
+SRVLOGIC-265,Feature,Release Pending,SRVLOGIC,Serverless logic,software,Done,20/03/2024 16:05,13/06/2024 12:50
+SRVLOGIC-264,Feature,Release Pending,SRVLOGIC,Serverless logic,software,Done,20/03/2024 15:09,12/06/2024 14:02
+SRVLOGIC-263,Epic,Release Pending,SRVLOGIC,Serverless logic,software,Done,20/03/2024 09:24,12/06/2024 20:59
+SRVLOGIC-262,Feature,New,SRVLOGIC,Serverless logic,software,,20/03/2024 08:06,
+SRVLOGIC-261,Epic,Release Pending,SRVLOGIC,Serverless logic,software,Done,20/03/2024 07:24,12/08/2024 06:15
+SRVLOGIC-260,Task,Closed,SRVLOGIC,Serverless logic,software,Done,18/03/2024 11:53,23/05/2024 09:10
+SRVLOGIC-259,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,18/03/2024 10:31,15/07/2024 12:19
+SRVLOGIC-258,Task,Closed,SRVLOGIC,Serverless logic,software,Done,18/03/2024 09:01,11/06/2024 08:08
+SRVLOGIC-257,Spike,New,SRVLOGIC,Serverless logic,software,,13/03/2024 20:20,
+SRVLOGIC-256,Feature,Release Pending,SRVLOGIC,Serverless logic,software,Done,13/03/2024 16:05,10/10/2024 10:52
+SRVLOGIC-255,Feature,Release Pending,SRVLOGIC,Serverless logic,software,Done,13/03/2024 15:56,10/06/2024 11:42
+SRVLOGIC-254,Bug,Closed,SRVLOGIC,Serverless logic,software,Done,13/03/2024 09:29,23/05/2024 08:36
+SRVLOGIC-253,Bug,Closed,SRVLOGIC,Serverless logic,software,Done,13/03/2024 09:13,08/07/2024 08:06
+SRVLOGIC-252,Spike,Release Pending,SRVLOGIC,Serverless logic,software,Done,13/03/2024 08:49,04/06/2024 12:13
+SRVLOGIC-251,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,11/03/2024 07:03,15/03/2024 13:04
+SRVLOGIC-250,Bug,ON_QA,SRVLOGIC,Serverless logic,software,,05/03/2024 12:26,
+SRVLOGIC-249,Epic,Release Pending,SRVLOGIC,Serverless logic,software,Done,14/09/2023 16:00,11/06/2024 15:07
+SRVLOGIC-248,Story,Closed,SRVLOGIC,Serverless logic,software,Obsolete,05/03/2024 08:29,20/03/2024 07:09
+SRVLOGIC-247,Task,Closed,SRVLOGIC,Serverless logic,software,Done,04/03/2024 12:37,14/06/2024 08:45
+SRVLOGIC-246,Feature,Release Pending,SRVLOGIC,Serverless logic,software,Done,04/03/2024 07:58,11/06/2024 15:06
+SRVLOGIC-245,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,01/03/2024 10:54,13/03/2024 08:57
+SRVLOGIC-244,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,29/02/2024 14:35,13/06/2024 07:04
+SRVLOGIC-243,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,29/02/2024 14:29,04/03/2024 10:13
+SRVLOGIC-242,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,29/02/2024 10:57,04/03/2024 10:13
+SRVLOGIC-241,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,29/02/2024 10:37,04/03/2024 10:13
+SRVLOGIC-240,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,29/02/2024 09:10,04/03/2024 10:13
+SRVLOGIC-239,Bug,Closed,SRVLOGIC,Serverless logic,software,Done,28/02/2024 09:11,05/03/2024 06:24
+SRVLOGIC-238,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,27/02/2024 13:59,05/03/2024 06:27
+SRVLOGIC-237,Task,New,SRVLOGIC,Serverless logic,software,,27/02/2024 12:26,
+SRVLOGIC-235,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,26/02/2024 13:59,13/03/2024 06:45
+SRVLOGIC-234,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,26/02/2024 06:56,20/03/2024 07:36
+SRVLOGIC-233,Epic,New,SRVLOGIC,Serverless logic,software,,22/02/2024 13:23,
+SRVLOGIC-232,Epic,Closed,SRVLOGIC,Serverless logic,software,Done,21/02/2024 10:32,12/06/2024 09:49
+SRVLOGIC-231,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,20/02/2024 10:23,04/03/2024 13:44
+SRVLOGIC-230,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,20/02/2024 10:13,05/03/2024 09:57
+SRVLOGIC-229,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,19/02/2024 15:35,13/03/2024 06:47
+SRVLOGIC-228,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,19/02/2024 15:32,13/03/2024 06:46
+SRVLOGIC-227,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,19/02/2024 15:14,05/03/2024 12:55
+SRVLOGIC-226,Epic,Release Pending,SRVLOGIC,Serverless logic,software,Done,19/02/2024 13:06,13/03/2024 07:56
+SRVLOGIC-225,Bug,Closed,SRVLOGIC,Serverless logic,software,Done,19/02/2024 07:11,27/02/2024 12:22
+SRVLOGIC-224,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,13/02/2024 15:34,05/03/2024 12:59
+SRVLOGIC-223,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,13/02/2024 15:21,05/03/2024 12:59
+SRVLOGIC-222,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,14/02/2024 12:14,15/02/2024 11:06
+SRVLOGIC-221,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,14/02/2024 09:18,14/03/2024 12:21
+SRVLOGIC-220,Bug,New,SRVLOGIC,Serverless logic,software,,13/02/2024 13:10,
+SRVLOGIC-219,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,09/02/2024 13:09,11/03/2024 06:38
+SRVLOGIC-218,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,05/02/2024 13:51,17/06/2024 10:46
+SRVLOGIC-217,Task,Closed,SRVLOGIC,Serverless logic,software,Obsolete,25/01/2024 13:39,23/10/2024 16:14
+SRVLOGIC-216,Task,Closed,SRVLOGIC,Serverless logic,software,Done,25/01/2024 13:34,23/10/2024 16:13
+SRVLOGIC-215,Task,Closed,SRVLOGIC,Serverless logic,software,Done,25/01/2024 13:31,23/10/2024 16:11
+SRVLOGIC-214,Epic,New,SRVLOGIC,Serverless logic,software,,25/01/2024 13:25,
+SRVLOGIC-213,Task,Closed,SRVLOGIC,Serverless logic,software,Done,24/01/2024 14:53,13/03/2024 09:09
+SRVLOGIC-212,Task,New,SRVLOGIC,Serverless logic,software,,24/01/2024 13:25,
+SRVLOGIC-211,Task,Closed,SRVLOGIC,Serverless logic,software,Done,18/01/2024 13:52,25/01/2024 10:06
+SRVLOGIC-210,Task,New,SRVLOGIC,Serverless logic,software,,09/01/2024 13:32,
+SRVLOGIC-209,Task,Closed,SRVLOGIC,Serverless logic,software,Done,09/01/2024 05:15,17/07/2024 07:50
+SRVLOGIC-207,Feature,New,SRVLOGIC,Serverless logic,software,,21/12/2023 17:42,
+SRVLOGIC-206,Feature,New,SRVLOGIC,Serverless logic,software,,21/12/2023 17:40,
+SRVLOGIC-205,Feature,New,SRVLOGIC,Serverless logic,software,,21/12/2023 17:32,
+SRVLOGIC-204,Epic,New,SRVLOGIC,Serverless logic,software,,21/12/2023 17:29,
+SRVLOGIC-203,Task,Closed,SRVLOGIC,Serverless logic,software,Done,12/12/2023 08:53,19/04/2024 12:18
+SRVLOGIC-202,Task,Closed,SRVLOGIC,Serverless logic,software,Done,12/12/2023 08:45,06/02/2024 09:52
+SRVLOGIC-201,Task,Closed,SRVLOGIC,Serverless logic,software,Done,12/12/2023 08:40,09/01/2024 09:40
+SRVLOGIC-200,Epic,Closed,SRVLOGIC,Serverless logic,software,Done,12/12/2023 08:33,12/07/2024 08:58
+SRVLOGIC-198,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,06/12/2023 14:48,07/12/2023 14:11
+SRVLOGIC-197,Feature,Closed,SRVLOGIC,Serverless logic,software,Done,04/12/2023 14:54,19/02/2024 19:45
+SRVLOGIC-196,Feature,Release Pending,SRVLOGIC,Serverless logic,software,Done,04/12/2023 14:10,18/01/2024 09:03
+SRVLOGIC-195,Feature,Release Pending,SRVLOGIC,Serverless logic,software,Done,04/12/2023 14:02,05/03/2024 12:46
+SRVLOGIC-194,Story,Closed,SRVLOGIC,Serverless logic,software,Done,04/12/2023 11:51,09/04/2024 08:47
+SRVLOGIC-192,Story,Closed,SRVLOGIC,Serverless logic,software,Done,01/12/2023 21:03,17/07/2024 08:08
+SRVLOGIC-191,Story,Closed,SRVLOGIC,Serverless logic,software,Done,01/12/2023 20:53,23/10/2024 08:12
+SRVLOGIC-190,Story,Closed,SRVLOGIC,Serverless logic,software,Done,01/12/2023 20:32,17/07/2024 08:06
+SRVLOGIC-189,Story,Closed,SRVLOGIC,Serverless logic,software,Done,01/12/2023 20:15,17/07/2024 07:56
+SRVLOGIC-188,Story,Closed,SRVLOGIC,Serverless logic,software,Done,01/12/2023 20:11,17/07/2024 08:07
+SRVLOGIC-187,Story,Closed,SRVLOGIC,Serverless logic,software,Done,01/12/2023 17:56,04/06/2024 11:12
+SRVLOGIC-186,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,30/11/2023 16:38,13/03/2024 06:47
+SRVLOGIC-185,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,29/11/2023 11:38,11/06/2024 12:35
+SRVLOGIC-184,Task,Closed,SRVLOGIC,Serverless logic,software,Done,27/11/2023 12:49,12/12/2023 10:33
+SRVLOGIC-183,Task,Closed,SRVLOGIC,Serverless logic,software,Can't Do,21/11/2023 16:32,20/02/2024 19:11
+SRVLOGIC-180,Task,Closed,SRVLOGIC,Serverless logic,software,Won't Do,21/11/2023 16:25,20/03/2024 12:57
+SRVLOGIC-179,Epic,Release Pending,SRVLOGIC,Serverless logic,software,Done,19/11/2023 13:44,13/03/2024 07:55
+SRVLOGIC-178,Story,New,SRVLOGIC,Serverless logic,software,,16/11/2023 13:58,
+SRVLOGIC-177,Feature,New,SRVLOGIC,Serverless logic,software,,12/11/2023 21:49,
+SRVLOGIC-176,Bug,Closed,SRVLOGIC,Serverless logic,software,Done,17/10/2023 15:07,20/02/2024 14:30
+SRVLOGIC-174,Task,In Progress,SRVLOGIC,Serverless logic,software,,28/09/2023 15:35,
+SRVLOGIC-173,Task,Closed,SRVLOGIC,Serverless logic,software,Done,27/09/2023 09:53,16/04/2024 07:34
+SRVLOGIC-172,Story,Release Pending,SRVLOGIC,Serverless logic,software,Done,26/09/2023 07:17,12/06/2024 10:26
+SRVLOGIC-171,Story,Release Pending,SRVLOGIC,Serverless logic,software,Done,26/09/2023 07:10,12/06/2024 13:05
+SRVLOGIC-170,Story,Release Pending,SRVLOGIC,Serverless logic,software,Done,26/09/2023 06:56,12/12/2023 10:31
+SRVLOGIC-169,Story,Release Pending,SRVLOGIC,Serverless logic,software,Done,26/09/2023 06:48,12/12/2023 10:31
+SRVLOGIC-168,Bug,Closed,SRVLOGIC,Serverless logic,software,Done,25/09/2023 18:59,27/11/2023 15:22
+SRVLOGIC-167,Task,Closed,SRVLOGIC,Serverless logic,software,Done,22/09/2023 13:53,20/03/2024 07:00
+SRVLOGIC-165,Task,Closed,SRVLOGIC,Serverless logic,software,Done,12/09/2023 10:47,05/12/2023 08:11
+SRVLOGIC-164,Epic,Release Pending,SRVLOGIC,Serverless logic,software,Done,06/09/2023 07:33,12/12/2023 10:33
+SRVLOGIC-163,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,05/09/2023 15:32,07/12/2023 14:10
+SRVLOGIC-162,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,05/09/2023 15:30,11/06/2024 14:42
+SRVLOGIC-161,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,05/09/2023 15:24,12/06/2024 13:04
+SRVLOGIC-160,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,05/09/2023 15:18,07/12/2023 14:10
+SRVLOGIC-158,Bug,Release Pending,SRVLOGIC,Serverless logic,software,Done,25/07/2023 07:33,07/12/2023 14:10
+SRVLOGIC-157,Epic,Release Pending,SRVLOGIC,Serverless logic,software,Done,03/07/2023 19:19,30/11/2023 16:42
+SRVLOGIC-156,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,03/07/2023 06:08,30/11/2023 08:12
+SRVLOGIC-155,Story,Release Pending,SRVLOGIC,Serverless logic,software,Done,28/06/2023 13:27,26/07/2023 09:24
+SRVLOGIC-154,Story,Release Pending,SRVLOGIC,Serverless logic,software,Done,28/06/2023 12:58,26/07/2023 09:24
+SRVLOGIC-151,Feature,Closed,SRVLOGIC,Serverless logic,software,Done,08/05/2023 13:59,20/08/2023 16:11
+SRVLOGIC-150,Feature,Release Pending,SRVLOGIC,Serverless logic,software,Done,08/05/2023 13:54,03/08/2023 11:56
+SRVLOGIC-149,Story,Release Pending,SRVLOGIC,Serverless logic,software,Done,05/05/2023 18:35,10/07/2023 06:24
+SRVLOGIC-148,Story,Release Pending,SRVLOGIC,Serverless logic,software,Done,05/05/2023 18:32,03/07/2023 08:24
+SRVLOGIC-147,Story,Closed,SRVLOGIC,Serverless logic,software,Duplicate,04/05/2023 20:37,25/09/2023 13:54
+SRVLOGIC-146,Story,Closed,SRVLOGIC,Serverless logic,software,Obsolete,04/05/2023 20:13,28/06/2024 13:19
+SRVLOGIC-145,Story,Release Pending,SRVLOGIC,Serverless logic,software,Done,04/05/2023 14:05,16/05/2023 11:40
+SRVLOGIC-144,Task,Closed,SRVLOGIC,Serverless logic,software,Done,03/05/2023 19:56,07/12/2023 14:11
+SRVLOGIC-139,Story,Release Pending,SRVLOGIC,Serverless logic,software,Done,01/05/2023 18:00,23/07/2024 07:09
+SRVLOGIC-138,Task,Closed,SRVLOGIC,Serverless logic,software,Done,27/04/2023 17:53,23/06/2023 15:04
+SRVLOGIC-137,Feature,Release Pending,SRVLOGIC,Serverless logic,software,Done,25/04/2023 14:01,12/06/2024 14:01
+SRVLOGIC-136,Feature,Release Pending,SRVLOGIC,Serverless logic,software,Done,25/04/2023 13:47,16/05/2023 17:30
+SRVLOGIC-135,Feature,Release Pending,SRVLOGIC,Serverless logic,software,Done,25/04/2023 13:37,14/08/2023 05:52
+SRVLOGIC-134,Feature,Closed,SRVLOGIC,Serverless logic,software,Duplicate,25/04/2023 13:34,16/05/2023 16:39
+SRVLOGIC-133,Feature,Release Pending,SRVLOGIC,Serverless logic,software,Done,25/04/2023 13:32,16/05/2023 16:30
+SRVLOGIC-132,Feature,Release Pending,SRVLOGIC,Serverless logic,software,Done,25/04/2023 13:22,14/08/2023 05:51
+SRVLOGIC-131,Feature,Release Pending,SRVLOGIC,Serverless logic,software,Done,25/04/2023 13:07,05/06/2024 12:24
+SRVLOGIC-130,Feature,Closed,SRVLOGIC,Serverless logic,software,Obsolete,25/04/2023 12:58,28/04/2023 15:02
+SRVLOGIC-129,Feature,Release Pending,SRVLOGIC,Serverless logic,software,Done,24/04/2023 16:04,14/08/2023 05:51
+SRVLOGIC-128,Story,Release Pending,SRVLOGIC,Serverless logic,software,Done,24/04/2023 08:42,23/07/2024 06:46
+SRVLOGIC-122,Story,Closed,SRVLOGIC,Serverless logic,software,Done,24/04/2023 08:20,29/04/2024 13:17
+SRVLOGIC-119,Story,New,SRVLOGIC,Serverless logic,software,,24/04/2023 05:25,
+SRVLOGIC-114,Story,New,SRVLOGIC,Serverless logic,software,,24/04/2023 05:18,
+SRVLOGIC-108,Story,Closed,SRVLOGIC,Serverless logic,software,Done,24/04/2023 05:10,26/05/2024 08:46
+SRVLOGIC-105,Story,Closed,SRVLOGIC,Serverless logic,software,Done,24/04/2023 05:04,24/10/2024 10:35
+SRVLOGIC-100,Story,New,SRVLOGIC,Serverless logic,software,,24/04/2023 04:50,
+SRVLOGIC-97,Story,In Progress,SRVLOGIC,Serverless logic,software,,24/04/2023 04:45,
+SRVLOGIC-91,Task,New,SRVLOGIC,Serverless logic,software,,24/04/2023 04:37,
+SRVLOGIC-90,Story,New,SRVLOGIC,Serverless logic,software,,24/04/2023 04:34,
+SRVLOGIC-85,Story,Closed,SRVLOGIC,Serverless logic,software,Done,21/04/2023 10:09,17/07/2024 08:10
+SRVLOGIC-84,Task,Release Pending,SRVLOGIC,Serverless logic,software,Done,18/04/2023 15:21,12/12/2023 10:32
+SRVLOGIC-83,Task,Closed,SRVLOGIC,Serverless logic,software,Done,11/04/2023 10:43,28/11/2023 09:44
+SRVLOGIC-82,Task,Closed,SRVLOGIC,Serverless logic,software,Done,05/04/2023 05:14,13/02/2024 11:58
+SRVLOGIC-80,Bug,Closed,SRVLOGIC,Serverless logic,software,Done,16/03/2023 14:17,17/07/2024 07:55
+SRVLOGIC-79,Bug,Closed,SRVLOGIC,Serverless logic,software,Done,16/03/2023 13:37,18/10/2023 15:15
+SRVLOGIC-77,Task,Closed,SRVLOGIC,Serverless logic,software,Done,14/03/2023 15:31,20/03/2024 07:17
+SRVLOGIC-76,Bug,Closed,SRVLOGIC,Serverless logic,software,Done,09/03/2023 10:35,14/03/2023 12:02
+SRVLOGIC-75,Task,Closed,SRVLOGIC,Serverless logic,software,Done,30/01/2023 11:55,23/02/2023 13:20
+SRVLOGIC-74,Story,Closed,SRVLOGIC,Serverless logic,software,Won't Do,23/01/2023 13:43,23/07/2024 12:42
+SRVLOGIC-73,Feature,Closed,SRVLOGIC,Serverless logic,software,Won't Do,20/01/2023 19:36,03/05/2023 20:05
+SRVLOGIC-72,Feature,Release Pending,SRVLOGIC,Serverless logic,software,Done,20/01/2023 19:29,17/07/2023 15:58
+SRVLOGIC-71,Story,Release Pending,SRVLOGIC,Serverless logic,software,Done,20/01/2023 19:24,10/08/2023 12:54
+SRVLOGIC-70,Feature,New,SRVLOGIC,Serverless logic,software,,20/01/2023 18:53,
+SRVLOGIC-69,Story,Closed,SRVLOGIC,Serverless logic,software,Done,19/01/2023 15:58,17/03/2023 13:30
+SRVLOGIC-68,Story,Release Pending,SRVLOGIC,Serverless logic,software,Done,19/01/2023 15:51,16/05/2023 11:41
+SRVLOGIC-67,Story,Closed,SRVLOGIC,Serverless logic,software,Done,19/01/2023 15:43,15/03/2023 09:25
+SRVLOGIC-66,Story,Closed,SRVLOGIC,Serverless logic,software,Done,19/01/2023 15:39,17/03/2023 12:12
+SRVLOGIC-65,Task,Closed,SRVLOGIC,Serverless logic,software,Done,17/01/2023 09:52,14/03/2023 11:29
+SRVLOGIC-64,Task,Closed,SRVLOGIC,Serverless logic,software,Done,06/12/2022 12:45,26/12/2022 05:34
+SRVLOGIC-63,Bug,Closed,SRVLOGIC,Serverless logic,software,Done,22/11/2022 14:09,24/11/2022 15:29
+SRVLOGIC-62,Feature,Closed,SRVLOGIC,Serverless logic,software,Done,21/11/2022 13:48,14/03/2023 15:19
+SRVLOGIC-61,Bug,Closed,SRVLOGIC,Serverless logic,software,Done,18/11/2022 11:14,16/01/2023 09:09
+SRVLOGIC-60,Story,Closed,SRVLOGIC,Serverless logic,software,Done,17/11/2022 13:44,13/01/2023 14:49
+SRVLOGIC-59,Task,Closed,SRVLOGIC,Serverless logic,software,Done,16/11/2022 18:43,16/01/2023 13:45
+SRVLOGIC-58,Bug,Closed,SRVLOGIC,Serverless logic,software,Done,14/11/2022 13:22,11/01/2023 09:43
+SRVLOGIC-57,Story,Closed,SRVLOGIC,Serverless logic,software,Done,14/11/2022 13:16,06/01/2023 07:46
+SRVLOGIC-56,Story,Closed,SRVLOGIC,Serverless logic,software,Done,14/11/2022 13:13,06/01/2023 07:51
+SRVLOGIC-55,Story,Closed,SRVLOGIC,Serverless logic,software,Done,14/11/2022 13:07,13/01/2023 14:11
+SRVLOGIC-54,Story,Closed,SRVLOGIC,Serverless logic,software,Done,17/10/2022 12:37,24/11/2022 16:50
+SRVLOGIC-53,Story,Closed,SRVLOGIC,Serverless logic,software,Done,17/10/2022 12:25,24/11/2022 10:09
+SRVLOGIC-52,Story,Closed,SRVLOGIC,Serverless logic,software,Done,17/10/2022 12:21,29/08/2023 16:56
+SRVLOGIC-51,Feature,Closed,SRVLOGIC,Serverless logic,software,Done,14/10/2022 19:06,20/03/2024 07:05
+SRVLOGIC-50,Feature,Closed,SRVLOGIC,Serverless logic,software,Done,14/10/2022 18:58,24/11/2022 18:13
+SRVLOGIC-49,Story,Release Pending,SRVLOGIC,Serverless logic,software,Done,13/10/2022 15:59,06/06/2023 08:02
+SRVLOGIC-48,Story,Closed,SRVLOGIC,Serverless logic,software,Done,13/10/2022 15:48,17/01/2023 10:00
+SRVLOGIC-47,Story,Closed,SRVLOGIC,Serverless logic,software,Done,13/10/2022 15:40,14/03/2023 14:35
+SRVLOGIC-46,Feature,Closed,SRVLOGIC,Serverless logic,software,Done,13/10/2022 15:33,12/01/2023 13:41
+SRVLOGIC-44,Bug,Closed,SRVLOGIC,Serverless logic,software,Done,26/09/2022 15:42,03/10/2022 13:41
+SRVLOGIC-43,Bug,Closed,SRVLOGIC,Serverless logic,software,Done,22/09/2022 16:29,29/09/2022 09:41
+SRVLOGIC-42,Task,Closed,SRVLOGIC,Serverless logic,software,Done,21/09/2022 12:22,10/01/2023 14:11
+SRVLOGIC-41,Task,Closed,SRVLOGIC,Serverless logic,software,Done,01/09/2022 15:20,28/11/2022 18:04
+SRVLOGIC-35,Task,Closed,SRVLOGIC,Serverless logic,software,Done,25/08/2022 07:57,12/09/2022 10:05
+SRVLOGIC-34,Task,Closed,SRVLOGIC,Serverless logic,software,Done,09/08/2022 09:15,04/10/2022 11:17
+SRVLOGIC-33,Task,Closed,SRVLOGIC,Serverless logic,software,Done,11/07/2022 14:19,03/10/2022 19:40
+SRVLOGIC-32,Task,Closed,SRVLOGIC,Serverless logic,software,Done,11/04/2022 13:43,19/01/2023 16:38
+SRVLOGIC-31,Task,Closed,SRVLOGIC,Serverless logic,software,Done,25/04/2022 11:44,24/08/2022 12:28
+SRVLOGIC-30,Task,Closed,SRVLOGIC,Serverless logic,software,Done,11/07/2022 14:48,01/08/2022 15:29
+SRVLOGIC-29,Task,Closed,SRVLOGIC,Serverless logic,software,Done,11/04/2022 13:45,16/01/2023 15:58
+SRVLOGIC-28,Task,Closed,SRVLOGIC,Serverless logic,software,Done,13/05/2022 12:26,11/08/2022 10:09
+SRVLOGIC-27,Task,Closed,SRVLOGIC,Serverless logic,software,Done,11/03/2022 10:55,09/08/2022 14:36
+SRVLOGIC-26,Task,Closed,SRVLOGIC,Serverless logic,software,Done,05/08/2022 09:09,04/10/2022 11:36
+SRVLOGIC-25,Story,Closed,SRVLOGIC,Serverless logic,software,Done,11/04/2022 13:57,05/08/2022 12:11
+SRVLOGIC-24,Story,Release Pending,SRVLOGIC,Serverless logic,software,Done,05/08/2022 09:18,12/09/2023 06:41
+SRVLOGIC-23,Story,Closed,SRVLOGIC,Serverless logic,software,Done,11/04/2022 13:59,11/10/2022 12:49
+SRVLOGIC-22,Story,Closed,SRVLOGIC,Serverless logic,software,Done,11/04/2022 13:56,13/01/2023 12:45
+SRVLOGIC-21,Story,Closed,SRVLOGIC,Serverless logic,software,Done,11/04/2022 13:58,09/08/2022 14:56
+SRVLOGIC-20,Story,New,SRVLOGIC,Serverless logic,software,,09/08/2022 15:47,
+SRVLOGIC-19,Story,Closed,SRVLOGIC,Serverless logic,software,Done,11/04/2022 13:57,08/08/2022 11:03
+SRVLOGIC-18,Story,Closed,SRVLOGIC,Serverless logic,software,Done,11/04/2022 13:54,09/08/2022 14:50
+SRVLOGIC-17,Story,Closed,SRVLOGIC,Serverless logic,software,Obsolete,02/05/2022 09:54,20/03/2024 12:57
+SRVLOGIC-16,Story,Closed,SRVLOGIC,Serverless logic,software,Done,25/04/2022 11:43,09/08/2022 14:34
+SRVLOGIC-15,Story,Closed,SRVLOGIC,Serverless logic,software,Done,02/08/2022 09:23,03/10/2022 10:16
+SRVLOGIC-14,Story,Closed,SRVLOGIC,Serverless logic,software,Done,11/04/2022 13:55,11/08/2022 10:09
+SRVLOGIC-13,Story,Closed,SRVLOGIC,Serverless logic,software,Done,29/04/2022 13:55,09/08/2022 12:06
+SRVLOGIC-12,Epic,Closed,SRVLOGIC,Serverless logic,software,Done,11/07/2022 14:31,16/01/2023 13:17
+SRVLOGIC-11,Feature,Closed,SRVLOGIC,Serverless logic,software,Done,11/04/2022 13:50,09/08/2022 14:51
+SRVLOGIC-10,Feature,Closed,SRVLOGIC,Serverless logic,software,Done,27/04/2022 15:30,09/08/2022 15:52
+SRVLOGIC-9,Feature,Closed,SRVLOGIC,Serverless logic,software,Done,11/04/2022 13:52,04/08/2022 14:41
+SRVLOGIC-8,Feature,Closed,SRVLOGIC,Serverless logic,software,Done,11/04/2022 13:47,09/08/2022 14:51
+SRVLOGIC-7,Feature,Closed,SRVLOGIC,Serverless logic,software,Done,09/08/2022 08:52,20/03/2023 10:40
+SRVLOGIC-6,Feature,Closed,SRVLOGIC,Serverless logic,software,Done,02/05/2022 10:17,16/08/2022 12:15
+SRVLOGIC-5,Feature,Closed,SRVLOGIC,Serverless logic,software,Done,25/04/2022 11:45,03/10/2022 07:43
+SRVLOGIC-4,Feature,Closed,SRVLOGIC,Serverless logic,software,Done,11/04/2022 13:53,04/08/2022 14:51
+SRVLOGIC-3,Feature,Closed,SRVLOGIC,Serverless logic,software,Done,11/04/2022 13:49,05/08/2022 12:07
+SRVLOGIC-2,Feature,Closed,SRVLOGIC,Serverless logic,software,Done,11/04/2022 13:51,09/08/2022 14:50
+SRVLOGIC-1,Feature,Closed,SRVLOGIC,Serverless logic,software,Done,11/04/2022 14:00,04/10/2022 09:04

@@ -1,5 +1,5 @@
 All PBIS - Unfiltered 
-Start date: 1901-01-01 12:01:00 End date: 2023-07-17 19:37:00
+Start date: 2001-10-31 00:00:00 End date: 2023-07-17 19:37:00
 System: {'TEIID': 5453}
 Types: {'Feature Request': 853, 'Bug': 2996, 'Task': 412, 'Enhancement': 631, 'Quality Risk': 549, 'Component Upgrade': 9, 'Release': 1, 'Patch': 2}
 Resolutions: {'Done': 4396, "Won't Do": 463, 'Duplicate': 172, "Can't Do": 36, 'Obsolete': 239, 'Cannot Reproduce': 36, '': 81, 'Not a Bug': 30}

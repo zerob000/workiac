@@ -1,0 +1,111 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+WFSSL-118,New Feature,Open,WFSSL,WildFly OpenSSL,software,,21/08/2024 16:32,
+WFSSL-117,Bug,Open,WFSSL,WildFly OpenSSL,software,,27/06/2024 14:00,
+WFSSL-116,Task,Open,WFSSL,WildFly OpenSSL,software,,13/03/2024 20:18,
+WFSSL-115,Task,Open,WFSSL,WildFly OpenSSL,software,,18/01/2023 16:25,
+WFSSL-114,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,18/01/2023 16:10,18/01/2023 17:01
+WFSSL-113,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,17/01/2023 17:41,17/01/2023 18:29
+WFSSL-112,Bug,Pull Request Sent,WFSSL,WildFly OpenSSL,software,,14/01/2023 01:27,
+WFSSL-111,Bug,Pull Request Sent,WFSSL,WildFly OpenSSL,software,,20/12/2022 13:37,
+WFSSL-110,Improvement,Resolved,WFSSL,WildFly OpenSSL,software,Done,04/11/2022 16:59,10/11/2022 20:51
+WFSSL-109,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,04/11/2022 15:23,04/11/2022 17:31
+WFSSL-108,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,04/11/2022 15:11,04/11/2022 17:33
+WFSSL-107,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,12/10/2022 14:59,28/03/2023 14:47
+WFSSL-106,Bug,Open,WFSSL,WildFly OpenSSL,software,,12/09/2022 14:28,
+WFSSL-105,Bug,Open,WFSSL,WildFly OpenSSL,software,,24/08/2022 13:37,
+WFSSL-104,Bug,Pull Request Sent,WFSSL,WildFly OpenSSL,software,,19/08/2022 09:30,
+WFSSL-103,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,03/08/2022 18:32,03/08/2022 18:47
+WFSSL-102,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,03/08/2022 09:32,03/08/2022 13:24
+WFSSL-101,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,29/07/2022 14:46,29/07/2022 14:58
+WFSSL-100,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,29/07/2022 14:44,29/07/2022 14:57
+WFSSL-99,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,15/06/2022 19:33,28/07/2022 22:23
+WFSSL-98,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,15/06/2022 19:31,28/07/2022 22:23
+WFSSL-97,Task,Open,WFSSL,WildFly OpenSSL,software,,13/06/2022 18:26,
+WFSSL-96,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,13/06/2022 18:14,28/07/2022 21:06
+WFSSL-95,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,10/05/2022 20:16,10/05/2022 20:46
+WFSSL-94,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,04/05/2022 13:45,10/05/2022 20:46
+WFSSL-93,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,03/02/2022 14:48,03/02/2022 15:00
+WFSSL-92,New Feature,Pull Request Sent,WFSSL,WildFly OpenSSL,software,,01/02/2022 15:47,
+WFSSL-90,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,27/01/2022 16:32,27/01/2022 22:52
+WFSSL-89,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,27/01/2022 16:17,28/01/2022 20:05
+WFSSL-88,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,27/01/2022 15:34,27/01/2022 22:51
+WFSSL-85,Bug,Open,WFSSL,WildFly OpenSSL,software,,10/12/2021 15:23,
+WFSSL-84,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,07/12/2021 17:19,25/01/2022 17:09
+WFSSL-83,Improvement,Coding In Progress,WFSSL,WildFly OpenSSL,software,,07/10/2021 15:11,
+WFSSL-82,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,18/10/2021 15:59,20/01/2022 20:02
+WFSSL-81,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,18/10/2021 14:40,25/01/2022 17:09
+WFSSL-80,New Feature,Resolved,WFSSL,WildFly OpenSSL,software,Done,07/10/2021 15:19,27/01/2022 22:52
+WFSSL-79,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,05/10/2021 15:00,06/10/2021 15:39
+WFSSL-78,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,19/09/2021 17:25,13/10/2021 19:51
+WFSSL-77,Bug,Open,WFSSL,WildFly OpenSSL,software,,01/09/2021 13:27,
+WFSSL-76,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,05/07/2021 21:23,06/10/2021 19:22
+WFSSL-75,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,18/05/2021 13:09,18/05/2021 17:09
+WFSSL-74,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,17/05/2021 21:57,18/05/2021 13:04
+WFSSL-73,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,30/04/2021 14:22,17/05/2021 15:14
+WFSSL-72,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,15/04/2021 15:14,21/04/2021 18:27
+WFSSL-71,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,15/04/2021 08:15,17/05/2021 15:13
+WFSSL-70,Improvement,Resolved,WFSSL,WildFly OpenSSL,software,Done,11/03/2021 09:04,08/04/2021 09:27
+WFSSL-69,New Feature,Open,WFSSL,WildFly OpenSSL,software,,28/02/2021 12:33,
+WFSSL-68,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,02/02/2021 15:28,02/02/2021 15:42
+WFSSL-67,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,12/01/2021 16:51,02/02/2021 14:41
+WFSSL-66,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,12/01/2021 16:40,02/02/2021 14:41
+WFSSL-65,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,03/12/2020 13:15,02/02/2021 15:26
+WFSSL-64,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,03/12/2020 10:59,03/12/2020 13:22
+WFSSL-63,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,03/12/2020 08:56,02/02/2021 14:59
+WFSSL-62,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,23/11/2020 15:42,03/12/2020 12:46
+WFSSL-61,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,23/11/2020 15:35,03/12/2020 12:45
+WFSSL-60,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,16/11/2020 20:48,03/12/2020 12:44
+WFSSL-59,Bug,Open,WFSSL,WildFly OpenSSL,software,,03/11/2020 08:46,
+WFSSL-58,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,27/10/2020 10:25,27/10/2020 11:08
+WFSSL-57,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,26/10/2020 09:53,28/10/2020 10:30
+WFSSL-56,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,23/10/2020 09:30,26/10/2020 10:15
+WFSSL-55,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,05/10/2020 10:23,06/10/2020 10:03
+WFSSL-54,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,30/09/2020 14:44,02/10/2020 12:10
+WFSSL-53,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,30/09/2020 14:42,02/10/2020 12:10
+WFSSL-51,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,22/09/2020 02:43,30/09/2020 14:46
+WFSSL-50,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,11/09/2020 11:34,11/09/2020 11:54
+WFSSL-49,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,11/09/2020 11:30,11/09/2020 11:54
+WFSSL-48,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,10/09/2020 18:24,11/09/2020 11:54
+WFSSL-47,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,09/09/2020 17:41,11/09/2020 11:54
+WFSSL-46,Task,Reopened,WFSSL,WildFly OpenSSL,software,,08/09/2020 16:22,
+WFSSL-45,Bug,Open,WFSSL,WildFly OpenSSL,software,,26/08/2020 17:53,
+WFSSL-42,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,20/08/2020 15:09,24/08/2020 11:04
+WFSSL-41,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,07/08/2020 09:33,07/08/2020 13:21
+WFSSL-40,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,31/07/2020 10:16,07/08/2020 09:29
+WFSSL-39,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,31/07/2020 10:00,07/08/2020 09:29
+WFSSL-37,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,20/07/2020 14:43,20/08/2020 10:23
+WFSSL-36,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,17/07/2020 12:49,09/09/2020 13:36
+WFSSL-35,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,14/07/2020 09:34,20/07/2020 10:05
+WFSSL-34,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,13/07/2020 11:44,14/07/2020 09:33
+WFSSL-33,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,13/05/2020 10:54,14/05/2020 13:44
+WFSSL-32,Task,Open,WFSSL,WildFly OpenSSL,software,,09/04/2020 11:21,
+WFSSL-31,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,07/04/2020 13:33,13/05/2020 10:58
+WFSSL-30,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,12/03/2020 13:33,17/03/2020 13:44
+WFSSL-28,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,10/02/2020 13:36,17/03/2020 13:49
+WFSSL-27,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,10/02/2020 12:07,10/02/2020 13:35
+WFSSL-26,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,14/01/2020 13:53,17/03/2020 13:49
+WFSSL-25,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,14/01/2020 10:44,14/01/2020 14:22
+WFSSL-24,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,07/01/2020 16:54,17/03/2020 13:48
+WFSSL-23,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,10/12/2019 11:23,10/12/2019 13:39
+WFSSL-22,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,10/12/2019 11:03,11/12/2019 11:20
+WFSSL-21,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,29/11/2019 09:51,17/03/2020 13:43
+WFSSL-20,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,27/11/2019 15:14,10/12/2019 11:16
+WFSSL-19,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,27/11/2019 04:06,10/12/2019 11:13
+WFSSL-18,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Obsolete,27/11/2019 02:45,17/09/2020 14:38
+WFSSL-17,Task,Closed,WFSSL,WildFly OpenSSL,software,Won't Do,27/11/2019 02:42,27/08/2020 02:33
+WFSSL-16,Improvement,Resolved,WFSSL,WildFly OpenSSL,software,Done,27/11/2019 02:41,09/09/2020 13:35
+WFSSL-15,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,30/09/2019 09:53,10/12/2019 11:54
+WFSSL-14,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,24/06/2019 01:35,01/09/2019 15:04
+WFSSL-13,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,17/06/2019 17:18,17/06/2019 17:47
+WFSSL-12,Task,Resolved,WFSSL,WildFly OpenSSL,software,Done,17/06/2019 17:07,17/06/2019 17:47
+WFSSL-11,New Feature,Resolved,WFSSL,WildFly OpenSSL,software,Done,14/06/2019 03:31,17/06/2019 17:15
+WFSSL-10,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,25/01/2019 08:35,07/06/2019 08:24
+WFSSL-9,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,10/04/2018 22:30,11/04/2018 23:16
+WFSSL-8,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,30/10/2017 19:21,01/11/2017 16:42
+WFSSL-7,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,28/08/2017 15:41,29/08/2017 04:12
+WFSSL-6,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,16/08/2017 20:30,16/08/2017 20:32
+WFSSL-5,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,15/08/2017 23:21,16/08/2017 20:32
+WFSSL-4,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,15/08/2017 17:54,16/08/2017 20:32
+WFSSL-3,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,15/08/2017 10:55,16/08/2017 20:32
+WFSSL-2,Bug,Resolved,WFSSL,WildFly OpenSSL,software,Done,16/06/2017 03:18,21/06/2017 22:30
+WFSSL-1,Bug,Closed,WFSSL,WildFly OpenSSL,software,Done,24/05/2017 05:51,24/05/2017 23:48

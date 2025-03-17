@@ -1,5 +1,5 @@
 All PBIS - Unfiltered 
-Start date: 1901-01-01 12:01:00 End date: 2024-11-13 16:19:00
+Start date: 2013-05-01 12:31:00 End date: 2024-11-13 16:19:00
 System: {'RHPAM': 3276}
 Types: {'Bug': 2560, 'Enhancement': 319, 'Task': 269, 'Feature Request': 73, 'Component Upgrade': 14, 'Requirement': 15, 'Support Patch': 26}
 Resolutions: {'Done': 2146, 'Obsolete': 412, 'Cannot Reproduce': 81, 'Duplicate': 157, "Won't Do": 272, 'Not a Bug': 85, '': 108, "Can't Do": 5, 'Done-Errata': 10}

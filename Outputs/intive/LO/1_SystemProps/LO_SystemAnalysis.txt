@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2017-01-23 13:41:00 End date: 2017-06-09 11:13:00
+System: {'TWCGS3': 560}
+Types: {'Bug': 63, 'Improvement': 2, 'Story': 133, 'Technical Task': 354, 'Epic': 8}
+Resolutions: {'Closed': 144, 'Open': 69, 'Resolved': 341, 'In progress': 2, 'Reopened': 4}
+Statuses: {'Closed': 144, 'Open': 69, 'Resolved': 341, 'In progress': 2, 'Reopened': 4}
+
+Average Lead Time (all PBIs): 8.5 days
+Average Lead Time (Bug): 12.4 days
+Average Lead Time (Improvement): 9.5 days
+Average Lead Time (Technical Task): 3.1 days
+Average Lead Time (Story): 27.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2017-03-01 11:13:00 End date: 2017-06-09 11:13:00
+System: {'TWCGS3': 381}
+Types: {'Bug': 56, 'Improvement': 2, 'Story': 68, 'Technical Task': 255}
+Resolutions: {'Closed': 104, 'Open': 26, 'Resolved': 246, 'In progress': 1, 'Reopened': 4}
+Statuses: {'Closed': 104, 'Open': 26, 'Resolved': 246, 'In progress': 1, 'Reopened': 4}
+
+Average Lead Time (all PBIs): 10.1 days
+Average Lead Time (Bug): 13.8 days
+Average Lead Time (Improvement): 9.5 days
+Average Lead Time (Technical Task): 3.5 days
+Average Lead Time (Story): 37.6 days

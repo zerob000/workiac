@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2014-10-21 15:03:00 End date: 2015-12-30 15:14:00
+System: {'QLIKVIEW': 75}
+Types: {'Task': 14, 'Bug': 40, 'Sub-task': 16, 'Improvement': 5}
+Resolutions: {'Open': 15, 'Resolved': 51, 'Closed': 9}
+Statuses: {'Open': 15, 'Resolved': 51, 'Closed': 9}
+
+Average Lead Time (all PBIs): 13.4 days
+Average Lead Time (Bug): 16.2 days
+Average Lead Time (Sub-task): 7.9 days
+Average Lead Time (Task): 12.8 days
+Average Lead Time (Improvement): 8.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2015-09-21 15:14:00 End date: 2015-12-30 15:14:00
+System: {'QLIKVIEW': 10}
+Types: {'Task': 2, 'Bug': 7, 'Sub-task': 1}
+Resolutions: {'Open': 1, 'Resolved': 9}
+Statuses: {'Open': 1, 'Resolved': 9}
+
+Average Lead Time (all PBIs): 9.3 days
+Average Lead Time (Bug): 0.4 days
+Average Lead Time (Task): 40.0 days
+Average Lead Time (Sub-task): 41.0 days

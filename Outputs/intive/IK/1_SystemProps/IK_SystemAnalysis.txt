@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2009-11-06 12:09:00 End date: 2011-10-05 12:57:00
+System: {'PIXTOOL': 83}
+Types: {'Task': 6, 'Improvement': 13, 'Bug': 63, 'OBSOLETE: IT: Add user to a group': 1}
+Resolutions: {'Resolved': 28, 'Open': 30, 'Closed': 25}
+Statuses: {'Resolved': 28, 'Open': 30, 'Closed': 25}
+
+Average Lead Time (all PBIs): 55.1 days
+Average Lead Time (Task): 1.8 days
+Average Lead Time (Bug): 62.3 days
+Average Lead Time (OBSOLETE: IT: Add user to a group): 0.0 days
+Average Lead Time (Improvement): 59.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2011-06-27 12:57:00 End date: 2011-10-05 12:57:00
+System: {'PIXTOOL': 3}
+Types: {'Task': 3}
+Resolutions: {'Resolved': 3}
+Statuses: {'Resolved': 3}
+
+Average Lead Time (all PBIs): 3.0 days
+Average Lead Time (Task): 3.0 days

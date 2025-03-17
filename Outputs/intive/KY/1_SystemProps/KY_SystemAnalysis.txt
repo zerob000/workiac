@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2016-09-01 15:56:00 End date: 2018-02-01 09:22:00
+System: {'TAKTOR': 653}
+Types: {'Task': 88, 'Sub-task': 327, 'Bug': 77, 'Improvement': 12, 'New Feature': 102, 'Epic': 16, 'Sub-bug': 31}
+Resolutions: {'To Do': 61, 'Rejected': 5, 'Done': 576, 'In progress': 11}
+Statuses: {'To Do': 61, 'Rejected': 5, 'Done': 576, 'In progress': 11}
+
+Average Lead Time (all PBIs): 29.3 days
+Average Lead Time (Sub-task): 17.0 days
+Average Lead Time (Task): 38.4 days
+Average Lead Time (Bug): 11.4 days
+Average Lead Time (Improvement): 7.3 days
+Average Lead Time (New Feature): 82.0 days
+Average Lead Time (Sub-bug): 27.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2017-10-24 09:22:00 End date: 2018-02-01 09:22:00
+System: {'TAKTOR': 12}
+Types: {'Task': 7, 'Sub-task': 3, 'Bug': 1, 'New Feature': 1}
+Resolutions: {'To Do': 5, 'Rejected': 1, 'Done': 5, 'In progress': 1}
+Statuses: {'To Do': 5, 'Rejected': 1, 'Done': 5, 'In progress': 1}
+
+Average Lead Time (all PBIs): 85.8 days
+Average Lead Time (Sub-task): 0.0 days
+Average Lead Time (Task): 0.0 days
+Average Lead Time (Bug): 4.0 days
+Average Lead Time (New Feature): 425.0 days

@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 2011-05-20 15:57:00 End date: 2012-11-27 14:18:00
+System: {'FSECCP': 74}
+Types: {'Task': 25, 'Bug': 12, 'Urlop wypoczynkowy': 2, 'Training (technical)': 1, 'Internal Bug sub-task': 6, 'Sub-task': 25, 'Issue': 3}
+Resolutions: {'Closed': 62, 'Resolved': 12}
+Statuses: {'Closed': 62, 'Resolved': 12}
+
+Average Lead Time (all PBIs): 217.8 days
+Average Lead Time (Task): 297.4 days
+Average Lead Time (Bug): 152.1 days
+Average Lead Time (Urlop wypoczynkowy): 0.0 days
+Average Lead Time (Training (technical)): 491.0 days
+Average Lead Time (Internal Bug sub-task): 127.5 days
+Average Lead Time (Sub-task): 207.6 days
+Average Lead Time (Issue): 136.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2012-08-19 14:18:00 End date: 2012-11-27 14:18:00
+System: {'FSECCP': 10}
+Types: {'Task': 4, 'Bug': 3, 'Training (technical)': 1, 'Sub-task': 2}
+Resolutions: {'Closed': 10}
+Statuses: {'Closed': 10}
+
+Average Lead Time (all PBIs): 408.6 days
+Average Lead Time (Task): 376.0 days
+Average Lead Time (Bug): 357.3 days
+Average Lead Time (Training (technical)): 491.0 days
+Average Lead Time (Sub-task): 509.5 days

@@ -1,0 +1,211 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+WTO-315,Bug,Open,WTO,Web Terminal for OpenShift,software,,08/11/2024 15:07,
+WTO-314,Feature,Closed,WTO,Web Terminal for OpenShift,software,Done-Errata,18/10/2024 19:49,23/10/2024 00:19
+WTO-313,Bug,Open,WTO,Web Terminal for OpenShift,software,,18/10/2024 12:14,
+WTO-312,Bug,Open,WTO,Web Terminal for OpenShift,software,,01/10/2024 22:00,
+WTO-310,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,26/09/2024 10:57,02/10/2024 15:09
+WTO-308,Task,Open,WTO,Web Terminal for OpenShift,software,,18/09/2024 11:28,
+WTO-307,Feature,Open,WTO,Web Terminal for OpenShift,software,,13/09/2024 14:55,
+WTO-306,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,10/09/2024 20:38,28/09/2024 21:19
+WTO-305,Bug,Coding In Progress,WTO,Web Terminal for OpenShift,software,,29/08/2024 12:51,
+WTO-304,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,03/09/2024 09:08,10/09/2024 13:48
+WTO-302,Bug,Closed,WTO,Web Terminal for OpenShift,software,Done,12/08/2024 16:05,13/08/2024 15:00
+WTO-301,Feature,Closed,WTO,Web Terminal for OpenShift,software,Done-Errata,08/08/2024 15:23,13/08/2024 00:28
+WTO-299,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,31/07/2024 13:19,01/08/2024 16:39
+WTO-298,Task,Resolved,WTO,Web Terminal for OpenShift,software,Done,25/07/2024 20:40,15/08/2024 13:22
+WTO-297,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,19/07/2024 10:55,19/07/2024 15:11
+WTO-296,Feature Request,Open,WTO,Web Terminal for OpenShift,software,,17/07/2024 01:19,
+WTO-295,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,11/07/2024 23:41,18/07/2024 10:12
+WTO-293,Feature,Closed,WTO,Web Terminal for OpenShift,software,Done,09/07/2024 17:46,13/09/2024 14:27
+WTO-292,Task,Open,WTO,Web Terminal for OpenShift,software,,04/07/2024 13:48,
+WTO-291,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,02/07/2024 12:24,05/07/2024 15:58
+WTO-290,Feature,Open,WTO,Web Terminal for OpenShift,software,,25/06/2024 15:52,
+WTO-288,Task,Resolved,WTO,Web Terminal for OpenShift,software,Done,07/06/2024 17:20,07/06/2024 17:21
+WTO-287,Feature,Open,WTO,Web Terminal for OpenShift,software,,04/06/2024 19:14,
+WTO-286,Feature,Open,WTO,Web Terminal for OpenShift,software,,04/06/2024 18:55,
+WTO-285,Feature,Open,WTO,Web Terminal for OpenShift,software,,03/06/2024 18:31,
+WTO-284,Bug,Open,WTO,Web Terminal for OpenShift,software,,17/05/2024 21:44,
+WTO-281,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,03/05/2024 11:31,07/05/2024 13:54
+WTO-279,Bug,Closed,WTO,Web Terminal for OpenShift,software,Done,29/04/2024 15:47,01/05/2024 16:01
+WTO-277,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,29/04/2024 12:41,29/04/2024 15:45
+WTO-276,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,24/04/2024 11:08,07/05/2024 13:54
+WTO-275,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,16/04/2024 11:11,24/04/2024 10:44
+WTO-270,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,12/04/2024 14:19,24/04/2024 10:50
+WTO-269,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,10/04/2024 11:56,26/04/2024 10:39
+WTO-265,Task,Resolved,WTO,Web Terminal for OpenShift,software,Done,03/04/2024 14:56,28/08/2024 14:52
+WTO-264,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,02/04/2024 09:55,03/04/2024 12:35
+WTO-263,Feature,Closed,WTO,Web Terminal for OpenShift,software,Done-Errata,28/03/2024 18:52,02/04/2024 21:57
+WTO-262,Bug,Open,WTO,Web Terminal for OpenShift,software,,28/03/2024 18:30,
+WTO-260,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,24/03/2024 22:26,03/04/2024 12:41
+WTO-259,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,21/03/2024 14:54,02/04/2024 09:58
+WTO-258,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,15/03/2024 15:58,15/03/2024 16:01
+WTO-257,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,15/03/2024 15:54,13/05/2024 13:57
+WTO-252,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,07/03/2024 15:06,15/03/2024 15:49
+WTO-248,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,05/03/2024 11:29,05/03/2024 11:31
+WTO-247,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,05/03/2024 11:19,06/03/2024 16:56
+WTO-245,Bug,Closed,WTO,Web Terminal for OpenShift,software,Done,26/02/2024 09:36,13/05/2024 13:58
+WTO-241,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,16/02/2024 15:44,26/04/2024 17:52
+WTO-238,Task,Resolved,WTO,Web Terminal for OpenShift,software,Done,13/02/2024 16:11,16/02/2024 15:30
+WTO-237,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,02/02/2024 18:23,10/05/2024 17:26
+WTO-236,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,15/01/2024 14:34,17/01/2024 15:37
+WTO-235,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,04/01/2024 14:51,15/01/2024 09:26
+WTO-234,Epic,Open,WTO,Web Terminal for OpenShift,software,,21/12/2023 14:14,
+WTO-233,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,19/12/2023 14:16,04/01/2024 14:47
+WTO-232,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,14/12/2023 13:17,20/12/2023 14:10
+WTO-227,Feature Request,Closed,WTO,Web Terminal for OpenShift,software,Done,01/12/2023 13:49,01/12/2023 13:52
+WTO-225,Task,Open,WTO,Web Terminal for OpenShift,software,,09/11/2023 15:58,
+WTO-224,Outcome,Open,WTO,Web Terminal for OpenShift,software,,10/11/2023 14:52,
+WTO-223,Outcome,Open,WTO,Web Terminal for OpenShift,software,,10/11/2023 14:44,
+WTO-222,Epic,Open,WTO,Web Terminal for OpenShift,software,,10/11/2023 14:42,
+WTO-221,Epic,Closed,WTO,Web Terminal for OpenShift,software,Done,10/11/2023 13:10,04/07/2024 13:32
+WTO-219,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,10/11/2023 10:09,20/12/2023 14:24
+WTO-218,Epic,Closed,WTO,Web Terminal for OpenShift,software,Done,09/11/2023 23:53,30/01/2024 14:21
+WTO-217,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,30/10/2023 14:26,28/11/2023 12:46
+WTO-213,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,12/10/2023 08:52,19/04/2024 13:52
+WTO-212,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,12/10/2023 08:45,15/01/2024 09:34
+WTO-209,Feature Request,Closed,WTO,Web Terminal for OpenShift,software,Done-Errata,08/09/2023 18:40,12/12/2023 01:59
+WTO-208,Bug,Closed,WTO,Web Terminal for OpenShift,software,Done-Errata,07/09/2023 11:41,12/12/2023 01:59
+WTO-207,Task,Closed,WTO,Web Terminal for OpenShift,software,Obsolete,25/08/2023 23:12,29/01/2024 19:26
+WTO-206,Task,Closed,WTO,Web Terminal for OpenShift,software,Done-Errata,25/08/2023 23:11,08/11/2023 15:57
+WTO-205,Task,Closed,WTO,Web Terminal for OpenShift,software,Done-Errata,25/08/2023 23:08,08/11/2023 17:31
+WTO-204,Task,Closed,WTO,Web Terminal for OpenShift,software,Done-Errata,25/08/2023 23:08,08/11/2023 13:19
+WTO-203,Epic,Open,WTO,Web Terminal for OpenShift,software,,16/08/2023 15:15,
+WTO-201,Epic,Open,WTO,Web Terminal for OpenShift,software,,02/08/2023 17:26,
+WTO-184,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,26/05/2023 20:15,06/06/2023 10:54
+WTO-183,Epic,Open,WTO,Web Terminal for OpenShift,software,,19/05/2023 14:02,
+WTO-178,Feature Request,Open,WTO,Web Terminal for OpenShift,software,,09/05/2023 19:33,
+WTO-177,Bug,Closed,WTO,Web Terminal for OpenShift,software,Done-Errata,09/05/2023 18:22,12/12/2023 01:59
+WTO-176,Bug,Closed,WTO,Web Terminal for OpenShift,software,Done,09/05/2023 18:19,06/06/2023 10:54
+WTO-175,Bug,Open,WTO,Web Terminal for OpenShift,software,,28/04/2023 16:50,
+WTO-169,Task,Resolved,WTO,Web Terminal for OpenShift,software,Done,08/03/2023 10:41,19/04/2023 13:08
+WTO-168,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,17/03/2023 15:50,09/11/2023 23:28
+WTO-167,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,17/03/2023 15:29,27/09/2023 14:55
+WTO-166,Feature Request,Closed,WTO,Web Terminal for OpenShift,software,Done,17/02/2023 21:55,06/06/2023 10:54
+WTO-156,Feature Request,Resolved,WTO,Web Terminal for OpenShift,software,Done,23/11/2022 12:20,18/10/2023 19:38
+WTO-155,Task,Resolved,WTO,Web Terminal for OpenShift,software,Done,22/11/2022 10:27,09/01/2023 16:12
+WTO-154,Task,Reopened,WTO,Web Terminal for OpenShift,software,,22/09/2022 15:18,
+WTO-153,Bug,Closed,WTO,Web Terminal for OpenShift,software,Done,19/09/2022 20:44,16/11/2022 17:52
+WTO-151,Bug,Closed,WTO,Web Terminal for OpenShift,software,Done,07/09/2022 14:55,28/02/2023 19:31
+WTO-150,Epic,Closed,WTO,Web Terminal for OpenShift,software,Done,26/08/2022 15:49,29/01/2024 19:21
+WTO-149,Feature,Closed,WTO,Web Terminal for OpenShift,software,Done,26/08/2022 15:45,28/02/2023 19:31
+WTO-148,Task,Open,WTO,Web Terminal for OpenShift,software,,26/08/2022 15:38,
+WTO-146,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,26/08/2022 14:25,29/01/2024 19:23
+WTO-145,Feature Request,Closed,WTO,Web Terminal for OpenShift,software,Done,23/08/2022 18:17,27/09/2022 10:39
+WTO-142,Task,Resolved,WTO,Web Terminal for OpenShift,software,Done,08/08/2022 16:36,25/08/2022 20:09
+WTO-140,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,05/08/2022 16:48,09/08/2022 11:34
+WTO-132,Bug,Resolved,WTO,Web Terminal for OpenShift,software,Not a Bug,15/07/2022 11:50,22/07/2022 15:19
+WTO-131,Bug,Closed,WTO,Web Terminal for OpenShift,software,Cannot Reproduce,29/06/2022 11:29,10/08/2023 20:15
+WTO-130,Feature Request,Resolved,WTO,Web Terminal for OpenShift,software,Done,13/06/2022 08:37,14/06/2022 13:49
+WTO-129,Feature Request,Closed,WTO,Web Terminal for OpenShift,software,Done,19/05/2022 12:19,27/09/2022 10:40
+WTO-128,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,04/05/2022 02:52,26/06/2023 20:53
+WTO-127,Feature,Open,WTO,Web Terminal for OpenShift,software,,19/04/2022 20:55,
+WTO-126,Feature Request,Closed,WTO,Web Terminal for OpenShift,software,Done,14/04/2022 18:23,27/09/2022 10:39
+WTO-125,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,04/02/2022 07:24,03/05/2022 21:29
+WTO-124,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,04/02/2022 06:56,11/03/2022 15:51
+WTO-123,Bug,Closed,WTO,Web Terminal for OpenShift,software,Done,31/01/2022 14:24,03/05/2022 21:26
+WTO-122,Epic,Resolved,WTO,Web Terminal for OpenShift,software,Won't Do,19/01/2022 12:44,10/08/2023 20:14
+WTO-121,Epic,Open,WTO,Web Terminal for OpenShift,software,,19/01/2022 12:29,
+WTO-120,Epic,Open,WTO,Web Terminal for OpenShift,software,,17/12/2021 19:40,
+WTO-119,Feature Request,Open,WTO,Web Terminal for OpenShift,software,,06/12/2021 15:29,
+WTO-118,Feature Request,Open,WTO,Web Terminal for OpenShift,software,,02/12/2021 13:33,
+WTO-117,Bug,Closed,WTO,Web Terminal for OpenShift,software,Done,15/11/2021 18:31,16/11/2021 17:32
+WTO-116,Bug,Open,WTO,Web Terminal for OpenShift,software,,10/11/2021 15:00,
+WTO-115,Bug,Closed,WTO,Web Terminal for OpenShift,software,Done,04/11/2021 14:14,10/03/2022 16:36
+WTO-114,Feature Request,Open,WTO,Web Terminal for OpenShift,software,,21/10/2021 10:10,
+WTO-113,Bug,Closed,WTO,Web Terminal for OpenShift,software,Done,05/10/2021 13:22,26/10/2021 16:55
+WTO-112,Task,Resolved,WTO,Web Terminal for OpenShift,software,Done,30/08/2021 14:07,08/11/2023 12:32
+WTO-111,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,23/08/2021 20:16,01/09/2021 16:18
+WTO-110,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,12/08/2021 11:23,30/11/2021 13:34
+WTO-109,Feature Request,Closed,WTO,Web Terminal for OpenShift,software,Done,12/08/2021 11:16,01/09/2021 16:18
+WTO-108,Feature Request,Open,WTO,Web Terminal for OpenShift,software,,09/08/2021 07:36,
+WTO-107,Task,Open,WTO,Web Terminal for OpenShift,software,,04/08/2021 19:28,
+WTO-106,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,19/07/2021 20:00,28/07/2021 12:38
+WTO-105,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,09/07/2021 12:47,28/07/2021 12:39
+WTO-102,Task,Resolved,WTO,Web Terminal for OpenShift,software,Done,15/06/2021 08:34,10/08/2023 20:09
+WTO-101,Feature Request,Closed,WTO,Web Terminal for OpenShift,software,Done,10/06/2021 10:28,23/07/2021 14:15
+WTO-100,Bug,Closed,WTO,Web Terminal for OpenShift,software,Not a Bug,09/06/2021 13:05,15/06/2021 08:36
+WTO-99,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,04/06/2021 13:59,29/11/2021 14:38
+WTO-98,Feature Request,Resolved,WTO,Web Terminal for OpenShift,software,Done,03/06/2021 20:54,26/05/2022 15:41
+WTO-97,Feature Request,Open,WTO,Web Terminal for OpenShift,software,,03/06/2021 20:50,
+WTO-91,Bug,Closed,WTO,Web Terminal for OpenShift,software,Cannot Reproduce,26/04/2021 13:57,10/08/2023 20:04
+WTO-90,Feature,Closed,WTO,Web Terminal for OpenShift,software,Done,22/04/2021 20:29,03/05/2021 14:35
+WTO-89,Bug,Closed,WTO,Web Terminal for OpenShift,software,Done,14/04/2021 10:34,16/04/2021 12:12
+WTO-88,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,08/04/2021 10:22,27/04/2021 03:10
+WTO-87,Feature,Open,WTO,Web Terminal for OpenShift,software,,05/04/2021 11:21,
+WTO-86,Bug,Closed,WTO,Web Terminal for OpenShift,software,Done,31/03/2021 13:58,07/06/2021 14:05
+WTO-85,Task,Open,WTO,Web Terminal for OpenShift,software,,31/03/2021 04:08,
+WTO-84,Feature Request,Resolved,WTO,Web Terminal for OpenShift,software,Done,31/03/2021 03:57,26/08/2022 18:44
+WTO-83,Feature,Closed,WTO,Web Terminal for OpenShift,software,Done,30/03/2021 03:52,16/06/2021 11:57
+WTO-82,Feature,Closed,WTO,Web Terminal for OpenShift,software,Done,29/03/2021 15:00,30/04/2021 13:02
+WTO-81,Feature,Open,WTO,Web Terminal for OpenShift,software,,26/03/2021 10:02,
+WTO-80,Feature,Closed,WTO,Web Terminal for OpenShift,software,Done,25/03/2021 15:15,09/08/2021 07:37
+WTO-79,Feature,Open,WTO,Web Terminal for OpenShift,software,,25/03/2021 14:15,
+WTO-78,Feature,Closed,WTO,Web Terminal for OpenShift,software,Obsolete,23/03/2021 09:14,29/01/2024 19:20
+WTO-77,Bug,Closed,WTO,Web Terminal for OpenShift,software,Done,17/03/2021 13:55,22/03/2021 11:19
+WTO-76,Feature,Closed,WTO,Web Terminal for OpenShift,software,Done,16/03/2021 15:15,09/08/2021 12:48
+WTO-74,Feature,Closed,WTO,Web Terminal for OpenShift,software,Done,03/03/2021 19:26,07/09/2021 13:11
+WTO-73,Epic,Closed,WTO,Web Terminal for OpenShift,software,Done,11/02/2021 06:35,08/11/2023 12:32
+WTO-71,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,06/01/2021 09:54,08/03/2021 08:22
+WTO-70,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,11/12/2020 03:18,15/03/2021 09:25
+WTO-69,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,11/12/2020 03:16,24/05/2021 13:54
+WTO-68,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,11/12/2020 03:15,13/06/2021 20:50
+WTO-67,Task,Resolved,WTO,Web Terminal for OpenShift,software,Done,10/12/2020 11:19,15/03/2021 09:31
+WTO-66,Epic,Closed,WTO,Web Terminal for OpenShift,software,Done,10/12/2020 10:42,13/11/2023 09:02
+WTO-65,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,10/12/2020 07:20,27/04/2021 03:10
+WTO-64,Bug,Closed,WTO,Web Terminal for OpenShift,software,Done,09/12/2020 11:33,07/09/2021 12:21
+WTO-63,Bug,Closed,WTO,Web Terminal for OpenShift,software,Cannot Reproduce,08/12/2020 09:45,10/08/2023 20:02
+WTO-62,Feature,Closed,WTO,Web Terminal for OpenShift,software,Won't Do,30/11/2020 08:10,10/08/2023 20:02
+WTO-60,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,19/11/2020 07:59,10/08/2023 20:02
+WTO-59,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,19/11/2020 04:21,02/03/2021 05:54
+WTO-58,Bug,Closed,WTO,Web Terminal for OpenShift,software,Done,17/11/2020 09:10,01/12/2020 08:59
+WTO-57,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,27/10/2020 07:17,04/11/2020 20:30
+WTO-56,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,30/09/2020 04:05,26/10/2020 14:28
+WTO-55,Task,Resolved,WTO,Web Terminal for OpenShift,software,Done,30/09/2020 03:41,26/08/2022 18:46
+WTO-54,Feature Request,Open,WTO,Web Terminal for OpenShift,software,,24/09/2020 11:54,
+WTO-53,Bug,Closed,WTO,Web Terminal for OpenShift,software,Done,24/09/2020 04:38,10/08/2023 20:00
+WTO-52,Bug,Closed,WTO,Web Terminal for OpenShift,software,Done,24/09/2020 04:29,26/10/2020 14:38
+WTO-51,Feature Request,Open,WTO,Web Terminal for OpenShift,software,,23/09/2020 21:03,
+WTO-50,Feature Request,Open,WTO,Web Terminal for OpenShift,software,,23/09/2020 20:55,
+WTO-49,Feature,Closed,WTO,Web Terminal for OpenShift,software,Done,17/09/2020 11:19,30/09/2020 03:48
+WTO-48,Feature,Closed,WTO,Web Terminal for OpenShift,software,Done,17/09/2020 11:15,10/08/2023 19:59
+WTO-47,Feature,Closed,WTO,Web Terminal for OpenShift,software,Done,09/09/2020 06:50,04/12/2020 07:10
+WTO-46,Feature Request,Closed,WTO,Web Terminal for OpenShift,software,Done,08/09/2020 15:58,10/08/2023 19:59
+WTO-45,Bug,Closed,WTO,Web Terminal for OpenShift,software,Cannot Reproduce,26/08/2020 06:51,10/08/2023 19:57
+WTO-44,Bug,Closed,WTO,Web Terminal for OpenShift,software,Done,26/08/2020 06:36,26/05/2022 15:43
+WTO-43,Bug,Closed,WTO,Web Terminal for OpenShift,software,Cannot Reproduce,25/08/2020 10:56,10/08/2023 19:56
+WTO-42,Task,Resolved,WTO,Web Terminal for OpenShift,software,Done,25/08/2020 06:03,09/09/2020 05:54
+WTO-41,Task,Resolved,WTO,Web Terminal for OpenShift,software,Done,21/08/2020 09:55,09/09/2020 03:56
+WTO-40,Bug,Closed,WTO,Web Terminal for OpenShift,software,Won't Do,18/08/2020 06:36,10/08/2023 19:55
+WTO-39,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,18/08/2020 04:57,25/08/2020 08:29
+WTO-38,Bug,Closed,WTO,Web Terminal for OpenShift,software,Done,06/08/2020 14:25,08/09/2020 16:03
+WTO-37,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,05/08/2020 03:10,02/09/2020 05:00
+WTO-36,Task,Resolved,WTO,Web Terminal for OpenShift,software,Done,30/07/2020 11:11,01/09/2020 05:17
+WTO-35,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,29/07/2020 11:04,30/07/2020 10:18
+WTO-34,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,27/07/2020 11:06,28/07/2020 08:26
+WTO-33,Task,Resolved,WTO,Web Terminal for OpenShift,software,Done,24/07/2020 08:50,18/08/2020 07:55
+WTO-32,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,24/07/2020 08:34,27/07/2020 10:13
+WTO-29,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,21/07/2020 04:06,21/07/2020 09:26
+WTO-27,Task,Resolved,WTO,Web Terminal for OpenShift,software,Done,16/07/2020 10:53,20/07/2020 02:43
+WTO-26,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,15/07/2020 11:30,13/11/2023 09:52
+WTO-25,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,15/07/2020 06:43,23/07/2020 11:14
+WTO-24,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,14/07/2020 11:01,31/07/2020 02:48
+WTO-23,Task,Resolved,WTO,Web Terminal for OpenShift,software,Done,14/07/2020 09:52,16/09/2020 03:22
+WTO-22,Epic,Closed,WTO,Web Terminal for OpenShift,software,Done,14/07/2020 08:59,16/09/2020 16:57
+WTO-21,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,10/07/2020 07:06,14/07/2020 04:06
+WTO-20,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,10/07/2020 05:43,07/04/2021 09:55
+WTO-19,Epic,Closed,WTO,Web Terminal for OpenShift,software,Done,10/07/2020 05:38,30/09/2020 03:43
+WTO-18,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,08/07/2020 10:45,30/07/2020 11:16
+WTO-17,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,08/07/2020 03:05,14/07/2020 06:31
+WTO-16,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,07/07/2020 10:48,04/12/2020 07:10
+WTO-15,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,07/07/2020 08:37,15/07/2020 11:32
+WTO-14,Task,Closed,WTO,Web Terminal for OpenShift,software,Won't Do,01/07/2020 08:20,10/07/2020 03:15
+WTO-13,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,01/07/2020 08:15,30/07/2020 11:16
+WTO-11,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,25/06/2020 05:24,22/07/2020 09:17
+WTO-10,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,24/06/2020 14:46,10/08/2023 19:55
+WTO-9,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,24/06/2020 07:24,17/09/2020 11:52
+WTO-8,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,24/06/2020 07:20,27/07/2020 04:00
+WTO-7,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,24/06/2020 07:12,28/07/2020 07:29
+WTO-6,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,24/06/2020 07:09,24/07/2020 09:29
+WTO-5,Task,Closed,WTO,Web Terminal for OpenShift,software,Done,23/06/2020 18:37,30/07/2020 11:14
+WTO-4,Feature Request,Closed,WTO,Web Terminal for OpenShift,software,Done,23/06/2020 11:44,29/07/2020 15:22
+WTO-2,Feature Request,Closed,WTO,Web Terminal for OpenShift,software,Done,22/06/2020 14:36,10/08/2023 19:53

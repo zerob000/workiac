@@ -1,0 +1,271 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+WFMP-279,Bug,Closed,WFMP,WildFly Maven Plugin,software,Done,11/11/2024 19:55,12/11/2024 01:30
+WFMP-278,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,16/10/2024 15:05,18/10/2024 18:53
+WFMP-277,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,14/10/2024 08:33,14/10/2024 15:09
+WFMP-276,Bug,Closed,WFMP,WildFly Maven Plugin,software,Duplicate,07/10/2024 20:56,14/11/2024 14:33
+WFMP-275,Feature Request,Pull Request Sent,WFMP,WildFly Maven Plugin,software,,16/09/2024 14:47,
+WFMP-274,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,09/09/2024 22:30,09/09/2024 23:23
+WFMP-273,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,09/09/2024 17:12,09/09/2024 17:14
+WFMP-272,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,09/09/2024 16:44,09/09/2024 17:19
+WFMP-271,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,06/09/2024 11:52,06/09/2024 15:55
+WFMP-270,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,06/09/2024 08:08,11/09/2024 17:56
+WFMP-269,Enhancement,Pull Request Sent,WFMP,WildFly Maven Plugin,software,,03/09/2024 12:47,
+WFMP-268,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,26/08/2024 21:29,26/08/2024 21:32
+WFMP-267,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,26/08/2024 21:12,26/08/2024 21:13
+WFMP-266,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,26/08/2024 09:55,11/09/2024 17:51
+WFMP-265,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,12/08/2024 15:21,08/10/2024 16:34
+WFMP-264,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,10/07/2024 23:02,26/08/2024 21:10
+WFMP-263,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,13/06/2024 17:10,09/09/2024 22:47
+WFMP-262,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,06/06/2024 17:04,06/06/2024 22:17
+WFMP-261,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,06/06/2024 16:00,10/07/2024 23:01
+WFMP-260,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,31/05/2024 22:29,06/06/2024 15:53
+WFMP-259,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,31/05/2024 17:54,31/05/2024 20:48
+WFMP-258,Task,Closed,WFMP,WildFly Maven Plugin,software,Won't Do,23/05/2024 12:38,26/08/2024 13:30
+WFMP-257,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,23/05/2024 12:37,11/09/2024 18:04
+WFMP-256,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,22/05/2024 17:05,31/05/2024 15:28
+WFMP-255,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,15/05/2024 16:12,16/05/2024 09:01
+WFMP-254,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,15/05/2024 13:24,31/05/2024 20:46
+WFMP-253,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,22/04/2024 10:49,22/04/2024 14:33
+WFMP-252,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,08/04/2024 15:13,08/04/2024 15:15
+WFMP-251,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,25/03/2024 23:02,25/03/2024 23:38
+WFMP-250,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,25/03/2024 22:59,25/03/2024 23:01
+WFMP-249,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,25/03/2024 22:56,25/03/2024 22:57
+WFMP-248,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,15/03/2024 16:16,06/06/2024 15:53
+WFMP-247,Task,Open,WFMP,WildFly Maven Plugin,software,,29/02/2024 20:07,
+WFMP-246,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,29/02/2024 11:57,15/03/2024 23:07
+WFMP-245,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,26/02/2024 17:32,27/02/2024 17:42
+WFMP-244,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,12/02/2024 20:57,09/09/2024 21:08
+WFMP-243,Feature Request,Open,WFMP,WildFly Maven Plugin,software,,08/02/2024 09:12,
+WFMP-242,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,26/01/2024 17:54,26/01/2024 17:55
+WFMP-241,Bug,Open,WFMP,WildFly Maven Plugin,software,,22/01/2024 12:21,
+WFMP-240,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,16/01/2024 14:34,31/05/2024 21:07
+WFMP-239,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,09/01/2024 01:20,12/04/2024 02:31
+WFMP-238,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,09/01/2024 01:15,09/01/2024 01:35
+WFMP-237,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,08/01/2024 12:22,08/01/2024 15:46
+WFMP-236,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,05/01/2024 09:17,05/01/2024 14:54
+WFMP-235,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,22/12/2023 09:55,05/01/2024 14:57
+WFMP-234,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,21/12/2023 08:28,21/12/2023 21:30
+WFMP-233,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,19/12/2023 11:58,21/12/2023 01:41
+WFMP-232,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,13/12/2023 23:46,14/12/2023 17:23
+WFMP-231,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,13/12/2023 23:43,19/12/2023 21:33
+WFMP-230,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,07/12/2023 01:21,07/12/2023 15:51
+WFMP-229,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,30/11/2023 01:29,30/11/2023 18:05
+WFMP-228,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,17/11/2023 16:14,18/11/2023 01:31
+WFMP-227,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,16/11/2023 16:53,18/11/2023 01:00
+WFMP-226,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,15/11/2023 22:42,09/01/2024 04:54
+WFMP-225,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,20/10/2023 14:30,15/11/2023 22:42
+WFMP-224,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,15/11/2023 01:28,15/11/2023 20:01
+WFMP-223,Enhancement,Closed,WFMP,WildFly Maven Plugin,software,Won't Do,13/11/2023 17:56,14/11/2023 16:57
+WFMP-222,Bug,Open,WFMP,WildFly Maven Plugin,software,,30/10/2023 16:08,
+WFMP-221,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,12/10/2023 15:28,12/10/2023 19:04
+WFMP-220,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,12/10/2023 15:25,12/10/2023 15:28
+WFMP-219,Enhancement,Closed,WFMP,WildFly Maven Plugin,software,Not a Bug,06/10/2023 10:37,06/10/2023 12:19
+WFMP-218,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,12/09/2023 17:06,12/09/2023 17:07
+WFMP-217,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,12/09/2023 17:03,12/09/2023 18:26
+WFMP-216,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,11/09/2023 15:56,11/09/2023 16:21
+WFMP-215,Bug,Closed,WFMP,WildFly Maven Plugin,software,Not a Bug,01/08/2023 19:54,11/09/2023 15:59
+WFMP-214,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,18/07/2023 04:49,18/07/2023 04:50
+WFMP-213,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,07/07/2023 21:33,07/07/2023 21:52
+WFMP-212,Task,Closed,WFMP,WildFly Maven Plugin,software,Duplicate,07/07/2023 07:57,07/07/2023 20:06
+WFMP-211,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,06/07/2023 00:55,07/07/2023 21:03
+WFMP-210,Enhancement,Closed,WFMP,WildFly Maven Plugin,software,Done,03/07/2023 15:08,07/07/2023 21:03
+WFMP-209,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,30/05/2023 10:15,05/06/2023 14:54
+WFMP-208,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,26/05/2023 10:30,28/06/2023 14:51
+WFMP-207,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,23/05/2023 11:26,24/05/2023 01:25
+WFMP-206,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,15/05/2023 15:32,22/05/2023 14:11
+WFMP-205,Bug,Open,WFMP,WildFly Maven Plugin,software,,20/04/2023 13:18,
+WFMP-204,Enhancement,Open,WFMP,WildFly Maven Plugin,software,,12/04/2023 06:54,
+WFMP-203,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,11/04/2023 21:04,11/04/2023 21:27
+WFMP-202,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,11/04/2023 16:23,11/04/2023 16:58
+WFMP-201,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,10/04/2023 15:37,10/04/2023 18:56
+WFMP-200,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,05/04/2023 15:46,07/04/2023 01:03
+WFMP-199,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,31/03/2023 03:53,12/04/2023 00:00
+WFMP-198,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,28/03/2023 15:44,29/03/2023 14:37
+WFMP-197,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,28/03/2023 09:57,28/03/2023 14:47
+WFMP-196,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,16/03/2023 17:46,20/03/2023 15:50
+WFMP-195,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,15/03/2023 10:24,15/03/2023 18:47
+WFMP-194,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,13/03/2023 16:13,16/03/2023 09:54
+WFMP-193,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,09/03/2023 18:23,23/03/2023 19:36
+WFMP-192,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,09/03/2023 01:16,09/03/2023 01:49
+WFMP-191,Feature Request,Resolved,WFMP,WildFly Maven Plugin,software,Done,07/03/2023 16:31,08/03/2023 15:02
+WFMP-190,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,28/02/2023 09:50,01/03/2023 17:02
+WFMP-188,Bug,Open,WFMP,WildFly Maven Plugin,software,,28/02/2023 08:57,
+WFMP-187,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,28/02/2023 08:05,01/03/2023 17:02
+WFMP-186,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,22/02/2023 16:50,23/02/2023 15:54
+WFMP-185,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,20/02/2023 09:12,20/02/2023 16:08
+WFMP-184,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,16/02/2023 16:16,01/03/2023 17:03
+WFMP-183,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,09/02/2023 08:12,16/02/2023 16:21
+WFMP-182,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,07/02/2023 08:18,14/02/2023 22:51
+WFMP-181,Enhancement,Open,WFMP,WildFly Maven Plugin,software,,02/02/2023 06:47,
+WFMP-180,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,02/02/2023 06:36,09/03/2023 02:11
+WFMP-179,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,25/01/2023 19:51,09/03/2023 02:06
+WFMP-178,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,25/01/2023 10:36,25/01/2023 16:49
+WFMP-177,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,14/11/2022 16:37,25/01/2023 16:49
+WFMP-176,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,04/11/2022 15:24,11/04/2023 16:59
+WFMP-175,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,06/10/2022 14:31,06/10/2022 19:39
+WFMP-174,Feature Request,Resolved,WFMP,WildFly Maven Plugin,software,Done,09/09/2022 07:56,20/09/2022 15:41
+WFMP-173,Bug,Closed,WFMP,WildFly Maven Plugin,software,Cannot Reproduce,08/09/2022 20:38,15/11/2023 23:29
+WFMP-172,Task,Closed,WFMP,WildFly Maven Plugin,software,Obsolete,10/08/2022 13:18,09/09/2024 22:48
+WFMP-171,Bug,Closed,WFMP,WildFly Maven Plugin,software,Cannot Reproduce,05/08/2022 13:50,05/08/2022 16:05
+WFMP-170,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,03/08/2022 15:28,03/08/2022 16:09
+WFMP-169,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,02/08/2022 10:20,02/08/2022 15:45
+WFMP-168,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,20/07/2022 13:49,20/07/2022 17:52
+WFMP-166,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,20/07/2022 10:39,28/07/2022 10:38
+WFMP-165,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,18/07/2022 14:19,18/07/2022 15:30
+WFMP-164,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,18/07/2022 09:18,18/07/2022 15:34
+WFMP-163,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,15/06/2022 18:54,15/11/2023 23:35
+WFMP-162,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,15/06/2022 14:25,15/06/2022 14:50
+WFMP-161,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,15/06/2022 14:16,15/06/2022 17:28
+WFMP-160,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,15/06/2022 12:34,15/06/2022 12:58
+WFMP-159,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,08/06/2022 15:03,10/06/2022 23:11
+WFMP-158,Task,Closed,WFMP,WildFly Maven Plugin,software,Duplicate,07/06/2022 14:25,07/06/2022 14:58
+WFMP-157,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,07/06/2022 13:43,07/06/2022 14:57
+WFMP-156,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,18/05/2022 07:35,18/05/2022 15:22
+WFMP-155,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,17/05/2022 18:17,17/05/2022 19:19
+WFMP-154,Feature Request,Resolved,WFMP,WildFly Maven Plugin,software,Done,04/05/2022 13:23,31/05/2022 14:48
+WFMP-153,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,05/04/2022 15:25,05/04/2022 15:26
+WFMP-152,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,05/04/2022 15:24,05/04/2022 15:25
+WFMP-151,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,05/04/2022 15:23,05/04/2022 15:23
+WFMP-150,Enhancement,Closed,WFMP,WildFly Maven Plugin,software,Duplicate,05/04/2022 15:20,05/04/2022 15:21
+WFMP-149,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,04/04/2022 15:00,04/04/2022 16:15
+WFMP-148,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,17/03/2022 15:09,28/03/2022 15:02
+WFMP-147,Enhancement,Open,WFMP,WildFly Maven Plugin,software,,15/02/2022 16:28,
+WFMP-146,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,04/02/2022 15:51,08/02/2022 17:05
+WFMP-145,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,28/01/2022 11:49,01/02/2022 01:01
+WFMP-144,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,12/01/2022 07:55,01/02/2022 01:02
+WFMP-143,Bug,Closed,WFMP,WildFly Maven Plugin,software,Won't Do,12/01/2022 05:51,05/04/2022 17:43
+WFMP-142,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,10/01/2022 16:54,11/01/2022 16:18
+WFMP-141,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,29/11/2021 17:33,29/11/2021 19:11
+WFMP-140,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,18/10/2021 16:00,18/10/2021 16:17
+WFMP-139,Enhancement,Closed,WFMP,WildFly Maven Plugin,software,Won't Do,15/10/2021 14:22,15/02/2022 16:28
+WFMP-138,Feature Request,Resolved,WFMP,WildFly Maven Plugin,software,Done,12/10/2021 07:54,15/10/2021 22:28
+WFMP-137,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,04/10/2021 15:15,04/10/2021 15:59
+WFMP-136,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,04/10/2021 15:13,04/10/2021 15:59
+WFMP-135,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,04/10/2021 15:10,04/10/2021 15:59
+WFMP-134,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,04/10/2021 15:07,04/10/2021 15:59
+WFMP-133,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,04/10/2021 14:58,04/10/2021 15:59
+WFMP-132,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,01/10/2021 16:39,01/10/2021 20:10
+WFMP-131,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,01/10/2021 15:16,11/10/2021 19:05
+WFMP-130,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,22/09/2021 16:21,01/10/2021 20:10
+WFMP-129,Feature Request,Closed,WFMP,WildFly Maven Plugin,software,Obsolete,18/01/2021 04:46,18/01/2021 11:33
+WFMP-128,Bug,Closed,WFMP,WildFly Maven Plugin,software,Cannot Reproduce,05/11/2020 13:07,11/10/2021 19:31
+WFMP-126,Enhancement,Closed,WFMP,WildFly Maven Plugin,software,Won't Do,30/06/2020 09:46,07/07/2020 12:18
+WFMP-125,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,11/12/2019 15:08,11/12/2019 18:46
+WFMP-124,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,10/12/2019 18:53,11/12/2019 18:46
+WFMP-123,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,15/10/2019 17:32,17/10/2019 16:05
+WFMP-122,Bug,Closed,WFMP,WildFly Maven Plugin,software,Cannot Reproduce,23/08/2019 10:36,22/09/2021 19:18
+WFMP-121,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,13/06/2019 16:21,13/06/2019 16:38
+WFMP-120,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,04/06/2019 11:36,13/06/2019 16:31
+WFMP-119,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,17/04/2019 11:42,17/04/2019 12:36
+WFMP-118,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,17/04/2019 11:35,17/04/2019 12:37
+WFMP-117,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,17/04/2019 11:31,17/04/2019 12:37
+WFMP-116,Bug,Closed,WFMP,WildFly Maven Plugin,software,Cannot Reproduce,08/03/2019 02:57,11/10/2021 19:17
+WFMP-115,Feature Request,Open,WFMP,WildFly Maven Plugin,software,,14/02/2019 12:43,
+WFMP-114,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,11/02/2019 05:16,13/02/2019 12:53
+WFMP-113,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,01/11/2018 18:23,02/11/2018 19:30
+WFMP-112,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,01/11/2018 17:46,01/11/2018 18:03
+WFMP-111,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,31/10/2018 16:52,31/10/2018 19:26
+WFMP-110,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,26/10/2018 19:39,31/10/2018 14:52
+WFMP-109,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,26/10/2018 19:27,26/10/2018 19:38
+WFMP-108,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,26/10/2018 19:17,26/10/2018 19:29
+WFMP-107,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,26/10/2018 18:22,26/10/2018 19:15
+WFMP-106,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,26/10/2018 17:49,26/10/2018 18:11
+WFMP-105,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,26/10/2018 17:29,26/10/2018 17:45
+WFMP-104,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,26/10/2018 14:54,26/10/2018 17:27
+WFMP-102,Bug,Closed,WFMP,WildFly Maven Plugin,software,Won't Do,12/10/2018 15:43,31/10/2018 19:31
+WFMP-101,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,11/10/2018 17:01,11/10/2018 17:09
+WFMP-100,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,24/09/2018 14:38,24/09/2018 18:50
+WFMP-99,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,20/09/2018 11:52,20/09/2018 12:35
+WFMP-98,Task,Closed,WFMP,WildFly Maven Plugin,software,Won't Do,24/04/2018 14:30,26/10/2018 14:42
+WFMP-97,Bug,Closed,WFMP,WildFly Maven Plugin,software,Cannot Reproduce,05/04/2018 06:02,31/10/2018 19:29
+WFMP-96,Bug,Closed,WFMP,WildFly Maven Plugin,software,Not a Bug,16/03/2018 13:33,17/03/2018 09:44
+WFMP-95,Bug,Closed,WFMP,WildFly Maven Plugin,software,Duplicate,12/03/2018 09:50,13/03/2018 08:22
+WFMP-94,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,06/02/2018 15:02,24/04/2018 08:59
+WFMP-93,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,18/01/2018 08:18,23/10/2018 12:25
+WFMP-92,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,03/11/2017 13:58,22/11/2017 19:05
+WFMP-91,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,29/10/2017 11:51,13/02/2019 17:31
+WFMP-90,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,06/10/2017 15:01,02/11/2018 19:14
+WFMP-89,Enhancement,Open,WFMP,WildFly Maven Plugin,software,,11/09/2017 13:37,
+WFMP-88,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,11/09/2017 09:12,11/09/2017 14:31
+WFMP-87,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,11/08/2017 13:12,11/08/2017 14:38
+WFMP-86,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,11/08/2017 13:05,11/08/2017 13:33
+WFMP-85,Bug,Closed,WFMP,WildFly Maven Plugin,software,Not a Bug,03/08/2017 14:39,02/11/2018 19:16
+WFMP-84,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,02/08/2017 14:08,09/08/2017 15:58
+WFMP-83,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,01/08/2017 14:58,01/08/2017 16:08
+WFMP-82,Feature Request,Closed,WFMP,WildFly Maven Plugin,software,Duplicate,10/07/2017 11:53,01/08/2017 19:42
+WFMP-81,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,23/06/2017 18:26,03/08/2017 16:27
+WFMP-80,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,20/06/2017 11:46,21/06/2017 19:53
+WFMP-79,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,08/06/2017 11:54,19/06/2017 14:34
+WFMP-78,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,11/05/2017 16:20,19/06/2017 13:53
+WFMP-77,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,14/03/2017 07:43,19/06/2017 13:53
+WFMP-76,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,20/02/2017 17:42,20/06/2017 19:50
+WFMP-75,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,08/02/2017 16:27,08/02/2017 16:31
+WFMP-74,Enhancement,Open,WFMP,WildFly Maven Plugin,software,,06/02/2017 04:34,
+WFMP-73,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,01/02/2017 19:04,01/02/2017 20:03
+WFMP-72,Bug,Closed,WFMP,WildFly Maven Plugin,software,Duplicate,10/01/2017 08:02,01/11/2018 17:35
+WFMP-71,Feature Request,Resolved,WFMP,WildFly Maven Plugin,software,Done,21/12/2016 10:15,09/03/2023 01:27
+WFMP-70,Feature Request,Closed,WFMP,WildFly Maven Plugin,software,Won't Do,16/12/2016 03:25,29/03/2023 15:06
+WFMP-69,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,14/12/2016 11:15,23/06/2017 14:46
+WFMP-68,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,17/10/2016 18:25,29/11/2016 16:28
+WFMP-65,Bug,Closed,WFMP,WildFly Maven Plugin,software,Obsolete,08/10/2016 10:23,19/06/2017 14:35
+WFMP-64,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,27/09/2016 11:18,25/01/2017 13:14
+WFMP-63,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,09/09/2016 09:09,10/01/2017 19:58
+WFMP-62,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,30/08/2016 14:31,02/11/2018 19:14
+WFMP-60,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,29/08/2016 12:01,23/09/2016 18:02
+WFMP-59,Enhancement,Closed,WFMP,WildFly Maven Plugin,software,Obsolete,25/08/2016 14:05,04/05/2023 13:45
+WFMP-58,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,25/08/2016 10:07,29/08/2016 13:40
+WFMP-57,Feature Request,Closed,WFMP,WildFly Maven Plugin,software,Won't Do,24/08/2016 12:11,24/08/2016 14:54
+WFMP-56,Bug,Closed,WFMP,WildFly Maven Plugin,software,Cannot Reproduce,24/08/2016 09:18,24/08/2016 09:43
+WFMP-55,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,04/08/2016 11:57,05/08/2016 14:46
+WFMP-54,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,03/08/2016 19:33,04/08/2016 19:05
+WFMP-53,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,29/07/2016 17:30,02/08/2016 18:27
+WFMP-52,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,29/07/2016 14:47,29/07/2016 17:04
+WFMP-51,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,23/07/2016 13:48,03/08/2016 19:44
+WFMP-49,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,18/07/2016 15:54,20/07/2016 16:05
+WFMP-48,Bug,Closed,WFMP,WildFly Maven Plugin,software,Won't Do,07/07/2016 11:52,07/07/2016 16:25
+WFMP-47,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,29/06/2016 18:51,26/07/2016 18:57
+WFMP-46,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,28/06/2016 20:25,29/06/2016 19:30
+WFMP-45,Bug,Closed,WFMP,WildFly Maven Plugin,software,Cannot Reproduce,27/06/2016 09:24,27/06/2016 12:24
+WFMP-44,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,24/06/2016 15:57,29/06/2016 18:44
+WFMP-43,Task,Closed,WFMP,WildFly Maven Plugin,software,Obsolete,22/06/2016 12:27,24/04/2018 10:29
+WFMP-42,Bug,Closed,WFMP,WildFly Maven Plugin,software,Done,15/06/2016 19:38,17/06/2016 20:02
+WFMP-41,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,06/06/2016 13:16,17/06/2016 20:01
+WFMP-40,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,01/06/2016 13:55,20/06/2016 16:56
+WFMP-39,Bug,Closed,WFMP,WildFly Maven Plugin,software,Done,31/05/2016 19:34,10/01/2017 12:36
+WFMP-38,Task,Closed,WFMP,WildFly Maven Plugin,software,Obsolete,27/05/2016 12:13,24/04/2018 10:30
+WFMP-37,Enhancement,Closed,WFMP,WildFly Maven Plugin,software,Obsolete,18/05/2016 14:58,26/07/2016 18:58
+WFMP-36,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,13/05/2016 19:40,27/07/2016 20:19
+WFMP-35,Enhancement,Closed,WFMP,WildFly Maven Plugin,software,Won't Do,10/05/2016 12:17,29/11/2016 16:33
+WFMP-34,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,09/05/2016 18:45,10/05/2016 12:52
+WFMP-33,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,09/05/2016 18:11,09/05/2016 18:42
+WFMP-31,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,27/04/2016 16:24,27/04/2016 17:06
+WFMP-30,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,26/04/2016 19:13,27/04/2016 15:06
+WFMP-29,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,19/04/2016 11:25,22/04/2016 17:04
+WFMP-28,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,24/02/2016 14:47,24/02/2016 18:04
+WFMP-27,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,24/02/2016 13:36,24/02/2016 14:19
+WFMP-26,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,22/02/2016 15:28,24/02/2016 14:47
+WFMP-25,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,22/02/2016 11:51,24/02/2016 14:39
+WFMP-24,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,12/02/2016 18:59,12/02/2016 19:11
+WFMP-23,Feature Request,Resolved,WFMP,WildFly Maven Plugin,software,Done,07/01/2016 03:03,25/02/2016 14:56
+WFMP-22,Bug,Closed,WFMP,WildFly Maven Plugin,software,Won't Do,04/01/2016 06:05,04/01/2016 11:48
+WFMP-21,Task,Closed,WFMP,WildFly Maven Plugin,software,Won't Do,14/12/2015 19:34,24/02/2016 19:39
+WFMP-20,Feature Request,Resolved,WFMP,WildFly Maven Plugin,software,Done,19/11/2015 18:57,19/11/2015 19:15
+WFMP-19,Feature Request,Resolved,WFMP,WildFly Maven Plugin,software,Done,05/11/2015 06:30,03/12/2015 17:46
+WFMP-18,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,14/11/2014 04:33,03/12/2015 19:39
+WFMP-17,Feature Request,Resolved,WFMP,WildFly Maven Plugin,software,Done,08/10/2015 17:00,08/12/2015 13:43
+WFMP-16,Feature Request,Resolved,WFMP,WildFly Maven Plugin,software,Done,30/09/2015 17:24,30/09/2015 17:43
+WFMP-15,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,23/09/2015 12:51,25/09/2015 15:02
+WFMP-14,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,09/09/2015 09:20,21/09/2015 13:04
+WFMP-13,Task,Resolved,WFMP,WildFly Maven Plugin,software,Done,11/08/2015 17:45,11/08/2015 17:57
+WFMP-12,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,07/08/2015 20:13,07/08/2015 20:16
+WFMP-11,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,06/08/2015 17:16,02/11/2018 19:15
+WFMP-10,Enhancement,Closed,WFMP,WildFly Maven Plugin,software,Won't Do,08/04/2015 05:00,10/05/2016 19:50
+WFMP-9,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,04/06/2015 16:35,05/08/2016 20:05
+WFMP-8,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,18/05/2015 20:16,24/08/2015 20:15
+WFMP-7,Enhancement,Closed,WFMP,WildFly Maven Plugin,software,Won't Do,18/05/2015 20:09,10/05/2016 19:43
+WFMP-6,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Won't Do,18/05/2015 19:57,23/06/2017 14:34
+WFMP-5,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,18/05/2015 19:40,27/05/2016 20:11
+WFMP-4,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,18/05/2015 17:44,25/02/2016 20:01
+WFMP-3,Enhancement,Closed,WFMP,WildFly Maven Plugin,software,Won't Do,18/05/2015 17:41,27/04/2016 20:52
+WFMP-2,Enhancement,Resolved,WFMP,WildFly Maven Plugin,software,Done,18/05/2015 17:39,18/05/2016 14:06
+WFMP-1,Bug,Resolved,WFMP,WildFly Maven Plugin,software,Done,31/03/2015 11:44,22/04/2016 17:03

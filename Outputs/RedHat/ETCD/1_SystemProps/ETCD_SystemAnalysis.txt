@@ -1,5 +1,5 @@
 All PBIS - Unfiltered 
-Start date: 1901-01-01 12:01:00 End date: 2024-11-12 16:59:00
+Start date: 2021-02-08 11:23:00 End date: 2024-11-12 16:59:00
 System: {'ETCD': 349}
 Types: {'Story': 225, 'Spike': 38, 'Epic': 44, 'Bug': 9, 'Task': 33}
 Resolutions: {'Done': 205, '': 97, 'Cannot Reproduce': 1, "Won't Do": 16, 'Obsolete': 18, 'Duplicate': 10, 'Done-Errata': 1, 'Not a Bug': 1}

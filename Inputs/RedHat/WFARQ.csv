@@ -1,0 +1,187 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+WFARQ-195,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,14/11/2024 00:38,14/11/2024 14:41
+WFARQ-194,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,31/10/2024 15:21,31/10/2024 23:26
+WFARQ-193,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,22/10/2024 14:44,01/11/2024 01:18
+WFARQ-192,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,01/10/2024 00:07,01/10/2024 01:18
+WFARQ-191,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,11/09/2024 18:30,11/09/2024 18:56
+WFARQ-190,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,11/09/2024 18:25,11/09/2024 18:26
+WFARQ-189,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,11/09/2024 18:23,11/09/2024 18:24
+WFARQ-188,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,11/09/2024 18:20,11/09/2024 18:22
+WFARQ-187,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,05/09/2024 00:01,10/09/2024 03:06
+WFARQ-186,Bug,Open,WFARQ,WildFly Arquillian,software,,19/08/2024 15:30,
+WFARQ-185,Feature Request,Resolved,WFARQ,WildFly Arquillian,software,Done,26/07/2024 18:46,01/10/2024 14:44
+WFARQ-184,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,23/07/2024 17:09,23/07/2024 18:56
+WFARQ-183,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,23/07/2024 15:39,23/07/2024 15:54
+WFARQ-182,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,23/07/2024 15:34,23/07/2024 15:35
+WFARQ-181,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,12/07/2024 21:07,15/07/2024 15:28
+WFARQ-180,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,10/07/2024 23:35,11/07/2024 00:17
+WFARQ-179,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,09/07/2024 00:27,23/07/2024 21:53
+WFARQ-178,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,12/06/2024 17:31,23/07/2024 19:18
+WFARQ-177,Feature Request,Open,WFARQ,WildFly Arquillian,software,,12/06/2024 16:51,
+WFARQ-176,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,06/06/2024 15:17,06/06/2024 15:18
+WFARQ-175,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,06/06/2024 15:13,06/06/2024 15:16
+WFARQ-174,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,05/06/2024 18:42,06/06/2024 14:32
+WFARQ-173,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,28/05/2024 21:53,06/06/2024 03:21
+WFARQ-172,Bug,Closed,WFARQ,WildFly Arquillian,software,Can't Do,04/06/2024 12:19,04/06/2024 14:14
+WFARQ-171,Feature Request,Resolved,WFARQ,WildFly Arquillian,software,Done,07/05/2024 22:30,09/05/2024 00:31
+WFARQ-170,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,22/04/2024 15:07,22/04/2024 16:02
+WFARQ-169,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,16/04/2024 19:09,19/04/2024 03:07
+WFARQ-168,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,16/04/2024 17:09,19/04/2024 03:07
+WFARQ-167,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,16/04/2024 16:32,19/04/2024 03:07
+WFARQ-166,Enhancement,Closed,WFARQ,WildFly Arquillian,software,Duplicate,12/04/2024 17:04,18/04/2024 23:35
+WFARQ-165,Feature Request,Resolved,WFARQ,WildFly Arquillian,software,Done,10/04/2024 15:53,19/04/2024 03:08
+WFARQ-164,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,05/04/2024 23:45,08/04/2024 14:41
+WFARQ-163,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,05/04/2024 21:07,05/04/2024 22:35
+WFARQ-162,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,05/04/2024 21:05,05/04/2024 22:35
+WFARQ-161,Bug,Closed,WFARQ,WildFly Arquillian,software,Not a Bug,25/03/2024 16:35,09/04/2024 16:39
+WFARQ-160,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,09/03/2024 16:47,09/04/2024 16:57
+WFARQ-159,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,28/02/2024 20:05,28/02/2024 23:58
+WFARQ-157,Feature Request,Resolved,WFARQ,WildFly Arquillian,software,Done,17/02/2024 18:05,28/02/2024 16:40
+WFARQ-156,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,30/01/2024 01:45,30/01/2024 15:55
+WFARQ-155,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,30/01/2024 01:41,30/01/2024 01:43
+WFARQ-154,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,30/01/2024 01:39,30/01/2024 01:40
+WFARQ-153,Bug,Open,WFARQ,WildFly Arquillian,software,,11/01/2024 23:13,
+WFARQ-149,Task,Open,WFARQ,WildFly Arquillian,software,,08/01/2024 16:06,
+WFARQ-148,Bug,Open,WFARQ,WildFly Arquillian,software,,08/01/2024 16:02,
+WFARQ-147,Feature Request,Resolved,WFARQ,WildFly Arquillian,software,Done,08/01/2024 15:52,09/01/2024 01:58
+WFARQ-146,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,06/01/2024 00:33,06/01/2024 01:50
+WFARQ-145,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,05/01/2024 17:43,08/01/2024 18:57
+WFARQ-144,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,05/01/2024 17:41,06/01/2024 01:50
+WFARQ-143,Feature Request,Open,WFARQ,WildFly Arquillian,software,,04/01/2024 20:47,
+WFARQ-142,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,04/01/2024 17:04,05/01/2024 16:06
+WFARQ-141,Bug,Closed,WFARQ,WildFly Arquillian,software,Not a Bug,10/12/2023 07:33,19/12/2023 23:46
+WFARQ-140,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,06/12/2023 04:40,12/12/2023 22:22
+WFARQ-138,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,03/07/2023 14:49,03/07/2023 18:18
+WFARQ-137,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,05/05/2023 17:48,05/05/2023 23:55
+WFARQ-136,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,04/05/2023 17:30,04/05/2023 18:33
+WFARQ-135,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,04/05/2023 15:30,05/05/2023 17:26
+WFARQ-134,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,06/02/2023 10:01,06/02/2023 11:45
+WFARQ-133,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,10/01/2023 09:40,10/01/2023 16:10
+WFARQ-132,Feature Request,Closed,WFARQ,WildFly Arquillian,software,Done,05/12/2022 22:03,05/04/2024 20:58
+WFARQ-131,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,14/11/2022 16:01,16/11/2022 01:21
+WFARQ-130,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,11/11/2022 02:16,11/11/2022 03:10
+WFARQ-129,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,11/11/2022 01:37,06/02/2023 11:46
+WFARQ-128,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,10/11/2022 23:20,11/11/2022 02:39
+WFARQ-127,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,10/11/2022 22:33,11/11/2022 02:38
+WFARQ-125,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,04/11/2022 15:23,06/05/2023 01:15
+WFARQ-124,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,03/11/2022 20:06,10/11/2022 22:27
+WFARQ-123,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,03/11/2022 18:39,03/11/2022 23:01
+WFARQ-122,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,03/11/2022 16:28,11/11/2022 02:39
+WFARQ-121,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,03/11/2022 16:01,04/11/2022 00:03
+WFARQ-120,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,28/10/2022 23:41,03/11/2022 18:35
+WFARQ-119,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,30/09/2022 16:11,05/10/2022 17:59
+WFARQ-118,Bug,Closed,WFARQ,WildFly Arquillian,software,Won't Do,30/09/2022 15:00,05/04/2024 20:59
+WFARQ-117,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,05/08/2022 21:35,08/08/2022 18:50
+WFARQ-116,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,05/08/2022 21:12,05/08/2022 21:49
+WFARQ-115,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,04/08/2022 16:32,05/08/2022 00:53
+WFARQ-114,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,29/07/2022 19:43,29/07/2022 20:49
+WFARQ-113,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,29/07/2022 15:40,29/07/2022 19:34
+WFARQ-112,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,27/07/2022 19:10,01/08/2022 21:28
+WFARQ-111,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,22/07/2022 23:14,23/07/2022 00:41
+WFARQ-110,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,14/06/2022 15:21,14/06/2022 16:06
+WFARQ-109,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,27/05/2022 15:48,27/05/2022 18:13
+WFARQ-108,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,27/05/2022 15:39,27/05/2022 18:13
+WFARQ-107,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,27/05/2022 15:35,27/05/2022 18:12
+WFARQ-106,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,27/05/2022 15:32,27/05/2022 16:50
+WFARQ-105,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,27/05/2022 15:27,27/05/2022 16:50
+WFARQ-104,Bug,Closed,WFARQ,WildFly Arquillian,software,Not a Bug,20/01/2022 12:40,02/02/2022 15:49
+WFARQ-103,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,20/12/2021 23:49,21/12/2021 01:20
+WFARQ-102,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,20/12/2021 19:58,20/12/2021 23:09
+WFARQ-101,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,09/12/2021 23:36,10/12/2021 23:25
+WFARQ-100,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,09/12/2021 22:53,09/12/2021 23:35
+WFARQ-99,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,31/08/2021 22:56,31/08/2021 23:45
+WFARQ-97,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,28/06/2021 18:18,28/06/2021 20:12
+WFARQ-96,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,28/06/2021 18:07,28/06/2021 20:12
+WFARQ-95,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,28/06/2021 18:04,28/06/2021 20:12
+WFARQ-94,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,28/06/2021 18:03,28/06/2021 20:12
+WFARQ-93,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,28/06/2021 18:03,28/06/2021 20:12
+WFARQ-92,Bug,Closed,WFARQ,WildFly Arquillian,software,Obsolete,17/06/2021 17:34,27/05/2022 18:14
+WFARQ-91,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,04/02/2021 14:35,04/02/2021 15:55
+WFARQ-90,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,04/02/2021 14:33,04/02/2021 15:55
+WFARQ-89,Feature Request,Resolved,WFARQ,WildFly Arquillian,software,Done,04/02/2021 14:00,12/07/2021 14:51
+WFARQ-88,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,04/02/2021 13:58,04/02/2021 15:09
+WFARQ-87,Bug,Closed,WFARQ,WildFly Arquillian,software,Done,24/01/2021 00:27,15/02/2021 23:38
+WFARQ-86,Feature Request,Open,WFARQ,WildFly Arquillian,software,,08/12/2020 18:15,
+WFARQ-85,Feature Request,Resolved,WFARQ,WildFly Arquillian,software,Done,05/12/2020 10:19,26/03/2021 18:58
+WFARQ-84,Bug,Closed,WFARQ,WildFly Arquillian,software,Obsolete,08/10/2020 15:43,04/08/2022 14:38
+WFARQ-83,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,22/09/2020 20:29,22/09/2020 21:11
+WFARQ-82,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,21/09/2020 20:10,22/09/2020 12:03
+WFARQ-81,Bug,Open,WFARQ,WildFly Arquillian,software,,21/09/2020 12:39,
+WFARQ-80,Bug,Closed,WFARQ,WildFly Arquillian,software,Duplicate,25/08/2020 19:33,25/08/2020 19:46
+WFARQ-79,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,25/08/2020 18:17,25/08/2020 19:29
+WFARQ-78,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,19/08/2020 05:16,25/08/2020 20:05
+WFARQ-77,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,17/08/2020 16:48,25/08/2020 17:48
+WFARQ-76,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,17/08/2020 16:37,25/08/2020 17:51
+WFARQ-75,Feature Request,Resolved,WFARQ,WildFly Arquillian,software,Done,04/08/2020 18:17,13/08/2020 19:28
+WFARQ-74,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,04/08/2020 11:53,04/08/2020 18:30
+WFARQ-73,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,03/08/2020 20:24,13/08/2020 12:39
+WFARQ-72,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,03/08/2020 19:58,12/08/2020 20:30
+WFARQ-71,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,29/07/2020 16:58,03/08/2020 17:50
+WFARQ-70,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,29/07/2020 13:14,03/08/2020 17:50
+WFARQ-69,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,28/07/2020 20:19,29/07/2020 12:21
+WFARQ-68,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,27/07/2020 11:19,27/07/2020 12:22
+WFARQ-67,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,24/07/2020 12:22,27/07/2020 16:24
+WFARQ-66,Feature Request,Resolved,WFARQ,WildFly Arquillian,software,Done,24/07/2020 12:15,27/07/2020 12:22
+WFARQ-65,Feature Request,Resolved,WFARQ,WildFly Arquillian,software,Done,24/07/2020 11:28,27/07/2020 14:43
+WFARQ-64,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,24/07/2020 11:24,06/10/2020 11:33
+WFARQ-63,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,24/07/2020 11:22,27/07/2020 12:22
+WFARQ-62,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,27/03/2020 18:00,27/03/2020 18:59
+WFARQ-61,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,27/03/2020 17:51,27/03/2020 19:00
+WFARQ-60,Bug,Closed,WFARQ,WildFly Arquillian,software,Won't Do,23/03/2020 15:45,29/07/2020 13:10
+WFARQ-59,Bug,Open,WFARQ,WildFly Arquillian,software,,13/06/2019 10:51,
+WFARQ-58,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,02/04/2019 13:06,02/04/2019 14:26
+WFARQ-57,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,01/04/2019 21:08,01/04/2019 21:36
+WFARQ-56,Bug,Closed,WFARQ,WildFly Arquillian,software,Cannot Reproduce,08/02/2019 03:52,12/08/2020 19:53
+WFARQ-55,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,15/01/2019 15:49,15/01/2019 17:56
+WFARQ-54,Bug,Closed,WFARQ,WildFly Arquillian,software,Won't Do,13/11/2018 13:07,27/07/2020 16:26
+WFARQ-53,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,09/11/2018 19:22,27/07/2020 21:06
+WFARQ-52,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,09/11/2018 15:02,09/11/2018 19:38
+WFARQ-51,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,25/06/2018 05:41,29/06/2018 18:30
+WFARQ-50,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,14/06/2018 08:19,26/03/2021 18:49
+WFARQ-49,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,14/06/2018 08:19,09/11/2018 19:38
+WFARQ-48,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,14/06/2018 08:18,09/11/2018 19:38
+WFARQ-47,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,11/06/2018 09:10,26/08/2020 17:07
+WFARQ-46,Bug,Closed,WFARQ,WildFly Arquillian,software,Obsolete,06/02/2012 09:21,04/08/2022 14:40
+WFARQ-44,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,14/05/2018 04:26,29/06/2018 17:57
+WFARQ-43,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,10/05/2018 19:50,10/05/2018 20:02
+WFARQ-42,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,02/05/2018 14:12,03/05/2018 11:38
+WFARQ-41,Bug,Resolved,WFARQ,WildFly Arquillian,software,Won't Do,21/03/2018 13:45,21/03/2018 13:57
+WFARQ-40,Component Upgrade,Resolved,WFARQ,WildFly Arquillian,software,Done,28/02/2018 10:39,11/05/2018 17:09
+WFARQ-39,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,12/02/2018 14:39,19/02/2018 11:24
+WFARQ-38,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,02/02/2018 04:18,19/02/2018 14:20
+WFARQ-37,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,31/01/2018 07:09,02/02/2018 02:52
+WFARQ-36,Task,Open,WFARQ,WildFly Arquillian,software,,28/11/2017 14:50,
+WFARQ-35,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,27/11/2017 22:05,28/11/2017 13:01
+WFARQ-34,Bug,Closed,WFARQ,WildFly Arquillian,software,Duplicate,06/09/2017 06:17,09/04/2024 16:59
+WFARQ-33,Task,Closed,WFARQ,WildFly Arquillian,software,Won't Do,23/08/2017 11:22,23/08/2017 11:23
+WFARQ-32,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,15/06/2017 18:51,31/07/2017 19:05
+WFARQ-31,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,18/05/2017 11:44,16/08/2022 17:41
+WFARQ-30,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,16/05/2017 12:47,14/06/2017 16:29
+WFARQ-29,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,12/05/2017 18:15,16/06/2017 19:47
+WFARQ-28,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,26/04/2017 20:36,11/05/2017 15:36
+WFARQ-27,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,17/04/2017 19:15,19/04/2017 18:05
+WFARQ-26,Enhancement,Closed,WFARQ,WildFly Arquillian,software,Won't Do,15/11/2011 14:26,04/08/2022 14:39
+WFARQ-25,Bug,Closed,WFARQ,WildFly Arquillian,software,Won't Do,16/04/2012 08:01,12/08/2020 19:52
+WFARQ-24,Task,Closed,WFARQ,WildFly Arquillian,software,Won't Do,22/09/2014 03:00,19/04/2017 18:17
+WFARQ-23,Enhancement,Closed,WFARQ,WildFly Arquillian,software,Duplicate,22/02/2017 12:26,09/04/2024 16:59
+WFARQ-22,Bug,Closed,WFARQ,WildFly Arquillian,software,Won't Do,07/02/2017 18:48,19/04/2017 16:32
+WFARQ-21,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,07/02/2017 13:20,07/02/2017 13:52
+WFARQ-20,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,17/01/2017 14:04,19/04/2017 14:34
+WFARQ-19,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,11/01/2017 13:39,12/01/2017 10:43
+WFARQ-18,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,21/12/2016 13:56,11/05/2017 15:36
+WFARQ-17,Feature Request,Resolved,WFARQ,WildFly Arquillian,software,Done,16/12/2016 12:30,13/04/2017 12:18
+WFARQ-16,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,23/11/2016 18:01,21/12/2016 13:19
+WFARQ-14,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,05/11/2016 07:00,20/12/2016 17:11
+WFARQ-13,Bug,Open,WFARQ,WildFly Arquillian,software,,15/08/2016 12:35,
+WFARQ-12,Feature Request,Resolved,WFARQ,WildFly Arquillian,software,Done,07/03/2016 16:36,10/03/2016 15:42
+WFARQ-11,Feature Request,Resolved,WFARQ,WildFly Arquillian,software,Done,07/03/2016 13:45,19/04/2017 15:24
+WFARQ-10,Feature Request,Closed,WFARQ,WildFly Arquillian,software,Done,24/02/2016 03:53,24/02/2016 04:04
+WFARQ-9,Bug,Closed,WFARQ,WildFly Arquillian,software,Won't Do,16/02/2016 09:33,12/08/2020 19:48
+WFARQ-8,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,10/02/2016 17:56,11/02/2016 17:14
+WFARQ-7,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,10/02/2016 17:09,07/04/2016 13:42
+WFARQ-6,Enhancement,Resolved,WFARQ,WildFly Arquillian,software,Done,08/02/2016 20:30,07/04/2016 17:04
+WFARQ-5,Bug,Closed,WFARQ,WildFly Arquillian,software,Obsolete,06/11/2015 03:40,05/02/2016 20:03
+WFARQ-4,Bug,Resolved,WFARQ,WildFly Arquillian,software,Done,15/11/2015 11:42,11/02/2016 19:09
+WFARQ-3,Feature Request,Resolved,WFARQ,WildFly Arquillian,software,Done,15/12/2015 22:35,17/02/2020 16:50
+WFARQ-2,Bug,Closed,WFARQ,WildFly Arquillian,software,Won't Do,13/11/2015 11:01,12/08/2020 19:45
+WFARQ-1,Task,Resolved,WFARQ,WildFly Arquillian,software,Done,04/11/2015 22:40,09/12/2015 20:00

@@ -1,0 +1,40 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+RHBOP-53,Bug,Closed,RHBOP,Red Hat build of OptaPlanner,software,Done,23/05/2023 18:39,28/06/2023 08:49
+RHBOP-52,Story,Closed,RHBOP,Red Hat build of OptaPlanner,software,Done,30/03/2023 08:39,10/07/2023 07:52
+RHBOP-50,Task,Closed,RHBOP,Red Hat build of OptaPlanner,software,Done,23/02/2023 13:29,10/07/2023 07:51
+RHBOP-49,Task,Closed,RHBOP,Red Hat build of OptaPlanner,software,Done,23/02/2023 13:28,10/07/2023 07:48
+RHBOP-48,Story,Closed,RHBOP,Red Hat build of OptaPlanner,software,Duplicate,23/02/2023 13:11,10/07/2023 07:50
+RHBOP-47,Bug,Closed,RHBOP,Red Hat build of OptaPlanner,software,Not a Bug,22/02/2023 14:57,28/02/2023 13:43
+RHBOP-46,Bug,Closed,RHBOP,Red Hat build of OptaPlanner,software,Not a Bug,22/02/2023 11:25,28/02/2023 13:42
+RHBOP-45,Bug,Closed,RHBOP,Red Hat build of OptaPlanner,software,Won't Do,22/02/2023 09:26,23/02/2023 13:33
+RHBOP-44,Bug,Verified,RHBOP,Red Hat build of OptaPlanner,software,Done,22/02/2023 08:58,28/02/2023 13:45
+RHBOP-43,Bug,Closed,RHBOP,Red Hat build of OptaPlanner,software,Won't Do,22/02/2023 08:44,28/02/2023 13:45
+RHBOP-42,Task,Closed,RHBOP,Red Hat build of OptaPlanner,software,Done,15/02/2023 11:24,10/07/2023 08:11
+RHBOP-41,Task,Closed,RHBOP,Red Hat build of OptaPlanner,software,Won't Do,15/02/2023 09:57,20/07/2023 14:17
+RHBOP-39,Bug,Verified,RHBOP,Red Hat build of OptaPlanner,software,Done,02/02/2023 16:17,14/02/2023 16:19
+RHBOP-38,Bug,Verified,RHBOP,Red Hat build of OptaPlanner,software,Done,01/02/2023 11:36,17/02/2023 14:28
+RHBOP-34,Task,Verified,RHBOP,Red Hat build of OptaPlanner,software,Done,15/12/2022 10:56,14/02/2023 16:20
+RHBOP-33,Bug,Verified,RHBOP,Red Hat build of OptaPlanner,software,Done,23/11/2022 15:33,02/02/2023 16:44
+RHBOP-30,Task,Verified,RHBOP,Red Hat build of OptaPlanner,software,Done,16/11/2022 16:15,28/11/2022 15:44
+RHBOP-29,Task,Closed,RHBOP,Red Hat build of OptaPlanner,software,Done,16/11/2022 13:18,02/02/2023 08:43
+RHBOP-28,Task,Closed,RHBOP,Red Hat build of OptaPlanner,software,Won't Do,16/11/2022 13:18,21/11/2022 10:17
+RHBOP-26,Story,Verified,RHBOP,Red Hat build of OptaPlanner,software,Done,14/11/2022 15:00,02/03/2023 17:14
+RHBOP-25,Task,Closed,RHBOP,Red Hat build of OptaPlanner,software,Done,08/11/2022 09:42,08/11/2022 13:31
+RHBOP-24,Bug,Closed,RHBOP,Red Hat build of OptaPlanner,software,Not a Bug,04/11/2022 16:38,07/11/2022 14:44
+RHBOP-23,Bug,Verified,RHBOP,Red Hat build of OptaPlanner,software,Done,02/11/2022 14:31,08/11/2022 12:56
+RHBOP-22,Task,Verified,RHBOP,Red Hat build of OptaPlanner,software,Done,31/10/2022 15:36,08/11/2022 13:29
+RHBOP-16,Bug,Closed,RHBOP,Red Hat build of OptaPlanner,software,Done,25/10/2022 10:10,25/10/2022 21:21
+RHBOP-15,Bug,Verified,RHBOP,Red Hat build of OptaPlanner,software,Done,25/10/2022 09:50,08/11/2022 13:10
+RHBOP-14,Bug,Closed,RHBOP,Red Hat build of OptaPlanner,software,Not a Bug,24/10/2022 16:17,25/10/2022 14:07
+RHBOP-13,Bug,Closed,RHBOP,Red Hat build of OptaPlanner,software,Done,20/10/2022 08:01,21/10/2022 13:17
+RHBOP-11,Story,Closed,RHBOP,Red Hat build of OptaPlanner,software,Done,11/10/2022 13:42,12/10/2022 22:02
+RHBOP-10,Story,Verified,RHBOP,Red Hat build of OptaPlanner,software,Done,27/09/2022 09:31,05/12/2022 15:46
+RHBOP-9,Story,Closed,RHBOP,Red Hat build of OptaPlanner,software,Won't Do,26/09/2022 12:15,08/12/2022 13:26
+RHBOP-8,Task,Verified,RHBOP,Red Hat build of OptaPlanner,software,Done,23/09/2022 13:21,08/11/2022 13:18
+RHBOP-7,Task,Verified,RHBOP,Red Hat build of OptaPlanner,software,Done,23/09/2022 13:17,08/11/2022 13:15
+RHBOP-6,Task,Verified,RHBOP,Red Hat build of OptaPlanner,software,Done,23/09/2022 13:16,08/11/2022 13:16
+RHBOP-5,Task,Verified,RHBOP,Red Hat build of OptaPlanner,software,Done,23/09/2022 13:15,08/11/2022 13:16
+RHBOP-4,Feature,Closed,RHBOP,Red Hat build of OptaPlanner,software,Done,09/09/2022 08:31,15/11/2022 17:07
+RHBOP-3,Feature,Verified,RHBOP,Red Hat build of OptaPlanner,software,Done,09/09/2022 08:29,08/11/2022 13:24
+RHBOP-2,Feature,Verified,RHBOP,Red Hat build of OptaPlanner,software,Done,09/09/2022 08:26,08/11/2022 13:27
+RHBOP-1,Feature,Closed,RHBOP,Red Hat build of OptaPlanner,software,Duplicate,09/09/2022 08:27,12/10/2022 18:30

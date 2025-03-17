@@ -188,7 +188,10 @@ def my_extractor(data, last_pbi, start_date):
     for i, item in enumerate(back):
         back[i] = back[i] + abs(min_size) # correcting for the case that there is a negative minimum size so backlog never goes to 0
                         
-    return(arr_timeline, ser_timeline, last_pbi, t_b[0])
+    if len(t_b) != 0:
+        return(arr_timeline, ser_timeline, last_pbi, t_b[0])
+    else:
+        return(arr_timeline, ser_timeline, last_pbi, 0)
     
 
 # Day and Time Distribution

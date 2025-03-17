@@ -1,0 +1,507 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+TEST-1365,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,06/11/2024 06:09,
+TEST-1364,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,21/10/2024 11:10,
+TEST-1363,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,21/10/2024 11:10,
+TEST-1362,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,21/10/2024 11:09,
+TEST-1361,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,21/10/2024 11:07,
+TEST-1360,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,21/10/2024 11:06,
+TEST-1359,Task,Backlog,TEST,TEST Defect Tracking Project,software,,17/10/2024 07:52,
+TEST-1358,Task,Backlog,TEST,TEST Defect Tracking Project,software,,17/10/2024 07:52,
+TEST-1357,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,02/10/2024 16:37,
+TEST-1356,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,27/09/2024 19:37,
+TEST-1355,Story,Backlog,TEST,TEST Defect Tracking Project,software,,04/09/2024 20:27,
+TEST-1354,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,24/08/2024 01:05,
+TEST-1353,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,23/08/2024 15:12,
+TEST-1352,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,07/08/2024 06:20,
+TEST-1351,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,07/08/2024 06:20,
+TEST-1350,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,07/08/2024 06:20,
+TEST-1349,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,07/08/2024 06:20,
+TEST-1348,Story,Backlog,TEST,TEST Defect Tracking Project,software,,23/07/2024 16:35,
+TEST-1347,Story,To Do,TEST,TEST Defect Tracking Project,software,,23/07/2024 15:46,
+TEST-1346,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,23/07/2024 15:46,
+TEST-1345,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,23/07/2024 15:36,
+TEST-1344,Story,Backlog,TEST,TEST Defect Tracking Project,software,,23/07/2024 15:27,
+TEST-1343,Story,Backlog,TEST,TEST Defect Tracking Project,software,,23/07/2024 15:25,
+TEST-1342,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,23/07/2024 15:18,
+TEST-1341,Task,Backlog,TEST,TEST Defect Tracking Project,software,,23/07/2024 15:12,
+TEST-1340,Task,Backlog,TEST,TEST Defect Tracking Project,software,,23/07/2024 15:12,
+TEST-1339,Task,Backlog,TEST,TEST Defect Tracking Project,software,,23/07/2024 15:11,
+TEST-1338,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,23/07/2024 14:43,
+TEST-1337,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,23/07/2024 14:33,
+TEST-1336,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,23/07/2024 14:33,
+TEST-1335,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,23/07/2024 14:33,
+TEST-1334,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,23/07/2024 14:32,
+TEST-1333,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,23/07/2024 14:32,
+TEST-1332,Bug,Closed,TEST,TEST Defect Tracking Project,software,Done,27/06/2024 13:25,27/06/2024 13:26
+TEST-1324,Task,Backlog,TEST,TEST Defect Tracking Project,software,,26/06/2024 19:06,
+TEST-1323,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,21/06/2024 08:06,
+TEST-1322,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,14/06/2024 15:27,
+TEST-1321,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,14/06/2024 15:27,
+TEST-1318,Task,Backlog,TEST,TEST Defect Tracking Project,software,,31/05/2024 16:23,
+TEST-1317,Bug,Closed,TEST,TEST Defect Tracking Project,software,Done,09/05/2024 14:41,09/05/2024 14:44
+TEST-1316,Bug,Closed,TEST,TEST Defect Tracking Project,software,Done,09/05/2024 14:36,09/05/2024 14:41
+TEST-1315,Bug,Closed,TEST,TEST Defect Tracking Project,software,Done,25/04/2024 17:21,25/04/2024 17:22
+TEST-1314,Bug,Closed,TEST,TEST Defect Tracking Project,software,Not a Bug,25/04/2024 15:13,26/04/2024 11:11
+TEST-1313,Bug,Closed,TEST,TEST Defect Tracking Project,software,Not a Bug,25/04/2024 07:21,25/04/2024 07:24
+TEST-1312,Bug,To Do,TEST,TEST Defect Tracking Project,software,,25/04/2024 07:10,
+TEST-1311,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,25/04/2024 06:42,
+TEST-1310,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,25/04/2024 06:21,
+TEST-1309,Bug,Closed,TEST,TEST Defect Tracking Project,software,Not a Bug,24/04/2024 19:15,24/04/2024 19:16
+TEST-1308,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,24/04/2024 18:44,
+TEST-1307,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,24/04/2024 18:42,
+TEST-1306,Bug,To Do,TEST,TEST Defect Tracking Project,software,,24/04/2024 18:39,
+TEST-1305,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,24/04/2024 18:22,
+TEST-1304,Bug,Closed,TEST,TEST Defect Tracking Project,software,Done,24/04/2024 18:18,24/04/2024 18:19
+TEST-1303,Bug,Closed,TEST,TEST Defect Tracking Project,software,Done,23/04/2024 10:21,23/04/2024 10:37
+TEST-1302,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,23/04/2024 10:18,
+TEST-1301,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,23/04/2024 10:18,
+TEST-1300,Bug,To Do,TEST,TEST Defect Tracking Project,software,,23/04/2024 09:50,
+TEST-1299,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,23/04/2024 09:39,
+TEST-1298,Task,Backlog,TEST,TEST Defect Tracking Project,software,,16/04/2024 18:16,
+TEST-1297,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,14/04/2024 20:24,
+TEST-1296,Bug,To Do,TEST,TEST Defect Tracking Project,software,,12/04/2024 13:55,
+TEST-1295,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,12/04/2024 13:52,
+TEST-1294,Bug,Closed,TEST,TEST Defect Tracking Project,software,Done,10/04/2024 07:37,11/04/2024 15:07
+TEST-1292,Initiative,Backlog,TEST,TEST Defect Tracking Project,software,,01/03/2024 12:40,
+TEST-1290,Epic,Backlog,TEST,TEST Defect Tracking Project,software,,01/03/2024 12:33,
+TEST-1287,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,22/02/2024 09:52,
+TEST-1286,Bug,To Do,TEST,TEST Defect Tracking Project,software,,22/02/2024 09:32,
+TEST-1285,Task,Backlog,TEST,TEST Defect Tracking Project,software,,16/02/2024 15:36,
+TEST-1284,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,15/02/2024 17:50,
+TEST-1283,Bug,To Do,TEST,TEST Defect Tracking Project,software,,15/02/2024 16:47,
+TEST-1282,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,15/02/2024 13:51,
+TEST-1279,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,13/02/2024 10:52,
+TEST-1278,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,13/02/2024 10:32,
+TEST-1277,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,13/02/2024 10:14,
+TEST-1276,Bug,Closed,TEST,TEST Defect Tracking Project,software,Not a Bug,08/02/2024 16:16,08/02/2024 16:37
+TEST-1274,Task,Backlog,TEST,TEST Defect Tracking Project,software,,11/01/2024 17:46,
+TEST-1273,Bug,Closed,TEST,TEST Defect Tracking Project,software,Done,20/12/2023 16:23,21/12/2023 14:57
+TEST-1272,Bug,Closed,TEST,TEST Defect Tracking Project,software,Done,14/12/2023 16:50,14/12/2023 16:54
+TEST-1271,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,08/12/2023 05:12,
+TEST-1270,Bug,Closed,TEST,TEST Defect Tracking Project,software,Not a Bug,08/12/2023 04:09,08/12/2023 04:37
+TEST-1269,Story,Backlog,TEST,TEST Defect Tracking Project,software,,05/12/2023 11:53,
+TEST-1268,Bug,Closed,TEST,TEST Defect Tracking Project,software,Done,05/12/2023 02:42,05/12/2023 04:58
+TEST-1266,Bug,Closed,TEST,TEST Defect Tracking Project,software,Not a Bug,04/12/2023 05:17,05/12/2023 02:56
+TEST-1265,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,04/12/2023 01:32,
+TEST-1264,Bug,To Do,TEST,TEST Defect Tracking Project,software,,04/12/2023 01:31,
+TEST-1263,Bug,Closed,TEST,TEST Defect Tracking Project,software,Not a Bug,04/12/2023 00:55,04/12/2023 01:24
+TEST-1262,Bug,Closed,TEST,TEST Defect Tracking Project,software,Done,01/12/2023 01:57,16/04/2024 09:41
+TEST-1261,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,01/12/2023 01:40,
+TEST-1260,Task,Backlog,TEST,TEST Defect Tracking Project,software,,15/11/2023 19:18,
+TEST-1259,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,14/11/2023 17:00,
+TEST-1258,Bug,Closed,TEST,TEST Defect Tracking Project,software,Done,10/11/2023 11:11,16/04/2024 09:37
+TEST-1257,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,07/11/2023 16:32,
+TEST-1256,Bug,Closed,TEST,TEST Defect Tracking Project,software,Not a Bug,07/11/2023 16:32,12/12/2023 11:13
+TEST-1254,Task,Backlog,TEST,TEST Defect Tracking Project,software,,31/08/2023 20:52,
+TEST-1253,Task,Backlog,TEST,TEST Defect Tracking Project,software,,31/08/2023 20:47,
+TEST-1252,Task,Backlog,TEST,TEST Defect Tracking Project,software,,25/08/2023 12:39,
+TEST-1251,Task,Backlog,TEST,TEST Defect Tracking Project,software,,15/08/2023 20:10,
+TEST-1250,Task,Backlog,TEST,TEST Defect Tracking Project,software,,09/08/2023 09:55,
+TEST-1249,Task,Backlog,TEST,TEST Defect Tracking Project,software,,27/07/2023 14:31,
+TEST-1248,Task,In Progress,TEST,TEST Defect Tracking Project,software,,05/07/2023 07:57,
+TEST-1247,Task,Backlog,TEST,TEST Defect Tracking Project,software,,29/06/2023 14:23,
+TEST-1246,Task,Backlog,TEST,TEST Defect Tracking Project,software,,20/06/2023 16:01,
+TEST-1245,Task,Backlog,TEST,TEST Defect Tracking Project,software,,05/06/2023 16:25,
+TEST-1244,Task,Backlog,TEST,TEST Defect Tracking Project,software,,05/06/2023 16:00,
+TEST-1243,Task,Backlog,TEST,TEST Defect Tracking Project,software,,20/05/2023 14:19,
+TEST-1242,Task,Backlog,TEST,TEST Defect Tracking Project,software,,20/05/2023 14:14,
+TEST-1241,Task,Backlog,TEST,TEST Defect Tracking Project,software,,20/05/2023 14:12,
+TEST-1240,Task,Backlog,TEST,TEST Defect Tracking Project,software,,20/05/2023 14:10,
+TEST-1239,Task,Backlog,TEST,TEST Defect Tracking Project,software,,20/05/2023 14:04,
+TEST-1238,Task,Backlog,TEST,TEST Defect Tracking Project,software,,20/05/2023 13:58,
+TEST-1237,Task,Backlog,TEST,TEST Defect Tracking Project,software,,20/05/2023 13:51,
+TEST-1236,Task,Backlog,TEST,TEST Defect Tracking Project,software,,20/05/2023 13:48,
+TEST-1235,Task,Backlog,TEST,TEST Defect Tracking Project,software,,18/05/2023 16:12,
+TEST-1234,Task,Backlog,TEST,TEST Defect Tracking Project,software,,04/05/2023 15:24,
+TEST-1233,Task,Backlog,TEST,TEST Defect Tracking Project,software,,01/05/2023 15:33,
+TEST-1232,Task,Backlog,TEST,TEST Defect Tracking Project,software,,26/04/2023 15:09,
+TEST-1231,Task,Backlog,TEST,TEST Defect Tracking Project,software,,07/04/2023 17:59,
+TEST-1230,Story,Backlog,TEST,TEST Defect Tracking Project,software,,06/04/2023 07:54,
+TEST-1229,Task,Backlog,TEST,TEST Defect Tracking Project,software,,05/04/2023 15:47,
+TEST-1228,Task,Backlog,TEST,TEST Defect Tracking Project,software,,23/03/2023 19:15,
+TEST-1227,Task,Backlog,TEST,TEST Defect Tracking Project,software,,15/03/2023 14:17,
+TEST-1226,Task,Backlog,TEST,TEST Defect Tracking Project,software,,09/03/2023 02:01,
+TEST-1225,Task,Backlog,TEST,TEST Defect Tracking Project,software,,16/02/2023 17:11,
+TEST-1224,Task,Backlog,TEST,TEST Defect Tracking Project,software,,16/02/2023 16:55,
+TEST-1223,Task,Backlog,TEST,TEST Defect Tracking Project,software,,09/02/2023 19:57,
+TEST-1222,Task,Backlog,TEST,TEST Defect Tracking Project,software,,09/02/2023 11:24,
+TEST-1221,Task,Backlog,TEST,TEST Defect Tracking Project,software,,09/01/2023 17:16,
+TEST-1220,Task,Backlog,TEST,TEST Defect Tracking Project,software,,02/12/2022 20:03,
+TEST-1219,Task,Backlog,TEST,TEST Defect Tracking Project,software,,02/12/2022 19:55,
+TEST-1218,Task,Backlog,TEST,TEST Defect Tracking Project,software,,02/12/2022 19:27,
+TEST-1217,Task,Backlog,TEST,TEST Defect Tracking Project,software,,18/11/2022 20:45,
+TEST-1216,Task,Backlog,TEST,TEST Defect Tracking Project,software,,18/11/2022 19:00,
+TEST-1215,Task,Backlog,TEST,TEST Defect Tracking Project,software,,18/11/2022 18:49,
+TEST-1214,Task,Backlog,TEST,TEST Defect Tracking Project,software,,18/11/2022 18:46,
+TEST-1213,Task,Backlog,TEST,TEST Defect Tracking Project,software,,14/11/2022 22:48,
+TEST-1212,Task,Backlog,TEST,TEST Defect Tracking Project,software,,14/11/2022 22:46,
+TEST-1211,Task,Backlog,TEST,TEST Defect Tracking Project,software,,14/11/2022 22:44,
+TEST-1210,Task,Backlog,TEST,TEST Defect Tracking Project,software,,14/11/2022 22:42,
+TEST-1209,Task,Backlog,TEST,TEST Defect Tracking Project,software,,14/11/2022 22:40,
+TEST-1208,Task,Backlog,TEST,TEST Defect Tracking Project,software,,14/11/2022 22:38,
+TEST-1207,Task,Backlog,TEST,TEST Defect Tracking Project,software,,14/11/2022 22:32,
+TEST-1206,Task,Backlog,TEST,TEST Defect Tracking Project,software,,02/11/2022 09:18,
+TEST-1205,Task,Backlog,TEST,TEST Defect Tracking Project,software,,02/11/2022 09:05,
+TEST-1204,Task,Backlog,TEST,TEST Defect Tracking Project,software,,25/10/2022 17:09,
+TEST-1203,Task,Backlog,TEST,TEST Defect Tracking Project,software,,07/10/2022 14:50,
+TEST-1202,Task,Backlog,TEST,TEST Defect Tracking Project,software,,28/09/2022 21:22,
+TEST-1201,Task,Backlog,TEST,TEST Defect Tracking Project,software,,28/09/2022 21:20,
+TEST-1200,Task,Backlog,TEST,TEST Defect Tracking Project,software,,28/09/2022 20:16,
+TEST-1199,Task,Backlog,TEST,TEST Defect Tracking Project,software,,26/09/2022 20:15,
+TEST-1198,Task,Backlog,TEST,TEST Defect Tracking Project,software,,26/09/2022 20:13,
+TEST-1197,Task,Backlog,TEST,TEST Defect Tracking Project,software,,26/09/2022 19:40,
+TEST-1196,Task,Backlog,TEST,TEST Defect Tracking Project,software,,26/09/2022 19:31,
+TEST-1195,Task,Backlog,TEST,TEST Defect Tracking Project,software,,26/09/2022 19:27,
+TEST-1194,Task,Backlog,TEST,TEST Defect Tracking Project,software,,26/09/2022 19:20,
+TEST-1193,Task,Backlog,TEST,TEST Defect Tracking Project,software,,26/09/2022 19:18,
+TEST-1192,Task,Backlog,TEST,TEST Defect Tracking Project,software,,15/09/2022 23:29,
+TEST-1191,Task,Backlog,TEST,TEST Defect Tracking Project,software,,15/09/2022 20:28,
+TEST-1190,Task,Backlog,TEST,TEST Defect Tracking Project,software,,15/09/2022 19:10,
+TEST-1189,Task,Backlog,TEST,TEST Defect Tracking Project,software,,15/09/2022 19:08,
+TEST-1188,Task,Backlog,TEST,TEST Defect Tracking Project,software,,15/09/2022 19:02,
+TEST-1187,Task,Backlog,TEST,TEST Defect Tracking Project,software,,02/09/2022 19:03,
+TEST-1186,Task,Backlog,TEST,TEST Defect Tracking Project,software,,02/09/2022 19:01,
+TEST-1185,Task,Backlog,TEST,TEST Defect Tracking Project,software,,02/09/2022 16:53,
+TEST-1183,Task,Backlog,TEST,TEST Defect Tracking Project,software,,16/08/2022 11:11,
+TEST-1182,Task,Backlog,TEST,TEST Defect Tracking Project,software,,16/08/2022 11:07,
+TEST-1181,Task,Backlog,TEST,TEST Defect Tracking Project,software,,11/08/2022 16:42,
+TEST-1180,Task,Backlog,TEST,TEST Defect Tracking Project,software,,11/08/2022 15:37,
+TEST-1179,Task,Backlog,TEST,TEST Defect Tracking Project,software,,05/08/2022 19:37,
+TEST-1178,Task,Backlog,TEST,TEST Defect Tracking Project,software,,04/08/2022 21:04,
+TEST-1177,Task,Backlog,TEST,TEST Defect Tracking Project,software,,04/08/2022 18:07,
+TEST-1176,Task,Backlog,TEST,TEST Defect Tracking Project,software,,22/07/2022 13:53,
+TEST-1175,Task,Backlog,TEST,TEST Defect Tracking Project,software,,22/07/2022 12:22,
+TEST-1174,Task,Backlog,TEST,TEST Defect Tracking Project,software,,21/07/2022 14:45,
+TEST-1173,Task,Backlog,TEST,TEST Defect Tracking Project,software,,21/07/2022 14:42,
+TEST-1172,Task,Backlog,TEST,TEST Defect Tracking Project,software,,20/07/2022 13:34,
+TEST-1171,Task,Backlog,TEST,TEST Defect Tracking Project,software,,19/07/2022 16:26,
+TEST-1170,Task,Backlog,TEST,TEST Defect Tracking Project,software,,19/07/2022 16:22,
+TEST-1169,Task,Backlog,TEST,TEST Defect Tracking Project,software,,19/07/2022 16:15,
+TEST-1168,Task,Backlog,TEST,TEST Defect Tracking Project,software,,19/07/2022 15:58,
+TEST-1167,Task,Backlog,TEST,TEST Defect Tracking Project,software,,19/07/2022 15:35,
+TEST-1166,Task,Backlog,TEST,TEST Defect Tracking Project,software,,19/07/2022 15:11,
+TEST-1165,Task,Backlog,TEST,TEST Defect Tracking Project,software,,19/07/2022 13:45,
+TEST-1164,Task,Backlog,TEST,TEST Defect Tracking Project,software,,19/07/2022 13:43,
+TEST-1163,Task,Backlog,TEST,TEST Defect Tracking Project,software,,19/07/2022 13:29,
+TEST-1162,Task,Backlog,TEST,TEST Defect Tracking Project,software,,19/07/2022 13:28,
+TEST-1161,Task,Backlog,TEST,TEST Defect Tracking Project,software,,19/07/2022 13:27,
+TEST-1160,Task,Backlog,TEST,TEST Defect Tracking Project,software,,18/07/2022 22:16,
+TEST-1159,Task,Backlog,TEST,TEST Defect Tracking Project,software,,18/07/2022 18:01,
+TEST-1158,Task,Backlog,TEST,TEST Defect Tracking Project,software,,15/07/2022 12:47,
+TEST-1157,Task,Backlog,TEST,TEST Defect Tracking Project,software,,15/07/2022 12:05,
+TEST-1156,Task,Backlog,TEST,TEST Defect Tracking Project,software,,15/07/2022 09:58,
+TEST-1155,Task,Backlog,TEST,TEST Defect Tracking Project,software,,14/07/2022 21:48,
+TEST-1154,Task,Backlog,TEST,TEST Defect Tracking Project,software,,11/07/2022 17:59,
+TEST-1153,Task,Backlog,TEST,TEST Defect Tracking Project,software,,11/07/2022 17:35,
+TEST-1152,Task,Backlog,TEST,TEST Defect Tracking Project,software,,11/07/2022 15:32,
+TEST-1151,Task,Backlog,TEST,TEST Defect Tracking Project,software,,07/07/2022 19:53,
+TEST-1150,Task,Backlog,TEST,TEST Defect Tracking Project,software,,07/07/2022 18:27,
+TEST-1149,Task,Backlog,TEST,TEST Defect Tracking Project,software,,07/07/2022 18:04,
+TEST-1148,Task,Backlog,TEST,TEST Defect Tracking Project,software,,07/07/2022 16:23,
+TEST-1147,Task,Backlog,TEST,TEST Defect Tracking Project,software,,07/07/2022 15:43,
+TEST-1146,Task,Backlog,TEST,TEST Defect Tracking Project,software,,07/07/2022 15:41,
+TEST-1145,Task,Backlog,TEST,TEST Defect Tracking Project,software,,05/07/2022 18:49,
+TEST-1144,Task,Backlog,TEST,TEST Defect Tracking Project,software,,30/06/2022 14:01,
+TEST-1143,Task,Backlog,TEST,TEST Defect Tracking Project,software,,30/06/2022 13:59,
+TEST-1142,Task,Backlog,TEST,TEST Defect Tracking Project,software,,29/06/2022 23:57,
+TEST-1141,Task,Backlog,TEST,TEST Defect Tracking Project,software,,29/06/2022 20:58,
+TEST-1140,Task,Backlog,TEST,TEST Defect Tracking Project,software,,29/06/2022 17:37,
+TEST-1139,Task,Backlog,TEST,TEST Defect Tracking Project,software,,29/06/2022 17:20,
+TEST-1138,Task,Backlog,TEST,TEST Defect Tracking Project,software,,28/06/2022 20:05,
+TEST-1137,Task,Backlog,TEST,TEST Defect Tracking Project,software,,28/06/2022 17:02,
+TEST-1136,Task,Backlog,TEST,TEST Defect Tracking Project,software,,28/06/2022 16:37,
+TEST-1135,Task,Backlog,TEST,TEST Defect Tracking Project,software,,28/06/2022 16:22,
+TEST-1134,Task,Backlog,TEST,TEST Defect Tracking Project,software,,24/06/2022 22:18,
+TEST-1133,Task,Backlog,TEST,TEST Defect Tracking Project,software,,24/06/2022 14:14,
+TEST-1132,Task,Backlog,TEST,TEST Defect Tracking Project,software,,23/06/2022 18:59,
+TEST-1131,Task,Backlog,TEST,TEST Defect Tracking Project,software,,23/06/2022 18:34,
+TEST-1130,Task,Backlog,TEST,TEST Defect Tracking Project,software,,23/06/2022 16:10,
+TEST-1129,Task,Backlog,TEST,TEST Defect Tracking Project,software,,23/06/2022 15:59,
+TEST-1128,Task,Backlog,TEST,TEST Defect Tracking Project,software,,23/06/2022 15:58,
+TEST-1127,Task,Backlog,TEST,TEST Defect Tracking Project,software,,23/06/2022 15:55,
+TEST-1126,Task,Backlog,TEST,TEST Defect Tracking Project,software,,23/06/2022 15:30,
+TEST-1125,Task,Backlog,TEST,TEST Defect Tracking Project,software,,23/06/2022 14:25,
+TEST-1124,Task,Backlog,TEST,TEST Defect Tracking Project,software,,22/06/2022 23:03,
+TEST-1123,Task,Backlog,TEST,TEST Defect Tracking Project,software,,22/06/2022 23:00,
+TEST-1122,Task,Backlog,TEST,TEST Defect Tracking Project,software,,22/06/2022 22:09,
+TEST-1121,Task,Backlog,TEST,TEST Defect Tracking Project,software,,21/06/2022 14:56,
+TEST-1120,Task,Backlog,TEST,TEST Defect Tracking Project,software,,17/06/2022 15:01,
+TEST-1119,Task,Backlog,TEST,TEST Defect Tracking Project,software,,16/06/2022 19:08,
+TEST-1118,Task,Backlog,TEST,TEST Defect Tracking Project,software,,16/06/2022 16:44,
+TEST-1117,Task,Backlog,TEST,TEST Defect Tracking Project,software,,16/06/2022 16:26,
+TEST-1116,Task,Backlog,TEST,TEST Defect Tracking Project,software,,16/06/2022 16:23,
+TEST-1115,Task,Backlog,TEST,TEST Defect Tracking Project,software,,15/06/2022 21:10,
+TEST-1114,Task,Backlog,TEST,TEST Defect Tracking Project,software,,15/06/2022 21:08,
+TEST-1113,Task,Backlog,TEST,TEST Defect Tracking Project,software,,15/06/2022 20:57,
+TEST-1112,Task,Backlog,TEST,TEST Defect Tracking Project,software,,15/06/2022 19:07,
+TEST-1111,Task,Backlog,TEST,TEST Defect Tracking Project,software,,14/06/2022 16:48,
+TEST-1110,Task,Backlog,TEST,TEST Defect Tracking Project,software,,14/06/2022 16:35,
+TEST-1109,Task,Backlog,TEST,TEST Defect Tracking Project,software,,14/06/2022 16:21,
+TEST-1108,Task,Backlog,TEST,TEST Defect Tracking Project,software,,14/06/2022 15:51,
+TEST-1107,Task,Backlog,TEST,TEST Defect Tracking Project,software,,14/06/2022 15:30,
+TEST-1106,Task,Backlog,TEST,TEST Defect Tracking Project,software,,14/06/2022 15:15,
+TEST-1105,Task,Backlog,TEST,TEST Defect Tracking Project,software,,14/06/2022 15:13,
+TEST-1104,Task,Backlog,TEST,TEST Defect Tracking Project,software,,14/06/2022 13:44,
+TEST-1103,Task,Backlog,TEST,TEST Defect Tracking Project,software,,13/06/2022 20:55,
+TEST-1102,Task,Backlog,TEST,TEST Defect Tracking Project,software,,13/06/2022 20:51,
+TEST-1101,Task,Backlog,TEST,TEST Defect Tracking Project,software,,13/06/2022 20:32,
+TEST-1100,Task,Backlog,TEST,TEST Defect Tracking Project,software,,13/06/2022 20:22,
+TEST-1099,Task,Backlog,TEST,TEST Defect Tracking Project,software,,13/06/2022 20:15,
+TEST-1098,Task,Backlog,TEST,TEST Defect Tracking Project,software,,13/06/2022 15:34,
+TEST-1097,Task,Backlog,TEST,TEST Defect Tracking Project,software,,09/06/2022 15:10,
+TEST-1096,Task,Backlog,TEST,TEST Defect Tracking Project,software,,09/06/2022 15:09,
+TEST-1095,Task,Backlog,TEST,TEST Defect Tracking Project,software,,08/06/2022 22:10,
+TEST-1094,Task,Backlog,TEST,TEST Defect Tracking Project,software,,08/06/2022 22:02,
+TEST-1093,Task,Backlog,TEST,TEST Defect Tracking Project,software,,25/05/2022 20:46,
+TEST-1092,Task,Backlog,TEST,TEST Defect Tracking Project,software,,25/05/2022 16:45,
+TEST-1091,Task,Backlog,TEST,TEST Defect Tracking Project,software,,25/05/2022 16:07,
+TEST-1090,Task,Backlog,TEST,TEST Defect Tracking Project,software,,25/05/2022 16:01,
+TEST-1089,Task,Backlog,TEST,TEST Defect Tracking Project,software,,25/05/2022 15:56,
+TEST-1088,Task,Backlog,TEST,TEST Defect Tracking Project,software,,25/05/2022 15:52,
+TEST-1087,Task,Backlog,TEST,TEST Defect Tracking Project,software,,25/05/2022 14:58,
+TEST-1086,Task,Backlog,TEST,TEST Defect Tracking Project,software,,25/05/2022 14:40,
+TEST-1085,Task,Backlog,TEST,TEST Defect Tracking Project,software,,25/05/2022 14:36,
+TEST-1084,Task,Backlog,TEST,TEST Defect Tracking Project,software,,25/05/2022 14:36,
+TEST-1083,Task,Backlog,TEST,TEST Defect Tracking Project,software,,25/05/2022 14:13,
+TEST-1082,Task,Backlog,TEST,TEST Defect Tracking Project,software,,24/05/2022 21:41,
+TEST-1081,Task,Backlog,TEST,TEST Defect Tracking Project,software,,24/05/2022 21:37,
+TEST-1080,Task,Backlog,TEST,TEST Defect Tracking Project,software,,24/05/2022 21:35,
+TEST-1079,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 21:56,
+TEST-1078,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 20:59,
+TEST-1077,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 20:59,
+TEST-1076,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 20:13,
+TEST-1075,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 20:08,
+TEST-1074,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 20:05,
+TEST-1073,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 20:02,
+TEST-1072,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 20:00,
+TEST-1071,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 19:57,
+TEST-1070,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 19:54,
+TEST-1069,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 19:35,
+TEST-1068,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 19:19,
+TEST-1067,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 19:18,
+TEST-1066,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 16:25,
+TEST-1065,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 16:23,
+TEST-1064,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 16:21,
+TEST-1063,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 16:17,
+TEST-1062,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 16:04,
+TEST-1061,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 14:09,
+TEST-1060,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 14:05,
+TEST-1059,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 14:00,
+TEST-1058,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 13:53,
+TEST-1057,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 13:52,
+TEST-1056,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 13:50,
+TEST-1055,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 13:46,
+TEST-1054,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 13:16,
+TEST-1053,Task,Backlog,TEST,TEST Defect Tracking Project,software,,10/05/2022 02:26,
+TEST-1051,Task,Backlog,TEST,TEST Defect Tracking Project,software,,04/05/2022 19:55,
+TEST-1050,Task,Backlog,TEST,TEST Defect Tracking Project,software,,04/05/2022 19:43,
+TEST-1049,Task,Backlog,TEST,TEST Defect Tracking Project,software,,04/05/2022 19:35,
+TEST-1048,Task,Backlog,TEST,TEST Defect Tracking Project,software,,04/05/2022 19:21,
+TEST-1047,Task,Backlog,TEST,TEST Defect Tracking Project,software,,04/05/2022 18:18,
+TEST-1046,Task,Backlog,TEST,TEST Defect Tracking Project,software,,13/04/2022 14:55,
+TEST-1045,Task,Backlog,TEST,TEST Defect Tracking Project,software,,13/04/2022 14:53,
+TEST-1044,Task,Backlog,TEST,TEST Defect Tracking Project,software,,12/04/2022 22:34,
+TEST-1043,Task,Backlog,TEST,TEST Defect Tracking Project,software,,12/04/2022 21:31,
+TEST-1042,Task,Backlog,TEST,TEST Defect Tracking Project,software,,12/04/2022 21:28,
+TEST-1041,Task,Backlog,TEST,TEST Defect Tracking Project,software,,12/04/2022 21:25,
+TEST-1040,Task,Backlog,TEST,TEST Defect Tracking Project,software,,12/04/2022 21:19,
+TEST-1039,Task,Backlog,TEST,TEST Defect Tracking Project,software,,12/04/2022 21:10,
+TEST-1038,Task,Backlog,TEST,TEST Defect Tracking Project,software,,12/04/2022 21:08,
+TEST-1037,Task,Backlog,TEST,TEST Defect Tracking Project,software,,12/04/2022 20:16,
+TEST-1036,Task,Backlog,TEST,TEST Defect Tracking Project,software,,12/04/2022 20:07,
+TEST-1035,Task,Backlog,TEST,TEST Defect Tracking Project,software,,12/04/2022 20:05,
+TEST-1034,Task,Backlog,TEST,TEST Defect Tracking Project,software,,12/04/2022 19:51,
+TEST-1033,Task,Backlog,TEST,TEST Defect Tracking Project,software,,12/04/2022 18:44,
+TEST-1032,Task,Backlog,TEST,TEST Defect Tracking Project,software,,08/04/2022 21:27,
+TEST-1031,Task,Backlog,TEST,TEST Defect Tracking Project,software,,08/04/2022 21:16,
+TEST-1030,Task,Backlog,TEST,TEST Defect Tracking Project,software,,08/04/2022 21:15,
+TEST-1029,Task,Backlog,TEST,TEST Defect Tracking Project,software,,08/04/2022 21:13,
+TEST-1028,Task,Backlog,TEST,TEST Defect Tracking Project,software,,08/04/2022 21:04,
+TEST-1027,Task,Backlog,TEST,TEST Defect Tracking Project,software,,08/04/2022 21:03,
+TEST-1026,Task,Backlog,TEST,TEST Defect Tracking Project,software,,08/04/2022 21:02,
+TEST-1025,Task,Backlog,TEST,TEST Defect Tracking Project,software,,08/04/2022 16:25,
+TEST-1024,Task,Backlog,TEST,TEST Defect Tracking Project,software,,08/04/2022 16:24,
+TEST-1023,Task,Backlog,TEST,TEST Defect Tracking Project,software,,08/04/2022 16:22,
+TEST-1022,Task,Backlog,TEST,TEST Defect Tracking Project,software,,04/04/2022 23:39,
+TEST-1021,Task,Backlog,TEST,TEST Defect Tracking Project,software,,18/03/2022 18:44,
+TEST-999,Task,Backlog,TEST,TEST Defect Tracking Project,software,,15/03/2022 00:54,
+TEST-990,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,20/04/2021 18:29,29/09/2021 08:08
+TEST-989,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,20/04/2021 18:28,29/09/2021 08:08
+TEST-988,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,20/04/2021 18:28,29/09/2021 08:08
+TEST-987,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,20/04/2021 18:28,29/09/2021 08:07
+TEST-986,Epic,Closed,TEST,TEST Defect Tracking Project,software,Done,20/04/2021 18:12,29/09/2021 08:07
+TEST-985,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,08/11/2020 14:53,08/11/2020 15:00
+TEST-984,Epic,Closed,TEST,TEST Defect Tracking Project,software,Done,08/11/2020 14:49,08/11/2020 15:01
+TEST-983,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,07/10/2020 11:51,
+TEST-982,Bug,Closed,TEST,TEST Defect Tracking Project,software,Done,15/09/2020 09:16,22/12/2023 12:00
+TEST-978,Bug,Closed,TEST,TEST Defect Tracking Project,software,Done,11/09/2020 05:40,22/12/2023 11:53
+TEST-975,Bug,Closed,TEST,TEST Defect Tracking Project,software,Done,10/09/2020 11:17,17/08/2023 10:04
+TEST-973,Feature Request,Closed,TEST,TEST Defect Tracking Project,software,Done,10/09/2020 06:08,10/09/2020 06:25
+TEST-972,Bug,Closed,TEST,TEST Defect Tracking Project,software,Done,09/09/2020 08:57,09/09/2020 10:52
+TEST-971,Bug,Closed,TEST,TEST Defect Tracking Project,software,Done,09/09/2020 08:54,17/08/2023 10:04
+TEST-970,Bug,Closed,TEST,TEST Defect Tracking Project,software,Done,09/09/2020 05:44,22/12/2023 12:01
+TEST-969,Task,Closed,TEST,TEST Defect Tracking Project,software,Won't Do,04/09/2020 02:14,04/09/2020 02:17
+TEST-927,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,13/02/2020 13:24,19/02/2020 04:16
+TEST-926,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,13/02/2020 13:01,19/02/2020 04:16
+TEST-925,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,11/02/2020 09:29,19/02/2020 04:16
+TEST-922,Epic,Closed,TEST,TEST Defect Tracking Project,software,Done,11/02/2020 09:21,19/02/2020 04:16
+TEST-921,Story,Closed,TEST,TEST Defect Tracking Project,software,Done,13/01/2020 04:17,19/02/2020 04:16
+TEST-920,Epic,Backlog,TEST,TEST Defect Tracking Project,software,,15/10/2019 02:32,
+TEST-919,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 07:02,19/02/2020 04:16
+TEST-918,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-917,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-916,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-915,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-914,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-913,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-912,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-911,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-910,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-909,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-908,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-907,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-906,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-905,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-904,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-903,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-902,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-901,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-900,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-899,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-898,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-897,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-896,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-895,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-894,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:59,19/02/2020 04:16
+TEST-893,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-892,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-891,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-890,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-889,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-888,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-887,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-886,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-885,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-884,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-883,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-882,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-881,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-880,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-879,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-878,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-877,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-876,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-875,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-874,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-873,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-872,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-871,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-870,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-869,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-868,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-867,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-866,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-865,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-864,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-863,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-862,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-861,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-860,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-859,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 06:58,19/02/2020 04:16
+TEST-858,Epic,Closed,TEST,TEST Defect Tracking Project,software,Done,30/09/2019 05:28,19/02/2020 04:16
+TEST-857,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:46,19/02/2020 04:16
+TEST-856,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:46,19/02/2020 04:16
+TEST-855,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:46,19/02/2020 04:16
+TEST-854,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:46,19/02/2020 04:16
+TEST-853,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:46,19/02/2020 04:16
+TEST-852,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:46,19/02/2020 04:16
+TEST-851,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:46,19/02/2020 04:16
+TEST-850,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:46,19/02/2020 04:16
+TEST-849,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:46,19/02/2020 04:16
+TEST-848,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:46,19/02/2020 04:16
+TEST-847,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:46,19/02/2020 04:16
+TEST-846,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:46,19/02/2020 04:16
+TEST-845,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:46,19/02/2020 04:16
+TEST-844,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:46,19/02/2020 04:16
+TEST-843,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:46,19/02/2020 04:16
+TEST-842,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:46,19/02/2020 04:16
+TEST-841,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:46,19/02/2020 04:16
+TEST-840,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:46,19/02/2020 04:16
+TEST-839,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:46,19/02/2020 04:16
+TEST-838,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:46,19/02/2020 04:16
+TEST-837,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:46,19/02/2020 04:16
+TEST-836,Epic,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:30,19/02/2020 04:16
+TEST-835,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:27,19/02/2020 04:16
+TEST-834,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:27,19/02/2020 04:16
+TEST-833,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:27,19/02/2020 04:16
+TEST-832,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:27,19/02/2020 04:16
+TEST-831,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:27,19/02/2020 04:16
+TEST-830,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:27,19/02/2020 04:16
+TEST-829,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:27,19/02/2020 04:16
+TEST-828,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:27,19/02/2020 04:16
+TEST-827,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:27,19/02/2020 04:16
+TEST-826,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:27,19/02/2020 04:16
+TEST-825,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:27,19/02/2020 04:16
+TEST-824,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:27,19/02/2020 04:16
+TEST-823,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:27,19/02/2020 04:16
+TEST-822,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:27,19/02/2020 04:16
+TEST-821,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:27,19/02/2020 04:16
+TEST-820,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:27,19/02/2020 04:16
+TEST-819,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:27,19/02/2020 04:16
+TEST-818,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:27,19/02/2020 04:16
+TEST-817,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:27,19/02/2020 04:16
+TEST-816,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:27,19/02/2020 04:16
+TEST-815,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:27,19/02/2020 04:16
+TEST-814,Epic,Closed,TEST,TEST Defect Tracking Project,software,Done,05/09/2019 09:26,19/02/2020 04:16
+TEST-813,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,03/09/2019 03:55,19/02/2020 04:16
+TEST-812,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,03/09/2019 03:55,19/02/2020 04:16
+TEST-811,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,03/09/2019 03:55,19/02/2020 04:16
+TEST-810,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,03/09/2019 03:55,19/02/2020 04:16
+TEST-809,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,03/09/2019 03:55,19/02/2020 04:16
+TEST-808,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,03/09/2019 03:55,19/02/2020 04:16
+TEST-807,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,03/09/2019 03:55,19/02/2020 04:16
+TEST-806,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,03/09/2019 03:55,19/02/2020 04:16
+TEST-805,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,03/09/2019 03:55,19/02/2020 04:16
+TEST-804,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,03/09/2019 03:55,19/02/2020 04:16
+TEST-803,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,03/09/2019 03:55,19/02/2020 04:16
+TEST-802,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,03/09/2019 03:55,19/02/2020 04:16
+TEST-801,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,03/09/2019 03:55,19/02/2020 04:16
+TEST-800,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,03/09/2019 03:55,19/02/2020 04:16
+TEST-799,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,03/09/2019 03:55,19/02/2020 04:16
+TEST-798,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,03/09/2019 03:55,19/02/2020 04:16
+TEST-797,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,03/09/2019 03:55,19/02/2020 04:16
+TEST-796,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,03/09/2019 03:55,19/02/2020 04:16
+TEST-795,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,03/09/2019 03:55,19/02/2020 04:16
+TEST-794,Task,Closed,TEST,TEST Defect Tracking Project,software,Done,03/09/2019 03:55,19/02/2020 04:16
+TEST-793,Epic,Closed,TEST,TEST Defect Tracking Project,software,Done,03/09/2019 03:54,19/02/2020 04:16
+TEST-409,Epic,Closed,TEST,TEST Defect Tracking Project,software,Done,12/06/2019 09:05,02/09/2019 10:23
+TEST-199,Epic,Backlog,TEST,TEST Defect Tracking Project,software,,05/06/2019 08:47,
+TEST-138,Epic,Closed,TEST,TEST Defect Tracking Project,software,Done,28/05/2019 11:46,02/09/2019 10:23
+TEST-76,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,09/04/2019 12:54,
+TEST-75,Epic,Backlog,TEST,TEST Defect Tracking Project,software,,03/04/2019 10:25,
+TEST-74,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,26/03/2019 09:53,
+TEST-73,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,26/03/2019 05:30,
+TEST-72,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,26/03/2019 05:27,
+TEST-71,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,26/03/2019 05:17,
+TEST-58,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,30/01/2019 04:02,
+TEST-34,Epic,Backlog,TEST,TEST Defect Tracking Project,software,,11/05/2018 07:41,
+TEST-21,Bug,Closed,TEST,TEST Defect Tracking Project,software,Done,07/11/2017 11:10,21/07/2022 08:48
+TEST-20,Epic,Backlog,TEST,TEST Defect Tracking Project,software,,07/11/2017 11:10,
+TEST-18,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,11/10/2017 02:25,
+TEST-17,Story,Closed,TEST,TEST Defect Tracking Project,software,Done,29/03/2016 09:12,07/04/2016 06:47
+TEST-16,Task,Closed,TEST,TEST Defect Tracking Project,software,Won't Do,28/09/2016 14:53,10/05/2019 11:33
+TEST-15,Epic,Closed,TEST,TEST Defect Tracking Project,software,Won't Do,28/09/2016 14:51,10/05/2019 11:33
+TEST-14,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,11/04/2016 05:39,
+TEST-13,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,11/04/2016 05:32,
+TEST-12,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,11/04/2016 05:31,
+TEST-11,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,11/04/2016 05:30,
+TEST-10,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,25/02/2016 08:59,
+TEST-9,Bug,Closed,TEST,TEST Defect Tracking Project,software,Won't Do,24/02/2016 12:06,24/02/2016 12:08
+TEST-8,Requirement,Backlog,TEST,TEST Defect Tracking Project,software,,10/09/2014 03:22,
+TEST-7,Component Upgrade,Backlog,TEST,TEST Defect Tracking Project,software,,14/07/2014 10:48,
+TEST-6,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,14/07/2014 10:48,
+TEST-5,Component Upgrade,Closed,TEST,TEST Defect Tracking Project,software,Won't Do,14/07/2014 10:45,14/07/2014 10:53
+TEST-4,Bug,Backlog,TEST,TEST Defect Tracking Project,software,,14/07/2014 10:44,
+TEST-3,Component Upgrade,Backlog,TEST,TEST Defect Tracking Project,software,,14/07/2014 10:44,
+TEST-2,Feature Request,Backlog,TEST,TEST Defect Tracking Project,software,,16/05/2014 03:07,
+TEST-1,Bug,Closed,TEST,TEST Defect Tracking Project,software,Cannot Reproduce,05/05/2013 02:51,12/05/2013 20:51

@@ -1,0 +1,128 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+WEJBHTTP-148,Task,Closed,WEJBHTTP,WildFly EJB HTTP Client,software,Done,13/09/2024 12:25,13/09/2024 12:26
+WEJBHTTP-147,Task,Pull Request Sent,WEJBHTTP,WildFly EJB HTTP Client,software,,05/09/2024 08:19,
+WEJBHTTP-144,Enhancement,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,26/08/2024 16:58,22/10/2024 21:54
+WEJBHTTP-143,Enhancement,Coding In Progress,WEJBHTTP,WildFly EJB HTTP Client,software,,26/08/2024 16:52,
+WEJBHTTP-139,Task,Coding In Progress,WEJBHTTP,WildFly EJB HTTP Client,software,,27/05/2024 18:15,
+WEJBHTTP-138,Enhancement,Pull Request Sent,WEJBHTTP,WildFly EJB HTTP Client,software,,19/04/2024 06:14,
+WEJBHTTP-137,Task,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,11/02/2024 22:46,14/02/2024 13:19
+WEJBHTTP-136,Bug,Open,WEJBHTTP,WildFly EJB HTTP Client,software,,16/11/2023 15:13,
+WEJBHTTP-135,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,26/10/2023 01:45,26/10/2023 01:56
+WEJBHTTP-134,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,26/10/2023 01:29,26/10/2023 01:37
+WEJBHTTP-133,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,26/10/2023 01:17,26/10/2023 01:28
+WEJBHTTP-132,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,26/10/2023 01:03,26/10/2023 01:17
+WEJBHTTP-131,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,26/10/2023 00:44,26/10/2023 00:53
+WEJBHTTP-130,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,26/10/2023 00:35,26/10/2023 00:43
+WEJBHTTP-129,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,26/10/2023 00:26,26/10/2023 00:33
+WEJBHTTP-128,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,26/10/2023 00:14,26/10/2023 00:22
+WEJBHTTP-127,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,26/10/2023 00:01,26/10/2023 00:07
+WEJBHTTP-126,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,25/10/2023 23:41,25/10/2023 23:48
+WEJBHTTP-125,Enhancement,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,25/10/2023 23:29,25/10/2023 23:37
+WEJBHTTP-124,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,25/10/2023 23:15,25/10/2023 23:24
+WEJBHTTP-123,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,25/10/2023 23:04,25/10/2023 23:13
+WEJBHTTP-122,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,25/10/2023 22:50,25/10/2023 23:04
+WEJBHTTP-121,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,25/10/2023 21:28,25/10/2023 22:18
+WEJBHTTP-120,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,25/10/2023 21:27,25/10/2023 22:01
+WEJBHTTP-119,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,18/10/2023 08:26,25/10/2023 20:36
+WEJBHTTP-118,Bug,Open,WEJBHTTP,WildFly EJB HTTP Client,software,,23/08/2023 08:02,
+WEJBHTTP-117,Task,Pull Request Sent,WEJBHTTP,WildFly EJB HTTP Client,software,,10/08/2023 21:31,
+WEJBHTTP-116,Task,Pull Request Sent,WEJBHTTP,WildFly EJB HTTP Client,software,,01/08/2023 20:05,
+WEJBHTTP-115,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,20/07/2023 18:25,26/10/2023 00:00
+WEJBHTTP-114,Feature Request,Pull Request Sent,WEJBHTTP,WildFly EJB HTTP Client,software,,17/07/2023 09:18,
+WEJBHTTP-113,Task,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,13/07/2023 13:52,01/04/2024 06:33
+WEJBHTTP-112,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,03/07/2023 18:16,25/10/2023 22:01
+WEJBHTTP-111,Task,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,31/05/2023 14:30,01/06/2023 15:28
+WEJBHTTP-110,Bug,Pull Request Sent,WEJBHTTP,WildFly EJB HTTP Client,software,,29/03/2023 16:35,
+WEJBHTTP-109,Enhancement,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,22/02/2023 14:42,01/03/2023 21:25
+WEJBHTTP-108,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,01/02/2023 12:32,01/02/2023 13:38
+WEJBHTTP-107,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,11/01/2023 15:15,11/01/2023 21:57
+WEJBHTTP-106,Feature Request,Pull Request Sent,WEJBHTTP,WildFly EJB HTTP Client,software,,10/01/2023 05:30,
+WEJBHTTP-105,Bug,Closed,WEJBHTTP,WildFly EJB HTTP Client,software,Done,16/12/2022 07:41,16/12/2022 12:47
+WEJBHTTP-104,Bug,Closed,WEJBHTTP,WildFly EJB HTTP Client,software,Done,06/12/2022 08:10,06/12/2022 19:01
+WEJBHTTP-103,Bug,Coding In Progress,WEJBHTTP,WildFly EJB HTTP Client,software,,07/11/2022 22:42,
+WEJBHTTP-102,Task,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,04/11/2022 15:36,13/11/2022 11:36
+WEJBHTTP-101,Task,Closed,WEJBHTTP,WildFly EJB HTTP Client,software,Done,04/11/2022 15:30,16/12/2022 20:05
+WEJBHTTP-100,Task,Closed,WEJBHTTP,WildFly EJB HTTP Client,software,Done,04/11/2022 15:15,16/12/2022 19:59
+WEJBHTTP-99,Component Upgrade,Pull Request Sent,WEJBHTTP,WildFly EJB HTTP Client,software,,03/11/2022 03:06,
+WEJBHTTP-98,Component Upgrade,Closed,WEJBHTTP,WildFly EJB HTTP Client,software,Done,03/11/2022 02:57,10/01/2023 06:38
+WEJBHTTP-97,Component Upgrade,Closed,WEJBHTTP,WildFly EJB HTTP Client,software,Done,20/10/2022 14:22,20/10/2022 18:57
+WEJBHTTP-96,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,04/10/2022 11:30,05/10/2022 05:18
+WEJBHTTP-95,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,04/10/2022 11:23,05/10/2022 05:18
+WEJBHTTP-94,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,04/10/2022 11:21,05/10/2022 05:18
+WEJBHTTP-93,Task,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,04/10/2022 11:16,05/10/2022 05:18
+WEJBHTTP-92,Task,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,04/10/2022 09:28,05/10/2022 05:18
+WEJBHTTP-91,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,04/10/2022 09:05,05/10/2022 05:18
+WEJBHTTP-90,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,03/10/2022 13:11,05/10/2022 05:18
+WEJBHTTP-89,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,03/10/2022 13:09,05/10/2022 05:18
+WEJBHTTP-88,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,03/10/2022 13:05,05/10/2022 05:18
+WEJBHTTP-87,Task,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,03/10/2022 12:59,05/10/2022 05:18
+WEJBHTTP-86,Feature Request,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,28/09/2022 07:48,28/09/2022 15:11
+WEJBHTTP-85,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Obsolete,22/09/2022 03:53,20/10/2022 14:17
+WEJBHTTP-84,Task,Closed,WEJBHTTP,WildFly EJB HTTP Client,software,Won't Do,20/09/2022 16:50,01/02/2023 12:12
+WEJBHTTP-83,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,28/07/2022 15:29,02/08/2022 06:31
+WEJBHTTP-82,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,14/06/2022 21:02,15/06/2022 20:44
+WEJBHTTP-81,Bug,Pull Request Sent,WEJBHTTP,WildFly EJB HTTP Client,software,,06/06/2022 17:06,
+WEJBHTTP-80,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,27/05/2022 07:21,15/06/2022 13:11
+WEJBHTTP-79,Task,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,21/04/2022 14:49,19/09/2022 18:49
+WEJBHTTP-78,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,05/04/2022 04:00,05/04/2022 04:36
+WEJBHTTP-76,Enhancement,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,23/03/2022 15:38,15/06/2022 20:44
+WEJBHTTP-75,Task,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,09/03/2022 17:53,25/04/2022 11:49
+WEJBHTTP-74,Bug,Closed,WEJBHTTP,WildFly EJB HTTP Client,software,Done,24/02/2022 15:41,16/12/2022 12:47
+WEJBHTTP-69,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,07/12/2021 09:12,05/04/2022 05:07
+WEJBHTTP-68,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,02/12/2021 07:03,02/12/2021 07:17
+WEJBHTTP-67,Feature Request,Open,WEJBHTTP,WildFly EJB HTTP Client,software,,02/12/2021 06:24,
+WEJBHTTP-65,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,01/12/2021 21:13,02/12/2021 07:08
+WEJBHTTP-64,Task,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,08/11/2021 04:07,17/11/2021 02:34
+WEJBHTTP-63,Task,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,09/08/2021 08:57,17/11/2021 06:19
+WEJBHTTP-62,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,13/07/2021 04:15,13/07/2021 04:18
+WEJBHTTP-61,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,16/06/2021 02:47,13/07/2021 03:51
+WEJBHTTP-60,Task,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,03/06/2021 10:57,05/06/2021 05:28
+WEJBHTTP-59,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,02/06/2021 08:02,05/06/2021 05:28
+WEJBHTTP-58,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,06/05/2021 07:23,21/05/2021 01:14
+WEJBHTTP-57,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,11/03/2021 07:09,12/03/2021 14:13
+WEJBHTTP-56,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,03/03/2021 23:40,10/03/2021 07:40
+WEJBHTTP-55,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,01/02/2021 23:03,05/04/2022 05:56
+WEJBHTTP-54,Bug,Open,WEJBHTTP,WildFly EJB HTTP Client,software,,01/02/2021 08:57,
+WEJBHTTP-53,Bug,Open,WEJBHTTP,WildFly EJB HTTP Client,software,,25/01/2021 10:57,
+WEJBHTTP-51,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,19/01/2021 00:19,31/01/2021 07:45
+WEJBHTTP-50,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,13/01/2021 15:37,31/01/2021 08:57
+WEJBHTTP-49,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,07/12/2020 17:06,07/12/2020 17:09
+WEJBHTTP-48,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,17/11/2020 02:01,07/12/2020 17:05
+WEJBHTTP-47,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,19/07/2020 12:22,23/07/2020 13:57
+WEJBHTTP-45,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,18/06/2020 07:42,08/07/2020 04:22
+WEJBHTTP-44,Bug,Open,WEJBHTTP,WildFly EJB HTTP Client,software,,16/06/2020 11:10,
+WEJBHTTP-43,Feature Request,Coding In Progress,WEJBHTTP,WildFly EJB HTTP Client,software,,05/06/2020 10:21,
+WEJBHTTP-42,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,03/06/2020 10:27,04/06/2020 10:41
+WEJBHTTP-39,Enhancement,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,28/05/2020 02:41,29/05/2020 14:01
+WEJBHTTP-38,Component Upgrade,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,19/05/2020 16:21,19/05/2020 16:50
+WEJBHTTP-37,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,19/05/2020 16:19,25/10/2023 22:02
+WEJBHTTP-36,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,19/05/2020 16:18,08/03/2021 02:56
+WEJBHTTP-35,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,12/01/2020 10:31,13/01/2020 17:47
+WEJBHTTP-34,Task,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,07/01/2020 19:12,08/07/2020 04:39
+WEJBHTTP-32,Enhancement,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,27/11/2019 16:19,27/11/2019 22:16
+WEJBHTTP-31,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,13/11/2019 02:32,27/11/2019 22:16
+WEJBHTTP-30,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,24/09/2019 07:09,29/05/2020 13:58
+WEJBHTTP-29,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,20/09/2019 06:06,08/10/2019 03:58
+WEJBHTTP-28,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,28/08/2019 06:32,03/10/2019 12:00
+WEJBHTTP-27,Component Upgrade,Closed,WEJBHTTP,WildFly EJB HTTP Client,software,Duplicate,30/07/2019 19:22,30/07/2019 19:32
+WEJBHTTP-26,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,26/06/2019 10:35,27/06/2019 19:49
+WEJBHTTP-24,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,28/02/2019 17:45,27/03/2019 13:25
+WEJBHTTP-23,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,14/02/2019 08:47,05/04/2019 22:28
+WEJBHTTP-22,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Duplicate,03/01/2019 13:35,03/01/2019 14:16
+WEJBHTTP-20,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,18/12/2018 02:56,15/01/2019 05:15
+WEJBHTTP-19,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,05/06/2018 10:07,06/06/2018 23:58
+WEJBHTTP-18,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,06/04/2018 10:20,12/04/2018 18:26
+WEJBHTTP-17,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,22/02/2018 20:28,22/02/2018 20:32
+WEJBHTTP-16,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,09/02/2018 11:00,14/02/2018 22:16
+WEJBHTTP-14,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,28/01/2018 06:16,30/01/2018 02:20
+WEJBHTTP-13,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,01/01/2018 17:11,01/01/2018 17:27
+WEJBHTTP-11,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,09/10/2017 06:26,11/10/2017 08:29
+WEJBHTTP-10,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,06/10/2017 11:01,06/10/2017 11:05
+WEJBHTTP-9,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,06/10/2017 10:12,06/10/2017 11:09
+WEJBHTTP-7,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,06/10/2017 09:31,06/10/2017 09:39
+WEJBHTTP-6,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,06/10/2017 09:09,06/10/2017 09:10
+WEJBHTTP-5,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,02/10/2017 15:29,02/10/2017 15:30
+WEJBHTTP-4,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,02/10/2017 15:17,02/10/2017 15:28
+WEJBHTTP-3,Enhancement,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,28/09/2017 14:31,29/09/2017 15:25
+WEJBHTTP-2,Task,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,18/09/2017 23:51,19/09/2017 01:31
+WEJBHTTP-1,Bug,Resolved,WEJBHTTP,WildFly EJB HTTP Client,software,Done,12/09/2017 14:06,12/09/2017 19:18

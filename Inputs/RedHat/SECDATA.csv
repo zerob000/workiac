@@ -1,0 +1,68 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+SECDATA-787,Story,New,SECDATA,Security Data,software,,13/11/2024 14:02,
+SECDATA-783,Task,Closed,SECDATA,Security Data,software,Done,06/11/2024 14:19,06/11/2024 17:11
+SECDATA-782,Task,Closed,SECDATA,Security Data,software,Duplicate,06/11/2024 14:10,06/11/2024 14:34
+SECDATA-781,Task,Closed,SECDATA,Security Data,software,Can't Do,06/11/2024 13:58,06/11/2024 14:13
+SECDATA-769,Bug,Closed,SECDATA,Security Data,software,Not a Bug,24/10/2024 21:24,28/10/2024 18:24
+SECDATA-766,Story,Closed,SECDATA,Security Data,software,Duplicate,22/10/2024 14:53,29/10/2024 18:52
+SECDATA-759,Epic,Closed,SECDATA,Security Data,software,Duplicate,16/10/2024 21:20,21/10/2024 18:27
+SECDATA-758,Ticket,Closed,SECDATA,Security Data,software,Done,16/10/2024 18:26,13/11/2024 14:13
+SECDATA-757,Task,Closed,SECDATA,Security Data,software,Done,16/10/2024 18:23,13/11/2024 15:40
+SECDATA-756,Ticket,Closed,SECDATA,Security Data,software,Done,16/10/2024 18:21,05/11/2024 16:10
+SECDATA-746,Ticket,Closed,SECDATA,Security Data,software,Done,10/10/2024 00:39,13/11/2024 13:54
+SECDATA-744,Ticket,Closed,SECDATA,Security Data,software,Done,08/10/2024 19:33,13/11/2024 14:15
+SECDATA-743,Task,Closed,SECDATA,Security Data,software,Done,08/10/2024 08:52,05/11/2024 17:17
+SECDATA-696,Task,Closed,SECDATA,Security Data,software,Done,28/08/2024 14:02,11/09/2024 18:44
+SECDATA-689,Story,Closed,SECDATA,Security Data,software,Done,26/08/2024 17:05,19/09/2024 16:22
+SECDATA-688,Task,Closed,SECDATA,Security Data,software,Done,22/08/2024 20:16,12/09/2024 13:16
+SECDATA-687,Task,Closed,SECDATA,Security Data,software,Done,22/08/2024 14:31,22/08/2024 16:48
+SECDATA-683,Task,Closed,SECDATA,Security Data,software,Done,21/08/2024 17:48,22/08/2024 16:43
+SECDATA-545,Story,Closed,SECDATA,Security Data,software,Done,07/04/2024 15:45,08/04/2024 11:06
+SECDATA-497,Bug,Closed,SECDATA,Security Data,software,Done,19/02/2024 23:13,26/02/2024 08:31
+SECDATA-464,Story,Closed,SECDATA,Security Data,software,Done,24/01/2024 00:36,26/01/2024 13:29
+SECDATA-444,Story,Closed,SECDATA,Security Data,software,Won't Do,18/12/2023 07:27,25/03/2024 12:35
+SECDATA-403,Story,Closed,SECDATA,Security Data,software,Done,01/11/2023 19:12,01/11/2023 19:45
+SECDATA-389,Task,Closed,SECDATA,Security Data,software,Done,12/10/2023 15:25,12/10/2023 17:21
+SECDATA-345,Bug,Closed,SECDATA,Security Data,software,Done,25/07/2023 16:53,04/08/2023 13:25
+SECDATA-325,Story,Closed,SECDATA,Security Data,software,Done,07/06/2023 18:05,13/07/2023 13:25
+SECDATA-304,Task,Closed,SECDATA,Security Data,software,Done,16/05/2023 15:11,18/04/2024 19:25
+SECDATA-302,Story,Closed,SECDATA,Security Data,software,Done,12/05/2023 13:23,22/05/2023 19:20
+SECDATA-300,Task,Closed,SECDATA,Security Data,software,Done,09/05/2023 12:55,16/05/2023 15:08
+SECDATA-278,Bug,Closed,SECDATA,Security Data,software,Won't Do,05/04/2023 01:01,27/02/2024 14:18
+SECDATA-273,Task,Closed,SECDATA,Security Data,software,Duplicate,07/12/2022 10:01,04/04/2023 13:41
+SECDATA-260,Story,Closed,SECDATA,Security Data,software,Obsolete,17/03/2023 13:42,16/08/2023 19:15
+SECDATA-231,Story,Closed,SECDATA,Security Data,software,Not a Bug,09/02/2023 23:45,13/02/2023 16:21
+SECDATA-207,Bug,Closed,SECDATA,Security Data,software,Duplicate,12/01/2023 14:42,10/02/2023 21:09
+SECDATA-205,Story,Closed,SECDATA,Security Data,software,Not a Bug,11/01/2023 14:34,11/01/2023 15:27
+SECDATA-200,Story,Closed,SECDATA,Security Data,software,Done,13/12/2022 16:16,12/01/2023 20:03
+SECDATA-195,Story,Closed,SECDATA,Security Data,software,Not a Bug,06/12/2022 21:59,07/12/2022 01:43
+SECDATA-193,Story,Closed,SECDATA,Security Data,software,Not a Bug,22/11/2022 11:21,22/11/2022 16:14
+SECDATA-185,Story,Closed,SECDATA,Security Data,software,Done,08/11/2022 14:50,08/11/2022 15:09
+SECDATA-183,Story,Closed,SECDATA,Security Data,software,Done,08/11/2022 12:07,08/11/2022 18:13
+SECDATA-182,Story,Closed,SECDATA,Security Data,software,Done,08/11/2022 08:36,08/11/2022 18:06
+SECDATA-180,Story,Closed,SECDATA,Security Data,software,Done,02/11/2022 17:53,11/11/2022 15:06
+SECDATA-174,Bug,Closed,SECDATA,Security Data,software,Duplicate,18/10/2022 12:23,24/10/2022 14:10
+SECDATA-169,Bug,Closed,SECDATA,Security Data,software,Done,13/10/2022 07:20,14/10/2022 13:47
+SECDATA-159,Story,Closed,SECDATA,Security Data,software,Obsolete,11/10/2022 19:26,19/02/2024 13:02
+SECDATA-133,Bug,Closed,SECDATA,Security Data,software,Done,06/10/2022 20:20,24/10/2022 13:56
+SECDATA-36,Bug,Closed,SECDATA,Security Data,software,Duplicate,29/10/2020 14:36,27/02/2024 14:43
+SECDATA-27,Bug,Closed,SECDATA,Security Data,software,Done,26/09/2022 09:42,03/10/2022 19:59
+SECDATA-26,Story,Closed,SECDATA,Security Data,software,Done,23/08/2022 18:50,29/08/2022 23:00
+SECDATA-24,Story,Closed,SECDATA,Security Data,software,Done,24/06/2022 12:09,09/12/2022 12:44
+SECDATA-23,Story,Closed,SECDATA,Security Data,software,Done,20/06/2022 12:58,06/07/2022 01:15
+SECDATA-22,Story,Closed,SECDATA,Security Data,software,Done,13/06/2022 13:08,27/06/2022 17:55
+SECDATA-21,Story,Closed,SECDATA,Security Data,software,Done,03/06/2022 18:32,09/06/2022 17:41
+SECDATA-20,Story,Closed,SECDATA,Security Data,software,Done,20/05/2022 21:53,17/06/2022 05:21
+SECDATA-17,Story,Closed,SECDATA,Security Data,software,Done,01/04/2022 18:41,18/05/2022 05:14
+SECDATA-16,Story,Closed,SECDATA,Security Data,software,Won't Do,29/03/2022 16:30,03/04/2022 22:38
+SECDATA-15,Story,Closed,SECDATA,Security Data,software,Done,21/03/2022 13:45,27/01/2023 14:56
+SECDATA-14,Story,Closed,SECDATA,Security Data,software,Done,17/03/2022 11:58,06/12/2022 20:34
+SECDATA-13,Story,Closed,SECDATA,Security Data,software,Done,16/03/2022 12:13,18/05/2022 05:13
+SECDATA-12,Story,Closed,SECDATA,Security Data,software,Won't Do,17/02/2022 12:02,10/04/2022 20:42
+SECDATA-11,Story,Closed,SECDATA,Security Data,software,Done,02/02/2022 20:23,08/03/2022 03:00
+SECDATA-10,Story,Closed,SECDATA,Security Data,software,Won't Do,05/12/2021 10:00,19/10/2022 23:33
+SECDATA-9,Story,Closed,SECDATA,Security Data,software,Done,16/11/2021 11:33,17/11/2021 16:15
+SECDATA-8,Story,Closed,SECDATA,Security Data,software,Done,14/11/2021 12:26,15/11/2021 04:40
+SECDATA-7,Story,Closed,SECDATA,Security Data,software,Done,25/10/2021 19:56,27/10/2021 16:59
+SECDATA-6,Story,Closed,SECDATA,Security Data,software,Won't Do,19/10/2021 23:29,19/10/2021 23:30
+SECDATA-4,Story,Closed,SECDATA,Security Data,software,Duplicate,14/10/2021 10:47,15/11/2021 04:02

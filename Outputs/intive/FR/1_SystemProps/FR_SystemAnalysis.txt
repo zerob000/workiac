@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2014-04-09 13:25:00 End date: 2016-10-04 14:32:00
+System: {'BUZZDASH': 578}
+Types: {'Task': 56, 'Note': 13, 'Bug': 216, 'New Feature': 11, 'Sub-task': 186, 'Question': 12, 'Improvement': 15, 'User Story': 69}
+Resolutions: {'Closed': 286, 'Open': 10, 'Resolved': 280, 'Reopened': 1, 'In progress': 1}
+Statuses: {'Closed': 286, 'Open': 10, 'Resolved': 280, 'Reopened': 1, 'In progress': 1}
+
+Average Lead Time (all PBIs): 20.8 days
+Average Lead Time (Task): 42.4 days
+Average Lead Time (Bug): 11.4 days
+Average Lead Time (New Feature): 49.8 days
+Average Lead Time (Note): 80.1 days
+Average Lead Time (Sub-task): 14.2 days
+Average Lead Time (Question): 51.7 days
+Average Lead Time (Improvement): 38.7 days
+Average Lead Time (User Story): 31.4 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2016-06-26 14:32:00 End date: 2016-10-04 14:32:00
+System: {'BUZZDASH': 1}
+Types: {'Task': 1}
+Resolutions: {'Closed': 1}
+Statuses: {'Closed': 1}
+
+Average Lead Time (all PBIs): 431.0 days
+Average Lead Time (Task): 431.0 days

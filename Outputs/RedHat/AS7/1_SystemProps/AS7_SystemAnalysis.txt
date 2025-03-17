@@ -1,5 +1,5 @@
 All PBIS - Unfiltered 
-Start date: 1901-01-01 12:01:00 End date: 2013-09-20 05:05:00
+Start date: 2006-04-19 09:53:00 End date: 2013-09-20 05:05:00
 System: {'AS7': 5481}
 Types: {'Bug': 3077, 'Feature Request': 955, 'Task': 1047, 'Component Upgrade': 140, 'Enhancement': 205, 'Library Upgrade': 14, 'Clarification': 25, 'Quality Risk': 11, 'Patch': 1, 'Tracker': 2, 'Release': 1, 'Epic': 2, 'Story': 1}
 Resolutions: {'Done': 4395, 'Obsolete': 231, "Won't Do": 554, 'Cannot Reproduce': 99, 'Duplicate': 192, "Can't Do": 10}

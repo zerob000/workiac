@@ -1,0 +1,377 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+SKUPPER-2341,Task,New,SKUPPER,Red Hat Service Interconnect (Skupper),software,,15/11/2024 03:30,
+SKUPPER-2338,Task,In Progress,SKUPPER,Red Hat Service Interconnect (Skupper),software,,11/11/2024 19:23,
+SKUPPER-2335,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,11/11/2024 13:14,11/11/2024 19:22
+SKUPPER-2333,Task,In Progress,SKUPPER,Red Hat Service Interconnect (Skupper),software,,08/11/2024 20:35,
+SKUPPER-2323,Task,In Progress,SKUPPER,Red Hat Service Interconnect (Skupper),software,,07/11/2024 13:35,
+SKUPPER-2322,Task,To Do,SKUPPER,Red Hat Service Interconnect (Skupper),software,,06/11/2024 17:51,
+SKUPPER-2321,Task,New,SKUPPER,Red Hat Service Interconnect (Skupper),software,,06/11/2024 17:24,
+SKUPPER-2320,Task,To Do,SKUPPER,Red Hat Service Interconnect (Skupper),software,,06/11/2024 17:22,
+SKUPPER-2319,Epic,To Do,SKUPPER,Red Hat Service Interconnect (Skupper),software,,06/11/2024 17:18,
+SKUPPER-2318,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Duplicate,06/11/2024 11:07,06/11/2024 17:51
+SKUPPER-2317,Task,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,06/11/2024 10:59,06/11/2024 13:21
+SKUPPER-2316,Task,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,06/11/2024 10:57,06/11/2024 16:18
+SKUPPER-2314,Story,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,05/11/2024 13:27,
+SKUPPER-2309,Epic,New,SKUPPER,Red Hat Service Interconnect (Skupper),software,,31/10/2024 08:44,
+SKUPPER-2304,Bug,Dev Complete,SKUPPER,Red Hat Service Interconnect (Skupper),software,,25/10/2024 15:52,
+SKUPPER-2303,Bug,Dev Complete,SKUPPER,Red Hat Service Interconnect (Skupper),software,,25/10/2024 15:46,
+SKUPPER-2302,Story,To Do,SKUPPER,Red Hat Service Interconnect (Skupper),software,,21/10/2024 16:35,
+SKUPPER-2300,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,21/10/2024 07:56,28/10/2024 02:30
+SKUPPER-2292,Task,New,SKUPPER,Red Hat Service Interconnect (Skupper),software,,09/10/2024 16:34,
+SKUPPER-2265,Story,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,03/10/2024 19:56,
+SKUPPER-2264,Task,Release Pending,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,03/10/2024 19:33,22/10/2024 23:55
+SKUPPER-2261,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,02/10/2024 13:54,02/10/2024 13:57
+SKUPPER-2245,Bug,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,26/09/2024 11:13,02/10/2024 11:17
+SKUPPER-2221,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,16/09/2024 19:36,16/09/2024 19:47
+SKUPPER-2220,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,16/09/2024 19:33,24/09/2024 20:12
+SKUPPER-2219,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,16/09/2024 19:32,17/09/2024 20:17
+SKUPPER-2218,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,16/09/2024 19:16,03/10/2024 06:46
+SKUPPER-2217,Bug,To Do,SKUPPER,Red Hat Service Interconnect (Skupper),software,,16/09/2024 15:19,
+SKUPPER-2215,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,16/09/2024 14:27,16/09/2024 14:27
+SKUPPER-2214,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,16/09/2024 13:29,16/09/2024 13:36
+SKUPPER-2213,Task,New,SKUPPER,Red Hat Service Interconnect (Skupper),software,,16/09/2024 13:20,
+SKUPPER-2211,Story,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,16/09/2024 10:35,
+SKUPPER-2210,Story,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,16/09/2024 10:35,
+SKUPPER-2209,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Won't Do,16/09/2024 10:34,30/10/2024 15:00
+SKUPPER-2208,Story,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,16/09/2024 10:32,
+SKUPPER-2207,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,13/09/2024 17:55,05/11/2024 10:40
+SKUPPER-2205,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,11/09/2024 20:21,11/11/2024 19:23
+SKUPPER-2175,Task,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,10/09/2024 13:12,16/09/2024 10:14
+SKUPPER-2174,Task,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,09/09/2024 18:00,09/09/2024 18:00
+SKUPPER-2173,Epic,New,SKUPPER,Red Hat Service Interconnect (Skupper),software,,07/09/2024 11:02,
+SKUPPER-2168,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,04/09/2024 15:54,29/10/2024 11:29
+SKUPPER-2136,Task,New,SKUPPER,Red Hat Service Interconnect (Skupper),software,,30/08/2024 09:31,
+SKUPPER-2135,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,30/08/2024 09:27,30/08/2024 09:28
+SKUPPER-2112,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Won't Do,28/08/2024 18:23,04/09/2024 13:43
+SKUPPER-2111,Story,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,28/08/2024 15:25,
+SKUPPER-2110,Bug,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,28/08/2024 12:49,06/11/2024 18:58
+SKUPPER-2109,Story,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,27/08/2024 20:01,
+SKUPPER-2108,Task,To Do,SKUPPER,Red Hat Service Interconnect (Skupper),software,,27/08/2024 13:22,
+SKUPPER-2106,Task,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,26/08/2024 15:10,04/10/2024 15:51
+SKUPPER-2105,Story,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,23/08/2024 12:41,
+SKUPPER-2104,Story,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,22/08/2024 20:13,
+SKUPPER-2100,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,21/08/2024 18:47,04/09/2024 12:57
+SKUPPER-2086,Task,New,SKUPPER,Red Hat Service Interconnect (Skupper),software,,21/08/2024 05:26,
+SKUPPER-2085,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,20/08/2024 17:24,03/10/2024 09:08
+SKUPPER-2077,Bug,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,16/08/2024 15:40,
+SKUPPER-2070,Bug,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,12/08/2024 07:22,12/08/2024 20:00
+SKUPPER-2051,Task,New,SKUPPER,Red Hat Service Interconnect (Skupper),software,,09/08/2024 18:11,
+SKUPPER-2037,Task,New,SKUPPER,Red Hat Service Interconnect (Skupper),software,,09/08/2024 14:38,
+SKUPPER-2036,Task,New,SKUPPER,Red Hat Service Interconnect (Skupper),software,,09/08/2024 14:38,
+SKUPPER-2035,Task,New,SKUPPER,Red Hat Service Interconnect (Skupper),software,,09/08/2024 14:38,
+SKUPPER-2034,Task,New,SKUPPER,Red Hat Service Interconnect (Skupper),software,,09/08/2024 14:38,
+SKUPPER-2014,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Duplicate,08/08/2024 18:46,16/09/2024 10:17
+SKUPPER-2013,Bug,In Progress,SKUPPER,Red Hat Service Interconnect (Skupper),software,,08/08/2024 17:09,
+SKUPPER-2012,Bug,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,08/08/2024 07:09,14/08/2024 17:34
+SKUPPER-2010,Task,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,07/08/2024 20:11,04/10/2024 15:52
+SKUPPER-2003,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,06/08/2024 16:17,07/08/2024 19:36
+SKUPPER-2001,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,05/08/2024 20:02,03/10/2024 06:46
+SKUPPER-2000,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,05/08/2024 20:00,03/10/2024 06:46
+SKUPPER-1999,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,05/08/2024 19:58,25/10/2024 15:41
+SKUPPER-1998,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,05/08/2024 19:57,03/10/2024 09:08
+SKUPPER-1997,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,05/08/2024 19:53,03/10/2024 06:46
+SKUPPER-1995,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,05/08/2024 19:49,03/10/2024 09:08
+SKUPPER-1994,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,05/08/2024 19:47,03/10/2024 06:46
+SKUPPER-1993,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,05/08/2024 19:37,03/10/2024 09:08
+SKUPPER-1992,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,05/08/2024 19:36,03/10/2024 06:46
+SKUPPER-1991,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,05/08/2024 19:34,03/10/2024 06:45
+SKUPPER-1990,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,05/08/2024 19:32,03/10/2024 06:45
+SKUPPER-1989,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,05/08/2024 19:31,25/10/2024 15:32
+SKUPPER-1987,Story,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,31/07/2024 13:51,06/11/2024 18:57
+SKUPPER-1986,Story,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,31/07/2024 13:50,06/11/2024 18:57
+SKUPPER-1985,Bug,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,31/07/2024 08:46,
+SKUPPER-1984,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,29/07/2024 07:20,30/07/2024 23:51
+SKUPPER-1983,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,26/07/2024 19:08,21/08/2024 13:46
+SKUPPER-1982,Task,To Do,SKUPPER,Red Hat Service Interconnect (Skupper),software,,26/07/2024 16:47,
+SKUPPER-1981,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Obsolete,26/07/2024 16:46,06/11/2024 18:57
+SKUPPER-1980,Bug,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,26/07/2024 16:44,
+SKUPPER-1979,Story,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,26/07/2024 15:06,06/11/2024 18:46
+SKUPPER-1978,Bug,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,26/07/2024 14:54,06/11/2024 18:53
+SKUPPER-1977,Story,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,26/07/2024 14:51,06/11/2024 18:53
+SKUPPER-1976,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,26/07/2024 14:46,26/07/2024 14:47
+SKUPPER-1975,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,26/07/2024 14:45,26/07/2024 14:45
+SKUPPER-1974,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,26/07/2024 14:43,26/07/2024 14:44
+SKUPPER-1973,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,26/07/2024 14:42,26/07/2024 14:42
+SKUPPER-1972,Task,Dev Complete,SKUPPER,Red Hat Service Interconnect (Skupper),software,,24/07/2024 15:17,
+SKUPPER-1925,Story,Code Review,SKUPPER,Red Hat Service Interconnect (Skupper),software,,08/07/2024 18:16,
+SKUPPER-1924,Story,Code Review,SKUPPER,Red Hat Service Interconnect (Skupper),software,,08/07/2024 18:15,
+SKUPPER-1917,Bug,New,SKUPPER,Red Hat Service Interconnect (Skupper),software,,03/07/2024 14:49,
+SKUPPER-1910,Story,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,25/06/2024 13:02,06/11/2024 18:53
+SKUPPER-1909,Story,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,25/06/2024 12:58,06/11/2024 18:54
+SKUPPER-1908,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,25/06/2024 11:59,25/06/2024 12:01
+SKUPPER-1905,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,24/06/2024 06:54,28/06/2024 16:40
+SKUPPER-1903,Bug,Dev Complete,SKUPPER,Red Hat Service Interconnect (Skupper),software,,21/06/2024 20:14,
+SKUPPER-1901,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,19/06/2024 17:39,19/06/2024 18:09
+SKUPPER-1855,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,13/06/2024 16:13,14/08/2024 15:17
+SKUPPER-1846,Task,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,04/06/2024 15:09,
+SKUPPER-1845,Task,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,04/06/2024 15:07,
+SKUPPER-1844,Task,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,04/06/2024 15:05,
+SKUPPER-1843,Task,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,04/06/2024 15:05,
+SKUPPER-1839,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,03/06/2024 17:37,20/08/2024 12:29
+SKUPPER-1838,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,03/06/2024 16:15,20/08/2024 12:28
+SKUPPER-1836,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,31/05/2024 19:56,14/08/2024 15:14
+SKUPPER-1833,Task,Refinement,SKUPPER,Red Hat Service Interconnect (Skupper),software,,31/05/2024 12:39,
+SKUPPER-1830,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,27/05/2024 17:33,01/06/2024 05:11
+SKUPPER-1829,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,27/05/2024 07:01,18/06/2024 19:05
+SKUPPER-1819,Story,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,21/05/2024 11:49,
+SKUPPER-1812,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,15/05/2024 11:51,20/06/2024 16:14
+SKUPPER-1811,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,14/05/2024 14:32,03/10/2024 06:45
+SKUPPER-1808,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,10/05/2024 14:33,14/08/2024 15:16
+SKUPPER-1802,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,09/05/2024 17:46,09/07/2024 13:06
+SKUPPER-1791,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,06/05/2024 07:02,13/05/2024 23:32
+SKUPPER-1763,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Not a Bug,28/04/2024 03:19,29/04/2024 09:15
+SKUPPER-1757,Task,To Do,SKUPPER,Red Hat Service Interconnect (Skupper),software,,23/04/2024 18:31,
+SKUPPER-1755,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,23/04/2024 15:09,03/10/2024 09:08
+SKUPPER-1754,Task,To Do,SKUPPER,Red Hat Service Interconnect (Skupper),software,,23/04/2024 14:24,
+SKUPPER-1742,Story,In Progress,SKUPPER,Red Hat Service Interconnect (Skupper),software,,17/04/2024 18:36,
+SKUPPER-1741,Task,In Progress,SKUPPER,Red Hat Service Interconnect (Skupper),software,,17/04/2024 13:24,
+SKUPPER-1740,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,17/04/2024 13:22,14/08/2024 15:16
+SKUPPER-1739,Task,Release Pending,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,17/04/2024 12:49,24/09/2024 20:11
+SKUPPER-1738,Task,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,17/04/2024 12:41,06/11/2024 18:54
+SKUPPER-1737,Task,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,17/04/2024 12:36,06/11/2024 18:54
+SKUPPER-1735,Task,In Progress,SKUPPER,Red Hat Service Interconnect (Skupper),software,,17/04/2024 12:34,
+SKUPPER-1734,Task,In Progress,SKUPPER,Red Hat Service Interconnect (Skupper),software,,17/04/2024 12:32,
+SKUPPER-1730,Task,To Do,SKUPPER,Red Hat Service Interconnect (Skupper),software,,16/04/2024 13:47,
+SKUPPER-1727,Task,New,SKUPPER,Red Hat Service Interconnect (Skupper),software,,15/04/2024 14:21,
+SKUPPER-1726,Bug,New,SKUPPER,Red Hat Service Interconnect (Skupper),software,,12/04/2024 13:29,
+SKUPPER-1725,Story,New,SKUPPER,Red Hat Service Interconnect (Skupper),software,,12/04/2024 13:25,
+SKUPPER-1723,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Obsolete,11/04/2024 14:04,04/06/2024 14:56
+SKUPPER-1716,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,09/04/2024 23:41,03/10/2024 09:08
+SKUPPER-1714,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,09/04/2024 14:16,25/10/2024 15:30
+SKUPPER-1706,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,05/04/2024 12:37,03/10/2024 06:45
+SKUPPER-1705,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,05/04/2024 12:34,20/06/2024 16:14
+SKUPPER-1704,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,05/04/2024 12:32,25/10/2024 15:32
+SKUPPER-1696,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,27/03/2024 15:15,12/08/2024 14:32
+SKUPPER-1681,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,25/03/2024 18:03,25/10/2024 15:41
+SKUPPER-1680,Task,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,25/03/2024 17:47,06/11/2024 18:41
+SKUPPER-1679,Bug,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,22/03/2024 14:45,
+SKUPPER-1673,Task,Code Review,SKUPPER,Red Hat Service Interconnect (Skupper),software,,19/03/2024 16:53,
+SKUPPER-1667,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,19/03/2024 15:14,03/10/2024 06:45
+SKUPPER-1665,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Won't Do,19/03/2024 10:21,24/07/2024 14:53
+SKUPPER-1646,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,11/03/2024 07:00,29/04/2024 12:06
+SKUPPER-1642,Story,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,07/03/2024 14:46,30/10/2024 10:47
+SKUPPER-1635,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,06/03/2024 18:51,25/10/2024 15:35
+SKUPPER-1634,Task,In Progress,SKUPPER,Red Hat Service Interconnect (Skupper),software,,29/02/2024 09:21,
+SKUPPER-1631,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,27/02/2024 13:52,03/10/2024 06:45
+SKUPPER-1630,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,27/02/2024 13:50,03/10/2024 09:08
+SKUPPER-1629,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,27/02/2024 13:48,22/04/2024 06:50
+SKUPPER-1628,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,27/02/2024 13:46,03/10/2024 09:08
+SKUPPER-1627,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,27/02/2024 13:44,03/10/2024 06:45
+SKUPPER-1626,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,27/02/2024 13:40,03/10/2024 09:08
+SKUPPER-1625,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,27/02/2024 13:38,03/10/2024 06:45
+SKUPPER-1624,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,27/02/2024 13:36,03/10/2024 09:08
+SKUPPER-1623,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,27/02/2024 13:32,03/10/2024 06:45
+SKUPPER-1622,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,27/02/2024 13:30,03/10/2024 06:45
+SKUPPER-1620,Bug,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,26/02/2024 18:20,
+SKUPPER-1619,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,26/02/2024 16:40,25/10/2024 15:37
+SKUPPER-1614,Task,Verified,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,22/02/2024 15:13,22/02/2024 19:27
+SKUPPER-1610,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,22/02/2024 13:53,27/02/2024 17:23
+SKUPPER-1597,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,13/02/2024 16:51,13/02/2024 16:51
+SKUPPER-1596,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,13/02/2024 16:12,16/05/2024 11:44
+SKUPPER-1595,Task,To Do,SKUPPER,Red Hat Service Interconnect (Skupper),software,,13/02/2024 16:08,
+SKUPPER-1591,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,12/02/2024 06:50,15/02/2024 19:29
+SKUPPER-1587,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,08/02/2024 15:16,25/10/2024 15:42
+SKUPPER-1564,Story,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,24/01/2024 21:23,
+SKUPPER-1563,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,24/01/2024 17:00,13/02/2024 11:48
+SKUPPER-1561,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Obsolete,23/01/2024 15:41,06/11/2024 18:44
+SKUPPER-1560,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,23/01/2024 15:41,25/10/2024 15:37
+SKUPPER-1559,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,23/01/2024 15:40,25/10/2024 15:37
+SKUPPER-1558,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,23/01/2024 15:38,25/10/2024 15:35
+SKUPPER-1531,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,15/01/2024 18:53,25/01/2024 19:49
+SKUPPER-1528,Task,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,12/01/2024 19:44,
+SKUPPER-1527,Task,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,12/01/2024 19:35,25/03/2024 17:41
+SKUPPER-1525,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,12/01/2024 16:59,05/07/2024 02:45
+SKUPPER-1524,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,12/01/2024 16:58,19/01/2024 14:07
+SKUPPER-1505,Bug,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,10/01/2024 20:11,
+SKUPPER-1497,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,09/01/2024 16:56,25/10/2024 15:36
+SKUPPER-1496,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,08/01/2024 20:25,04/03/2024 13:14
+SKUPPER-1467,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,25/12/2023 06:46,02/01/2024 18:43
+SKUPPER-1464,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Obsolete,22/12/2023 20:33,06/11/2024 18:44
+SKUPPER-1463,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,22/12/2023 20:31,18/04/2024 07:18
+SKUPPER-1458,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Cannot Reproduce,19/12/2023 14:50,03/01/2024 17:41
+SKUPPER-1438,Task,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,15/12/2023 19:40,
+SKUPPER-1437,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,15/12/2023 19:28,19/12/2023 14:53
+SKUPPER-1436,Story,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,15/12/2023 19:23,
+SKUPPER-1435,Bug,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,15/12/2023 19:12,
+SKUPPER-1431,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,06/12/2023 21:19,25/10/2024 15:41
+SKUPPER-1425,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,05/12/2023 19:00,18/04/2024 07:00
+SKUPPER-1424,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,05/12/2023 17:00,07/12/2023 18:23
+SKUPPER-1423,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,05/12/2023 15:48,22/05/2024 19:23
+SKUPPER-1418,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,04/12/2023 23:44,18/04/2024 07:00
+SKUPPER-1417,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,04/12/2023 22:23,18/04/2024 07:00
+SKUPPER-1416,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,04/12/2023 22:01,18/04/2024 07:00
+SKUPPER-1415,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,04/12/2023 21:57,18/04/2024 07:00
+SKUPPER-1410,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,30/11/2023 15:23,22/05/2024 19:58
+SKUPPER-1404,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,29/11/2023 11:32,27/06/2024 11:21
+SKUPPER-1403,Task,Review,SKUPPER,Red Hat Service Interconnect (Skupper),software,,29/11/2023 08:30,
+SKUPPER-1400,Bug,Release Pending,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,28/11/2023 21:16,22/01/2024 14:04
+SKUPPER-1399,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,28/11/2023 19:31,12/08/2024 14:31
+SKUPPER-1398,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,28/11/2023 19:17,18/04/2024 07:00
+SKUPPER-1384,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,26/11/2023 15:04,18/04/2024 07:00
+SKUPPER-1342,Task,Review,SKUPPER,Red Hat Service Interconnect (Skupper),software,,17/11/2023 03:32,
+SKUPPER-1341,Task,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,17/11/2023 03:19,29/02/2024 09:22
+SKUPPER-1340,Task,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,16/11/2023 21:15,
+SKUPPER-1339,Story,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,16/11/2023 19:19,
+SKUPPER-1338,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,16/11/2023 19:17,18/04/2024 07:18
+SKUPPER-1337,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,15/11/2023 17:35,18/04/2024 07:00
+SKUPPER-1336,Story,Refinement,SKUPPER,Red Hat Service Interconnect (Skupper),software,,15/11/2023 16:05,
+SKUPPER-1334,Task,New,SKUPPER,Red Hat Service Interconnect (Skupper),software,,15/11/2023 15:10,
+SKUPPER-1333,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,15/11/2023 14:36,03/01/2024 14:18
+SKUPPER-1331,Task,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,14/11/2023 19:26,
+SKUPPER-1328,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,13/11/2023 16:32,25/10/2024 15:40
+SKUPPER-1327,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Won't Do,13/11/2023 16:26,04/09/2024 14:07
+SKUPPER-1326,Task,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,13/11/2023 16:13,
+SKUPPER-1324,Bug,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,10/11/2023 19:00,
+SKUPPER-1321,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,10/11/2023 14:20,12/08/2024 14:31
+SKUPPER-1320,Story,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,10/11/2023 14:06,
+SKUPPER-1317,Story,Refinement,SKUPPER,Red Hat Service Interconnect (Skupper),software,,07/11/2023 17:57,
+SKUPPER-1315,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,06/11/2023 21:39,29/11/2023 14:27
+SKUPPER-1312,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,06/11/2023 07:52,04/12/2023 14:16
+SKUPPER-1305,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,25/10/2023 18:52,12/08/2024 14:31
+SKUPPER-1304,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,25/10/2023 18:23,18/04/2024 07:18
+SKUPPER-1303,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,25/10/2023 13:51,18/04/2024 07:00
+SKUPPER-1302,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,25/10/2023 13:48,23/04/2024 15:37
+SKUPPER-1301,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,25/10/2023 13:16,22/05/2024 18:58
+SKUPPER-1300,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,25/10/2023 13:12,18/04/2024 07:00
+SKUPPER-1299,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,25/10/2023 13:08,22/05/2024 18:34
+SKUPPER-1298,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,25/10/2023 13:01,22/05/2024 18:15
+SKUPPER-1297,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Obsolete,25/10/2023 12:58,06/11/2024 18:44
+SKUPPER-1293,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,24/10/2023 12:56,22/05/2024 16:31
+SKUPPER-1285,Bug,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,12/10/2023 18:46,
+SKUPPER-1284,Bug,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,12/10/2023 12:11,
+SKUPPER-1283,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Not a Bug,12/10/2023 10:42,20/05/2024 17:17
+SKUPPER-1282,Task,Verified,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,12/10/2023 10:02,01/02/2024 14:45
+SKUPPER-1252,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,28/09/2023 20:47,30/10/2023 08:19
+SKUPPER-1251,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,28/09/2023 20:41,23/10/2023 14:58
+SKUPPER-1250,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,28/09/2023 20:36,23/10/2023 14:59
+SKUPPER-1249,Bug,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,28/09/2023 18:06,
+SKUPPER-1248,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,28/09/2023 16:10,12/08/2024 14:59
+SKUPPER-1244,Story,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,27/09/2023 10:47,02/09/2024 14:27
+SKUPPER-1243,Task,New,SKUPPER,Red Hat Service Interconnect (Skupper),software,,27/09/2023 10:41,
+SKUPPER-1242,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,25/09/2023 16:21,10/06/2024 20:56
+SKUPPER-1241,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,25/09/2023 16:20,22/05/2024 20:30
+SKUPPER-1238,Bug,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,21/09/2023 18:27,
+SKUPPER-1228,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,15/09/2023 16:31,27/09/2023 14:42
+SKUPPER-1221,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,14/09/2023 20:35,14/09/2023 20:58
+SKUPPER-1197,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Won't Do,08/09/2023 15:09,24/10/2023 17:55
+SKUPPER-1196,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,08/09/2023 13:32,22/05/2024 18:29
+SKUPPER-1195,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,07/09/2023 18:47,12/08/2024 15:01
+SKUPPER-1182,Task,New,SKUPPER,Red Hat Service Interconnect (Skupper),software,,30/08/2023 21:21,
+SKUPPER-1181,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,30/08/2023 16:59,26/09/2023 15:30
+SKUPPER-1167,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,30/08/2023 11:51,23/04/2024 15:20
+SKUPPER-1165,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,29/08/2023 14:27,29/08/2023 16:10
+SKUPPER-1133,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Duplicate,21/08/2023 11:55,21/08/2023 12:09
+SKUPPER-1128,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,16/08/2023 03:04,06/12/2023 02:33
+SKUPPER-1127,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,15/08/2023 19:36,03/10/2023 10:03
+SKUPPER-1120,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Duplicate,14/08/2023 20:33,23/08/2023 13:45
+SKUPPER-1119,Bug,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,14/08/2023 17:33,
+SKUPPER-1118,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,14/08/2023 16:20,23/10/2023 14:59
+SKUPPER-1105,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Not a Bug,07/08/2023 20:57,07/08/2023 20:58
+SKUPPER-1069,Bug,Release Pending,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,01/08/2023 17:45,22/01/2024 14:03
+SKUPPER-1064,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,01/08/2023 14:48,23/10/2023 14:59
+SKUPPER-1050,Story,To Do,SKUPPER,Red Hat Service Interconnect (Skupper),software,,28/07/2023 19:19,
+SKUPPER-1049,Story,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,28/07/2023 19:18,06/11/2024 18:43
+SKUPPER-1048,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,28/07/2023 19:17,25/03/2024 17:47
+SKUPPER-1047,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,28/07/2023 19:16,12/01/2024 19:41
+SKUPPER-979,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,24/07/2023 19:17,09/08/2023 03:53
+SKUPPER-976,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,24/07/2023 18:34,18/04/2024 07:18
+SKUPPER-970,Story,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,24/07/2023 11:47,
+SKUPPER-969,Story,To Do,SKUPPER,Red Hat Service Interconnect (Skupper),software,,24/07/2023 11:31,
+SKUPPER-955,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,21/07/2023 14:39,12/08/2024 15:01
+SKUPPER-922,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,18/07/2023 18:18,18/04/2024 07:00
+SKUPPER-921,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,18/07/2023 14:23,23/04/2024 15:20
+SKUPPER-920,Bug,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,18/07/2023 14:09,
+SKUPPER-916,Story,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,17/07/2023 20:33,
+SKUPPER-915,Story,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,17/07/2023 20:31,
+SKUPPER-897,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,14/07/2023 14:41,23/04/2024 15:21
+SKUPPER-896,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Won't Do,14/07/2023 14:28,03/10/2023 17:42
+SKUPPER-895,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,13/07/2023 20:38,06/03/2024 20:00
+SKUPPER-894,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,13/07/2023 16:00,09/08/2023 03:53
+SKUPPER-893,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Duplicate,13/07/2023 15:44,28/11/2023 11:41
+SKUPPER-892,Task,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,13/07/2023 06:42,16/08/2023 02:20
+SKUPPER-891,Task,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,13/07/2023 01:43,13/08/2023 04:15
+SKUPPER-888,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,12/07/2023 11:03,09/08/2023 03:53
+SKUPPER-877,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,10/07/2023 10:55,23/10/2023 20:45
+SKUPPER-876,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,10/07/2023 10:53,20/06/2024 13:16
+SKUPPER-875,Story,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,10/07/2023 10:51,
+SKUPPER-874,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,07/07/2023 15:00,09/08/2023 03:53
+SKUPPER-873,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,07/07/2023 10:54,09/08/2023 03:53
+SKUPPER-872,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,07/07/2023 10:01,09/08/2023 03:53
+SKUPPER-868,Bug,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,28/06/2023 19:52,
+SKUPPER-861,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,25/06/2023 14:29,09/08/2023 03:12
+SKUPPER-859,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,21/06/2023 19:32,12/08/2024 14:32
+SKUPPER-846,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,14/06/2023 11:39,27/07/2023 12:08
+SKUPPER-828,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,30/05/2023 18:21,06/03/2024 20:02
+SKUPPER-822,Story,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,19/05/2023 03:16,
+SKUPPER-821,Story,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,19/05/2023 03:13,
+SKUPPER-820,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,19/05/2023 03:08,25/04/2024 13:06
+SKUPPER-810,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,10/05/2023 16:49,23/04/2024 15:42
+SKUPPER-805,Bug,To Do,SKUPPER,Red Hat Service Interconnect (Skupper),software,,09/05/2023 17:53,
+SKUPPER-803,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done-Errata,09/05/2023 14:40,18/04/2024 07:00
+SKUPPER-801,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,04/05/2023 16:29,05/05/2023 18:19
+SKUPPER-793,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,18/04/2023 15:26,23/04/2024 15:50
+SKUPPER-785,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,13/04/2023 16:22,13/04/2023 16:22
+SKUPPER-784,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,12/04/2023 19:33,26/07/2023 14:37
+SKUPPER-783,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,12/04/2023 19:21,18/04/2023 17:53
+SKUPPER-782,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,12/04/2023 19:21,26/07/2023 14:57
+SKUPPER-781,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,12/04/2023 19:16,26/07/2023 14:56
+SKUPPER-780,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,12/04/2023 18:59,26/07/2023 14:36
+SKUPPER-779,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,12/04/2023 18:25,26/07/2023 14:36
+SKUPPER-778,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,12/04/2023 18:19,26/07/2023 14:34
+SKUPPER-777,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,12/04/2023 18:18,21/07/2023 11:34
+SKUPPER-776,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,12/04/2023 18:11,13/04/2023 16:23
+SKUPPER-775,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,12/04/2023 18:11,26/07/2023 14:34
+SKUPPER-774,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,12/04/2023 18:09,26/07/2023 14:33
+SKUPPER-772,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,12/04/2023 17:58,19/04/2023 14:08
+SKUPPER-759,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,30/03/2023 12:45,20/07/2023 16:54
+SKUPPER-756,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,29/03/2023 16:10,12/08/2024 14:58
+SKUPPER-754,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,29/03/2023 16:03,23/04/2024 16:54
+SKUPPER-752,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,28/03/2023 13:53,12/04/2023 12:07
+SKUPPER-747,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,23/03/2023 15:30,20/07/2023 14:18
+SKUPPER-746,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,23/03/2023 15:25,20/07/2023 14:40
+SKUPPER-745,Task,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,23/03/2023 13:19,
+SKUPPER-675,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,28/02/2023 19:04,08/03/2023 14:19
+SKUPPER-658,Story,Backlog,SKUPPER,Red Hat Service Interconnect (Skupper),software,,23/02/2023 09:38,
+SKUPPER-654,Epic,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,22/02/2023 15:08,22/02/2023 15:09
+SKUPPER-520,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,09/01/2023 18:45,30/01/2023 17:24
+SKUPPER-516,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,03/01/2023 18:33,02/02/2023 14:50
+SKUPPER-515,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,16/12/2022 18:02,01/02/2023 18:02
+SKUPPER-513,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,06/12/2022 03:20,13/12/2022 14:01
+SKUPPER-428,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,06/10/2022 14:32,02/02/2023 14:48
+SKUPPER-397,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,13/09/2022 15:41,02/02/2023 14:46
+SKUPPER-386,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,07/09/2022 12:16,16/02/2023 20:33
+SKUPPER-384,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,26/08/2022 14:37,30/01/2023 17:24
+SKUPPER-380,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,11/08/2022 17:14,02/02/2023 14:46
+SKUPPER-316,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,12/07/2022 15:42,30/01/2023 17:24
+SKUPPER-315,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,12/07/2022 15:40,19/08/2022 17:32
+SKUPPER-314,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,12/07/2022 15:38,16/02/2023 13:31
+SKUPPER-309,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,05/07/2022 14:56,30/01/2023 17:24
+SKUPPER-306,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,28/06/2022 17:12,15/12/2023 17:32
+SKUPPER-302,Bug,Resolved,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,24/06/2022 17:33,25/10/2022 19:08
+SKUPPER-278,Story,Verified,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,14/06/2022 16:00,15/12/2022 10:59
+SKUPPER-209,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,17/05/2022 16:40,01/02/2023 18:00
+SKUPPER-201,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,06/05/2022 18:18,06/05/2022 18:18
+SKUPPER-199,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,03/05/2022 17:26,05/05/2022 18:31
+SKUPPER-192,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,03/05/2022 14:18,01/02/2023 17:56
+SKUPPER-180,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,27/04/2022 16:16,02/05/2022 21:01
+SKUPPER-179,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,26/04/2022 13:40,27/04/2022 15:31
+SKUPPER-178,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,21/04/2022 18:55,06/05/2022 18:11
+SKUPPER-154,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,12/04/2022 18:04,29/04/2022 19:05
+SKUPPER-151,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,11/04/2022 18:56,01/02/2023 17:53
+SKUPPER-143,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,06/04/2022 14:18,12/04/2022 17:39
+SKUPPER-142,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,06/04/2022 13:12,11/08/2022 16:59
+SKUPPER-140,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,06/04/2022 12:44,16/02/2023 17:50
+SKUPPER-138,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,03/04/2022 18:45,10/04/2022 14:56
+SKUPPER-137,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,01/04/2022 15:16,14/04/2022 17:11
+SKUPPER-132,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,22/03/2022 18:26,26/04/2022 17:33
+SKUPPER-120,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,11/03/2022 17:30,21/03/2022 16:57
+SKUPPER-119,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,10/03/2022 17:22,10/04/2022 15:02
+SKUPPER-118,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,10/03/2022 14:22,16/03/2022 18:59
+SKUPPER-116,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Obsolete,09/03/2022 18:50,23/06/2022 15:32
+SKUPPER-108,Bug,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,07/03/2022 14:45,19/05/2022 14:37
+SKUPPER-105,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,02/03/2022 18:54,10/04/2022 15:04
+SKUPPER-92,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,22/02/2022 19:55,16/03/2022 18:58
+SKUPPER-84,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,22/02/2022 17:01,24/03/2022 20:18
+SKUPPER-80,Task,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,22/02/2022 16:51,10/04/2022 15:07
+SKUPPER-25,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,18/08/2021 15:14,12/04/2022 13:05
+SKUPPER-22,Story,Closed,SKUPPER,Red Hat Service Interconnect (Skupper),software,Done,03/09/2021 18:14,15/02/2022 19:18

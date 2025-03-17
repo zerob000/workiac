@@ -1,5 +1,5 @@
 All PBIS - Unfiltered 
-Start date: 1901-01-01 12:01:00 End date: 2024-11-11 14:23:00
+Start date: 2013-01-22 10:29:00 End date: 2024-11-11 14:23:00
 System: {'JBEAP': 21678}
 Types: {'Bug': 15729, 'Component Upgrade': 2303, 'Enhancement': 1203, 'Task': 1143, 'Release': 275, 'Feature Request': 232, 'Quality Risk': 5, 'Documentation': 269, 'Requirement': 301, 'Clarification': 13, 'Technical Requirement': 5, 'Support Request': 14, 'Support Patch': 7, 'Library Upgrade': 1, 'Initiative': 1, 'Docs Task': 1, 'Tracker': 109, 'Epic': 29, 'QE Task': 5, 'Question': 10, 'Incident': 2, 'CTS Challenge': 2, 'Story': 2, 'Issue': 4, 'Analysis': 1, 'Patch': 2, 'Ticket': 5, 'Release tracker': 3, 'Doc': 1, 'RFE': 1}
 Resolutions: {'Done': 15985, 'Obsolete': 1353, 'Duplicate': 861, "Won't Do": 2219, 'Not a Bug': 213, 'Cannot Reproduce': 170, '': 614, "Can't Do": 26, 'Done-Errata': 237}

@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2010-06-07 09:04:00 End date: 2013-10-14 20:47:00
+System: {'GOODSMIMEANDR': 171}
+Types: {'Task': 87, 'Bug': 47, 'Documentation': 1, 'Sub-task': 17, 'New Feature': 3, 'User Story': 15, 'Risk': 1}
+Resolutions: {'Closed': 43, 'Resolved': 124, 'In progress': 3, 'Open': 1}
+Statuses: {'Closed': 43, 'Resolved': 124, 'In progress': 3, 'Open': 1}
+
+Average Lead Time (all PBIs): 35.2 days
+Average Lead Time (Task): 36.0 days
+Average Lead Time (Bug): 8.9 days
+Average Lead Time (Documentation): 6.0 days
+Average Lead Time (Sub-task): 42.1 days
+Average Lead Time (New Feature): 4.0 days
+Average Lead Time (User Story): 101.9 days
+Average Lead Time (Risk): 97.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-07-06 20:47:00 End date: 2013-10-14 20:47:00
+System: {'GOODSMIMEANDR': 1}
+Types: {'Task': 1}
+Resolutions: {'Closed': 1}
+Statuses: {'Closed': 1}
+
+Average Lead Time (all PBIs): 830.0 days
+Average Lead Time (Task): 830.0 days

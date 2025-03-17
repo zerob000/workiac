@@ -1,0 +1,64 @@
+Type,Count
+Backlog,5720
+Closed,362315
+Release Pending,2668
+New,21608
+In Progress,4306
+Review,821
+Refinement,798
+Code Review,451
+ON_QA,287
+Testing,335
+Resolved,61207
+Open,13427
+Coding In Progress,335
+Pull Request Sent,912
+Reopened,521
+To Do,8322
+SME Review,9
+Dev Complete,895
+Planning,2268
+Waiting,34
+Implemented,3
+Done,6353
+Pull Request,7
+Verified,5656
+ASSIGNED,700
+POST,330
+MODIFIED,386
+Stakeholder Acceptance,27
+Blocked,17
+Dropped,1
+Analysis,1
+QE Verification,1
+In Review,5
+Undefined,1
+Integration,221
+Release Backlog,1
+Development Next,1
+In Development,1
+Tasking and Estimation,17
+Selected for Development,12
+ON_DEV,19
+Ready for QA,58
+QA In Progress,5
+Stakeholder review,2
+Rejected,917
+Accepted,893
+Under Review,394
+Deferred,237
+On QA,17
+To Test (QE),74
+Developing,31
+To Develop,283
+Defining,39
+Defined,139
+To Define,30
+To Document,21
+To Ship To On-Prem,87
+To Design,4
+To Test For On-Prem,5
+Designing,1
+Documenting,6
+Testing (QE),1
+To Test For RHOAM,1

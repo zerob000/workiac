@@ -1,0 +1,35 @@
+All PBIS - Unfiltered 
+Start date: 2012-08-17 15:06:00 End date: 2012-12-11 00:16:00
+System: {'ZUMMEEV': 220}
+Types: {'Task': 2, 'Sub-task': 124, 'User Story': 41, 'Bug': 36, 'Lessons Learned': 1, 'Question': 1, 'Improvement': 10, 'New Feature': 5}
+Resolutions: {'Closed': 219, 'In progress': 1}
+Statuses: {'Closed': 219, 'In progress': 1}
+
+Average Lead Time (all PBIs): 9.7 days
+Average Lead Time (Task): 1.0 days
+Average Lead Time (Sub-task): 4.8 days
+Average Lead Time (User Story): 21.1 days
+Average Lead Time (Bug): 8.4 days
+Average Lead Time (Lessons Learned): 0.0 days
+Average Lead Time (Question): 0.0 days
+Average Lead Time (Improvement): 3.6 days
+Average Lead Time (New Feature): 64.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2012-09-02 00:16:00 End date: 2012-12-11 00:16:00
+System: {'ZUMMEEV': 218}
+Types: {'Task': 1, 'Sub-task': 124, 'User Story': 40, 'Bug': 36, 'Lessons Learned': 1, 'Question': 1, 'Improvement': 10, 'New Feature': 5}
+Resolutions: {'Closed': 218}
+Statuses: {'Closed': 218}
+
+Average Lead Time (all PBIs): 9.7 days
+Average Lead Time (Task): 1.0 days
+Average Lead Time (Sub-task): 4.8 days
+Average Lead Time (User Story): 21.6 days
+Average Lead Time (Bug): 8.4 days
+Average Lead Time (Lessons Learned): 0.0 days
+Average Lead Time (Question): 0.0 days
+Average Lead Time (Improvement): 3.6 days
+Average Lead Time (New Feature): 64.6 days

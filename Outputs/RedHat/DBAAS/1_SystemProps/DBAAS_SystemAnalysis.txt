@@ -1,5 +1,5 @@
 All PBIS - Unfiltered 
-Start date: 1901-01-01 12:01:00 End date: 2024-02-01 15:59:00
+Start date: 2021-04-23 16:25:00 End date: 2024-02-01 15:59:00
 System: {'DBAAS': 760}
 Types: {'Task': 403, 'Bug': 171, 'Story': 62, 'Spike': 55, 'Initiative': 63, 'Release tracker': 4, 'Outcome': 1, 'Risk': 1}
 Resolutions: {'Duplicate': 13, "Won't Do": 35, 'Done': 525, '': 164, 'Not a Bug': 4, 'Obsolete': 13, 'Cannot Reproduce': 4, "Can't Do": 1, 'MirrorOrphan': 1}

@@ -304,7 +304,10 @@ def my_poisson(t_sd, rate, nme, g):
         Rates = sorted(arr_cs)
         Counts = []
         for key in Rates:
-            Counts.append(100*arr_cs[key]/sum(arr_cs.values()))
+            if sum(arr_cs.values()) != 0:
+                Counts.append(100*arr_cs[key]/sum(arr_cs.values())) # Had to include this workaround to avoid divide by zero
+            else:
+                Counts.append(1)
     
         i = 0
         k = [] # number events

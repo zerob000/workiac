@@ -1,0 +1,882 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+SECURITY-1008,Bug,Open,SECURITY,PicketBox ,software,,13/05/2021 09:32,
+SECURITY-1006,Bug,Closed,SECURITY,PicketBox ,software,Not a Bug,20/02/2020 03:39,25/02/2020 09:10
+SECURITY-1004,Enhancement,Closed,SECURITY,PicketBox ,software,Won't Do,04/08/2019 19:28,21/08/2019 07:53
+SECURITY-1003,Bug,Closed,SECURITY,PicketBox ,software,Won't Do,02/08/2019 08:47,19/12/2019 15:12
+SECURITY-1002,Bug,Closed,SECURITY,PicketBox ,software,Won't Do,31/07/2019 12:54,19/12/2019 15:12
+SECURITY-1001,Task,Resolved,SECURITY,PicketBox ,software,Done,21/05/2019 10:21,21/05/2019 10:24
+SECURITY-1000,Release,Resolved,SECURITY,PicketBox ,software,Done,21/05/2019 09:59,21/05/2019 10:44
+SECURITY-999,Task,Resolved,SECURITY,PicketBox ,software,Done,21/05/2019 09:59,21/05/2019 10:18
+SECURITY-998,Component Upgrade,Resolved,SECURITY,PicketBox ,software,Done,11/04/2019 09:45,21/05/2019 10:46
+SECURITY-997,Task,Resolved,SECURITY,PicketBox ,software,Done,11/04/2019 08:44,21/05/2019 10:45
+SECURITY-996,Release,Resolved,SECURITY,PicketBox ,software,Done,28/11/2018 08:31,28/11/2018 09:07
+SECURITY-995,Bug,Open,SECURITY,PicketBox ,software,,04/10/2018 05:26,
+SECURITY-993,Bug,Closed,SECURITY,PicketBox ,software,Done,23/02/2018 09:36,21/06/2018 08:17
+SECURITY-992,Bug,Closed,SECURITY,PicketBox ,software,Done,12/06/2018 03:40,21/06/2018 08:15
+SECURITY-991,Bug,Closed,SECURITY,PicketBox ,software,Done,11/06/2018 10:52,21/06/2018 08:18
+SECURITY-990,Task,Closed,SECURITY,PicketBox ,software,Done,29/05/2018 10:51,29/05/2018 10:52
+SECURITY-989,Bug,Closed,SECURITY,PicketBox ,software,Done,11/04/2018 06:41,02/05/2018 17:20
+SECURITY-986,Bug,Resolved,SECURITY,PicketBox ,software,Done,19/02/2018 09:36,13/05/2020 12:21
+SECURITY-985,Bug,Resolved,SECURITY,PicketBox ,software,Won't Do,19/02/2018 09:33,13/05/2020 12:24
+SECURITY-984,Bug,Open,SECURITY,PicketBox ,software,,07/02/2018 03:53,
+SECURITY-983,Bug,Closed,SECURITY,PicketBox ,software,Duplicate,06/11/2017 09:26,06/11/2017 09:27
+SECURITY-982,Bug,Resolved,SECURITY,PicketBox ,software,Done,26/10/2017 03:42,30/10/2017 05:07
+SECURITY-981,Bug,Resolved,SECURITY,PicketBox ,software,Done,11/10/2017 05:03,28/11/2018 08:31
+SECURITY-980,Bug,Closed,SECURITY,PicketBox ,software,Duplicate,10/10/2017 07:40,10/10/2017 08:42
+SECURITY-979,Bug,Coding In Progress,SECURITY,PicketBox ,software,,10/10/2017 07:33,
+SECURITY-978,Bug,Resolved,SECURITY,PicketBox ,software,Done,29/09/2017 09:25,09/11/2017 13:36
+SECURITY-977,Task,Closed,SECURITY,PicketBox ,software,Done,22/09/2017 12:42,22/09/2017 15:11
+SECURITY-976,Task,Resolved,SECURITY,PicketBox ,software,Done,22/09/2017 12:41,22/09/2017 14:48
+SECURITY-975,Bug,Resolved,SECURITY,PicketBox ,software,Done,10/08/2017 05:13,22/09/2017 14:41
+SECURITY-974,Task,Resolved,SECURITY,PicketBox ,software,Done,27/07/2017 06:23,27/07/2017 06:28
+SECURITY-973,Task,Resolved,SECURITY,PicketBox ,software,Done,26/07/2017 12:47,27/07/2017 06:23
+SECURITY-972,Task,Closed,SECURITY,PicketBox ,software,Done,18/05/2017 16:01,18/05/2017 17:00
+SECURITY-971,Bug,Closed,SECURITY,PicketBox ,software,Done,18/05/2017 15:58,18/05/2017 16:46
+SECURITY-968,Task,Closed,SECURITY,PicketBox ,software,Done,29/03/2017 15:31,29/03/2017 16:02
+SECURITY-967,Task,Closed,SECURITY,PicketBox ,software,Done,29/03/2017 15:05,29/03/2017 15:09
+SECURITY-966,Bug,Closed,SECURITY,PicketBox ,software,Done,29/03/2017 14:20,29/03/2017 14:27
+SECURITY-965,Release,Resolved,SECURITY,PicketBox ,software,Done,16/03/2017 19:14,16/03/2017 19:35
+SECURITY-964,Release,Resolved,SECURITY,PicketBox ,software,Done,16/03/2017 19:07,16/03/2017 19:13
+SECURITY-963,Task,Closed,SECURITY,PicketBox ,software,Done,09/03/2017 10:32,09/03/2017 12:59
+SECURITY-960,Release,Resolved,SECURITY,PicketBox ,software,Done,24/10/2016 08:11,24/10/2016 08:25
+SECURITY-959,Bug,Resolved,SECURITY,PicketBox ,software,Done,27/09/2016 09:30,09/03/2017 10:28
+SECURITY-958,Bug,Open,SECURITY,PicketBox ,software,,23/09/2016 02:55,
+SECURITY-956,Bug,Resolved,SECURITY,PicketBox ,software,Done,07/09/2016 07:18,09/03/2017 12:55
+SECURITY-955,Bug,Closed,SECURITY,PicketBox ,software,Done,07/09/2016 02:31,27/02/2017 15:07
+SECURITY-954,Bug,Resolved,SECURITY,PicketBox ,software,Done,06/09/2016 04:28,28/11/2018 08:31
+SECURITY-953,Release,Closed,SECURITY,PicketBox ,software,Done,30/08/2016 15:36,30/08/2016 17:24
+SECURITY-952,Bug,Open,SECURITY,PicketBox ,software,,22/08/2016 07:22,
+SECURITY-951,Bug,Open,SECURITY,PicketBox ,software,,22/08/2016 07:21,
+SECURITY-950,Release,Resolved,SECURITY,PicketBox ,software,Done,29/07/2016 07:42,29/07/2016 07:47
+SECURITY-949,Feature Request,Open,SECURITY,PicketBox ,software,,15/07/2016 07:19,
+SECURITY-948,Feature Request,Open,SECURITY,PicketBox ,software,,12/07/2016 04:44,
+SECURITY-947,Feature Request,Open,SECURITY,PicketBox ,software,,27/06/2016 11:48,
+SECURITY-946,Bug,Resolved,SECURITY,PicketBox ,software,Done,19/04/2016 02:01,29/07/2016 07:24
+SECURITY-944,Bug,Resolved,SECURITY,PicketBox ,software,Done,19/04/2016 02:03,29/07/2016 07:23
+SECURITY-943,Bug,Open,SECURITY,PicketBox ,software,,19/04/2016 02:16,
+SECURITY-941,Bug,Resolved,SECURITY,PicketBox ,software,Done,14/04/2016 04:42,15/04/2016 11:21
+SECURITY-940,Release,Resolved,SECURITY,PicketBox ,software,Done,30/03/2016 13:06,01/04/2016 08:11
+SECURITY-939,Bug,Resolved,SECURITY,PicketBox ,software,Done,30/03/2016 13:05,01/04/2016 06:36
+SECURITY-938,Bug,Resolved,SECURITY,PicketBox ,software,Done,14/03/2016 10:45,28/07/2016 22:48
+SECURITY-937,Release,Resolved,SECURITY,PicketBox ,software,Done,17/02/2016 11:18,17/02/2016 11:29
+SECURITY-936,Release,Resolved,SECURITY,PicketBox ,software,Done,17/02/2016 06:11,17/02/2016 08:33
+SECURITY-934,Bug,Resolved,SECURITY,PicketBox ,software,Done,25/01/2016 10:46,31/05/2016 09:15
+SECURITY-933,Bug,Resolved,SECURITY,PicketBox ,software,Done,15/01/2016 09:01,17/02/2016 06:10
+SECURITY-932,Bug,Open,SECURITY,PicketBox ,software,,14/01/2016 11:10,
+SECURITY-931,Bug,Resolved,SECURITY,PicketBox ,software,Done,31/12/2015 12:04,24/10/2016 14:32
+SECURITY-930,Bug,Resolved,SECURITY,PicketBox ,software,Done,21/12/2015 11:50,28/10/2016 13:54
+SECURITY-928,Bug,Resolved,SECURITY,PicketBox ,software,Done,12/11/2015 06:27,12/11/2015 06:32
+SECURITY-927,Bug,Resolved,SECURITY,PicketBox ,software,Done,08/10/2015 05:53,30/11/2015 05:01
+SECURITY-926,Release,Resolved,SECURITY,PicketBox ,software,Done,27/10/2015 08:32,27/10/2015 08:56
+SECURITY-925,Bug,Resolved,SECURITY,PicketBox ,software,Done,27/10/2015 08:31,27/10/2015 08:48
+SECURITY-924,Release,Resolved,SECURITY,PicketBox ,software,Done,26/10/2015 08:05,26/10/2015 08:16
+SECURITY-923,Release,Resolved,SECURITY,PicketBox ,software,Done,26/10/2015 06:54,26/10/2015 08:16
+SECURITY-922,Bug,Resolved,SECURITY,PicketBox ,software,Done,20/10/2015 10:32,26/10/2015 08:04
+SECURITY-921,Bug,Resolved,SECURITY,PicketBox ,software,Done,08/10/2015 07:23,16/03/2017 19:03
+SECURITY-920,Bug,Resolved,SECURITY,PicketBox ,software,Done,29/09/2015 08:15,26/10/2015 06:53
+SECURITY-919,Release,Closed,SECURITY,PicketBox ,software,Done,24/09/2015 09:57,24/09/2015 10:35
+SECURITY-918,Release,Resolved,SECURITY,PicketBox ,software,Done,22/09/2015 11:32,22/09/2015 12:04
+SECURITY-917,Task,Open,SECURITY,PicketBox ,software,,22/09/2015 10:47,
+SECURITY-915,Feature Request,Open,SECURITY,PicketBox ,software,,18/09/2015 07:02,
+SECURITY-914,Feature Request,Open,SECURITY,PicketBox ,software,,18/09/2015 06:48,
+SECURITY-913,Enhancement,Resolved,SECURITY,PicketBox ,software,Done,18/09/2015 05:57,27/02/2017 15:10
+SECURITY-912,Bug,Resolved,SECURITY,PicketBox ,software,Done,20/09/2012 17:13,23/10/2015 14:00
+SECURITY-911,Patch,Open,SECURITY,PicketBox ,software,,09/09/2015 23:04,
+SECURITY-910,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,09/09/2015 10:05,22/09/2015 11:32
+SECURITY-909,Bug,Open,SECURITY,PicketBox ,software,,25/08/2015 03:39,
+SECURITY-908,Release,Resolved,SECURITY,PicketBox ,software,Done,25/08/2015 07:11,26/08/2015 09:11
+SECURITY-907,Task,Resolved,SECURITY,PicketBox ,software,Done,25/08/2015 06:58,26/08/2015 07:12
+SECURITY-906,Task,Resolved,SECURITY,PicketBox ,software,Done,21/08/2015 11:48,21/08/2015 13:09
+SECURITY-905,Task,Resolved,SECURITY,PicketBox ,software,Done,21/08/2015 11:42,21/08/2015 11:48
+SECURITY-904,Task,Closed,SECURITY,PicketBox ,software,Done,20/08/2015 21:59,20/08/2015 22:35
+SECURITY-903,Bug,Resolved,SECURITY,PicketBox ,software,Done,20/08/2015 08:34,16/09/2015 05:03
+SECURITY-902,Bug,Closed,SECURITY,PicketBox ,software,Done,18/08/2015 11:49,20/08/2015 22:37
+SECURITY-901,Bug,Open,SECURITY,PicketBox ,software,,18/08/2015 02:52,
+SECURITY-900,Bug,Resolved,SECURITY,PicketBox ,software,Won't Do,17/08/2015 07:55,28/01/2016 07:26
+SECURITY-899,Bug,Open,SECURITY,PicketBox ,software,,21/07/2015 12:44,
+SECURITY-898,Task,Closed,SECURITY,PicketBox ,software,Done,15/07/2015 15:43,15/07/2015 22:44
+SECURITY-897,Bug,Resolved,SECURITY,PicketBox ,software,Done,29/06/2015 10:20,26/10/2015 06:45
+SECURITY-896,Bug,Resolved,SECURITY,PicketBox ,software,Done,25/06/2015 06:31,22/07/2015 06:14
+SECURITY-895,Bug,Open,SECURITY,PicketBox ,software,,16/06/2015 08:53,
+SECURITY-894,Patch,Resolved,SECURITY,PicketBox ,software,Done,11/06/2015 15:05,29/06/2015 01:27
+SECURITY-893,Bug,Resolved,SECURITY,PicketBox ,software,Done,11/06/2015 04:34,26/10/2016 16:16
+SECURITY-892,Patch,Closed,SECURITY,PicketBox ,software,Done,31/05/2015 06:28,01/06/2015 11:28
+SECURITY-891,Bug,Resolved,SECURITY,PicketBox ,software,Done,21/05/2015 09:23,02/09/2015 07:55
+SECURITY-890,Task,Closed,SECURITY,PicketBox ,software,Done,20/05/2015 15:41,20/05/2015 17:12
+SECURITY-889,Bug,Closed,SECURITY,PicketBox ,software,Done,20/05/2015 11:52,20/05/2015 15:39
+SECURITY-888,Task,Closed,SECURITY,PicketBox ,software,Done,20/05/2015 11:01,30/11/2018 11:46
+SECURITY-887,Patch,Closed,SECURITY,PicketBox ,software,Done,18/05/2015 02:16,18/05/2015 13:28
+SECURITY-886,Component Upgrade,Closed,SECURITY,PicketBox ,software,Obsolete,17/05/2015 13:51,17/05/2015 14:03
+SECURITY-885,Task,Closed,SECURITY,PicketBox ,software,Done,13/05/2015 08:45,13/05/2015 10:07
+SECURITY-884,Task,Closed,SECURITY,PicketBox ,software,Done,11/05/2015 22:04,13/05/2015 08:43
+SECURITY-883,Patch,Resolved,SECURITY,PicketBox ,software,Done,10/05/2015 06:31,11/05/2015 17:59
+SECURITY-882,Bug,Resolved,SECURITY,PicketBox ,software,Won't Do,08/05/2015 04:35,21/05/2015 03:07
+SECURITY-880,Release,Resolved,SECURITY,PicketBox ,software,Done,20/04/2015 11:28,20/04/2015 11:39
+SECURITY-879,Bug,Resolved,SECURITY,PicketBox ,software,Done,07/04/2015 22:15,11/05/2015 21:37
+SECURITY-878,Bug,Resolved,SECURITY,PicketBox ,software,Done,31/03/2015 05:41,11/05/2015 21:36
+SECURITY-877,Bug,Resolved,SECURITY,PicketBox ,software,Done,19/03/2015 18:45,20/04/2015 11:27
+SECURITY-876,Bug,Closed,SECURITY,PicketBox ,software,Duplicate,23/02/2015 12:21,11/05/2015 21:38
+SECURITY-875,Bug,Closed,SECURITY,PicketBox ,software,Done,18/02/2015 08:52,26/02/2015 14:20
+SECURITY-874,Bug,Resolved,SECURITY,PicketBox ,software,Done,16/01/2015 06:42,26/01/2015 11:21
+SECURITY-873,Release,Resolved,SECURITY,PicketBox ,software,Done,06/01/2015 10:43,06/01/2015 11:01
+SECURITY-872,Bug,Open,SECURITY,PicketBox ,software,,08/12/2014 22:54,
+SECURITY-871,Bug,Resolved,SECURITY,PicketBox ,software,Done,03/12/2014 16:51,06/01/2015 10:59
+SECURITY-870,Release,Resolved,SECURITY,PicketBox ,software,Done,21/11/2014 11:34,21/11/2014 12:47
+SECURITY-869,Bug,Resolved,SECURITY,PicketBox ,software,Done,21/11/2014 10:35,21/11/2014 12:38
+SECURITY-868,Task,Closed,SECURITY,PicketBox ,software,Done,19/11/2014 22:20,30/11/2018 11:47
+SECURITY-867,Enhancement,Resolved,SECURITY,PicketBox ,software,Done,17/11/2014 07:24,17/11/2014 07:35
+SECURITY-866,Task,Resolved,SECURITY,PicketBox ,software,Done,13/11/2014 04:59,19/11/2014 02:58
+SECURITY-865,Component Upgrade,Open,SECURITY,PicketBox ,software,,11/11/2014 20:06,
+SECURITY-863,Patch,Closed,SECURITY,PicketBox ,software,Done,02/10/2014 13:40,08/10/2014 08:39
+SECURITY-862,Bug,Open,SECURITY,PicketBox ,software,,29/09/2014 10:06,
+SECURITY-861,Bug,Resolved,SECURITY,PicketBox ,software,Done,26/09/2014 17:13,20/11/2015 07:34
+SECURITY-860,Bug,Resolved,SECURITY,PicketBox ,software,Done,17/09/2014 06:23,17/09/2014 06:34
+SECURITY-859,Bug,Resolved,SECURITY,PicketBox ,software,Done,11/09/2014 07:16,17/11/2014 07:20
+SECURITY-858,Bug,Resolved,SECURITY,PicketBox ,software,Done,09/09/2014 04:52,09/09/2014 08:52
+SECURITY-857,Bug,Resolved,SECURITY,PicketBox ,software,Done,09/09/2014 03:45,09/09/2014 08:53
+SECURITY-856,Bug,Resolved,SECURITY,PicketBox ,software,Done,09/09/2014 00:05,09/09/2014 21:36
+SECURITY-855,Release,Resolved,SECURITY,PicketBox ,software,Done,18/08/2014 13:51,18/08/2014 14:16
+SECURITY-854,Bug,Resolved,SECURITY,PicketBox ,software,Done,14/08/2014 13:46,18/08/2014 14:08
+SECURITY-853,Bug,Open,SECURITY,PicketBox ,software,,10/08/2014 07:29,
+SECURITY-852,Bug,Resolved,SECURITY,PicketBox ,software,Done,01/08/2014 14:09,07/10/2014 11:22
+SECURITY-851,Bug,Resolved,SECURITY,PicketBox ,software,Done,31/07/2014 09:44,25/08/2014 08:19
+SECURITY-850,Component Upgrade,Open,SECURITY,PicketBox ,software,,31/07/2014 08:09,
+SECURITY-849,Bug,Open,SECURITY,PicketBox ,software,,25/07/2014 07:37,
+SECURITY-848,Feature Request,Open,SECURITY,PicketBox ,software,,25/06/2014 08:14,
+SECURITY-847,Feature Request,Open,SECURITY,PicketBox ,software,,24/06/2014 08:14,
+SECURITY-846,Bug,Open,SECURITY,PicketBox ,software,,17/06/2014 06:06,
+SECURITY-845,Bug,Resolved,SECURITY,PicketBox ,software,Done,12/06/2014 04:13,09/09/2014 09:27
+SECURITY-844,Enhancement,Open,SECURITY,PicketBox ,software,,06/06/2014 06:44,
+SECURITY-843,Release,Resolved,SECURITY,PicketBox ,software,Done,06/06/2014 04:49,06/06/2014 07:56
+SECURITY-842,Task,Resolved,SECURITY,PicketBox ,software,Done,06/06/2014 04:38,06/06/2014 04:44
+SECURITY-841,Task,Resolved,SECURITY,PicketBox ,software,Done,06/06/2014 04:30,06/06/2014 04:36
+SECURITY-840,Release,Resolved,SECURITY,PicketBox ,software,Done,05/06/2014 10:09,05/06/2014 10:24
+SECURITY-839,Enhancement,Resolved,SECURITY,PicketBox ,software,Done,05/06/2014 02:16,05/06/2014 10:08
+SECURITY-838,Bug,Open,SECURITY,PicketBox ,software,,04/06/2014 10:38,
+SECURITY-837,Release,Resolved,SECURITY,PicketBox ,software,Done,03/06/2014 13:40,03/06/2014 14:32
+SECURITY-836,Bug,Resolved,SECURITY,PicketBox ,software,Done,03/06/2014 13:31,03/06/2014 13:38
+SECURITY-835,Release,Resolved,SECURITY,PicketBox ,software,Done,23/05/2014 11:47,23/05/2014 12:04
+SECURITY-834,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,22/05/2014 11:33,22/05/2014 11:34
+SECURITY-833,Bug,Resolved,SECURITY,PicketBox ,software,Done,22/05/2014 04:51,18/06/2014 04:01
+SECURITY-832,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,22/05/2014 04:50,18/06/2014 04:00
+SECURITY-831,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,22/05/2014 04:49,18/06/2014 04:00
+SECURITY-830,Bug,Resolved,SECURITY,PicketBox ,software,Done,21/05/2014 04:38,22/05/2014 03:22
+SECURITY-829,Task,Resolved,SECURITY,PicketBox ,software,Done,20/05/2014 11:00,20/05/2014 11:05
+SECURITY-828,Task,Resolved,SECURITY,PicketBox ,software,Done,15/05/2014 09:28,15/05/2014 09:40
+SECURITY-827,Release,Resolved,SECURITY,PicketBox ,software,Done,14/05/2014 13:26,14/05/2014 13:35
+SECURITY-826,Bug,Resolved,SECURITY,PicketBox ,software,Done,05/05/2014 12:55,14/05/2014 13:15
+SECURITY-825,Bug,Resolved,SECURITY,PicketBox ,software,Done,25/04/2014 15:15,12/05/2014 04:58
+SECURITY-824,Release,Resolved,SECURITY,PicketBox ,software,Done,23/04/2014 09:21,23/04/2014 11:24
+SECURITY-823,Release,Resolved,SECURITY,PicketBox ,software,Done,22/04/2014 11:05,22/04/2014 11:15
+SECURITY-822,Bug,Resolved,SECURITY,PicketBox ,software,Done,17/04/2014 06:30,11/09/2015 13:19
+SECURITY-821,Enhancement,Resolved,SECURITY,PicketBox ,software,Done,17/04/2014 02:56,22/04/2014 10:36
+SECURITY-820,Bug,Resolved,SECURITY,PicketBox ,software,Done,16/04/2014 13:43,20/05/2014 11:15
+SECURITY-819,Bug,Open,SECURITY,PicketBox ,software,,11/04/2014 09:21,
+SECURITY-818,Release,Resolved,SECURITY,PicketBox ,software,Done,10/04/2014 16:47,10/04/2014 17:10
+SECURITY-817,Release,Resolved,SECURITY,PicketBox ,software,Done,08/04/2014 14:19,08/04/2014 14:30
+SECURITY-816,Task,Resolved,SECURITY,PicketBox ,software,Done,08/04/2014 13:20,08/04/2014 14:16
+SECURITY-815,Bug,Resolved,SECURITY,PicketBox ,software,Done,01/04/2014 13:46,08/04/2014 08:22
+SECURITY-814,Bug,Resolved,SECURITY,PicketBox ,software,Done,01/04/2014 13:43,08/04/2014 08:50
+SECURITY-813,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,01/04/2014 10:34,08/04/2014 13:51
+SECURITY-812,Release,Resolved,SECURITY,PicketBox ,software,Done,27/03/2014 12:49,27/03/2014 13:38
+SECURITY-811,Bug,Resolved,SECURITY,PicketBox ,software,Done,27/03/2014 06:09,27/02/2017 15:09
+SECURITY-810,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,21/03/2014 09:59,21/03/2014 13:50
+SECURITY-809,Release,Resolved,SECURITY,PicketBox ,software,Done,20/03/2014 07:53,20/03/2014 08:20
+SECURITY-808,Bug,Open,SECURITY,PicketBox ,software,,20/03/2014 05:52,
+SECURITY-807,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,19/03/2014 08:56,20/03/2014 07:50
+SECURITY-806,Bug,Open,SECURITY,PicketBox ,software,,17/03/2014 17:05,
+SECURITY-805,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,14/03/2014 07:05,24/03/2014 07:24
+SECURITY-803,Bug,Resolved,SECURITY,PicketBox ,software,Done,25/02/2014 15:28,06/03/2014 17:44
+SECURITY-802,Release,Closed,SECURITY,PicketBox ,software,Done,24/02/2014 11:35,24/02/2014 13:21
+SECURITY-801,Bug,Open,SECURITY,PicketBox ,software,,20/02/2014 12:51,
+SECURITY-800,Task,Resolved,SECURITY,PicketBox ,software,Done,19/02/2014 14:12,19/02/2014 14:28
+SECURITY-799,Task,Resolved,SECURITY,PicketBox ,software,Done,19/02/2014 14:05,22/04/2014 11:21
+SECURITY-798,Bug,Resolved,SECURITY,PicketBox ,software,Done,19/02/2014 13:45,19/02/2014 13:57
+SECURITY-797,Bug,Resolved,SECURITY,PicketBox ,software,Done,18/02/2014 15:08,20/02/2014 12:43
+SECURITY-796,Bug,Resolved,SECURITY,PicketBox ,software,Done,14/02/2014 10:41,20/02/2014 11:57
+SECURITY-795,Bug,Resolved,SECURITY,PicketBox ,software,Done,14/02/2014 10:40,19/02/2014 14:11
+SECURITY-794,Release,Resolved,SECURITY,PicketBox ,software,Done,13/02/2014 12:36,13/02/2014 12:51
+SECURITY-793,Task,Resolved,SECURITY,PicketBox ,software,Done,13/02/2014 11:06,22/04/2014 10:54
+SECURITY-792,Task,Resolved,SECURITY,PicketBox ,software,Done,13/02/2014 06:55,13/02/2014 07:28
+SECURITY-791,Task,Resolved,SECURITY,PicketBox ,software,Done,12/02/2014 14:18,13/02/2014 07:28
+SECURITY-790,Task,Resolved,SECURITY,PicketBox ,software,Done,12/02/2014 14:15,13/02/2014 07:28
+SECURITY-789,Enhancement,Open,SECURITY,PicketBox ,software,,11/02/2014 05:17,
+SECURITY-788,Bug,Resolved,SECURITY,PicketBox ,software,Done,29/01/2014 04:10,29/01/2014 04:16
+SECURITY-787,Patch,Closed,SECURITY,PicketBox ,software,Done,26/01/2014 17:40,08/10/2014 08:40
+SECURITY-786,Patch,Closed,SECURITY,PicketBox ,software,Done,26/01/2014 17:23,08/10/2014 08:41
+SECURITY-785,Release,Closed,SECURITY,PicketBox ,software,Done,24/01/2014 14:41,24/01/2014 15:27
+SECURITY-784,Feature Request,Closed,SECURITY,PicketBox ,software,Done,10/01/2014 18:52,21/08/2015 11:26
+SECURITY-783,Feature Request,Open,SECURITY,PicketBox ,software,,09/01/2014 11:11,
+SECURITY-782,Bug,Resolved,SECURITY,PicketBox ,software,Done,08/01/2014 08:51,08/01/2014 09:25
+SECURITY-781,Task,Closed,SECURITY,PicketBox ,software,Done,07/01/2014 18:33,24/01/2014 12:29
+SECURITY-780,Bug,Resolved,SECURITY,PicketBox ,software,Done,07/01/2014 11:02,07/01/2014 11:09
+SECURITY-779,Task,Closed,SECURITY,PicketBox ,software,Done,06/01/2014 15:44,06/01/2014 16:38
+SECURITY-778,Enhancement,Open,SECURITY,PicketBox ,software,,02/01/2014 09:32,
+SECURITY-777,Bug,Resolved,SECURITY,PicketBox ,software,Done,20/12/2013 05:23,23/12/2013 11:18
+SECURITY-776,Patch,Open,SECURITY,PicketBox ,software,,16/12/2013 05:04,
+SECURITY-775,Task,Resolved,SECURITY,PicketBox ,software,Done,12/12/2013 04:30,16/12/2013 21:18
+SECURITY-774,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,12/12/2013 03:31,19/12/2013 07:39
+SECURITY-773,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,12/12/2013 03:29,17/12/2013 07:07
+SECURITY-772,Bug,Resolved,SECURITY,PicketBox ,software,Done,10/12/2013 06:37,10/12/2013 08:29
+SECURITY-771,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,04/12/2013 02:57,17/12/2013 07:06
+SECURITY-770,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,28/11/2013 11:05,03/12/2013 06:43
+SECURITY-769,Enhancement,Resolved,SECURITY,PicketBox ,software,Done,17/11/2013 06:56,22/12/2013 18:35
+SECURITY-768,Bug,Open,SECURITY,PicketBox ,software,,11/11/2013 13:59,
+SECURITY-767,Bug,Resolved,SECURITY,PicketBox ,software,Done,11/11/2013 04:56,23/12/2013 11:18
+SECURITY-766,Feature Request,Resolved,SECURITY,PicketBox ,software,Won't Do,08/11/2013 12:22,26/11/2013 08:03
+SECURITY-765,Task,Closed,SECURITY,PicketBox ,software,Done,05/11/2013 13:28,05/11/2013 21:17
+SECURITY-764,Task,Resolved,SECURITY,PicketBox ,software,Done,29/10/2013 07:42,20/12/2013 09:59
+SECURITY-762,Bug,Resolved,SECURITY,PicketBox ,software,Done,24/10/2013 11:13,25/10/2013 15:57
+SECURITY-761,Task,Resolved,SECURITY,PicketBox ,software,Done,24/10/2013 05:59,24/10/2013 07:28
+SECURITY-760,Task,Resolved,SECURITY,PicketBox ,software,Done,24/10/2013 05:27,24/10/2013 06:39
+SECURITY-759,Enhancement,Closed,SECURITY,PicketBox ,software,Done,22/10/2013 21:05,22/10/2013 21:25
+SECURITY-758,Bug,Resolved,SECURITY,PicketBox ,software,Done,22/10/2013 12:21,24/10/2013 07:59
+SECURITY-757,Task,Resolved,SECURITY,PicketBox ,software,Done,22/10/2013 12:00,22/10/2013 12:01
+SECURITY-756,Bug,Resolved,SECURITY,PicketBox ,software,Done,22/10/2013 11:59,22/10/2013 12:00
+SECURITY-755,Task,Resolved,SECURITY,PicketBox ,software,Done,22/10/2013 11:57,22/10/2013 11:57
+SECURITY-754,Bug,Resolved,SECURITY,PicketBox ,software,Done,22/10/2013 11:47,22/10/2013 11:56
+SECURITY-753,Bug,Closed,SECURITY,PicketBox ,software,Done,21/10/2013 16:14,21/10/2013 17:36
+SECURITY-752,Release,Closed,SECURITY,PicketBox ,software,Done,08/10/2013 15:57,05/11/2013 12:32
+SECURITY-751,Enhancement,Closed,SECURITY,PicketBox ,software,Done,30/08/2013 10:15,30/08/2013 10:27
+SECURITY-750,Enhancement,Closed,SECURITY,PicketBox ,software,Done,30/08/2013 10:12,30/08/2013 10:50
+SECURITY-749,Bug,Closed,SECURITY,PicketBox ,software,Done,28/08/2013 07:19,28/08/2013 07:21
+SECURITY-748,Feature Request,Open,SECURITY,PicketBox ,software,,15/08/2013 07:09,
+SECURITY-747,Bug,Open,SECURITY,PicketBox ,software,,14/08/2013 09:06,
+SECURITY-745,Feature Request,Open,SECURITY,PicketBox ,software,,29/07/2013 17:57,
+SECURITY-744,Feature Request,Open,SECURITY,PicketBox ,software,,25/06/2013 17:02,
+SECURITY-743,Release,Closed,SECURITY,PicketBox ,software,Done,17/06/2013 12:21,17/06/2013 12:37
+SECURITY-742,Bug,Closed,SECURITY,PicketBox ,software,Done,05/06/2013 16:12,17/06/2013 12:14
+SECURITY-741,Feature Request,Open,SECURITY,PicketBox ,software,,13/05/2013 13:15,
+SECURITY-740,Release,Resolved,SECURITY,PicketBox ,software,Done,09/05/2013 15:04,09/05/2013 16:19
+SECURITY-738,Bug,Resolved,SECURITY,PicketBox ,software,Done,23/04/2013 23:00,07/06/2013 15:26
+SECURITY-737,Bug,Resolved,SECURITY,PicketBox ,software,Done,22/04/2013 09:45,22/04/2013 10:31
+SECURITY-736,Task,Resolved,SECURITY,PicketBox ,software,Done,22/04/2013 10:03,23/04/2013 06:56
+SECURITY-735,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,22/04/2013 09:14,22/04/2013 10:03
+SECURITY-734,Enhancement,Resolved,SECURITY,PicketBox ,software,Done,19/04/2013 08:38,25/04/2013 15:08
+SECURITY-733,Bug,Reopened,SECURITY,PicketBox ,software,,18/04/2013 12:52,
+SECURITY-732,Bug,Resolved,SECURITY,PicketBox ,software,Done,03/04/2013 14:46,09/05/2013 15:00
+SECURITY-731,Bug,Resolved,SECURITY,PicketBox ,software,Done,03/04/2013 14:43,09/05/2013 15:00
+SECURITY-730,Feature Request,Open,SECURITY,PicketBox ,software,,22/03/2013 13:02,
+SECURITY-729,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,06/03/2013 02:08,06/03/2013 02:25
+SECURITY-728,Feature Request,Open,SECURITY,PicketBox ,software,,23/02/2013 15:38,
+SECURITY-727,Feature Request,Open,SECURITY,PicketBox ,software,,23/02/2013 13:56,
+SECURITY-726,Feature Request,Closed,SECURITY,PicketBox ,software,Won't Do,06/02/2013 12:38,17/03/2016 04:39
+SECURITY-724,Feature Request,Resolved,SECURITY,PicketBox ,software,Cannot Reproduce,01/02/2013 07:07,15/02/2013 08:58
+SECURITY-723,Bug,Resolved,SECURITY,PicketBox ,software,Done,31/01/2013 06:29,25/10/2013 10:40
+SECURITY-722,Bug,Resolved,SECURITY,PicketBox ,software,Done,16/01/2013 03:51,08/04/2014 08:37
+SECURITY-721,Bug,Open,SECURITY,PicketBox ,software,,15/01/2013 10:50,
+SECURITY-720,Enhancement,Closed,SECURITY,PicketBox ,software,Done,15/01/2013 08:34,15/01/2013 10:25
+SECURITY-719,Feature Request,Open,SECURITY,PicketBox ,software,,09/01/2013 07:05,
+SECURITY-718,Bug,Closed,SECURITY,PicketBox ,software,Obsolete,08/01/2013 01:09,08/01/2013 11:30
+SECURITY-717,Task,Open,SECURITY,PicketBox ,software,,07/01/2013 10:09,
+SECURITY-716,Task,Resolved,SECURITY,PicketBox ,software,Done,07/01/2013 09:27,07/01/2013 09:38
+SECURITY-715,Task,Resolved,SECURITY,PicketBox ,software,Done,07/01/2013 09:26,07/01/2013 10:34
+SECURITY-714,Task,Closed,SECURITY,PicketBox ,software,Done,18/12/2012 14:30,18/12/2012 16:46
+SECURITY-713,Bug,Open,SECURITY,PicketBox ,software,,13/12/2012 14:08,
+SECURITY-712,Bug,Resolved,SECURITY,PicketBox ,software,Done,13/12/2012 09:09,23/01/2013 07:05
+SECURITY-711,Patch,Open,SECURITY,PicketBox ,software,,13/12/2012 09:03,
+SECURITY-710,Bug,Open,SECURITY,PicketBox ,software,,13/12/2012 08:45,
+SECURITY-709,Bug,Open,SECURITY,PicketBox ,software,,11/12/2012 17:13,
+SECURITY-708,Bug,Resolved,SECURITY,PicketBox ,software,Done,11/12/2012 15:20,11/12/2012 16:14
+SECURITY-707,Bug,Open,SECURITY,PicketBox ,software,,30/11/2012 04:52,
+SECURITY-706,Bug,Open,SECURITY,PicketBox ,software,,28/11/2012 04:05,
+SECURITY-705,Bug,Resolved,SECURITY,PicketBox ,software,Done,15/11/2012 09:20,15/11/2012 09:24
+SECURITY-704,Task,Resolved,SECURITY,PicketBox ,software,Done,30/10/2012 06:57,30/10/2012 07:11
+SECURITY-703,Bug,Closed,SECURITY,PicketBox ,software,Done,18/10/2012 04:54,17/12/2012 12:50
+SECURITY-702,Task,Closed,SECURITY,PicketBox ,software,Done,11/10/2012 18:00,12/10/2012 16:23
+SECURITY-701,Bug,Reopened,SECURITY,PicketBox ,software,,17/07/2012 08:20,
+SECURITY-700,Bug,Closed,SECURITY,PicketBox ,software,Won't Do,11/10/2012 09:18,11/10/2012 09:43
+SECURITY-699,Bug,Resolved,SECURITY,PicketBox ,software,Done,03/10/2012 10:36,18/02/2013 08:49
+SECURITY-698,Feature Request,Open,SECURITY,PicketBox ,software,,25/09/2012 09:16,
+SECURITY-697,Enhancement,Open,SECURITY,PicketBox ,software,,21/09/2012 04:55,
+SECURITY-696,Enhancement,Resolved,SECURITY,PicketBox ,software,Done,17/09/2012 06:32,17/09/2012 09:38
+SECURITY-695,Enhancement,Resolved,SECURITY,PicketBox ,software,Done,17/09/2012 06:15,17/09/2012 06:41
+SECURITY-694,Enhancement,Open,SECURITY,PicketBox ,software,,06/09/2012 07:45,
+SECURITY-693,Bug,Resolved,SECURITY,PicketBox ,software,Done,31/08/2012 07:45,15/11/2012 08:38
+SECURITY-692,Task,Closed,SECURITY,PicketBox ,software,Done,15/08/2012 11:38,15/08/2012 12:01
+SECURITY-691,Bug,Open,SECURITY,PicketBox ,software,,14/08/2012 22:57,
+SECURITY-690,Bug,Closed,SECURITY,PicketBox ,software,Done,14/08/2012 20:46,15/08/2012 11:37
+SECURITY-689,Bug,Resolved,SECURITY,PicketBox ,software,Done,14/08/2012 08:56,14/08/2012 09:09
+SECURITY-688,Feature Request,Closed,SECURITY,PicketBox ,software,Done,13/08/2012 17:52,13/08/2012 18:33
+SECURITY-687,Bug,Closed,SECURITY,PicketBox ,software,Done,13/08/2012 13:26,13/08/2012 17:51
+SECURITY-686,Feature Request,Closed,SECURITY,PicketBox ,software,Done,13/08/2012 13:21,13/08/2012 17:50
+SECURITY-685,Bug,Closed,SECURITY,PicketBox ,software,Done,13/08/2012 13:20,13/08/2012 17:51
+SECURITY-684,Task,Closed,SECURITY,PicketBox ,software,Done,10/08/2012 19:53,10/08/2012 20:58
+SECURITY-683,Task,Closed,SECURITY,PicketBox ,software,Done,10/08/2012 17:07,10/08/2012 19:52
+SECURITY-682,Feature Request,Open,SECURITY,PicketBox ,software,,09/08/2012 11:58,
+SECURITY-681,Feature Request,Open,SECURITY,PicketBox ,software,,09/08/2012 11:57,
+SECURITY-680,Bug,Closed,SECURITY,PicketBox ,software,Done,07/08/2012 08:50,10/08/2012 17:05
+SECURITY-679,Task,Closed,SECURITY,PicketBox ,software,Done,27/07/2012 16:45,27/07/2012 17:25
+SECURITY-678,Task,Resolved,SECURITY,PicketBox ,software,Done,27/07/2012 14:24,31/07/2012 06:23
+SECURITY-677,Task,Open,SECURITY,PicketBox ,software,,27/07/2012 14:21,
+SECURITY-676,Task,Resolved,SECURITY,PicketBox ,software,Done,27/07/2012 08:48,27/07/2012 09:16
+SECURITY-675,Task,Resolved,SECURITY,PicketBox ,software,Done,25/07/2012 12:50,25/07/2012 12:59
+SECURITY-674,Feature Request,Open,SECURITY,PicketBox ,software,,25/07/2012 05:10,
+SECURITY-673,Task,Resolved,SECURITY,PicketBox ,software,Done,23/07/2012 12:17,24/07/2012 10:41
+SECURITY-672,Task,Resolved,SECURITY,PicketBox ,software,Done,23/07/2012 11:17,23/07/2012 11:20
+SECURITY-671,Feature Request,Reopened,SECURITY,PicketBox ,software,,18/07/2012 08:12,
+SECURITY-670,Patch,Open,SECURITY,PicketBox ,software,,20/07/2012 09:26,
+SECURITY-669,Bug,Open,SECURITY,PicketBox ,software,,19/07/2012 07:13,
+SECURITY-668,Task,Resolved,SECURITY,PicketBox ,software,Done,12/07/2012 10:24,16/11/2012 10:38
+SECURITY-667,Feature Request,Open,SECURITY,PicketBox ,software,,12/07/2012 10:23,
+SECURITY-666,Feature Request,Closed,SECURITY,PicketBox ,software,Done,10/07/2012 11:02,10/07/2012 18:56
+SECURITY-665,Bug,Closed,SECURITY,PicketBox ,software,Done,02/07/2012 06:08,17/12/2012 12:41
+SECURITY-664,Feature Request,Open,SECURITY,PicketBox ,software,,29/06/2012 09:32,
+SECURITY-663,Bug,Open,SECURITY,PicketBox ,software,,22/06/2012 07:57,
+SECURITY-662,Bug,Resolved,SECURITY,PicketBox ,software,Done,18/06/2012 13:51,10/09/2013 10:43
+SECURITY-661,Bug,Open,SECURITY,PicketBox ,software,,07/06/2012 10:10,
+SECURITY-660,Task,Closed,SECURITY,PicketBox ,software,Done,05/06/2012 17:13,10/08/2012 17:03
+SECURITY-658,Bug,Resolved,SECURITY,PicketBox ,software,Done,28/05/2012 10:30,28/05/2012 10:45
+SECURITY-657,Task,Closed,SECURITY,PicketBox ,software,Done,28/04/2012 00:06,28/04/2012 10:36
+SECURITY-656,Release,Closed,SECURITY,PicketBox ,software,Done,26/04/2012 09:51,26/04/2012 10:04
+SECURITY-655,Task,Resolved,SECURITY,PicketBox ,software,Done,23/04/2012 21:57,23/04/2012 22:19
+SECURITY-653,Bug,Closed,SECURITY,PicketBox ,software,Done,14/03/2012 14:01,25/04/2012 13:03
+SECURITY-652,Bug,Open,SECURITY,PicketBox ,software,,14/03/2012 12:14,
+SECURITY-650,Bug,Resolved,SECURITY,PicketBox ,software,Done,08/03/2012 05:59,08/03/2012 10:45
+SECURITY-649,Release,Closed,SECURITY,PicketBox ,software,Done,05/03/2012 11:11,05/03/2012 11:35
+SECURITY-648,Bug,Resolved,SECURITY,PicketBox ,software,Done,04/03/2012 18:52,05/03/2012 11:18
+SECURITY-647,Release,Closed,SECURITY,PicketBox ,software,Done,16/02/2012 10:19,16/02/2012 10:28
+SECURITY-646,Task,Resolved,SECURITY,PicketBox ,software,Done,06/02/2012 05:52,06/02/2012 07:32
+SECURITY-645,Task,Resolved,SECURITY,PicketBox ,software,Done,06/02/2012 05:48,06/02/2012 05:51
+SECURITY-644,Task,Resolved,SECURITY,PicketBox ,software,Done,05/02/2012 07:37,05/02/2012 09:29
+SECURITY-643,Release,Closed,SECURITY,PicketBox ,software,Done,25/01/2012 11:16,25/01/2012 13:39
+SECURITY-642,Bug,Resolved,SECURITY,PicketBox ,software,Done,18/01/2012 12:57,20/01/2012 17:56
+SECURITY-640,Bug,Resolved,SECURITY,PicketBox ,software,Done,13/01/2012 02:44,01/09/2014 08:06
+SECURITY-639,Bug,Open,SECURITY,PicketBox ,software,,09/01/2012 19:07,
+SECURITY-638,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,22/12/2011 10:15,15/11/2012 08:55
+SECURITY-637,Bug,Open,SECURITY,PicketBox ,software,,26/11/2011 23:33,
+SECURITY-636,Task,Open,SECURITY,PicketBox ,software,,19/11/2011 12:47,
+SECURITY-635,Release,Closed,SECURITY,PicketBox ,software,Done,16/11/2011 10:43,16/11/2011 10:59
+SECURITY-634,Feature Request,Closed,SECURITY,PicketBox ,software,Done,15/11/2011 17:14,16/11/2011 10:28
+SECURITY-633,Task,Resolved,SECURITY,PicketBox ,software,Done,03/11/2011 13:27,03/11/2011 15:30
+SECURITY-632,Release,Closed,SECURITY,PicketBox ,software,Done,02/11/2011 14:02,02/11/2011 14:10
+SECURITY-631,Enhancement,Resolved,SECURITY,PicketBox ,software,Done,01/11/2011 16:56,03/11/2011 13:26
+SECURITY-630,Enhancement,Resolved,SECURITY,PicketBox ,software,Done,01/11/2011 11:02,03/11/2011 13:28
+SECURITY-629,Task,Resolved,SECURITY,PicketBox ,software,Obsolete,21/10/2011 15:14,02/07/2012 11:39
+SECURITY-628,Feature Request,Closed,SECURITY,PicketBox ,software,Won't Do,20/10/2011 13:12,16/11/2011 10:40
+SECURITY-627,Release,Resolved,SECURITY,PicketBox ,software,Done,04/10/2011 17:24,07/10/2011 09:16
+SECURITY-626,Task,Resolved,SECURITY,PicketBox ,software,Done,28/09/2011 16:39,30/09/2011 09:04
+SECURITY-625,Feature Request,Closed,SECURITY,PicketBox ,software,Done,27/09/2011 12:28,02/11/2011 13:21
+SECURITY-624,Feature Request,Closed,SECURITY,PicketBox ,software,Done,27/09/2011 09:43,27/09/2011 10:07
+SECURITY-623,Release,Resolved,SECURITY,PicketBox ,software,Done,22/09/2011 09:37,22/09/2011 10:21
+SECURITY-622,Enhancement,Resolved,SECURITY,PicketBox ,software,Done,22/09/2011 09:36,22/09/2011 09:36
+SECURITY-621,Task,Closed,SECURITY,PicketBox ,software,Done,21/09/2011 17:58,21/09/2011 18:04
+SECURITY-620,Feature Request,Closed,SECURITY,PicketBox ,software,Done,21/09/2011 14:38,21/09/2011 14:38
+SECURITY-619,Feature Request,Open,SECURITY,PicketBox ,software,,19/09/2011 19:14,
+SECURITY-618,Feature Request,Closed,SECURITY,PicketBox ,software,Done,12/09/2011 14:17,02/11/2011 13:24
+SECURITY-617,Feature Request,Closed,SECURITY,PicketBox ,software,Done,08/09/2011 17:02,28/09/2011 14:42
+SECURITY-616,Release,Closed,SECURITY,PicketBox ,software,Done,24/08/2011 22:03,24/08/2011 22:23
+SECURITY-615,Feature Request,Closed,SECURITY,PicketBox ,software,Done,15/08/2011 19:05,15/08/2011 19:13
+SECURITY-613,Release,Resolved,SECURITY,PicketBox ,software,Done,10/08/2011 13:46,10/08/2011 14:33
+SECURITY-610,Task,Resolved,SECURITY,PicketBox ,software,Obsolete,03/08/2011 08:09,31/07/2012 06:07
+SECURITY-609,Feature Request,Closed,SECURITY,PicketBox ,software,Done,02/08/2011 18:47,02/11/2011 13:25
+SECURITY-608,Task,Resolved,SECURITY,PicketBox ,software,Done,02/08/2011 05:58,03/08/2011 08:03
+SECURITY-607,Bug,Open,SECURITY,PicketBox ,software,,02/08/2011 01:30,
+SECURITY-606,Release,Resolved,SECURITY,PicketBox ,software,Done,01/08/2011 10:44,01/08/2011 10:56
+SECURITY-605,Bug,Resolved,SECURITY,PicketBox ,software,Done,01/08/2011 10:34,01/08/2011 10:42
+SECURITY-604,Release,Resolved,SECURITY,PicketBox ,software,Done,06/07/2011 14:43,06/07/2011 15:13
+SECURITY-603,Bug,Resolved,SECURITY,PicketBox ,software,Done,06/07/2011 14:16,06/07/2011 14:40
+SECURITY-602,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,21/06/2011 10:42,21/06/2011 10:56
+SECURITY-601,Release,Resolved,SECURITY,PicketBox ,software,Done,15/06/2011 11:32,15/06/2011 11:59
+SECURITY-600,Bug,Closed,SECURITY,PicketBox ,software,Won't Do,10/06/2011 08:20,14/01/2013 22:40
+SECURITY-599,Task,Resolved,SECURITY,PicketBox ,software,Done,08/06/2011 06:23,09/06/2011 05:42
+SECURITY-598,Task,Resolved,SECURITY,PicketBox ,software,Done,02/06/2011 08:38,11/08/2011 09:34
+SECURITY-597,Bug,Resolved,SECURITY,PicketBox ,software,Done,26/05/2011 14:21,26/05/2011 14:23
+SECURITY-596,Release,Resolved,SECURITY,PicketBox ,software,Done,23/05/2011 10:46,23/05/2011 11:09
+SECURITY-595,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,23/05/2011 10:39,23/05/2011 10:46
+SECURITY-591,Bug,Open,SECURITY,PicketBox ,software,,11/05/2011 16:45,
+SECURITY-590,Bug,Resolved,SECURITY,PicketBox ,software,Done,24/04/2011 23:14,18/11/2011 11:06
+SECURITY-589,Release,Resolved,SECURITY,PicketBox ,software,Done,19/04/2011 11:00,25/04/2011 14:17
+SECURITY-588,Enhancement,Resolved,SECURITY,PicketBox ,software,Done,19/04/2011 10:51,19/04/2011 11:12
+SECURITY-587,Bug,Resolved,SECURITY,PicketBox ,software,Done,19/04/2011 09:02,19/04/2011 10:52
+SECURITY-586,Release,Resolved,SECURITY,PicketBox ,software,Done,18/04/2011 11:30,18/04/2011 12:08
+SECURITY-585,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,18/04/2011 11:29,18/04/2011 11:39
+SECURITY-584,Release,Resolved,SECURITY,PicketBox ,software,Done,15/04/2011 15:56,15/04/2011 16:16
+SECURITY-583,Release,Resolved,SECURITY,PicketBox ,software,Done,15/04/2011 11:41,15/04/2011 12:39
+SECURITY-582,Bug,Resolved,SECURITY,PicketBox ,software,Done,04/04/2011 12:09,04/04/2011 12:12
+SECURITY-581,Release,Closed,SECURITY,PicketBox ,software,Done,01/04/2011 11:35,01/04/2011 11:47
+SECURITY-580,Feature Request,Closed,SECURITY,PicketBox ,software,Done,31/03/2011 13:49,31/03/2011 13:50
+SECURITY-579,Feature Request,Closed,SECURITY,PicketBox ,software,Done,31/03/2011 13:37,31/03/2011 13:37
+SECURITY-578,Release,Resolved,SECURITY,PicketBox ,software,Done,31/03/2011 12:30,31/03/2011 13:30
+SECURITY-577,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,31/03/2011 10:04,31/03/2011 12:29
+SECURITY-576,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,31/03/2011 09:48,31/03/2011 09:51
+SECURITY-575,Feature Request,Closed,SECURITY,PicketBox ,software,Done,30/03/2011 21:45,31/03/2011 13:53
+SECURITY-574,Bug,Closed,SECURITY,PicketBox ,software,Done,29/03/2011 17:30,31/03/2011 13:33
+SECURITY-573,Bug,Open,SECURITY,PicketBox ,software,,07/03/2011 07:34,
+SECURITY-572,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,07/03/2011 07:28,24/07/2012 10:01
+SECURITY-571,Release,Resolved,SECURITY,PicketBox ,software,Done,22/02/2011 15:27,22/02/2011 15:52
+SECURITY-569,Task,Resolved,SECURITY,PicketBox ,software,Done,11/02/2011 10:00,09/03/2011 14:12
+SECURITY-568,Task,Resolved,SECURITY,PicketBox ,software,Done,11/02/2011 09:28,11/02/2011 09:59
+SECURITY-567,Task,Resolved,SECURITY,PicketBox ,software,Done,11/02/2011 05:37,11/02/2011 09:21
+SECURITY-566,Feature Request,Open,SECURITY,PicketBox ,software,,09/02/2011 12:55,
+SECURITY-565,Bug,Resolved,SECURITY,PicketBox ,software,Done,09/02/2011 12:40,03/11/2011 13:15
+SECURITY-563,Bug,Resolved,SECURITY,PicketBox ,software,Done,04/02/2011 04:34,04/02/2011 07:38
+SECURITY-562,Release,Closed,SECURITY,PicketBox ,software,Done,03/02/2011 13:43,03/02/2011 14:24
+SECURITY-561,Bug,Closed,SECURITY,PicketBox ,software,Done,02/02/2011 21:50,01/04/2011 11:33
+SECURITY-560,Release,Resolved,SECURITY,PicketBox ,software,Done,29/01/2011 08:50,29/01/2011 09:01
+SECURITY-559,Bug,Resolved,SECURITY,PicketBox ,software,Won't Do,26/01/2011 16:15,27/01/2011 06:47
+SECURITY-558,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,25/01/2011 18:27,27/01/2011 06:58
+SECURITY-557,Task,Resolved,SECURITY,PicketBox ,software,Done,21/01/2011 10:03,21/01/2011 10:13
+SECURITY-556,Bug,Closed,SECURITY,PicketBox ,software,Won't Do,15/01/2011 01:10,15/01/2011 10:21
+SECURITY-555,Bug,Open,SECURITY,PicketBox ,software,,14/01/2011 18:21,
+SECURITY-554,Bug,Resolved,SECURITY,PicketBox ,software,Done,14/01/2011 11:46,14/01/2011 11:52
+SECURITY-552,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,13/01/2011 13:59,13/01/2011 14:24
+SECURITY-551,Release,Resolved,SECURITY,PicketBox ,software,Done,13/01/2011 13:08,14/01/2011 06:44
+SECURITY-550,Bug,Closed,SECURITY,PicketBox ,software,Done,12/01/2011 10:34,12/01/2011 10:35
+SECURITY-549,Bug,Closed,SECURITY,PicketBox ,software,Done,11/01/2011 21:52,12/01/2011 10:18
+SECURITY-548,Release,Resolved,SECURITY,PicketBox ,software,Done,06/01/2011 06:35,06/01/2011 07:02
+SECURITY-545,Task,Resolved,SECURITY,PicketBox ,software,Done,27/11/2010 11:15,09/03/2011 12:12
+SECURITY-544,Bug,Resolved,SECURITY,PicketBox ,software,Done,27/11/2010 09:09,27/11/2010 10:09
+SECURITY-543,Feature Request,Resolved,SECURITY,PicketBox ,software,Obsolete,24/11/2010 13:57,13/06/2016 09:46
+SECURITY-542,Feature Request,Resolved,SECURITY,PicketBox ,software,Obsolete,23/11/2010 05:02,02/07/2012 11:36
+SECURITY-541,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,17/11/2010 11:55,23/11/2010 12:09
+SECURITY-540,Task,Closed,SECURITY,PicketBox ,software,Done,16/11/2010 14:39,16/11/2010 17:16
+SECURITY-539,Task,Resolved,SECURITY,PicketBox ,software,Done,15/11/2010 05:26,16/11/2010 12:01
+SECURITY-538,Task,Open,SECURITY,PicketBox ,software,,28/10/2010 10:07,
+SECURITY-536,Bug,Resolved,SECURITY,PicketBox ,software,Done,19/08/2010 10:15,20/10/2010 09:29
+SECURITY-535,Task,Closed,SECURITY,PicketBox ,software,Done,28/09/2010 11:09,29/09/2010 18:23
+SECURITY-534,Task,Closed,SECURITY,PicketBox ,software,Done,28/09/2010 11:06,28/09/2010 22:08
+SECURITY-533,Task,Closed,SECURITY,PicketBox ,software,Done,28/09/2010 11:01,28/09/2010 15:08
+SECURITY-532,Task,Resolved,SECURITY,PicketBox ,software,Done,23/09/2010 16:10,23/09/2010 16:12
+SECURITY-531,Release,Closed,SECURITY,PicketBox ,software,Done,22/09/2010 17:30,22/09/2010 17:59
+SECURITY-530,Feature Request,Closed,SECURITY,PicketBox ,software,Done,21/09/2010 17:02,03/02/2011 13:42
+SECURITY-529,Feature Request,Closed,SECURITY,PicketBox ,software,Done,20/09/2010 17:15,20/09/2010 17:18
+SECURITY-528,Release,Closed,SECURITY,PicketBox ,software,Done,15/09/2010 16:07,15/09/2010 16:11
+SECURITY-527,Feature Request,Open,SECURITY,PicketBox ,software,,15/09/2010 15:45,
+SECURITY-526,Feature Request,Closed,SECURITY,PicketBox ,software,Done,13/09/2010 12:03,20/09/2010 17:13
+SECURITY-525,Feature Request,Closed,SECURITY,PicketBox ,software,Done,31/08/2010 13:57,31/08/2010 13:59
+SECURITY-524,Task,Closed,SECURITY,PicketBox ,software,Done,30/08/2010 21:32,30/08/2010 23:13
+SECURITY-523,Bug,Closed,SECURITY,PicketBox ,software,Done,30/08/2010 20:43,30/08/2010 20:55
+SECURITY-522,Feature Request,Closed,SECURITY,PicketBox ,software,Done,30/08/2010 20:43,30/08/2010 21:11
+SECURITY-521,Feature Request,Closed,SECURITY,PicketBox ,software,Done,30/08/2010 20:40,30/08/2010 21:10
+SECURITY-520,Release,Closed,SECURITY,PicketBox ,software,Done,25/08/2010 18:06,31/08/2010 14:43
+SECURITY-519,Bug,Closed,SECURITY,PicketBox ,software,Done,19/08/2010 11:15,10/09/2010 16:08
+SECURITY-518,Bug,Closed,SECURITY,PicketBox ,software,Done,18/08/2010 14:30,24/08/2010 17:40
+SECURITY-517,Bug,Closed,SECURITY,PicketBox ,software,Done,12/08/2010 11:50,12/08/2010 11:52
+SECURITY-516,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,26/07/2010 10:48,10/08/2010 15:04
+SECURITY-515,Feature Request,Closed,SECURITY,PicketBox ,software,Done,07/07/2010 19:59,12/08/2010 11:51
+SECURITY-514,Task,Open,SECURITY,PicketBox ,software,,16/06/2010 02:50,
+SECURITY-513,Bug,Resolved,SECURITY,PicketBox ,software,Done,08/06/2010 21:45,06/07/2010 14:30
+SECURITY-512,Task,Closed,SECURITY,PicketBox ,software,Done,13/05/2010 11:10,13/05/2010 11:15
+SECURITY-511,Release,Closed,SECURITY,PicketBox ,software,Done,13/05/2010 10:56,13/05/2010 12:12
+SECURITY-510,Feature Request,Closed,SECURITY,PicketBox ,software,Done,12/05/2010 21:22,13/05/2010 10:55
+SECURITY-509,Feature Request,Closed,SECURITY,PicketBox ,software,Done,12/05/2010 20:20,12/05/2010 20:21
+SECURITY-508,Feature Request,Closed,SECURITY,PicketBox ,software,Done,12/05/2010 20:18,12/05/2010 20:21
+SECURITY-507,Bug,Closed,SECURITY,PicketBox ,software,Won't Do,09/05/2010 16:43,10/05/2010 10:20
+SECURITY-506,Release,Closed,SECURITY,PicketBox ,software,Done,05/05/2010 14:09,05/05/2010 21:25
+SECURITY-505,Bug,Closed,SECURITY,PicketBox ,software,Done,05/05/2010 14:08,05/05/2010 14:43
+SECURITY-504,Bug,Open,SECURITY,PicketBox ,software,,02/05/2010 15:18,
+SECURITY-503,Bug,Closed,SECURITY,PicketBox ,software,Done,19/04/2010 14:30,05/05/2010 19:53
+SECURITY-502,Release,Closed,SECURITY,PicketBox ,software,Done,16/04/2010 15:28,16/04/2010 15:34
+SECURITY-501,Feature Request,Closed,SECURITY,PicketBox ,software,Done,06/04/2010 18:13,06/04/2010 18:23
+SECURITY-500,Bug,Closed,SECURITY,PicketBox ,software,Done,06/04/2010 17:49,06/04/2010 17:53
+SECURITY-499,Bug,Closed,SECURITY,PicketBox ,software,Done,06/04/2010 17:16,06/04/2010 17:22
+SECURITY-498,Bug,Closed,SECURITY,PicketBox ,software,Done,06/04/2010 17:07,06/04/2010 17:12
+SECURITY-497,Bug,Closed,SECURITY,PicketBox ,software,Done,06/04/2010 16:59,06/04/2010 17:03
+SECURITY-496,Bug,Closed,SECURITY,PicketBox ,software,Done,06/04/2010 16:05,06/04/2010 16:59
+SECURITY-495,Bug,Closed,SECURITY,PicketBox ,software,Done,06/04/2010 13:40,06/04/2010 15:18
+SECURITY-494,Bug,Closed,SECURITY,PicketBox ,software,Done,06/04/2010 13:13,06/04/2010 13:38
+SECURITY-493,Bug,Closed,SECURITY,PicketBox ,software,Done,06/04/2010 12:52,06/04/2010 12:56
+SECURITY-492,Feature Request,Closed,SECURITY,PicketBox ,software,Done,02/04/2010 15:19,02/04/2010 15:20
+SECURITY-491,Bug,Closed,SECURITY,PicketBox ,software,Won't Do,01/04/2010 11:10,30/04/2010 11:05
+SECURITY-490,Feature Request,Closed,SECURITY,PicketBox ,software,Done,31/03/2010 17:49,02/04/2010 13:57
+SECURITY-489,Release,Closed,SECURITY,PicketBox ,software,Done,25/03/2010 17:20,25/03/2010 17:23
+SECURITY-488,Feature Request,Closed,SECURITY,PicketBox ,software,Done,25/03/2010 17:06,25/03/2010 17:20
+SECURITY-487,Bug,Closed,SECURITY,PicketBox ,software,Done,25/03/2010 13:27,29/03/2010 15:39
+SECURITY-486,Release,Closed,SECURITY,PicketBox ,software,Done,25/03/2010 11:41,25/03/2010 12:06
+SECURITY-485,Task,Closed,SECURITY,PicketBox ,software,Done,25/03/2010 11:35,25/03/2010 11:36
+SECURITY-483,Bug,Closed,SECURITY,PicketBox ,software,Done,23/03/2010 11:35,29/03/2010 15:52
+SECURITY-482,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,22/03/2010 14:31,13/07/2010 16:43
+SECURITY-481,Bug,Closed,SECURITY,PicketBox ,software,Done,22/03/2010 13:37,06/04/2010 15:57
+SECURITY-480,Bug,Closed,SECURITY,PicketBox ,software,Done,22/03/2010 12:53,22/03/2010 13:17
+SECURITY-479,Release,Closed,SECURITY,PicketBox ,software,Done,22/03/2010 12:32,29/03/2010 18:44
+SECURITY-478,Task,Closed,SECURITY,PicketBox ,software,Done,22/03/2010 12:32,29/03/2010 22:13
+SECURITY-477,Bug,Closed,SECURITY,PicketBox ,software,Done,22/03/2010 12:25,29/03/2010 15:49
+SECURITY-476,Patch,Resolved,SECURITY,PicketBox ,software,Done,19/03/2010 10:57,25/05/2010 12:54
+SECURITY-475,Bug,Closed,SECURITY,PicketBox ,software,Done,12/03/2010 14:39,12/03/2010 14:47
+SECURITY-474,Bug,Resolved,SECURITY,PicketBox ,software,Done,12/03/2010 14:31,12/03/2010 14:38
+SECURITY-473,Task,Open,SECURITY,PicketBox ,software,,12/03/2010 11:59,
+SECURITY-472,Bug,Closed,SECURITY,PicketBox ,software,Done,09/03/2010 15:51,09/03/2010 16:10
+SECURITY-471,Release,Closed,SECURITY,PicketBox ,software,Done,08/03/2010 00:46,08/03/2010 01:07
+SECURITY-470,Feature Request,Closed,SECURITY,PicketBox ,software,Done,07/03/2010 15:01,02/11/2011 11:34
+SECURITY-469,Feature Request,Closed,SECURITY,PicketBox ,software,Done,06/03/2010 13:02,07/03/2010 14:58
+SECURITY-468,Feature Request,Open,SECURITY,PicketBox ,software,,04/03/2010 18:31,
+SECURITY-467,Feature Request,Closed,SECURITY,PicketBox ,software,Done,04/03/2010 15:55,31/10/2011 21:47
+SECURITY-466,Bug,Resolved,SECURITY,PicketBox ,software,Done,03/03/2010 11:56,03/03/2010 12:03
+SECURITY-465,Feature Request,Resolved,SECURITY,PicketBox ,software,Won't Do,03/03/2010 07:52,03/03/2010 12:17
+SECURITY-464,Feature Request,Closed,SECURITY,PicketBox ,software,Done,02/03/2010 21:34,04/03/2010 17:08
+SECURITY-463,Feature Request,Closed,SECURITY,PicketBox ,software,Done,02/03/2010 11:59,02/03/2010 12:01
+SECURITY-462,Bug,Closed,SECURITY,PicketBox ,software,Done,02/03/2010 07:59,02/03/2010 08:00
+SECURITY-461,Bug,Closed,SECURITY,PicketBox ,software,Done,01/03/2010 22:40,02/03/2010 07:55
+SECURITY-460,Bug,Closed,SECURITY,PicketBox ,software,Done,01/03/2010 18:12,01/03/2010 21:35
+SECURITY-459,Task,Closed,SECURITY,PicketBox ,software,Done,28/02/2010 23:16,09/03/2010 15:22
+SECURITY-458,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,23/02/2010 12:53,16/03/2010 14:33
+SECURITY-457,Bug,Open,SECURITY,PicketBox ,software,,22/02/2010 06:36,
+SECURITY-456,Feature Request,Closed,SECURITY,PicketBox ,software,Done,09/02/2010 14:29,31/08/2010 14:00
+SECURITY-455,Feature Request,Closed,SECURITY,PicketBox ,software,Done,09/02/2010 14:23,25/08/2010 18:05
+SECURITY-454,Feature Request,Closed,SECURITY,PicketBox ,software,Done,09/02/2010 14:22,25/03/2010 11:38
+SECURITY-453,Release,Closed,SECURITY,PicketBox ,software,Done,08/02/2010 11:41,09/02/2010 14:20
+SECURITY-452,Bug,Resolved,SECURITY,PicketBox ,software,Done,08/02/2010 09:00,08/02/2010 11:42
+SECURITY-450,Feature Request,Closed,SECURITY,PicketBox ,software,Done,23/12/2009 07:14,23/12/2009 13:21
+SECURITY-449,Bug,Closed,SECURITY,PicketBox ,software,Done,19/12/2009 03:30,23/12/2009 13:01
+SECURITY-448,Feature Request,Resolved,SECURITY,PicketBox ,software,Obsolete,18/12/2009 16:27,23/10/2013 11:43
+SECURITY-447,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,17/12/2009 10:40,28/10/2010 10:04
+SECURITY-446,Bug,Closed,SECURITY,PicketBox ,software,Done,24/11/2009 13:57,29/12/2009 16:35
+SECURITY-445,Task,Closed,SECURITY,PicketBox ,software,Done,24/11/2009 13:54,24/11/2009 15:51
+SECURITY-444,Release,Closed,SECURITY,PicketBox ,software,Done,23/11/2009 14:37,25/11/2009 11:31
+SECURITY-443,Task,Closed,SECURITY,PicketBox ,software,Done,23/11/2009 14:03,24/11/2009 15:13
+SECURITY-442,Bug,Closed,SECURITY,PicketBox ,software,Done,18/11/2009 10:25,24/11/2009 15:11
+SECURITY-441,Release,Closed,SECURITY,PicketBox ,software,Done,04/11/2009 13:16,04/11/2009 20:29
+SECURITY-440,Bug,Open,SECURITY,PicketBox ,software,,04/11/2009 12:51,
+SECURITY-439,Bug,Resolved,SECURITY,PicketBox ,software,Done,20/10/2009 12:35,25/05/2010 09:44
+SECURITY-438,Bug,Resolved,SECURITY,PicketBox ,software,Done,11/09/2009 15:47,21/06/2011 10:55
+SECURITY-437,Task,Resolved,SECURITY,PicketBox ,software,Done,11/09/2009 10:20,11/09/2009 10:43
+SECURITY-436,Task,Resolved,SECURITY,PicketBox ,software,Done,11/09/2009 08:13,11/09/2009 10:20
+SECURITY-435,Release,Closed,SECURITY,PicketBox ,software,Done,09/09/2009 16:48,09/09/2009 17:10
+SECURITY-434,Task,Closed,SECURITY,PicketBox ,software,Done,09/09/2009 12:46,09/09/2009 17:09
+SECURITY-433,Task,Resolved,SECURITY,PicketBox ,software,Won't Do,18/08/2009 07:23,27/10/2010 07:04
+SECURITY-432,Release,Closed,SECURITY,PicketBox ,software,Done,12/08/2009 10:11,12/08/2009 10:59
+SECURITY-431,Feature Request,Closed,SECURITY,PicketBox ,software,Done,12/08/2009 10:06,12/08/2009 10:10
+SECURITY-430,Release,Closed,SECURITY,PicketBox ,software,Done,07/08/2009 18:24,10/08/2009 00:37
+SECURITY-429,Feature Request,Closed,SECURITY,PicketBox ,software,Done,05/08/2009 17:31,05/08/2009 17:34
+SECURITY-427,Feature Request,Closed,SECURITY,PicketBox ,software,Done,04/08/2009 17:07,05/08/2009 18:03
+SECURITY-426,Bug,Closed,SECURITY,PicketBox ,software,Done,03/08/2009 14:46,04/11/2009 13:18
+SECURITY-425,Feature Request,Closed,SECURITY,PicketBox ,software,Done,31/07/2009 14:46,31/07/2009 14:48
+SECURITY-424,Feature Request,Closed,SECURITY,PicketBox ,software,Done,31/07/2009 13:12,31/07/2009 14:48
+SECURITY-423,Feature Request,Closed,SECURITY,PicketBox ,software,Done,31/07/2009 13:11,31/07/2009 13:36
+SECURITY-422,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,06/07/2009 15:18,06/07/2009 15:24
+SECURITY-421,Feature Request,Open,SECURITY,PicketBox ,software,,23/06/2009 04:25,
+SECURITY-420,Release,Closed,SECURITY,PicketBox ,software,Done,17/06/2009 15:58,21/07/2009 23:15
+SECURITY-419,Release,Closed,SECURITY,PicketBox ,software,Done,17/06/2009 12:36,17/06/2009 12:55
+SECURITY-418,Bug,Closed,SECURITY,PicketBox ,software,Done,17/06/2009 12:07,05/06/2013 16:12
+SECURITY-417,Release,Closed,SECURITY,PicketBox ,software,Done,16/06/2009 15:58,16/06/2009 16:08
+SECURITY-416,Bug,Closed,SECURITY,PicketBox ,software,Done,16/06/2009 15:34,16/06/2009 15:35
+SECURITY-415,Bug,Closed,SECURITY,PicketBox ,software,Done,09/06/2009 01:10,21/07/2009 21:59
+SECURITY-414,Bug,Closed,SECURITY,PicketBox ,software,Done,08/06/2009 11:48,08/06/2009 12:00
+SECURITY-413,Bug,Open,SECURITY,PicketBox ,software,,27/05/2009 14:58,
+SECURITY-412,Task,Resolved,SECURITY,PicketBox ,software,Done,21/04/2009 06:18,21/04/2009 07:19
+SECURITY-411,Task,Resolved,SECURITY,PicketBox ,software,Done,20/04/2009 12:53,21/04/2009 06:17
+SECURITY-410,Feature Request,Closed,SECURITY,PicketBox ,software,Done,20/04/2009 06:43,07/08/2009 17:20
+SECURITY-409,Task,Closed,SECURITY,PicketBox ,software,Done,08/04/2009 17:58,08/04/2009 18:10
+SECURITY-407,Feature Request,Closed,SECURITY,PicketBox ,software,Done,06/04/2009 15:50,06/04/2009 15:53
+SECURITY-406,Task,Closed,SECURITY,PicketBox ,software,Done,31/03/2009 18:22,31/03/2009 18:42
+SECURITY-405,Bug,Closed,SECURITY,PicketBox ,software,Done,31/03/2009 18:09,31/03/2009 18:21
+SECURITY-404,Bug,Resolved,SECURITY,PicketBox ,software,Done,30/03/2009 19:25,30/03/2009 19:27
+SECURITY-403,Bug,Closed,SECURITY,PicketBox ,software,Done,28/03/2009 14:02,31/03/2009 07:57
+SECURITY-402,Task,Closed,SECURITY,PicketBox ,software,Done,25/03/2009 11:50,25/03/2009 12:03
+SECURITY-399,Bug,Closed,SECURITY,PicketBox ,software,Done,24/03/2009 16:32,24/03/2009 16:32
+SECURITY-397,Bug,Closed,SECURITY,PicketBox ,software,Done,24/03/2009 12:36,24/03/2009 13:41
+SECURITY-395,Bug,Closed,SECURITY,PicketBox ,software,Done,23/03/2009 12:52,23/03/2009 13:00
+SECURITY-394,Bug,Closed,SECURITY,PicketBox ,software,Done,22/03/2009 00:09,22/03/2009 00:12
+SECURITY-393,Bug,Resolved,SECURITY,PicketBox ,software,Done,20/03/2009 16:19,30/03/2009 21:46
+SECURITY-392,Task,Closed,SECURITY,PicketBox ,software,Done,19/03/2009 23:30,19/03/2009 23:37
+SECURITY-391,Bug,Closed,SECURITY,PicketBox ,software,Done,19/03/2009 18:12,19/03/2009 23:27
+SECURITY-389,Task,Closed,SECURITY,PicketBox ,software,Done,19/03/2009 15:14,19/03/2009 15:33
+SECURITY-388,Feature Request,Closed,SECURITY,PicketBox ,software,Done,19/03/2009 14:13,19/03/2009 23:37
+SECURITY-387,Bug,Closed,SECURITY,PicketBox ,software,Done,18/03/2009 15:25,19/03/2009 13:23
+SECURITY-386,Feature Request,Closed,SECURITY,PicketBox ,software,Done,18/03/2009 15:22,19/03/2009 13:22
+SECURITY-385,Task,Closed,SECURITY,PicketBox ,software,Done,18/03/2009 15:07,18/03/2009 15:13
+SECURITY-384,Task,Closed,SECURITY,PicketBox ,software,Done,13/03/2009 16:24,13/03/2009 16:25
+SECURITY-383,Task,Closed,SECURITY,PicketBox ,software,Done,13/03/2009 15:59,13/03/2009 16:25
+SECURITY-382,Feature Request,Closed,SECURITY,PicketBox ,software,Done,13/03/2009 12:55,18/03/2009 15:07
+SECURITY-379,Task,Open,SECURITY,PicketBox ,software,,13/03/2009 12:43,
+SECURITY-378,Component Upgrade,Closed,SECURITY,PicketBox ,software,Done,11/03/2009 00:13,11/03/2009 00:15
+SECURITY-377,Feature Request,Closed,SECURITY,PicketBox ,software,Done,11/03/2009 00:12,11/03/2009 00:13
+SECURITY-376,Bug,Closed,SECURITY,PicketBox ,software,Done,10/03/2009 13:38,10/03/2009 13:54
+SECURITY-375,Task,Closed,SECURITY,PicketBox ,software,Done,04/03/2009 14:58,06/03/2009 11:05
+SECURITY-374,Feature Request,Closed,SECURITY,PicketBox ,software,Done,04/03/2009 14:57,05/03/2009 18:25
+SECURITY-373,Release,Closed,SECURITY,PicketBox ,software,Done,03/03/2009 09:46,03/03/2009 15:26
+SECURITY-372,Task,Closed,SECURITY,PicketBox ,software,Done,24/02/2009 16:48,24/02/2009 17:08
+SECURITY-370,Feature Request,Closed,SECURITY,PicketBox ,software,Done,23/02/2009 11:47,23/02/2009 13:54
+SECURITY-369,Task,Closed,SECURITY,PicketBox ,software,Done,19/02/2009 16:51,19/02/2009 17:30
+SECURITY-368,Task,Closed,SECURITY,PicketBox ,software,Done,17/02/2009 16:52,17/02/2009 16:58
+SECURITY-366,Task,Closed,SECURITY,PicketBox ,software,Done,10/02/2009 12:23,10/03/2009 13:40
+SECURITY-364,Feature Request,Closed,SECURITY,PicketBox ,software,Done,09/02/2009 13:35,09/02/2009 13:51
+SECURITY-363,Task,Closed,SECURITY,PicketBox ,software,Done,09/02/2009 13:03,09/02/2009 14:14
+SECURITY-362,Feature Request,Closed,SECURITY,PicketBox ,software,Done,09/02/2009 12:55,09/02/2009 13:52
+SECURITY-361,Task,Closed,SECURITY,PicketBox ,software,Done,08/02/2009 23:47,09/02/2009 00:02
+SECURITY-360,Task,Closed,SECURITY,PicketBox ,software,Done,08/02/2009 23:27,08/02/2009 23:45
+SECURITY-359,Task,Closed,SECURITY,PicketBox ,software,Done,08/02/2009 23:26,08/02/2009 23:45
+SECURITY-358,Task,Resolved,SECURITY,PicketBox ,software,Obsolete,04/02/2009 07:30,27/11/2010 10:10
+SECURITY-357,Task,Open,SECURITY,PicketBox ,software,,04/02/2009 07:24,
+SECURITY-356,Task,Resolved,SECURITY,PicketBox ,software,Obsolete,03/02/2009 13:11,24/07/2012 08:22
+SECURITY-355,Task,Resolved,SECURITY,PicketBox ,software,Obsolete,03/02/2009 13:06,23/10/2013 11:42
+SECURITY-354,Task,Closed,SECURITY,PicketBox ,software,Done,01/02/2009 23:47,08/02/2009 23:28
+SECURITY-353,Feature Request,Resolved,SECURITY,PicketBox ,software,Obsolete,29/01/2009 12:21,10/12/2010 07:41
+SECURITY-352,Feature Request,Open,SECURITY,PicketBox ,software,,29/01/2009 11:57,
+SECURITY-351,Bug,Closed,SECURITY,PicketBox ,software,Done,28/01/2009 17:32,28/01/2009 17:34
+SECURITY-348,Task,Closed,SECURITY,PicketBox ,software,Done,27/01/2009 15:13,27/01/2009 15:35
+SECURITY-347,Task,Resolved,SECURITY,PicketBox ,software,Won't Do,27/01/2009 13:19,29/01/2009 11:47
+SECURITY-346,Bug,Closed,SECURITY,PicketBox ,software,Done,26/01/2009 16:28,27/01/2009 15:11
+SECURITY-344,Bug,Resolved,SECURITY,PicketBox ,software,Done,26/01/2009 14:10,26/01/2009 14:20
+SECURITY-343,Task,Resolved,SECURITY,PicketBox ,software,Done,26/01/2009 10:29,30/01/2009 12:19
+SECURITY-342,Task,Closed,SECURITY,PicketBox ,software,Done,23/01/2009 12:31,26/01/2009 16:56
+SECURITY-341,Bug,Closed,SECURITY,PicketBox ,software,Done,22/01/2009 04:39,23/01/2009 12:21
+SECURITY-340,Task,Closed,SECURITY,PicketBox ,software,Won't Do,10/12/2008 20:28,11/12/2008 00:34
+SECURITY-339,Bug,Resolved,SECURITY,PicketBox ,software,Done,06/12/2008 15:55,10/08/2009 00:20
+SECURITY-337,Task,Closed,SECURITY,PicketBox ,software,Done,03/12/2008 16:59,25/03/2009 11:48
+SECURITY-336,Task,Closed,SECURITY,PicketBox ,software,Done,01/12/2008 15:11,01/12/2008 15:48
+SECURITY-335,Task,Resolved,SECURITY,PicketBox ,software,Done,30/11/2008 16:35,03/12/2008 13:13
+SECURITY-334,Task,Closed,SECURITY,PicketBox ,software,Done,25/11/2008 21:51,25/11/2008 23:19
+SECURITY-333,Feature Request,Closed,SECURITY,PicketBox ,software,Done,25/11/2008 21:35,25/11/2008 21:41
+SECURITY-332,Bug,Closed,SECURITY,PicketBox ,software,Done,25/11/2008 14:53,25/11/2008 21:45
+SECURITY-330,Bug,Closed,SECURITY,PicketBox ,software,Done,25/11/2008 14:50,25/11/2008 21:38
+SECURITY-328,Feature Request,Closed,SECURITY,PicketBox ,software,Done,21/11/2008 01:04,21/11/2008 01:46
+SECURITY-327,Task,Closed,SECURITY,PicketBox ,software,Done,19/11/2008 14:13,25/11/2008 21:48
+SECURITY-326,Task,Closed,SECURITY,PicketBox ,software,Done,19/11/2008 13:19,19/11/2008 13:45
+SECURITY-325,Bug,Closed,SECURITY,PicketBox ,software,Done,19/11/2008 13:16,19/11/2008 14:12
+SECURITY-324,Task,Closed,SECURITY,PicketBox ,software,Done,13/11/2008 18:28,13/11/2008 22:59
+SECURITY-323,Bug,Closed,SECURITY,PicketBox ,software,Done,13/11/2008 15:30,13/11/2008 15:41
+SECURITY-322,Bug,Closed,SECURITY,PicketBox ,software,Done,13/11/2008 01:40,13/11/2008 01:42
+SECURITY-321,Feature Request,Closed,SECURITY,PicketBox ,software,Done,12/11/2008 01:04,13/11/2008 22:27
+SECURITY-320,Task,Open,SECURITY,PicketBox ,software,,12/11/2008 00:15,
+SECURITY-319,Bug,Closed,SECURITY,PicketBox ,software,Done,08/11/2008 01:40,13/11/2008 01:45
+SECURITY-318,Task,Closed,SECURITY,PicketBox ,software,Done,06/11/2008 17:38,06/11/2008 19:49
+SECURITY-308,Task,Closed,SECURITY,PicketBox ,software,Done,03/11/2008 22:43,06/11/2008 21:41
+SECURITY-306,Feature Request,Closed,SECURITY,PicketBox ,software,Done,02/11/2008 18:48,02/11/2008 18:52
+SECURITY-302,Task,Open,SECURITY,PicketBox ,software,,31/10/2008 11:47,
+SECURITY-299,Feature Request,Closed,SECURITY,PicketBox ,software,Done,30/10/2008 14:33,30/10/2008 14:43
+SECURITY-297,Bug,Closed,SECURITY,PicketBox ,software,Done,30/10/2008 10:43,30/10/2008 11:53
+SECURITY-296,Task,Closed,SECURITY,PicketBox ,software,Done,29/10/2008 17:14,30/10/2008 11:53
+SECURITY-295,Bug,Closed,SECURITY,PicketBox ,software,Done,29/10/2008 16:32,28/01/2009 17:50
+SECURITY-294,Feature Request,Closed,SECURITY,PicketBox ,software,Done,23/10/2008 15:57,30/10/2008 11:56
+SECURITY-292,Bug,Resolved,SECURITY,PicketBox ,software,Done,22/10/2008 17:49,04/01/2011 10:45
+SECURITY-289,Task,Closed,SECURITY,PicketBox ,software,Done,13/10/2008 18:49,17/10/2008 12:21
+SECURITY-288,Feature Request,Closed,SECURITY,PicketBox ,software,Done,13/10/2008 14:47,16/10/2008 22:41
+SECURITY-287,Feature Request,Closed,SECURITY,PicketBox ,software,Done,13/10/2008 14:29,13/10/2008 14:38
+SECURITY-286,Task,Closed,SECURITY,PicketBox ,software,Done,13/10/2008 11:23,17/10/2008 20:54
+SECURITY-284,Task,Closed,SECURITY,PicketBox ,software,Done,13/10/2008 09:46,13/11/2008 00:21
+SECURITY-282,Task,Closed,SECURITY,PicketBox ,software,Done,09/10/2008 18:26,28/01/2009 17:52
+SECURITY-281,Task,Resolved,SECURITY,PicketBox ,software,Done,09/10/2008 13:52,13/10/2008 10:30
+SECURITY-280,Feature Request,Closed,SECURITY,PicketBox ,software,Done,09/10/2008 13:44,13/10/2008 09:57
+SECURITY-279,Task,Resolved,SECURITY,PicketBox ,software,Done,07/10/2008 16:11,30/01/2009 10:03
+SECURITY-278,Bug,Closed,SECURITY,PicketBox ,software,Won't Do,07/10/2008 07:55,04/08/2009 15:58
+SECURITY-277,Task,Closed,SECURITY,PicketBox ,software,Done,06/10/2008 14:09,13/10/2008 09:57
+SECURITY-276,Feature Request,Closed,SECURITY,PicketBox ,software,Done,26/09/2008 08:05,17/10/2008 08:30
+SECURITY-275,Feature Request,Closed,SECURITY,PicketBox ,software,Done,16/09/2008 23:56,28/01/2009 17:52
+SECURITY-274,Feature Request,Open,SECURITY,PicketBox ,software,,16/09/2008 00:43,
+SECURITY-273,Bug,Open,SECURITY,PicketBox ,software,,11/09/2008 04:32,
+SECURITY-272,Bug,Open,SECURITY,PicketBox ,software,,02/09/2008 10:05,
+SECURITY-271,Task,Resolved,SECURITY,PicketBox ,software,Done,07/08/2008 13:12,08/08/2008 08:43
+SECURITY-270,Feature Request,Open,SECURITY,PicketBox ,software,,07/08/2008 11:57,
+SECURITY-269,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,06/08/2008 05:53,30/01/2009 07:14
+SECURITY-268,Task,Resolved,SECURITY,PicketBox ,software,Done,05/08/2008 12:18,29/01/2009 13:07
+SECURITY-267,Task,Open,SECURITY,PicketBox ,software,,05/08/2008 12:17,
+SECURITY-266,Task,Resolved,SECURITY,PicketBox ,software,Done,28/07/2008 10:55,29/07/2008 08:38
+SECURITY-265,Task,Resolved,SECURITY,PicketBox ,software,Done,25/07/2008 09:39,28/07/2008 11:25
+SECURITY-264,Task,Resolved,SECURITY,PicketBox ,software,Done,24/07/2008 14:14,24/07/2008 14:43
+SECURITY-263,Task,Resolved,SECURITY,PicketBox ,software,Done,22/07/2008 19:09,24/07/2008 16:46
+SECURITY-262,Bug,Closed,SECURITY,PicketBox ,software,Done,06/07/2008 11:18,13/10/2008 09:59
+SECURITY-261,Bug,Closed,SECURITY,PicketBox ,software,Done,06/07/2008 10:46,13/10/2008 10:00
+SECURITY-258,Task,Closed,SECURITY,PicketBox ,software,Done,03/07/2008 16:06,31/10/2008 11:14
+SECURITY-257,Feature Request,Closed,SECURITY,PicketBox ,software,Done,03/07/2008 00:33,28/01/2009 17:51
+SECURITY-256,Feature Request,Closed,SECURITY,PicketBox ,software,Won't Do,01/07/2008 16:08,07/08/2009 17:19
+SECURITY-255,Bug,Open,SECURITY,PicketBox ,software,,30/06/2008 06:07,
+SECURITY-254,Task,Closed,SECURITY,PicketBox ,software,Done,24/06/2008 17:22,24/06/2008 17:46
+SECURITY-253,Task,Closed,SECURITY,PicketBox ,software,Done,24/06/2008 17:17,23/10/2008 12:02
+SECURITY-250,Bug,Resolved,SECURITY,PicketBox ,software,Done,19/06/2008 18:49,19/06/2008 18:50
+SECURITY-249,Task,Resolved,SECURITY,PicketBox ,software,Done,19/06/2008 14:39,19/06/2008 15:31
+SECURITY-248,Task,Closed,SECURITY,PicketBox ,software,Done,19/06/2008 13:19,19/06/2008 16:01
+SECURITY-247,Bug,Closed,SECURITY,PicketBox ,software,Done,18/06/2008 17:44,18/06/2008 17:46
+SECURITY-246,Feature Request,Closed,SECURITY,PicketBox ,software,Done,18/06/2008 16:15,18/06/2008 16:21
+SECURITY-245,Task,Closed,SECURITY,PicketBox ,software,Done,17/06/2008 10:39,17/06/2008 21:04
+SECURITY-244,Task,Closed,SECURITY,PicketBox ,software,Done,16/06/2008 18:38,29/12/2009 19:17
+SECURITY-241,Feature Request,Closed,SECURITY,PicketBox ,software,Done,13/06/2008 15:41,14/06/2008 07:44
+SECURITY-240,Task,Closed,SECURITY,PicketBox ,software,Done,13/06/2008 15:27,13/06/2008 16:42
+SECURITY-239,Feature Request,Closed,SECURITY,PicketBox ,software,Done,12/06/2008 16:25,13/06/2008 16:20
+SECURITY-238,Bug,Closed,SECURITY,PicketBox ,software,Done,12/06/2008 16:24,13/06/2008 16:23
+SECURITY-237,Feature Request,Closed,SECURITY,PicketBox ,software,Done,12/06/2008 15:41,12/06/2008 16:10
+SECURITY-236,Bug,Closed,SECURITY,PicketBox ,software,Done,12/06/2008 03:01,12/06/2008 03:02
+SECURITY-235,Bug,Closed,SECURITY,PicketBox ,software,Done,09/06/2008 17:50,13/06/2008 17:33
+SECURITY-234,Feature Request,Closed,SECURITY,PicketBox ,software,Done,09/06/2008 17:40,13/06/2008 17:22
+SECURITY-233,Task,Closed,SECURITY,PicketBox ,software,Done,05/06/2008 17:15,06/06/2008 02:35
+SECURITY-232,Bug,Closed,SECURITY,PicketBox ,software,Done,05/06/2008 15:43,05/06/2008 17:09
+SECURITY-225,Bug,Resolved,SECURITY,PicketBox ,software,Done,31/05/2008 21:41,16/06/2008 18:30
+SECURITY-221,Task,Closed,SECURITY,PicketBox ,software,Done,28/05/2008 19:02,02/06/2008 10:37
+SECURITY-220,Bug,Closed,SECURITY,PicketBox ,software,Done,19/05/2008 16:39,19/05/2008 18:39
+SECURITY-219,Task,Closed,SECURITY,PicketBox ,software,Done,14/05/2008 03:37,20/05/2008 10:51
+SECURITY-218,Feature Request,Closed,SECURITY,PicketBox ,software,Done,14/05/2008 03:24,14/05/2008 03:34
+SECURITY-217,Feature Request,Closed,SECURITY,PicketBox ,software,Done,09/05/2008 11:35,09/05/2008 12:45
+SECURITY-216,Feature Request,Open,SECURITY,PicketBox ,software,,08/05/2008 14:52,
+SECURITY-211,Task,Closed,SECURITY,PicketBox ,software,Done,08/05/2008 14:24,23/10/2008 10:45
+SECURITY-209,Task,Closed,SECURITY,PicketBox ,software,Obsolete,01/05/2008 16:27,22/10/2008 17:16
+SECURITY-208,Task,Resolved,SECURITY,PicketBox ,software,Won't Do,29/04/2008 12:55,29/07/2008 09:12
+SECURITY-207,Task,Closed,SECURITY,PicketBox ,software,Done,29/04/2008 12:24,09/05/2008 13:31
+SECURITY-206,Bug,Closed,SECURITY,PicketBox ,software,Done,25/04/2008 13:12,28/01/2009 17:51
+SECURITY-205,Task,Closed,SECURITY,PicketBox ,software,Done,23/04/2008 21:21,23/04/2008 22:26
+SECURITY-204,Feature Request,Closed,SECURITY,PicketBox ,software,Done,23/04/2008 21:12,23/04/2008 21:26
+SECURITY-203,Bug,Closed,SECURITY,PicketBox ,software,Done,23/04/2008 17:41,23/04/2008 17:42
+SECURITY-202,Feature Request,Closed,SECURITY,PicketBox ,software,Done,23/04/2008 17:39,23/04/2008 17:40
+SECURITY-201,Feature Request,Closed,SECURITY,PicketBox ,software,Done,23/04/2008 17:38,23/04/2008 17:38
+SECURITY-199,Bug,Closed,SECURITY,PicketBox ,software,Done,21/04/2008 00:07,21/04/2008 00:08
+SECURITY-198,Feature Request,Closed,SECURITY,PicketBox ,software,Done,18/04/2008 16:12,18/04/2008 20:21
+SECURITY-197,Feature Request,Closed,SECURITY,PicketBox ,software,Done,14/04/2008 15:22,14/04/2008 15:28
+SECURITY-196,Task,Closed,SECURITY,PicketBox ,software,Done,12/04/2008 15:45,17/04/2008 01:02
+SECURITY-195,Feature Request,Closed,SECURITY,PicketBox ,software,Done,12/04/2008 15:37,16/04/2008 16:47
+SECURITY-193,Task,Closed,SECURITY,PicketBox ,software,Done,12/04/2008 01:16,16/04/2008 00:20
+SECURITY-189,Feature Request,Closed,SECURITY,PicketBox ,software,Done,11/04/2008 23:55,12/04/2008 00:12
+SECURITY-188,Feature Request,Closed,SECURITY,PicketBox ,software,Done,07/04/2008 11:17,12/04/2008 00:23
+SECURITY-187,Task,Closed,SECURITY,PicketBox ,software,Done,04/04/2008 18:45,15/04/2008 22:02
+SECURITY-186,Feature Request,Closed,SECURITY,PicketBox ,software,Done,04/04/2008 18:40,04/04/2008 18:40
+SECURITY-184,Feature Request,Closed,SECURITY,PicketBox ,software,Done,04/04/2008 18:34,04/04/2008 18:37
+SECURITY-182,Feature Request,Closed,SECURITY,PicketBox ,software,Done,04/04/2008 18:22,04/04/2008 18:28
+SECURITY-181,Feature Request,Closed,SECURITY,PicketBox ,software,Done,03/04/2008 14:10,03/04/2008 14:13
+SECURITY-180,Feature Request,Closed,SECURITY,PicketBox ,software,Done,03/04/2008 13:29,03/04/2008 13:49
+SECURITY-179,Bug,Closed,SECURITY,PicketBox ,software,Done,03/04/2008 12:05,03/04/2008 12:06
+SECURITY-178,Feature Request,Closed,SECURITY,PicketBox ,software,Done,03/04/2008 12:02,03/04/2008 12:03
+SECURITY-176,Task,Resolved,SECURITY,PicketBox ,software,Done,03/04/2008 03:09,27/11/2011 20:22
+SECURITY-175,Feature Request,Closed,SECURITY,PicketBox ,software,Done,03/04/2008 03:05,03/04/2008 03:06
+SECURITY-174,Task,Open,SECURITY,PicketBox ,software,,02/04/2008 19:36,
+SECURITY-173,Feature Request,Closed,SECURITY,PicketBox ,software,Done,02/04/2008 18:09,02/04/2008 18:16
+SECURITY-172,Feature Request,Closed,SECURITY,PicketBox ,software,Done,02/04/2008 18:03,02/04/2008 18:08
+SECURITY-171,Feature Request,Closed,SECURITY,PicketBox ,software,Done,02/04/2008 17:56,02/04/2008 17:58
+SECURITY-170,Feature Request,Closed,SECURITY,PicketBox ,software,Done,02/04/2008 14:25,02/04/2008 14:26
+SECURITY-168,Bug,Closed,SECURITY,PicketBox ,software,Done,02/04/2008 14:05,12/04/2008 00:22
+SECURITY-164,Bug,Closed,SECURITY,PicketBox ,software,Won't Do,01/04/2008 11:55,17/04/2008 01:00
+SECURITY-163,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,01/04/2008 11:41,01/04/2008 11:42
+SECURITY-162,Bug,Closed,SECURITY,PicketBox ,software,Done,31/03/2008 17:45,01/04/2008 13:58
+SECURITY-161,Task,Closed,SECURITY,PicketBox ,software,Done,31/03/2008 14:05,21/04/2008 13:38
+SECURITY-160,Feature Request,Closed,SECURITY,PicketBox ,software,Done,28/03/2008 19:21,28/03/2008 19:24
+SECURITY-159,Feature Request,Closed,SECURITY,PicketBox ,software,Done,28/03/2008 17:41,28/03/2008 18:39
+SECURITY-158,Bug,Closed,SECURITY,PicketBox ,software,Won't Do,27/03/2008 13:50,17/06/2008 14:52
+SECURITY-157,Feature Request,Closed,SECURITY,PicketBox ,software,Done,25/03/2008 15:00,25/03/2008 15:30
+SECURITY-156,Task,Closed,SECURITY,PicketBox ,software,Done,25/03/2008 14:19,28/03/2008 18:36
+SECURITY-155,Task,Open,SECURITY,PicketBox ,software,,18/03/2008 19:38,
+SECURITY-154,Task,Resolved,SECURITY,PicketBox ,software,Done,18/03/2008 17:31,19/06/2008 15:04
+SECURITY-153,Task,Resolved,SECURITY,PicketBox ,software,Done,07/03/2008 04:49,09/08/2008 07:37
+SECURITY-147,Task,Open,SECURITY,PicketBox ,software,,06/03/2008 08:50,
+SECURITY-146,Task,Open,SECURITY,PicketBox ,software,,06/03/2008 08:50,
+SECURITY-145,Task,Open,SECURITY,PicketBox ,software,,06/03/2008 08:49,
+SECURITY-144,Task,Resolved,SECURITY,PicketBox ,software,Won't Do,06/03/2008 07:06,27/01/2009 12:36
+SECURITY-143,Task,Resolved,SECURITY,PicketBox ,software,Done,06/03/2008 05:46,29/07/2008 09:11
+SECURITY-142,Task,Resolved,SECURITY,PicketBox ,software,Done,05/03/2008 11:21,28/01/2009 12:49
+SECURITY-141,Task,Resolved,SECURITY,PicketBox ,software,Done,05/03/2008 11:08,03/11/2011 13:23
+SECURITY-140,Task,Open,SECURITY,PicketBox ,software,,05/03/2008 10:00,
+SECURITY-139,Task,Open,SECURITY,PicketBox ,software,,05/03/2008 09:56,
+SECURITY-138,Task,Resolved,SECURITY,PicketBox ,software,Done,05/03/2008 09:46,29/01/2009 12:55
+SECURITY-137,Task,Open,SECURITY,PicketBox ,software,,05/03/2008 09:45,
+SECURITY-136,Task,Resolved,SECURITY,PicketBox ,software,Obsolete,05/03/2008 09:42,27/11/2010 10:15
+SECURITY-135,Task,Resolved,SECURITY,PicketBox ,software,Done,05/03/2008 09:42,29/07/2008 08:51
+SECURITY-134,Task,Resolved,SECURITY,PicketBox ,software,Won't Do,05/03/2008 09:41,27/01/2009 12:29
+SECURITY-133,Task,Resolved,SECURITY,PicketBox ,software,Done,05/03/2008 09:40,22/07/2008 19:06
+SECURITY-132,Task,Resolved,SECURITY,PicketBox ,software,Done,05/03/2008 09:39,03/11/2011 13:25
+SECURITY-131,Task,Open,SECURITY,PicketBox ,software,,05/03/2008 09:38,
+SECURITY-130,Task,Open,SECURITY,PicketBox ,software,,05/03/2008 09:37,
+SECURITY-129,Task,Resolved,SECURITY,PicketBox ,software,Done,05/03/2008 09:36,24/07/2012 12:22
+SECURITY-128,Task,Open,SECURITY,PicketBox ,software,,05/03/2008 09:33,
+SECURITY-127,Task,Open,SECURITY,PicketBox ,software,,05/03/2008 09:32,
+SECURITY-126,Task,Resolved,SECURITY,PicketBox ,software,Won't Do,05/03/2008 09:29,27/01/2009 12:27
+SECURITY-125,Feature Request,Closed,SECURITY,PicketBox ,software,Done,28/02/2008 19:51,24/06/2008 17:21
+SECURITY-124,Bug,Closed,SECURITY,PicketBox ,software,Done,28/02/2008 19:50,04/03/2008 16:57
+SECURITY-123,Feature Request,Closed,SECURITY,PicketBox ,software,Done,26/02/2008 12:19,04/03/2008 16:57
+SECURITY-122,Task,Closed,SECURITY,PicketBox ,software,Done,14/02/2008 00:33,31/03/2008 14:04
+SECURITY-121,Task,Closed,SECURITY,PicketBox ,software,Done,05/02/2008 15:31,05/02/2008 15:35
+SECURITY-120,Task,Closed,SECURITY,PicketBox ,software,Done,05/02/2008 13:52,05/02/2008 15:35
+SECURITY-119,Task,Closed,SECURITY,PicketBox ,software,Done,04/02/2008 00:24,05/02/2008 17:54
+SECURITY-118,Task,Closed,SECURITY,PicketBox ,software,Done,31/01/2008 14:38,06/11/2008 21:40
+SECURITY-117,Bug,Closed,SECURITY,PicketBox ,software,Done,24/01/2008 18:50,05/02/2008 12:04
+SECURITY-116,Task,Closed,SECURITY,PicketBox ,software,Done,18/01/2008 18:28,05/02/2008 17:53
+SECURITY-115,Task,Closed,SECURITY,PicketBox ,software,Done,18/01/2008 18:27,05/02/2008 17:53
+SECURITY-114,Task,Open,SECURITY,PicketBox ,software,,18/01/2008 12:41,
+SECURITY-113,Task,Closed,SECURITY,PicketBox ,software,Done,18/01/2008 12:17,21/04/2008 10:32
+SECURITY-112,Task,Closed,SECURITY,PicketBox ,software,Done,15/01/2008 00:59,15/01/2008 01:05
+SECURITY-111,Task,Closed,SECURITY,PicketBox ,software,Done,14/01/2008 22:56,20/05/2008 08:32
+SECURITY-110,Bug,Closed,SECURITY,PicketBox ,software,Done,14/01/2008 22:46,14/01/2008 22:48
+SECURITY-109,Feature Request,Closed,SECURITY,PicketBox ,software,Done,14/01/2008 00:52,14/01/2008 22:49
+SECURITY-108,Task,Closed,SECURITY,PicketBox ,software,Done,14/01/2008 00:50,05/02/2008 17:52
+SECURITY-107,Task,Closed,SECURITY,PicketBox ,software,Done,09/01/2008 15:01,09/01/2008 15:41
+SECURITY-106,Task,Closed,SECURITY,PicketBox ,software,Done,09/01/2008 14:58,09/01/2008 15:41
+SECURITY-105,Bug,Closed,SECURITY,PicketBox ,software,Done,08/01/2008 13:36,09/01/2008 15:42
+SECURITY-104,Feature Request,Closed,SECURITY,PicketBox ,software,Done,21/12/2007 16:37,21/12/2007 16:38
+SECURITY-103,Feature Request,Closed,SECURITY,PicketBox ,software,Done,21/12/2007 13:44,21/12/2007 13:47
+SECURITY-102,Feature Request,Closed,SECURITY,PicketBox ,software,Duplicate,15/12/2007 15:08,17/04/2008 01:04
+SECURITY-101,Feature Request,Open,SECURITY,PicketBox ,software,,14/12/2007 02:35,
+SECURITY-100,Feature Request,Closed,SECURITY,PicketBox ,software,Done,14/12/2007 02:34,23/10/2008 12:03
+SECURITY-99,Task,Closed,SECURITY,PicketBox ,software,Done,06/12/2007 11:50,07/12/2007 03:33
+SECURITY-98,Feature Request,Closed,SECURITY,PicketBox ,software,Done,05/12/2007 18:03,06/12/2007 18:21
+SECURITY-97,Bug,Closed,SECURITY,PicketBox ,software,Done,28/11/2007 22:30,28/11/2007 22:31
+SECURITY-96,Task,Closed,SECURITY,PicketBox ,software,Done,26/11/2007 20:22,26/11/2007 20:47
+SECURITY-95,Task,Closed,SECURITY,PicketBox ,software,Done,26/11/2007 17:08,26/11/2007 20:48
+SECURITY-94,Task,Closed,SECURITY,PicketBox ,software,Done,26/11/2007 11:34,26/11/2007 20:47
+SECURITY-93,Feature Request,Closed,SECURITY,PicketBox ,software,Done,16/11/2007 13:48,14/12/2007 02:36
+SECURITY-92,Task,Closed,SECURITY,PicketBox ,software,Done,16/11/2007 12:02,16/11/2007 13:47
+SECURITY-89,Task,Closed,SECURITY,PicketBox ,software,Done,26/10/2007 15:48,31/10/2008 11:44
+SECURITY-88,Task,Closed,SECURITY,PicketBox ,software,Done,26/10/2007 15:38,23/10/2008 12:01
+SECURITY-87,Feature Request,Closed,SECURITY,PicketBox ,software,Done,26/10/2007 15:36,14/12/2007 02:36
+SECURITY-86,Feature Request,Closed,SECURITY,PicketBox ,software,Done,26/10/2007 15:35,14/12/2007 02:36
+SECURITY-85,Task,Closed,SECURITY,PicketBox ,software,Done,19/10/2007 14:39,26/10/2007 11:17
+SECURITY-84,Task,Closed,SECURITY,PicketBox ,software,Done,19/10/2007 14:38,26/10/2007 18:08
+SECURITY-83,Task,Closed,SECURITY,PicketBox ,software,Done,11/10/2007 16:43,11/10/2007 17:06
+SECURITY-82,Task,Closed,SECURITY,PicketBox ,software,Done,08/10/2007 15:48,08/10/2007 16:06
+SECURITY-81,Bug,Closed,SECURITY,PicketBox ,software,Done,05/10/2007 13:45,08/10/2007 16:06
+SECURITY-80,Task,Closed,SECURITY,PicketBox ,software,Done,27/09/2007 20:29,27/09/2007 20:30
+SECURITY-79,Task,Closed,SECURITY,PicketBox ,software,Done,25/09/2007 17:19,19/10/2007 14:34
+SECURITY-78,Task,Closed,SECURITY,PicketBox ,software,Done,13/09/2007 08:37,25/09/2007 17:20
+SECURITY-77,Task,Closed,SECURITY,PicketBox ,software,Done,08/09/2007 20:11,27/09/2007 01:05
+SECURITY-76,Task,Closed,SECURITY,PicketBox ,software,Done,23/08/2007 17:12,23/08/2007 17:27
+SECURITY-75,Task,Closed,SECURITY,PicketBox ,software,Done,22/08/2007 13:49,22/08/2007 13:51
+SECURITY-74,Feature Request,Resolved,SECURITY,PicketBox ,software,Won't Do,03/08/2007 17:59,27/09/2011 14:35
+SECURITY-73,Task,Closed,SECURITY,PicketBox ,software,Done,03/08/2007 17:52,09/08/2007 17:46
+SECURITY-72,Bug,Closed,SECURITY,PicketBox ,software,Won't Do,23/07/2007 16:00,09/08/2007 18:12
+SECURITY-69,Feature Request,Closed,SECURITY,PicketBox ,software,Won't Do,05/07/2007 12:52,25/09/2007 17:16
+SECURITY-68,Feature Request,Closed,SECURITY,PicketBox ,software,Won't Do,05/07/2007 12:51,25/09/2007 17:17
+SECURITY-66,Task,Closed,SECURITY,PicketBox ,software,Done,05/07/2007 11:58,26/07/2007 02:41
+SECURITY-64,Task,Closed,SECURITY,PicketBox ,software,Done,23/06/2007 12:12,31/07/2007 10:40
+SECURITY-63,Task,Closed,SECURITY,PicketBox ,software,Done,13/06/2007 16:08,13/06/2007 16:17
+SECURITY-62,Task,Closed,SECURITY,PicketBox ,software,Done,12/06/2007 12:18,13/06/2007 15:33
+SECURITY-61,Feature Request,Open,SECURITY,PicketBox ,software,,11/06/2007 13:31,
+SECURITY-60,Task,Open,SECURITY,PicketBox ,software,,11/06/2007 12:47,
+SECURITY-59,Feature Request,Closed,SECURITY,PicketBox ,software,Done,11/06/2007 12:43,03/08/2007 12:49
+SECURITY-56,Bug,Closed,SECURITY,PicketBox ,software,Done,31/05/2007 05:23,11/06/2007 12:33
+SECURITY-55,Feature Request,Closed,SECURITY,PicketBox ,software,Done,22/05/2007 12:35,05/07/2007 12:05
+SECURITY-54,Task,Open,SECURITY,PicketBox ,software,,16/05/2007 13:58,
+SECURITY-53,Task,Closed,SECURITY,PicketBox ,software,Done,15/05/2007 23:54,17/05/2007 21:42
+SECURITY-52,Task,Closed,SECURITY,PicketBox ,software,Done,15/05/2007 11:05,17/05/2007 21:42
+SECURITY-51,Feature Request,Closed,SECURITY,PicketBox ,software,Done,13/05/2007 12:35,13/05/2007 12:35
+SECURITY-50,Feature Request,Closed,SECURITY,PicketBox ,software,Done,08/05/2007 16:14,23/10/2008 11:55
+SECURITY-49,Feature Request,Closed,SECURITY,PicketBox ,software,Done,08/05/2007 15:48,08/05/2007 23:14
+SECURITY-48,Task,Closed,SECURITY,PicketBox ,software,Done,08/05/2007 10:46,11/05/2007 10:55
+SECURITY-47,Task,Closed,SECURITY,PicketBox ,software,Done,01/05/2007 18:09,11/05/2007 10:55
+SECURITY-46,Feature Request,Open,SECURITY,PicketBox ,software,,01/05/2007 18:08,
+SECURITY-45,Task,Closed,SECURITY,PicketBox ,software,Won't Do,27/04/2007 17:15,02/11/2011 13:59
+SECURITY-44,Task,Closed,SECURITY,PicketBox ,software,Done,27/04/2007 17:11,02/05/2007 11:43
+SECURITY-43,Task,Closed,SECURITY,PicketBox ,software,Done,10/04/2007 00:42,08/05/2007 23:31
+SECURITY-42,Task,Open,SECURITY,PicketBox ,software,,04/04/2007 08:30,
+SECURITY-41,Task,Closed,SECURITY,PicketBox ,software,Done,29/03/2007 12:56,25/09/2007 13:59
+SECURITY-40,Feature Request,Closed,SECURITY,PicketBox ,software,Done,26/03/2007 20:17,25/04/2007 11:20
+SECURITY-39,Task,Closed,SECURITY,PicketBox ,software,Done,20/03/2007 11:25,27/09/2007 02:17
+SECURITY-38,Task,Open,SECURITY,PicketBox ,software,,15/03/2007 23:17,
+SECURITY-36,Patch,Closed,SECURITY,PicketBox ,software,Won't Do,14/03/2007 10:17,09/10/2007 02:43
+SECURITY-35,Task,Closed,SECURITY,PicketBox ,software,Done,07/03/2007 13:11,25/09/2007 17:15
+SECURITY-34,Task,Closed,SECURITY,PicketBox ,software,Done,07/03/2007 12:01,15/06/2009 14:04
+SECURITY-33,Task,Resolved,SECURITY,PicketBox ,software,Duplicate,07/03/2007 11:56,28/07/2008 10:51
+SECURITY-32,Task,Resolved,SECURITY,PicketBox ,software,Done,07/03/2007 11:54,13/05/2008 16:48
+SECURITY-31,Task,Closed,SECURITY,PicketBox ,software,Done,07/03/2007 11:47,03/04/2007 13:11
+SECURITY-30,Task,Closed,SECURITY,PicketBox ,software,Done,07/03/2007 11:40,27/09/2007 01:39
+SECURITY-29,Task,Open,SECURITY,PicketBox ,software,,07/03/2007 11:38,
+SECURITY-28,Task,Closed,SECURITY,PicketBox ,software,Duplicate,22/02/2007 13:01,23/10/2008 10:43
+SECURITY-27,Task,Closed,SECURITY,PicketBox ,software,Done,22/02/2007 13:00,23/10/2008 10:43
+SECURITY-26,Task,Closed,SECURITY,PicketBox ,software,Done,11/01/2007 00:58,15/05/2007 23:52
+SECURITY-25,Task,Closed,SECURITY,PicketBox ,software,Done,29/11/2006 10:58,11/01/2007 01:02
+SECURITY-24,Feature Request,Closed,SECURITY,PicketBox ,software,Done,29/11/2006 10:47,19/10/2007 12:45
+SECURITY-23,Bug,Closed,SECURITY,PicketBox ,software,Done,28/11/2006 00:41,08/05/2007 06:55
+SECURITY-22,Bug,Closed,SECURITY,PicketBox ,software,Won't Do,28/11/2006 00:38,08/05/2007 06:44
+SECURITY-21,Task,Closed,SECURITY,PicketBox ,software,Done,06/11/2006 11:27,14/11/2006 12:54
+SECURITY-20,Task,Closed,SECURITY,PicketBox ,software,Done,06/11/2006 11:25,07/03/2007 11:36
+SECURITY-19,Feature Request,Closed,SECURITY,PicketBox ,software,Done,02/11/2006 23:43,03/11/2006 00:15
+SECURITY-18,Feature Request,Resolved,SECURITY,PicketBox ,software,Done,02/11/2006 23:38,02/11/2006 23:40
+SECURITY-17,Task,Closed,SECURITY,PicketBox ,software,Done,01/11/2006 15:36,13/11/2006 17:08
+SECURITY-16,Feature Request,Closed,SECURITY,PicketBox ,software,Obsolete,31/10/2006 14:59,25/09/2007 17:16
+SECURITY-15,Feature Request,Closed,SECURITY,PicketBox ,software,Done,23/10/2006 15:52,19/03/2007 00:44
+SECURITY-14,Task,Closed,SECURITY,PicketBox ,software,Done,17/10/2006 13:48,08/05/2007 10:45
+SECURITY-13,Task,Closed,SECURITY,PicketBox ,software,Done,17/10/2006 12:00,08/05/2007 10:44
+SECURITY-12,Bug,Closed,SECURITY,PicketBox ,software,Done,06/10/2006 10:58,06/10/2006 11:04
+SECURITY-11,Feature Request,Closed,SECURITY,PicketBox ,software,Done,27/09/2006 16:46,15/05/2007 23:52
+SECURITY-10,Bug,Closed,SECURITY,PicketBox ,software,Done,27/09/2006 00:35,27/09/2006 00:38
+SECURITY-9,Task,Closed,SECURITY,PicketBox ,software,Done,18/09/2006 15:54,25/09/2006 01:07
+SECURITY-8,Feature Request,Open,SECURITY,PicketBox ,software,,15/09/2006 16:05,
+SECURITY-7,Bug,Closed,SECURITY,PicketBox ,software,Done,13/09/2006 13:42,13/09/2006 14:06
+SECURITY-6,Bug,Closed,SECURITY,PicketBox ,software,Done,12/09/2006 15:54,12/09/2006 18:09
+SECURITY-5,Task,Closed,SECURITY,PicketBox ,software,Done,12/09/2006 15:25,15/09/2006 16:04
+SECURITY-4,Task,Closed,SECURITY,PicketBox ,software,Done,12/09/2006 11:46,12/09/2006 15:26
+SECURITY-1,Task,Closed,SECURITY,PicketBox ,software,Done,05/09/2006 13:15,08/09/2006 17:10

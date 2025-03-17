@@ -1,0 +1,133 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+RHINENG-14348,Bug,New,RHINENG,Red Hat Insights Engineering,software,,13/11/2024 12:25,
+RHINENG-14132,Bug,In Progress,RHINENG,Red Hat Insights Engineering,software,,05/11/2024 23:02,
+RHINENG-14110,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,05/11/2024 11:02,12/11/2024 02:08
+RHINENG-14014,Task,Release Pending,RHINENG,Red Hat Insights Engineering,software,Done,31/10/2024 11:09,31/10/2024 11:58
+RHINENG-13715,Story,Backlog,RHINENG,Red Hat Insights Engineering,software,,09/08/2023 05:50,
+RHINENG-13714,Task,Backlog,RHINENG,Red Hat Insights Engineering,software,,18/01/2024 16:31,
+RHINENG-13708,Task,New,RHINENG,Red Hat Insights Engineering,software,,16/10/2024 05:40,
+RHINENG-13590,Task,New,RHINENG,Red Hat Insights Engineering,software,,10/10/2024 20:27,
+RHINENG-13581,Bug,Code Review,RHINENG,Red Hat Insights Engineering,software,,10/10/2024 13:29,
+RHINENG-13577,Bug,Backlog,RHINENG,Red Hat Insights Engineering,software,,10/10/2024 04:47,
+RHINENG-13498,Bug,New,RHINENG,Red Hat Insights Engineering,software,,07/10/2024 14:28,
+RHINENG-13311,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,27/09/2024 12:27,01/10/2024 10:58
+RHINENG-12953,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,25/09/2024 09:04,31/10/2024 09:30
+RHINENG-12842,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Done,24/09/2024 14:57,26/09/2024 16:34
+RHINENG-12771,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Not a Bug,23/09/2024 09:14,23/09/2024 13:23
+RHINENG-12609,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,18/09/2024 12:30,27/09/2024 07:55
+RHINENG-12573,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,16/09/2024 02:09,20/09/2024 11:11
+RHINENG-12446,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,10/09/2024 10:30,24/09/2024 18:43
+RHINENG-12352,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Done,05/09/2024 13:44,24/09/2024 17:00
+RHINENG-12332,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Cannot Reproduce,05/09/2024 02:10,15/10/2024 11:37
+RHINENG-12200,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,29/08/2024 05:31,06/11/2024 18:44
+RHINENG-12092,Task,New,RHINENG,Red Hat Insights Engineering,software,,22/07/2024 15:35,
+RHINENG-12091,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Done,13/06/2024 19:27,24/10/2024 16:30
+RHINENG-12090,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Done,15/08/2024 15:33,24/10/2024 16:27
+RHINENG-12033,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Duplicate,19/08/2024 02:20,22/08/2024 08:32
+RHINENG-11915,Task,Backlog,RHINENG,Red Hat Insights Engineering,software,,12/08/2024 01:35,
+RHINENG-11806,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Done,01/08/2024 19:59,26/09/2024 12:34
+RHINENG-11776,Bug,Backlog,RHINENG,Red Hat Insights Engineering,software,,31/07/2024 11:50,
+RHINENG-11707,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,19/07/2024 00:16,29/07/2024 08:18
+RHINENG-11592,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Duplicate,23/07/2024 11:45,01/08/2024 07:13
+RHINENG-11584,Task,Code Review,RHINENG,Red Hat Insights Engineering,software,,07/09/2023 13:05,
+RHINENG-11512,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,19/07/2024 14:20,22/07/2024 14:32
+RHINENG-11510,Story,Closed,RHINENG,Red Hat Insights Engineering,software,Won't Do,19/07/2024 13:09,19/07/2024 17:18
+RHINENG-11509,Story,Closed,RHINENG,Red Hat Insights Engineering,software,Done,19/07/2024 13:10,01/10/2024 09:07
+RHINENG-11504,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Duplicate,19/07/2024 02:39,31/07/2024 11:09
+RHINENG-11465,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Not a Bug,17/07/2024 14:48,17/07/2024 15:10
+RHINENG-11375,Bug,New,RHINENG,Red Hat Insights Engineering,software,,12/07/2024 14:12,
+RHINENG-11307,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,10/07/2024 11:34,20/08/2024 00:19
+RHINENG-11219,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Duplicate,08/07/2024 06:26,10/07/2024 14:19
+RHINENG-11142,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,01/07/2024 06:34,01/07/2024 17:11
+RHINENG-10961,Story,Refinement,RHINENG,Red Hat Insights Engineering,software,,27/06/2024 20:29,
+RHINENG-10916,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Won't Do,26/06/2024 02:27,09/07/2024 15:30
+RHINENG-10874,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,21/06/2024 12:52,08/07/2024 13:11
+RHINENG-10873,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,21/06/2024 12:53,15/07/2024 08:05
+RHINENG-10842,Bug,New,RHINENG,Red Hat Insights Engineering,software,,21/06/2024 06:53,
+RHINENG-10771,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,17/06/2024 11:51,15/07/2024 18:27
+RHINENG-10747,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,14/06/2024 12:50,21/06/2024 10:05
+RHINENG-10687,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Done,13/06/2024 19:15,23/09/2024 13:24
+RHINENG-10676,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Duplicate,13/06/2024 19:12,11/09/2024 08:27
+RHINENG-10473,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Won't Do,04/06/2024 05:54,22/07/2024 15:24
+RHINENG-10458,Task,New,RHINENG,Red Hat Insights Engineering,software,,30/04/2024 18:08,
+RHINENG-10406,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,30/05/2024 18:21,21/06/2024 12:37
+RHINENG-10301,Bug,Refinement,RHINENG,Red Hat Insights Engineering,software,,23/05/2024 15:52,
+RHINENG-10289,Epic,Closed,RHINENG,Red Hat Insights Engineering,software,Duplicate,23/05/2024 10:02,09/07/2024 15:14
+RHINENG-10288,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,23/05/2024 09:33,31/05/2024 07:36
+RHINENG-10218,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Not a Bug,21/05/2024 00:07,29/07/2024 14:18
+RHINENG-10194,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,17/05/2024 16:51,04/06/2024 15:47
+RHINENG-9862,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,03/05/2024 07:33,10/05/2024 07:10
+RHINENG-9692,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,24/04/2024 22:18,07/10/2024 18:42
+RHINENG-9433,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,12/04/2024 19:31,29/04/2024 01:29
+RHINENG-8898,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,14/03/2024 19:38,03/04/2024 08:11
+RHINENG-8760,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Obsolete,07/03/2024 21:13,13/05/2024 14:17
+RHINENG-8743,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Duplicate,07/03/2024 04:44,07/03/2024 07:51
+RHINENG-8442,Bug,New,RHINENG,Red Hat Insights Engineering,software,,26/02/2024 16:51,
+RHINENG-8278,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Duplicate,15/02/2024 23:54,19/03/2024 13:48
+RHINENG-8200,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,12/02/2024 10:59,13/02/2024 09:11
+RHINENG-8072,Bug,New,RHINENG,Red Hat Insights Engineering,software,,06/02/2024 16:33,
+RHINENG-8056,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,05/02/2024 23:18,30/09/2024 09:25
+RHINENG-8044,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,05/02/2024 11:12,09/02/2024 14:54
+RHINENG-7969,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Not a Bug,02/02/2024 06:30,04/02/2024 23:28
+RHINENG-7958,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,01/02/2024 15:54,29/05/2024 09:06
+RHINENG-7901,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,31/01/2024 23:40,05/02/2024 17:11
+RHINENG-7801,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,25/01/2024 15:48,05/03/2024 13:02
+RHINENG-7772,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Won't Do,24/01/2024 10:35,16/04/2024 13:56
+RHINENG-7734,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Not a Bug,22/01/2024 17:41,22/03/2024 14:26
+RHINENG-7695,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,06/10/2023 17:10,03/04/2024 14:28
+RHINENG-6831,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,09/01/2024 13:42,17/01/2024 18:28
+RHINENG-6808,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,05/01/2024 19:45,18/06/2024 01:19
+RHINENG-6162,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,15/12/2023 18:06,20/12/2023 15:49
+RHINENG-6144,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,15/12/2023 00:49,15/12/2023 13:18
+RHINENG-6012,Bug,Backlog,RHINENG,Red Hat Insights Engineering,software,,27/04/2023 13:56,
+RHINENG-6011,Bug,Backlog,RHINENG,Red Hat Insights Engineering,software,,27/04/2023 13:27,
+RHINENG-6010,Bug,Backlog,RHINENG,Red Hat Insights Engineering,software,,27/04/2023 13:15,
+RHINENG-6009,Bug,Backlog,RHINENG,Red Hat Insights Engineering,software,,27/04/2023 13:35,
+RHINENG-6008,Bug,Backlog,RHINENG,Red Hat Insights Engineering,software,,27/04/2023 13:42,
+RHINENG-5998,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Done,20/11/2023 15:26,18/12/2023 13:16
+RHINENG-5996,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Done,04/12/2023 11:28,11/12/2023 13:54
+RHINENG-5383,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,28/11/2023 05:28,22/01/2024 15:47
+RHINENG-5362,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Done,27/11/2023 16:53,08/03/2024 07:01
+RHINENG-4990,Epic,Refinement,RHINENG,Red Hat Insights Engineering,software,,08/06/2022 12:41,
+RHINENG-3101,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,08/11/2023 14:48,12/02/2024 15:59
+RHINENG-3034,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Done,21/09/2023 08:11,12/12/2023 02:32
+RHINENG-2854,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Won't Do,31/10/2023 16:57,31/10/2023 16:58
+RHINENG-2852,Task,New,RHINENG,Red Hat Insights Engineering,software,,31/10/2023 16:00,
+RHINENG-2850,Task,New,RHINENG,Red Hat Insights Engineering,software,,31/10/2023 15:57,
+RHINENG-2728,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Won't Do,25/10/2023 03:12,05/06/2024 18:12
+RHINENG-2727,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Won't Do,25/10/2023 02:49,29/02/2024 21:37
+RHINENG-2651,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Duplicate,19/10/2023 10:35,26/10/2023 15:17
+RHINENG-1627,Epic,Closed,RHINENG,Red Hat Insights Engineering,software,Won't Do,17/08/2023 12:19,15/12/2023 15:16
+RHINENG-1405,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,31/07/2023 16:09,31/07/2023 22:40
+RHINENG-1012,Epic,Closed,RHINENG,Red Hat Insights Engineering,software,Won't Do,30/06/2023 20:19,06/07/2023 16:22
+RHINENG-989,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Duplicate,29/06/2023 09:25,17/07/2023 18:32
+RHINENG-985,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,28/06/2023 17:00,10/07/2023 03:55
+RHINENG-972,Epic,Closed,RHINENG,Red Hat Insights Engineering,software,Won't Do,27/06/2023 09:17,20/10/2023 16:28
+RHINENG-828,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,23/06/2023 22:08,31/07/2023 21:54
+RHINENG-801,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,23/06/2023 06:50,10/08/2023 13:05
+RHINENG-800,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,23/06/2023 05:13,30/06/2023 07:49
+RHINENG-770,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,22/06/2023 13:16,14/09/2023 04:22
+RHINENG-746,Story,Closed,RHINENG,Red Hat Insights Engineering,software,Duplicate,20/06/2023 10:34,17/07/2023 18:45
+RHINENG-644,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,05/06/2023 15:06,04/12/2023 17:41
+RHINENG-606,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Done,31/05/2023 14:03,09/08/2023 13:26
+RHINENG-544,Story,Closed,RHINENG,Red Hat Insights Engineering,software,Done,14/04/2022 18:26,01/08/2023 19:36
+RHINENG-491,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Duplicate,24/05/2023 23:20,26/06/2023 15:08
+RHINENG-462,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Done,17/05/2023 16:54,19/10/2023 18:41
+RHINENG-449,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Won't Do,15/05/2023 15:32,15/05/2023 15:52
+RHINENG-448,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,15/05/2023 13:04,06/06/2023 01:21
+RHINENG-447,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Won't Do,15/05/2023 12:55,15/05/2023 20:50
+RHINENG-390,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Won't Do,28/04/2023 10:36,16/10/2023 14:41
+RHINENG-382,Epic,Closed,RHINENG,Red Hat Insights Engineering,software,Won't Do,25/04/2023 05:25,18/04/2024 15:03
+RHINENG-366,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Won't Do,01/04/2021 05:27,17/07/2023 19:01
+RHINENG-363,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Done,08/06/2021 16:39,22/11/2023 12:02
+RHINENG-358,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Done,01/09/2022 08:50,13/06/2024 13:15
+RHINENG-354,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Won't Do,24/12/2022 02:01,10/11/2023 15:21
+RHINENG-350,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Done,16/09/2020 13:40,14/12/2023 17:29
+RHINENG-345,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,19/09/2022 11:08,14/07/2023 01:22
+RHINENG-332,Bug,Closed,RHINENG,Red Hat Insights Engineering,software,Done,08/08/2022 07:44,15/09/2023 11:56
+RHINENG-316,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Done,01/02/2023 19:22,23/01/2024 15:59
+RHINENG-281,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Done,07/03/2023 07:32,03/10/2023 15:41
+RHINENG-158,Story,Closed,RHINENG,Red Hat Insights Engineering,software,Duplicate,16/02/2023 18:38,03/10/2024 18:36
+RHINENG-3,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Done,16/12/2022 08:08,16/12/2022 17:19
+RHINENG-2,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Done,16/12/2022 08:08,16/12/2022 17:19
+RHINENG-1,Task,Closed,RHINENG,Red Hat Insights Engineering,software,Done,16/12/2022 08:08,16/12/2022 17:17

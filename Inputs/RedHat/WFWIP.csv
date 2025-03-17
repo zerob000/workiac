@@ -1,0 +1,480 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+WFWIP-679,Bug,Resolved,WFWIP,WildFly WIP,software,Done,24/10/2024 08:25,24/10/2024 10:59
+WFWIP-678,Bug,Open,WFWIP,WildFly WIP,software,,24/10/2024 05:23,
+WFWIP-675,Bug,Open,WFWIP,WildFly WIP,software,,22/10/2024 15:28,
+WFWIP-673,Bug,Open,WFWIP,WildFly WIP,software,,15/10/2024 05:14,
+WFWIP-670,Bug,Open,WFWIP,WildFly WIP,software,,03/10/2024 15:26,
+WFWIP-669,Bug,Open,WFWIP,WildFly WIP,software,,03/10/2024 13:46,
+WFWIP-667,Bug,Open,WFWIP,WildFly WIP,software,,26/09/2024 12:28,
+WFWIP-663,Bug,Resolved,WFWIP,WildFly WIP,software,Done,02/04/2024 18:33,29/04/2024 08:42
+WFWIP-662,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,25/03/2024 13:10,14/05/2024 14:04
+WFWIP-660,Bug,Resolved,WFWIP,WildFly WIP,software,Done,19/02/2024 11:48,14/05/2024 14:41
+WFWIP-658,Bug,Open,WFWIP,WildFly WIP,software,,31/01/2024 15:16,
+WFWIP-656,Bug,Closed,WFWIP,WildFly WIP,software,Done,23/01/2024 15:50,23/01/2024 16:10
+WFWIP-655,Bug,Resolved,WFWIP,WildFly WIP,software,Done,08/12/2023 20:15,11/12/2023 12:00
+WFWIP-654,Bug,Closed,WFWIP,WildFly WIP,software,Done,18/09/2023 14:45,02/10/2023 15:29
+WFWIP-653,Bug,Open,WFWIP,WildFly WIP,software,,18/09/2023 09:06,
+WFWIP-652,Bug,Open,WFWIP,WildFly WIP,software,,15/08/2023 15:13,
+WFWIP-651,Bug,Resolved,WFWIP,WildFly WIP,software,Not a Bug,15/08/2023 11:12,16/08/2023 08:30
+WFWIP-650,Bug,Resolved,WFWIP,WildFly WIP,software,Done,14/08/2023 13:26,07/09/2023 11:42
+WFWIP-649,Bug,Open,WFWIP,WildFly WIP,software,,10/08/2023 15:30,
+WFWIP-648,Bug,Closed,WFWIP,WildFly WIP,software,Done,09/08/2023 15:32,10/08/2023 08:51
+WFWIP-647,Bug,Closed,WFWIP,WildFly WIP,software,Done,09/08/2023 15:27,10/08/2023 08:52
+WFWIP-646,Bug,Resolved,WFWIP,WildFly WIP,software,Done,09/08/2023 13:15,07/09/2023 11:42
+WFWIP-645,Bug,Resolved,WFWIP,WildFly WIP,software,Done,02/08/2023 12:16,11/08/2023 09:40
+WFWIP-644,Bug,Resolved,WFWIP,WildFly WIP,software,Done,02/08/2023 12:07,07/09/2023 11:41
+WFWIP-643,Bug,Closed,WFWIP,WildFly WIP,software,Done,29/06/2023 20:16,05/07/2023 16:03
+WFWIP-642,Enhancement,Closed,WFWIP,WildFly WIP,software,Done,29/06/2023 14:43,27/07/2023 11:06
+WFWIP-641,Enhancement,Closed,WFWIP,WildFly WIP,software,Done,29/06/2023 13:17,11/07/2023 16:04
+WFWIP-640,Bug,Closed,WFWIP,WildFly WIP,software,Done,29/06/2023 11:36,26/07/2023 09:49
+WFWIP-639,Bug,Closed,WFWIP,WildFly WIP,software,Done,29/06/2023 11:06,10/07/2023 09:05
+WFWIP-638,Enhancement,Closed,WFWIP,WildFly WIP,software,Done,29/06/2023 09:16,11/07/2023 16:03
+WFWIP-637,Enhancement,Closed,WFWIP,WildFly WIP,software,Done,28/06/2023 15:30,29/06/2023 14:33
+WFWIP-635,Bug,Closed,WFWIP,WildFly WIP,software,Done,27/06/2023 23:04,28/06/2023 09:41
+WFWIP-634,Bug,Closed,WFWIP,WildFly WIP,software,Done,27/06/2023 22:59,03/07/2023 13:16
+WFWIP-633,Bug,Closed,WFWIP,WildFly WIP,software,Done,27/06/2023 17:17,11/07/2023 16:03
+WFWIP-632,Bug,Closed,WFWIP,WildFly WIP,software,Done,27/06/2023 16:29,12/07/2023 08:50
+WFWIP-631,Bug,Closed,WFWIP,WildFly WIP,software,Done,27/06/2023 15:42,12/07/2023 08:05
+WFWIP-630,Enhancement,Closed,WFWIP,WildFly WIP,software,Done,27/06/2023 15:39,12/07/2023 08:05
+WFWIP-629,Bug,Closed,WFWIP,WildFly WIP,software,Done,27/06/2023 15:22,12/07/2023 08:04
+WFWIP-628,Bug,Closed,WFWIP,WildFly WIP,software,Done,26/06/2023 14:00,27/07/2023 11:06
+WFWIP-627,Bug,Closed,WFWIP,WildFly WIP,software,Done,25/06/2023 22:37,28/06/2023 15:54
+WFWIP-626,Enhancement,Closed,WFWIP,WildFly WIP,software,Done,23/06/2023 17:13,25/06/2023 21:51
+WFWIP-625,Bug,Closed,WFWIP,WildFly WIP,software,Done,23/06/2023 14:20,23/06/2023 17:16
+WFWIP-624,Bug,Closed,WFWIP,WildFly WIP,software,Done,22/06/2023 20:59,23/06/2023 16:15
+WFWIP-623,Bug,Closed,WFWIP,WildFly WIP,software,Done,22/06/2023 20:31,23/06/2023 07:55
+WFWIP-622,Bug,Closed,WFWIP,WildFly WIP,software,Done,22/06/2023 20:10,26/06/2023 19:59
+WFWIP-621,Bug,Closed,WFWIP,WildFly WIP,software,Done,22/06/2023 12:52,26/06/2023 20:01
+WFWIP-620,Bug,Closed,WFWIP,WildFly WIP,software,Done,20/06/2023 21:38,22/06/2023 14:30
+WFWIP-618,Bug,Closed,WFWIP,WildFly WIP,software,Done,19/06/2023 10:52,20/06/2023 09:35
+WFWIP-617,Bug,Closed,WFWIP,WildFly WIP,software,Done,19/06/2023 10:42,26/06/2023 20:05
+WFWIP-616,Bug,Closed,WFWIP,WildFly WIP,software,Done,17/06/2023 21:49,20/06/2023 09:39
+WFWIP-615,Bug,Closed,WFWIP,WildFly WIP,software,Done,15/06/2023 22:15,16/06/2023 08:26
+WFWIP-614,Bug,Closed,WFWIP,WildFly WIP,software,Done,15/06/2023 16:47,16/06/2023 16:26
+WFWIP-613,Bug,Closed,WFWIP,WildFly WIP,software,Done,15/06/2023 15:01,16/06/2023 15:46
+WFWIP-612,Bug,Closed,WFWIP,WildFly WIP,software,Done,15/06/2023 01:57,19/06/2023 13:26
+WFWIP-611,Bug,Closed,WFWIP,WildFly WIP,software,Done,15/06/2023 01:31,28/06/2023 16:48
+WFWIP-610,Bug,Closed,WFWIP,WildFly WIP,software,Done,15/06/2023 01:00,19/06/2023 13:26
+WFWIP-609,Bug,Closed,WFWIP,WildFly WIP,software,Done,13/06/2023 21:39,14/06/2023 14:32
+WFWIP-608,Bug,Closed,WFWIP,WildFly WIP,software,Done,13/06/2023 16:16,15/06/2023 06:51
+WFWIP-607,Bug,Closed,WFWIP,WildFly WIP,software,Done,13/06/2023 15:53,15/06/2023 09:52
+WFWIP-606,Bug,Closed,WFWIP,WildFly WIP,software,Done,08/06/2023 11:30,14/06/2023 11:14
+WFWIP-605,Bug,Resolved,WFWIP,WildFly WIP,software,Done,07/06/2023 21:42,14/06/2023 11:14
+WFWIP-604,Bug,Closed,WFWIP,WildFly WIP,software,Done,07/06/2023 19:38,16/06/2023 15:46
+WFWIP-603,Enhancement,Closed,WFWIP,WildFly WIP,software,Done,06/06/2023 10:54,16/06/2023 13:55
+WFWIP-602,Enhancement,Closed,WFWIP,WildFly WIP,software,Done,05/06/2023 12:55,08/06/2023 15:04
+WFWIP-601,Bug,Closed,WFWIP,WildFly WIP,software,Done,05/06/2023 12:47,08/06/2023 15:04
+WFWIP-600,Bug,Closed,WFWIP,WildFly WIP,software,Done,01/06/2023 13:18,01/06/2023 14:47
+WFWIP-599,Enhancement,Closed,WFWIP,WildFly WIP,software,Done,01/06/2023 13:09,16/06/2023 15:46
+WFWIP-598,Bug,Closed,WFWIP,WildFly WIP,software,Done,31/05/2023 22:46,01/06/2023 14:48
+WFWIP-597,Enhancement,Closed,WFWIP,WildFly WIP,software,Done,31/05/2023 22:35,01/06/2023 14:48
+WFWIP-596,Enhancement,Closed,WFWIP,WildFly WIP,software,Done,31/05/2023 22:30,01/06/2023 14:48
+WFWIP-595,Bug,Closed,WFWIP,WildFly WIP,software,Done,31/05/2023 08:17,01/06/2023 14:48
+WFWIP-594,Bug,Closed,WFWIP,WildFly WIP,software,Done,30/05/2023 15:42,16/06/2023 11:53
+WFWIP-593,Bug,Closed,WFWIP,WildFly WIP,software,Done,29/05/2023 14:07,31/05/2023 12:07
+WFWIP-592,Bug,Closed,WFWIP,WildFly WIP,software,Done,29/05/2023 12:57,31/05/2023 12:07
+WFWIP-591,Bug,Closed,WFWIP,WildFly WIP,software,Done,29/05/2023 12:50,31/05/2023 12:07
+WFWIP-590,Bug,Closed,WFWIP,WildFly WIP,software,Done,29/05/2023 12:11,31/05/2023 12:10
+WFWIP-589,Bug,Resolved,WFWIP,WildFly WIP,software,Done,24/05/2023 04:28,14/06/2023 09:50
+WFWIP-588,Bug,Resolved,WFWIP,WildFly WIP,software,Done,23/05/2023 10:40,24/05/2023 14:46
+WFWIP-587,Bug,Resolved,WFWIP,WildFly WIP,software,Done,23/05/2023 10:09,23/05/2023 11:55
+WFWIP-585,Bug,Resolved,WFWIP,WildFly WIP,software,Done,22/05/2023 10:04,22/05/2023 12:25
+WFWIP-582,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,18/05/2023 07:15,22/05/2023 09:33
+WFWIP-581,Bug,Open,WFWIP,WildFly WIP,software,,17/05/2023 12:27,
+WFWIP-579,Bug,Open,WFWIP,WildFly WIP,software,,17/05/2023 12:15,
+WFWIP-578,Bug,Resolved,WFWIP,WildFly WIP,software,Not a Bug,17/05/2023 10:06,17/05/2023 11:49
+WFWIP-577,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,15/05/2023 14:15,15/05/2023 14:34
+WFWIP-576,Bug,Resolved,WFWIP,WildFly WIP,software,Done,15/05/2023 12:07,15/05/2023 16:42
+WFWIP-575,Bug,Closed,WFWIP,WildFly WIP,software,Done,04/05/2023 10:46,23/05/2023 09:40
+WFWIP-574,Bug,Resolved,WFWIP,WildFly WIP,software,Done,03/05/2023 07:40,05/05/2023 13:16
+WFWIP-573,Bug,Resolved,WFWIP,WildFly WIP,software,Done,02/05/2023 12:45,23/05/2023 10:58
+WFWIP-571,Bug,Resolved,WFWIP,WildFly WIP,software,Done,28/04/2023 08:02,10/05/2023 15:19
+WFWIP-570,Bug,Closed,WFWIP,WildFly WIP,software,Done,27/04/2023 09:52,24/05/2023 06:28
+WFWIP-569,Bug,Resolved,WFWIP,WildFly WIP,software,Done,27/04/2023 08:15,28/04/2023 12:44
+WFWIP-568,Bug,Resolved,WFWIP,WildFly WIP,software,Done,26/04/2023 13:10,26/04/2023 15:32
+WFWIP-567,Bug,Open,WFWIP,WildFly WIP,software,,21/04/2023 08:07,
+WFWIP-566,Bug,Resolved,WFWIP,WildFly WIP,software,Done,20/04/2023 08:28,20/04/2023 08:49
+WFWIP-565,Bug,Closed,WFWIP,WildFly WIP,software,Done,18/04/2023 07:26,24/05/2023 07:22
+WFWIP-564,Bug,Resolved,WFWIP,WildFly WIP,software,Done,17/04/2023 06:53,17/04/2023 15:54
+WFWIP-563,Bug,Resolved,WFWIP,WildFly WIP,software,Done,13/04/2023 13:15,13/04/2023 14:52
+WFWIP-562,Bug,Closed,WFWIP,WildFly WIP,software,Done,13/04/2023 12:39,20/04/2023 09:58
+WFWIP-561,Bug,Closed,WFWIP,WildFly WIP,software,Done,12/04/2023 08:19,20/04/2023 09:59
+WFWIP-560,Bug,Closed,WFWIP,WildFly WIP,software,Done,05/04/2023 11:07,20/04/2023 09:59
+WFWIP-559,Bug,Closed,WFWIP,WildFly WIP,software,Done,05/04/2023 10:48,20/04/2023 10:14
+WFWIP-558,Task,Open,WFWIP,WildFly WIP,software,,31/03/2023 13:23,
+WFWIP-557,Bug,Closed,WFWIP,WildFly WIP,software,Done,30/03/2023 10:43,20/04/2023 10:15
+WFWIP-556,Bug,Closed,WFWIP,WildFly WIP,software,Done,24/03/2023 10:04,24/05/2023 07:21
+WFWIP-555,Bug,Resolved,WFWIP,WildFly WIP,software,Done,23/03/2023 12:01,13/04/2023 14:57
+WFWIP-554,Bug,Resolved,WFWIP,WildFly WIP,software,Done,21/03/2023 13:11,28/03/2023 12:46
+WFWIP-553,Bug,Closed,WFWIP,WildFly WIP,software,Done,21/03/2023 14:19,20/04/2023 10:15
+WFWIP-552,Bug,Resolved,WFWIP,WildFly WIP,software,Done,21/03/2023 13:03,28/03/2023 12:41
+WFWIP-551,Bug,Resolved,WFWIP,WildFly WIP,software,Done,20/03/2023 09:11,21/03/2023 09:52
+WFWIP-550,Bug,Resolved,WFWIP,WildFly WIP,software,Done,20/03/2023 10:32,20/03/2023 13:20
+WFWIP-549,Bug,Resolved,WFWIP,WildFly WIP,software,Done,15/03/2023 11:01,24/05/2023 07:21
+WFWIP-548,Bug,Closed,WFWIP,WildFly WIP,software,Done,15/03/2023 07:50,24/05/2023 07:19
+WFWIP-547,Bug,Closed,WFWIP,WildFly WIP,software,Done,15/03/2023 07:43,24/05/2023 07:18
+WFWIP-546,Bug,Closed,WFWIP,WildFly WIP,software,Done,15/03/2023 07:37,20/04/2023 10:15
+WFWIP-545,Bug,Closed,WFWIP,WildFly WIP,software,Done,15/03/2023 07:33,18/04/2023 04:54
+WFWIP-544,Bug,Closed,WFWIP,WildFly WIP,software,Done,15/03/2023 07:30,15/03/2023 13:15
+WFWIP-543,Bug,Closed,WFWIP,WildFly WIP,software,Done,15/03/2023 07:24,24/05/2023 07:18
+WFWIP-542,Bug,Open,WFWIP,WildFly WIP,software,,14/03/2023 12:06,
+WFWIP-541,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,14/03/2023 07:28,14/03/2023 08:57
+WFWIP-540,Bug,Resolved,WFWIP,WildFly WIP,software,Done,10/03/2023 12:33,13/04/2023 14:56
+WFWIP-539,Bug,Resolved,WFWIP,WildFly WIP,software,Done,10/03/2023 08:07,10/03/2023 15:14
+WFWIP-538,Bug,Closed,WFWIP,WildFly WIP,software,Done,08/03/2023 13:19,16/03/2023 13:19
+WFWIP-537,Bug,Closed,WFWIP,WildFly WIP,software,Done,08/03/2023 13:15,16/03/2023 13:19
+WFWIP-536,Bug,Resolved,WFWIP,WildFly WIP,software,Done,08/03/2023 06:48,09/03/2023 15:15
+WFWIP-535,Bug,Closed,WFWIP,WildFly WIP,software,Done,07/03/2023 07:17,16/03/2023 13:20
+WFWIP-534,Bug,Closed,WFWIP,WildFly WIP,software,Won't Do,28/02/2023 12:31,24/05/2023 09:51
+WFWIP-533,Bug,Closed,WFWIP,WildFly WIP,software,Won't Do,28/02/2023 09:42,24/05/2023 09:41
+WFWIP-532,Bug,Resolved,WFWIP,WildFly WIP,software,Done,22/02/2023 12:14,01/03/2023 15:42
+WFWIP-531,Bug,Closed,WFWIP,WildFly WIP,software,Done,17/11/2022 08:23,10/01/2024 15:21
+WFWIP-530,Task,Closed,WFWIP,WildFly WIP,software,Duplicate,16/11/2022 10:19,16/11/2022 14:02
+WFWIP-527,Bug,Resolved,WFWIP,WildFly WIP,software,Done,09/10/2022 22:49,11/10/2022 11:48
+WFWIP-526,Bug,Closed,WFWIP,WildFly WIP,software,Done,06/10/2022 13:54,07/10/2022 09:37
+WFWIP-523,Bug,Closed,WFWIP,WildFly WIP,software,Done,04/10/2022 14:00,22/06/2023 10:03
+WFWIP-522,Bug,Closed,WFWIP,WildFly WIP,software,Done,04/10/2022 13:33,17/10/2022 13:47
+WFWIP-521,Bug,Closed,WFWIP,WildFly WIP,software,Duplicate,04/10/2022 12:36,05/10/2022 08:35
+WFWIP-520,Bug,Closed,WFWIP,WildFly WIP,software,Done,04/10/2022 12:36,17/10/2022 13:47
+WFWIP-518,Bug,Resolved,WFWIP,WildFly WIP,software,Done,20/09/2022 11:50,25/10/2022 12:33
+WFWIP-517,Bug,Resolved,WFWIP,WildFly WIP,software,Done,29/08/2022 13:15,14/09/2022 15:04
+WFWIP-516,Bug,Resolved,WFWIP,WildFly WIP,software,Done,22/08/2022 12:16,14/09/2022 15:04
+WFWIP-515,Bug,Resolved,WFWIP,WildFly WIP,software,Done,18/08/2022 11:24,14/09/2022 12:29
+WFWIP-512,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,04/08/2022 14:12,04/08/2022 14:41
+WFWIP-510,Bug,Closed,WFWIP,WildFly WIP,software,Done,02/08/2022 12:19,16/03/2023 13:20
+WFWIP-509,Bug,Resolved,WFWIP,WildFly WIP,software,Done,02/08/2022 11:10,23/05/2023 10:54
+WFWIP-508,Bug,Resolved,WFWIP,WildFly WIP,software,Not a Bug,01/08/2022 19:34,02/08/2022 07:56
+WFWIP-506,Bug,Resolved,WFWIP,WildFly WIP,software,Done,27/07/2022 08:43,27/07/2022 15:25
+WFWIP-505,Bug,Resolved,WFWIP,WildFly WIP,software,Done,20/07/2022 09:43,21/07/2022 14:01
+WFWIP-502,Bug,Resolved,WFWIP,WildFly WIP,software,Not a Bug,17/07/2022 22:08,02/08/2022 20:13
+WFWIP-500,Bug,Open,WFWIP,WildFly WIP,software,,17/07/2022 17:22,
+WFWIP-499,Bug,Resolved,WFWIP,WildFly WIP,software,Done,15/07/2022 23:58,03/08/2022 14:03
+WFWIP-498,Bug,Resolved,WFWIP,WildFly WIP,software,Done,15/07/2022 12:24,15/07/2022 15:56
+WFWIP-497,Bug,Resolved,WFWIP,WildFly WIP,software,Done,15/07/2022 02:00,01/08/2022 16:40
+WFWIP-494,Bug,Resolved,WFWIP,WildFly WIP,software,Done,13/07/2022 10:03,03/08/2022 14:06
+WFWIP-493,Bug,Resolved,WFWIP,WildFly WIP,software,Won't Do,13/07/2022 07:43,14/07/2022 05:54
+WFWIP-486,Bug,Resolved,WFWIP,WildFly WIP,software,Done,08/07/2022 11:11,12/07/2022 14:49
+WFWIP-485,Bug,Resolved,WFWIP,WildFly WIP,software,Done,08/07/2022 10:50,12/07/2022 14:49
+WFWIP-484,Bug,Resolved,WFWIP,WildFly WIP,software,Done,07/07/2022 11:05,21/07/2022 14:02
+WFWIP-483,Bug,Resolved,WFWIP,WildFly WIP,software,Won't Do,07/07/2022 06:12,13/07/2022 11:46
+WFWIP-482,Bug,Resolved,WFWIP,WildFly WIP,software,Done,04/07/2022 08:11,08/07/2022 13:14
+WFWIP-481,Bug,Resolved,WFWIP,WildFly WIP,software,Done,01/07/2022 11:52,01/03/2023 15:45
+WFWIP-480,Bug,Closed,WFWIP,WildFly WIP,software,Done,01/07/2022 11:10,08/07/2022 15:01
+WFWIP-479,Bug,Closed,WFWIP,WildFly WIP,software,Done,01/07/2022 10:58,08/07/2022 14:24
+WFWIP-478,Bug,Resolved,WFWIP,WildFly WIP,software,Done,01/07/2022 10:51,21/07/2022 14:02
+WFWIP-477,Bug,Resolved,WFWIP,WildFly WIP,software,Done,01/07/2022 09:12,14/09/2022 10:29
+WFWIP-474,Bug,Resolved,WFWIP,WildFly WIP,software,Done,28/06/2022 07:27,12/07/2022 14:50
+WFWIP-473,Bug,Resolved,WFWIP,WildFly WIP,software,Done,24/06/2022 11:45,04/07/2022 04:47
+WFWIP-471,Bug,Resolved,WFWIP,WildFly WIP,software,Done,21/06/2022 14:57,14/07/2022 16:33
+WFWIP-470,Bug,Pull Request Sent,WFWIP,WildFly WIP,software,,15/06/2022 15:21,
+WFWIP-468,Bug,Resolved,WFWIP,WildFly WIP,software,Done,15/06/2022 10:47,13/07/2022 12:45
+WFWIP-467,Bug,Resolved,WFWIP,WildFly WIP,software,Done,06/06/2022 10:44,21/07/2022 19:08
+WFWIP-465,Bug,Resolved,WFWIP,WildFly WIP,software,Done,26/05/2022 17:37,01/06/2022 06:00
+WFWIP-464,Bug,Pull Request Sent,WFWIP,WildFly WIP,software,,24/05/2022 13:31,
+WFWIP-463,Bug,Closed,WFWIP,WildFly WIP,software,Done,24/05/2022 08:05,26/05/2022 12:56
+WFWIP-461,Bug,Resolved,WFWIP,WildFly WIP,software,Done,23/05/2022 08:00,25/05/2022 16:13
+WFWIP-460,Bug,Resolved,WFWIP,WildFly WIP,software,Done,28/04/2022 11:58,06/05/2022 08:55
+WFWIP-459,Bug,Resolved,WFWIP,WildFly WIP,software,Obsolete,14/04/2022 15:51,24/05/2022 23:17
+WFWIP-458,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,06/04/2022 15:50,15/07/2022 08:29
+WFWIP-454,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,05/04/2022 11:54,26/04/2022 05:34
+WFWIP-451,Bug,Resolved,WFWIP,WildFly WIP,software,Done,04/04/2022 12:38,04/04/2022 16:15
+WFWIP-449,Bug,Closed,WFWIP,WildFly WIP,software,Duplicate,30/03/2022 10:09,26/04/2022 05:34
+WFWIP-448,Bug,Resolved,WFWIP,WildFly WIP,software,Done,15/03/2022 14:51,18/01/2023 13:31
+WFWIP-446,Bug,Closed,WFWIP,WildFly WIP,software,Won't Do,11/03/2022 17:00,11/03/2022 18:31
+WFWIP-445,Bug,Resolved,WFWIP,WildFly WIP,software,Done,07/03/2022 09:27,07/03/2022 16:31
+WFWIP-444,Bug,Resolved,WFWIP,WildFly WIP,software,Done,07/03/2022 08:52,07/03/2022 10:00
+WFWIP-443,Bug,Closed,WFWIP,WildFly WIP,software,Done,03/03/2022 14:37,16/03/2022 12:20
+WFWIP-442,Bug,Resolved,WFWIP,WildFly WIP,software,Not a Bug,14/02/2022 14:42,14/02/2022 15:01
+WFWIP-441,Bug,Open,WFWIP,WildFly WIP,software,,04/02/2022 13:49,
+WFWIP-440,Bug,Resolved,WFWIP,WildFly WIP,software,Done,02/02/2022 11:16,04/02/2022 14:47
+WFWIP-439,Bug,Resolved,WFWIP,WildFly WIP,software,Done,02/02/2022 11:06,04/02/2022 14:46
+WFWIP-438,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,28/01/2022 13:20,31/01/2022 09:23
+WFWIP-437,Bug,Open,WFWIP,WildFly WIP,software,,11/10/2021 13:51,
+WFWIP-436,Bug,Open,WFWIP,WildFly WIP,software,,21/01/2022 13:45,
+WFWIP-435,Bug,Open,WFWIP,WildFly WIP,software,,21/01/2022 13:19,
+WFWIP-434,Bug,Open,WFWIP,WildFly WIP,software,,21/01/2022 13:14,
+WFWIP-432,Bug,Resolved,WFWIP,WildFly WIP,software,Done,17/01/2022 17:33,18/01/2022 17:31
+WFWIP-431,Task,Open,WFWIP,WildFly WIP,software,,14/01/2022 14:06,
+WFWIP-430,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,14/01/2022 12:20,14/01/2022 14:03
+WFWIP-429,Bug,Resolved,WFWIP,WildFly WIP,software,Done,14/01/2022 12:01,24/01/2022 08:53
+WFWIP-428,Bug,Resolved,WFWIP,WildFly WIP,software,Done,13/01/2022 17:07,14/01/2022 14:05
+WFWIP-426,Bug,Resolved,WFWIP,WildFly WIP,software,Not a Bug,12/01/2022 06:02,14/01/2022 14:22
+WFWIP-425,Bug,Resolved,WFWIP,WildFly WIP,software,Done,10/01/2022 14:32,31/01/2022 09:26
+WFWIP-412,Bug,Open,WFWIP,WildFly WIP,software,,04/11/2021 13:04,
+WFWIP-410,Bug,Resolved,WFWIP,WildFly WIP,software,Done,01/11/2021 13:38,03/02/2022 16:22
+WFWIP-409,Bug,Open,WFWIP,WildFly WIP,software,,15/10/2021 07:16,
+WFWIP-408,Bug,Closed,WFWIP,WildFly WIP,software,Done,14/10/2021 16:45,19/05/2022 11:50
+WFWIP-406,Bug,Resolved,WFWIP,WildFly WIP,software,Done,20/09/2021 11:12,24/09/2021 12:18
+WFWIP-405,Bug,Closed,WFWIP,WildFly WIP,software,Won't Do,02/09/2021 09:38,16/11/2021 09:25
+WFWIP-404,Bug,Resolved,WFWIP,WildFly WIP,software,Done,09/07/2021 08:44,22/07/2021 13:45
+WFWIP-403,Bug,Resolved,WFWIP,WildFly WIP,software,Done,09/07/2021 06:41,22/07/2021 13:45
+WFWIP-402,Bug,Resolved,WFWIP,WildFly WIP,software,Done,09/07/2021 06:33,22/07/2021 13:45
+WFWIP-400,Bug,Open,WFWIP,WildFly WIP,software,,18/05/2021 15:40,
+WFWIP-399,Bug,Resolved,WFWIP,WildFly WIP,software,Done,12/05/2021 19:36,07/06/2021 15:29
+WFWIP-398,Bug,Resolved,WFWIP,WildFly WIP,software,Done,11/05/2021 08:13,04/11/2021 09:07
+WFWIP-395,Bug,Closed,WFWIP,WildFly WIP,software,Done,30/04/2021 08:50,27/05/2021 08:29
+WFWIP-393,Bug,Closed,WFWIP,WildFly WIP,software,Done,26/04/2021 11:55,27/05/2021 08:08
+WFWIP-392,Bug,Closed,WFWIP,WildFly WIP,software,Done,29/04/2021 06:42,27/05/2021 08:21
+WFWIP-391,Bug,Resolved,WFWIP,WildFly WIP,software,Done,21/04/2021 15:13,06/05/2021 15:17
+WFWIP-390,Bug,Resolved,WFWIP,WildFly WIP,software,Done,20/04/2021 10:28,06/05/2021 15:17
+WFWIP-389,Bug,Resolved,WFWIP,WildFly WIP,software,Done,09/04/2021 08:37,06/05/2021 15:18
+WFWIP-388,Bug,Resolved,WFWIP,WildFly WIP,software,Done,08/04/2021 07:54,30/11/2021 13:09
+WFWIP-387,Bug,Resolved,WFWIP,WildFly WIP,software,Done,08/04/2021 07:37,06/05/2021 15:19
+WFWIP-386,Bug,Resolved,WFWIP,WildFly WIP,software,Done,08/04/2021 06:59,13/04/2021 11:50
+WFWIP-385,Bug,Resolved,WFWIP,WildFly WIP,software,Done,08/04/2021 06:39,30/11/2021 13:09
+WFWIP-384,Bug,Resolved,WFWIP,WildFly WIP,software,Done,08/04/2021 06:30,06/05/2021 15:19
+WFWIP-382,Bug,Closed,WFWIP,WildFly WIP,software,Duplicate,01/04/2021 10:32,07/04/2021 04:42
+WFWIP-381,Bug,Resolved,WFWIP,WildFly WIP,software,Done,31/03/2021 07:21,31/03/2021 11:28
+WFWIP-380,Bug,Resolved,WFWIP,WildFly WIP,software,Done,31/03/2021 04:23,31/03/2021 11:27
+WFWIP-370,Bug,Open,WFWIP,WildFly WIP,software,,04/02/2021 03:03,
+WFWIP-367,Bug,Open,WFWIP,WildFly WIP,software,,14/12/2020 11:01,
+WFWIP-366,Bug,Closed,WFWIP,WildFly WIP,software,Done,07/12/2020 03:58,08/04/2022 12:57
+WFWIP-364,Bug,Resolved,WFWIP,WildFly WIP,software,Done,27/10/2020 10:19,28/10/2020 16:49
+WFWIP-363,Bug,Resolved,WFWIP,WildFly WIP,software,Done,27/10/2020 09:57,28/10/2020 16:09
+WFWIP-362,Bug,Resolved,WFWIP,WildFly WIP,software,Done,27/10/2020 09:47,28/10/2020 13:01
+WFWIP-361,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,19/10/2020 10:19,06/01/2021 03:15
+WFWIP-359,Bug,Resolved,WFWIP,WildFly WIP,software,Done,23/09/2020 10:34,24/09/2020 11:37
+WFWIP-358,Bug,Resolved,WFWIP,WildFly WIP,software,Done,23/09/2020 10:23,24/09/2020 08:28
+WFWIP-356,Bug,Closed,WFWIP,WildFly WIP,software,Done,15/09/2020 04:49,15/09/2020 06:04
+WFWIP-355,Bug,Closed,WFWIP,WildFly WIP,software,Done,11/09/2020 06:12,15/09/2020 07:51
+WFWIP-354,Bug,Resolved,WFWIP,WildFly WIP,software,Not a Bug,11/09/2020 04:01,14/09/2020 02:30
+WFWIP-352,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,10/09/2020 03:13,23/10/2020 03:34
+WFWIP-351,Bug,Resolved,WFWIP,WildFly WIP,software,Done,09/09/2020 13:15,09/09/2020 13:53
+WFWIP-350,Bug,Closed,WFWIP,WildFly WIP,software,Done,09/09/2020 04:14,25/09/2020 08:41
+WFWIP-347,Bug,Resolved,WFWIP,WildFly WIP,software,Not a Bug,08/09/2020 09:33,09/09/2020 06:59
+WFWIP-346,Bug,Resolved,WFWIP,WildFly WIP,software,Done,03/09/2020 02:50,04/09/2020 10:46
+WFWIP-345,Bug,Resolved,WFWIP,WildFly WIP,software,Done,02/09/2020 09:29,03/09/2020 20:33
+WFWIP-344,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,01/09/2020 08:27,03/09/2020 06:41
+WFWIP-343,Bug,Resolved,WFWIP,WildFly WIP,software,Done,01/09/2020 06:11,02/09/2020 08:30
+WFWIP-342,Bug,Resolved,WFWIP,WildFly WIP,software,Done,01/09/2020 02:28,03/09/2020 07:44
+WFWIP-341,Enhancement,Resolved,WFWIP,WildFly WIP,software,Done,31/08/2020 08:21,02/09/2020 08:30
+WFWIP-340,Bug,Resolved,WFWIP,WildFly WIP,software,Done,31/08/2020 07:57,21/09/2020 04:16
+WFWIP-339,Bug,Resolved,WFWIP,WildFly WIP,software,Done,28/08/2020 10:47,04/09/2020 10:24
+WFWIP-337,Bug,Resolved,WFWIP,WildFly WIP,software,Done,27/08/2020 08:55,27/08/2020 11:31
+WFWIP-336,Bug,Closed,WFWIP,WildFly WIP,software,Done,27/08/2020 06:16,27/08/2020 11:31
+WFWIP-335,Bug,Resolved,WFWIP,WildFly WIP,software,Done,26/08/2020 17:29,28/08/2020 09:59
+WFWIP-333,Feature Request,Closed,WFWIP,WildFly WIP,software,Done,26/08/2020 05:07,27/08/2020 11:32
+WFWIP-332,Feature Request,Closed,WFWIP,WildFly WIP,software,Done,26/08/2020 04:50,27/08/2020 11:32
+WFWIP-331,Bug,Closed,WFWIP,WildFly WIP,software,Won't Do,25/08/2020 04:49,18/01/2021 09:06
+WFWIP-330,Bug,Closed,WFWIP,WildFly WIP,software,Done,21/08/2020 09:19,04/09/2020 13:50
+WFWIP-329,Bug,Closed,WFWIP,WildFly WIP,software,Done,21/08/2020 09:14,27/08/2020 11:32
+WFWIP-328,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,11/08/2020 06:51,11/08/2020 08:34
+WFWIP-326,Bug,Resolved,WFWIP,WildFly WIP,software,Done,07/08/2020 10:18,21/08/2020 08:26
+WFWIP-325,Enhancement,Open,WFWIP,WildFly WIP,software,,05/08/2020 06:18,
+WFWIP-324,Enhancement,Open,WFWIP,WildFly WIP,software,,04/08/2020 04:15,
+WFWIP-322,Quality Risk,Open,WFWIP,WildFly WIP,software,,15/06/2020 02:10,
+WFWIP-320,Bug,Closed,WFWIP,WildFly WIP,software,Done,11/05/2020 10:45,01/06/2020 02:51
+WFWIP-319,Bug,Closed,WFWIP,WildFly WIP,software,Done,05/05/2020 08:43,14/07/2020 07:53
+WFWIP-316,Bug,Open,WFWIP,WildFly WIP,software,,28/04/2020 01:10,
+WFWIP-315,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,27/04/2020 02:26,28/04/2020 01:00
+WFWIP-314,Quality Risk,Closed,WFWIP,WildFly WIP,software,Not a Bug,24/04/2020 08:57,27/04/2020 04:18
+WFWIP-313,Quality Risk,Resolved,WFWIP,WildFly WIP,software,Done,24/04/2020 08:24,04/05/2020 06:23
+WFWIP-312,Quality Risk,Resolved,WFWIP,WildFly WIP,software,Done,24/04/2020 07:40,11/05/2020 07:26
+WFWIP-311,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,23/04/2020 01:01,05/05/2020 04:03
+WFWIP-310,Bug,Closed,WFWIP,WildFly WIP,software,Obsolete,06/04/2020 20:53,01/10/2020 10:27
+WFWIP-309,Bug,Resolved,WFWIP,WildFly WIP,software,Done,26/02/2020 11:03,03/03/2020 04:53
+WFWIP-308,Bug,Resolved,WFWIP,WildFly WIP,software,Done,26/02/2020 10:53,04/03/2020 07:46
+WFWIP-307,Bug,Resolved,WFWIP,WildFly WIP,software,Done,26/02/2020 10:16,04/03/2020 07:45
+WFWIP-306,Bug,Closed,WFWIP,WildFly WIP,software,Won't Do,19/02/2020 14:54,20/02/2020 07:54
+WFWIP-303,Bug,Resolved,WFWIP,WildFly WIP,software,Won't Do,19/02/2020 06:05,20/02/2020 11:37
+WFWIP-301,Bug,Closed,WFWIP,WildFly WIP,software,Won't Do,28/01/2020 02:43,12/06/2023 14:26
+WFWIP-295,Bug,Closed,WFWIP,WildFly WIP,software,Done,09/01/2020 08:20,10/01/2020 08:10
+WFWIP-290,Bug,Closed,WFWIP,WildFly WIP,software,Done,02/01/2020 19:00,08/01/2020 10:41
+WFWIP-289,Bug,Closed,WFWIP,WildFly WIP,software,Cannot Reproduce,19/12/2019 06:47,19/12/2019 13:49
+WFWIP-287,Bug,Closed,WFWIP,WildFly WIP,software,Won't Do,13/12/2019 06:13,21/01/2020 06:10
+WFWIP-285,Bug,Resolved,WFWIP,WildFly WIP,software,Done,12/12/2019 02:47,12/12/2019 06:28
+WFWIP-284,Task,Closed,WFWIP,WildFly WIP,software,Won't Do,11/12/2019 08:42,12/12/2019 05:46
+WFWIP-283,Bug,Resolved,WFWIP,WildFly WIP,software,Done,11/12/2019 03:40,11/12/2019 10:29
+WFWIP-282,Bug,Resolved,WFWIP,WildFly WIP,software,Done,11/12/2019 01:57,11/12/2019 10:30
+WFWIP-281,Bug,Resolved,WFWIP,WildFly WIP,software,Done,09/12/2019 09:21,11/12/2019 10:30
+WFWIP-279,Bug,Closed,WFWIP,WildFly WIP,software,Won't Do,05/12/2019 08:20,06/12/2019 08:16
+WFWIP-278,Bug,Resolved,WFWIP,WildFly WIP,software,Done,04/12/2019 09:06,03/01/2020 08:24
+WFWIP-276,Bug,Resolved,WFWIP,WildFly WIP,software,Obsolete,22/11/2019 11:36,15/01/2020 13:00
+WFWIP-275,Bug,Resolved,WFWIP,WildFly WIP,software,Done,22/11/2019 10:07,06/12/2019 05:17
+WFWIP-274,Task,Closed,WFWIP,WildFly WIP,software,Done,22/11/2019 06:38,22/11/2019 07:47
+WFWIP-272,Bug,Closed,WFWIP,WildFly WIP,software,Done,19/11/2019 04:13,22/11/2019 09:39
+WFWIP-271,Bug,Closed,WFWIP,WildFly WIP,software,Done,19/11/2019 03:57,19/11/2019 11:49
+WFWIP-270,Bug,Closed,WFWIP,WildFly WIP,software,Done,18/11/2019 12:43,20/11/2019 08:19
+WFWIP-269,Bug,Closed,WFWIP,WildFly WIP,software,Done,18/11/2019 12:35,19/11/2019 11:49
+WFWIP-268,Bug,Closed,WFWIP,WildFly WIP,software,Done,18/11/2019 12:30,19/11/2019 08:02
+WFWIP-258,Bug,Resolved,WFWIP,WildFly WIP,software,Done,12/11/2019 09:48,19/11/2019 06:23
+WFWIP-257,Bug,Resolved,WFWIP,WildFly WIP,software,Done,11/11/2019 11:03,19/11/2019 06:20
+WFWIP-256,Bug,Resolved,WFWIP,WildFly WIP,software,Obsolete,06/11/2019 07:04,15/01/2020 13:02
+WFWIP-254,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,17/10/2019 10:02,22/10/2019 08:50
+WFWIP-252,Bug,Closed,WFWIP,WildFly WIP,software,Done,16/10/2019 04:59,16/10/2019 05:03
+WFWIP-250,Bug,Resolved,WFWIP,WildFly WIP,software,Done,16/10/2019 02:50,11/12/2019 09:00
+WFWIP-248,Bug,Closed,WFWIP,WildFly WIP,software,Done,14/10/2019 08:25,15/10/2019 03:14
+WFWIP-247,Bug,Resolved,WFWIP,WildFly WIP,software,Done,11/10/2019 09:10,14/10/2019 04:03
+WFWIP-246,Bug,Resolved,WFWIP,WildFly WIP,software,Done,10/10/2019 13:11,10/10/2019 16:34
+WFWIP-245,Bug,Resolved,WFWIP,WildFly WIP,software,Done,10/10/2019 04:29,10/10/2019 16:33
+WFWIP-244,Bug,Resolved,WFWIP,WildFly WIP,software,Done,10/10/2019 04:20,10/10/2019 16:33
+WFWIP-243,Bug,Resolved,WFWIP,WildFly WIP,software,Done,10/10/2019 03:47,10/10/2019 16:33
+WFWIP-242,Bug,Resolved,WFWIP,WildFly WIP,software,Done,10/10/2019 03:32,10/10/2019 16:33
+WFWIP-240,Bug,Resolved,WFWIP,WildFly WIP,software,Done,09/10/2019 11:06,09/10/2019 18:14
+WFWIP-239,Bug,Resolved,WFWIP,WildFly WIP,software,Done,09/10/2019 11:02,09/10/2019 18:14
+WFWIP-238,Bug,Resolved,WFWIP,WildFly WIP,software,Done,09/10/2019 11:00,09/10/2019 18:14
+WFWIP-237,Bug,Resolved,WFWIP,WildFly WIP,software,Done,09/10/2019 03:43,15/10/2019 03:18
+WFWIP-236,Bug,Resolved,WFWIP,WildFly WIP,software,Done,08/10/2019 11:25,08/10/2019 13:39
+WFWIP-235,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,08/10/2019 10:59,14/10/2019 04:32
+WFWIP-232,Bug,Resolved,WFWIP,WildFly WIP,software,Done,07/10/2019 06:09,11/12/2019 08:53
+WFWIP-231,Bug,Closed,WFWIP,WildFly WIP,software,Done,07/10/2019 04:01,15/10/2019 08:36
+WFWIP-230,Bug,Closed,WFWIP,WildFly WIP,software,Won't Do,04/10/2019 07:44,15/11/2019 02:06
+WFWIP-229,Bug,Resolved,WFWIP,WildFly WIP,software,Done,04/10/2019 06:53,14/10/2019 13:53
+WFWIP-228,Bug,Resolved,WFWIP,WildFly WIP,software,Done,04/10/2019 04:58,07/10/2019 18:26
+WFWIP-226,Bug,Resolved,WFWIP,WildFly WIP,software,Done,02/10/2019 10:28,02/10/2019 19:32
+WFWIP-225,Bug,Resolved,WFWIP,WildFly WIP,software,Done,02/10/2019 04:23,02/10/2019 19:32
+WFWIP-224,Bug,Resolved,WFWIP,WildFly WIP,software,Done,02/10/2019 04:21,02/10/2019 05:49
+WFWIP-223,Bug,Closed,WFWIP,WildFly WIP,software,Done,01/10/2019 13:22,02/10/2019 08:54
+WFWIP-222,Bug,Closed,WFWIP,WildFly WIP,software,Won't Do,01/10/2019 11:36,02/10/2019 07:08
+WFWIP-221,Bug,Resolved,WFWIP,WildFly WIP,software,Done,01/10/2019 11:00,01/10/2019 14:08
+WFWIP-220,Bug,Closed,WFWIP,WildFly WIP,software,Won't Do,01/10/2019 08:06,15/11/2019 02:06
+WFWIP-219,Bug,Closed,WFWIP,WildFly WIP,software,Won't Do,01/10/2019 08:05,15/11/2019 02:05
+WFWIP-217,Bug,Resolved,WFWIP,WildFly WIP,software,Done,30/09/2019 12:07,01/10/2019 14:08
+WFWIP-216,Bug,Resolved,WFWIP,WildFly WIP,software,Done,30/09/2019 11:16,01/10/2019 14:08
+WFWIP-215,Bug,Closed,WFWIP,WildFly WIP,software,Done,30/09/2019 08:38,01/10/2019 03:20
+WFWIP-214,Bug,Resolved,WFWIP,WildFly WIP,software,Done,27/09/2019 11:24,30/09/2019 04:38
+WFWIP-213,Bug,Resolved,WFWIP,WildFly WIP,software,Done,26/09/2019 11:26,30/09/2019 03:46
+WFWIP-212,Bug,Resolved,WFWIP,WildFly WIP,software,Done,26/09/2019 11:18,01/10/2019 14:08
+WFWIP-211,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,26/09/2019 10:53,02/10/2019 09:04
+WFWIP-210,Bug,Closed,WFWIP,WildFly WIP,software,Won't Do,26/09/2019 09:14,15/11/2019 02:07
+WFWIP-209,Bug,Closed,WFWIP,WildFly WIP,software,Cannot Reproduce,26/09/2019 06:16,01/10/2019 11:36
+WFWIP-208,Bug,Resolved,WFWIP,WildFly WIP,software,Done,26/09/2019 05:20,30/09/2019 03:45
+WFWIP-207,Bug,Closed,WFWIP,WildFly WIP,software,Done,24/09/2019 05:22,26/09/2019 05:46
+WFWIP-206,Bug,Resolved,WFWIP,WildFly WIP,software,Done,19/09/2019 11:34,02/10/2019 02:39
+WFWIP-205,Bug,Closed,WFWIP,WildFly WIP,software,Done,17/09/2019 08:43,18/09/2019 05:53
+WFWIP-204,Bug,Closed,WFWIP,WildFly WIP,software,Cannot Reproduce,17/09/2019 03:46,24/09/2019 07:13
+WFWIP-203,Bug,Resolved,WFWIP,WildFly WIP,software,Done,16/09/2019 09:24,18/09/2019 08:41
+WFWIP-202,Bug,Closed,WFWIP,WildFly WIP,software,Done,13/09/2019 05:59,24/09/2019 10:50
+WFWIP-201,Bug,Resolved,WFWIP,WildFly WIP,software,Done,06/08/2019 06:08,16/09/2019 08:14
+WFWIP-200,Bug,Closed,WFWIP,WildFly WIP,software,Done,12/09/2019 06:30,24/09/2019 10:50
+WFWIP-199,Bug,Closed,WFWIP,WildFly WIP,software,Done,12/09/2019 04:41,04/10/2019 09:14
+WFWIP-198,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,12/09/2019 02:21,01/10/2019 06:57
+WFWIP-197,Bug,Closed,WFWIP,WildFly WIP,software,Won't Do,11/09/2019 10:25,15/11/2019 02:04
+WFWIP-196,Bug,Closed,WFWIP,WildFly WIP,software,Done,11/09/2019 09:57,02/10/2019 08:55
+WFWIP-195,Bug,Closed,WFWIP,WildFly WIP,software,Won't Do,11/09/2019 09:28,15/11/2019 02:01
+WFWIP-194,Bug,Closed,WFWIP,WildFly WIP,software,Won't Do,11/09/2019 08:17,15/11/2019 01:58
+WFWIP-193,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,10/09/2019 09:10,11/09/2019 09:34
+WFWIP-191,Bug,Closed,WFWIP,WildFly WIP,software,Done,09/09/2019 09:34,11/09/2019 09:29
+WFWIP-189,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,04/09/2019 07:06,03/10/2019 02:28
+WFWIP-188,Bug,Resolved,WFWIP,WildFly WIP,software,Done,02/09/2019 09:26,02/10/2019 12:02
+WFWIP-187,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,02/09/2019 05:40,04/10/2019 06:03
+WFWIP-186,Bug,Closed,WFWIP,WildFly WIP,software,Done,02/09/2019 03:46,04/10/2019 11:50
+WFWIP-185,Bug,Closed,WFWIP,WildFly WIP,software,Won't Do,30/08/2019 10:33,11/09/2019 09:28
+WFWIP-184,Bug,Closed,WFWIP,WildFly WIP,software,Done,30/08/2019 10:18,04/10/2019 11:50
+WFWIP-182,Bug,Closed,WFWIP,WildFly WIP,software,Won't Do,27/08/2019 07:33,27/08/2019 08:28
+WFWIP-181,Bug,Open,WFWIP,WildFly WIP,software,,26/08/2019 05:14,
+WFWIP-178,Bug,Closed,WFWIP,WildFly WIP,software,Won't Do,20/08/2019 06:55,04/09/2019 07:35
+WFWIP-176,Bug,Closed,WFWIP,WildFly WIP,software,Duplicate,19/08/2019 05:18,03/09/2019 03:37
+WFWIP-175,Bug,Closed,WFWIP,WildFly WIP,software,Done,16/08/2019 08:21,06/09/2019 03:52
+WFWIP-174,Bug,Resolved,WFWIP,WildFly WIP,software,Done,16/08/2019 07:49,16/08/2019 11:31
+WFWIP-173,Bug,Resolved,WFWIP,WildFly WIP,software,Done,16/08/2019 07:38,16/08/2019 11:37
+WFWIP-172,Bug,Closed,WFWIP,WildFly WIP,software,Done,16/08/2019 03:25,05/09/2019 04:01
+WFWIP-171,Bug,Resolved,WFWIP,WildFly WIP,software,Done,16/08/2019 03:05,21/08/2019 11:38
+WFWIP-170,Bug,Resolved,WFWIP,WildFly WIP,software,Done,15/08/2019 09:11,20/08/2019 08:33
+WFWIP-169,Bug,Resolved,WFWIP,WildFly WIP,software,Done,15/08/2019 07:33,20/08/2019 09:17
+WFWIP-167,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,31/07/2019 04:28,11/09/2019 09:34
+WFWIP-165,Bug,Closed,WFWIP,WildFly WIP,software,Obsolete,10/07/2019 05:06,06/11/2019 05:20
+WFWIP-164,Bug,Closed,WFWIP,WildFly WIP,software,Won't Do,03/07/2019 02:23,10/07/2019 08:39
+WFWIP-163,Bug,Closed,WFWIP,WildFly WIP,software,Done,02/07/2019 09:16,08/07/2019 10:23
+WFWIP-162,Bug,Open,WFWIP,WildFly WIP,software,,22/05/2019 11:25,
+WFWIP-160,Task,Reopened,WFWIP,WildFly WIP,software,,12/04/2019 15:37,
+WFWIP-158,Bug,Resolved,WFWIP,WildFly WIP,software,Obsolete,26/03/2019 06:00,20/01/2020 03:42
+WFWIP-156,Bug,Closed,WFWIP,WildFly WIP,software,Obsolete,22/03/2019 07:57,06/11/2019 05:26
+WFWIP-155,Bug,Resolved,WFWIP,WildFly WIP,software,Done,06/03/2019 07:22,15/04/2019 08:26
+WFWIP-153,Bug,Resolved,WFWIP,WildFly WIP,software,Done,17/12/2018 08:38,22/01/2019 10:59
+WFWIP-152,Enhancement,Resolved,WFWIP,WildFly WIP,software,Won't Do,13/11/2018 11:25,22/11/2018 04:15
+WFWIP-151,Enhancement,Resolved,WFWIP,WildFly WIP,software,Won't Do,13/11/2018 11:06,22/11/2018 04:15
+WFWIP-150,Bug,Resolved,WFWIP,WildFly WIP,software,Done,13/11/2018 03:31,13/11/2018 04:13
+WFWIP-149,Bug,Resolved,WFWIP,WildFly WIP,software,Done,12/11/2018 09:53,16/09/2019 10:41
+WFWIP-148,Bug,Resolved,WFWIP,WildFly WIP,software,Done,09/11/2018 09:35,21/05/2019 09:20
+WFWIP-147,Bug,Resolved,WFWIP,WildFly WIP,software,Done,09/11/2018 07:32,01/10/2019 05:46
+WFWIP-146,Bug,Resolved,WFWIP,WildFly WIP,software,Done,06/11/2018 09:25,06/11/2018 10:24
+WFWIP-145,Enhancement,Resolved,WFWIP,WildFly WIP,software,Won't Do,06/11/2018 08:19,21/11/2018 11:11
+WFWIP-144,Enhancement,Resolved,WFWIP,WildFly WIP,software,Won't Do,06/11/2018 08:13,22/11/2018 04:17
+WFWIP-143,Bug,Resolved,WFWIP,WildFly WIP,software,Done,06/11/2018 07:49,13/11/2018 10:21
+WFWIP-142,Bug,Resolved,WFWIP,WildFly WIP,software,Done,06/11/2018 07:39,13/11/2018 10:22
+WFWIP-140,Bug,Resolved,WFWIP,WildFly WIP,software,Done,06/11/2018 06:57,13/11/2018 10:20
+WFWIP-138,Bug,Resolved,WFWIP,WildFly WIP,software,Done,06/11/2018 05:46,13/11/2018 10:22
+WFWIP-137,Bug,Resolved,WFWIP,WildFly WIP,software,Done,06/11/2018 05:40,06/11/2018 11:21
+WFWIP-136,Bug,Resolved,WFWIP,WildFly WIP,software,Done,06/11/2018 05:37,06/11/2018 11:43
+WFWIP-134,Bug,Resolved,WFWIP,WildFly WIP,software,Obsolete,05/11/2018 02:44,20/01/2020 03:41
+WFWIP-133,Bug,Resolved,WFWIP,WildFly WIP,software,Done,02/11/2018 05:17,05/11/2018 11:49
+WFWIP-132,Bug,Resolved,WFWIP,WildFly WIP,software,Done,02/11/2018 05:09,05/11/2018 11:49
+WFWIP-129,Bug,Resolved,WFWIP,WildFly WIP,software,Done,02/11/2018 04:16,13/11/2018 10:24
+WFWIP-128,Bug,Resolved,WFWIP,WildFly WIP,software,Done,01/11/2018 09:17,13/11/2018 10:19
+WFWIP-127,Bug,Resolved,WFWIP,WildFly WIP,software,Won't Do,01/11/2018 08:50,26/11/2018 09:53
+WFWIP-126,Bug,Resolved,WFWIP,WildFly WIP,software,Done,01/11/2018 08:22,05/11/2018 11:43
+WFWIP-125,Bug,Resolved,WFWIP,WildFly WIP,software,Done,23/10/2018 09:48,06/11/2018 05:12
+WFWIP-124,Bug,Resolved,WFWIP,WildFly WIP,software,Done,23/10/2018 09:42,05/11/2018 11:45
+WFWIP-119,Bug,Resolved,WFWIP,WildFly WIP,software,Done,22/08/2018 09:19,26/08/2018 18:30
+WFWIP-117,Bug,Closed,WFWIP,WildFly WIP,software,Done,17/08/2018 08:21,23/08/2018 10:42
+WFWIP-115,Bug,Resolved,WFWIP,WildFly WIP,software,Done,21/03/2018 03:11,15/08/2018 10:33
+WFWIP-107,Bug,Closed,WFWIP,WildFly WIP,software,Done,14/08/2018 08:53,16/08/2018 04:29
+WFWIP-106,Bug,Closed,WFWIP,WildFly WIP,software,Done,14/08/2018 05:01,22/08/2018 07:45
+WFWIP-105,Bug,Resolved,WFWIP,WildFly WIP,software,Done,14/08/2018 04:50,14/08/2018 08:17
+WFWIP-103,Bug,Closed,WFWIP,WildFly WIP,software,Done,13/08/2018 03:32,20/08/2018 03:11
+WFWIP-102,Bug,Resolved,WFWIP,WildFly WIP,software,Won't Do,10/08/2018 10:33,13/05/2020 12:27
+WFWIP-100,Bug,Resolved,WFWIP,WildFly WIP,software,Done,10/08/2018 08:38,30/01/2019 04:35
+WFWIP-99,Bug,Closed,WFWIP,WildFly WIP,software,Done,10/08/2018 04:54,10/08/2018 06:42
+WFWIP-97,Bug,Closed,WFWIP,WildFly WIP,software,Done,10/08/2018 03:27,10/08/2018 06:42
+WFWIP-95,Bug,Closed,WFWIP,WildFly WIP,software,Done,20/03/2018 09:32,22/08/2018 11:00
+WFWIP-92,Bug,Resolved,WFWIP,WildFly WIP,software,Done,08/08/2018 17:12,09/08/2018 00:15
+WFWIP-91,Bug,Closed,WFWIP,WildFly WIP,software,Done,08/08/2018 09:08,10/09/2018 10:20
+WFWIP-89,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,06/08/2018 06:05,08/08/2018 08:33
+WFWIP-88,Bug,Closed,WFWIP,WildFly WIP,software,Done,06/08/2018 05:52,10/08/2018 09:51
+WFWIP-87,Bug,Closed,WFWIP,WildFly WIP,software,Done,06/08/2018 05:40,21/08/2018 04:14
+WFWIP-84,Bug,Closed,WFWIP,WildFly WIP,software,Duplicate,06/08/2018 05:15,13/08/2018 05:40
+WFWIP-83,Bug,Closed,WFWIP,WildFly WIP,software,Done,06/08/2018 03:35,17/08/2018 05:23
+WFWIP-82,Bug,Closed,WFWIP,WildFly WIP,software,Done,03/08/2018 16:01,10/08/2018 03:02
+WFWIP-79,Bug,Resolved,WFWIP,WildFly WIP,software,Done,02/08/2018 09:28,03/08/2018 04:04
+WFWIP-77,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,01/08/2018 08:56,03/08/2018 03:14
+WFWIP-75,Bug,Closed,WFWIP,WildFly WIP,software,Done,31/07/2018 06:59,03/08/2018 12:40
+WFWIP-72,Bug,Closed,WFWIP,WildFly WIP,software,Done,24/07/2018 09:13,17/09/2018 03:27
+WFWIP-67,Bug,Resolved,WFWIP,WildFly WIP,software,Done,20/07/2018 06:07,16/08/2018 09:46
+WFWIP-65,Bug,Closed,WFWIP,WildFly WIP,software,Done,19/07/2018 04:18,22/08/2018 07:03
+WFWIP-64,Bug,Resolved,WFWIP,WildFly WIP,software,Done,18/07/2018 10:20,21/09/2018 09:12
+WFWIP-63,Bug,Resolved,WFWIP,WildFly WIP,software,Done,18/07/2018 09:12,21/09/2018 09:13
+WFWIP-58,Bug,Resolved,WFWIP,WildFly WIP,software,Done,17/07/2018 07:24,21/09/2018 09:14
+WFWIP-57,Bug,Resolved,WFWIP,WildFly WIP,software,Done,17/07/2018 06:56,21/09/2018 09:14
+WFWIP-56,Bug,Resolved,WFWIP,WildFly WIP,software,Done,17/07/2018 04:47,29/08/2018 05:47
+WFWIP-54,Bug,Resolved,WFWIP,WildFly WIP,software,Done,13/07/2018 08:52,16/07/2018 09:04
+WFWIP-53,Bug,Resolved,WFWIP,WildFly WIP,software,Done,20/06/2018 06:13,06/08/2018 10:03
+WFWIP-52,Bug,Closed,WFWIP,WildFly WIP,software,Won't Do,18/06/2018 10:34,20/06/2018 09:41
+WFWIP-51,Bug,Resolved,WFWIP,WildFly WIP,software,Done,18/06/2018 09:30,06/08/2018 10:04
+WFWIP-42,Enhancement,Closed,WFWIP,WildFly WIP,software,Done,05/06/2018 01:23,05/06/2018 07:28
+WFWIP-41,Task,Closed,WFWIP,WildFly WIP,software,Done,05/06/2018 01:11,04/07/2018 06:26
+WFWIP-40,Bug,Closed,WFWIP,WildFly WIP,software,Done,04/06/2018 06:51,05/06/2018 01:04
+WFWIP-39,Bug,Resolved,WFWIP,WildFly WIP,software,Done,28/03/2018 04:07,13/08/2018 02:43
+WFWIP-37,Bug,Closed,WFWIP,WildFly WIP,software,Done,11/05/2018 05:13,11/05/2018 15:40
+WFWIP-36,Bug,Resolved,WFWIP,WildFly WIP,software,Done,11/05/2018 05:02,17/05/2018 03:25
+WFWIP-35,Bug,Resolved,WFWIP,WildFly WIP,software,Done,07/05/2018 04:11,09/05/2018 02:50
+WFWIP-34,Bug,Resolved,WFWIP,WildFly WIP,software,Done,03/05/2018 09:42,04/05/2018 05:15
+WFWIP-31,Bug,Closed,WFWIP,WildFly WIP,software,Done,20/04/2018 08:21,03/05/2018 08:10
+WFWIP-28,Bug,Closed,WFWIP,WildFly WIP,software,Done,26/03/2018 04:05,13/08/2018 03:54
+WFWIP-27,Bug,Resolved,WFWIP,WildFly WIP,software,Done,22/03/2018 04:02,13/08/2018 04:05
+WFWIP-26,Bug,Resolved,WFWIP,WildFly WIP,software,Done,19/03/2018 05:36,13/08/2018 10:46
+WFWIP-25,Bug,Resolved,WFWIP,WildFly WIP,software,Done,22/03/2018 11:27,13/08/2018 02:53
+WFWIP-24,Bug,Resolved,WFWIP,WildFly WIP,software,Done,19/03/2018 04:29,07/06/2018 09:46
+WFWIP-23,Bug,Resolved,WFWIP,WildFly WIP,software,Done,22/03/2018 09:21,31/05/2018 08:59
+WFWIP-22,Bug,Resolved,WFWIP,WildFly WIP,software,Done,26/03/2018 15:31,13/08/2018 02:47
+WFWIP-21,Bug,Resolved,WFWIP,WildFly WIP,software,Done,23/03/2018 08:01,29/08/2018 05:45
+WFWIP-20,Bug,Closed,WFWIP,WildFly WIP,software,Not a Bug,23/03/2018 09:22,14/08/2018 10:38
+WFWIP-19,Bug,Resolved,WFWIP,WildFly WIP,software,Done,01/12/2017 09:11,14/06/2018 10:17
+WFWIP-18,Bug,Resolved,WFWIP,WildFly WIP,software,Done,22/03/2018 04:21,10/08/2018 05:02
+WFWIP-17,Bug,Resolved,WFWIP,WildFly WIP,software,Done,22/03/2018 10:25,10/08/2018 04:54
+WFWIP-16,Bug,Closed,WFWIP,WildFly WIP,software,Done,23/03/2018 10:21,22/08/2018 10:19
+WFWIP-15,Bug,Closed,WFWIP,WildFly WIP,software,Done,28/03/2018 03:09,20/08/2018 03:09
+WFWIP-14,Bug,Closed,WFWIP,WildFly WIP,software,Duplicate,29/01/2018 11:14,13/08/2018 05:40
+WFWIP-13,Bug,Resolved,WFWIP,WildFly WIP,software,Done,29/01/2018 07:42,10/07/2018 09:42
+WFWIP-12,Bug,Closed,WFWIP,WildFly WIP,software,Done,29/01/2018 07:10,21/08/2018 05:16
+WFWIP-11,Bug,Resolved,WFWIP,WildFly WIP,software,Done,01/02/2018 06:39,03/07/2018 02:43
+WFWIP-10,Bug,Resolved,WFWIP,WildFly WIP,software,Done,02/02/2018 10:31,10/07/2018 13:07
+WFWIP-9,Bug,Closed,WFWIP,WildFly WIP,software,Duplicate,03/05/2018 06:37,20/08/2018 12:49
+WFWIP-8,Bug,Resolved,WFWIP,WildFly WIP,software,Done,03/05/2018 01:50,03/05/2018 03:53
+WFWIP-7,Bug,Resolved,WFWIP,WildFly WIP,software,Done,02/05/2018 05:25,02/05/2018 09:19
+WFWIP-6,Bug,Resolved,WFWIP,WildFly WIP,software,Done,02/05/2018 05:19,02/05/2018 09:18
+WFWIP-5,Bug,Resolved,WFWIP,WildFly WIP,software,Done,02/05/2018 04:51,02/05/2018 09:18
+WFWIP-4,Bug,Resolved,WFWIP,WildFly WIP,software,Done,02/05/2018 02:35,02/05/2018 03:48
+WFWIP-3,Feature Request,Closed,WFWIP,WildFly WIP,software,Won't Do,16/04/2018 06:19,01/05/2018 07:00
+WFWIP-2,Task,Closed,WFWIP,WildFly WIP,software,Won't Do,11/04/2018 08:04,01/05/2018 07:00
+WFWIP-1,Task,Closed,WFWIP,WildFly WIP,software,Won't Do,11/04/2018 08:04,01/05/2018 06:58

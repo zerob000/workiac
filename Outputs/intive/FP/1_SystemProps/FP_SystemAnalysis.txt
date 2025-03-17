@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2012-09-28 13:57:00 End date: 2014-06-02 14:26:00
+System: {'LKPI': 145}
+Types: {'Bug': 97, 'Urlop wypoczynkowy': 1, 'Task': 44, 'Door Access Control': 2, 'New Feature': 1}
+Resolutions: {'Resolved': 110, 'Closed': 35}
+Statuses: {'Resolved': 110, 'Closed': 35}
+
+Average Lead Time (all PBIs): 167.4 days
+Average Lead Time (Bug): 164.0 days
+Average Lead Time (Urlop wypoczynkowy): 3.0 days
+Average Lead Time (Task): 189.2 days
+Average Lead Time (Door Access Control): 4.0 days
+Average Lead Time (New Feature): 25.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2014-02-22 14:26:00 End date: 2014-06-02 14:26:00
+System: {'LKPI': 36}
+Types: {'Task': 10, 'Bug': 26}
+Resolutions: {'Closed': 35, 'Resolved': 1}
+Statuses: {'Closed': 35, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 548.6 days
+Average Lead Time (Task): 576.4 days
+Average Lead Time (Bug): 537.9 days

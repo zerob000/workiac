@@ -187,8 +187,11 @@ def my_extractor(data, last_pbi, start_date):
     
     for i, item in enumerate(back):
         back[i] = back[i] + abs(min_size) # correcting for the case that there is a negative minimum size so backlog never goes to 0
-  
-    return(sysms, types, resos, statu, matched, last_pbi, lt_cum, lt_count, t_b[0])
+
+    if len(t_b) != 0:
+        return(sysms, types, resos, statu, matched, last_pbi, lt_cum, lt_count, t_b[0])
+    else:
+        return(sysms, types, resos, statu, matched, last_pbi, lt_cum, lt_count, 0)
 
 
 # Barchart

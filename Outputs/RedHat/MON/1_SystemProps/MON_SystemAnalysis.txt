@@ -1,5 +1,5 @@
 All PBIS - Unfiltered 
-Start date: 1901-01-01 12:01:00 End date: 2024-11-12 05:00:00
+Start date: 2019-08-15 07:20:00 End date: 2024-11-12 05:00:00
 System: {'MON': 1628}
 Types: {'Task': 904, 'Epic': 154, 'Bug': 108, 'Story': 416, 'Feature': 2, 'Initiative': 9, 'Spike': 33, 'Outcome': 1, 'Risk': 1}
 Resolutions: {'': 164, 'Done': 1093, "Can't Do": 38, 'Obsolete': 190, 'Not a Bug': 10, "Won't Do": 83, 'Duplicate': 47, 'Done-Errata': 1, 'Cannot Reproduce': 2}

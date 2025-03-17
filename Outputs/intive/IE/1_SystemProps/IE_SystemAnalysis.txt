@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2009-09-28 14:00:00 End date: 2011-07-18 13:43:00
+System: {'BSACONE': 429}
+Types: {'P4 Bug': 2, 'Task': 40, 'Sub-task': 99, 'P4 CR': 1, 'Internal Bug sub-task': 285, 'New Feature': 2}
+Resolutions: {'Closed': 323, 'Open': 53, 'Resolved': 48, 'Reopened': 3, 'Awaiting Doc': 1, 'Awaiting Dev': 1}
+Statuses: {'Closed': 323, 'Open': 53, 'Resolved': 48, 'Reopened': 3, 'Awaiting Doc': 1, 'Awaiting Dev': 1}
+
+Average Lead Time (all PBIs): 16.6 days
+Average Lead Time (P4 Bug): 0.0 days
+Average Lead Time (Task): 17.6 days
+Average Lead Time (Sub-task): 51.6 days
+Average Lead Time (Internal Bug sub-task): 7.2 days
+Average Lead Time (New Feature): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2011-04-09 13:43:00 End date: 2011-07-18 13:43:00
+System: {'BSACONE': 1}
+Types: {'Sub-task': 1}
+Resolutions: {'Closed': 1}
+Statuses: {'Closed': 1}
+
+Average Lead Time (all PBIs): 265.0 days
+Average Lead Time (Sub-task): 265.0 days

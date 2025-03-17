@@ -1,0 +1,107 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+SO-141,Story,Closed,SO,Samples Operator,software,Done,27/09/2024 13:07,07/10/2024 15:49
+SO-140,Story,Closed,SO,Samples Operator,software,Done,27/09/2024 12:42,07/10/2024 15:51
+SO-139,Story,Closed,SO,Samples Operator,software,Done,27/09/2024 12:33,05/11/2024 07:39
+SO-138,Story,In Progress,SO,Samples Operator,software,,27/09/2024 12:28,
+SO-137,Story,Closed,SO,Samples Operator,software,Done,27/09/2024 12:27,17/10/2024 13:59
+SO-136,Story,Closed,SO,Samples Operator,software,Done,27/09/2024 12:21,28/10/2024 13:31
+SO-135,Epic,New,SO,Samples Operator,software,,27/09/2024 12:14,
+SO-134,Bug,New,SO,Samples Operator,software,,19/09/2024 13:59,
+SO-133,Task,New,SO,Samples Operator,software,,19/09/2024 13:09,
+SO-132,Story,Closed,SO,Samples Operator,software,Done,27/08/2024 15:38,28/08/2024 12:22
+SO-131,Story,Closed,SO,Samples Operator,software,Done,27/08/2024 15:34,28/08/2024 12:21
+SO-130,Story,Closed,SO,Samples Operator,software,Done,27/08/2024 15:18,26/09/2024 08:20
+SO-129,Story,Closed,SO,Samples Operator,software,Done,26/08/2024 13:29,27/08/2024 15:19
+SO-128,Bug,Closed,SO,Samples Operator,software,Done,14/08/2024 12:14,14/08/2024 12:16
+SO-127,Story,Closed,SO,Samples Operator,software,Done,01/08/2024 09:10,27/08/2024 15:16
+SO-126,Story,Closed,SO,Samples Operator,software,Done,01/08/2024 09:04,16/08/2024 10:03
+SO-125,Story,Closed,SO,Samples Operator,software,Done,30/07/2024 07:58,27/08/2024 15:19
+SO-124,Story,Closed,SO,Samples Operator,software,Done,30/07/2024 07:40,26/09/2024 08:19
+SO-123,Epic,Closed,SO,Samples Operator,software,Done,30/07/2024 07:39,27/09/2024 11:21
+SO-122,Story,Closed,SO,Samples Operator,software,Done,22/03/2024 06:24,11/04/2024 06:19
+SO-121,Story,Closed,SO,Samples Operator,software,Done,22/03/2024 06:22,23/04/2024 07:43
+SO-120,Epic,Closed,SO,Samples Operator,software,Done,22/03/2024 06:21,23/04/2024 07:44
+SO-119,Bug,Closed,SO,Samples Operator,software,Done,05/12/2023 10:02,12/12/2023 11:17
+SO-118,Story,Closed,SO,Samples Operator,software,Done,27/11/2023 06:47,04/12/2023 06:22
+SO-117,Story,Closed,SO,Samples Operator,software,Done,27/11/2023 06:38,04/12/2023 06:20
+SO-116,Epic,Closed,SO,Samples Operator,software,Done,27/11/2023 06:38,04/12/2023 06:24
+SO-114,Epic,Closed,SO,Samples Operator,software,Done,10/10/2023 11:01,09/02/2024 09:05
+SO-113,Story,Closed,SO,Samples Operator,software,Done,10/10/2023 10:16,09/02/2024 09:07
+SO-112,Story,Closed,SO,Samples Operator,software,Done,10/10/2023 10:14,08/05/2024 06:19
+SO-111,Epic,Closed,SO,Samples Operator,software,Done,10/10/2023 10:05,08/05/2024 06:33
+SO-110,Story,Closed,SO,Samples Operator,software,Done,10/10/2023 09:59,08/05/2024 06:25
+SO-109,Story,Closed,SO,Samples Operator,software,Done,16/08/2023 11:36,28/09/2023 06:36
+SO-108,Story,Closed,SO,Samples Operator,software,Done,11/07/2023 10:38,21/07/2023 10:07
+SO-107,Story,Closed,SO,Samples Operator,software,Done,11/07/2023 10:35,20/07/2023 06:14
+SO-106,Epic,Closed,SO,Samples Operator,software,Done,11/07/2023 10:28,24/07/2023 12:22
+SO-105,Story,Closed,SO,Samples Operator,software,Done,24/01/2023 12:29,06/02/2023 06:47
+SO-104,Story,Closed,SO,Samples Operator,software,Done,24/01/2023 12:22,03/02/2023 05:34
+SO-103,Epic,Closed,SO,Samples Operator,software,Done,24/01/2023 12:11,23/03/2023 12:07
+SO-102,Story,Closed,SO,Samples Operator,software,Done,13/01/2023 11:25,26/07/2023 11:08
+SO-101,Story,Closed,SO,Samples Operator,software,Done,12/01/2023 12:14,01/03/2023 13:35
+SO-100,Story,Closed,SO,Samples Operator,software,Done,12/01/2023 11:48,07/03/2023 13:38
+SO-99,Story,Closed,SO,Samples Operator,software,Won't Do,11/01/2023 12:00,16/05/2024 08:19
+SO-98,Epic,New,SO,Samples Operator,software,,09/01/2023 11:53,
+SO-97,Story,Closed,SO,Samples Operator,software,Done,09/01/2023 11:50,15/05/2023 07:34
+SO-96,Epic,Closed,SO,Samples Operator,software,Done,09/01/2023 11:47,30/05/2023 08:57
+SO-95,Story,Closed,SO,Samples Operator,software,Done,09/01/2023 11:43,27/03/2023 09:18
+SO-94,Story,Closed,SO,Samples Operator,software,Done,09/01/2023 11:32,19/04/2023 06:18
+SO-93,Epic,Closed,SO,Samples Operator,software,Done,09/01/2023 11:11,09/02/2024 09:03
+SO-92,Epic,Closed,SO,Samples Operator,software,Done,09/01/2023 10:57,30/05/2023 09:08
+SO-91,Task,Closed,SO,Samples Operator,software,Won't Do,23/11/2022 12:27,16/05/2024 08:18
+SO-90,Story,Closed,SO,Samples Operator,software,Won't Do,15/11/2022 13:33,16/05/2024 08:15
+SO-89,Story,Closed,SO,Samples Operator,software,Done,15/11/2022 13:30,15/11/2022 13:34
+SO-88,Story,Closed,SO,Samples Operator,software,Won't Do,07/11/2022 13:27,16/05/2024 08:19
+SO-87,Story,Closed,SO,Samples Operator,software,Done,07/11/2022 12:03,16/05/2024 08:21
+SO-86,Story,New,SO,Samples Operator,software,,07/11/2022 11:59,
+SO-85,Story,New,SO,Samples Operator,software,,07/11/2022 11:58,
+SO-84,Story,New,SO,Samples Operator,software,,07/11/2022 11:55,
+SO-83,Story,Closed,SO,Samples Operator,software,Done,07/11/2022 11:53,15/02/2023 05:49
+SO-82,Story,Closed,SO,Samples Operator,software,Done,07/11/2022 11:48,30/05/2023 06:38
+SO-81,Story,New,SO,Samples Operator,software,,07/11/2022 11:44,
+SO-80,Story,New,SO,Samples Operator,software,,07/11/2022 11:38,
+SO-79,Story,Closed,SO,Samples Operator,software,Done,07/11/2022 11:31,20/01/2023 12:47
+SO-78,Story,Closed,SO,Samples Operator,software,Done,04/11/2022 07:15,07/12/2022 11:57
+SO-77,Story,Closed,SO,Samples Operator,software,Done,04/11/2022 07:13,22/11/2022 11:58
+SO-76,Epic,Closed,SO,Samples Operator,software,Done,04/11/2022 07:05,20/01/2023 12:34
+SO-75,Epic,In Progress,SO,Samples Operator,software,,12/10/2022 12:36,
+SO-74,Story,Closed,SO,Samples Operator,software,Done,12/10/2022 12:04,03/11/2022 06:46
+SO-73,Task,Closed,SO,Samples Operator,software,Done,11/10/2022 12:10,20/10/2022 12:33
+SO-72,Bug,Closed,SO,Samples Operator,software,Done,28/09/2022 08:50,11/10/2022 13:13
+SO-71,Story,Closed,SO,Samples Operator,software,Done,21/09/2022 13:57,11/10/2022 11:48
+SO-70,Story,Closed,SO,Samples Operator,software,Done,01/09/2022 03:42,25/01/2023 07:13
+SO-69,Story,Closed,SO,Samples Operator,software,Won't Do,09/08/2022 06:14,16/05/2024 08:29
+SO-68,Task,Closed,SO,Samples Operator,software,Done,02/08/2022 11:29,13/12/2022 10:58
+SO-67,Task,Closed,SO,Samples Operator,software,Done,01/08/2022 13:36,04/08/2022 10:28
+SO-66,Bug,Closed,SO,Samples Operator,software,Done,20/07/2022 06:25,02/01/2023 02:15
+SO-65,Bug,Closed,SO,Samples Operator,software,Done,14/07/2022 10:12,27/07/2022 11:19
+SO-64,Bug,Closed,SO,Samples Operator,software,Done,24/06/2022 11:03,13/07/2022 14:52
+SO-63,Story,Closed,SO,Samples Operator,software,Done,13/06/2022 13:26,30/08/2022 15:15
+SO-62,Bug,Closed,SO,Samples Operator,software,Done,06/06/2022 07:37,09/08/2022 06:00
+SO-61,Epic,Closed,SO,Samples Operator,software,Done,11/05/2022 19:42,30/05/2023 08:52
+SO-60,Story,Closed,SO,Samples Operator,software,Done,10/05/2022 22:27,24/05/2022 11:46
+SO-59,Epic,Closed,SO,Samples Operator,software,Done,10/05/2022 22:22,22/09/2022 06:50
+SO-58,Bug,Closed,SO,Samples Operator,software,Done,10/05/2022 18:58,10/05/2022 19:51
+SO-57,Bug,Closed,SO,Samples Operator,software,Done,25/04/2022 15:31,29/04/2022 12:43
+SO-56,Story,Closed,SO,Samples Operator,software,Done,21/04/2022 15:21,10/06/2022 14:52
+SO-55,Bug,Closed,SO,Samples Operator,software,Done,20/04/2022 11:43,16/05/2022 11:45
+SO-20,Story,Closed,SO,Samples Operator,software,Done,30/10/2020 07:01,11/05/2022 10:31
+SO-19,Story,Closed,SO,Samples Operator,software,Done,13/05/2021 15:21,14/07/2022 06:13
+SO-18,Story,Closed,SO,Samples Operator,software,Done,08/02/2022 19:51,05/04/2022 17:11
+SO-17,Story,Closed,SO,Samples Operator,software,Done,10/01/2022 14:59,16/06/2022 11:32
+SO-16,Story,Closed,SO,Samples Operator,software,Done,06/08/2021 23:28,21/01/2022 16:40
+SO-15,Story,Closed,SO,Samples Operator,software,Done,13/05/2021 15:22,13/04/2023 11:15
+SO-14,Story,Closed,SO,Samples Operator,software,Done,13/05/2021 15:18,13/04/2023 11:16
+SO-13,Epic,Closed,SO,Samples Operator,software,Won't Do,19/11/2019 14:44,16/05/2024 08:18
+SO-12,Epic,Closed,SO,Samples Operator,software,Done,09/04/2021 18:29,13/04/2023 11:18
+SO-11,Epic,Closed,SO,Samples Operator,software,Done,21/01/2022 17:09,13/06/2022 13:07
+SO-10,Epic,Closed,SO,Samples Operator,software,Done,25/06/2020 07:48,11/05/2022 17:37
+SO-9,Bug,Closed,SO,Samples Operator,software,Done,16/12/2021 02:29,19/07/2022 11:11
+SO-8,Bug,Closed,SO,Samples Operator,software,Done,14/12/2021 02:37,27/01/2022 12:35
+SO-7,Bug,Closed,SO,Samples Operator,software,Done,28/09/2021 20:26,04/10/2021 00:49
+SO-6,Bug,Closed,SO,Samples Operator,software,Done,30/11/2021 02:08,09/05/2022 12:00
+SO-5,Bug,Closed,SO,Samples Operator,software,Done,14/12/2021 02:33,11/05/2022 07:10
+SO-4,Bug,Closed,SO,Samples Operator,software,Done,14/12/2021 02:44,12/01/2022 12:53
+SO-3,Task,Closed,SO,Samples Operator,software,Done,12/04/2022 15:26,14/04/2022 12:25
+SO-2,Task,Closed,SO,Samples Operator,software,Done,12/04/2022 15:26,14/04/2022 12:25
+SO-1,Task,Closed,SO,Samples Operator,software,Done,12/04/2022 15:26,14/04/2022 12:25

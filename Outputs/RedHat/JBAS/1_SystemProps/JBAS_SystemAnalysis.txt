@@ -1,5 +1,5 @@
 All PBIS - Unfiltered 
-Start date: 1901-01-01 12:01:00 End date: 2023-10-11 13:56:00
+Start date: 2001-04-06 03:49:00 End date: 2023-10-11 13:56:00
 System: {'JBAS': 6835}
 Types: {'Bug': 4212, 'Task': 1342, 'Feature Request': 1091, 'Patch': 104, 'Enhancement': 8, 'Support Patch': 1, 'Release': 5, 'Component Upgrade': 66, 'Quality Risk': 4, 'CTS Challenge': 2}
 Resolutions: {'': 282, 'Duplicate': 268, "Won't Do": 969, 'Obsolete': 1175, "Can't Do": 68, 'Done': 4007, 'Cannot Reproduce': 66}

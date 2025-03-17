@@ -1,5 +1,5 @@
 All PBIS - Unfiltered 
-Start date: 1901-01-01 12:01:00 End date: 2024-10-17 02:12:00
+Start date: 2011-09-28 11:20:00 End date: 2024-10-17 02:12:00
 System: {'EJBCLIENT': 456}
 Types: {'Task': 56, 'Feature Request': 38, 'Enhancement': 67, 'Bug': 256, 'Patch': 2, 'Documentation': 1, 'Requirement': 2, 'Component Upgrade': 33, 'Analysis': 1}
 Resolutions: {'Done': 370, '': 51, 'Obsolete': 8, "Won't Do": 12, 'Duplicate': 11, 'Cannot Reproduce': 2, 'Not a Bug': 2}

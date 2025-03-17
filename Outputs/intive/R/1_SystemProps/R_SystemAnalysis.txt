@@ -1,0 +1,36 @@
+All PBIS - Unfiltered 
+Start date: 2009-08-07 13:58:00 End date: 2014-06-05 11:59:00
+System: {'PDDTWO': 1959}
+Types: {'Sub-task': 162, 'Task': 356, 'Bug': 75, 'Question': 11, 'Internal Bug sub-task': 37, 'Internal Bug': 1274, 'Improvement': 17, 'Documentation': 22, 'New Feature': 4, 'Risk': 1}
+Resolutions: {'Closed': 1941, 'Resolved': 18}
+Statuses: {'Closed': 1941, 'Resolved': 18}
+
+Average Lead Time (all PBIs): 37.1 days
+Average Lead Time (Sub-task): 75.0 days
+Average Lead Time (Task): 36.8 days
+Average Lead Time (Bug): 177.2 days
+Average Lead Time (Question): 49.3 days
+Average Lead Time (Internal Bug sub-task): 70.7 days
+Average Lead Time (Internal Bug): 21.5 days
+Average Lead Time (Improvement): 88.8 days
+Average Lead Time (Documentation): 88.2 days
+Average Lead Time (New Feature): 13.8 days
+Average Lead Time (Risk): 20.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2014-02-25 11:59:00 End date: 2014-06-05 11:59:00
+System: {'PDDTWO': 32}
+Types: {'Sub-task': 3, 'Task': 3, 'Question': 1, 'Internal Bug': 15, 'Internal Bug sub-task': 1, 'Improvement': 2, 'Bug': 7}
+Resolutions: {'Closed': 32}
+Statuses: {'Closed': 32}
+
+Average Lead Time (all PBIs): 846.2 days
+Average Lead Time (Sub-task): 312.3 days
+Average Lead Time (Task): 379.0 days
+Average Lead Time (Question): 340.0 days
+Average Lead Time (Internal Bug): 825.1 days
+Average Lead Time (Internal Bug sub-task): 540.0 days
+Average Lead Time (Improvement): 587.5 days
+Average Lead Time (Bug): 1510.6 days

@@ -1,0 +1,678 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+TACKLE-959,Bug,New,TACKLE,Konveyor Tackle,software,,23/06/2023 14:52,
+TACKLE-958,Task,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,23/06/2023 08:00,23/06/2023 14:48
+TACKLE-957,Story,Closed,TACKLE,Konveyor Tackle,software,Done,06/03/2023 17:01,15/03/2023 20:50
+TACKLE-956,Story,Closed,TACKLE,Konveyor Tackle,software,Done,06/03/2023 16:58,15/03/2023 20:50
+TACKLE-955,Story,Closed,TACKLE,Konveyor Tackle,software,Done,06/03/2023 16:55,15/03/2023 20:51
+TACKLE-954,Story,Closed,TACKLE,Konveyor Tackle,software,Done,06/03/2023 16:28,15/03/2023 20:51
+TACKLE-953,Story,Closed,TACKLE,Konveyor Tackle,software,Done,06/03/2023 16:11,15/03/2023 20:51
+TACKLE-949,Task,Closed,TACKLE,Konveyor Tackle,software,Obsolete,16/01/2023 13:30,22/02/2024 09:57
+TACKLE-938,Feature Request,New,TACKLE,Konveyor Tackle,software,,10/01/2023 22:15,
+TACKLE-932,Task,Closed,TACKLE,Konveyor Tackle,software,Done,05/01/2023 11:53,24/05/2023 05:21
+TACKLE-916,Task,Closed,TACKLE,Konveyor Tackle,software,Done,22/12/2022 07:50,05/01/2023 11:36
+TACKLE-915,Task,Closed,TACKLE,Konveyor Tackle,software,Done,22/12/2022 07:20,06/01/2023 06:39
+TACKLE-898,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,12/12/2022 15:49,13/12/2022 12:30
+TACKLE-886,Task,Closed,TACKLE,Konveyor Tackle,software,Done,02/12/2022 09:25,20/12/2022 06:34
+TACKLE-884,Task,Closed,TACKLE,Konveyor Tackle,software,Done,01/12/2022 05:04,20/12/2022 06:08
+TACKLE-881,Task,Closed,TACKLE,Konveyor Tackle,software,Done,28/11/2022 09:04,28/11/2022 16:59
+TACKLE-880,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,24/11/2022 07:39,05/12/2022 10:08
+TACKLE-878,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,23/11/2022 11:56,05/12/2022 10:10
+TACKLE-877,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,23/11/2022 09:19,24/11/2022 06:00
+TACKLE-876,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,23/11/2022 08:47,24/11/2022 08:02
+TACKLE-875,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,21/11/2022 10:27,23/11/2022 15:17
+TACKLE-874,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,17/11/2022 17:14,07/12/2022 10:39
+TACKLE-873,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,17/11/2022 17:08,08/12/2022 10:39
+TACKLE-872,Task,Closed,TACKLE,Konveyor Tackle,software,Done,17/11/2022 07:55,20/12/2022 08:10
+TACKLE-869,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,14/11/2022 14:49,16/11/2022 11:12
+TACKLE-866,Task,Release Pending,TACKLE,Konveyor Tackle,software,Done,07/11/2022 17:02,01/12/2022 05:00
+TACKLE-865,Task,Release Pending,TACKLE,Konveyor Tackle,software,Done,07/11/2022 16:57,01/12/2022 05:01
+TACKLE-864,Task,Release Pending,TACKLE,Konveyor Tackle,software,Done,07/11/2022 16:56,01/12/2022 05:00
+TACKLE-863,Task,Closed,TACKLE,Konveyor Tackle,software,Done,07/11/2022 11:19,17/11/2022 11:18
+TACKLE-862,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,07/11/2022 09:15,07/11/2022 09:17
+TACKLE-860,Task,Closed,TACKLE,Konveyor Tackle,software,Done,02/11/2022 16:55,07/11/2022 13:22
+TACKLE-857,Task,Closed,TACKLE,Konveyor Tackle,software,Done,01/11/2022 14:35,16/11/2022 11:10
+TACKLE-856,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,26/10/2022 14:21,23/12/2022 10:12
+TACKLE-855,Feature Request,New,TACKLE,Konveyor Tackle,software,,23/10/2022 10:09,
+TACKLE-852,Story,Closed,TACKLE,Konveyor Tackle,software,Done,21/10/2022 05:04,14/12/2022 11:33
+TACKLE-851,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/10/2022 18:52,19/01/2023 16:50
+TACKLE-850,Task,Closed,TACKLE,Konveyor Tackle,software,Done,19/10/2022 15:17,18/11/2022 09:25
+TACKLE-849,Task,Closed,TACKLE,Konveyor Tackle,software,Done,12/10/2022 21:22,15/12/2022 17:55
+TACKLE-848,Task,Dev Complete,TACKLE,Konveyor Tackle,software,,11/10/2022 22:00,
+TACKLE-847,Task,New,TACKLE,Konveyor Tackle,software,,11/10/2022 15:31,
+TACKLE-846,Task,Testing,TACKLE,Konveyor Tackle,software,,11/10/2022 13:41,
+TACKLE-845,Bug,Closed,TACKLE,Konveyor Tackle,software,Cannot Reproduce,07/10/2022 19:27,14/10/2022 18:00
+TACKLE-844,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,07/10/2022 05:55,23/12/2022 10:13
+TACKLE-843,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,04/10/2022 17:22,23/12/2022 10:13
+TACKLE-842,Task,Closed,TACKLE,Konveyor Tackle,software,Done,04/10/2022 13:30,22/02/2023 09:48
+TACKLE-834,Task,Dev Complete,TACKLE,Konveyor Tackle,software,,03/10/2022 13:37,
+TACKLE-833,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,30/09/2022 11:19,23/12/2022 10:17
+TACKLE-832,Task,Closed,TACKLE,Konveyor Tackle,software,Done,29/09/2022 14:19,28/02/2023 12:54
+TACKLE-831,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,29/09/2022 10:14,30/09/2022 16:18
+TACKLE-830,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,29/09/2022 10:05,30/09/2022 16:19
+TACKLE-829,Bug,Closed,TACKLE,Konveyor Tackle,software,Cannot Reproduce,28/09/2022 16:49,12/10/2022 13:18
+TACKLE-828,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,28/09/2022 16:37,23/12/2022 10:18
+TACKLE-827,Task,Release Pending,TACKLE,Konveyor Tackle,software,Done,28/09/2022 14:32,29/09/2022 19:13
+TACKLE-826,Bug,Closed,TACKLE,Konveyor Tackle,software,Cannot Reproduce,27/09/2022 18:00,19/10/2022 00:31
+TACKLE-825,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,27/09/2022 17:53,29/09/2022 10:24
+TACKLE-824,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,27/09/2022 17:53,29/09/2022 10:21
+TACKLE-823,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,22/09/2022 14:22,19/01/2023 02:37
+TACKLE-822,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,21/09/2022 22:19,23/12/2022 10:12
+TACKLE-821,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,21/09/2022 10:58,02/11/2022 17:05
+TACKLE-820,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,20/09/2022 23:03,23/12/2022 10:18
+TACKLE-819,Task,Closed,TACKLE,Konveyor Tackle,software,Done,20/09/2022 12:20,26/04/2023 06:24
+TACKLE-818,Task,Closed,TACKLE,Konveyor Tackle,software,Done,19/09/2022 14:39,15/01/2023 16:12
+TACKLE-817,Task,Closed,TACKLE,Konveyor Tackle,software,Done,16/09/2022 19:42,21/09/2022 16:47
+TACKLE-816,Task,New,TACKLE,Konveyor Tackle,software,,15/09/2022 07:56,
+TACKLE-814,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,14/09/2022 19:55,23/12/2022 10:13
+TACKLE-813,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,14/09/2022 13:35,30/09/2022 16:40
+TACKLE-812,Task,Closed,TACKLE,Konveyor Tackle,software,Done,13/09/2022 19:35,16/11/2022 08:53
+TACKLE-811,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,13/09/2022 15:59,23/12/2022 10:17
+TACKLE-810,Task,Release Pending,TACKLE,Konveyor Tackle,software,Done,13/09/2022 15:09,14/09/2022 01:27
+TACKLE-809,Task,Closed,TACKLE,Konveyor Tackle,software,Done,13/09/2022 14:14,16/11/2022 12:35
+TACKLE-808,Task,Closed,TACKLE,Konveyor Tackle,software,Done,13/09/2022 14:11,29/11/2022 10:47
+TACKLE-807,Task,Closed,TACKLE,Konveyor Tackle,software,Done,13/09/2022 14:06,16/11/2022 12:34
+TACKLE-798,Task,Closed,TACKLE,Konveyor Tackle,software,Done,13/09/2022 13:45,09/11/2022 14:42
+TACKLE-796,Task,Closed,TACKLE,Konveyor Tackle,software,Done,13/09/2022 10:47,09/11/2022 14:44
+TACKLE-795,Task,Closed,TACKLE,Konveyor Tackle,software,Done,13/09/2022 10:44,04/10/2022 19:09
+TACKLE-794,Task,Closed,TACKLE,Konveyor Tackle,software,Done,13/09/2022 07:40,03/10/2022 16:32
+TACKLE-793,Task,Closed,TACKLE,Konveyor Tackle,software,Done,13/09/2022 07:32,03/10/2022 16:30
+TACKLE-792,Epic,Closed,TACKLE,Konveyor Tackle,software,Done,13/09/2022 07:19,02/11/2022 17:02
+TACKLE-791,Task,Closed,TACKLE,Konveyor Tackle,software,Done,12/09/2022 22:20,31/07/2023 07:25
+TACKLE-790,Task,Closed,TACKLE,Konveyor Tackle,software,Done,12/09/2022 16:11,13/09/2022 04:55
+TACKLE-789,Task,New,TACKLE,Konveyor Tackle,software,,12/09/2022 16:09,
+TACKLE-788,Task,Closed,TACKLE,Konveyor Tackle,software,Done,12/09/2022 15:06,20/09/2022 18:27
+TACKLE-787,Bug,Closed,TACKLE,Konveyor Tackle,software,Duplicate,12/09/2022 09:46,30/09/2022 16:49
+TACKLE-786,Task,Release Pending,TACKLE,Konveyor Tackle,software,Done,12/09/2022 03:47,14/09/2022 01:29
+TACKLE-785,Task,Release Pending,TACKLE,Konveyor Tackle,software,Done,12/09/2022 03:46,19/09/2022 13:58
+TACKLE-784,Task,New,TACKLE,Konveyor Tackle,software,,11/09/2022 10:31,
+TACKLE-783,Task,Closed,TACKLE,Konveyor Tackle,software,Won't Do,09/09/2022 16:42,29/05/2024 23:28
+TACKLE-782,Task,Closed,TACKLE,Konveyor Tackle,software,Done,09/09/2022 14:43,12/12/2022 15:59
+TACKLE-781,Task,Closed,TACKLE,Konveyor Tackle,software,Done,08/09/2022 20:28,06/10/2022 09:45
+TACKLE-780,Task,Release Pending,TACKLE,Konveyor Tackle,software,Done,08/09/2022 20:25,17/10/2022 14:35
+TACKLE-779,Task,Release Pending,TACKLE,Konveyor Tackle,software,Done,08/09/2022 20:24,17/10/2022 14:34
+TACKLE-778,Task,Closed,TACKLE,Konveyor Tackle,software,Done,08/09/2022 20:24,12/09/2022 15:08
+TACKLE-777,Task,Release Pending,TACKLE,Konveyor Tackle,software,Done,08/09/2022 20:23,10/11/2022 15:46
+TACKLE-776,Task,Closed,TACKLE,Konveyor Tackle,software,Done,08/09/2022 20:21,11/09/2022 06:32
+TACKLE-775,Task,Closed,TACKLE,Konveyor Tackle,software,Done,08/09/2022 20:20,22/09/2022 10:23
+TACKLE-774,Task,Closed,TACKLE,Konveyor Tackle,software,Done,08/09/2022 20:19,16/09/2022 11:34
+TACKLE-773,Task,Release Pending,TACKLE,Konveyor Tackle,software,Done,08/09/2022 20:17,28/09/2022 14:30
+TACKLE-772,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,08/09/2022 06:02,23/12/2022 10:17
+TACKLE-771,Task,Release Pending,TACKLE,Konveyor Tackle,software,Done,31/08/2022 16:41,19/01/2023 02:38
+TACKLE-770,Task,Release Pending,TACKLE,Konveyor Tackle,software,Done,31/08/2022 16:42,10/11/2022 15:45
+TACKLE-769,Task,New,TACKLE,Konveyor Tackle,software,,06/09/2022 21:33,
+TACKLE-768,Task,New,TACKLE,Konveyor Tackle,software,,06/09/2022 21:32,
+TACKLE-767,Task,Release Pending,TACKLE,Konveyor Tackle,software,Done,06/09/2022 21:12,14/09/2022 02:27
+TACKLE-766,Task,Closed,TACKLE,Konveyor Tackle,software,Done,06/09/2022 21:05,15/02/2023 20:15
+TACKLE-765,Task,Closed,TACKLE,Konveyor Tackle,software,Done,06/09/2022 21:05,28/02/2023 12:54
+TACKLE-764,Task,Closed,TACKLE,Konveyor Tackle,software,Done,06/09/2022 21:04,28/02/2023 12:54
+TACKLE-763,Task,Closed,TACKLE,Konveyor Tackle,software,Done,06/09/2022 21:03,28/02/2023 12:54
+TACKLE-762,Task,New,TACKLE,Konveyor Tackle,software,,01/09/2022 14:26,
+TACKLE-761,Task,Closed,TACKLE,Konveyor Tackle,software,Done,01/09/2022 14:25,09/09/2022 10:35
+TACKLE-760,Task,Closed,TACKLE,Konveyor Tackle,software,Done,01/09/2022 14:24,16/09/2022 11:43
+TACKLE-759,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,31/08/2022 18:49,13/09/2022 07:09
+TACKLE-758,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,31/08/2022 18:27,13/09/2022 07:09
+TACKLE-757,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,31/08/2022 18:13,13/09/2022 07:09
+TACKLE-756,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,30/08/2022 19:30,13/09/2022 07:02
+TACKLE-751,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,25/08/2022 16:16,13/09/2022 07:09
+TACKLE-750,Task,Closed,TACKLE,Konveyor Tackle,software,Done,25/08/2022 09:58,16/09/2022 11:39
+TACKLE-749,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,25/08/2022 05:20,13/09/2022 07:10
+TACKLE-748,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,23/08/2022 11:52,13/09/2022 07:10
+TACKLE-747,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,23/08/2022 08:02,13/09/2022 07:10
+TACKLE-746,Task,Release Pending,TACKLE,Konveyor Tackle,software,Done,23/08/2022 03:07,13/09/2022 18:24
+TACKLE-745,Task,New,TACKLE,Konveyor Tackle,software,,23/08/2022 03:04,
+TACKLE-744,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,22/08/2022 12:20,13/09/2022 07:09
+TACKLE-743,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/08/2022 01:14,13/09/2022 07:09
+TACKLE-742,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/08/2022 00:54,13/09/2022 07:10
+TACKLE-741,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,18/08/2022 00:37,19/08/2022 13:59
+TACKLE-740,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,18/08/2022 00:31,13/09/2022 07:09
+TACKLE-739,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,18/08/2022 00:08,19/08/2022 00:23
+TACKLE-736,Task,Closed,TACKLE,Konveyor Tackle,software,Done,11/08/2022 07:36,15/01/2023 16:12
+TACKLE-735,Epic,Closed,TACKLE,Konveyor Tackle,software,Done,11/07/2022 17:46,15/01/2023 16:10
+TACKLE-734,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,10/08/2022 11:44,13/09/2022 07:10
+TACKLE-721,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,09/08/2022 14:38,13/09/2022 07:10
+TACKLE-720,Task,Release Pending,TACKLE,Konveyor Tackle,software,Done,09/08/2022 13:54,17/08/2022 14:47
+TACKLE-719,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,05/08/2022 15:04,25/01/2023 16:08
+TACKLE-718,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,31/07/2022 12:36,13/09/2022 07:10
+TACKLE-716,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,28/07/2022 19:27,13/09/2022 07:10
+TACKLE-715,Story,New,TACKLE,Konveyor Tackle,software,,28/07/2022 05:11,
+TACKLE-714,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,27/07/2022 20:30,13/09/2022 07:10
+TACKLE-713,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,27/07/2022 20:27,13/09/2022 07:09
+TACKLE-712,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,27/07/2022 09:01,13/09/2022 07:10
+TACKLE-711,Bug,ASSIGNED,TACKLE,Konveyor Tackle,software,,26/07/2022 21:25,
+TACKLE-710,Story,New,TACKLE,Konveyor Tackle,software,,26/07/2022 15:23,
+TACKLE-709,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,26/07/2022 15:01,13/09/2022 07:10
+TACKLE-708,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,26/07/2022 14:53,13/09/2022 07:10
+TACKLE-707,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,26/07/2022 10:24,28/07/2022 19:17
+TACKLE-706,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,26/07/2022 13:57,13/09/2022 07:10
+TACKLE-705,Story,New,TACKLE,Konveyor Tackle,software,,26/07/2022 13:44,
+TACKLE-704,Story,New,TACKLE,Konveyor Tackle,software,,26/07/2022 13:40,
+TACKLE-703,Story,New,TACKLE,Konveyor Tackle,software,,26/07/2022 13:33,
+TACKLE-702,Epic,New,TACKLE,Konveyor Tackle,software,,26/07/2022 13:29,
+TACKLE-701,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,25/07/2022 22:43,13/09/2022 07:10
+TACKLE-700,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,24/07/2022 19:32,27/07/2022 17:26
+TACKLE-699,Story,Release Pending,TACKLE,Konveyor Tackle,software,Done,22/07/2022 09:04,04/08/2022 12:39
+TACKLE-698,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,21/07/2022 16:13,30/01/2023 07:57
+TACKLE-697,Task,Closed,TACKLE,Konveyor Tackle,software,Done,19/07/2022 20:57,13/09/2022 07:02
+TACKLE-695,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,13/07/2022 21:38,13/09/2022 07:09
+TACKLE-694,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,13/07/2022 18:22,13/09/2022 07:10
+TACKLE-693,Story,Release Pending,TACKLE,Konveyor Tackle,software,Done,08/07/2022 10:20,11/08/2022 13:56
+TACKLE-692,Story,Release Pending,TACKLE,Konveyor Tackle,software,Done,08/07/2022 10:16,11/08/2022 13:56
+TACKLE-691,Story,Release Pending,TACKLE,Konveyor Tackle,software,Done,08/07/2022 10:10,05/08/2022 15:33
+TACKLE-690,Epic,Closed,TACKLE,Konveyor Tackle,software,Done,08/07/2022 09:57,21/07/2022 20:56
+TACKLE-689,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,06/07/2022 19:46,13/09/2022 07:09
+TACKLE-688,Epic,Refinement,TACKLE,Konveyor Tackle,software,,06/07/2022 10:17,
+TACKLE-687,Story,Closed,TACKLE,Konveyor Tackle,software,Done,06/07/2022 10:07,02/08/2022 14:40
+TACKLE-686,Story,Closed,TACKLE,Konveyor Tackle,software,Done,06/07/2022 10:06,04/08/2022 13:17
+TACKLE-685,Epic,Closed,TACKLE,Konveyor Tackle,software,Done,06/07/2022 09:56,13/09/2022 07:06
+TACKLE-684,Task,Closed,TACKLE,Konveyor Tackle,software,Done,05/07/2022 16:05,05/10/2022 12:17
+TACKLE-683,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,29/06/2022 20:01,13/09/2022 07:09
+TACKLE-682,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,27/06/2022 18:54,13/09/2022 07:10
+TACKLE-681,Task,Closed,TACKLE,Konveyor Tackle,software,Done,27/06/2022 08:28,20/07/2022 12:28
+TACKLE-680,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,21/06/2022 14:43,13/09/2022 07:10
+TACKLE-679,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,15/06/2022 19:10,13/09/2022 07:09
+TACKLE-678,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,15/06/2022 19:05,13/09/2022 07:09
+TACKLE-677,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,15/06/2022 15:30,13/09/2022 07:10
+TACKLE-676,Story,Release Pending,TACKLE,Konveyor Tackle,software,Done,15/06/2022 15:28,10/08/2022 14:40
+TACKLE-675,Story,Release Pending,TACKLE,Konveyor Tackle,software,Done,15/06/2022 15:27,10/08/2022 14:40
+TACKLE-674,Story,Release Pending,TACKLE,Konveyor Tackle,software,Done,15/06/2022 15:26,03/08/2022 12:52
+TACKLE-673,Epic,Closed,TACKLE,Konveyor Tackle,software,Done,15/06/2022 15:23,21/07/2022 20:59
+TACKLE-671,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,10/06/2022 01:09,13/09/2022 07:09
+TACKLE-670,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,09/06/2022 13:50,13/09/2022 07:09
+TACKLE-669,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,09/06/2022 11:46,13/09/2022 07:09
+TACKLE-668,Bug,Closed,TACKLE,Konveyor Tackle,software,Cannot Reproduce,09/06/2022 08:59,12/06/2022 07:17
+TACKLE-667,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,09/06/2022 08:46,13/09/2022 07:10
+TACKLE-665,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,08/06/2022 18:20,13/09/2022 07:10
+TACKLE-664,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,08/06/2022 18:07,09/06/2022 07:27
+TACKLE-663,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,08/06/2022 16:02,08/06/2022 16:34
+TACKLE-662,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,08/06/2022 15:07,08/06/2022 16:34
+TACKLE-661,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,07/06/2022 17:04,10/06/2022 00:58
+TACKLE-660,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,07/06/2022 15:23,08/06/2022 14:55
+TACKLE-659,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,07/06/2022 12:49,09/06/2022 14:07
+TACKLE-658,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,07/06/2022 03:00,13/09/2022 07:10
+TACKLE-657,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,06/06/2022 20:04,13/09/2022 07:10
+TACKLE-656,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,06/06/2022 20:01,21/06/2022 14:16
+TACKLE-655,Bug,Closed,TACKLE,Konveyor Tackle,software,Obsolete,06/06/2022 19:59,26/07/2022 14:13
+TACKLE-654,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,06/06/2022 14:16,31/01/2023 15:40
+TACKLE-653,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,06/06/2022 13:07,13/09/2022 07:10
+TACKLE-652,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,06/06/2022 11:03,08/06/2022 14:34
+TACKLE-651,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,06/06/2022 07:29,21/06/2022 14:46
+TACKLE-650,Bug,New,TACKLE,Konveyor Tackle,software,,02/06/2022 14:12,
+TACKLE-649,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,02/06/2022 09:27,02/06/2022 13:41
+TACKLE-648,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,02/06/2022 07:42,02/06/2022 15:14
+TACKLE-647,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,01/06/2022 20:50,11/08/2022 16:27
+TACKLE-646,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,01/06/2022 20:11,13/09/2022 07:10
+TACKLE-645,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,01/06/2022 05:21,01/06/2022 15:28
+TACKLE-644,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,31/05/2022 11:18,02/06/2022 20:31
+TACKLE-643,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,31/05/2022 08:51,01/06/2022 19:21
+TACKLE-642,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,30/05/2022 12:25,01/06/2022 15:29
+TACKLE-641,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,30/05/2022 05:38,02/06/2022 22:17
+TACKLE-639,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,27/05/2022 15:08,13/09/2022 07:10
+TACKLE-638,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,27/05/2022 12:35,01/06/2022 19:21
+TACKLE-637,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,25/05/2022 12:54,13/09/2022 07:09
+TACKLE-636,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,24/05/2022 12:16,24/05/2022 19:36
+TACKLE-635,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,23/05/2022 07:21,13/09/2022 07:09
+TACKLE-634,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/05/2022 16:28,13/09/2022 07:10
+TACKLE-633,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/05/2022 15:54,26/05/2022 14:19
+TACKLE-632,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/05/2022 08:53,23/05/2022 18:01
+TACKLE-631,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/05/2022 00:22,13/09/2022 07:10
+TACKLE-630,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/05/2022 00:14,23/05/2022 18:27
+TACKLE-629,Task,To Do,TACKLE,Konveyor Tackle,software,,18/05/2022 19:41,
+TACKLE-628,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,18/05/2022 17:27,18/05/2022 18:37
+TACKLE-627,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,18/05/2022 12:33,23/05/2022 17:50
+TACKLE-626,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,18/05/2022 10:25,19/05/2022 20:28
+TACKLE-625,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,18/05/2022 08:41,18/05/2022 13:43
+TACKLE-624,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,17/05/2022 15:34,19/05/2022 19:42
+TACKLE-623,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,17/05/2022 13:42,26/05/2022 12:37
+TACKLE-622,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,17/05/2022 08:02,23/05/2022 20:23
+TACKLE-621,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,17/05/2022 06:37,13/09/2022 07:10
+TACKLE-620,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,16/05/2022 20:05,23/05/2022 17:50
+TACKLE-619,Story,Closed,TACKLE,Konveyor Tackle,software,Done,16/05/2022 17:05,16/05/2022 17:19
+TACKLE-618,Bug,Closed,TACKLE,Konveyor Tackle,software,Duplicate,16/05/2022 13:34,16/05/2022 19:03
+TACKLE-617,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,16/05/2022 12:40,17/05/2022 16:47
+TACKLE-616,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,16/05/2022 10:10,19/05/2022 21:08
+TACKLE-615,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,15/05/2022 16:49,25/05/2022 20:44
+TACKLE-614,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,15/05/2022 16:05,15/05/2022 16:07
+TACKLE-613,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,15/05/2022 12:09,17/05/2022 22:24
+TACKLE-612,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,13/05/2022 18:46,17/05/2022 13:28
+TACKLE-611,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,13/05/2022 17:33,18/05/2022 14:02
+TACKLE-610,Task,Closed,TACKLE,Konveyor Tackle,software,Done,13/05/2022 13:35,29/06/2022 15:50
+TACKLE-609,Bug,Closed,TACKLE,Konveyor Tackle,software,Cannot Reproduce,13/05/2022 00:57,10/06/2022 13:01
+TACKLE-608,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,12/05/2022 23:48,13/05/2022 13:36
+TACKLE-607,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,12/05/2022 19:30,25/05/2022 20:41
+TACKLE-606,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,12/05/2022 18:12,17/05/2022 13:25
+TACKLE-605,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,12/05/2022 17:58,16/05/2022 21:07
+TACKLE-604,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,12/05/2022 17:51,25/05/2022 20:04
+TACKLE-603,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,12/05/2022 17:43,17/05/2022 13:37
+TACKLE-602,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,12/05/2022 17:40,18/05/2022 14:02
+TACKLE-601,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,12/05/2022 17:33,25/05/2022 20:03
+TACKLE-600,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,12/05/2022 16:27,25/05/2022 20:47
+TACKLE-599,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,12/05/2022 13:53,17/05/2022 13:26
+TACKLE-598,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,12/05/2022 12:29,15/05/2022 06:34
+TACKLE-597,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,12/05/2022 11:53,18/05/2022 11:41
+TACKLE-596,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,12/05/2022 09:16,18/05/2022 12:24
+TACKLE-595,Bug,Closed,TACKLE,Konveyor Tackle,software,Duplicate,12/05/2022 08:21,26/05/2022 05:01
+TACKLE-594,Bug,Closed,TACKLE,Konveyor Tackle,software,Duplicate,12/05/2022 08:06,18/05/2022 12:18
+TACKLE-593,Bug,Closed,TACKLE,Konveyor Tackle,software,Duplicate,12/05/2022 07:36,15/05/2022 06:40
+TACKLE-592,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,12/05/2022 02:52,23/05/2022 18:20
+TACKLE-591,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,12/05/2022 02:50,23/05/2022 18:19
+TACKLE-590,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,12/05/2022 02:12,14/06/2022 16:52
+TACKLE-589,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,12/05/2022 01:32,17/05/2022 14:09
+TACKLE-588,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,11/05/2022 16:53,17/05/2022 13:25
+TACKLE-587,Bug,Closed,TACKLE,Konveyor Tackle,software,Duplicate,11/05/2022 14:33,17/05/2022 14:05
+TACKLE-586,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,11/05/2022 09:28,11/05/2022 20:19
+TACKLE-584,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,11/05/2022 03:02,17/05/2022 13:28
+TACKLE-583,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,11/05/2022 02:59,23/05/2022 18:22
+TACKLE-582,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,11/05/2022 02:52,17/05/2022 13:27
+TACKLE-581,Bug,New,TACKLE,Konveyor Tackle,software,,10/05/2022 17:52,
+TACKLE-580,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,10/05/2022 17:12,17/05/2022 13:33
+TACKLE-579,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,10/05/2022 16:57,17/05/2022 15:40
+TACKLE-578,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,10/05/2022 15:16,16/05/2022 12:12
+TACKLE-577,Bug,Closed,TACKLE,Konveyor Tackle,software,Won't Do,09/05/2022 23:46,31/01/2023 15:39
+TACKLE-576,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,09/05/2022 09:14,18/05/2022 14:03
+TACKLE-575,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,09/05/2022 09:14,25/05/2022 16:37
+TACKLE-574,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,09/05/2022 08:44,09/05/2022 16:45
+TACKLE-573,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,09/05/2022 08:20,18/05/2022 14:01
+TACKLE-572,Bug,Closed,TACKLE,Konveyor Tackle,software,Duplicate,09/05/2022 07:26,09/05/2022 08:54
+TACKLE-571,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,09/05/2022 06:33,11/05/2022 09:47
+TACKLE-570,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,08/05/2022 16:17,10/05/2022 22:14
+TACKLE-569,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,08/05/2022 16:00,12/05/2022 17:35
+TACKLE-568,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,08/05/2022 14:29,09/05/2022 05:41
+TACKLE-567,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,08/05/2022 06:33,09/05/2022 05:42
+TACKLE-566,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,06/05/2022 12:14,17/05/2022 18:26
+TACKLE-565,Bug,Closed,TACKLE,Konveyor Tackle,software,Duplicate,06/05/2022 11:56,09/05/2022 14:23
+TACKLE-564,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,06/05/2022 06:31,16/05/2022 09:55
+TACKLE-563,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,06/05/2022 04:47,23/05/2022 18:22
+TACKLE-562,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,06/05/2022 00:36,16/05/2022 18:58
+TACKLE-561,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,05/05/2022 21:02,17/05/2022 13:52
+TACKLE-560,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,05/05/2022 07:28,13/05/2022 12:45
+TACKLE-559,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,05/05/2022 03:52,17/05/2022 20:55
+TACKLE-558,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,05/05/2022 00:24,13/09/2022 07:09
+TACKLE-557,Story,To Do,TACKLE,Konveyor Tackle,software,,05/05/2022 00:15,
+TACKLE-556,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,04/05/2022 22:46,31/05/2022 19:59
+TACKLE-555,Bug,Closed,TACKLE,Konveyor Tackle,software,Duplicate,04/05/2022 22:37,09/05/2022 16:22
+TACKLE-554,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,04/05/2022 20:30,17/05/2022 20:55
+TACKLE-553,Story,To Do,TACKLE,Konveyor Tackle,software,,04/05/2022 19:46,
+TACKLE-552,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,04/05/2022 16:46,05/05/2022 17:31
+TACKLE-551,Task,Closed,TACKLE,Konveyor Tackle,software,Done,04/05/2022 14:48,17/05/2022 12:12
+TACKLE-550,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,04/05/2022 05:43,25/05/2022 20:46
+TACKLE-549,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,04/05/2022 04:37,05/05/2022 13:48
+TACKLE-548,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,04/05/2022 04:28,05/05/2022 13:49
+TACKLE-547,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,04/05/2022 04:10,19/05/2022 20:10
+TACKLE-546,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,03/05/2022 21:52,27/05/2022 16:53
+TACKLE-545,Story,To Do,TACKLE,Konveyor Tackle,software,,03/05/2022 16:54,
+TACKLE-544,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,03/05/2022 13:56,10/05/2022 21:56
+TACKLE-543,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,03/05/2022 11:14,03/05/2022 15:16
+TACKLE-542,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,03/05/2022 10:43,23/05/2022 18:16
+TACKLE-541,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,03/05/2022 06:06,13/09/2022 07:09
+TACKLE-540,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,02/05/2022 22:42,11/05/2022 03:58
+TACKLE-539,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,02/05/2022 21:47,03/05/2022 15:20
+TACKLE-538,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,02/05/2022 16:10,13/09/2022 07:09
+TACKLE-537,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,02/05/2022 15:40,13/05/2022 18:38
+TACKLE-536,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,02/05/2022 15:08,19/05/2022 00:09
+TACKLE-534,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,02/05/2022 12:58,23/05/2022 17:50
+TACKLE-533,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,02/05/2022 09:14,09/06/2022 12:21
+TACKLE-532,Story,To Do,TACKLE,Konveyor Tackle,software,,02/05/2022 04:50,
+TACKLE-531,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,01/05/2022 19:52,13/09/2022 07:09
+TACKLE-530,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,01/05/2022 17:33,02/05/2022 13:38
+TACKLE-529,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,01/05/2022 15:22,12/05/2022 06:38
+TACKLE-528,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,01/05/2022 12:29,13/09/2022 07:10
+TACKLE-527,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,01/05/2022 12:15,03/05/2022 12:18
+TACKLE-526,Bug,Closed,TACKLE,Konveyor Tackle,software,Won't Do,01/05/2022 11:59,22/07/2022 17:21
+TACKLE-525,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,01/05/2022 07:32,13/09/2022 07:10
+TACKLE-524,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,01/05/2022 07:30,13/09/2022 07:10
+TACKLE-523,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,29/04/2022 18:06,03/05/2022 13:48
+TACKLE-522,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,29/04/2022 17:20,11/05/2022 03:59
+TACKLE-521,Story,To Do,TACKLE,Konveyor Tackle,software,,28/04/2022 21:30,
+TACKLE-520,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,28/04/2022 18:02,29/04/2022 16:05
+TACKLE-519,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,28/04/2022 14:24,28/04/2022 20:03
+TACKLE-518,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,28/04/2022 13:44,25/05/2022 14:55
+TACKLE-517,Bug,Closed,TACKLE,Konveyor Tackle,software,Cannot Reproduce,28/04/2022 11:23,01/05/2022 13:20
+TACKLE-515,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,28/04/2022 04:33,04/05/2022 19:45
+TACKLE-514,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,28/04/2022 03:16,29/04/2022 20:52
+TACKLE-513,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,28/04/2022 03:05,09/05/2022 15:02
+TACKLE-512,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,28/04/2022 02:55,25/05/2022 13:49
+TACKLE-511,Story,Closed,TACKLE,Konveyor Tackle,software,Won't Do,28/04/2022 00:43,24/05/2022 13:35
+TACKLE-510,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,27/04/2022 22:37,29/04/2022 14:13
+TACKLE-509,Story,To Do,TACKLE,Konveyor Tackle,software,,27/04/2022 22:24,
+TACKLE-508,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,27/04/2022 22:15,03/05/2022 15:12
+TACKLE-507,Task,In Progress,TACKLE,Konveyor Tackle,software,,27/04/2022 15:59,
+TACKLE-506,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,27/04/2022 11:16,27/05/2022 14:48
+TACKLE-505,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,27/04/2022 10:45,03/05/2022 07:21
+TACKLE-504,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,27/04/2022 10:31,10/05/2022 14:21
+TACKLE-503,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,27/04/2022 05:50,11/05/2022 17:18
+TACKLE-502,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,27/04/2022 05:42,04/05/2022 19:51
+TACKLE-501,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,27/04/2022 05:16,27/04/2022 09:31
+TACKLE-500,Bug,Closed,TACKLE,Konveyor Tackle,software,Cannot Reproduce,27/04/2022 05:13,05/05/2022 17:10
+TACKLE-499,Story,Release Pending,TACKLE,Konveyor Tackle,software,Done,27/04/2022 05:11,28/06/2022 18:56
+TACKLE-498,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,27/04/2022 04:05,29/04/2022 14:10
+TACKLE-497,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,27/04/2022 03:54,29/04/2022 14:09
+TACKLE-496,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,27/04/2022 03:46,29/04/2022 14:06
+TACKLE-495,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,26/04/2022 11:44,03/05/2022 13:01
+TACKLE-494,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,25/04/2022 09:49,25/04/2022 13:37
+TACKLE-493,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,22/04/2022 08:53,05/05/2022 19:33
+TACKLE-492,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,20/04/2022 14:52,25/05/2022 20:51
+TACKLE-491,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,20/04/2022 03:46,20/04/2022 15:42
+TACKLE-490,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/04/2022 14:27,26/04/2022 10:08
+TACKLE-489,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/04/2022 09:11,20/04/2022 00:41
+TACKLE-488,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/04/2022 08:32,01/05/2022 14:20
+TACKLE-487,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/04/2022 06:03,05/05/2022 19:32
+TACKLE-486,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/04/2022 05:00,21/04/2022 01:29
+TACKLE-485,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/04/2022 02:01,21/04/2022 02:02
+TACKLE-484,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/04/2022 00:32,21/04/2022 01:57
+TACKLE-483,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/04/2022 00:26,21/04/2022 01:43
+TACKLE-482,Bug,Closed,TACKLE,Konveyor Tackle,software,Cannot Reproduce,18/04/2022 08:50,24/05/2022 13:38
+TACKLE-481,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,14/04/2022 21:46,22/04/2022 19:42
+TACKLE-480,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,14/04/2022 15:01,14/04/2022 20:42
+TACKLE-479,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,14/04/2022 08:12,22/04/2022 20:14
+TACKLE-478,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,13/04/2022 22:13,18/04/2022 20:32
+TACKLE-477,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,13/04/2022 22:06,18/04/2022 18:17
+TACKLE-476,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,13/04/2022 21:38,14/04/2022 13:03
+TACKLE-475,Bug,Closed,TACKLE,Konveyor Tackle,software,Cannot Reproduce,13/04/2022 18:48,04/05/2022 21:57
+TACKLE-474,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,13/04/2022 18:43,14/04/2022 21:20
+TACKLE-473,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,13/04/2022 18:35,14/04/2022 12:53
+TACKLE-472,Story,To Do,TACKLE,Konveyor Tackle,software,,13/04/2022 00:00,
+TACKLE-471,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,12/04/2022 23:42,21/04/2022 12:39
+TACKLE-470,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,12/04/2022 23:27,13/04/2022 13:51
+TACKLE-469,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,12/04/2022 23:19,11/05/2022 20:48
+TACKLE-468,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,12/04/2022 23:10,02/05/2022 19:00
+TACKLE-467,Story,In Progress,TACKLE,Konveyor Tackle,software,,12/04/2022 21:09,
+TACKLE-466,Story,In Progress,TACKLE,Konveyor Tackle,software,,12/04/2022 21:07,
+TACKLE-465,Story,In Progress,TACKLE,Konveyor Tackle,software,,12/04/2022 21:07,
+TACKLE-464,Story,In Progress,TACKLE,Konveyor Tackle,software,,12/04/2022 21:06,
+TACKLE-463,Story,Testing,TACKLE,Konveyor Tackle,software,,12/04/2022 21:05,
+TACKLE-462,Story,Release Pending,TACKLE,Konveyor Tackle,software,Done,12/04/2022 21:04,16/11/2022 11:23
+TACKLE-461,Story,In Progress,TACKLE,Konveyor Tackle,software,,12/04/2022 21:03,
+TACKLE-460,Story,Release Pending,TACKLE,Konveyor Tackle,software,Done,12/04/2022 21:02,16/11/2022 11:25
+TACKLE-459,Story,In Progress,TACKLE,Konveyor Tackle,software,,12/04/2022 21:01,
+TACKLE-458,Story,Testing,TACKLE,Konveyor Tackle,software,,12/04/2022 20:59,
+TACKLE-457,Story,In Progress,TACKLE,Konveyor Tackle,software,,12/04/2022 20:57,
+TACKLE-456,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,12/04/2022 19:50,02/05/2022 18:44
+TACKLE-455,Story,Closed,TACKLE,Konveyor Tackle,software,Won't Do,12/04/2022 16:51,15/06/2022 12:23
+TACKLE-454,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,11/04/2022 23:08,21/04/2022 20:48
+TACKLE-453,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,11/04/2022 10:25,29/04/2022 14:04
+TACKLE-452,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,11/04/2022 10:17,10/05/2022 14:20
+TACKLE-451,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,11/04/2022 06:40,13/05/2022 17:00
+TACKLE-450,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,11/04/2022 06:06,20/04/2022 22:19
+TACKLE-449,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,11/04/2022 04:36,20/04/2022 19:34
+TACKLE-448,Task,Closed,TACKLE,Konveyor Tackle,software,Duplicate,08/04/2022 06:15,03/05/2022 12:10
+TACKLE-447,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,07/04/2022 07:02,20/04/2022 17:46
+TACKLE-446,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,07/04/2022 08:19,13/04/2022 13:51
+TACKLE-445,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,07/04/2022 06:31,20/04/2022 19:29
+TACKLE-444,Task,Closed,TACKLE,Konveyor Tackle,software,Done,07/04/2022 00:45,02/05/2022 18:53
+TACKLE-443,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,07/04/2022 00:41,02/05/2022 18:54
+TACKLE-442,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,07/04/2022 00:29,12/04/2022 13:43
+TACKLE-441,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,06/04/2022 12:52,19/04/2022 19:04
+TACKLE-440,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,06/04/2022 00:22,12/04/2022 13:44
+TACKLE-439,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,06/04/2022 00:15,12/04/2022 01:08
+TACKLE-438,Task,Closed,TACKLE,Konveyor Tackle,software,Done,05/04/2022 21:32,12/04/2022 10:36
+TACKLE-437,Task,Closed,TACKLE,Konveyor Tackle,software,Done,05/04/2022 21:28,12/04/2022 10:38
+TACKLE-436,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,05/04/2022 21:04,05/05/2022 17:36
+TACKLE-435,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,05/04/2022 20:43,25/05/2022 16:47
+TACKLE-434,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,05/04/2022 08:31,18/04/2022 23:45
+TACKLE-433,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,05/04/2022 08:15,18/04/2022 21:03
+TACKLE-432,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,05/04/2022 07:56,18/04/2022 21:02
+TACKLE-431,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,05/04/2022 05:27,21/04/2022 01:33
+TACKLE-430,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,05/04/2022 00:49,07/04/2022 13:05
+TACKLE-429,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,05/04/2022 00:30,11/05/2022 07:09
+TACKLE-428,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,04/04/2022 23:52,07/04/2022 12:59
+TACKLE-427,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,04/04/2022 23:37,09/05/2022 06:05
+TACKLE-426,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,04/04/2022 23:17,07/04/2022 13:05
+TACKLE-425,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,04/04/2022 18:31,08/04/2022 12:21
+TACKLE-424,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,04/04/2022 18:21,31/05/2022 16:10
+TACKLE-423,Task,Closed,TACKLE,Konveyor Tackle,software,Done,04/04/2022 17:23,08/04/2022 14:43
+TACKLE-422,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,04/04/2022 10:00,14/04/2022 03:38
+TACKLE-421,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,04/04/2022 09:22,07/04/2022 19:46
+TACKLE-420,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,04/04/2022 09:07,07/04/2022 19:44
+TACKLE-419,Story,Release Pending,TACKLE,Konveyor Tackle,software,Done,04/04/2022 08:59,24/01/2023 18:14
+TACKLE-418,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,04/04/2022 08:50,07/04/2022 19:44
+TACKLE-417,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,04/04/2022 08:30,21/06/2022 15:51
+TACKLE-416,Epic,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 11:32,15/06/2022 12:05
+TACKLE-415,Epic,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 11:30,15/06/2022 12:05
+TACKLE-414,Epic,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 11:28,15/06/2022 12:05
+TACKLE-413,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 11:27,02/04/2022 18:33
+TACKLE-412,Story,To Do,TACKLE,Konveyor Tackle,software,,07/03/2022 11:26,
+TACKLE-411,Story,To Do,TACKLE,Konveyor Tackle,software,,07/03/2022 11:25,
+TACKLE-410,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 11:23,02/04/2022 18:33
+TACKLE-409,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 11:22,02/04/2022 18:33
+TACKLE-408,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 11:21,02/04/2022 18:32
+TACKLE-407,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 11:17,02/04/2022 18:32
+TACKLE-406,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 11:17,02/04/2022 18:32
+TACKLE-405,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 11:17,02/04/2022 18:32
+TACKLE-404,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 11:16,02/04/2022 18:31
+TACKLE-403,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 11:15,02/04/2022 18:31
+TACKLE-402,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 11:12,02/04/2022 18:31
+TACKLE-401,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 11:11,02/04/2022 18:31
+TACKLE-400,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 11:11,02/04/2022 18:31
+TACKLE-399,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 11:10,02/04/2022 18:30
+TACKLE-398,Epic,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:52,17/05/2022 13:37
+TACKLE-397,Epic,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:51,15/06/2022 12:05
+TACKLE-396,Epic,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:50,15/06/2022 12:05
+TACKLE-395,Epic,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:47,15/06/2022 12:04
+TACKLE-394,Epic,Refinement,TACKLE,Konveyor Tackle,software,,07/03/2022 10:46,
+TACKLE-393,Epic,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:45,15/06/2022 12:04
+TACKLE-392,Epic,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:44,15/06/2022 12:04
+TACKLE-391,Epic,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:43,15/06/2022 12:03
+TACKLE-390,Epic,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:41,15/06/2022 12:03
+TACKLE-389,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:38,02/04/2022 18:30
+TACKLE-388,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:38,02/04/2022 18:30
+TACKLE-387,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:37,02/04/2022 18:29
+TACKLE-386,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:32,02/04/2022 18:29
+TACKLE-385,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:31,02/04/2022 18:29
+TACKLE-384,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:31,02/04/2022 18:29
+TACKLE-383,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:30,21/04/2022 19:55
+TACKLE-382,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:30,02/04/2022 18:28
+TACKLE-381,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:30,13/05/2022 17:05
+TACKLE-380,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:29,13/05/2022 17:04
+TACKLE-379,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:29,02/04/2022 18:28
+TACKLE-378,Story,To Do,TACKLE,Konveyor Tackle,software,,07/03/2022 10:29,
+TACKLE-377,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:28,02/04/2022 18:27
+TACKLE-376,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:27,21/04/2022 18:36
+TACKLE-375,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:24,02/04/2022 18:27
+TACKLE-374,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:24,02/04/2022 18:27
+TACKLE-373,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:23,02/04/2022 18:27
+TACKLE-372,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:22,21/04/2022 18:37
+TACKLE-371,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:22,02/04/2022 18:26
+TACKLE-370,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:21,02/04/2022 18:26
+TACKLE-369,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:21,02/04/2022 18:26
+TACKLE-368,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:20,21/04/2022 01:31
+TACKLE-367,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:20,30/03/2022 16:54
+TACKLE-366,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:19,30/03/2022 16:54
+TACKLE-365,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:19,02/04/2022 18:26
+TACKLE-364,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:18,02/04/2022 18:25
+TACKLE-363,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:18,02/04/2022 18:25
+TACKLE-362,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:18,30/03/2022 16:51
+TACKLE-361,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:17,30/03/2022 16:50
+TACKLE-360,Story,Closed,TACKLE,Konveyor Tackle,software,Done,07/03/2022 10:16,30/03/2022 16:52
+TACKLE-359,Task,In Progress,TACKLE,Konveyor Tackle,software,,15/02/2022 13:52,
+TACKLE-358,Task,To Do,TACKLE,Konveyor Tackle,software,,27/01/2022 14:54,
+TACKLE-357,Task,Closed,TACKLE,Konveyor Tackle,software,Done,25/01/2022 15:18,20/04/2022 14:56
+TACKLE-356,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,25/01/2022 11:47,26/01/2022 10:36
+TACKLE-355,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,18/01/2022 13:57,19/01/2022 16:21
+TACKLE-354,Task,Closed,TACKLE,Konveyor Tackle,software,Done,14/01/2022 16:01,20/01/2022 12:36
+TACKLE-353,Task,To Do,TACKLE,Konveyor Tackle,software,,06/01/2022 12:41,
+TACKLE-352,Task,To Do,TACKLE,Konveyor Tackle,software,,06/01/2022 12:37,
+TACKLE-351,Task,To Do,TACKLE,Konveyor Tackle,software,,06/01/2022 12:33,
+TACKLE-350,Task,To Do,TACKLE,Konveyor Tackle,software,,06/01/2022 12:25,
+TACKLE-349,Task,Closed,TACKLE,Konveyor Tackle,software,Done,06/01/2022 12:22,31/01/2022 17:31
+TACKLE-348,Task,Closed,TACKLE,Konveyor Tackle,software,Done,06/01/2022 12:17,18/01/2022 16:21
+TACKLE-347,Task,Closed,TACKLE,Konveyor Tackle,software,Done,06/01/2022 12:10,13/01/2022 09:51
+TACKLE-346,Task,Closed,TACKLE,Konveyor Tackle,software,Done,06/01/2022 12:07,27/01/2022 18:10
+TACKLE-345,Task,Closed,TACKLE,Konveyor Tackle,software,Done,06/01/2022 12:00,26/01/2022 13:30
+TACKLE-344,Story,To Do,TACKLE,Konveyor Tackle,software,,06/01/2022 11:45,
+TACKLE-343,Story,To Do,TACKLE,Konveyor Tackle,software,,06/01/2022 11:43,
+TACKLE-342,Story,To Do,TACKLE,Konveyor Tackle,software,,06/01/2022 11:41,
+TACKLE-341,Story,To Do,TACKLE,Konveyor Tackle,software,,06/01/2022 11:39,
+TACKLE-340,Story,To Do,TACKLE,Konveyor Tackle,software,,06/01/2022 11:35,
+TACKLE-339,Story,Closed,TACKLE,Konveyor Tackle,software,Duplicate,06/01/2022 11:34,15/06/2022 12:24
+TACKLE-338,Story,Closed,TACKLE,Konveyor Tackle,software,Duplicate,06/01/2022 11:32,15/06/2022 12:24
+TACKLE-337,Story,Closed,TACKLE,Konveyor Tackle,software,Duplicate,06/01/2022 11:29,15/06/2022 12:24
+TACKLE-336,Story,Closed,TACKLE,Konveyor Tackle,software,Duplicate,06/01/2022 11:27,15/06/2022 12:24
+TACKLE-335,Story,Closed,TACKLE,Konveyor Tackle,software,Duplicate,06/01/2022 11:25,15/06/2022 12:24
+TACKLE-334,Task,Closed,TACKLE,Konveyor Tackle,software,Done,17/12/2021 14:36,10/01/2022 10:45
+TACKLE-333,Task,Closed,TACKLE,Konveyor Tackle,software,Done,08/12/2021 15:06,07/03/2022 16:26
+TACKLE-332,Task,To Do,TACKLE,Konveyor Tackle,software,,26/11/2021 12:13,
+TACKLE-331,Story,Closed,TACKLE,Konveyor Tackle,software,Done,21/11/2021 10:04,22/11/2021 12:42
+TACKLE-330,Bug,ASSIGNED,TACKLE,Konveyor Tackle,software,,17/11/2021 14:32,
+TACKLE-328,Task,To Do,TACKLE,Konveyor Tackle,software,,05/11/2021 09:34,
+TACKLE-327,Epic,Refinement,TACKLE,Konveyor Tackle,software,,05/11/2021 09:33,
+TACKLE-326,Task,Closed,TACKLE,Konveyor Tackle,software,Done,05/11/2021 09:09,26/11/2021 09:53
+TACKLE-325,Task,Closed,TACKLE,Konveyor Tackle,software,Done,05/11/2021 09:03,08/11/2021 15:50
+TACKLE-324,Task,To Do,TACKLE,Konveyor Tackle,software,,05/11/2021 08:54,
+TACKLE-323,Task,Closed,TACKLE,Konveyor Tackle,software,Done,04/11/2021 14:00,26/11/2021 09:01
+TACKLE-321,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,02/11/2021 19:21,26/05/2022 16:42
+TACKLE-320,Bug,New,TACKLE,Konveyor Tackle,software,,19/10/2021 10:16,
+TACKLE-319,Task,Closed,TACKLE,Konveyor Tackle,software,Done,15/10/2021 16:26,26/11/2021 09:03
+TACKLE-318,Task,Closed,TACKLE,Konveyor Tackle,software,Done,14/10/2021 14:51,29/10/2021 12:09
+TACKLE-317,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,29/09/2021 17:44,05/10/2021 16:02
+TACKLE-316,Task,In Progress,TACKLE,Konveyor Tackle,software,,23/09/2021 13:33,
+TACKLE-315,Story,Closed,TACKLE,Konveyor Tackle,software,Done,17/09/2021 10:18,05/10/2021 08:02
+TACKLE-314,Story,To Do,TACKLE,Konveyor Tackle,software,,16/09/2021 07:27,
+TACKLE-313,Story,To Do,TACKLE,Konveyor Tackle,software,,15/09/2021 10:54,
+TACKLE-312,Task,Closed,TACKLE,Konveyor Tackle,software,Done,06/09/2021 13:00,30/09/2021 08:08
+TACKLE-311,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,10/08/2021 04:54,10/01/2022 11:01
+TACKLE-310,Bug,New,TACKLE,Konveyor Tackle,software,,06/08/2021 04:43,
+TACKLE-306,Story,To Do,TACKLE,Konveyor Tackle,software,,30/07/2021 17:08,
+TACKLE-305,Bug,New,TACKLE,Konveyor Tackle,software,,30/07/2021 16:47,
+TACKLE-304,Task,In Progress,TACKLE,Konveyor Tackle,software,,23/07/2021 13:52,
+TACKLE-303,Epic,Refinement,TACKLE,Konveyor Tackle,software,,23/07/2021 13:48,
+TACKLE-299,Task,Closed,TACKLE,Konveyor Tackle,software,Won't Do,21/07/2021 09:05,15/06/2022 12:36
+TACKLE-298,Story,Closed,TACKLE,Konveyor Tackle,software,Done,16/07/2021 14:42,15/06/2022 13:05
+TACKLE-297,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,14/07/2021 18:08,16/08/2021 14:21
+TACKLE-294,Task,Closed,TACKLE,Konveyor Tackle,software,Done,06/07/2021 10:17,01/09/2021 13:07
+TACKLE-291,Epic,Refinement,TACKLE,Konveyor Tackle,software,,02/07/2021 09:12,
+TACKLE-290,Task,Closed,TACKLE,Konveyor Tackle,software,Done,02/07/2021 08:33,20/08/2021 09:25
+TACKLE-289,Task,In Progress,TACKLE,Konveyor Tackle,software,,02/07/2021 08:30,
+TACKLE-288,Bug,Closed,TACKLE,Konveyor Tackle,software,Won't Do,02/07/2021 06:17,16/08/2021 10:16
+TACKLE-286,Story,Closed,TACKLE,Konveyor Tackle,software,Done,01/07/2021 11:18,14/09/2021 08:52
+TACKLE-285,Task,Closed,TACKLE,Konveyor Tackle,software,Done,01/07/2021 11:17,15/07/2021 14:58
+TACKLE-284,Task,Closed,TACKLE,Konveyor Tackle,software,Done,01/07/2021 08:30,05/08/2021 10:53
+TACKLE-283,Task,Closed,TACKLE,Konveyor Tackle,software,Done,01/07/2021 07:43,12/07/2021 08:51
+TACKLE-282,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,29/06/2021 21:17,01/07/2021 15:03
+TACKLE-281,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,29/06/2021 20:50,30/06/2021 18:35
+TACKLE-279,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,28/06/2021 23:54,29/06/2021 10:01
+TACKLE-278,Bug,Closed,TACKLE,Konveyor Tackle,software,Duplicate,28/06/2021 23:02,02/07/2021 12:38
+TACKLE-276,Bug,New,TACKLE,Konveyor Tackle,software,,28/06/2021 14:14,
+TACKLE-274,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,28/06/2021 09:45,25/08/2021 10:16
+TACKLE-273,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,28/06/2021 08:53,28/06/2021 10:58
+TACKLE-272,Bug,MODIFIED,TACKLE,Konveyor Tackle,software,,28/06/2021 07:40,
+TACKLE-271,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,28/06/2021 05:08,12/08/2021 07:43
+TACKLE-270,Bug,New,TACKLE,Konveyor Tackle,software,,28/06/2021 04:16,
+TACKLE-269,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,28/06/2021 04:09,06/09/2021 09:22
+TACKLE-268,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,26/06/2021 11:19,25/08/2021 10:16
+TACKLE-267,Bug,New,TACKLE,Konveyor Tackle,software,,26/06/2021 11:09,
+TACKLE-266,Bug,New,TACKLE,Konveyor Tackle,software,,26/06/2021 10:38,
+TACKLE-265,Bug,New,TACKLE,Konveyor Tackle,software,,25/06/2021 05:32,
+TACKLE-264,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,23/06/2021 11:35,25/06/2021 13:28
+TACKLE-263,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,22/06/2021 11:55,24/06/2021 14:52
+TACKLE-262,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,22/06/2021 06:33,14/09/2021 15:41
+TACKLE-260,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,18/06/2021 14:53,21/06/2021 08:53
+TACKLE-259,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,18/06/2021 14:44,22/06/2021 10:29
+TACKLE-258,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,18/06/2021 14:40,21/06/2021 08:21
+TACKLE-257,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,18/06/2021 11:24,31/05/2022 20:18
+TACKLE-255,Bug,New,TACKLE,Konveyor Tackle,software,,18/06/2021 09:29,
+TACKLE-253,Bug,Closed,TACKLE,Konveyor Tackle,software,Duplicate,17/06/2021 12:29,18/06/2021 09:05
+TACKLE-252,Bug,Closed,TACKLE,Konveyor Tackle,software,Duplicate,17/06/2021 12:25,17/06/2021 18:46
+TACKLE-251,Bug,Closed,TACKLE,Konveyor Tackle,software,Duplicate,17/06/2021 11:15,16/08/2021 10:44
+TACKLE-250,Task,To Do,TACKLE,Konveyor Tackle,software,,17/06/2021 09:32,
+TACKLE-248,Task,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,16/06/2021 00:02,22/06/2021 09:44
+TACKLE-247,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,15/06/2021 23:50,21/06/2021 11:00
+TACKLE-246,Bug,Closed,TACKLE,Konveyor Tackle,software,Cannot Reproduce,15/06/2021 22:43,15/06/2021 23:30
+TACKLE-245,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,15/06/2021 06:43,18/06/2021 09:52
+TACKLE-244,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,15/06/2021 06:15,06/09/2021 09:21
+TACKLE-243,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,15/06/2021 04:51,22/06/2021 15:05
+TACKLE-242,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,15/06/2021 03:21,26/05/2022 16:42
+TACKLE-241,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,15/06/2021 03:08,25/06/2021 13:29
+TACKLE-240,Task,Closed,TACKLE,Konveyor Tackle,software,Done,14/06/2021 10:18,30/06/2021 07:49
+TACKLE-239,Task,To Do,TACKLE,Konveyor Tackle,software,,14/06/2021 08:30,
+TACKLE-238,Task,Closed,TACKLE,Konveyor Tackle,software,Won't Do,13/06/2021 08:02,14/06/2021 09:15
+TACKLE-237,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,10/06/2021 14:01,17/06/2021 08:56
+TACKLE-235,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,10/06/2021 13:08,22/06/2021 09:50
+TACKLE-234,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,10/06/2021 12:57,22/06/2021 09:51
+TACKLE-233,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,10/06/2021 12:53,22/06/2021 09:52
+TACKLE-232,Bug,Closed,TACKLE,Konveyor Tackle,software,Duplicate,10/06/2021 11:16,18/06/2021 09:55
+TACKLE-231,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,10/06/2021 09:49,06/08/2021 14:30
+TACKLE-228,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,09/06/2021 21:59,14/09/2021 15:40
+TACKLE-225,Task,Closed,TACKLE,Konveyor Tackle,software,Won't Do,07/06/2021 12:04,15/06/2022 12:23
+TACKLE-221,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,03/06/2021 14:57,01/07/2021 07:16
+TACKLE-217,Task,Closed,TACKLE,Konveyor Tackle,software,Won't Do,31/05/2021 17:36,15/06/2022 12:23
+TACKLE-216,Task,Closed,TACKLE,Konveyor Tackle,software,Done,31/05/2021 17:36,01/09/2021 09:36
+TACKLE-214,Bug,New,TACKLE,Konveyor Tackle,software,,31/05/2021 15:01,
+TACKLE-212,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,27/05/2021 04:57,08/09/2021 15:31
+TACKLE-211,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,26/05/2021 22:16,22/06/2021 11:00
+TACKLE-209,Bug,New,TACKLE,Konveyor Tackle,software,,26/05/2021 09:12,
+TACKLE-208,Bug,Closed,TACKLE,Konveyor Tackle,software,Not a Bug,26/05/2021 07:37,16/08/2021 10:42
+TACKLE-207,Epic,Closed,TACKLE,Konveyor Tackle,software,Done,25/05/2021 15:53,30/09/2021 11:38
+TACKLE-203,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,25/05/2021 04:10,23/06/2021 16:16
+TACKLE-202,Bug,New,TACKLE,Konveyor Tackle,software,,25/05/2021 04:01,
+TACKLE-201,Story,To Do,TACKLE,Konveyor Tackle,software,,24/05/2021 16:12,
+TACKLE-200,Story,To Do,TACKLE,Konveyor Tackle,software,,24/05/2021 16:06,
+TACKLE-199,Story,To Do,TACKLE,Konveyor Tackle,software,,24/05/2021 15:58,
+TACKLE-198,Story,To Do,TACKLE,Konveyor Tackle,software,,24/05/2021 15:30,
+TACKLE-196,Story,Closed,TACKLE,Konveyor Tackle,software,Done,24/05/2021 13:24,14/06/2021 13:21
+TACKLE-192,Story,Closed,TACKLE,Konveyor Tackle,software,Done,21/05/2021 14:05,29/10/2021 16:36
+TACKLE-191,Bug,Closed,TACKLE,Konveyor Tackle,software,Won't Do,21/05/2021 13:36,04/06/2021 10:17
+TACKLE-190,Story,Closed,TACKLE,Konveyor Tackle,software,Done,21/05/2021 13:13,18/06/2021 10:02
+TACKLE-189,Bug,Closed,TACKLE,Konveyor Tackle,software,Won't Do,21/05/2021 07:03,16/08/2021 10:49
+TACKLE-188,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,20/05/2021 16:32,22/06/2021 13:28
+TACKLE-185,Story,To Do,TACKLE,Konveyor Tackle,software,,20/05/2021 14:14,
+TACKLE-182,Bug,Closed,TACKLE,Konveyor Tackle,software,Won't Do,19/05/2021 20:37,02/06/2021 11:04
+TACKLE-181,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/05/2021 10:06,03/06/2021 12:22
+TACKLE-180,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/05/2021 09:53,12/08/2021 07:51
+TACKLE-179,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/05/2021 09:46,04/06/2021 10:13
+TACKLE-178,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/05/2021 09:37,27/05/2021 09:30
+TACKLE-177,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/05/2021 09:30,07/06/2021 15:33
+TACKLE-176,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/05/2021 07:12,26/05/2022 16:42
+TACKLE-175,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/05/2021 06:25,21/06/2021 11:05
+TACKLE-174,Bug,Closed,TACKLE,Konveyor Tackle,software,Won't Do,19/05/2021 06:18,16/08/2021 10:57
+TACKLE-173,Bug,New,TACKLE,Konveyor Tackle,software,,19/05/2021 06:05,
+TACKLE-172,Bug,Closed,TACKLE,Konveyor Tackle,software,Won't Do,19/05/2021 05:53,16/08/2021 11:02
+TACKLE-171,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/05/2021 05:36,27/05/2021 09:28
+TACKLE-170,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,19/05/2021 04:08,19/05/2021 10:17
+TACKLE-169,Bug,Closed,TACKLE,Konveyor Tackle,software,Won't Do,18/05/2021 22:34,16/08/2021 11:07
+TACKLE-168,Bug,Closed,TACKLE,Konveyor Tackle,software,Won't Do,18/05/2021 18:18,16/08/2021 11:10
+TACKLE-165,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,12/05/2021 16:05,04/06/2021 10:16
+TACKLE-164,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,10/05/2021 12:17,10/05/2021 13:33
+TACKLE-163,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,10/05/2021 11:18,10/05/2021 13:29
+TACKLE-162,Task,To Do,TACKLE,Konveyor Tackle,software,,07/05/2021 15:46,
+TACKLE-161,Task,To Do,TACKLE,Konveyor Tackle,software,,07/05/2021 15:37,
+TACKLE-160,Epic,Refinement,TACKLE,Konveyor Tackle,software,,07/05/2021 15:31,
+TACKLE-156,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,04/05/2021 11:32,10/05/2021 13:22
+TACKLE-155,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,04/05/2021 11:12,27/05/2021 11:08
+TACKLE-154,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,04/05/2021 03:09,27/05/2021 09:46
+TACKLE-153,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,03/05/2021 09:40,27/05/2021 09:31
+TACKLE-152,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,03/05/2021 09:21,20/05/2021 09:32
+TACKLE-151,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,03/05/2021 07:46,22/06/2021 10:37
+TACKLE-149,Bug,ASSIGNED,TACKLE,Konveyor Tackle,software,,30/04/2021 14:24,
+TACKLE-146,Task,To Do,TACKLE,Konveyor Tackle,software,,30/04/2021 13:34,
+TACKLE-145,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,28/04/2021 14:18,30/04/2021 10:17
+TACKLE-144,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,28/04/2021 14:16,21/06/2021 14:07
+TACKLE-143,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,28/04/2021 14:15,27/05/2021 09:37
+TACKLE-142,Bug,Closed,TACKLE,Konveyor Tackle,software,Done,28/04/2021 14:12,02/06/2021 10:30
+TACKLE-137,Task,Closed,TACKLE,Konveyor Tackle,software,Done,28/04/2021 06:34,22/06/2021 13:19
+TACKLE-132,Story,Closed,TACKLE,Konveyor Tackle,software,Done,27/04/2021 08:04,08/06/2021 20:37
+TACKLE-122,Task,Closed,TACKLE,Konveyor Tackle,software,Done,19/04/2021 12:29,12/05/2021 11:19
+TACKLE-114,Story,To Do,TACKLE,Konveyor Tackle,software,,15/04/2021 13:50,
+TACKLE-107,Story,Closed,TACKLE,Konveyor Tackle,software,Done,13/04/2021 08:33,21/05/2021 09:26
+TACKLE-93,Story,Closed,TACKLE,Konveyor Tackle,software,Done,30/03/2021 12:45,10/06/2021 09:37
+TACKLE-92,Story,Closed,TACKLE,Konveyor Tackle,software,Done,30/03/2021 12:32,22/06/2021 08:48
+TACKLE-88,Story,To Do,TACKLE,Konveyor Tackle,software,,29/03/2021 09:20,
+TACKLE-87,Story,To Do,TACKLE,Konveyor Tackle,software,,29/03/2021 09:13,
+TACKLE-82,Story,To Do,TACKLE,Konveyor Tackle,software,,25/03/2021 07:14,
+TACKLE-62,Story,To Do,TACKLE,Konveyor Tackle,software,,17/03/2021 09:05,
+TACKLE-61,Story,Closed,TACKLE,Konveyor Tackle,software,Done,17/03/2021 05:33,27/04/2021 13:13
+TACKLE-58,Story,Closed,TACKLE,Konveyor Tackle,software,Done,15/03/2021 12:57,25/06/2021 14:48
+TACKLE-50,Story,Closed,TACKLE,Konveyor Tackle,software,Done,09/03/2021 09:36,26/04/2021 10:23
+TACKLE-37,Task,To Do,TACKLE,Konveyor Tackle,software,,05/03/2021 11:04,
+TACKLE-36,Epic,Refinement,TACKLE,Konveyor Tackle,software,,05/03/2021 10:58,
+TACKLE-24,Task,To Do,TACKLE,Konveyor Tackle,software,,02/03/2021 04:50,
+TACKLE-17,Story,To Do,TACKLE,Konveyor Tackle,software,,25/02/2021 03:31,
+TACKLE-10,Epic,Closed,TACKLE,Konveyor Tackle,software,Obsolete,23/02/2021 09:30,15/06/2022 12:25
+TACKLE-9,Story,Closed,TACKLE,Konveyor Tackle,software,Done,23/02/2021 03:12,23/09/2021 14:27
+TACKLE-8,Story,Closed,TACKLE,Konveyor Tackle,software,Done,22/02/2021 12:46,24/03/2021 18:39
+TACKLE-7,Story,Closed,TACKLE,Konveyor Tackle,software,Done,22/02/2021 11:59,30/04/2021 10:05
+TACKLE-6,Story,Closed,TACKLE,Konveyor Tackle,software,Done,22/02/2021 10:58,27/04/2021 06:59
+TACKLE-5,Story,Closed,TACKLE,Konveyor Tackle,software,Done,22/02/2021 07:34,27/04/2021 06:58
+TACKLE-4,Story,Closed,TACKLE,Konveyor Tackle,software,Done,22/02/2021 07:00,11/06/2021 11:15
+TACKLE-3,Epic,Refinement,TACKLE,Konveyor Tackle,software,,22/02/2021 06:34,
+TACKLE-2,Epic,Refinement,TACKLE,Konveyor Tackle,software,,22/02/2021 06:29,
+TACKLE-1,Epic,Refinement,TACKLE,Konveyor Tackle,software,,22/02/2021 06:04,

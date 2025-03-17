@@ -1,0 +1,2094 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+UNDERTOW-797,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,29/02/2012 14:31,29/06/2017 02:56
+UNDERTOW-363,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/12/2014 12:01,04/01/2015 20:42
+UNDERTOW-362,Bug,Resolved,UNDERTOW,Undertow,software,Done,31/12/2014 00:11,04/01/2015 23:27
+UNDERTOW-361,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,28/12/2014 09:36,30/12/2014 02:44
+UNDERTOW-360,Bug,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,26/12/2014 11:09,26/01/2015 11:01
+UNDERTOW-359,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/12/2014 04:17,22/12/2014 18:43
+UNDERTOW-358,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,18/12/2014 10:25,07/09/2015 04:01
+UNDERTOW-357,Clarification,Resolved,UNDERTOW,Undertow,software,Done,15/12/2014 07:05,16/03/2015 19:41
+UNDERTOW-356,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,14/12/2014 18:04,15/03/2015 21:03
+UNDERTOW-355,Feature Request,Open,UNDERTOW,Undertow,software,,12/12/2014 04:52,
+UNDERTOW-354,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,12/12/2014 04:09,14/12/2014 16:30
+UNDERTOW-353,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/12/2014 14:25,11/12/2014 01:23
+UNDERTOW-352,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/12/2014 02:01,19/02/2015 02:38
+UNDERTOW-351,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/12/2014 09:30,08/12/2014 20:56
+UNDERTOW-350,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/12/2014 12:37,07/12/2014 19:31
+UNDERTOW-349,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/12/2014 21:03,07/12/2014 19:48
+UNDERTOW-348,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/11/2014 08:51,20/01/2015 16:38
+UNDERTOW-347,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,23/11/2014 22:23,07/12/2014 22:27
+UNDERTOW-345,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/11/2014 05:23,04/12/2014 01:16
+UNDERTOW-344,Bug,Resolved,UNDERTOW,Undertow,software,Done,18/11/2014 11:48,19/11/2014 04:23
+UNDERTOW-343,Enhancement,Open,UNDERTOW,Undertow,software,,12/11/2014 08:31,
+UNDERTOW-342,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/11/2014 07:26,15/12/2014 00:13
+UNDERTOW-341,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/11/2014 08:27,05/11/2014 00:37
+UNDERTOW-340,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,03/11/2014 02:33,19/11/2014 21:54
+UNDERTOW-339,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,30/10/2014 17:41,03/11/2014 16:48
+UNDERTOW-337,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,16/10/2014 14:10,21/10/2014 17:24
+UNDERTOW-336,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/10/2014 04:50,22/10/2014 02:37
+UNDERTOW-335,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/10/2014 18:00,14/10/2014 18:19
+UNDERTOW-334,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/10/2014 14:02,14/10/2014 16:08
+UNDERTOW-333,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/10/2014 13:20,03/11/2014 17:47
+UNDERTOW-332,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,13/10/2014 19:26,13/10/2014 19:41
+UNDERTOW-331,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/10/2014 16:08,10/10/2014 17:51
+UNDERTOW-329,Feature Request,Closed,UNDERTOW,Undertow,software,Done,10/10/2014 10:12,10/10/2014 11:18
+UNDERTOW-328,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,06/10/2014 02:13,09/10/2014 01:40
+UNDERTOW-327,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/10/2014 07:40,22/09/2015 03:41
+UNDERTOW-326,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/10/2014 06:17,07/10/2014 03:42
+UNDERTOW-325,Feature Request,Resolved,UNDERTOW,Undertow,software,Obsolete,03/10/2014 04:41,03/10/2014 19:02
+UNDERTOW-324,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,02/10/2014 18:53,20/01/2015 21:37
+UNDERTOW-323,Bug,Closed,UNDERTOW,Undertow,software,Done,02/10/2014 18:48,03/10/2014 13:56
+UNDERTOW-322,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/10/2014 08:26,02/10/2014 21:13
+UNDERTOW-321,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/10/2014 03:04,02/10/2014 20:31
+UNDERTOW-320,Task,Resolved,UNDERTOW,Undertow,software,Obsolete,01/10/2014 07:21,03/06/2016 04:54
+UNDERTOW-319,Task,Open,UNDERTOW,Undertow,software,,30/09/2014 06:56,
+UNDERTOW-318,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,30/09/2014 06:51,12/11/2021 08:10
+UNDERTOW-317,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/09/2014 06:35,01/10/2014 04:56
+UNDERTOW-316,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,25/09/2014 17:38,05/11/2014 00:50
+UNDERTOW-315,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,24/09/2014 15:06,03/03/2015 20:37
+UNDERTOW-314,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,24/09/2014 15:05,16/03/2015 19:30
+UNDERTOW-313,Clarification,Resolved,UNDERTOW,Undertow,software,Done,23/09/2014 22:55,24/09/2014 00:39
+UNDERTOW-311,Feature Request,Closed,UNDERTOW,Undertow,software,Won't Do,18/09/2014 12:24,14/02/2016 23:26
+UNDERTOW-310,Task,Resolved,UNDERTOW,Undertow,software,Done,18/09/2014 11:48,01/10/2014 04:56
+UNDERTOW-309,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/09/2014 17:42,14/09/2014 17:46
+UNDERTOW-308,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,11/09/2014 18:26,11/09/2014 22:41
+UNDERTOW-307,Bug,Resolved,UNDERTOW,Undertow,software,Done,11/09/2014 06:31,11/09/2014 20:29
+UNDERTOW-306,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/09/2014 10:32,11/09/2014 21:00
+UNDERTOW-305,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/09/2014 22:16,05/09/2014 00:37
+UNDERTOW-304,Feature Request,Resolved,UNDERTOW,Undertow,software,Obsolete,03/09/2014 10:31,21/09/2014 18:04
+UNDERTOW-303,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,02/09/2014 14:30,23/09/2014 21:16
+UNDERTOW-302,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,24/08/2014 17:12,24/08/2014 18:00
+UNDERTOW-300,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/08/2014 13:44,25/08/2014 20:19
+UNDERTOW-299,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/08/2014 10:03,20/08/2014 01:11
+UNDERTOW-298,Feature Request,Resolved,UNDERTOW,Undertow,software,Won't Do,18/08/2014 03:11,05/09/2016 20:40
+UNDERTOW-297,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,12/08/2014 17:21,05/10/2014 17:30
+UNDERTOW-296,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,11/08/2014 04:37,11/08/2014 22:26
+UNDERTOW-295,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/08/2014 03:26,09/08/2014 19:47
+UNDERTOW-294,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,06/08/2014 20:46,07/08/2014 23:09
+UNDERTOW-293,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,30/07/2014 18:45,07/08/2014 22:34
+UNDERTOW-291,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/07/2014 12:12,05/08/2014 10:12
+UNDERTOW-290,Feature Request,Open,UNDERTOW,Undertow,software,,28/07/2014 12:28,
+UNDERTOW-289,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,28/07/2014 12:12,03/03/2015 17:49
+UNDERTOW-288,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,28/07/2014 04:10,28/07/2014 18:14
+UNDERTOW-287,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/07/2014 16:01,24/07/2014 18:25
+UNDERTOW-286,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/07/2014 06:53,24/07/2014 18:50
+UNDERTOW-285,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/07/2014 06:43,28/07/2014 18:22
+UNDERTOW-284,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/07/2014 14:09,23/07/2014 21:28
+UNDERTOW-283,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/07/2014 16:03,23/07/2014 00:55
+UNDERTOW-282,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/07/2014 16:55,13/11/2014 17:29
+UNDERTOW-281,Feature Request,Open,UNDERTOW,Undertow,software,,11/07/2014 07:51,
+UNDERTOW-280,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,09/07/2014 13:44,17/07/2014 23:33
+UNDERTOW-279,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/07/2014 08:21,05/07/2014 09:46
+UNDERTOW-278,Bug,Resolved,UNDERTOW,Undertow,software,Done,04/07/2014 05:51,04/07/2014 09:30
+UNDERTOW-277,Clarification,Resolved,UNDERTOW,Undertow,software,Won't Do,02/07/2014 16:48,09/11/2014 19:08
+UNDERTOW-276,Bug,Closed,UNDERTOW,Undertow,software,Done,02/07/2014 11:25,02/07/2014 14:36
+UNDERTOW-275,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,02/07/2014 04:10,09/09/2014 08:04
+UNDERTOW-274,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/07/2014 09:21,01/07/2014 09:24
+UNDERTOW-272,Bug,Resolved,UNDERTOW,Undertow,software,Done,25/06/2014 06:43,09/09/2014 08:08
+UNDERTOW-271,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,25/06/2014 00:29,25/06/2014 03:13
+UNDERTOW-270,Bug,Closed,UNDERTOW,Undertow,software,Done,24/06/2014 09:24,02/07/2014 08:43
+UNDERTOW-269,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/06/2014 09:22,30/06/2014 16:54
+UNDERTOW-268,Clarification,Resolved,UNDERTOW,Undertow,software,Done,21/06/2014 17:36,02/07/2014 12:18
+UNDERTOW-267,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/06/2014 15:12,03/03/2015 21:12
+UNDERTOW-265,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,20/06/2014 11:37,04/11/2014 22:41
+UNDERTOW-264,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/06/2014 03:57,23/06/2014 04:13
+UNDERTOW-262,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,18/06/2014 15:35,18/06/2014 18:49
+UNDERTOW-261,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/06/2014 23:29,27/06/2014 08:17
+UNDERTOW-259,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,16/06/2014 17:08,02/07/2014 09:54
+UNDERTOW-258,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/06/2014 05:00,16/06/2014 11:40
+UNDERTOW-257,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,12/06/2014 15:47,22/09/2014 01:40
+UNDERTOW-256,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,12/06/2014 04:40,12/06/2014 12:42
+UNDERTOW-255,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/06/2014 12:23,11/06/2014 11:47
+UNDERTOW-254,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,07/06/2014 11:07,11/06/2014 11:44
+UNDERTOW-253,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,06/06/2014 04:41,12/06/2014 12:43
+UNDERTOW-252,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,02/06/2014 09:09,02/06/2014 10:25
+UNDERTOW-251,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/05/2014 09:09,26/05/2014 14:10
+UNDERTOW-250,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,23/05/2014 09:25,02/06/2014 10:27
+UNDERTOW-249,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/05/2014 09:03,23/05/2014 09:24
+UNDERTOW-248,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,22/05/2014 15:20,12/06/2014 12:42
+UNDERTOW-247,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/05/2014 18:08,23/05/2014 10:23
+UNDERTOW-244,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/05/2014 15:19,23/05/2014 10:16
+UNDERTOW-243,Bug,Resolved,UNDERTOW,Undertow,software,Done,18/05/2014 18:42,21/05/2014 16:42
+UNDERTOW-242,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,15/05/2014 12:57,16/05/2014 11:25
+UNDERTOW-241,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,14/05/2014 15:37,16/05/2014 11:26
+UNDERTOW-240,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/05/2014 10:40,16/05/2014 14:37
+UNDERTOW-239,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,12/05/2014 11:51,15/05/2014 13:54
+UNDERTOW-238,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,10/05/2014 12:58,28/06/2017 19:44
+UNDERTOW-237,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,09/05/2014 22:39,16/05/2014 17:38
+UNDERTOW-236,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/05/2014 23:58,09/05/2014 13:08
+UNDERTOW-235,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,08/05/2014 16:33,12/05/2014 10:23
+UNDERTOW-234,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,06/05/2014 22:10,03/03/2015 00:15
+UNDERTOW-233,Feature Request,Resolved,UNDERTOW,Undertow,software,Won't Do,06/05/2014 07:33,06/03/2018 20:28
+UNDERTOW-232,Feature Request,Resolved,UNDERTOW,Undertow,software,Obsolete,06/05/2014 07:27,06/03/2018 20:29
+UNDERTOW-231,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,05/05/2014 10:09,12/05/2014 10:23
+UNDERTOW-230,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,03/05/2014 09:23,12/05/2014 10:23
+UNDERTOW-229,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,02/05/2014 05:29,16/05/2014 15:39
+UNDERTOW-228,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,02/05/2014 05:27,02/05/2014 11:42
+UNDERTOW-227,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/05/2014 20:58,01/05/2014 21:17
+UNDERTOW-226,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/04/2014 08:25,01/05/2014 21:18
+UNDERTOW-225,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,29/04/2014 15:35,01/05/2014 21:18
+UNDERTOW-224,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,28/04/2014 13:03,16/05/2014 15:36
+UNDERTOW-223,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/04/2014 13:52,28/04/2014 16:23
+UNDERTOW-222,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/04/2014 06:16,21/04/2014 18:58
+UNDERTOW-221,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/04/2014 18:54,21/04/2014 18:57
+UNDERTOW-220,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,10/04/2014 16:50,11/04/2014 03:25
+UNDERTOW-219,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/04/2014 03:10,13/04/2014 20:09
+UNDERTOW-218,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/04/2014 14:17,13/04/2014 20:12
+UNDERTOW-217,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/04/2014 11:25,08/04/2014 18:22
+UNDERTOW-216,Bug,Resolved,UNDERTOW,Undertow,software,Done,07/04/2014 17:32,07/04/2014 17:36
+UNDERTOW-215,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,06/04/2014 19:52,17/02/2015 03:59
+UNDERTOW-214,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,06/04/2014 11:35,06/04/2014 20:03
+UNDERTOW-213,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/04/2014 11:18,03/04/2014 17:58
+UNDERTOW-212,Bug,Resolved,UNDERTOW,Undertow,software,Done,07/03/2014 13:02,30/03/2014 17:00
+UNDERTOW-211,Bug,Closed,UNDERTOW,Undertow,software,Done,25/03/2014 14:10,25/03/2014 21:26
+UNDERTOW-209,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,25/03/2014 00:03,25/03/2014 19:09
+UNDERTOW-208,Documentation,Resolved,UNDERTOW,Undertow,software,Done,24/03/2014 10:14,25/03/2014 18:38
+UNDERTOW-207,Documentation,Resolved,UNDERTOW,Undertow,software,Done,24/03/2014 09:56,02/05/2014 16:06
+UNDERTOW-206,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/03/2014 05:40,20/03/2014 15:51
+UNDERTOW-205,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/03/2014 05:33,17/03/2014 14:00
+UNDERTOW-204,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/03/2014 05:29,17/03/2014 16:14
+UNDERTOW-202,Bug,Resolved,UNDERTOW,Undertow,software,Done,11/03/2014 18:06,11/03/2014 18:12
+UNDERTOW-201,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,10/03/2014 20:46,25/03/2014 20:26
+UNDERTOW-200,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/03/2014 22:59,10/03/2014 20:18
+UNDERTOW-199,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,06/03/2014 17:48,19/03/2014 19:02
+UNDERTOW-198,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/03/2014 05:35,27/03/2014 00:07
+UNDERTOW-197,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/03/2014 01:54,05/03/2014 04:14
+UNDERTOW-196,Bug,Resolved,UNDERTOW,Undertow,software,Done,04/03/2014 23:35,25/03/2014 18:36
+UNDERTOW-195,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,25/02/2014 11:33,04/03/2014 05:30
+UNDERTOW-194,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,17/02/2014 05:36,24/02/2014 00:13
+UNDERTOW-193,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,13/02/2014 18:06,15/02/2014 01:49
+UNDERTOW-192,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,13/02/2014 16:16,15/02/2014 01:59
+UNDERTOW-191,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/02/2014 06:57,16/02/2014 20:39
+UNDERTOW-188,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/02/2014 14:54,07/02/2014 06:53
+UNDERTOW-187,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/02/2014 23:11,06/02/2014 08:02
+UNDERTOW-186,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,04/02/2014 00:55,15/02/2014 01:59
+UNDERTOW-185,Feature Request,Closed,UNDERTOW,Undertow,software,Won't Do,29/01/2014 15:21,29/01/2014 15:25
+UNDERTOW-184,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/01/2014 09:40,29/01/2014 10:06
+UNDERTOW-183,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,28/01/2014 04:10,04/02/2014 09:14
+UNDERTOW-182,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/01/2014 17:57,29/01/2014 05:29
+UNDERTOW-181,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/01/2014 17:41,28/01/2014 09:34
+UNDERTOW-180,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/01/2014 04:21,24/01/2014 04:26
+UNDERTOW-179,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/01/2014 12:34,04/02/2014 05:23
+UNDERTOW-178,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/01/2014 12:23,04/02/2014 05:40
+UNDERTOW-177,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/01/2014 12:02,29/01/2014 05:29
+UNDERTOW-176,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/01/2014 09:06,22/01/2014 09:13
+UNDERTOW-175,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/01/2014 06:02,25/03/2014 18:37
+UNDERTOW-173,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,16/01/2014 18:39,21/01/2014 03:08
+UNDERTOW-172,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/01/2014 15:55,23/09/2015 03:06
+UNDERTOW-171,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/01/2014 02:26,10/01/2014 02:29
+UNDERTOW-170,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/01/2014 12:26,06/01/2014 13:13
+UNDERTOW-169,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/01/2014 12:23,07/01/2014 03:39
+UNDERTOW-168,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/01/2014 08:59,06/01/2014 10:03
+UNDERTOW-166,Bug,Resolved,UNDERTOW,Undertow,software,Done,18/12/2013 15:45,22/01/2014 04:00
+UNDERTOW-165,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/12/2013 10:56,13/12/2013 16:22
+UNDERTOW-164,Task,Resolved,UNDERTOW,Undertow,software,Done,13/12/2013 07:34,13/12/2013 10:44
+UNDERTOW-163,Task,Resolved,UNDERTOW,Undertow,software,Done,13/12/2013 06:37,16/12/2013 07:42
+UNDERTOW-162,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/12/2013 02:30,12/12/2013 05:57
+UNDERTOW-161,Task,Resolved,UNDERTOW,Undertow,software,Done,11/12/2013 09:38,13/12/2013 10:44
+UNDERTOW-160,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/12/2013 17:30,10/12/2013 03:52
+UNDERTOW-159,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,09/12/2013 10:08,06/01/2014 10:02
+UNDERTOW-158,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/12/2013 09:17,10/12/2013 06:51
+UNDERTOW-157,Task,Resolved,UNDERTOW,Undertow,software,Done,09/12/2013 06:08,10/01/2014 03:31
+UNDERTOW-156,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,09/12/2013 04:20,19/12/2013 06:35
+UNDERTOW-155,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/12/2013 03:16,10/12/2013 08:27
+UNDERTOW-154,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,04/12/2013 08:32,12/12/2013 05:51
+UNDERTOW-153,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/11/2013 08:38,01/12/2013 04:03
+UNDERTOW-152,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,28/11/2013 23:37,11/12/2013 11:52
+UNDERTOW-151,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/11/2013 11:56,13/12/2013 10:43
+UNDERTOW-150,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,26/11/2013 14:21,27/11/2013 11:16
+UNDERTOW-149,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/11/2013 09:35,02/12/2013 16:08
+UNDERTOW-148,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/11/2013 01:58,02/12/2013 16:09
+UNDERTOW-147,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,25/11/2013 06:56,22/01/2014 05:34
+UNDERTOW-146,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,25/11/2013 06:55,24/02/2014 00:22
+UNDERTOW-140,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/11/2013 10:48,31/01/2014 05:20
+UNDERTOW-139,Task,Resolved,UNDERTOW,Undertow,software,Won't Do,19/11/2013 05:07,23/01/2014 09:05
+UNDERTOW-138,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,18/11/2013 09:34,19/11/2013 03:54
+UNDERTOW-137,Bug,Resolved,UNDERTOW,Undertow,software,Done,18/11/2013 09:29,18/11/2013 15:39
+UNDERTOW-136,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,18/11/2013 09:22,18/11/2013 14:54
+UNDERTOW-135,Bug,Closed,UNDERTOW,Undertow,software,Done,18/11/2013 09:22,19/11/2013 07:05
+UNDERTOW-133,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,15/11/2013 10:26,05/03/2014 22:32
+UNDERTOW-132,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/11/2013 10:04,15/11/2013 10:20
+UNDERTOW-131,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,14/11/2013 19:18,18/11/2013 15:39
+UNDERTOW-130,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/11/2013 19:15,17/11/2013 11:41
+UNDERTOW-129,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,14/11/2013 07:16,17/02/2015 03:09
+UNDERTOW-128,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/11/2013 10:35,15/11/2013 06:02
+UNDERTOW-127,Bug,Resolved,UNDERTOW,Undertow,software,Done,11/11/2013 08:25,11/11/2013 08:56
+UNDERTOW-125,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/11/2013 06:38,11/11/2013 08:30
+UNDERTOW-124,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/11/2013 04:11,11/11/2013 08:30
+UNDERTOW-123,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/11/2013 07:33,22/11/2013 06:25
+UNDERTOW-122,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/11/2013 10:30,07/01/2014 10:21
+UNDERTOW-121,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/11/2013 09:15,04/11/2013 05:47
+UNDERTOW-120,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/11/2013 09:07,04/11/2013 05:47
+UNDERTOW-119,Bug,Resolved,UNDERTOW,Undertow,software,Done,31/10/2013 05:37,31/10/2013 10:15
+UNDERTOW-118,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,30/10/2013 13:34,30/10/2013 15:15
+UNDERTOW-117,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,28/10/2013 09:18,31/10/2013 10:15
+UNDERTOW-116,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,22/10/2013 10:44,22/11/2013 08:46
+UNDERTOW-115,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/10/2013 11:04,10/12/2013 05:05
+UNDERTOW-114,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,16/10/2013 09:31,16/10/2013 09:58
+UNDERTOW-113,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/10/2013 09:29,18/10/2013 05:24
+UNDERTOW-112,Bug,Resolved,UNDERTOW,Undertow,software,Done,11/10/2013 06:27,31/10/2013 05:18
+UNDERTOW-111,Feature Request,Closed,UNDERTOW,Undertow,software,Done,11/10/2013 09:03,11/10/2013 09:21
+UNDERTOW-110,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/10/2013 06:01,09/10/2013 02:58
+UNDERTOW-109,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/10/2013 11:32,03/10/2013 11:35
+UNDERTOW-108,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/10/2013 12:17,03/10/2013 09:31
+UNDERTOW-107,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/09/2013 12:48,30/09/2013 02:31
+UNDERTOW-106,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/09/2013 11:34,30/09/2013 02:24
+UNDERTOW-105,Bug,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,26/09/2013 09:52,01/10/2013 04:47
+UNDERTOW-104,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,26/09/2013 06:20,30/09/2013 02:20
+UNDERTOW-103,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,06/09/2013 15:35,06/09/2013 16:50
+UNDERTOW-102,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,06/09/2013 10:10,03/10/2013 09:16
+UNDERTOW-101,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/09/2013 03:13,05/09/2013 08:30
+UNDERTOW-100,Task,Resolved,UNDERTOW,Undertow,software,Done,02/09/2013 04:54,06/09/2013 09:58
+UNDERTOW-99,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,02/09/2013 01:14,02/09/2013 02:25
+UNDERTOW-98,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/08/2013 19:26,24/08/2013 02:03
+UNDERTOW-97,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/08/2013 13:14,05/08/2013 05:39
+UNDERTOW-96,Feature Request,Resolved,UNDERTOW,Undertow,software,Won't Do,31/07/2013 07:15,26/01/2016 20:31
+UNDERTOW-95,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,31/07/2013 02:52,31/07/2013 04:03
+UNDERTOW-94,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/07/2013 09:23,30/07/2013 09:35
+UNDERTOW-93,Task,Resolved,UNDERTOW,Undertow,software,Done,25/07/2013 12:17,09/08/2013 16:38
+UNDERTOW-92,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/07/2013 09:35,26/07/2013 05:51
+UNDERTOW-91,Feature Request,Open,UNDERTOW,Undertow,software,,23/07/2013 04:19,
+UNDERTOW-90,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,23/07/2013 03:51,08/08/2013 06:48
+UNDERTOW-89,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,22/07/2013 10:15,23/07/2013 09:35
+UNDERTOW-88,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,21/07/2013 12:08,22/07/2013 08:51
+UNDERTOW-87,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/07/2013 16:04,26/07/2013 05:51
+UNDERTOW-86,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/07/2013 11:55,09/08/2013 16:36
+UNDERTOW-85,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/07/2013 16:02,15/07/2013 20:47
+UNDERTOW-84,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,15/07/2013 06:31,16/07/2013 12:26
+UNDERTOW-83,Bug,Resolved,UNDERTOW,Undertow,software,Done,04/07/2013 01:45,04/07/2013 18:39
+UNDERTOW-82,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/07/2013 08:43,01/07/2013 17:40
+UNDERTOW-81,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/06/2013 04:42,28/06/2013 01:51
+UNDERTOW-80,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/06/2013 03:44,26/06/2013 03:14
+UNDERTOW-79,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,18/06/2013 05:47,26/08/2018 20:40
+UNDERTOW-78,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,17/06/2013 20:32,26/06/2013 05:32
+UNDERTOW-77,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/06/2013 16:50,18/06/2013 02:36
+UNDERTOW-76,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/06/2013 08:50,17/06/2013 18:18
+UNDERTOW-75,Task,Resolved,UNDERTOW,Undertow,software,Obsolete,11/06/2013 23:04,26/07/2013 09:48
+UNDERTOW-74,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/06/2013 09:55,10/06/2013 17:40
+UNDERTOW-73,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/06/2013 06:21,10/06/2013 17:39
+UNDERTOW-72,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/06/2013 04:06,10/06/2013 17:39
+UNDERTOW-71,Bug,Closed,UNDERTOW,Undertow,software,Done,05/06/2013 10:49,11/06/2013 04:46
+UNDERTOW-69,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/06/2013 09:54,03/06/2013 19:13
+UNDERTOW-68,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,01/06/2013 21:49,16/06/2013 19:38
+UNDERTOW-67,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/05/2013 09:25,30/05/2013 18:05
+UNDERTOW-66,Feature Request,Open,UNDERTOW,Undertow,software,,30/05/2013 07:20,
+UNDERTOW-65,Feature Request,Open,UNDERTOW,Undertow,software,,30/05/2013 05:33,
+UNDERTOW-64,Bug,Resolved,UNDERTOW,Undertow,software,Duplicate,29/05/2013 06:47,29/05/2013 08:43
+UNDERTOW-63,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/05/2013 19:05,28/05/2013 19:15
+UNDERTOW-62,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/05/2013 19:25,26/05/2013 21:36
+UNDERTOW-61,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/05/2013 17:02,26/05/2013 21:36
+UNDERTOW-60,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/05/2013 16:58,26/05/2013 22:10
+UNDERTOW-58,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/05/2013 05:50,23/05/2013 21:46
+UNDERTOW-57,Feature Request,Closed,UNDERTOW,Undertow,software,Done,23/05/2013 04:52,03/09/2013 08:56
+UNDERTOW-56,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/05/2013 21:32,23/05/2013 19:54
+UNDERTOW-55,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/05/2013 13:51,27/05/2013 20:09
+UNDERTOW-54,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/05/2013 06:01,22/05/2013 22:29
+UNDERTOW-53,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/05/2013 14:26,16/05/2013 07:47
+UNDERTOW-52,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,01/05/2013 22:51,21/06/2013 00:40
+UNDERTOW-51,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,30/04/2013 23:20,01/05/2013 00:38
+UNDERTOW-50,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,30/04/2013 23:14,13/07/2017 16:36
+UNDERTOW-49,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,30/04/2013 22:48,14/02/2014 19:31
+UNDERTOW-48,Feature Request,Resolved,UNDERTOW,Undertow,software,Obsolete,30/04/2013 22:46,29/07/2013 05:54
+UNDERTOW-47,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,30/04/2013 22:43,01/05/2013 00:38
+UNDERTOW-46,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/04/2013 22:40,01/05/2013 00:39
+UNDERTOW-45,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,30/04/2013 22:33,06/05/2013 19:54
+UNDERTOW-44,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/04/2013 11:27,01/05/2013 02:00
+UNDERTOW-43,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/04/2013 07:50,28/04/2013 20:05
+UNDERTOW-42,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/04/2013 12:48,13/05/2013 00:38
+UNDERTOW-41,Task,Resolved,UNDERTOW,Undertow,software,Obsolete,23/04/2013 06:21,13/08/2013 03:11
+UNDERTOW-40,Bug,Resolved,UNDERTOW,Undertow,software,Done,18/04/2013 10:35,28/04/2013 23:13
+UNDERTOW-38,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,15/04/2013 10:33,17/04/2013 07:37
+UNDERTOW-37,Task,Open,UNDERTOW,Undertow,software,,12/04/2013 12:55,
+UNDERTOW-36,Task,Resolved,UNDERTOW,Undertow,software,Done,11/04/2013 11:50,29/04/2013 06:48
+UNDERTOW-35,Task,Resolved,UNDERTOW,Undertow,software,Done,11/04/2013 11:50,10/06/2013 05:08
+UNDERTOW-34,Task,Resolved,UNDERTOW,Undertow,software,Done,11/04/2013 11:48,03/06/2013 06:48
+UNDERTOW-33,Bug,Resolved,UNDERTOW,Undertow,software,Done,11/04/2013 08:51,16/04/2013 22:59
+UNDERTOW-32,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/04/2013 11:04,11/04/2013 03:41
+UNDERTOW-31,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/04/2013 11:04,11/04/2013 01:22
+UNDERTOW-30,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/04/2013 10:43,11/04/2013 01:22
+UNDERTOW-29,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/04/2013 09:53,09/04/2013 18:27
+UNDERTOW-28,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/04/2013 04:45,09/04/2013 05:30
+UNDERTOW-27,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,08/04/2013 12:07,08/04/2013 20:59
+UNDERTOW-26,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,08/04/2013 11:37,08/04/2013 21:33
+UNDERTOW-25,Bug,Resolved,UNDERTOW,Undertow,software,Done,07/04/2013 15:15,13/05/2013 00:40
+UNDERTOW-24,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,07/04/2013 05:20,13/05/2013 00:40
+UNDERTOW-23,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/04/2013 19:10,08/04/2013 21:37
+UNDERTOW-22,Bug,Closed,UNDERTOW,Undertow,software,Done,06/04/2013 13:23,08/04/2013 21:37
+UNDERTOW-20,Bug,Resolved,UNDERTOW,Undertow,software,Done,31/03/2013 09:26,07/04/2013 23:53
+UNDERTOW-19,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,29/03/2013 07:47,29/07/2013 05:01
+UNDERTOW-18,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,29/03/2013 07:24,08/04/2013 21:38
+UNDERTOW-17,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,23/01/2013 18:33,12/05/2013 19:55
+UNDERTOW-16,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,23/01/2013 18:27,27/05/2013 20:32
+UNDERTOW-15,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,23/01/2013 18:26,04/07/2013 23:26
+UNDERTOW-14,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,23/01/2013 18:26,04/07/2013 23:27
+UNDERTOW-13,Feature Request,Closed,UNDERTOW,Undertow,software,Done,23/01/2013 18:25,17/02/2015 03:46
+UNDERTOW-12,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,23/01/2013 18:22,04/07/2013 18:44
+UNDERTOW-11,Task,Resolved,UNDERTOW,Undertow,software,Done,23/01/2013 18:20,04/07/2013 18:45
+UNDERTOW-10,Feature Request,Closed,UNDERTOW,Undertow,software,Done,23/01/2013 18:16,17/02/2015 03:09
+UNDERTOW-9,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,23/01/2013 18:13,31/03/2014 20:49
+UNDERTOW-8,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,23/01/2013 18:12,04/10/2013 03:15
+UNDERTOW-7,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,23/01/2013 18:10,29/07/2013 05:02
+UNDERTOW-6,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,25/11/2012 17:52,08/01/2013 16:35
+UNDERTOW-5,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,25/11/2012 17:50,08/01/2013 16:33
+UNDERTOW-4,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,08/11/2012 13:42,13/11/2012 18:41
+UNDERTOW-3,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,06/08/2012 19:02,23/01/2013 16:46
+UNDERTOW-2,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,06/08/2012 19:00,23/01/2013 16:46
+UNDERTOW-1,Task,Resolved,UNDERTOW,Undertow,software,Done,06/08/2012 18:46,08/08/2012 02:52
+UNDERTOW-2523,Task,Pull Request Sent,UNDERTOW,Undertow,software,,05/11/2024 23:44,
+UNDERTOW-2521,Enhancement,Open,UNDERTOW,Undertow,software,,31/10/2024 08:57,
+UNDERTOW-2520,Bug,Open,UNDERTOW,Undertow,software,,30/10/2024 06:53,
+UNDERTOW-2519,Bug,Pull Request Sent,UNDERTOW,Undertow,software,,23/10/2024 19:12,
+UNDERTOW-2512,Bug,Open,UNDERTOW,Undertow,software,,18/10/2024 10:03,
+UNDERTOW-2510,Feature Request,Open,UNDERTOW,Undertow,software,,18/10/2024 09:31,
+UNDERTOW-2509,Bug,Pull Request Sent,UNDERTOW,Undertow,software,,15/10/2024 19:59,
+UNDERTOW-2507,Task,Pull Request Sent,UNDERTOW,Undertow,software,,10/10/2024 09:12,
+UNDERTOW-2457,Bug,Closed,UNDERTOW,Undertow,software,Done,04/10/2024 07:05,18/10/2024 21:52
+UNDERTOW-2456,Task,Open,UNDERTOW,Undertow,software,,01/10/2024 08:35,
+UNDERTOW-2454,Task,Open,UNDERTOW,Undertow,software,,01/10/2024 07:23,
+UNDERTOW-2453,Enhancement,Open,UNDERTOW,Undertow,software,,01/10/2024 07:20,
+UNDERTOW-2451,Bug,Closed,UNDERTOW,Undertow,software,Not a Bug,30/09/2024 09:45,04/10/2024 07:01
+UNDERTOW-2448,Bug,Closed,UNDERTOW,Undertow,software,Done,23/09/2024 08:08,16/10/2024 09:19
+UNDERTOW-2446,Bug,Closed,UNDERTOW,Undertow,software,Done,20/09/2024 23:04,04/10/2024 09:20
+UNDERTOW-2445,Bug,Closed,UNDERTOW,Undertow,software,Done,19/09/2024 09:51,25/09/2024 08:09
+UNDERTOW-2444,Bug,Closed,UNDERTOW,Undertow,software,Done,19/09/2024 07:59,04/10/2024 11:35
+UNDERTOW-2443,Component Upgrade,Resolved,UNDERTOW,Undertow,software,Done,12/09/2024 09:07,27/09/2024 13:25
+UNDERTOW-2436,Bug,Closed,UNDERTOW,Undertow,software,Done,05/09/2024 21:01,04/10/2024 09:23
+UNDERTOW-2434,Bug,Open,UNDERTOW,Undertow,software,,29/08/2024 17:41,
+UNDERTOW-2433,Bug,Open,UNDERTOW,Undertow,software,,22/08/2024 13:39,
+UNDERTOW-2432,Enhancement,Closed,UNDERTOW,Undertow,software,Done,22/08/2024 09:22,18/09/2024 14:01
+UNDERTOW-2431,Component Upgrade,Pull Request Sent,UNDERTOW,Undertow,software,,22/08/2024 08:23,
+UNDERTOW-2430,Bug,Open,UNDERTOW,Undertow,software,,20/08/2024 14:59,
+UNDERTOW-2428,Task,Open,UNDERTOW,Undertow,software,,14/08/2024 09:33,
+UNDERTOW-2427,Task,Open,UNDERTOW,Undertow,software,,14/08/2024 09:18,
+UNDERTOW-2425,Bug,Closed,UNDERTOW,Undertow,software,Done,12/08/2024 19:42,22/08/2024 08:35
+UNDERTOW-2424,Bug,Closed,UNDERTOW,Undertow,software,Done,12/08/2024 19:19,22/08/2024 08:43
+UNDERTOW-2423,Support Request,Resolved,UNDERTOW,Undertow,software,Not a Bug,06/08/2024 14:12,07/08/2024 09:49
+UNDERTOW-2422,Bug,Closed,UNDERTOW,Undertow,software,Done,02/08/2024 22:37,04/10/2024 10:00
+UNDERTOW-2421,Bug,Coding In Progress,UNDERTOW,Undertow,software,,19/07/2024 21:23,
+UNDERTOW-2420,Bug,Open,UNDERTOW,Undertow,software,,08/07/2024 19:26,
+UNDERTOW-2418,Bug,Closed,UNDERTOW,Undertow,software,Done,27/06/2024 13:52,16/07/2024 12:32
+UNDERTOW-2417,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,23/06/2024 08:23,26/06/2024 09:08
+UNDERTOW-2416,Enhancement,Pull Request Sent,UNDERTOW,Undertow,software,,23/06/2024 00:11,
+UNDERTOW-2415,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,21/06/2024 15:33,23/06/2024 09:20
+UNDERTOW-2414,Support Request,Open,UNDERTOW,Undertow,software,,21/06/2024 13:33,
+UNDERTOW-2413,Bug,Closed,UNDERTOW,Undertow,software,Done,20/06/2024 10:00,20/06/2024 11:03
+UNDERTOW-2412,Bug,Closed,UNDERTOW,Undertow,software,Done,20/06/2024 07:23,04/09/2024 14:43
+UNDERTOW-2411,Feature Request,Open,UNDERTOW,Undertow,software,,20/06/2024 03:18,
+UNDERTOW-2409,Bug,Resolved,UNDERTOW,Undertow,software,Done,18/06/2024 19:45,20/06/2024 08:04
+UNDERTOW-2408,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,18/06/2024 13:23,18/06/2024 17:26
+UNDERTOW-2407,Bug,Resolved,UNDERTOW,Undertow,software,Done,18/06/2024 13:15,18/06/2024 17:26
+UNDERTOW-2406,Component Upgrade,Resolved,UNDERTOW,Undertow,software,Can't Do,17/06/2024 11:13,17/06/2024 11:18
+UNDERTOW-2405,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/06/2024 04:23,20/06/2024 07:52
+UNDERTOW-2404,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,13/06/2024 12:46,21/10/2024 11:12
+UNDERTOW-2403,Bug,Pull Request Sent,UNDERTOW,Undertow,software,,13/06/2024 08:24,
+UNDERTOW-2401,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/06/2024 04:18,15/07/2024 13:32
+UNDERTOW-2398,Enhancement,Closed,UNDERTOW,Undertow,software,Done,04/06/2024 10:26,03/07/2024 13:58
+UNDERTOW-2397,Bug,Closed,UNDERTOW,Undertow,software,Done,04/06/2024 09:39,15/07/2024 13:47
+UNDERTOW-2395,Bug,Open,UNDERTOW,Undertow,software,,23/05/2024 15:52,
+UNDERTOW-2393,Bug,Open,UNDERTOW,Undertow,software,,22/05/2024 13:31,
+UNDERTOW-2392,Documentation,Open,UNDERTOW,Undertow,software,,20/05/2024 17:12,
+UNDERTOW-2391,Component Upgrade,Resolved,UNDERTOW,Undertow,software,Done,10/05/2024 14:56,14/06/2024 08:06
+UNDERTOW-2389,Bug,Resolved,UNDERTOW,Undertow,software,Duplicate,09/05/2024 17:05,10/06/2024 09:41
+UNDERTOW-2388,Enhancement,Open,UNDERTOW,Undertow,software,,07/05/2024 13:27,
+UNDERTOW-2387,Bug,Resolved,UNDERTOW,Undertow,software,Not a Bug,07/05/2024 03:31,04/07/2024 07:17
+UNDERTOW-2386,Enhancement,Closed,UNDERTOW,Undertow,software,Done,06/05/2024 07:45,16/07/2024 06:08
+UNDERTOW-2385,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/05/2024 02:57,13/06/2024 21:23
+UNDERTOW-2383,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/04/2024 18:53,14/06/2024 04:13
+UNDERTOW-2382,Bug,Closed,UNDERTOW,Undertow,software,Done,26/04/2024 09:34,20/06/2024 21:04
+UNDERTOW-2381,Bug,Closed,UNDERTOW,Undertow,software,Done,10/09/2019 08:44,22/08/2024 09:18
+UNDERTOW-2379,Enhancement,Open,UNDERTOW,Undertow,software,,23/04/2024 11:04,
+UNDERTOW-2378,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/04/2024 08:25,13/06/2024 22:10
+UNDERTOW-2376,Enhancement,Closed,UNDERTOW,Undertow,software,Done,19/04/2024 04:01,19/04/2024 05:56
+UNDERTOW-2375,Enhancement,Closed,UNDERTOW,Undertow,software,Done,19/04/2024 02:31,19/04/2024 02:34
+UNDERTOW-2374,Enhancement,Closed,UNDERTOW,Undertow,software,Done,18/04/2024 20:46,19/04/2024 00:21
+UNDERTOW-2372,Enhancement,Pull Request Sent,UNDERTOW,Undertow,software,,21/12/2023 19:33,
+UNDERTOW-2371,Feature Request,Open,UNDERTOW,Undertow,software,,03/04/2024 20:39,
+UNDERTOW-2370,Bug,Open,UNDERTOW,Undertow,software,,03/04/2024 15:36,
+UNDERTOW-2369,Enhancement,Open,UNDERTOW,Undertow,software,,22/03/2024 06:38,
+UNDERTOW-2368,Enhancement,Open,UNDERTOW,Undertow,software,,21/03/2024 19:06,
+UNDERTOW-2367,Enhancement,Open,UNDERTOW,Undertow,software,,21/03/2024 19:00,
+UNDERTOW-2366,Enhancement,Open,UNDERTOW,Undertow,software,,21/03/2024 19:00,
+UNDERTOW-2365,Enhancement,Open,UNDERTOW,Undertow,software,,21/03/2024 18:59,
+UNDERTOW-2364,Enhancement,Open,UNDERTOW,Undertow,software,,21/03/2024 18:54,
+UNDERTOW-2363,Enhancement,Open,UNDERTOW,Undertow,software,,21/03/2024 18:53,
+UNDERTOW-2362,Enhancement,Open,UNDERTOW,Undertow,software,,21/03/2024 18:52,
+UNDERTOW-2361,Bug,Pull Request Sent,UNDERTOW,Undertow,software,,20/03/2024 12:22,
+UNDERTOW-2360,Enhancement,Open,UNDERTOW,Undertow,software,,19/03/2024 20:01,
+UNDERTOW-2359,Bug,Open,UNDERTOW,Undertow,software,,19/03/2024 19:52,
+UNDERTOW-2358,Bug,Open,UNDERTOW,Undertow,software,,19/03/2024 19:43,
+UNDERTOW-2357,Bug,Closed,UNDERTOW,Undertow,software,Done,18/03/2024 08:38,16/07/2024 06:15
+UNDERTOW-2356,Bug,Pull Request Sent,UNDERTOW,Undertow,software,,15/03/2024 09:09,
+UNDERTOW-2354,Bug,Closed,UNDERTOW,Undertow,software,Done,07/03/2024 21:29,19/04/2024 01:08
+UNDERTOW-2353,Enhancement,Closed,UNDERTOW,Undertow,software,Done,05/03/2024 19:14,15/03/2024 08:03
+UNDERTOW-2352,Bug,Open,UNDERTOW,Undertow,software,,05/03/2024 18:03,
+UNDERTOW-2351,Enhancement,Closed,UNDERTOW,Undertow,software,Done,01/03/2024 08:17,13/03/2024 14:35
+UNDERTOW-2350,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,29/02/2024 22:10,05/03/2024 09:35
+UNDERTOW-2348,Bug,Open,UNDERTOW,Undertow,software,,25/02/2024 06:35,
+UNDERTOW-2347,Bug,Closed,UNDERTOW,Undertow,software,Done,24/02/2024 19:04,15/03/2024 08:06
+UNDERTOW-2346,Bug,Open,UNDERTOW,Undertow,software,,23/02/2024 15:23,
+UNDERTOW-2345,Bug,Closed,UNDERTOW,Undertow,software,Done,16/02/2024 15:31,16/02/2024 16:32
+UNDERTOW-2343,Bug,Closed,UNDERTOW,Undertow,software,Done,05/02/2024 14:16,15/07/2024 19:44
+UNDERTOW-2342,Bug,Closed,UNDERTOW,Undertow,software,Done,02/02/2024 12:46,12/02/2024 15:27
+UNDERTOW-2341,Bug,Open,UNDERTOW,Undertow,software,,02/02/2024 10:59,
+UNDERTOW-2340,Bug,Pull Request Sent,UNDERTOW,Undertow,software,,30/01/2024 19:47,
+UNDERTOW-2339,Bug,Closed,UNDERTOW,Undertow,software,Done,26/01/2024 17:14,12/02/2024 04:38
+UNDERTOW-2338,Bug,Closed,UNDERTOW,Undertow,software,Done,20/01/2024 01:13,13/02/2024 10:48
+UNDERTOW-2337,Bug,Closed,UNDERTOW,Undertow,software,Done,09/01/2024 07:11,08/10/2024 08:49
+UNDERTOW-2336,Bug,Closed,UNDERTOW,Undertow,software,Done,04/01/2024 19:22,01/10/2024 19:31
+UNDERTOW-2335,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,18/12/2023 14:14,14/08/2024 10:06
+UNDERTOW-2334,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/11/2023 15:51,12/02/2024 05:24
+UNDERTOW-2333,Bug,Closed,UNDERTOW,Undertow,software,Done,25/10/2023 11:44,16/10/2024 09:23
+UNDERTOW-2332,Bug,Resolved,UNDERTOW,Undertow,software,Done,25/10/2023 09:47,10/06/2024 09:46
+UNDERTOW-2331,Enhancement,Closed,UNDERTOW,Undertow,software,Done,23/10/2023 04:57,23/10/2023 08:09
+UNDERTOW-2330,Bug,Closed,UNDERTOW,Undertow,software,Done,23/10/2023 03:40,23/10/2023 07:06
+UNDERTOW-2329,Enhancement,Closed,UNDERTOW,Undertow,software,Done,17/10/2023 11:31,17/10/2023 17:13
+UNDERTOW-2328,Task,Open,UNDERTOW,Undertow,software,,17/10/2023 07:32,
+UNDERTOW-2327,Bug,Closed,UNDERTOW,Undertow,software,Done,16/10/2023 04:34,17/10/2023 17:13
+UNDERTOW-2326,Enhancement,Open,UNDERTOW,Undertow,software,,13/10/2023 23:52,
+UNDERTOW-2325,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,12/10/2023 18:21,14/08/2024 09:40
+UNDERTOW-2324,Bug,Closed,UNDERTOW,Undertow,software,Done,12/10/2023 11:13,17/10/2023 17:13
+UNDERTOW-2323,Bug,Closed,UNDERTOW,Undertow,software,Done,11/10/2023 19:01,17/10/2023 17:13
+UNDERTOW-2321,Task,Pull Request Sent,UNDERTOW,Undertow,software,,11/10/2023 08:19,
+UNDERTOW-2320,Enhancement,Closed,UNDERTOW,Undertow,software,Duplicate,11/10/2023 08:14,11/10/2023 10:14
+UNDERTOW-2319,Feature Request,Pull Request Sent,UNDERTOW,Undertow,software,,11/10/2023 04:49,
+UNDERTOW-2318,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,09/10/2023 11:29,10/10/2023 06:07
+UNDERTOW-2317,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,09/10/2023 11:14,10/10/2023 06:06
+UNDERTOW-2316,Enhancement,Closed,UNDERTOW,Undertow,software,Done,03/10/2023 13:45,11/10/2023 07:41
+UNDERTOW-2315,Bug,Closed,UNDERTOW,Undertow,software,Cannot Reproduce,02/10/2023 13:44,13/03/2024 14:40
+UNDERTOW-2313,Bug,Closed,UNDERTOW,Undertow,software,Done,27/09/2023 14:43,11/10/2023 06:38
+UNDERTOW-2312,Bug,Closed,UNDERTOW,Undertow,software,Done,25/09/2023 12:10,22/08/2024 08:56
+UNDERTOW-2311,Enhancement,Closed,UNDERTOW,Undertow,software,Done,18/09/2023 11:53,17/10/2023 17:13
+UNDERTOW-2310,Enhancement,Closed,UNDERTOW,Undertow,software,Done,18/09/2023 11:42,17/10/2023 17:13
+UNDERTOW-2309,Bug,Closed,UNDERTOW,Undertow,software,Done,13/09/2023 15:38,22/11/2023 06:29
+UNDERTOW-2307,Enhancement,Closed,UNDERTOW,Undertow,software,Done,08/09/2023 19:10,05/10/2023 06:34
+UNDERTOW-2305,Bug,Closed,UNDERTOW,Undertow,software,Done,05/09/2023 12:05,10/10/2023 13:07
+UNDERTOW-2304,Bug,Closed,UNDERTOW,Undertow,software,Done,01/09/2023 17:25,13/02/2024 08:26
+UNDERTOW-2303,Enhancement,Pull Request Sent,UNDERTOW,Undertow,software,,18/08/2023 17:35,
+UNDERTOW-2302,Dev Task,Resolved,UNDERTOW,Undertow,software,Done,17/08/2023 07:13,17/08/2023 08:43
+UNDERTOW-2301,Feature Request,Pull Request Sent,UNDERTOW,Undertow,software,,16/08/2023 15:28,
+UNDERTOW-2300,Enhancement,Coding In Progress,UNDERTOW,Undertow,software,,15/08/2023 06:01,
+UNDERTOW-2299,Bug,Closed,UNDERTOW,Undertow,software,Cannot Reproduce,10/08/2023 12:49,28/02/2024 15:09
+UNDERTOW-2298,Bug,Pull Request Sent,UNDERTOW,Undertow,software,,31/07/2023 09:35,
+UNDERTOW-2297,Feature Request,Resolved,UNDERTOW,Undertow,software,Won't Do,27/07/2023 23:09,15/03/2024 08:37
+UNDERTOW-2296,Bug,Closed,UNDERTOW,Undertow,software,Done,26/07/2023 14:45,12/09/2023 06:33
+UNDERTOW-2295,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,25/07/2023 18:35,14/08/2024 09:46
+UNDERTOW-2294,Feature Request,Open,UNDERTOW,Undertow,software,,20/07/2023 10:59,
+UNDERTOW-2293,Bug,Closed,UNDERTOW,Undertow,software,Done,19/07/2023 06:05,19/07/2023 12:53
+UNDERTOW-2292,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,07/07/2023 14:03,17/08/2023 09:30
+UNDERTOW-2291,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,07/07/2023 08:57,21/06/2024 15:18
+UNDERTOW-2290,Bug,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,06/07/2023 11:37,15/03/2024 08:38
+UNDERTOW-2289,Enhancement,Pull Request Sent,UNDERTOW,Undertow,software,,29/06/2023 20:48,
+UNDERTOW-2288,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,28/06/2023 21:34,16/07/2024 06:32
+UNDERTOW-2287,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,28/06/2023 21:15,14/08/2024 09:58
+UNDERTOW-2286,Bug,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,27/06/2023 09:55,19/07/2023 09:52
+UNDERTOW-2285,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/06/2023 09:59,17/08/2023 06:12
+UNDERTOW-2284,Bug,Closed,UNDERTOW,Undertow,software,Cannot Reproduce,16/06/2023 15:38,11/10/2023 06:26
+UNDERTOW-2283,Question,Open,UNDERTOW,Undertow,software,,15/06/2023 02:32,
+UNDERTOW-2282,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,12/06/2023 08:29,21/06/2023 06:22
+UNDERTOW-2281,Bug,Closed,UNDERTOW,Undertow,software,Done,09/06/2023 12:40,27/06/2023 15:07
+UNDERTOW-2280,Bug,Closed,UNDERTOW,Undertow,software,Done,08/06/2023 04:20,08/06/2023 05:17
+UNDERTOW-2278,Enhancement,Open,UNDERTOW,Undertow,software,,06/06/2023 22:31,
+UNDERTOW-2277,Bug,Closed,UNDERTOW,Undertow,software,Done,06/06/2023 06:18,06/06/2023 17:06
+UNDERTOW-2276,Bug,Closed,UNDERTOW,Undertow,software,Done,02/06/2023 19:36,07/06/2023 12:10
+UNDERTOW-2275,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/06/2023 12:42,17/08/2023 06:22
+UNDERTOW-2274,Enhancement,Open,UNDERTOW,Undertow,software,,31/05/2023 22:52,
+UNDERTOW-2273,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,31/05/2023 22:36,04/09/2024 14:43
+UNDERTOW-2272,Clarification,Resolved,UNDERTOW,Undertow,software,Duplicate,29/05/2023 16:39,15/03/2024 09:12
+UNDERTOW-2271,Bug,Closed,UNDERTOW,Undertow,software,Done,29/05/2023 12:29,27/09/2024 13:35
+UNDERTOW-2270,Bug,Closed,UNDERTOW,Undertow,software,Done,29/05/2023 06:32,07/06/2023 12:52
+UNDERTOW-2269,Bug,Pull Request Sent,UNDERTOW,Undertow,software,,19/05/2023 06:07,
+UNDERTOW-2268,Feature Request,Closed,UNDERTOW,Undertow,software,Won't Do,08/05/2023 12:45,26/07/2024 10:06
+UNDERTOW-2267,Enhancement,Closed,UNDERTOW,Undertow,software,Done,02/05/2023 13:49,07/06/2023 12:28
+UNDERTOW-2266,Documentation,Open,UNDERTOW,Undertow,software,,26/04/2023 09:30,
+UNDERTOW-2265,Feature Request,Closed,UNDERTOW,Undertow,software,Won't Do,24/04/2023 14:00,23/05/2023 07:58
+UNDERTOW-2264,Bug,Reopened,UNDERTOW,Undertow,software,,21/04/2023 20:24,
+UNDERTOW-2263,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,19/04/2023 09:54,23/04/2023 03:41
+UNDERTOW-2262,Enhancement,Coding In Progress,UNDERTOW,Undertow,software,,18/04/2023 20:10,
+UNDERTOW-2261,Enhancement,Open,UNDERTOW,Undertow,software,,17/04/2023 07:07,
+UNDERTOW-2260,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,12/04/2023 08:45,12/04/2023 14:47
+UNDERTOW-2258,Bug,Closed,UNDERTOW,Undertow,software,Done,12/04/2023 03:12,13/04/2023 22:27
+UNDERTOW-2256,Bug,Closed,UNDERTOW,Undertow,software,Done,04/04/2023 07:26,22/08/2024 09:17
+UNDERTOW-2255,Bug,Closed,UNDERTOW,Undertow,software,Done,02/04/2023 14:58,07/06/2023 02:25
+UNDERTOW-2254,Enhancement,Open,UNDERTOW,Undertow,software,,25/03/2023 16:08,
+UNDERTOW-2253,Task,Closed,UNDERTOW,Undertow,software,Done,25/03/2023 14:53,25/03/2023 15:42
+UNDERTOW-2251,Bug,Closed,UNDERTOW,Undertow,software,Done,25/03/2023 09:05,14/04/2023 13:40
+UNDERTOW-2250,Task,Closed,UNDERTOW,Undertow,software,Done,24/03/2023 21:26,25/03/2023 08:22
+UNDERTOW-2249,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,24/03/2023 20:20,14/08/2024 10:04
+UNDERTOW-2248,Enhancement,Closed,UNDERTOW,Undertow,software,Done,23/03/2023 17:41,07/06/2023 18:34
+UNDERTOW-2247,Enhancement,Closed,UNDERTOW,Undertow,software,Done,22/03/2023 20:30,07/06/2023 18:32
+UNDERTOW-2246,Bug,Closed,UNDERTOW,Undertow,software,Done,15/03/2023 22:59,18/04/2023 05:29
+UNDERTOW-2245,Bug,Closed,UNDERTOW,Undertow,software,Done,03/03/2023 06:25,08/06/2023 04:41
+UNDERTOW-2243,Bug,Closed,UNDERTOW,Undertow,software,Done,14/02/2023 20:24,07/06/2023 02:13
+UNDERTOW-2242,Feature Request,Pull Request Sent,UNDERTOW,Undertow,software,,14/02/2023 02:46,
+UNDERTOW-2241,Bug,Closed,UNDERTOW,Undertow,software,Done,10/02/2023 13:28,07/06/2023 18:33
+UNDERTOW-2238,Feature Request,Open,UNDERTOW,Undertow,software,,02/02/2023 20:00,
+UNDERTOW-2237,Enhancement,Pull Request Sent,UNDERTOW,Undertow,software,,31/01/2023 16:35,
+UNDERTOW-2236,Bug,Coding In Progress,UNDERTOW,Undertow,software,,31/01/2023 15:18,
+UNDERTOW-2235,Bug,Pull Request Sent,UNDERTOW,Undertow,software,,27/01/2023 08:22,
+UNDERTOW-2234,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/01/2023 10:09,26/01/2023 15:04
+UNDERTOW-2233,Feature Request,Open,UNDERTOW,Undertow,software,,23/01/2023 15:54,
+UNDERTOW-2232,Bug,Open,UNDERTOW,Undertow,software,,23/01/2023 03:54,
+UNDERTOW-2231,Bug,Pull Request Sent,UNDERTOW,Undertow,software,,21/01/2023 01:14,
+UNDERTOW-2230,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,20/01/2023 22:42,14/08/2024 09:36
+UNDERTOW-2229,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,20/01/2023 22:41,14/08/2024 09:37
+UNDERTOW-2228,Bug,Resolved,UNDERTOW,Undertow,software,Done,18/01/2023 09:12,21/06/2023 06:23
+UNDERTOW-2227,Bug,Closed,UNDERTOW,Undertow,software,Duplicate,11/01/2023 11:41,11/01/2023 17:41
+UNDERTOW-2226,Bug,Closed,UNDERTOW,Undertow,software,Duplicate,11/01/2023 11:40,11/01/2023 17:43
+UNDERTOW-2225,Bug,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,11/01/2023 11:39,21/03/2023 09:38
+UNDERTOW-2222,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/01/2023 15:10,11/01/2023 14:58
+UNDERTOW-2221,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/01/2023 09:47,10/01/2023 12:56
+UNDERTOW-2220,Clarification,Open,UNDERTOW,Undertow,software,,03/01/2023 17:27,
+UNDERTOW-2218,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,29/12/2022 20:25,02/02/2023 14:09
+UNDERTOW-2217,Bug,Open,UNDERTOW,Undertow,software,,27/12/2022 20:03,
+UNDERTOW-2216,Bug,Closed,UNDERTOW,Undertow,software,Done,27/12/2022 19:58,06/06/2023 20:14
+UNDERTOW-2215,Enhancement,Resolved,UNDERTOW,Undertow,software,Won't Do,21/12/2022 22:03,15/03/2024 08:31
+UNDERTOW-2214,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/12/2022 16:21,23/12/2022 17:13
+UNDERTOW-2213,Bug,Closed,UNDERTOW,Undertow,software,Done,15/12/2022 14:14,27/12/2022 19:21
+UNDERTOW-2211,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/12/2022 07:19,06/02/2023 05:20
+UNDERTOW-2210,Task,Resolved,UNDERTOW,Undertow,software,Done,14/12/2022 00:14,14/02/2023 03:09
+UNDERTOW-2209,Bug,Closed,UNDERTOW,Undertow,software,Done,13/12/2022 06:32,14/02/2023 05:20
+UNDERTOW-2208,Task,Resolved,UNDERTOW,Undertow,software,Done,11/12/2022 17:48,13/01/2023 05:21
+UNDERTOW-2207,Bug,Closed,UNDERTOW,Undertow,software,Done,17/11/2022 20:51,06/06/2023 17:17
+UNDERTOW-2206,Bug,Closed,UNDERTOW,Undertow,software,Done,15/11/2022 13:49,24/11/2022 19:23
+UNDERTOW-2205,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,15/11/2022 09:18,19/04/2024 10:01
+UNDERTOW-2204,Enhancement,Closed,UNDERTOW,Undertow,software,Done,14/11/2022 19:43,14/11/2022 20:52
+UNDERTOW-2203,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,14/11/2022 19:36,14/02/2023 02:21
+UNDERTOW-2202,Bug,Closed,UNDERTOW,Undertow,software,Done,14/11/2022 11:25,09/12/2022 07:49
+UNDERTOW-2200,Bug,Closed,UNDERTOW,Undertow,software,Done,09/11/2022 21:58,13/02/2023 22:36
+UNDERTOW-2199,Bug,Closed,UNDERTOW,Undertow,software,Not a Bug,09/11/2022 01:51,16/11/2022 01:23
+UNDERTOW-2198,Feature Request,Closed,UNDERTOW,Undertow,software,Done,07/11/2022 08:03,09/12/2022 07:37
+UNDERTOW-2197,Question,Resolved,UNDERTOW,Undertow,software,Done,04/11/2022 14:19,10/11/2022 08:27
+UNDERTOW-2196,Enhancement,Closed,UNDERTOW,Undertow,software,Done,04/11/2022 12:43,15/11/2022 03:02
+UNDERTOW-2194,Bug,Pull Request Sent,UNDERTOW,Undertow,software,,03/11/2022 09:27,
+UNDERTOW-2193,Documentation,Closed,UNDERTOW,Undertow,software,Done,31/10/2022 19:20,16/07/2024 06:20
+UNDERTOW-2191,Feature Request,Pull Request Sent,UNDERTOW,Undertow,software,,25/10/2022 23:35,
+UNDERTOW-2190,Bug,Closed,UNDERTOW,Undertow,software,Done,25/10/2022 23:29,09/11/2022 13:41
+UNDERTOW-2189,Bug,Closed,UNDERTOW,Undertow,software,Done,25/10/2022 13:19,09/11/2022 14:01
+UNDERTOW-2188,Bug,Closed,UNDERTOW,Undertow,software,Done,19/10/2022 09:58,09/12/2022 07:41
+UNDERTOW-2186,Bug,Closed,UNDERTOW,Undertow,software,Done,18/10/2022 21:43,15/11/2022 04:11
+UNDERTOW-2185,Component Upgrade,Closed,UNDERTOW,Undertow,software,Done,13/10/2022 14:38,14/10/2022 18:54
+UNDERTOW-2184,Bug,Closed,UNDERTOW,Undertow,software,Done,12/10/2022 16:40,09/11/2022 14:20
+UNDERTOW-2183,Component Upgrade,Closed,UNDERTOW,Undertow,software,Done,12/10/2022 07:25,12/10/2022 08:38
+UNDERTOW-2182,Component Upgrade,Closed,UNDERTOW,Undertow,software,Done,12/10/2022 07:24,12/10/2022 08:38
+UNDERTOW-2181,Component Upgrade,Closed,UNDERTOW,Undertow,software,Done,12/10/2022 07:24,12/10/2022 08:38
+UNDERTOW-2180,Component Upgrade,Closed,UNDERTOW,Undertow,software,Done,12/10/2022 07:23,12/10/2022 08:38
+UNDERTOW-2179,Component Upgrade,Closed,UNDERTOW,Undertow,software,Done,12/10/2022 07:22,12/10/2022 08:37
+UNDERTOW-2178,Component Upgrade,Closed,UNDERTOW,Undertow,software,Done,12/10/2022 07:21,12/10/2022 08:37
+UNDERTOW-2177,Component Upgrade,Closed,UNDERTOW,Undertow,software,Done,12/10/2022 07:20,12/10/2022 08:37
+UNDERTOW-2176,Bug,Closed,UNDERTOW,Undertow,software,Done,12/10/2022 07:20,12/10/2022 08:39
+UNDERTOW-2175,Component Upgrade,Closed,UNDERTOW,Undertow,software,Done,12/10/2022 07:19,12/10/2022 08:37
+UNDERTOW-2174,Task,Closed,UNDERTOW,Undertow,software,Done,12/10/2022 07:01,12/10/2022 08:37
+UNDERTOW-2173,Component Upgrade,Closed,UNDERTOW,Undertow,software,Done,12/10/2022 06:40,12/10/2022 08:37
+UNDERTOW-2172,Component Upgrade,Closed,UNDERTOW,Undertow,software,Done,12/10/2022 06:38,12/10/2022 08:37
+UNDERTOW-2171,Component Upgrade,Closed,UNDERTOW,Undertow,software,Done,12/10/2022 06:37,12/10/2022 08:37
+UNDERTOW-2170,Task,Open,UNDERTOW,Undertow,software,,11/10/2022 20:15,
+UNDERTOW-2169,Task,Resolved,UNDERTOW,Undertow,software,Done,11/10/2022 10:55,14/10/2022 18:30
+UNDERTOW-2168,Bug,Closed,UNDERTOW,Undertow,software,Done,11/10/2022 07:11,11/10/2022 20:27
+UNDERTOW-2167,Task,Closed,UNDERTOW,Undertow,software,Done,10/10/2022 17:19,11/10/2022 17:32
+UNDERTOW-2166,Bug,Closed,UNDERTOW,Undertow,software,Done,10/10/2022 15:19,10/10/2022 17:16
+UNDERTOW-2164,Bug,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,06/10/2022 00:02,29/05/2023 07:51
+UNDERTOW-2163,Bug,Closed,UNDERTOW,Undertow,software,Done,27/09/2022 15:35,11/10/2022 05:24
+UNDERTOW-2162,Bug,Closed,UNDERTOW,Undertow,software,Done,20/09/2022 18:48,11/10/2022 05:25
+UNDERTOW-2161,Enhancement,Open,UNDERTOW,Undertow,software,,17/09/2022 16:03,
+UNDERTOW-2160,Bug,Closed,UNDERTOW,Undertow,software,Done,17/09/2022 07:51,18/09/2022 18:31
+UNDERTOW-2159,Bug,Closed,UNDERTOW,Undertow,software,Done,07/09/2022 08:04,16/09/2022 06:09
+UNDERTOW-2158,Bug,Open,UNDERTOW,Undertow,software,,06/09/2022 20:54,
+UNDERTOW-2157,Bug,Open,UNDERTOW,Undertow,software,,06/09/2022 12:04,
+UNDERTOW-2156,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,02/09/2022 20:43,05/09/2022 14:10
+UNDERTOW-2155,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,02/09/2022 20:40,05/09/2022 14:11
+UNDERTOW-2154,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,02/09/2022 20:31,05/09/2022 14:11
+UNDERTOW-2153,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,02/09/2022 20:27,05/09/2022 14:11
+UNDERTOW-2152,Component Upgrade,Resolved,UNDERTOW,Undertow,software,Done,02/09/2022 20:06,05/09/2022 14:12
+UNDERTOW-2151,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/09/2022 17:31,03/09/2022 11:51
+UNDERTOW-2150,Enhancement,Open,UNDERTOW,Undertow,software,,31/08/2022 17:54,
+UNDERTOW-2149,Bug,Pull Request Sent,UNDERTOW,Undertow,software,,31/08/2022 08:23,
+UNDERTOW-2147,Bug,Closed,UNDERTOW,Undertow,software,Done,30/08/2022 21:40,17/09/2022 19:33
+UNDERTOW-2146,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,30/08/2022 05:05,23/12/2022 09:51
+UNDERTOW-2145,Enhancement,Closed,UNDERTOW,Undertow,software,Done,26/08/2022 19:40,17/09/2022 09:29
+UNDERTOW-2144,Bug,Coding In Progress,UNDERTOW,Undertow,software,,23/08/2022 21:22,
+UNDERTOW-2143,Enhancement,Closed,UNDERTOW,Undertow,software,Done,23/08/2022 13:40,06/11/2022 12:47
+UNDERTOW-2142,Bug,Closed,UNDERTOW,Undertow,software,Done,18/08/2022 18:32,17/09/2022 11:44
+UNDERTOW-2141,Bug,Closed,UNDERTOW,Undertow,software,Done,17/08/2022 20:53,11/10/2022 05:27
+UNDERTOW-2140,Bug,Closed,UNDERTOW,Undertow,software,Done,03/08/2022 21:16,17/09/2022 22:43
+UNDERTOW-2139,Clarification,Resolved,UNDERTOW,Undertow,software,Done,03/08/2022 19:02,18/05/2023 06:06
+UNDERTOW-2138,Enhancement,Closed,UNDERTOW,Undertow,software,Done,01/08/2022 08:50,09/09/2022 15:18
+UNDERTOW-2135,Bug,Closed,UNDERTOW,Undertow,software,Done,26/07/2022 03:21,02/08/2022 05:56
+UNDERTOW-2134,Enhancement,Closed,UNDERTOW,Undertow,software,Done,25/07/2022 21:57,26/07/2022 02:12
+UNDERTOW-2133,Bug,Resolved,UNDERTOW,Undertow,software,Done,25/07/2022 14:27,26/07/2022 03:36
+UNDERTOW-2132,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,25/07/2022 13:00,18/05/2023 06:14
+UNDERTOW-2131,Enhancement,Closed,UNDERTOW,Undertow,software,Done,23/07/2022 07:41,26/07/2022 03:34
+UNDERTOW-2130,Bug,Closed,UNDERTOW,Undertow,software,Done,22/07/2022 12:43,25/07/2022 15:03
+UNDERTOW-2129,Feature Request,Open,UNDERTOW,Undertow,software,,22/07/2022 03:39,
+UNDERTOW-2128,Feature Request,Open,UNDERTOW,Undertow,software,,22/07/2022 02:40,
+UNDERTOW-2127,Documentation,Open,UNDERTOW,Undertow,software,,21/07/2022 07:16,
+UNDERTOW-2126,Task,Open,UNDERTOW,Undertow,software,,21/07/2022 06:47,
+UNDERTOW-2125,Bug,Closed,UNDERTOW,Undertow,software,Done,19/07/2022 05:41,11/08/2022 02:26
+UNDERTOW-2124,Bug,Closed,UNDERTOW,Undertow,software,Done,13/07/2022 15:24,03/08/2022 12:15
+UNDERTOW-2123,Bug,Closed,UNDERTOW,Undertow,software,Done,12/07/2022 05:15,27/10/2022 11:42
+UNDERTOW-2122,Bug,Closed,UNDERTOW,Undertow,software,Done,11/07/2022 08:14,11/08/2022 00:46
+UNDERTOW-2121,Feature Request,Open,UNDERTOW,Undertow,software,,08/07/2022 17:58,
+UNDERTOW-2120,Feature Request,Coding In Progress,UNDERTOW,Undertow,software,,08/07/2022 17:54,
+UNDERTOW-2119,Feature Request,Pull Request Sent,UNDERTOW,Undertow,software,,08/07/2022 17:30,
+UNDERTOW-2117,Task,Closed,UNDERTOW,Undertow,software,Done,06/07/2022 22:41,17/09/2022 22:42
+UNDERTOW-2116,Bug,Closed,UNDERTOW,Undertow,software,Done,30/06/2022 15:01,13/07/2022 12:55
+UNDERTOW-2115,Enhancement,Pull Request Sent,UNDERTOW,Undertow,software,,28/06/2022 17:22,
+UNDERTOW-2114,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/06/2022 07:08,05/09/2022 14:15
+UNDERTOW-2113,Bug,Closed,UNDERTOW,Undertow,software,Done,23/06/2022 11:42,26/07/2022 04:22
+UNDERTOW-2112,Bug,Closed,UNDERTOW,Undertow,software,Done,22/06/2022 12:23,11/08/2022 04:49
+UNDERTOW-2111,Bug,Closed,UNDERTOW,Undertow,software,Done,21/06/2022 17:59,11/10/2022 04:47
+UNDERTOW-2110,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,21/06/2022 17:50,16/07/2024 06:33
+UNDERTOW-2109,Enhancement,Closed,UNDERTOW,Undertow,software,Done,21/06/2022 14:27,17/09/2022 07:52
+UNDERTOW-2108,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,16/06/2022 17:28,28/06/2022 18:59
+UNDERTOW-2107,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,16/06/2022 17:27,28/06/2022 18:59
+UNDERTOW-2106,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,16/06/2022 17:26,28/06/2022 18:58
+UNDERTOW-2105,Component Upgrade,Open,UNDERTOW,Undertow,software,,13/06/2022 06:19,
+UNDERTOW-2104,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/06/2022 12:38,05/09/2022 14:15
+UNDERTOW-2103,Task,Coding In Progress,UNDERTOW,Undertow,software,,08/06/2022 11:38,
+UNDERTOW-2102,Bug,Closed,UNDERTOW,Undertow,software,Done,08/06/2022 07:25,13/06/2022 06:56
+UNDERTOW-2101,Question,Resolved,UNDERTOW,Undertow,software,Done,06/06/2022 09:02,13/06/2022 06:17
+UNDERTOW-2100,Feature Request,Closed,UNDERTOW,Undertow,software,Done,03/06/2022 13:35,08/06/2022 12:44
+UNDERTOW-2099,Task,Closed,UNDERTOW,Undertow,software,Duplicate,03/06/2022 07:07,03/06/2022 08:29
+UNDERTOW-2098,Bug,Closed,UNDERTOW,Undertow,software,Done,02/06/2022 13:50,08/06/2022 12:32
+UNDERTOW-2097,Bug,Closed,UNDERTOW,Undertow,software,Done,01/06/2022 21:58,16/08/2022 06:33
+UNDERTOW-2096,Task,Closed,UNDERTOW,Undertow,software,Done,01/06/2022 07:14,01/06/2022 07:52
+UNDERTOW-2095,Bug,Closed,UNDERTOW,Undertow,software,Done,28/05/2022 02:01,05/07/2022 05:39
+UNDERTOW-2094,Bug,Closed,UNDERTOW,Undertow,software,Done,18/05/2022 20:14,14/06/2022 05:52
+UNDERTOW-2093,Bug,Closed,UNDERTOW,Undertow,software,Done,17/05/2022 22:56,01/06/2022 07:53
+UNDERTOW-2092,Bug,Closed,UNDERTOW,Undertow,software,Done,17/05/2022 22:30,31/05/2022 18:18
+UNDERTOW-2091,Bug,Closed,UNDERTOW,Undertow,software,Done,17/05/2022 22:08,31/05/2022 19:04
+UNDERTOW-2090,Clarification,Resolved,UNDERTOW,Undertow,software,Done,15/05/2022 06:57,07/06/2022 06:33
+UNDERTOW-2083,Bug,Closed,UNDERTOW,Undertow,software,Done,09/05/2022 20:32,11/08/2022 02:24
+UNDERTOW-2082,Bug,Closed,UNDERTOW,Undertow,software,Done,04/05/2022 13:45,11/10/2022 04:17
+UNDERTOW-2081,Bug,Closed,UNDERTOW,Undertow,software,Done,03/05/2022 12:04,01/06/2022 08:41
+UNDERTOW-2080,Bug,Closed,UNDERTOW,Undertow,software,Done,28/04/2022 10:37,09/06/2022 15:07
+UNDERTOW-2079,Bug,Closed,UNDERTOW,Undertow,software,Done,27/04/2022 15:44,09/06/2022 15:03
+UNDERTOW-2078,Bug,Closed,UNDERTOW,Undertow,software,Duplicate,27/04/2022 12:19,21/05/2024 07:35
+UNDERTOW-2077,Bug,Closed,UNDERTOW,Undertow,software,Done,25/04/2022 07:11,08/06/2023 04:39
+UNDERTOW-2076,Enhancement,Closed,UNDERTOW,Undertow,software,Done,25/04/2022 07:05,08/06/2023 04:38
+UNDERTOW-2075,Bug,Closed,UNDERTOW,Undertow,software,Done,24/04/2022 20:16,08/06/2023 04:37
+UNDERTOW-2074,Component Upgrade,Closed,UNDERTOW,Undertow,software,Done,22/04/2022 18:14,25/04/2022 12:34
+UNDERTOW-2073,Bug,Closed,UNDERTOW,Undertow,software,Done,22/04/2022 17:46,25/04/2022 12:34
+UNDERTOW-2072,Bug,Closed,UNDERTOW,Undertow,software,Done,22/04/2022 09:16,11/10/2023 06:33
+UNDERTOW-2071,Bug,Resolved,UNDERTOW,Undertow,software,Duplicate,21/04/2022 18:38,14/12/2022 14:20
+UNDERTOW-2070,Bug,Closed,UNDERTOW,Undertow,software,Done,20/04/2022 14:35,22/04/2022 14:09
+UNDERTOW-2069,Bug,Closed,UNDERTOW,Undertow,software,Done,19/04/2022 22:44,14/06/2022 14:53
+UNDERTOW-2068,Bug,Closed,UNDERTOW,Undertow,software,Done,13/04/2022 06:23,13/04/2022 12:52
+UNDERTOW-2067,Enhancement,Closed,UNDERTOW,Undertow,software,Done,13/04/2022 06:14,13/04/2022 12:52
+UNDERTOW-2066,Bug,Closed,UNDERTOW,Undertow,software,Done,13/04/2022 05:58,13/04/2022 12:52
+UNDERTOW-2063,Task,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,12/04/2022 20:17,19/07/2022 15:40
+UNDERTOW-2062,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/04/2022 17:28,07/06/2022 07:06
+UNDERTOW-2061,Bug,Closed,UNDERTOW,Undertow,software,Done,12/04/2022 10:58,01/06/2022 08:47
+UNDERTOW-2059,Task,Open,UNDERTOW,Undertow,software,,07/04/2022 09:05,
+UNDERTOW-2055,Bug,Pull Request Sent,UNDERTOW,Undertow,software,,03/04/2022 21:11,
+UNDERTOW-2053,Feature Request,Closed,UNDERTOW,Undertow,software,Duplicate,01/04/2022 12:40,01/06/2022 08:36
+UNDERTOW-2052,Feature Request,Closed,UNDERTOW,Undertow,software,Done,01/04/2022 12:37,01/06/2022 08:37
+UNDERTOW-2051,Feature Request,Closed,UNDERTOW,Undertow,software,Done,01/04/2022 12:35,01/06/2022 08:39
+UNDERTOW-2050,Task,Closed,UNDERTOW,Undertow,software,Done,01/04/2022 12:32,12/05/2022 14:03
+UNDERTOW-2049,Task,Closed,UNDERTOW,Undertow,software,Done,01/04/2022 08:13,12/05/2022 14:02
+UNDERTOW-2048,Bug,Closed,UNDERTOW,Undertow,software,Done,25/03/2022 06:24,10/10/2022 03:54
+UNDERTOW-2046,Bug,Closed,UNDERTOW,Undertow,software,Done,22/03/2022 21:00,16/07/2024 06:23
+UNDERTOW-2045,Task,Open,UNDERTOW,Undertow,software,,11/03/2022 18:39,
+UNDERTOW-2044,Task,Resolved,UNDERTOW,Undertow,software,Done,11/03/2022 06:57,15/03/2022 14:39
+UNDERTOW-2043,Task,Open,UNDERTOW,Undertow,software,,11/03/2022 06:00,
+UNDERTOW-2041,Bug,Resolved,UNDERTOW,Undertow,software,Done,25/02/2022 14:57,01/04/2022 14:37
+UNDERTOW-2040,Enhancement,Resolved,UNDERTOW,Undertow,software,Won't Do,23/02/2022 19:44,19/01/2023 09:31
+UNDERTOW-2039,Enhancement,Pull Request Sent,UNDERTOW,Undertow,software,,22/02/2022 19:48,
+UNDERTOW-2038,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,22/02/2022 14:41,01/04/2022 07:21
+UNDERTOW-2037,Bug,Resolved,UNDERTOW,Undertow,software,Can't Do,22/02/2022 10:50,10/06/2022 10:02
+UNDERTOW-2036,Bug,Closed,UNDERTOW,Undertow,software,Done,22/02/2022 03:18,04/04/2022 15:01
+UNDERTOW-2035,Bug,Closed,UNDERTOW,Undertow,software,Done,22/02/2022 03:13,13/04/2022 04:56
+UNDERTOW-2034,Bug,Closed,UNDERTOW,Undertow,software,Done,22/02/2022 03:06,13/04/2022 04:56
+UNDERTOW-2033,Bug,Closed,UNDERTOW,Undertow,software,Done,19/02/2022 16:15,16/07/2024 06:28
+UNDERTOW-2031,Bug,Closed,UNDERTOW,Undertow,software,Done,18/02/2022 08:55,27/10/2022 21:44
+UNDERTOW-2030,Bug,Open,UNDERTOW,Undertow,software,,17/02/2022 11:43,
+UNDERTOW-2029,Enhancement,Open,UNDERTOW,Undertow,software,,16/02/2022 08:43,
+UNDERTOW-2026,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/02/2022 20:18,09/02/2022 05:48
+UNDERTOW-2025,Task,Resolved,UNDERTOW,Undertow,software,Done,06/02/2022 08:53,06/02/2022 10:32
+UNDERTOW-2024,Enhancement,Open,UNDERTOW,Undertow,software,,04/02/2022 21:05,
+UNDERTOW-2023,Bug,Closed,UNDERTOW,Undertow,software,Duplicate,03/02/2022 15:23,03/02/2022 16:31
+UNDERTOW-2021,Story,Closed,UNDERTOW,Undertow,software,Done,21/01/2022 10:10,26/01/2022 14:25
+UNDERTOW-2020,Bug,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,21/01/2022 08:20,07/06/2022 11:46
+UNDERTOW-2019,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/01/2022 01:03,06/02/2022 10:34
+UNDERTOW-2018,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/01/2022 16:03,06/02/2022 09:49
+UNDERTOW-2017,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/01/2022 16:56,06/02/2022 09:43
+UNDERTOW-2016,Bug,Resolved,UNDERTOW,Undertow,software,Duplicate,07/01/2022 08:02,26/05/2022 06:20
+UNDERTOW-2015,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/01/2022 11:01,05/02/2022 06:23
+UNDERTOW-2014,Bug,Closed,UNDERTOW,Undertow,software,Not a Bug,05/01/2022 14:02,06/01/2022 06:44
+UNDERTOW-2012,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/12/2021 06:46,06/02/2022 09:15
+UNDERTOW-2011,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/12/2021 20:00,06/02/2022 09:07
+UNDERTOW-2010,Feature Request,Pull Request Sent,UNDERTOW,Undertow,software,,27/12/2021 23:44,
+UNDERTOW-2009,Feature Request,Open,UNDERTOW,Undertow,software,,27/12/2021 23:39,
+UNDERTOW-2008,Bug,Open,UNDERTOW,Undertow,software,,19/12/2021 17:53,
+UNDERTOW-2007,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/12/2021 22:02,06/02/2022 09:05
+UNDERTOW-2006,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,13/12/2021 13:59,13/12/2021 14:00
+UNDERTOW-2005,Bug,Coding In Progress,UNDERTOW,Undertow,software,,10/12/2021 16:20,
+UNDERTOW-2004,Question,Resolved,UNDERTOW,Undertow,software,Done,06/12/2021 21:21,27/03/2024 07:33
+UNDERTOW-2002,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/12/2021 22:53,05/02/2022 06:42
+UNDERTOW-2001,Task,Resolved,UNDERTOW,Undertow,software,Done,03/12/2021 08:04,03/12/2021 15:58
+UNDERTOW-2000,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,02/12/2021 12:02,11/03/2022 12:31
+UNDERTOW-1998,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/11/2021 16:03,24/11/2022 09:26
+UNDERTOW-1997,Bug,Closed,UNDERTOW,Undertow,software,Done,22/11/2021 19:45,11/08/2022 05:40
+UNDERTOW-1996,Bug,Closed,UNDERTOW,Undertow,software,Cannot Reproduce,22/11/2021 07:00,24/04/2023 14:58
+UNDERTOW-1995,Bug,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,20/11/2021 13:17,29/11/2021 09:46
+UNDERTOW-1994,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/11/2021 13:05,06/02/2022 08:50
+UNDERTOW-1992,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,19/11/2021 06:28,19/11/2021 08:31
+UNDERTOW-1991,Bug,Open,UNDERTOW,Undertow,software,,17/11/2021 19:14,
+UNDERTOW-1990,Task,Resolved,UNDERTOW,Undertow,software,Won't Do,16/11/2021 10:08,23/11/2021 06:05
+UNDERTOW-1989,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/11/2021 07:51,19/11/2021 08:12
+UNDERTOW-1988,Bug,Closed,UNDERTOW,Undertow,software,Done,15/11/2021 13:46,24/11/2022 08:20
+UNDERTOW-1987,Bug,Open,UNDERTOW,Undertow,software,,13/11/2021 19:54,
+UNDERTOW-1984,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/11/2021 13:45,19/11/2021 09:19
+UNDERTOW-1983,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,05/11/2021 06:51,05/11/2021 06:53
+UNDERTOW-1982,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,21/10/2021 13:07,12/11/2021 06:19
+UNDERTOW-1981,Bug,Resolved,UNDERTOW,Undertow,software,Done,18/10/2021 17:16,05/11/2021 06:47
+UNDERTOW-1980,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/10/2021 19:13,19/11/2021 09:47
+UNDERTOW-1979,Bug,Resolved,UNDERTOW,Undertow,software,Done,11/10/2021 17:53,11/10/2021 22:09
+UNDERTOW-1978,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,08/10/2021 05:22,13/10/2021 06:50
+UNDERTOW-1977,Documentation,Open,UNDERTOW,Undertow,software,,08/10/2021 05:20,
+UNDERTOW-1976,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,01/10/2021 16:11,05/10/2021 09:47
+UNDERTOW-1975,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,30/09/2021 10:24,12/11/2021 07:09
+UNDERTOW-1974,Bug,Open,UNDERTOW,Undertow,software,,29/09/2021 07:59,
+UNDERTOW-1972,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/09/2021 12:55,28/09/2021 21:06
+UNDERTOW-1971,Enhancement,Closed,UNDERTOW,Undertow,software,Done,28/09/2021 02:58,12/10/2022 06:34
+UNDERTOW-1970,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,26/09/2021 14:38,04/05/2022 07:59
+UNDERTOW-1969,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/09/2021 08:24,28/09/2021 14:12
+UNDERTOW-1968,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/09/2021 08:29,03/12/2021 15:58
+UNDERTOW-1967,Bug,Closed,UNDERTOW,Undertow,software,Duplicate,19/09/2021 14:07,21/05/2024 07:41
+UNDERTOW-1965,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,16/09/2021 08:37,12/11/2021 07:09
+UNDERTOW-1964,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/09/2021 06:52,12/11/2021 07:09
+UNDERTOW-1963,Feature Request,Open,UNDERTOW,Undertow,software,,14/09/2021 02:04,
+UNDERTOW-1961,Bug,Open,UNDERTOW,Undertow,software,,13/09/2021 18:16,
+UNDERTOW-1958,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,05/09/2021 16:32,13/09/2021 10:37
+UNDERTOW-1957,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/09/2021 20:33,27/09/2021 19:04
+UNDERTOW-1956,Documentation,Open,UNDERTOW,Undertow,software,,02/09/2021 06:47,
+UNDERTOW-1955,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,26/08/2021 13:53,10/06/2022 07:17
+UNDERTOW-1954,Enhancement,Open,UNDERTOW,Undertow,software,,24/08/2021 04:16,
+UNDERTOW-1953,Bug,Resolved,UNDERTOW,Undertow,software,Duplicate,16/08/2021 23:44,01/09/2021 07:51
+UNDERTOW-1952,Bug,Pull Request Sent,UNDERTOW,Undertow,software,,09/08/2021 06:37,
+UNDERTOW-1951,Feature Request,Pull Request Sent,UNDERTOW,Undertow,software,,09/08/2021 06:33,
+UNDERTOW-1950,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/08/2021 06:31,28/09/2021 04:59
+UNDERTOW-1949,Feature Request,Pull Request Sent,UNDERTOW,Undertow,software,,09/08/2021 06:26,
+UNDERTOW-1947,Enhancement,Open,UNDERTOW,Undertow,software,,04/08/2021 20:29,
+UNDERTOW-1939,Task,Resolved,UNDERTOW,Undertow,software,Done,04/08/2021 03:48,04/08/2021 04:25
+UNDERTOW-1936,Enhancement,Pull Request Sent,UNDERTOW,Undertow,software,,03/08/2021 14:41,
+UNDERTOW-1935,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/07/2021 21:25,10/08/2021 13:55
+UNDERTOW-1934,Bug,Closed,UNDERTOW,Undertow,software,Done,27/07/2021 21:02,11/08/2022 04:09
+UNDERTOW-1933,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/07/2021 08:39,12/08/2021 03:15
+UNDERTOW-1932,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/07/2021 08:07,12/08/2021 03:44
+UNDERTOW-1931,Bug,Resolved,UNDERTOW,Undertow,software,Done,25/07/2021 17:21,12/08/2021 03:53
+UNDERTOW-1930,Enhancement,Pull Request Sent,UNDERTOW,Undertow,software,,19/07/2021 17:35,
+UNDERTOW-1925,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,19/07/2021 02:02,19/07/2021 04:21
+UNDERTOW-1924,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/07/2021 01:54,19/07/2021 04:06
+UNDERTOW-1923,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,19/07/2021 01:38,19/07/2021 04:22
+UNDERTOW-1922,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,18/07/2021 23:54,19/07/2021 04:22
+UNDERTOW-1921,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,18/07/2021 15:51,19/07/2021 04:21
+UNDERTOW-1920,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,18/07/2021 15:45,19/07/2021 04:23
+UNDERTOW-1919,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,18/07/2021 15:41,19/07/2021 04:17
+UNDERTOW-1917,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/07/2021 18:46,28/09/2021 05:39
+UNDERTOW-1916,Task,Resolved,UNDERTOW,Undertow,software,Done,16/07/2021 10:58,12/08/2021 04:11
+UNDERTOW-1915,Task,Resolved,UNDERTOW,Undertow,software,Done,16/07/2021 08:38,28/09/2021 05:08
+UNDERTOW-1914,Question,Resolved,UNDERTOW,Undertow,software,Done,10/07/2021 13:02,17/01/2023 07:47
+UNDERTOW-1913,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,07/07/2021 17:44,20/11/2021 01:20
+UNDERTOW-1910,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/07/2021 06:31,28/09/2021 05:29
+UNDERTOW-1909,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/06/2021 21:43,01/07/2021 07:57
+UNDERTOW-1908,Bug,Open,UNDERTOW,Undertow,software,,27/06/2021 20:41,
+UNDERTOW-1906,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/06/2021 07:23,20/07/2021 04:56
+UNDERTOW-1905,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,22/06/2021 09:39,20/07/2021 05:05
+UNDERTOW-1904,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,22/06/2021 09:25,14/08/2024 10:03
+UNDERTOW-1902,Bug,Closed,UNDERTOW,Undertow,software,Done,18/06/2021 14:46,17/09/2022 17:49
+UNDERTOW-1901,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,17/06/2021 06:03,14/08/2024 09:16
+UNDERTOW-1900,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/06/2021 08:46,10/06/2022 08:30
+UNDERTOW-1899,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/06/2021 04:27,17/06/2021 05:50
+UNDERTOW-1898,Bug,Resolved,UNDERTOW,Undertow,software,Done,04/06/2021 15:37,17/06/2021 06:19
+UNDERTOW-1895,Task,Resolved,UNDERTOW,Undertow,software,Done,25/05/2021 08:03,20/07/2021 06:21
+UNDERTOW-1894,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/05/2021 19:03,20/07/2021 06:03
+UNDERTOW-1893,Bug,Open,UNDERTOW,Undertow,software,,24/05/2021 15:44,
+UNDERTOW-1892,Task,Resolved,UNDERTOW,Undertow,software,Won't Do,17/05/2021 11:08,20/08/2021 09:54
+UNDERTOW-1891,Feature Request,Resolved,UNDERTOW,Undertow,software,Won't Do,10/05/2021 21:44,08/04/2024 10:08
+UNDERTOW-1890,Enhancement,Closed,UNDERTOW,Undertow,software,Done,06/05/2021 12:21,17/01/2023 10:58
+UNDERTOW-1889,Task,Pull Request Sent,UNDERTOW,Undertow,software,,06/05/2021 12:19,
+UNDERTOW-1888,Bug,Open,UNDERTOW,Undertow,software,,27/04/2021 10:51,
+UNDERTOW-1887,Clarification,Resolved,UNDERTOW,Undertow,software,Won't Do,27/04/2021 05:50,14/10/2021 08:15
+UNDERTOW-1886,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/04/2021 14:20,25/05/2021 08:34
+UNDERTOW-1885,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/04/2021 16:44,14/02/2023 02:38
+UNDERTOW-1884,Clarification,Open,UNDERTOW,Undertow,software,,21/04/2021 07:46,
+UNDERTOW-1883,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,16/04/2021 11:08,19/11/2021 08:36
+UNDERTOW-1882,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/04/2021 14:44,20/07/2021 06:37
+UNDERTOW-1881,Feature Request,Open,UNDERTOW,Undertow,software,,15/04/2021 11:24,
+UNDERTOW-1880,Feature Request,Pull Request Sent,UNDERTOW,Undertow,software,,13/04/2021 12:15,
+UNDERTOW-1879,Enhancement,Closed,UNDERTOW,Undertow,software,Done,09/04/2021 12:40,24/04/2022 11:34
+UNDERTOW-1878,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,06/04/2021 09:33,13/04/2021 05:21
+UNDERTOW-1877,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/04/2021 05:37,15/04/2021 07:08
+UNDERTOW-1875,Feature Request,Closed,UNDERTOW,Undertow,software,Done,31/03/2021 10:45,14/02/2023 03:06
+UNDERTOW-1874,Bug,Open,UNDERTOW,Undertow,software,,30/03/2021 07:48,
+UNDERTOW-1873,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/03/2021 13:01,30/03/2021 02:50
+UNDERTOW-1872,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/03/2021 11:26,12/11/2021 07:08
+UNDERTOW-1871,Enhancement,Open,UNDERTOW,Undertow,software,,26/03/2021 16:58,
+UNDERTOW-1870,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,25/03/2021 10:44,14/08/2024 10:09
+UNDERTOW-1869,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/03/2021 11:08,28/09/2021 05:47
+UNDERTOW-1868,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,23/03/2021 05:35,24/03/2021 03:58
+UNDERTOW-1867,Bug,Open,UNDERTOW,Undertow,software,,23/03/2021 05:29,
+UNDERTOW-1866,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/03/2021 02:54,29/04/2021 08:03
+UNDERTOW-1865,Question,Resolved,UNDERTOW,Undertow,software,Can't Do,15/03/2021 15:11,19/12/2022 10:20
+UNDERTOW-1864,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/03/2021 02:54,25/05/2021 03:16
+UNDERTOW-1863,Bug,Open,UNDERTOW,Undertow,software,,04/03/2021 08:27,
+UNDERTOW-1862,Bug,Open,UNDERTOW,Undertow,software,,04/03/2021 04:41,
+UNDERTOW-1861,Component Upgrade,Closed,UNDERTOW,Undertow,software,Obsolete,03/03/2021 16:33,08/07/2021 19:15
+UNDERTOW-1860,Component Upgrade,Resolved,UNDERTOW,Undertow,software,Duplicate,03/03/2021 16:32,12/04/2024 09:58
+UNDERTOW-1859,Task,Open,UNDERTOW,Undertow,software,,03/03/2021 16:27,
+UNDERTOW-1858,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/03/2021 16:25,20/07/2021 05:33
+UNDERTOW-1857,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,03/03/2021 16:24,08/03/2021 00:31
+UNDERTOW-1856,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/03/2021 00:22,20/07/2021 06:19
+UNDERTOW-1855,Enhancement,Pull Request Sent,UNDERTOW,Undertow,software,,02/03/2021 14:56,
+UNDERTOW-1854,Feature Request,Closed,UNDERTOW,Undertow,software,Can't Do,02/03/2021 05:37,23/08/2021 14:55
+UNDERTOW-1853,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,01/03/2021 07:47,19/03/2021 06:09
+UNDERTOW-1852,Task,Resolved,UNDERTOW,Undertow,software,Done,24/02/2021 13:19,03/03/2021 15:41
+UNDERTOW-1850,Bug,Reopened,UNDERTOW,Undertow,software,,23/02/2021 08:04,
+UNDERTOW-1849,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/02/2021 04:35,22/03/2021 06:21
+UNDERTOW-1848,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/02/2021 15:09,16/02/2022 04:18
+UNDERTOW-1847,Task,Resolved,UNDERTOW,Undertow,software,Done,10/02/2021 23:22,04/03/2021 19:17
+UNDERTOW-1846,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,10/02/2021 14:26,04/03/2021 08:51
+UNDERTOW-1845,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,10/02/2021 13:58,04/03/2021 08:14
+UNDERTOW-1844,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/02/2021 19:53,08/03/2021 00:29
+UNDERTOW-1843,Bug,Open,UNDERTOW,Undertow,software,,07/02/2021 04:55,
+UNDERTOW-1841,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/02/2021 13:23,03/02/2021 14:51
+UNDERTOW-1839,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/02/2021 23:04,02/02/2021 01:03
+UNDERTOW-1838,Bug,Closed,UNDERTOW,Undertow,software,Duplicate,01/02/2021 15:58,01/02/2021 16:04
+UNDERTOW-1837,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/01/2021 08:04,30/03/2021 07:19
+UNDERTOW-1836,Issue,Resolved,UNDERTOW,Undertow,software,Won't Do,27/01/2021 04:09,14/10/2021 08:35
+UNDERTOW-1835,Feature Request,Resolved,UNDERTOW,Undertow,software,Won't Do,25/01/2021 13:59,22/12/2022 09:32
+UNDERTOW-1834,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/01/2021 11:10,19/04/2021 06:55
+UNDERTOW-1833,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/01/2021 10:39,02/02/2021 01:17
+UNDERTOW-1832,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/01/2021 13:49,29/03/2021 15:16
+UNDERTOW-1829,Issue,Closed,UNDERTOW,Undertow,software,Not a Bug,22/12/2020 08:24,19/04/2021 18:59
+UNDERTOW-1828,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/12/2020 02:53,01/02/2021 09:36
+UNDERTOW-1827,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/12/2020 13:28,01/02/2021 00:09
+UNDERTOW-1826,Task,Open,UNDERTOW,Undertow,software,,13/12/2020 12:42,
+UNDERTOW-1825,Feature Request,Open,UNDERTOW,Undertow,software,,12/12/2020 02:20,
+UNDERTOW-1823,Bug,Pull Request Sent,UNDERTOW,Undertow,software,,04/12/2020 13:04,
+UNDERTOW-1821,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,03/12/2020 02:14,03/12/2020 02:48
+UNDERTOW-1820,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/12/2020 14:37,02/12/2020 14:40
+UNDERTOW-1819,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/12/2020 14:18,30/03/2021 02:40
+UNDERTOW-1817,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/12/2020 11:51,02/12/2020 13:04
+UNDERTOW-1816,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/12/2020 04:01,06/12/2020 16:56
+UNDERTOW-1815,Bug,Closed,UNDERTOW,Undertow,software,Duplicate,29/11/2020 08:37,02/12/2020 13:33
+UNDERTOW-1814,Bug,Closed,UNDERTOW,Undertow,software,Duplicate,29/11/2020 08:29,02/12/2020 13:33
+UNDERTOW-1813,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/11/2020 08:06,07/12/2020 02:36
+UNDERTOW-1812,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/11/2020 13:58,02/12/2020 14:31
+UNDERTOW-1811,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/11/2020 06:33,23/01/2021 05:41
+UNDERTOW-1810,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,21/11/2020 11:23,23/11/2020 02:34
+UNDERTOW-1809,Feature Request,Open,UNDERTOW,Undertow,software,,19/11/2020 11:17,
+UNDERTOW-1808,Bug,Open,UNDERTOW,Undertow,software,,16/11/2020 15:25,
+UNDERTOW-1807,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/11/2020 15:20,24/11/2020 02:39
+UNDERTOW-1806,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/10/2020 00:34,03/12/2020 01:56
+UNDERTOW-1803,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,21/10/2020 07:53,06/05/2021 12:14
+UNDERTOW-1802,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,18/10/2020 12:10,02/12/2020 23:49
+UNDERTOW-1801,Bug,Resolved,UNDERTOW,Undertow,software,Duplicate,08/10/2020 11:45,12/11/2021 07:04
+UNDERTOW-1800,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,07/10/2020 14:31,07/10/2020 23:26
+UNDERTOW-1799,Enhancement,Closed,UNDERTOW,Undertow,software,Duplicate,07/10/2020 14:22,07/10/2020 14:27
+UNDERTOW-1798,Enhancement,Closed,UNDERTOW,Undertow,software,Duplicate,07/10/2020 14:21,07/10/2020 14:28
+UNDERTOW-1797,Task,Closed,UNDERTOW,Undertow,software,Duplicate,07/10/2020 14:16,07/10/2020 14:28
+UNDERTOW-1796,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,07/10/2020 14:14,07/10/2020 20:55
+UNDERTOW-1795,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/10/2020 12:59,07/10/2020 00:32
+UNDERTOW-1794,Bug,Pull Request Sent,UNDERTOW,Undertow,software,,06/10/2020 09:14,
+UNDERTOW-1792,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,05/10/2020 09:42,24/11/2020 03:20
+UNDERTOW-1791,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/10/2020 08:22,03/12/2020 00:19
+UNDERTOW-1790,Bug,Resolved,UNDERTOW,Undertow,software,Done,25/09/2020 04:54,10/06/2022 08:37
+UNDERTOW-1789,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/09/2020 05:29,07/09/2021 04:55
+UNDERTOW-1788,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/09/2020 11:52,07/10/2020 01:23
+UNDERTOW-1787,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/09/2020 04:49,03/12/2020 19:14
+UNDERTOW-1786,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/09/2020 04:54,19/11/2021 08:21
+UNDERTOW-1783,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,13/09/2020 16:21,13/09/2020 17:27
+UNDERTOW-1782,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/09/2020 12:57,13/09/2020 15:24
+UNDERTOW-1781,Library Upgrade,Pull Request Sent,UNDERTOW,Undertow,software,,13/09/2020 10:34,
+UNDERTOW-1779,Bug,Resolved,UNDERTOW,Undertow,software,Done,11/09/2020 03:13,11/09/2020 04:28
+UNDERTOW-1777,Bug,Resolved,UNDERTOW,Undertow,software,Duplicate,04/09/2020 12:23,04/11/2020 05:17
+UNDERTOW-1776,Bug,Open,UNDERTOW,Undertow,software,,31/08/2020 12:07,
+UNDERTOW-1775,Bug,Pull Request Sent,UNDERTOW,Undertow,software,,28/08/2020 10:53,
+UNDERTOW-1773,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/08/2020 10:22,13/09/2020 17:29
+UNDERTOW-1772,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/08/2020 07:06,11/09/2020 04:25
+UNDERTOW-1771,Enhancement,Closed,UNDERTOW,Undertow,software,Done,19/08/2020 12:10,11/10/2022 06:50
+UNDERTOW-1770,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,18/08/2020 18:13,13/09/2020 13:13
+UNDERTOW-1769,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,06/07/2020 12:29,13/08/2020 02:08
+UNDERTOW-1768,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/08/2020 07:54,08/10/2021 09:40
+UNDERTOW-1766,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/08/2020 16:46,13/09/2020 10:04
+UNDERTOW-1763,Bug,Resolved,UNDERTOW,Undertow,software,Done,04/08/2020 19:36,13/09/2020 17:30
+UNDERTOW-1762,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/07/2020 11:52,24/08/2020 09:12
+UNDERTOW-1759,Task,Resolved,UNDERTOW,Undertow,software,Done,29/07/2020 03:36,10/09/2020 18:22
+UNDERTOW-1758,Bug,Pull Request Sent,UNDERTOW,Undertow,software,,28/07/2020 16:57,
+UNDERTOW-1756,Feature Request,Open,UNDERTOW,Undertow,software,,27/07/2020 04:05,
+UNDERTOW-1755,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,27/07/2020 02:57,24/08/2020 10:08
+UNDERTOW-1754,Bug,Open,UNDERTOW,Undertow,software,,26/07/2020 13:12,
+UNDERTOW-1753,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,25/07/2020 15:15,13/09/2020 11:12
+UNDERTOW-1752,Bug,Open,UNDERTOW,Undertow,software,,21/07/2020 04:40,
+UNDERTOW-1751,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,16/07/2020 04:58,19/05/2021 07:53
+UNDERTOW-1750,Bug,Closed,UNDERTOW,Undertow,software,Done,14/07/2020 20:01,13/08/2020 01:56
+UNDERTOW-1749,Request,Open,UNDERTOW,Undertow,software,,10/07/2020 17:57,
+UNDERTOW-1748,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,08/07/2020 12:11,04/10/2024 11:33
+UNDERTOW-1747,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,08/07/2020 02:09,13/09/2020 15:28
+UNDERTOW-1746,Bug,Resolved,UNDERTOW,Undertow,software,Done,07/07/2020 21:58,29/07/2020 04:05
+UNDERTOW-1745,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/07/2020 19:55,06/12/2020 06:57
+UNDERTOW-1744,Task,Resolved,UNDERTOW,Undertow,software,Done,02/07/2020 03:27,03/02/2021 12:51
+UNDERTOW-1743,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/07/2020 09:52,24/11/2020 02:39
+UNDERTOW-1742,Bug,Resolved,UNDERTOW,Undertow,software,Duplicate,30/06/2020 08:16,04/11/2020 05:17
+UNDERTOW-1741,Bug,Closed,UNDERTOW,Undertow,software,Can't Do,24/06/2020 12:46,29/04/2021 07:35
+UNDERTOW-1740,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/06/2020 19:11,12/11/2021 07:51
+UNDERTOW-1739,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/06/2020 18:59,12/11/2021 07:32
+UNDERTOW-1738,Feature Request,Open,UNDERTOW,Undertow,software,,16/06/2020 18:43,
+UNDERTOW-1737,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,16/06/2020 18:36,14/08/2024 09:59
+UNDERTOW-1736,Feature Request,Open,UNDERTOW,Undertow,software,,16/06/2020 18:29,
+UNDERTOW-1735,Feature Request,Pull Request Sent,UNDERTOW,Undertow,software,,16/06/2020 18:26,
+UNDERTOW-1734,Feature Request,Open,UNDERTOW,Undertow,software,,16/06/2020 18:21,
+UNDERTOW-1733,Bug,Closed,UNDERTOW,Undertow,software,Can't Do,11/06/2020 12:44,29/04/2021 07:36
+UNDERTOW-1732,Task,Resolved,UNDERTOW,Undertow,software,Done,11/06/2020 08:01,11/09/2020 03:48
+UNDERTOW-1727,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,03/06/2020 16:48,16/04/2021 07:53
+UNDERTOW-1726,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/06/2020 15:10,04/06/2020 03:10
+UNDERTOW-1725,Bug,Closed,UNDERTOW,Undertow,software,Not a Bug,02/06/2020 15:40,11/09/2020 05:32
+UNDERTOW-1723,Enhancement,Coding In Progress,UNDERTOW,Undertow,software,,01/06/2020 16:43,
+UNDERTOW-1722,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/06/2020 16:27,02/06/2020 03:27
+UNDERTOW-1720,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/05/2020 00:14,02/06/2020 04:05
+UNDERTOW-1719,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/05/2020 12:08,02/06/2020 04:02
+UNDERTOW-1717,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/05/2020 22:54,01/06/2020 17:14
+UNDERTOW-1716,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/05/2020 13:07,29/05/2020 04:50
+UNDERTOW-1715,Clarification,Resolved,UNDERTOW,Undertow,software,Done,20/05/2020 05:18,14/10/2021 09:19
+UNDERTOW-1714,Bug,Closed,UNDERTOW,Undertow,software,Done,18/05/2020 05:04,12/06/2020 06:07
+UNDERTOW-1713,Bug,Resolved,UNDERTOW,Undertow,software,Done,18/05/2020 00:55,02/06/2020 02:19
+UNDERTOW-1712,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,15/05/2020 09:01,11/09/2020 03:45
+UNDERTOW-1710,Component Upgrade,Resolved,UNDERTOW,Undertow,software,Done,15/05/2020 01:11,15/05/2020 01:24
+UNDERTOW-1709,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/05/2020 00:59,15/05/2020 02:17
+UNDERTOW-1707,Bug,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,11/05/2020 20:25,05/05/2021 10:29
+UNDERTOW-1706,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,30/04/2020 02:44,15/05/2020 02:19
+UNDERTOW-1705,Bug,Open,UNDERTOW,Undertow,software,,27/04/2020 12:27,
+UNDERTOW-1704,Bug,Open,UNDERTOW,Undertow,software,,27/04/2020 01:06,
+UNDERTOW-1703,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/04/2020 22:32,14/05/2020 23:35
+UNDERTOW-1702,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/04/2020 01:14,14/05/2020 23:49
+UNDERTOW-1701,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,17/04/2020 07:02,17/04/2020 14:00
+UNDERTOW-1700,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,17/04/2020 06:31,17/04/2020 14:59
+UNDERTOW-1699,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,17/04/2020 06:18,17/04/2020 13:56
+UNDERTOW-1686,Task,Open,UNDERTOW,Undertow,software,,17/04/2020 02:04,
+UNDERTOW-1685,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/04/2020 11:39,17/04/2020 07:36
+UNDERTOW-1684,Task,Resolved,UNDERTOW,Undertow,software,Done,16/04/2020 05:35,17/04/2020 06:23
+UNDERTOW-1683,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/04/2020 20:27,17/04/2020 02:20
+UNDERTOW-1680,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/04/2020 10:56,19/04/2021 07:35
+UNDERTOW-1679,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/04/2020 07:23,30/03/2021 02:13
+UNDERTOW-1678,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/03/2020 11:06,17/04/2020 09:31
+UNDERTOW-1677,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/03/2020 18:34,25/03/2020 03:48
+UNDERTOW-1676,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,24/03/2020 01:15,11/09/2020 04:30
+UNDERTOW-1675,Component Upgrade,Resolved,UNDERTOW,Undertow,software,Done,19/03/2020 04:34,17/04/2020 19:38
+UNDERTOW-1672,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,13/03/2020 05:18,17/04/2020 19:44
+UNDERTOW-1671,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/03/2020 22:10,17/04/2020 19:41
+UNDERTOW-1668,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,04/03/2020 09:06,08/06/2021 09:42
+UNDERTOW-1666,Bug,Open,UNDERTOW,Undertow,software,,03/03/2020 17:52,
+UNDERTOW-1664,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/02/2020 13:53,11/09/2020 03:40
+UNDERTOW-1663,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/02/2020 23:35,10/03/2020 23:10
+UNDERTOW-1662,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,26/02/2020 12:39,10/09/2020 15:42
+UNDERTOW-1661,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/02/2020 09:42,10/03/2020 23:54
+UNDERTOW-1659,Bug,Open,UNDERTOW,Undertow,software,,22/02/2020 10:46,
+UNDERTOW-1658,Support Request,Resolved,UNDERTOW,Undertow,software,Obsolete,18/02/2020 01:04,30/03/2021 06:03
+UNDERTOW-1656,Feature Request,Closed,UNDERTOW,Undertow,software,Duplicate,13/02/2020 05:06,13/02/2020 05:10
+UNDERTOW-1655,Bug,Open,UNDERTOW,Undertow,software,,11/02/2020 04:25,
+UNDERTOW-1654,QE Task,Closed,UNDERTOW,Undertow,software,Duplicate,06/02/2020 07:52,11/02/2020 04:27
+UNDERTOW-1653,Feature Request,Open,UNDERTOW,Undertow,software,,05/02/2020 16:20,
+UNDERTOW-1652,Feature Request,Open,UNDERTOW,Undertow,software,,05/02/2020 12:15,
+UNDERTOW-1651,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,29/01/2020 13:34,06/05/2021 12:12
+UNDERTOW-1650,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,28/01/2020 08:59,28/01/2020 17:29
+UNDERTOW-1649,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,28/01/2020 08:59,28/01/2020 17:27
+UNDERTOW-1648,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,27/01/2020 10:14,28/09/2021 09:39
+UNDERTOW-1647,Bug,Open,UNDERTOW,Undertow,software,,26/01/2020 07:39,
+UNDERTOW-1646,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/01/2020 05:44,10/03/2020 16:07
+UNDERTOW-1645,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/01/2020 11:28,10/03/2020 16:02
+UNDERTOW-1644,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/01/2020 10:41,12/03/2020 14:42
+UNDERTOW-1643,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/01/2020 10:25,10/03/2020 16:01
+UNDERTOW-1642,Bug,Open,UNDERTOW,Undertow,software,,20/01/2020 11:45,
+UNDERTOW-1641,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/01/2020 11:01,10/03/2020 15:54
+UNDERTOW-1640,Bug,Pull Request Sent,UNDERTOW,Undertow,software,,20/01/2020 09:47,
+UNDERTOW-1639,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/01/2020 15:04,10/03/2020 16:26
+UNDERTOW-1638,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/01/2020 13:34,10/03/2020 16:25
+UNDERTOW-1637,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/01/2020 10:06,28/02/2020 14:13
+UNDERTOW-1636,Library Upgrade,Resolved,UNDERTOW,Undertow,software,Duplicate,04/01/2020 12:58,17/04/2020 19:49
+UNDERTOW-1635,Bug,Resolved,UNDERTOW,Undertow,software,Done,04/01/2020 04:03,10/03/2020 22:29
+UNDERTOW-1634,Bug,Resolved,UNDERTOW,Undertow,software,Done,04/01/2020 03:26,05/01/2020 07:09
+UNDERTOW-1633,Bug,Resolved,UNDERTOW,Undertow,software,Duplicate,02/01/2020 22:30,22/04/2021 11:20
+UNDERTOW-1632,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/01/2020 02:23,22/04/2021 11:06
+UNDERTOW-1631,Feature Request,Open,UNDERTOW,Undertow,software,,29/12/2019 21:18,
+UNDERTOW-1630,Bug,Resolved,UNDERTOW,Undertow,software,Done,18/12/2019 04:09,04/01/2020 10:07
+UNDERTOW-1629,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/12/2019 10:52,10/03/2020 16:00
+UNDERTOW-1628,Bug,Open,UNDERTOW,Undertow,software,,10/12/2019 21:36,
+UNDERTOW-1627,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/12/2019 20:50,04/01/2020 09:22
+UNDERTOW-1626,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,06/12/2019 07:41,24/03/2021 07:57
+UNDERTOW-1625,Bug,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,04/12/2019 20:43,18/06/2021 08:00
+UNDERTOW-1624,Bug,Resolved,UNDERTOW,Undertow,software,Done,04/12/2019 15:28,04/01/2020 01:54
+UNDERTOW-1623,Bug,Resolved,UNDERTOW,Undertow,software,Done,04/12/2019 15:23,27/02/2020 22:58
+UNDERTOW-1622,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,03/12/2019 10:07,11/09/2020 02:40
+UNDERTOW-1621,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/11/2019 23:22,04/01/2020 03:53
+UNDERTOW-1620,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/11/2019 16:22,04/01/2020 03:53
+UNDERTOW-1619,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/11/2019 15:50,04/01/2020 03:53
+UNDERTOW-1618,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/11/2019 14:58,04/01/2020 03:52
+UNDERTOW-1617,Bug,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,18/11/2019 14:44,25/06/2021 09:28
+UNDERTOW-1616,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,15/11/2019 14:28,03/01/2020 14:42
+UNDERTOW-1615,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,14/11/2019 23:30,14/11/2019 23:37
+UNDERTOW-1614,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/11/2019 08:22,15/11/2019 02:18
+UNDERTOW-1613,Task,Open,UNDERTOW,Undertow,software,,04/11/2019 16:19,
+UNDERTOW-1612,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/10/2019 12:20,14/11/2019 23:37
+UNDERTOW-1611,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/10/2019 02:12,10/03/2020 15:58
+UNDERTOW-1610,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/10/2019 18:30,15/10/2019 19:40
+UNDERTOW-1609,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/10/2019 17:59,20/12/2019 02:54
+UNDERTOW-1608,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/10/2019 17:46,15/10/2019 17:46
+UNDERTOW-1607,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,15/10/2019 17:35,15/10/2019 19:48
+UNDERTOW-1606,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,15/10/2019 03:21,15/10/2019 19:49
+UNDERTOW-1601,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/10/2019 05:15,19/06/2021 05:37
+UNDERTOW-1600,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,10/10/2019 08:31,17/04/2020 02:31
+UNDERTOW-1599,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/10/2019 07:34,15/10/2019 19:39
+UNDERTOW-1598,Bug,Closed,UNDERTOW,Undertow,software,Done,09/10/2019 03:45,14/10/2019 18:28
+UNDERTOW-1597,Feature Request,Open,UNDERTOW,Undertow,software,,01/10/2019 18:01,
+UNDERTOW-1596,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,25/09/2019 17:49,08/04/2021 06:25
+UNDERTOW-1595,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/09/2019 12:39,12/10/2019 21:18
+UNDERTOW-1594,Bug,Open,UNDERTOW,Undertow,software,,14/09/2019 11:01,
+UNDERTOW-1593,Feature Request,Closed,UNDERTOW,Undertow,software,Done,30/08/2019 04:06,01/06/2022 08:43
+UNDERTOW-1592,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,29/08/2019 10:47,03/09/2021 05:37
+UNDERTOW-1591,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/08/2019 06:02,30/03/2021 03:32
+UNDERTOW-1589,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/08/2019 16:30,04/11/2019 05:08
+UNDERTOW-1588,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/08/2019 12:03,01/09/2019 15:16
+UNDERTOW-1587,Feature Request,Open,UNDERTOW,Undertow,software,,21/08/2019 10:03,
+UNDERTOW-1586,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/08/2019 04:10,12/08/2019 12:21
+UNDERTOW-1585,Bug,Open,UNDERTOW,Undertow,software,,06/08/2019 07:26,
+UNDERTOW-1584,Enhancement,Open,UNDERTOW,Undertow,software,,04/08/2019 13:12,
+UNDERTOW-1583,Bug,Pull Request Sent,UNDERTOW,Undertow,software,,04/08/2019 11:37,
+UNDERTOW-1582,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/08/2019 03:46,01/09/2019 15:21
+UNDERTOW-1581,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/08/2019 21:10,01/09/2019 15:20
+UNDERTOW-1580,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,30/07/2019 10:09,01/09/2019 15:23
+UNDERTOW-1579,Support Request,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,25/07/2019 16:37,06/07/2021 06:15
+UNDERTOW-1578,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/07/2019 10:02,30/07/2019 02:07
+UNDERTOW-1575,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/07/2019 03:11,15/08/2019 01:56
+UNDERTOW-1574,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/07/2019 10:01,30/07/2019 01:45
+UNDERTOW-1573,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/07/2019 20:37,01/09/2019 15:22
+UNDERTOW-1572,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/07/2019 04:56,30/07/2019 01:45
+UNDERTOW-1571,Bug,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,12/07/2019 08:40,16/07/2021 06:29
+UNDERTOW-1570,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/07/2019 10:15,04/01/2020 12:52
+UNDERTOW-1569,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/06/2019 04:24,30/07/2019 01:46
+UNDERTOW-1568,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/06/2019 09:43,28/09/2021 05:36
+UNDERTOW-1567,Bug,Resolved,UNDERTOW,Undertow,software,Done,25/06/2019 10:29,29/07/2019 07:10
+UNDERTOW-1566,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,24/06/2019 14:26,01/09/2019 15:19
+UNDERTOW-1565,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/06/2019 10:07,30/07/2019 01:47
+UNDERTOW-1564,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/06/2019 07:28,30/07/2019 01:48
+UNDERTOW-1563,Bug,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,24/06/2019 02:31,28/07/2021 06:15
+UNDERTOW-1562,Bug,Resolved,UNDERTOW,Undertow,software,Duplicate,21/06/2019 04:17,06/05/2021 06:21
+UNDERTOW-1561,Bug,Pull Request Sent,UNDERTOW,Undertow,software,,18/06/2019 12:37,
+UNDERTOW-1560,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,17/06/2019 13:23,17/06/2019 13:30
+UNDERTOW-1559,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/06/2019 17:26,14/06/2019 03:02
+UNDERTOW-1558,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/06/2019 09:28,17/06/2019 13:21
+UNDERTOW-1557,Feature Request,Open,UNDERTOW,Undertow,software,,13/06/2019 06:59,
+UNDERTOW-1556,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/06/2019 11:57,14/06/2019 02:51
+UNDERTOW-1555,Bug,Resolved,UNDERTOW,Undertow,software,Done,11/06/2019 09:10,14/06/2019 02:46
+UNDERTOW-1554,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,03/06/2019 14:32,01/09/2019 15:19
+UNDERTOW-1553,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/06/2019 08:36,14/06/2019 02:43
+UNDERTOW-1552,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,31/05/2019 02:16,14/06/2019 02:59
+UNDERTOW-1551,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/05/2019 08:06,14/06/2019 03:15
+UNDERTOW-1550,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/05/2019 06:32,14/06/2019 01:32
+UNDERTOW-1549,Clarification,Resolved,UNDERTOW,Undertow,software,Done,27/05/2019 17:32,20/05/2021 07:32
+UNDERTOW-1548,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/05/2019 15:32,14/06/2019 01:39
+UNDERTOW-1547,Component Upgrade,Resolved,UNDERTOW,Undertow,software,Done,24/05/2019 02:07,24/05/2019 03:48
+UNDERTOW-1546,Component Upgrade,Resolved,UNDERTOW,Undertow,software,Done,23/05/2019 23:06,17/06/2019 13:34
+UNDERTOW-1545,Task,Resolved,UNDERTOW,Undertow,software,Done,23/05/2019 23:04,24/05/2019 03:48
+UNDERTOW-1544,Task,Open,UNDERTOW,Undertow,software,,23/05/2019 18:03,
+UNDERTOW-1543,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/05/2019 20:20,23/05/2019 16:25
+UNDERTOW-1542,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/05/2019 22:51,23/05/2019 17:51
+UNDERTOW-1541,Bug,Closed,UNDERTOW,Undertow,software,Not a Bug,17/05/2019 14:59,15/10/2019 19:53
+UNDERTOW-1540,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/05/2019 09:33,23/05/2019 16:22
+UNDERTOW-1539,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,15/05/2019 15:22,24/05/2019 01:48
+UNDERTOW-1538,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,13/05/2019 05:55,15/10/2021 06:04
+UNDERTOW-1537,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/05/2019 16:35,23/05/2019 16:07
+UNDERTOW-1535,Bug,Open,UNDERTOW,Undertow,software,,02/05/2019 11:23,
+UNDERTOW-1534,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/05/2019 22:29,23/05/2019 16:08
+UNDERTOW-1533,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/04/2019 12:16,13/05/2019 03:17
+UNDERTOW-1532,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/04/2019 17:01,13/09/2021 04:38
+UNDERTOW-1531,Bug,Open,UNDERTOW,Undertow,software,,24/04/2019 07:05,
+UNDERTOW-1530,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,21/04/2019 23:38,23/05/2019 16:04
+UNDERTOW-1529,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/04/2019 03:22,10/05/2019 18:41
+UNDERTOW-1527,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,18/04/2019 08:37,13/05/2019 03:32
+UNDERTOW-1526,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/04/2019 15:33,10/05/2019 18:43
+UNDERTOW-1525,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/04/2019 16:41,23/05/2019 16:10
+UNDERTOW-1524,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/04/2019 12:59,10/05/2019 15:58
+UNDERTOW-1523,Epic,Pull Request Sent,UNDERTOW,Undertow,software,,12/04/2019 02:02,
+UNDERTOW-1522,Task,Resolved,UNDERTOW,Undertow,software,Done,10/04/2019 15:59,24/05/2019 03:47
+UNDERTOW-1520,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,02/04/2019 02:42,05/04/2019 13:40
+UNDERTOW-1519,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,01/04/2019 03:30,05/04/2019 13:41
+UNDERTOW-1518,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,29/03/2019 15:34,17/03/2021 04:32
+UNDERTOW-1516,Enhancement,Open,UNDERTOW,Undertow,software,,25/03/2019 08:25,
+UNDERTOW-1514,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,19/03/2019 12:37,08/06/2021 10:41
+UNDERTOW-1513,Enhancement,Open,UNDERTOW,Undertow,software,,19/03/2019 03:52,
+UNDERTOW-1512,Bug,Open,UNDERTOW,Undertow,software,,14/03/2019 13:01,
+UNDERTOW-1511,Feature Request,Pull Request Sent,UNDERTOW,Undertow,software,,13/03/2019 12:32,
+UNDERTOW-1509,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,12/03/2019 10:46,24/03/2021 05:30
+UNDERTOW-1508,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,11/03/2019 03:58,12/04/2021 07:49
+UNDERTOW-1506,Bug,Resolved,UNDERTOW,Undertow,software,Done,04/03/2019 11:16,25/03/2019 05:43
+UNDERTOW-1505,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,01/03/2019 07:03,12/04/2021 09:13
+UNDERTOW-1504,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,28/02/2019 08:08,03/07/2019 07:23
+UNDERTOW-1503,Feature Request,Resolved,UNDERTOW,Undertow,software,Won't Do,26/02/2019 05:11,13/04/2021 06:14
+UNDERTOW-1502,Feature Request,Open,UNDERTOW,Undertow,software,,25/02/2019 07:40,
+UNDERTOW-1501,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/02/2019 14:34,13/04/2021 15:12
+UNDERTOW-1499,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,22/02/2019 04:11,30/03/2020 04:00
+UNDERTOW-1498,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/02/2019 13:45,05/04/2019 13:47
+UNDERTOW-1497,Feature Request,Pull Request Sent,UNDERTOW,Undertow,software,,18/02/2019 20:14,
+UNDERTOW-1496,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/02/2019 02:56,22/02/2019 05:34
+UNDERTOW-1495,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,14/02/2019 09:30,22/02/2019 05:34
+UNDERTOW-1494,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/02/2019 21:45,22/02/2019 05:35
+UNDERTOW-1493,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/02/2019 10:36,09/04/2019 13:51
+UNDERTOW-1492,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/02/2019 04:36,10/03/2020 15:57
+UNDERTOW-1490,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/02/2019 04:40,20/02/2019 06:20
+UNDERTOW-1489,Bug,Resolved,UNDERTOW,Undertow,software,Done,07/02/2019 10:49,17/06/2019 13:30
+UNDERTOW-1487,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,31/01/2019 08:36,20/02/2019 06:21
+UNDERTOW-1486,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/01/2019 10:10,17/02/2019 23:03
+UNDERTOW-1485,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/01/2019 12:00,14/08/2024 10:01
+UNDERTOW-1484,Bug,Open,UNDERTOW,Undertow,software,,22/01/2019 09:55,
+UNDERTOW-1482,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,16/01/2019 01:48,19/02/2019 00:27
+UNDERTOW-1481,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/01/2019 02:34,30/03/2020 03:55
+UNDERTOW-1480,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,14/01/2019 03:50,15/04/2021 11:15
+UNDERTOW-1479,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,09/01/2019 10:04,19/02/2019 23:22
+UNDERTOW-1478,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/01/2019 05:50,09/01/2019 23:45
+UNDERTOW-1477,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,08/01/2019 12:09,19/02/2019 23:20
+UNDERTOW-1476,Bug,Resolved,UNDERTOW,Undertow,software,Done,07/01/2019 23:09,19/02/2019 23:20
+UNDERTOW-1474,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/01/2019 00:37,09/01/2019 09:33
+UNDERTOW-1473,Patch,Open,UNDERTOW,Undertow,software,,04/01/2019 14:48,
+UNDERTOW-1472,Bug,Resolved,UNDERTOW,Undertow,software,Done,04/01/2019 10:03,10/01/2019 03:38
+UNDERTOW-1471,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/01/2019 09:19,20/07/2021 06:30
+UNDERTOW-1470,Bug,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,29/12/2018 22:06,18/06/2021 07:05
+UNDERTOW-1469,Bug,Closed,UNDERTOW,Undertow,software,Done,29/12/2018 12:19,21/01/2019 03:00
+UNDERTOW-1468,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/12/2018 04:25,13/04/2021 15:26
+UNDERTOW-1467,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/12/2018 00:21,15/01/2019 00:44
+UNDERTOW-1466,Enhancement,Open,UNDERTOW,Undertow,software,,20/12/2018 22:38,
+UNDERTOW-1465,Task,Resolved,UNDERTOW,Undertow,software,Won't Do,20/12/2018 20:15,21/12/2018 16:46
+UNDERTOW-1464,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/12/2018 13:43,17/04/2020 19:52
+UNDERTOW-1463,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,16/12/2018 23:37,16/12/2018 23:43
+UNDERTOW-1462,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/12/2018 08:44,17/12/2018 00:07
+UNDERTOW-1461,Documentation,Open,UNDERTOW,Undertow,software,,13/12/2018 19:23,
+UNDERTOW-1460,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/12/2018 11:36,02/01/2019 11:16
+UNDERTOW-1459,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/12/2018 08:24,19/11/2021 17:55
+UNDERTOW-1458,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/12/2018 00:35,12/12/2018 00:56
+UNDERTOW-1457,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/12/2018 23:19,10/12/2018 23:34
+UNDERTOW-1456,Bug,Closed,UNDERTOW,Undertow,software,Done,10/12/2018 07:09,10/12/2018 07:15
+UNDERTOW-1455,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/12/2018 08:08,10/12/2018 19:53
+UNDERTOW-1453,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,04/12/2018 01:23,16/04/2021 07:53
+UNDERTOW-1452,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/12/2018 14:51,13/04/2021 08:17
+UNDERTOW-1451,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,03/12/2018 12:33,23/07/2021 09:02
+UNDERTOW-1450,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/12/2018 12:11,10/12/2018 22:41
+UNDERTOW-1449,Feature Request,Resolved,UNDERTOW,Undertow,software,Won't Do,29/11/2018 10:37,03/09/2021 05:38
+UNDERTOW-1448,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/11/2018 12:43,03/12/2018 10:00
+UNDERTOW-1447,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/11/2018 15:58,02/01/2019 11:16
+UNDERTOW-1445,Bug,Open,UNDERTOW,Undertow,software,,26/11/2018 20:34,
+UNDERTOW-1444,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/11/2018 19:25,13/12/2018 17:53
+UNDERTOW-1443,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,26/11/2018 19:14,14/01/2019 23:48
+UNDERTOW-1442,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,22/11/2018 10:17,18/01/2023 17:02
+UNDERTOW-1441,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,18/11/2018 14:34,06/05/2021 12:23
+UNDERTOW-1440,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,16/11/2018 14:25,09/01/2019 09:24
+UNDERTOW-1439,Bug,Resolved,UNDERTOW,Undertow,software,Duplicate,09/11/2018 13:40,09/01/2019 09:09
+UNDERTOW-1438,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,09/11/2018 10:16,02/09/2021 06:06
+UNDERTOW-1437,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,07/11/2018 19:10,14/04/2021 09:33
+UNDERTOW-1436,Bug,Resolved,UNDERTOW,Undertow,software,Duplicate,07/11/2018 17:22,13/04/2021 08:53
+UNDERTOW-1435,Bug,Resolved,UNDERTOW,Undertow,software,Done,04/11/2018 13:57,18/12/2018 01:09
+UNDERTOW-1434,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,02/11/2018 03:26,18/12/2018 00:37
+UNDERTOW-1433,Bug,Resolved,UNDERTOW,Undertow,software,Done,31/10/2018 11:20,01/11/2018 07:27
+UNDERTOW-1432,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,30/10/2018 15:44,05/04/2019 13:50
+UNDERTOW-1431,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,30/10/2018 10:17,20/01/2022 14:30
+UNDERTOW-1430,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/10/2018 02:14,29/10/2018 02:45
+UNDERTOW-1429,Bug,Pull Request Sent,UNDERTOW,Undertow,software,,26/10/2018 08:11,
+UNDERTOW-1428,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/10/2018 00:06,29/11/2018 12:46
+UNDERTOW-1427,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,22/10/2018 13:39,22/04/2021 11:15
+UNDERTOW-1426,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/10/2018 08:01,19/02/2019 23:27
+UNDERTOW-1425,Bug,Closed,UNDERTOW,Undertow,software,Done,18/10/2018 00:39,26/09/2023 09:31
+UNDERTOW-1424,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/10/2018 18:01,16/10/2018 00:06
+UNDERTOW-1423,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/10/2018 01:53,09/10/2018 01:53
+UNDERTOW-1422,Bug,Closed,UNDERTOW,Undertow,software,Not a Bug,05/10/2018 20:52,28/12/2018 20:29
+UNDERTOW-1421,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,04/10/2018 16:30,07/10/2018 20:14
+UNDERTOW-1419,Bug,Resolved,UNDERTOW,Undertow,software,Done,04/10/2018 09:16,15/05/2020 01:22
+UNDERTOW-1418,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/10/2018 16:27,10/10/2018 19:42
+UNDERTOW-1417,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/10/2018 11:17,03/10/2018 11:19
+UNDERTOW-1416,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/10/2018 01:41,03/10/2018 01:42
+UNDERTOW-1415,Bug,Pull Request Sent,UNDERTOW,Undertow,software,,01/10/2018 03:35,
+UNDERTOW-1414,Task,Open,UNDERTOW,Undertow,software,,25/09/2018 09:24,
+UNDERTOW-1413,Feature Request,Open,UNDERTOW,Undertow,software,,14/09/2018 15:10,
+UNDERTOW-1411,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/09/2018 21:52,12/09/2018 21:53
+UNDERTOW-1410,Bug,Closed,UNDERTOW,Undertow,software,Obsolete,04/09/2018 10:59,19/02/2019 14:47
+UNDERTOW-1409,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/09/2018 11:12,12/11/2021 07:25
+UNDERTOW-1408,Bug,Open,UNDERTOW,Undertow,software,,01/09/2018 09:07,
+UNDERTOW-1407,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/08/2018 10:12,04/09/2018 04:36
+UNDERTOW-1406,Bug,Closed,UNDERTOW,Undertow,software,Obsolete,30/08/2018 10:10,02/02/2021 02:18
+UNDERTOW-1404,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/08/2018 10:01,30/08/2018 03:18
+UNDERTOW-1402,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/08/2018 11:29,14/06/2019 02:54
+UNDERTOW-1401,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/08/2018 02:00,27/08/2018 02:42
+UNDERTOW-1399,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/08/2018 11:04,16/08/2018 21:12
+UNDERTOW-1398,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/08/2018 22:51,03/09/2018 05:18
+UNDERTOW-1397,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/08/2018 21:02,14/08/2018 21:13
+UNDERTOW-1396,Enhancement,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,13/08/2018 05:22,06/07/2021 07:56
+UNDERTOW-1395,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,10/08/2018 12:05,14/08/2018 01:08
+UNDERTOW-1394,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,10/08/2018 01:51,10/08/2018 02:08
+UNDERTOW-1393,Bug,Open,UNDERTOW,Undertow,software,,08/08/2018 19:41,
+UNDERTOW-1392,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/08/2018 18:42,08/08/2018 19:40
+UNDERTOW-1391,Enhancement,Open,UNDERTOW,Undertow,software,,08/08/2018 07:56,
+UNDERTOW-1390,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/08/2018 00:25,08/08/2018 00:28
+UNDERTOW-1389,Bug,Resolved,UNDERTOW,Undertow,software,Done,07/08/2018 01:54,07/08/2018 01:55
+UNDERTOW-1388,Bug,Resolved,UNDERTOW,Undertow,software,Done,07/08/2018 01:53,07/08/2018 01:55
+UNDERTOW-1387,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,03/08/2018 17:50,07/08/2018 02:09
+UNDERTOW-1386,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/08/2018 02:27,07/08/2018 00:49
+UNDERTOW-1385,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/07/2018 23:25,29/07/2018 23:40
+UNDERTOW-1384,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/07/2018 23:12,29/07/2018 23:25
+UNDERTOW-1383,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,27/07/2018 14:10,14/04/2021 08:39
+UNDERTOW-1382,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,23/07/2018 21:51,24/07/2018 23:47
+UNDERTOW-1381,Bug,Resolved,UNDERTOW,Undertow,software,Done,18/07/2018 21:39,18/07/2018 21:40
+UNDERTOW-1380,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,18/07/2018 00:35,18/07/2018 01:04
+UNDERTOW-1379,Bug,Reopened,UNDERTOW,Undertow,software,,13/07/2018 15:41,
+UNDERTOW-1378,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/07/2018 02:30,13/07/2018 03:08
+UNDERTOW-1377,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/07/2018 12:23,16/07/2018 00:07
+UNDERTOW-1376,Feature Request,Open,UNDERTOW,Undertow,software,,09/07/2018 01:41,
+UNDERTOW-1375,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,06/07/2018 21:29,08/07/2018 20:49
+UNDERTOW-1373,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/07/2018 10:00,02/07/2018 21:08
+UNDERTOW-1372,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/06/2018 17:01,02/07/2018 01:27
+UNDERTOW-1371,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/07/2018 21:59,01/07/2018 22:00
+UNDERTOW-1369,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,25/06/2018 14:04,06/05/2021 12:24
+UNDERTOW-1368,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/06/2018 09:55,16/07/2018 00:07
+UNDERTOW-1367,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,20/06/2018 12:25,20/06/2018 23:27
+UNDERTOW-1366,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/06/2018 08:10,27/06/2018 21:01
+UNDERTOW-1365,Feature Request,Resolved,UNDERTOW,Undertow,software,Won't Do,19/06/2018 06:18,19/06/2018 23:18
+UNDERTOW-1364,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/06/2018 17:01,02/07/2018 19:29
+UNDERTOW-1363,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/06/2018 23:22,06/06/2018 23:39
+UNDERTOW-1362,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/06/2018 04:11,08/06/2018 02:34
+UNDERTOW-1361,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/06/2018 10:28,16/07/2018 21:26
+UNDERTOW-1360,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,31/05/2018 07:49,06/06/2018 05:21
+UNDERTOW-1359,Bug,Pull Request Sent,UNDERTOW,Undertow,software,,29/05/2018 09:56,
+UNDERTOW-1358,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/05/2018 09:44,08/06/2018 02:44
+UNDERTOW-1357,Bug,Closed,UNDERTOW,Undertow,software,Done,29/05/2018 07:32,11/10/2022 04:46
+UNDERTOW-1356,Feature Request,Closed,UNDERTOW,Undertow,software,Done,28/05/2018 06:59,14/08/2019 03:42
+UNDERTOW-1355,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,28/05/2018 05:23,06/05/2021 12:10
+UNDERTOW-1354,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/05/2018 22:05,27/05/2018 22:07
+UNDERTOW-1353,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/05/2018 18:01,24/05/2018 18:15
+UNDERTOW-1352,Feature Request,Resolved,UNDERTOW,Undertow,software,Won't Do,23/05/2018 21:28,23/05/2018 21:52
+UNDERTOW-1351,Bug,Open,UNDERTOW,Undertow,software,,23/05/2018 09:03,
+UNDERTOW-1350,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,22/05/2018 15:14,22/05/2018 18:00
+UNDERTOW-1349,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/05/2018 08:44,18/05/2018 01:43
+UNDERTOW-1348,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,16/05/2018 12:21,26/08/2024 08:36
+UNDERTOW-1347,Task,Resolved,UNDERTOW,Undertow,software,Done,16/05/2018 02:09,24/05/2018 18:14
+UNDERTOW-1346,Task,Resolved,UNDERTOW,Undertow,software,Done,14/05/2018 04:03,24/05/2018 18:13
+UNDERTOW-1345,Bug,Resolved,UNDERTOW,Undertow,software,Done,07/05/2018 17:17,07/05/2018 17:29
+UNDERTOW-1344,Enhancement,Open,UNDERTOW,Undertow,software,,04/05/2018 05:13,
+UNDERTOW-1343,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,03/05/2018 08:11,18/06/2021 07:01
+UNDERTOW-1342,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,27/04/2018 08:41,29/04/2018 18:52
+UNDERTOW-1341,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,26/04/2018 02:10,18/06/2021 07:02
+UNDERTOW-1340,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,26/04/2018 01:25,26/04/2018 01:33
+UNDERTOW-1339,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,24/04/2018 09:30,10/01/2019 03:57
+UNDERTOW-1338,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/04/2018 09:10,23/04/2018 20:59
+UNDERTOW-1337,Bug,Resolved,UNDERTOW,Undertow,software,Done,18/04/2018 23:09,18/04/2018 23:09
+UNDERTOW-1336,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/04/2018 09:37,17/04/2018 21:57
+UNDERTOW-1335,Feature Request,Open,UNDERTOW,Undertow,software,,17/04/2018 03:51,
+UNDERTOW-1334,Bug,Closed,UNDERTOW,Undertow,software,Not a Bug,15/04/2018 20:50,16/04/2018 14:38
+UNDERTOW-1333,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/04/2018 11:59,14/05/2018 04:43
+UNDERTOW-1332,Bug,Resolved,UNDERTOW,Undertow,software,Done,11/04/2018 07:55,12/04/2018 00:33
+UNDERTOW-1331,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/04/2018 07:21,10/04/2018 17:23
+UNDERTOW-1330,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/04/2018 21:15,12/04/2018 01:36
+UNDERTOW-1329,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/04/2018 16:18,09/04/2018 22:45
+UNDERTOW-1328,Feature Request,Open,UNDERTOW,Undertow,software,,06/04/2018 14:48,
+UNDERTOW-1326,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/04/2018 20:07,02/04/2018 20:08
+UNDERTOW-1325,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/03/2018 15:01,29/08/2018 02:25
+UNDERTOW-1324,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,29/03/2018 10:09,18/04/2024 07:16
+UNDERTOW-1323,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,29/03/2018 05:38,03/04/2018 00:53
+UNDERTOW-1322,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/03/2018 03:19,11/04/2018 21:02
+UNDERTOW-1321,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/03/2018 20:30,04/04/2018 15:29
+UNDERTOW-1320,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/03/2018 20:06,27/03/2018 01:31
+UNDERTOW-1319,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/03/2018 17:17,04/09/2018 11:35
+UNDERTOW-1318,Bug,Resolved,UNDERTOW,Undertow,software,Done,25/03/2018 20:09,25/03/2018 20:21
+UNDERTOW-1317,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,24/03/2018 09:54,06/04/2018 07:40
+UNDERTOW-1316,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/03/2018 17:03,03/04/2018 00:51
+UNDERTOW-1315,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/03/2018 12:43,22/03/2018 23:37
+UNDERTOW-1314,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,22/03/2018 11:04,22/05/2018 20:34
+UNDERTOW-1313,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/03/2018 18:56,21/03/2018 19:15
+UNDERTOW-1312,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/03/2018 15:56,21/03/2018 21:19
+UNDERTOW-1311,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,16/03/2018 16:17,18/06/2021 01:19
+UNDERTOW-1310,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/03/2018 22:25,03/04/2018 00:48
+UNDERTOW-1309,Bug,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,15/03/2018 11:52,20/07/2021 06:45
+UNDERTOW-1308,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/03/2018 10:40,14/03/2018 14:53
+UNDERTOW-1307,Task,Closed,UNDERTOW,Undertow,software,Won't Do,13/03/2018 11:32,13/03/2018 12:26
+UNDERTOW-1306,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/03/2018 18:59,12/03/2018 19:14
+UNDERTOW-1305,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/03/2018 16:17,12/03/2018 16:27
+UNDERTOW-1304,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/03/2018 12:01,11/03/2018 18:54
+UNDERTOW-1303,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/03/2018 00:20,09/03/2018 00:21
+UNDERTOW-1301,Bug,Resolved,UNDERTOW,Undertow,software,Done,07/03/2018 20:08,07/03/2018 20:08
+UNDERTOW-1300,Bug,Resolved,UNDERTOW,Undertow,software,Done,07/03/2018 01:28,07/03/2018 15:34
+UNDERTOW-1299,Bug,Resolved,UNDERTOW,Undertow,software,Done,07/03/2018 00:18,13/03/2018 15:57
+UNDERTOW-1298,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,06/03/2018 20:57,06/03/2018 20:57
+UNDERTOW-1297,Documentation,Resolved,UNDERTOW,Undertow,software,Won't Do,02/03/2018 16:35,04/03/2018 23:19
+UNDERTOW-1296,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/02/2018 00:43,04/03/2018 23:24
+UNDERTOW-1295,Bug,Open,UNDERTOW,Undertow,software,,25/02/2018 11:34,
+UNDERTOW-1294,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/02/2018 23:29,22/02/2018 23:29
+UNDERTOW-1293,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/11/2017 00:16,22/11/2017 00:17
+UNDERTOW-1292,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/02/2018 05:42,22/02/2018 23:58
+UNDERTOW-1291,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/02/2018 10:43,22/02/2018 22:47
+UNDERTOW-1290,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/02/2018 10:38,22/02/2018 23:28
+UNDERTOW-1289,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,21/02/2018 10:26,22/02/2018 23:35
+UNDERTOW-1288,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/02/2018 01:32,21/02/2018 17:35
+UNDERTOW-1287,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/02/2018 03:49,20/02/2018 21:47
+UNDERTOW-1286,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/02/2018 20:13,06/03/2018 19:11
+UNDERTOW-1285,Bug,Open,UNDERTOW,Undertow,software,,19/02/2018 12:09,
+UNDERTOW-1284,Support Request,Closed,UNDERTOW,Undertow,software,Cannot Reproduce,19/02/2018 10:08,22/03/2018 09:35
+UNDERTOW-1283,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/02/2018 00:05,19/02/2018 00:07
+UNDERTOW-1282,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/02/2018 13:26,15/02/2018 20:29
+UNDERTOW-1281,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,14/02/2018 17:08,01/03/2018 19:58
+UNDERTOW-1280,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/02/2018 11:35,14/02/2018 19:03
+UNDERTOW-1279,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/02/2018 17:45,04/03/2018 23:34
+UNDERTOW-1278,Bug,Reopened,UNDERTOW,Undertow,software,,07/02/2018 00:47,
+UNDERTOW-1277,Enhancement,Closed,UNDERTOW,Undertow,software,Won't Do,02/02/2018 03:45,12/08/2019 00:43
+UNDERTOW-1276,Bug,Open,UNDERTOW,Undertow,software,,31/01/2018 08:45,
+UNDERTOW-1275,Enhancement,Resolved,UNDERTOW,Undertow,software,Won't Do,27/01/2018 17:50,14/02/2018 23:55
+UNDERTOW-1274,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/01/2018 01:14,27/01/2018 01:15
+UNDERTOW-1273,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,24/01/2018 19:08,24/01/2018 21:02
+UNDERTOW-1272,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/01/2018 22:23,22/01/2018 22:24
+UNDERTOW-1271,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/01/2018 05:25,04/03/2018 23:39
+UNDERTOW-1270,Documentation,Resolved,UNDERTOW,Undertow,software,Done,20/01/2018 07:21,28/02/2018 21:41
+UNDERTOW-1268,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/01/2018 09:55,15/01/2018 16:13
+UNDERTOW-1267,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/01/2018 09:45,16/01/2018 20:12
+UNDERTOW-1262,Bug,Resolved,UNDERTOW,Undertow,software,Done,11/01/2018 19:09,11/01/2018 19:15
+UNDERTOW-1261,Bug,Resolved,UNDERTOW,Undertow,software,Done,11/01/2018 12:09,15/01/2018 22:35
+UNDERTOW-1260,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/01/2018 10:36,15/03/2018 22:32
+UNDERTOW-1259,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/01/2018 23:22,09/01/2018 23:28
+UNDERTOW-1258,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/01/2018 03:05,18/07/2018 21:40
+UNDERTOW-1257,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/01/2018 18:45,08/01/2018 19:59
+UNDERTOW-1256,Bug,Resolved,UNDERTOW,Undertow,software,Duplicate,08/01/2018 06:52,08/01/2018 07:45
+UNDERTOW-1251,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/01/2018 19:52,03/01/2018 23:56
+UNDERTOW-1250,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,03/01/2018 11:09,03/01/2018 11:41
+UNDERTOW-1249,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/01/2018 02:49,03/01/2018 21:12
+UNDERTOW-1248,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,28/12/2017 06:12,01/01/2018 19:15
+UNDERTOW-1247,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/12/2017 19:21,21/12/2017 20:46
+UNDERTOW-1246,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/12/2017 17:32,21/12/2017 20:46
+UNDERTOW-1245,Bug,Resolved,UNDERTOW,Undertow,software,Done,18/12/2017 10:00,14/01/2018 18:10
+UNDERTOW-1244,Bug,Closed,UNDERTOW,Undertow,software,Done,13/12/2017 17:44,18/12/2017 19:17
+UNDERTOW-1243,Support Request,Resolved,UNDERTOW,Undertow,software,Done,11/12/2017 08:40,18/12/2017 00:47
+UNDERTOW-1242,Bug,Closed,UNDERTOW,Undertow,software,Obsolete,10/12/2017 03:16,10/12/2017 04:28
+UNDERTOW-1241,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/12/2017 09:55,06/12/2017 17:20
+UNDERTOW-1240,Bug,Resolved,UNDERTOW,Undertow,software,Done,04/12/2017 12:10,06/12/2017 18:56
+UNDERTOW-1239,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/11/2017 17:13,27/11/2017 17:20
+UNDERTOW-1238,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/11/2017 18:15,29/11/2017 23:53
+UNDERTOW-1237,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/11/2017 21:05,06/12/2017 01:02
+UNDERTOW-1236,Bug,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,21/11/2017 12:44,21/11/2023 10:05
+UNDERTOW-1235,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/11/2017 05:26,18/01/2023 16:37
+UNDERTOW-1234,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/11/2017 22:58,14/11/2017 20:54
+UNDERTOW-1233,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/11/2017 21:51,13/11/2017 22:51
+UNDERTOW-1232,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,08/11/2017 19:59,08/11/2017 21:46
+UNDERTOW-1231,Bug,Closed,UNDERTOW,Undertow,software,Done,07/11/2017 02:28,28/11/2017 05:42
+UNDERTOW-1230,Bug,Closed,UNDERTOW,Undertow,software,Done,06/11/2017 08:34,08/11/2017 18:34
+UNDERTOW-1229,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,06/11/2017 02:54,29/11/2017 08:55
+UNDERTOW-1228,Task,Resolved,UNDERTOW,Undertow,software,Done,06/11/2017 00:48,06/11/2017 00:48
+UNDERTOW-1227,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/11/2017 17:04,05/11/2017 20:23
+UNDERTOW-1225,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,01/11/2017 19:40,01/11/2017 19:40
+UNDERTOW-1224,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/11/2017 18:22,01/11/2017 19:33
+UNDERTOW-1223,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,01/11/2017 13:49,01/11/2017 16:14
+UNDERTOW-1222,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/11/2017 06:02,01/11/2017 23:12
+UNDERTOW-1221,Bug,Resolved,UNDERTOW,Undertow,software,Done,31/10/2017 21:47,07/11/2017 20:45
+UNDERTOW-1220,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,30/10/2017 23:47,30/10/2017 23:54
+UNDERTOW-1219,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/10/2017 05:38,30/10/2017 17:27
+UNDERTOW-1218,Bug,Resolved,UNDERTOW,Undertow,software,Done,25/10/2017 10:25,30/10/2017 00:57
+UNDERTOW-1217,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/10/2017 20:39,30/10/2017 01:03
+UNDERTOW-1216,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/10/2017 16:13,29/10/2017 16:18
+UNDERTOW-1215,Enhancement,Open,UNDERTOW,Undertow,software,,27/10/2017 11:34,
+UNDERTOW-1214,Bug,Resolved,UNDERTOW,Undertow,software,Done,25/10/2017 23:36,29/10/2017 16:08
+UNDERTOW-1213,Bug,Resolved,UNDERTOW,Undertow,software,Done,25/10/2017 23:31,25/10/2017 23:32
+UNDERTOW-1212,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,25/10/2017 21:19,29/10/2017 16:03
+UNDERTOW-1211,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,25/10/2017 08:01,30/10/2017 04:07
+UNDERTOW-1210,Bug,Resolved,UNDERTOW,Undertow,software,Done,25/10/2017 04:42,25/10/2017 15:57
+UNDERTOW-1209,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/10/2017 18:42,24/10/2017 19:28
+UNDERTOW-1208,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,23/10/2017 17:59,29/10/2017 16:20
+UNDERTOW-1207,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,23/10/2017 17:21,25/10/2017 17:50
+UNDERTOW-1206,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/10/2017 09:13,23/10/2017 19:22
+UNDERTOW-1205,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/10/2017 05:15,25/10/2017 03:57
+UNDERTOW-1204,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,23/10/2017 03:16,29/10/2017 16:55
+UNDERTOW-1203,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/10/2017 03:21,12/09/2018 13:14
+UNDERTOW-1202,Feature Request,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,18/10/2017 14:10,02/11/2017 20:31
+UNDERTOW-1201,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,18/10/2017 05:43,02/11/2017 01:40
+UNDERTOW-1200,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,18/10/2017 05:26,02/11/2017 18:04
+UNDERTOW-1198,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/10/2017 02:42,27/09/2021 12:23
+UNDERTOW-1197,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/10/2017 05:26,15/05/2020 01:54
+UNDERTOW-1196,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,11/10/2017 15:12,12/10/2017 02:11
+UNDERTOW-1195,Bug,Resolved,UNDERTOW,Undertow,software,Done,11/10/2017 15:02,12/10/2017 02:10
+UNDERTOW-1193,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/10/2017 06:51,30/10/2017 23:23
+UNDERTOW-1192,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/10/2017 06:03,10/10/2017 07:20
+UNDERTOW-1191,Clarification,Resolved,UNDERTOW,Undertow,software,Won't Do,04/10/2017 04:07,04/10/2017 04:53
+UNDERTOW-1190,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/10/2017 07:09,29/03/2018 00:08
+UNDERTOW-1189,Support Request,Closed,UNDERTOW,Undertow,software,Won't Do,02/10/2017 11:24,10/10/2017 07:22
+UNDERTOW-1188,Enhancement,Closed,UNDERTOW,Undertow,software,Won't Do,29/09/2017 08:54,29/09/2017 09:19
+UNDERTOW-1187,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/09/2017 01:35,29/10/2017 17:18
+UNDERTOW-1186,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/09/2017 06:13,28/09/2017 06:15
+UNDERTOW-1185,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/09/2017 14:04,04/11/2017 18:45
+UNDERTOW-1183,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/09/2017 06:43,10/10/2017 07:46
+UNDERTOW-1182,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,20/09/2017 06:51,10/10/2017 08:02
+UNDERTOW-1181,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,19/09/2017 00:01,19/09/2017 01:26
+UNDERTOW-1180,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/09/2017 09:21,12/09/2017 21:31
+UNDERTOW-1179,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/09/2017 23:51,04/09/2017 02:26
+UNDERTOW-1178,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,03/09/2017 17:32,29/10/2017 17:33
+UNDERTOW-1177,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/09/2017 01:08,01/09/2017 01:11
+UNDERTOW-1176,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/08/2017 20:34,30/08/2017 20:35
+UNDERTOW-1175,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/08/2017 20:17,30/08/2017 20:18
+UNDERTOW-1174,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/08/2017 20:15,30/08/2017 20:16
+UNDERTOW-1173,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/08/2017 20:10,30/08/2017 20:11
+UNDERTOW-1172,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,30/08/2017 19:28,30/08/2017 19:28
+UNDERTOW-1171,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,30/08/2017 18:58,30/08/2017 19:00
+UNDERTOW-1170,Enhancement,Open,UNDERTOW,Undertow,software,,28/08/2017 22:01,
+UNDERTOW-1169,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/08/2017 21:43,28/08/2017 21:44
+UNDERTOW-1168,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/08/2017 19:01,28/08/2017 19:02
+UNDERTOW-1167,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/08/2017 03:19,03/09/2017 23:50
+UNDERTOW-1166,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/08/2017 18:02,24/08/2017 18:23
+UNDERTOW-1164,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/08/2017 01:40,22/08/2017 01:41
+UNDERTOW-1163,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/08/2017 01:30,22/08/2017 22:13
+UNDERTOW-1162,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/08/2017 22:23,20/08/2017 22:28
+UNDERTOW-1161,Enhancement,Open,UNDERTOW,Undertow,software,,18/08/2017 11:28,
+UNDERTOW-1160,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/08/2017 17:02,16/08/2017 01:02
+UNDERTOW-1159,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/08/2017 00:56,20/02/2019 09:05
+UNDERTOW-1158,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/08/2017 01:53,14/08/2017 01:58
+UNDERTOW-1157,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/08/2017 20:13,13/08/2017 20:18
+UNDERTOW-1156,Bug,Resolved,UNDERTOW,Undertow,software,Done,11/08/2017 15:05,13/08/2017 19:25
+UNDERTOW-1155,Bug,Resolved,UNDERTOW,Undertow,software,Done,11/08/2017 14:57,13/08/2017 19:16
+UNDERTOW-1154,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/08/2017 23:44,11/08/2017 00:16
+UNDERTOW-1153,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/08/2017 18:07,10/08/2017 18:13
+UNDERTOW-1152,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/08/2017 03:34,10/08/2017 18:04
+UNDERTOW-1151,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/08/2017 22:26,09/08/2017 22:27
+UNDERTOW-1150,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/08/2017 19:49,09/08/2017 20:19
+UNDERTOW-1149,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/08/2017 09:38,10/08/2017 07:07
+UNDERTOW-1148,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,08/08/2017 21:06,12/09/2018 13:19
+UNDERTOW-1147,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/08/2017 02:10,12/10/2017 11:57
+UNDERTOW-1145,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/08/2017 11:24,02/08/2017 21:09
+UNDERTOW-1143,Bug,Closed,UNDERTOW,Undertow,software,Done,24/07/2017 15:20,14/08/2017 10:19
+UNDERTOW-1142,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/07/2017 13:56,07/08/2017 08:40
+UNDERTOW-1140,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/07/2017 22:14,20/07/2017 22:48
+UNDERTOW-1139,Bug,Resolved,UNDERTOW,Undertow,software,Done,18/07/2017 13:48,18/07/2017 18:07
+UNDERTOW-1138,Enhancement,Open,UNDERTOW,Undertow,software,,18/07/2017 03:08,
+UNDERTOW-1137,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/07/2017 23:11,17/07/2017 23:11
+UNDERTOW-1136,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/07/2017 12:32,17/07/2017 19:48
+UNDERTOW-1135,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/07/2017 03:33,16/07/2017 18:09
+UNDERTOW-1134,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/07/2017 21:10,13/07/2017 21:13
+UNDERTOW-1133,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,13/07/2017 08:17,13/07/2017 16:18
+UNDERTOW-1132,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/07/2017 18:14,12/07/2017 19:45
+UNDERTOW-1131,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,12/07/2017 12:49,12/07/2017 17:46
+UNDERTOW-1129,Bug,Closed,UNDERTOW,Undertow,software,Cannot Reproduce,05/07/2017 11:25,20/07/2017 21:10
+UNDERTOW-1128,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/07/2017 06:33,12/07/2017 22:32
+UNDERTOW-1127,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,01/07/2017 16:51,01/07/2017 19:58
+UNDERTOW-1126,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,30/06/2017 13:54,17/07/2017 22:56
+UNDERTOW-1125,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,29/06/2017 09:55,17/07/2017 20:26
+UNDERTOW-1115,Feature Request,Resolved,UNDERTOW,Undertow,software,Won't Do,27/06/2017 00:16,12/07/2017 22:53
+UNDERTOW-1114,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/06/2017 05:57,22/06/2017 21:13
+UNDERTOW-1113,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/06/2017 13:38,26/06/2017 00:49
+UNDERTOW-1112,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/06/2017 12:49,21/06/2017 22:06
+UNDERTOW-1111,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/06/2017 10:45,21/06/2017 22:24
+UNDERTOW-1110,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/06/2017 21:13,20/06/2017 21:42
+UNDERTOW-1109,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/06/2017 17:33,20/06/2017 17:35
+UNDERTOW-1108,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,20/06/2017 01:53,20/06/2017 01:55
+UNDERTOW-1107,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/06/2017 23:53,20/06/2017 00:03
+UNDERTOW-1106,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/06/2017 22:53,19/06/2017 22:54
+UNDERTOW-1105,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,15/06/2017 08:27,15/06/2017 17:18
+UNDERTOW-1104,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/06/2017 22:07,14/06/2017 22:12
+UNDERTOW-1103,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/06/2017 13:23,19/06/2017 19:15
+UNDERTOW-1102,Bug,Closed,UNDERTOW,Undertow,software,Done,13/06/2017 22:11,13/06/2017 22:12
+UNDERTOW-1099,Bug,Resolved,UNDERTOW,Undertow,software,Done,11/06/2017 09:56,14/06/2017 01:41
+UNDERTOW-1096,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/06/2017 00:12,26/06/2017 01:15
+UNDERTOW-1095,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/06/2017 23:48,26/06/2017 01:15
+UNDERTOW-1093,Bug,Resolved,UNDERTOW,Undertow,software,Done,07/06/2017 06:06,14/06/2017 02:17
+UNDERTOW-1092,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/06/2017 12:31,26/06/2017 00:48
+UNDERTOW-1091,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/06/2017 09:50,30/07/2019 02:09
+UNDERTOW-1090,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,02/06/2017 09:44,02/06/2017 20:12
+UNDERTOW-1089,Bug,Closed,UNDERTOW,Undertow,software,Obsolete,31/05/2017 16:31,01/06/2017 13:19
+UNDERTOW-1088,Bug,Resolved,UNDERTOW,Undertow,software,Done,31/05/2017 16:11,05/06/2017 05:31
+UNDERTOW-1087,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/05/2017 12:22,30/05/2017 16:59
+UNDERTOW-1085,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/05/2017 06:44,13/06/2017 20:51
+UNDERTOW-1084,Bug,Resolved,UNDERTOW,Undertow,software,Done,25/05/2017 10:49,15/06/2017 23:30
+UNDERTOW-1083,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,24/05/2017 22:05,24/05/2017 22:06
+UNDERTOW-1082,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,23/05/2017 22:36,24/05/2017 23:59
+UNDERTOW-1081,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/05/2017 18:45,23/05/2017 18:51
+UNDERTOW-1080,Feature Request,Open,UNDERTOW,Undertow,software,,23/05/2017 11:06,
+UNDERTOW-1078,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/05/2017 11:17,17/05/2017 17:47
+UNDERTOW-1077,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,15/05/2017 16:27,17/05/2017 18:23
+UNDERTOW-1076,Bug,Resolved,UNDERTOW,Undertow,software,Done,11/05/2017 01:51,11/05/2017 03:08
+UNDERTOW-1075,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/05/2017 10:09,09/05/2017 22:09
+UNDERTOW-1074,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/05/2017 09:34,11/05/2017 03:09
+UNDERTOW-1073,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,09/05/2017 09:20,09/05/2017 22:00
+UNDERTOW-1072,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,08/05/2017 17:29,08/05/2017 17:30
+UNDERTOW-1071,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/05/2017 01:33,05/05/2017 01:34
+UNDERTOW-1070,Bug,Resolved,UNDERTOW,Undertow,software,Done,04/05/2017 01:14,04/05/2017 01:15
+UNDERTOW-1069,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/05/2017 19:12,02/05/2017 19:13
+UNDERTOW-1068,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/05/2017 17:36,02/05/2017 19:13
+UNDERTOW-1067,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/05/2017 01:03,02/05/2017 01:05
+UNDERTOW-1066,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/05/2017 23:36,04/05/2017 01:45
+UNDERTOW-1065,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/05/2017 03:20,04/05/2017 01:49
+UNDERTOW-1064,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/04/2017 09:08,30/04/2017 18:37
+UNDERTOW-1063,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/04/2017 01:09,28/04/2017 01:14
+UNDERTOW-1062,Bug,Reopened,UNDERTOW,Undertow,software,,27/04/2017 02:50,
+UNDERTOW-1061,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,26/04/2017 22:25,26/04/2017 22:28
+UNDERTOW-1060,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/04/2017 18:45,26/04/2017 18:50
+UNDERTOW-1059,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/04/2017 18:34,26/04/2017 18:45
+UNDERTOW-1056,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/04/2017 17:46,17/04/2017 17:47
+UNDERTOW-1055,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,13/04/2017 12:16,09/05/2017 22:10
+UNDERTOW-1053,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,13/04/2017 11:18,26/04/2017 16:43
+UNDERTOW-1052,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,12/04/2017 19:21,12/04/2017 19:22
+UNDERTOW-1051,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/04/2017 16:30,12/04/2017 22:21
+UNDERTOW-1050,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,11/04/2017 04:13,11/04/2017 04:16
+UNDERTOW-1049,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,10/04/2017 01:40,10/04/2017 01:57
+UNDERTOW-1048,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/04/2017 00:22,10/04/2017 00:23
+UNDERTOW-1047,Bug,Resolved,UNDERTOW,Undertow,software,Duplicate,06/04/2017 03:34,14/08/2017 00:49
+UNDERTOW-1046,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,05/04/2017 22:32,05/04/2017 23:57
+UNDERTOW-1045,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/04/2017 19:58,05/04/2017 22:55
+UNDERTOW-1044,Feature Request,Resolved,UNDERTOW,Undertow,software,Duplicate,05/04/2017 17:37,04/09/2017 01:43
+UNDERTOW-1042,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,05/04/2017 03:08,23/03/2018 06:26
+UNDERTOW-1040,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/04/2017 00:54,11/04/2017 04:17
+UNDERTOW-1039,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/04/2017 21:52,03/04/2017 21:53
+UNDERTOW-1038,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/04/2017 20:50,03/04/2017 20:52
+UNDERTOW-1037,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/04/2017 20:26,03/04/2017 20:28
+UNDERTOW-1034,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/03/2017 11:25,17/04/2017 23:59
+UNDERTOW-1032,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/03/2017 04:58,29/03/2017 17:42
+UNDERTOW-1031,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/03/2017 21:52,28/03/2017 20:03
+UNDERTOW-1028,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,20/03/2017 20:36,01/11/2017 17:33
+UNDERTOW-1027,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/03/2017 20:07,20/03/2017 20:08
+UNDERTOW-1024,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,20/03/2017 05:24,23/03/2017 16:21
+UNDERTOW-1023,Bug,Open,UNDERTOW,Undertow,software,,20/03/2017 01:17,
+UNDERTOW-1022,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/03/2017 22:51,23/03/2017 16:22
+UNDERTOW-1021,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/03/2017 20:45,05/04/2017 19:21
+UNDERTOW-1020,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/03/2017 20:44,05/04/2017 19:21
+UNDERTOW-1018,Bug,Coding In Progress,UNDERTOW,Undertow,software,,16/03/2017 09:18,
+UNDERTOW-1016,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/03/2017 12:47,22/08/2017 00:49
+UNDERTOW-1015,Bug,Resolved,UNDERTOW,Undertow,software,Duplicate,14/03/2017 04:43,04/04/2017 19:58
+UNDERTOW-1014,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/03/2017 22:23,15/03/2017 00:02
+UNDERTOW-1012,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/03/2017 04:05,13/03/2017 19:37
+UNDERTOW-1011,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/03/2017 09:09,30/05/2017 20:33
+UNDERTOW-1010,Documentation,Resolved,UNDERTOW,Undertow,software,Done,07/03/2017 16:18,29/03/2018 00:44
+UNDERTOW-1009,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/03/2017 09:52,06/03/2017 19:31
+UNDERTOW-1008,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/03/2017 19:29,05/03/2017 19:38
+UNDERTOW-1007,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,01/03/2017 15:26,02/03/2017 02:21
+UNDERTOW-1006,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/03/2017 10:20,02/04/2017 17:23
+UNDERTOW-1005,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/02/2017 21:45,27/02/2017 22:37
+UNDERTOW-1003,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/02/2017 20:41,22/02/2017 20:42
+UNDERTOW-1001,Bug,Open,UNDERTOW,Undertow,software,,20/02/2017 09:46,
+UNDERTOW-1000,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/02/2017 06:51,21/02/2017 00:40
+UNDERTOW-999,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/02/2017 08:12,20/02/2017 00:30
+UNDERTOW-998,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/02/2017 21:00,05/03/2017 23:38
+UNDERTOW-997,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/02/2017 20:14,19/02/2017 20:19
+UNDERTOW-996,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/02/2017 23:53,09/03/2017 22:48
+UNDERTOW-995,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/02/2017 16:42,13/02/2017 16:48
+UNDERTOW-994,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/02/2017 20:04,10/02/2017 20:09
+UNDERTOW-993,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/02/2017 13:17,12/02/2017 22:38
+UNDERTOW-991,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,09/02/2017 14:33,17/03/2021 04:24
+UNDERTOW-990,Enhancement,Resolved,UNDERTOW,Undertow,software,Won't Do,09/02/2017 08:22,08/05/2017 21:06
+UNDERTOW-989,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/02/2017 06:42,08/05/2017 20:54
+UNDERTOW-988,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/02/2017 19:36,08/02/2017 19:40
+UNDERTOW-987,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,08/02/2017 17:08,12/09/2018 10:41
+UNDERTOW-986,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/02/2017 11:44,14/02/2017 23:11
+UNDERTOW-981,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/02/2017 13:02,02/02/2017 17:36
+UNDERTOW-980,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/02/2017 18:30,08/05/2017 20:58
+UNDERTOW-979,Bug,Open,UNDERTOW,Undertow,software,,31/01/2017 02:41,
+UNDERTOW-977,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/01/2017 07:21,29/01/2017 00:53
+UNDERTOW-976,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/01/2017 11:40,31/01/2017 06:56
+UNDERTOW-974,Feature Request,Open,UNDERTOW,Undertow,software,,26/01/2017 07:52,
+UNDERTOW-972,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/01/2017 20:57,24/01/2017 20:59
+UNDERTOW-970,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,24/01/2017 02:39,25/01/2017 16:36
+UNDERTOW-967,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/01/2017 21:02,23/01/2017 21:30
+UNDERTOW-966,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/01/2017 20:39,23/01/2017 21:02
+UNDERTOW-962,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,19/01/2017 08:00,24/01/2017 11:26
+UNDERTOW-961,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/01/2017 07:36,16/02/2017 18:02
+UNDERTOW-960,Bug,Resolved,UNDERTOW,Undertow,software,Done,18/01/2017 21:38,22/01/2017 18:23
+UNDERTOW-959,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,21/10/2016 01:24,23/01/2017 18:20
+UNDERTOW-958,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/01/2017 17:46,18/01/2017 23:20
+UNDERTOW-956,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,17/01/2017 04:01,08/02/2017 13:24
+UNDERTOW-955,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/01/2017 19:34,16/01/2017 19:41
+UNDERTOW-954,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/01/2017 00:24,16/01/2017 00:28
+UNDERTOW-953,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/01/2017 21:14,15/01/2017 21:43
+UNDERTOW-952,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,13/01/2017 20:57,15/01/2017 18:20
+UNDERTOW-950,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/01/2017 22:23,11/01/2017 21:42
+UNDERTOW-949,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/01/2017 19:32,05/01/2017 19:48
+UNDERTOW-948,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/01/2017 18:51,05/01/2017 18:56
+UNDERTOW-947,Bug,Resolved,UNDERTOW,Undertow,software,Done,04/01/2017 08:37,05/01/2017 17:09
+UNDERTOW-946,Enhancement,Closed,UNDERTOW,Undertow,software,Done,16/02/2016 09:06,05/01/2017 14:31
+UNDERTOW-945,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,02/01/2017 16:27,02/01/2017 16:29
+UNDERTOW-944,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,02/01/2017 10:09,02/01/2017 15:45
+UNDERTOW-943,Enhancement,Resolved,UNDERTOW,Undertow,software,Won't Do,31/12/2016 07:19,31/12/2016 18:36
+UNDERTOW-941,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/12/2016 09:01,02/01/2017 16:46
+UNDERTOW-940,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/12/2016 13:57,02/01/2017 18:35
+UNDERTOW-939,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,20/12/2016 06:43,02/01/2017 18:31
+UNDERTOW-938,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/12/2016 16:52,19/12/2016 17:18
+UNDERTOW-937,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,18/12/2016 05:07,22/04/2021 11:17
+UNDERTOW-936,Task,Resolved,UNDERTOW,Undertow,software,Done,14/12/2016 18:34,22/01/2017 19:41
+UNDERTOW-935,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/12/2016 12:38,14/12/2016 18:37
+UNDERTOW-933,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/12/2016 19:35,13/12/2016 19:39
+UNDERTOW-932,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/12/2016 09:01,14/12/2016 04:58
+UNDERTOW-931,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/12/2016 08:21,12/12/2016 18:18
+UNDERTOW-930,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/12/2016 06:22,19/12/2016 17:38
+UNDERTOW-929,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,11/12/2016 17:39,11/12/2016 17:40
+UNDERTOW-928,Bug,Resolved,UNDERTOW,Undertow,software,Done,11/12/2016 07:59,11/12/2016 17:27
+UNDERTOW-927,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/12/2016 22:43,08/12/2016 22:44
+UNDERTOW-926,Bug,Resolved,UNDERTOW,Undertow,software,Done,07/12/2016 23:56,08/12/2016 23:03
+UNDERTOW-925,Bug,Resolved,UNDERTOW,Undertow,software,Done,07/12/2016 18:57,07/12/2016 19:09
+UNDERTOW-924,Bug,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,07/12/2016 11:15,11/01/2017 18:55
+UNDERTOW-923,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/12/2016 22:00,04/12/2016 16:52
+UNDERTOW-922,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,02/12/2016 12:47,29/10/2017 17:48
+UNDERTOW-921,Bug,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,02/12/2016 09:53,21/04/2021 10:02
+UNDERTOW-920,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,29/11/2016 16:40,06/12/2016 20:39
+UNDERTOW-918,Bug,Closed,UNDERTOW,Undertow,software,Done,29/11/2016 05:38,29/11/2016 21:53
+UNDERTOW-917,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/11/2016 07:56,29/11/2016 20:19
+UNDERTOW-916,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/11/2016 17:11,27/11/2016 17:58
+UNDERTOW-914,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,25/11/2016 05:31,16/02/2017 09:16
+UNDERTOW-913,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,24/11/2016 12:02,06/12/2016 22:03
+UNDERTOW-912,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/11/2016 13:57,09/12/2016 00:36
+UNDERTOW-911,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/11/2016 20:12,24/11/2016 00:45
+UNDERTOW-910,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/11/2016 18:47,23/11/2016 18:49
+UNDERTOW-909,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/11/2016 16:14,23/11/2016 16:12
+UNDERTOW-908,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,23/11/2016 12:36,06/12/2016 20:56
+UNDERTOW-907,Bug,Resolved,UNDERTOW,Undertow,software,Duplicate,20/10/2016 05:09,06/12/2016 20:46
+UNDERTOW-905,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/11/2016 10:04,28/11/2016 01:22
+UNDERTOW-904,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/11/2016 05:36,28/11/2016 19:33
+UNDERTOW-903,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/11/2016 20:11,21/11/2016 20:21
+UNDERTOW-902,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/11/2016 23:48,20/11/2016 23:49
+UNDERTOW-901,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,20/11/2016 18:27,04/09/2017 01:42
+UNDERTOW-900,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,17/11/2016 01:07,20/11/2016 20:30
+UNDERTOW-898,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/11/2016 10:05,13/12/2016 19:54
+UNDERTOW-897,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/11/2016 17:04,20/11/2016 21:27
+UNDERTOW-896,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/11/2016 16:20,12/11/2016 16:21
+UNDERTOW-895,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/11/2016 07:52,06/12/2016 22:04
+UNDERTOW-894,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/11/2016 18:44,10/11/2016 18:52
+UNDERTOW-893,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/11/2016 18:28,20/11/2016 21:27
+UNDERTOW-892,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,10/11/2016 08:07,29/10/2017 17:45
+UNDERTOW-891,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/11/2016 10:57,08/11/2016 17:55
+UNDERTOW-890,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,07/11/2016 08:35,02/11/2017 00:03
+UNDERTOW-889,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/11/2016 22:45,06/11/2016 22:46
+UNDERTOW-888,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/11/2016 06:38,03/11/2016 23:06
+UNDERTOW-886,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,02/11/2016 11:40,03/11/2016 06:41
+UNDERTOW-885,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/11/2016 19:33,01/11/2016 19:36
+UNDERTOW-884,Bug,Resolved,UNDERTOW,Undertow,software,Done,31/10/2016 21:55,01/11/2016 01:58
+UNDERTOW-883,Bug,Resolved,UNDERTOW,Undertow,software,Done,31/10/2016 07:35,31/10/2016 17:20
+UNDERTOW-881,Bug,Resolved,UNDERTOW,Undertow,software,Done,31/10/2016 03:13,31/10/2016 03:19
+UNDERTOW-880,Bug,Closed,UNDERTOW,Undertow,software,Done,29/10/2016 08:19,29/10/2016 08:31
+UNDERTOW-879,Feature Request,Resolved,UNDERTOW,Undertow,software,Won't Do,27/10/2016 16:28,27/10/2016 18:43
+UNDERTOW-877,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,27/10/2016 09:07,22/03/2018 12:00
+UNDERTOW-876,Enhancement,Open,UNDERTOW,Undertow,software,,27/10/2016 08:26,
+UNDERTOW-874,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/10/2016 02:28,24/10/2016 21:27
+UNDERTOW-873,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/10/2016 20:23,20/10/2016 20:27
+UNDERTOW-872,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/10/2016 18:19,12/12/2016 16:28
+UNDERTOW-871,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/10/2016 18:08,20/10/2016 18:19
+UNDERTOW-870,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/10/2016 17:21,20/10/2016 17:25
+UNDERTOW-869,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,20/10/2016 03:42,06/11/2016 19:27
+UNDERTOW-867,Bug,Resolved,UNDERTOW,Undertow,software,Duplicate,18/10/2016 08:03,20/10/2016 23:31
+UNDERTOW-865,Bug,Open,UNDERTOW,Undertow,software,,17/10/2016 10:03,
+UNDERTOW-864,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/10/2016 09:48,20/10/2016 23:54
+UNDERTOW-863,Feature Request,Resolved,UNDERTOW,Undertow,software,Won't Do,13/10/2016 21:53,11/08/2017 01:51
+UNDERTOW-862,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/10/2016 10:28,17/10/2016 23:03
+UNDERTOW-861,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/10/2016 13:30,11/10/2016 02:45
+UNDERTOW-860,Feature Request,Resolved,UNDERTOW,Undertow,software,Obsolete,06/10/2016 07:06,09/04/2017 19:32
+UNDERTOW-859,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/10/2016 07:48,06/10/2016 00:07
+UNDERTOW-858,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/10/2016 21:20,03/10/2016 21:24
+UNDERTOW-857,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,03/10/2016 17:21,03/10/2016 20:50
+UNDERTOW-856,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/10/2016 17:06,20/10/2016 23:40
+UNDERTOW-855,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,03/10/2016 02:33,03/10/2016 22:59
+UNDERTOW-854,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,02/10/2016 16:03,06/03/2018 21:01
+UNDERTOW-853,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/09/2016 10:19,07/12/2016 20:42
+UNDERTOW-852,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/09/2016 09:56,12/09/2018 13:28
+UNDERTOW-851,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/09/2016 09:49,10/02/2017 20:13
+UNDERTOW-850,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/09/2016 07:31,29/09/2016 19:49
+UNDERTOW-849,Enhancement,Closed,UNDERTOW,Undertow,software,Won't Do,27/09/2016 19:01,20/05/2017 13:08
+UNDERTOW-848,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/09/2016 22:22,27/11/2016 18:29
+UNDERTOW-847,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/09/2016 16:58,23/09/2016 17:10
+UNDERTOW-843,Bug,Closed,UNDERTOW,Undertow,software,Done,22/09/2016 04:43,13/10/2016 03:27
+UNDERTOW-842,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,20/09/2016 19:03,20/09/2016 20:15
+UNDERTOW-841,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/09/2016 18:54,19/09/2016 18:57
+UNDERTOW-840,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/09/2016 18:17,19/09/2016 19:22
+UNDERTOW-839,Story,Resolved,UNDERTOW,Undertow,software,Done,19/09/2016 06:53,08/12/2016 23:02
+UNDERTOW-838,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,19/09/2016 00:41,19/09/2016 00:46
+UNDERTOW-837,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/09/2016 19:50,14/09/2016 19:59
+UNDERTOW-836,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/09/2016 16:45,14/09/2016 16:49
+UNDERTOW-835,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/09/2016 11:34,14/09/2016 19:59
+UNDERTOW-833,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/09/2016 08:14,19/09/2016 04:25
+UNDERTOW-831,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/09/2016 03:05,07/12/2016 18:25
+UNDERTOW-830,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/09/2016 22:14,27/09/2016 23:16
+UNDERTOW-829,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,12/09/2016 17:18,09/06/2018 01:37
+UNDERTOW-828,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,11/09/2016 22:57,12/09/2016 00:03
+UNDERTOW-826,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/09/2016 12:13,08/09/2016 21:24
+UNDERTOW-825,Bug,Open,UNDERTOW,Undertow,software,,08/09/2016 08:43,
+UNDERTOW-824,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/09/2016 07:50,14/09/2016 02:48
+UNDERTOW-823,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/09/2016 17:24,14/09/2016 23:23
+UNDERTOW-822,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/09/2016 09:47,16/09/2016 02:20
+UNDERTOW-821,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/09/2016 09:16,27/09/2016 21:33
+UNDERTOW-820,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/09/2016 03:45,05/09/2016 03:51
+UNDERTOW-819,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/09/2016 00:53,05/09/2016 00:57
+UNDERTOW-818,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/09/2016 00:28,02/09/2016 02:38
+UNDERTOW-817,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/09/2016 19:08,01/09/2016 19:11
+UNDERTOW-816,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/09/2016 10:41,05/09/2016 18:35
+UNDERTOW-815,Bug,Resolved,UNDERTOW,Undertow,software,Done,31/08/2016 00:54,31/08/2016 22:13
+UNDERTOW-814,Bug,Resolved,UNDERTOW,Undertow,software,Done,31/08/2016 00:20,31/08/2016 00:50
+UNDERTOW-813,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/08/2016 23:40,30/08/2016 23:55
+UNDERTOW-812,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/08/2016 23:36,30/08/2016 23:40
+UNDERTOW-811,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/08/2016 21:23,30/08/2016 21:45
+UNDERTOW-810,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/08/2016 20:50,29/08/2016 20:51
+UNDERTOW-809,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/08/2016 09:59,29/08/2016 23:55
+UNDERTOW-808,Clarification,Closed,UNDERTOW,Undertow,software,Won't Do,28/08/2016 18:25,28/08/2016 19:19
+UNDERTOW-807,Bug,Resolved,UNDERTOW,Undertow,software,Done,25/08/2016 09:10,25/08/2016 22:48
+UNDERTOW-806,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/08/2016 19:43,24/08/2016 19:48
+UNDERTOW-805,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/08/2016 13:41,23/08/2016 20:58
+UNDERTOW-804,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/08/2016 06:02,25/08/2016 22:56
+UNDERTOW-803,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,23/08/2016 04:10,13/09/2016 03:04
+UNDERTOW-802,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/08/2016 08:52,23/08/2016 21:41
+UNDERTOW-801,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/08/2016 21:47,22/08/2016 19:36
+UNDERTOW-799,Bug,Resolved,UNDERTOW,Undertow,software,Done,18/08/2016 13:07,18/08/2016 17:21
+UNDERTOW-798,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,18/08/2016 04:53,19/08/2016 02:52
+UNDERTOW-796,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,05/08/2016 22:55,06/08/2016 12:31
+UNDERTOW-795,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,04/08/2016 07:52,04/08/2016 20:52
+UNDERTOW-792,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/08/2016 13:20,15/12/2016 12:17
+UNDERTOW-791,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/08/2016 22:53,02/08/2016 23:02
+UNDERTOW-790,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/08/2016 22:31,02/08/2016 22:44
+UNDERTOW-789,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,02/08/2016 08:20,02/08/2016 21:08
+UNDERTOW-787,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/08/2016 03:22,02/08/2016 20:12
+UNDERTOW-786,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/08/2016 01:14,02/08/2016 01:58
+UNDERTOW-784,Bug,Closed,UNDERTOW,Undertow,software,Duplicate,28/07/2016 07:27,15/12/2016 08:49
+UNDERTOW-782,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,26/07/2016 00:10,26/07/2016 00:55
+UNDERTOW-781,Bug,Resolved,UNDERTOW,Undertow,software,Done,25/07/2016 02:50,25/07/2016 18:36
+UNDERTOW-780,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/07/2016 15:02,24/07/2016 19:42
+UNDERTOW-779,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,21/07/2016 09:46,24/07/2016 19:42
+UNDERTOW-778,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,19/07/2016 20:35,19/07/2016 22:17
+UNDERTOW-776,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/07/2016 09:02,24/07/2016 19:58
+UNDERTOW-774,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,14/07/2016 06:40,19/07/2016 00:04
+UNDERTOW-773,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/07/2016 21:20,13/07/2016 21:24
+UNDERTOW-772,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/07/2016 14:57,12/07/2016 18:16
+UNDERTOW-771,Bug,Resolved,UNDERTOW,Undertow,software,Done,11/07/2016 19:05,17/07/2016 20:23
+UNDERTOW-770,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,11/07/2016 11:53,07/10/2018 19:56
+UNDERTOW-769,Feature Request,Resolved,UNDERTOW,Undertow,software,Won't Do,08/07/2016 09:49,06/03/2018 21:02
+UNDERTOW-768,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/07/2016 09:44,10/07/2016 21:58
+UNDERTOW-767,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/07/2016 07:48,10/07/2016 20:56
+UNDERTOW-766,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,08/07/2016 05:11,09/01/2017 19:14
+UNDERTOW-765,Bug,Resolved,UNDERTOW,Undertow,software,Done,07/07/2016 11:07,07/07/2016 19:23
+UNDERTOW-764,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,06/07/2016 22:48,06/07/2016 22:49
+UNDERTOW-763,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/07/2016 22:06,06/07/2016 22:15
+UNDERTOW-762,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/07/2016 00:19,07/07/2016 21:41
+UNDERTOW-761,Bug,Closed,UNDERTOW,Undertow,software,Cannot Reproduce,05/07/2016 07:24,07/07/2016 11:50
+UNDERTOW-760,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,04/07/2016 23:26,04/07/2016 23:31
+UNDERTOW-759,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,04/07/2016 09:24,04/07/2016 18:19
+UNDERTOW-758,Bug,Resolved,UNDERTOW,Undertow,software,Done,04/07/2016 06:44,05/07/2016 04:42
+UNDERTOW-757,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,03/07/2016 22:49,03/07/2016 22:56
+UNDERTOW-756,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/06/2016 06:10,19/07/2016 19:24
+UNDERTOW-755,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/06/2016 00:54,03/08/2016 23:43
+UNDERTOW-754,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/06/2016 17:59,29/06/2016 18:34
+UNDERTOW-753,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,27/06/2016 20:47,29/06/2016 18:33
+UNDERTOW-752,Task,Resolved,UNDERTOW,Undertow,software,Done,22/06/2016 23:21,24/06/2016 00:14
+UNDERTOW-750,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,22/06/2016 01:56,07/08/2018 23:39
+UNDERTOW-748,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,16/06/2016 20:35,16/06/2016 20:44
+UNDERTOW-746,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/06/2016 00:00,16/06/2016 00:01
+UNDERTOW-745,Bug,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,15/06/2016 07:49,21/06/2016 21:57
+UNDERTOW-744,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,13/06/2016 18:33,03/08/2016 23:47
+UNDERTOW-743,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/06/2016 19:27,09/06/2016 19:42
+UNDERTOW-742,Bug,Resolved,UNDERTOW,Undertow,software,Done,07/06/2016 07:03,09/06/2016 01:53
+UNDERTOW-741,Feature Request,Resolved,UNDERTOW,Undertow,software,Obsolete,06/06/2016 23:02,06/06/2016 23:39
+UNDERTOW-740,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/06/2016 20:56,07/06/2016 17:52
+UNDERTOW-739,Bug,Resolved,UNDERTOW,Undertow,software,Done,04/06/2016 07:20,05/06/2016 17:51
+UNDERTOW-735,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/06/2016 18:47,02/06/2016 18:54
+UNDERTOW-734,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/06/2016 02:21,02/06/2016 23:18
+UNDERTOW-733,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,02/06/2016 00:21,02/06/2016 00:29
+UNDERTOW-721,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/06/2016 19:59,20/06/2016 09:56
+UNDERTOW-720,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,01/06/2016 18:59,01/06/2016 19:03
+UNDERTOW-718,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/05/2016 03:35,30/05/2016 03:44
+UNDERTOW-717,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,27/05/2016 10:57,03/06/2016 00:17
+UNDERTOW-716,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,23/05/2016 17:14,24/05/2016 18:43
+UNDERTOW-715,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/05/2016 13:27,03/06/2016 04:57
+UNDERTOW-714,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,20/05/2016 09:19,03/06/2016 17:36
+UNDERTOW-713,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,19/05/2016 05:58,25/05/2016 05:14
+UNDERTOW-712,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/05/2016 10:44,01/06/2016 20:40
+UNDERTOW-711,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,16/05/2016 11:00,22/06/2016 04:33
+UNDERTOW-710,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/05/2016 14:10,02/06/2016 18:55
+UNDERTOW-709,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/05/2016 14:58,04/11/2016 10:27
+UNDERTOW-708,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,05/05/2016 11:09,09/06/2016 20:18
+UNDERTOW-707,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/05/2016 09:06,03/05/2016 19:16
+UNDERTOW-706,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/05/2016 18:45,01/05/2016 18:47
+UNDERTOW-705,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/05/2016 17:54,01/05/2016 17:58
+UNDERTOW-703,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/04/2016 09:44,29/04/2016 00:53
+UNDERTOW-702,Feature Request,Resolved,UNDERTOW,Undertow,software,Won't Do,27/04/2016 02:00,27/04/2016 02:52
+UNDERTOW-701,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/04/2016 12:41,01/05/2016 18:42
+UNDERTOW-699,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/04/2016 18:06,22/04/2016 18:16
+UNDERTOW-698,Task,Open,UNDERTOW,Undertow,software,,22/04/2016 17:40,
+UNDERTOW-697,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/04/2016 17:43,28/04/2016 21:02
+UNDERTOW-696,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/04/2016 08:50,21/04/2016 22:19
+UNDERTOW-695,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/04/2016 05:53,21/04/2016 19:07
+UNDERTOW-694,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/04/2016 13:00,21/04/2016 04:05
+UNDERTOW-693,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/04/2016 10:57,20/04/2016 19:27
+UNDERTOW-692,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/04/2016 20:15,19/04/2016 20:20
+UNDERTOW-691,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/04/2016 18:14,19/04/2016 19:59
+UNDERTOW-690,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,19/04/2016 05:05,08/05/2017 21:05
+UNDERTOW-689,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/04/2016 19:00,17/04/2016 18:52
+UNDERTOW-688,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,13/04/2016 11:57,13/06/2016 08:45
+UNDERTOW-687,Bug,Closed,UNDERTOW,Undertow,software,Done,11/04/2016 11:16,11/04/2016 18:09
+UNDERTOW-686,Bug,Resolved,UNDERTOW,Undertow,software,Duplicate,11/04/2016 10:25,11/04/2016 18:03
+UNDERTOW-685,Feature Request,Resolved,UNDERTOW,Undertow,software,Won't Do,08/04/2016 17:54,12/04/2016 17:20
+UNDERTOW-684,Bug,Resolved,UNDERTOW,Undertow,software,Done,07/04/2016 11:23,18/04/2016 01:57
+UNDERTOW-683,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,06/04/2016 08:43,06/04/2016 23:33
+UNDERTOW-682,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/04/2016 18:42,05/04/2016 18:52
+UNDERTOW-680,Bug,Resolved,UNDERTOW,Undertow,software,Done,04/04/2016 19:32,04/04/2016 19:33
+UNDERTOW-678,Bug,Resolved,UNDERTOW,Undertow,software,Done,04/04/2016 17:29,03/05/2016 18:05
+UNDERTOW-676,Bug,Resolved,UNDERTOW,Undertow,software,Done,04/04/2016 12:11,18/04/2016 01:28
+UNDERTOW-674,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,04/04/2016 08:33,27/04/2016 00:37
+UNDERTOW-672,Bug,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,04/04/2016 05:04,06/11/2016 19:36
+UNDERTOW-671,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/04/2016 18:00,03/04/2016 19:05
+UNDERTOW-669,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/03/2016 17:53,29/03/2016 18:32
+UNDERTOW-668,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/03/2016 11:46,29/03/2016 18:31
+UNDERTOW-667,Bug,Resolved,UNDERTOW,Undertow,software,Done,25/03/2016 04:21,29/03/2016 19:31
+UNDERTOW-665,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/03/2016 18:51,22/03/2016 18:58
+UNDERTOW-664,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/03/2016 19:35,21/03/2016 19:40
+UNDERTOW-663,Bug,Resolved,UNDERTOW,Undertow,software,Done,18/03/2016 04:28,20/03/2016 17:19
+UNDERTOW-662,Feature Request,Resolved,UNDERTOW,Undertow,software,Won't Do,16/03/2016 17:38,16/03/2016 17:56
+UNDERTOW-661,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/03/2016 10:33,15/03/2016 20:25
+UNDERTOW-659,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/03/2016 20:50,14/03/2016 20:51
+UNDERTOW-658,Support Request,Resolved,UNDERTOW,Undertow,software,Won't Do,12/03/2016 01:20,15/03/2016 21:26
+UNDERTOW-657,Bug,Resolved,UNDERTOW,Undertow,software,Done,11/03/2016 05:49,13/03/2016 17:27
+UNDERTOW-656,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/03/2016 14:40,08/03/2016 17:07
+UNDERTOW-655,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/03/2016 22:49,06/03/2016 23:32
+UNDERTOW-654,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/03/2016 19:37,03/03/2016 19:37
+UNDERTOW-653,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,03/03/2016 16:32,08/03/2016 19:48
+UNDERTOW-652,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/03/2016 13:45,08/03/2016 05:29
+UNDERTOW-651,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/03/2016 16:59,02/03/2016 17:24
+UNDERTOW-650,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/03/2016 02:07,20/03/2016 20:10
+UNDERTOW-649,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,01/03/2016 13:43,17/04/2020 19:50
+UNDERTOW-648,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/02/2016 23:20,29/02/2016 23:26
+UNDERTOW-647,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/02/2016 19:02,28/02/2016 19:05
+UNDERTOW-646,Bug,Resolved,UNDERTOW,Undertow,software,Duplicate,28/02/2016 09:01,20/03/2016 17:22
+UNDERTOW-645,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/02/2016 00:29,26/02/2016 00:35
+UNDERTOW-644,Clarification,Resolved,UNDERTOW,Undertow,software,Done,23/02/2016 11:33,23/02/2016 18:44
+UNDERTOW-643,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/02/2016 23:09,22/02/2016 23:13
+UNDERTOW-642,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/02/2016 20:40,22/02/2016 23:01
+UNDERTOW-641,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/02/2016 06:41,22/02/2016 18:36
+UNDERTOW-640,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,22/02/2016 06:24,22/02/2016 22:02
+UNDERTOW-639,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/02/2016 01:11,20/02/2016 17:57
+UNDERTOW-638,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,18/02/2016 16:51,23/02/2016 21:17
+UNDERTOW-637,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/02/2016 21:41,17/02/2016 21:44
+UNDERTOW-636,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/02/2016 21:26,17/02/2016 22:13
+UNDERTOW-635,Bug,Closed,UNDERTOW,Undertow,software,Done,16/02/2016 16:54,16/02/2016 18:33
+UNDERTOW-634,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/02/2016 16:28,17/02/2016 17:36
+UNDERTOW-633,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/02/2016 17:09,15/02/2016 17:20
+UNDERTOW-631,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/02/2016 00:34,14/02/2016 21:20
+UNDERTOW-630,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/02/2016 20:08,09/02/2016 20:17
+UNDERTOW-629,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/02/2016 16:59,09/02/2016 17:05
+UNDERTOW-628,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,09/02/2016 13:19,23/02/2016 21:28
+UNDERTOW-627,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,09/02/2016 13:02,23/02/2017 16:18
+UNDERTOW-626,Enhancement,Open,UNDERTOW,Undertow,software,,01/02/2016 15:00,
+UNDERTOW-625,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/01/2016 22:38,28/01/2016 22:45
+UNDERTOW-624,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/01/2016 19:49,31/01/2016 15:16
+UNDERTOW-623,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/01/2016 16:56,27/01/2016 19:47
+UNDERTOW-622,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/01/2016 16:00,27/01/2016 16:05
+UNDERTOW-621,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/01/2016 22:24,26/01/2016 22:40
+UNDERTOW-620,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/01/2016 17:00,26/01/2016 17:05
+UNDERTOW-619,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,24/01/2016 22:55,24/01/2016 22:56
+UNDERTOW-618,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/01/2016 18:16,24/01/2016 18:28
+UNDERTOW-617,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/01/2016 16:25,24/01/2016 16:31
+UNDERTOW-616,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/01/2016 12:38,24/01/2016 19:34
+UNDERTOW-615,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/01/2016 02:09,21/01/2016 02:11
+UNDERTOW-614,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/01/2016 02:08,21/01/2016 02:11
+UNDERTOW-613,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/01/2016 22:27,21/01/2016 02:11
+UNDERTOW-612,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/01/2016 04:46,20/01/2016 05:24
+UNDERTOW-611,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/01/2016 23:10,19/01/2016 23:13
+UNDERTOW-610,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,18/01/2016 17:11,18/01/2016 18:59
+UNDERTOW-609,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/01/2016 18:44,19/01/2016 20:03
+UNDERTOW-608,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/01/2016 09:36,18/01/2016 15:57
+UNDERTOW-607,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/01/2016 12:49,18/01/2016 19:06
+UNDERTOW-606,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,14/01/2016 11:01,18/01/2016 23:59
+UNDERTOW-605,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/01/2016 09:38,18/01/2016 23:36
+UNDERTOW-604,Bug,Resolved,UNDERTOW,Undertow,software,Duplicate,14/01/2016 03:22,14/01/2016 06:08
+UNDERTOW-603,Bug,Resolved,UNDERTOW,Undertow,software,Done,07/01/2016 12:46,19/01/2016 08:29
+UNDERTOW-602,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/12/2015 10:47,03/01/2016 21:12
+UNDERTOW-601,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,28/12/2015 18:07,03/01/2016 21:01
+UNDERTOW-600,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/12/2015 16:31,07/01/2016 02:18
+UNDERTOW-599,Bug,Resolved,UNDERTOW,Undertow,software,Duplicate,23/12/2015 03:52,23/12/2015 05:28
+UNDERTOW-598,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/12/2015 20:09,20/12/2015 20:13
+UNDERTOW-597,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/12/2015 06:25,17/12/2015 06:33
+UNDERTOW-596,Bug,Resolved,UNDERTOW,Undertow,software,Done,11/12/2015 11:47,22/12/2015 01:30
+UNDERTOW-595,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/12/2015 16:47,31/01/2016 16:22
+UNDERTOW-594,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,09/12/2015 01:11,09/12/2015 01:13
+UNDERTOW-593,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/12/2015 20:29,08/12/2015 20:33
+UNDERTOW-592,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,01/12/2015 05:24,01/12/2015 23:42
+UNDERTOW-591,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/11/2015 01:02,26/11/2015 01:07
+UNDERTOW-590,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,24/11/2015 15:20,07/01/2016 03:23
+UNDERTOW-589,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,23/11/2015 16:29,23/11/2015 19:14
+UNDERTOW-588,Bug,Closed,UNDERTOW,Undertow,software,Obsolete,19/11/2015 09:58,15/12/2016 12:16
+UNDERTOW-587,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,18/11/2015 13:09,22/11/2015 18:27
+UNDERTOW-586,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/11/2015 13:35,22/11/2015 16:14
+UNDERTOW-585,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/11/2015 10:48,18/11/2015 17:07
+UNDERTOW-584,Enhancement,Closed,UNDERTOW,Undertow,software,Won't Do,13/11/2015 08:30,20/11/2015 03:16
+UNDERTOW-582,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,11/11/2015 10:32,18/11/2015 17:11
+UNDERTOW-581,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,10/11/2015 06:53,25/11/2015 21:41
+UNDERTOW-580,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/11/2015 15:46,16/11/2015 23:02
+UNDERTOW-579,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/11/2015 14:06,17/11/2015 04:19
+UNDERTOW-578,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/11/2015 07:44,22/11/2015 19:36
+UNDERTOW-577,Bug,Resolved,UNDERTOW,Undertow,software,Done,04/11/2015 14:55,05/11/2015 18:28
+UNDERTOW-575,Feature Request,Resolved,UNDERTOW,Undertow,software,Won't Do,04/11/2015 18:30,25/11/2015 19:26
+UNDERTOW-574,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/11/2015 19:37,03/11/2015 19:51
+UNDERTOW-573,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,03/11/2015 18:35,24/08/2017 01:51
+UNDERTOW-572,Feature Request,Closed,UNDERTOW,Undertow,software,Obsolete,02/11/2015 16:46,25/11/2015 19:20
+UNDERTOW-570,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/10/2015 06:00,01/11/2015 19:38
+UNDERTOW-569,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/10/2015 12:17,02/11/2015 09:55
+UNDERTOW-568,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/10/2015 12:55,16/06/2016 00:02
+UNDERTOW-567,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/10/2015 12:06,22/10/2015 06:06
+UNDERTOW-566,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/10/2015 13:47,19/10/2015 17:06
+UNDERTOW-565,Documentation,Resolved,UNDERTOW,Undertow,software,Won't Do,19/10/2015 08:11,19/10/2015 14:45
+UNDERTOW-564,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,19/10/2015 07:58,19/10/2015 14:47
+UNDERTOW-563,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,19/10/2015 02:36,20/10/2015 04:59
+UNDERTOW-562,Bug,Closed,UNDERTOW,Undertow,software,Done,16/10/2015 05:11,17/10/2015 09:58
+UNDERTOW-561,Bug,Resolved,UNDERTOW,Undertow,software,Done,15/10/2015 08:59,17/10/2015 10:58
+UNDERTOW-560,Enhancement,Open,UNDERTOW,Undertow,software,,14/10/2015 09:38,
+UNDERTOW-559,Feature Request,Resolved,UNDERTOW,Undertow,software,Won't Do,14/10/2015 08:31,24/01/2016 16:04
+UNDERTOW-558,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,13/10/2015 14:56,21/10/2015 01:13
+UNDERTOW-557,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/10/2015 08:33,17/10/2015 10:19
+UNDERTOW-556,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/10/2015 07:48,08/10/2015 09:18
+UNDERTOW-555,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/10/2015 15:16,29/04/2016 00:53
+UNDERTOW-554,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/10/2015 09:52,05/10/2015 10:09
+UNDERTOW-553,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,05/10/2015 06:04,05/10/2015 08:31
+UNDERTOW-552,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/10/2015 09:26,05/10/2015 05:29
+UNDERTOW-551,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/10/2015 09:35,05/10/2015 05:47
+UNDERTOW-550,Bug,Resolved,UNDERTOW,Undertow,software,Done,25/09/2015 06:59,29/09/2015 20:02
+UNDERTOW-549,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,24/09/2015 11:01,23/02/2016 05:38
+UNDERTOW-548,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/09/2015 10:43,13/06/2016 09:36
+UNDERTOW-546,Bug,Resolved,UNDERTOW,Undertow,software,Done,18/09/2015 10:02,24/09/2015 20:40
+UNDERTOW-545,Bug,Resolved,UNDERTOW,Undertow,software,Done,18/09/2015 08:16,23/10/2016 03:46
+UNDERTOW-544,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/09/2015 03:18,17/09/2015 04:06
+UNDERTOW-543,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/09/2015 20:53,16/09/2015 20:55
+UNDERTOW-542,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/09/2015 09:26,16/09/2015 20:18
+UNDERTOW-541,Bug,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,12/09/2015 19:49,23/02/2016 22:24
+UNDERTOW-539,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,11/09/2015 13:06,22/09/2015 00:49
+UNDERTOW-538,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,10/09/2015 11:50,29/09/2015 02:25
+UNDERTOW-537,Bug,Resolved,UNDERTOW,Undertow,software,Done,10/09/2015 01:25,11/09/2015 00:09
+UNDERTOW-536,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/09/2015 13:54,10/09/2015 23:22
+UNDERTOW-535,Bug,Resolved,UNDERTOW,Undertow,software,Done,07/09/2015 09:28,07/09/2015 18:37
+UNDERTOW-534,Task,Resolved,UNDERTOW,Undertow,software,Won't Do,03/09/2015 13:10,21/08/2018 07:45
+UNDERTOW-531,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,02/09/2015 06:11,03/09/2015 04:19
+UNDERTOW-530,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,01/09/2015 07:58,21/09/2015 23:24
+UNDERTOW-529,Bug,Resolved,UNDERTOW,Undertow,software,Done,31/08/2015 16:04,31/08/2015 23:59
+UNDERTOW-528,Bug,Resolved,UNDERTOW,Undertow,software,Done,31/08/2015 11:32,31/08/2015 19:27
+UNDERTOW-527,Clarification,Resolved,UNDERTOW,Undertow,software,Won't Do,31/08/2015 09:47,01/09/2015 01:34
+UNDERTOW-526,Bug,Resolved,UNDERTOW,Undertow,software,Done,31/08/2015 08:39,01/09/2015 00:19
+UNDERTOW-525,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/08/2015 07:20,06/09/2015 18:57
+UNDERTOW-524,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,28/08/2015 06:54,28/08/2015 08:54
+UNDERTOW-523,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/08/2015 14:01,26/08/2015 18:49
+UNDERTOW-522,Task,Resolved,UNDERTOW,Undertow,software,Done,26/08/2015 09:11,03/09/2015 02:54
+UNDERTOW-521,Enhancement,Resolved,UNDERTOW,Undertow,software,Won't Do,26/08/2015 03:26,30/08/2015 20:30
+UNDERTOW-520,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/08/2015 02:19,03/09/2015 00:31
+UNDERTOW-519,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,22/08/2015 20:32,23/08/2015 21:14
+UNDERTOW-518,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/08/2015 02:59,17/08/2015 20:05
+UNDERTOW-517,Bug,Closed,UNDERTOW,Undertow,software,Done,14/08/2015 09:57,16/08/2015 19:57
+UNDERTOW-516,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/08/2015 20:37,13/08/2015 20:41
+UNDERTOW-514,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/08/2015 12:55,08/08/2015 23:20
+UNDERTOW-513,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,07/08/2015 08:19,16/08/2015 22:33
+UNDERTOW-512,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,06/08/2015 09:34,06/08/2015 19:29
+UNDERTOW-511,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,06/08/2015 08:35,26/01/2016 21:47
+UNDERTOW-510,Bug,Resolved,UNDERTOW,Undertow,software,Done,04/08/2015 11:20,05/08/2015 19:25
+UNDERTOW-509,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,04/08/2015 08:54,16/08/2015 22:33
+UNDERTOW-508,Bug,Resolved,UNDERTOW,Undertow,software,Done,31/07/2015 15:38,03/09/2015 02:01
+UNDERTOW-507,Enhancement,Resolved,UNDERTOW,Undertow,software,Won't Do,30/07/2015 15:33,30/07/2015 22:14
+UNDERTOW-506,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/07/2015 06:36,31/07/2015 02:51
+UNDERTOW-505,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/07/2015 17:16,28/07/2015 20:39
+UNDERTOW-504,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,27/07/2015 16:04,27/07/2015 18:02
+UNDERTOW-503,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/07/2015 07:55,27/07/2015 20:15
+UNDERTOW-502,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,26/07/2015 05:46,26/01/2016 22:42
+UNDERTOW-501,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/07/2015 08:42,17/08/2015 03:00
+UNDERTOW-500,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/07/2015 10:08,22/07/2015 17:46
+UNDERTOW-490,Bug,Closed,UNDERTOW,Undertow,software,Done,20/07/2015 12:46,21/07/2015 03:42
+UNDERTOW-488,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,20/07/2015 06:53,10/09/2015 01:27
+UNDERTOW-487,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/07/2015 10:16,17/07/2015 12:04
+UNDERTOW-485,Bug,Resolved,UNDERTOW,Undertow,software,Done,14/07/2015 06:59,17/07/2015 04:01
+UNDERTOW-483,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,09/07/2015 10:12,09/07/2015 10:13
+UNDERTOW-482,Bug,Closed,UNDERTOW,Undertow,software,Done,07/07/2015 11:14,08/07/2015 03:36
+UNDERTOW-481,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/07/2015 09:14,07/07/2015 01:59
+UNDERTOW-480,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/06/2015 17:49,07/07/2015 01:58
+UNDERTOW-479,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/06/2015 12:07,06/07/2015 12:07
+UNDERTOW-478,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/06/2015 04:59,23/06/2015 05:42
+UNDERTOW-477,Bug,Resolved,UNDERTOW,Undertow,software,Duplicate,22/06/2015 07:27,22/06/2015 09:59
+UNDERTOW-476,Bug,Closed,UNDERTOW,Undertow,software,Done,22/06/2015 07:11,22/06/2015 10:26
+UNDERTOW-475,Bug,Resolved,UNDERTOW,Undertow,software,Done,18/06/2015 14:51,09/07/2015 11:39
+UNDERTOW-474,Bug,Resolved,UNDERTOW,Undertow,software,Done,18/06/2015 16:08,19/06/2015 03:43
+UNDERTOW-473,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,15/06/2015 15:17,19/06/2015 05:35
+UNDERTOW-472,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/06/2015 18:51,13/12/2015 22:42
+UNDERTOW-471,Bug,Resolved,UNDERTOW,Undertow,software,Done,11/06/2015 09:10,11/06/2015 09:11
+UNDERTOW-470,Bug,Resolved,UNDERTOW,Undertow,software,Done,08/06/2015 09:26,08/06/2015 11:38
+UNDERTOW-469,Bug,Resolved,UNDERTOW,Undertow,software,Done,07/06/2015 11:27,12/06/2015 01:42
+UNDERTOW-468,Task,Resolved,UNDERTOW,Undertow,software,Obsolete,05/06/2015 08:55,13/05/2020 12:43
+UNDERTOW-467,Task,Resolved,UNDERTOW,Undertow,software,Obsolete,05/06/2015 08:53,15/05/2020 10:53
+UNDERTOW-466,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,04/06/2015 06:10,04/06/2015 10:14
+UNDERTOW-465,Feature Request,Open,UNDERTOW,Undertow,software,,03/06/2015 07:08,
+UNDERTOW-464,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/06/2015 05:05,03/06/2015 05:12
+UNDERTOW-463,Task,Resolved,UNDERTOW,Undertow,software,Done,02/06/2015 14:51,04/06/2015 06:00
+UNDERTOW-462,Task,Resolved,UNDERTOW,Undertow,software,Done,02/06/2015 14:42,04/06/2015 05:59
+UNDERTOW-461,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/06/2015 10:57,02/06/2015 11:09
+UNDERTOW-460,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,02/06/2015 05:32,15/06/2015 05:17
+UNDERTOW-459,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/06/2015 10:29,01/06/2015 10:56
+UNDERTOW-458,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/06/2015 09:10,01/06/2015 09:16
+UNDERTOW-457,Feature Request,Resolved,UNDERTOW,Undertow,software,Won't Do,01/06/2015 08:17,01/06/2015 11:15
+UNDERTOW-456,Bug,Resolved,UNDERTOW,Undertow,software,Done,01/06/2015 04:25,01/06/2015 04:30
+UNDERTOW-455,Bug,Closed,UNDERTOW,Undertow,software,Done,30/05/2015 12:59,21/07/2015 23:51
+UNDERTOW-454,Bug,Closed,UNDERTOW,Undertow,software,Done,30/05/2015 12:39,01/06/2015 07:20
+UNDERTOW-452,Bug,Closed,UNDERTOW,Undertow,software,Done,29/05/2015 12:08,19/06/2015 04:56
+UNDERTOW-451,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,29/05/2015 11:42,08/07/2015 09:56
+UNDERTOW-450,Bug,Closed,UNDERTOW,Undertow,software,Done,29/05/2015 11:26,01/06/2015 07:55
+UNDERTOW-449,Bug,Resolved,UNDERTOW,Undertow,software,Done,29/05/2015 10:19,01/06/2015 08:02
+UNDERTOW-448,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,29/05/2015 09:13,29/05/2015 10:27
+UNDERTOW-447,Enhancement,Closed,UNDERTOW,Undertow,software,Done,27/05/2015 06:03,17/09/2015 04:14
+UNDERTOW-446,Bug,Resolved,UNDERTOW,Undertow,software,Done,26/05/2015 09:13,01/06/2015 08:12
+UNDERTOW-445,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,24/05/2015 00:32,24/08/2015 21:03
+UNDERTOW-444,Bug,Resolved,UNDERTOW,Undertow,software,Done,22/05/2015 17:22,08/06/2015 10:09
+UNDERTOW-442,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/05/2015 22:07,19/05/2015 22:28
+UNDERTOW-441,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/05/2015 04:50,15/06/2015 08:26
+UNDERTOW-440,Bug,Resolved,UNDERTOW,Undertow,software,Done,18/05/2015 12:11,18/05/2015 20:28
+UNDERTOW-439,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/05/2015 04:51,10/06/2015 04:21
+UNDERTOW-437,Bug,Closed,UNDERTOW,Undertow,software,Won't Do,11/05/2015 15:33,11/05/2015 18:16
+UNDERTOW-436,Bug,Resolved,UNDERTOW,Undertow,software,Cannot Reproduce,11/05/2015 05:18,15/06/2015 08:26
+UNDERTOW-431,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/05/2015 04:42,06/05/2015 03:13
+UNDERTOW-430,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,05/05/2015 00:30,05/05/2015 00:34
+UNDERTOW-429,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/05/2015 04:31,04/05/2015 00:56
+UNDERTOW-428,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,30/04/2015 04:37,12/06/2015 03:48
+UNDERTOW-427,Bug,Resolved,UNDERTOW,Undertow,software,Done,28/04/2015 12:23,28/04/2015 20:23
+UNDERTOW-426,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,24/04/2015 13:18,10/05/2015 18:55
+UNDERTOW-425,Bug,Closed,UNDERTOW,Undertow,software,Duplicate,24/04/2015 10:38,24/04/2015 11:19
+UNDERTOW-424,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/04/2015 02:49,04/05/2015 01:06
+UNDERTOW-423,Feature Request,Open,UNDERTOW,Undertow,software,,17/04/2015 07:23,
+UNDERTOW-422,Bug,Closed,UNDERTOW,Undertow,software,Duplicate,16/04/2015 03:54,16/04/2015 04:59
+UNDERTOW-420,Enhancement,Closed,UNDERTOW,Undertow,software,Won't Do,14/04/2015 14:25,19/06/2015 08:52
+UNDERTOW-419,Bug,Resolved,UNDERTOW,Undertow,software,Done,13/04/2015 09:12,15/04/2015 23:33
+UNDERTOW-417,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,06/04/2015 17:56,07/04/2015 19:21
+UNDERTOW-416,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/04/2015 16:27,07/04/2015 19:21
+UNDERTOW-415,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/04/2015 09:50,27/07/2015 20:43
+UNDERTOW-414,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,02/04/2015 07:06,06/04/2015 20:49
+UNDERTOW-413,Bug,Resolved,UNDERTOW,Undertow,software,Done,31/03/2015 13:47,31/03/2015 16:58
+UNDERTOW-412,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/03/2015 07:06,30/03/2015 22:39
+UNDERTOW-411,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/03/2015 13:04,22/03/2015 18:25
+UNDERTOW-410,Bug,Resolved,UNDERTOW,Undertow,software,Done,17/03/2015 19:35,17/03/2015 20:11
+UNDERTOW-409,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,14/03/2015 17:59,15/03/2015 17:02
+UNDERTOW-408,Bug,Resolved,UNDERTOW,Undertow,software,Done,09/03/2015 07:35,12/03/2015 22:46
+UNDERTOW-407,Bug,Resolved,UNDERTOW,Undertow,software,Done,12/03/2015 20:58,12/03/2015 21:04
+UNDERTOW-406,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,09/03/2015 01:21,09/03/2015 20:04
+UNDERTOW-405,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/03/2015 18:55,08/03/2015 18:33
+UNDERTOW-404,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,04/03/2015 11:55,04/03/2015 23:09
+UNDERTOW-402,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,02/03/2015 13:14,02/03/2015 19:19
+UNDERTOW-401,Bug,Resolved,UNDERTOW,Undertow,software,Done,02/03/2015 12:56,02/03/2015 19:19
+UNDERTOW-400,Enhancement,Resolved,UNDERTOW,Undertow,software,Done,02/03/2015 06:58,02/03/2015 20:08
+UNDERTOW-399,Bug,Resolved,UNDERTOW,Undertow,software,Done,27/02/2015 15:02,02/03/2015 19:18
+UNDERTOW-398,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,26/02/2015 10:25,26/02/2015 20:06
+UNDERTOW-397,Feature Request,Resolved,UNDERTOW,Undertow,software,Won't Do,25/02/2015 23:45,06/05/2021 12:32
+UNDERTOW-396,Bug,Resolved,UNDERTOW,Undertow,software,Done,25/02/2015 05:11,08/03/2015 18:39
+UNDERTOW-395,Bug,Resolved,UNDERTOW,Undertow,software,Obsolete,24/02/2015 13:36,03/03/2015 18:21
+UNDERTOW-394,Bug,Resolved,UNDERTOW,Undertow,software,Done,24/02/2015 12:28,24/02/2015 20:26
+UNDERTOW-393,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,24/02/2015 09:32,25/02/2015 00:15
+UNDERTOW-392,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/02/2015 06:36,24/02/2015 01:29
+UNDERTOW-391,Bug,Resolved,UNDERTOW,Undertow,software,Done,23/02/2015 13:44,02/03/2015 19:25
+UNDERTOW-390,Bug,Resolved,UNDERTOW,Undertow,software,Duplicate,23/02/2015 10:33,23/02/2015 20:55
+UNDERTOW-389,Bug,Resolved,UNDERTOW,Undertow,software,Done,20/02/2015 00:08,23/02/2015 02:41
+UNDERTOW-388,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/02/2015 10:30,19/02/2015 23:58
+UNDERTOW-387,Bug,Resolved,UNDERTOW,Undertow,software,Done,19/02/2015 07:09,19/02/2015 23:59
+UNDERTOW-386,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,16/02/2015 19:35,17/02/2015 03:37
+UNDERTOW-385,Bug,Closed,UNDERTOW,Undertow,software,Done,15/02/2015 22:28,15/02/2015 22:36
+UNDERTOW-384,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,10/02/2015 18:22,17/02/2015 03:37
+UNDERTOW-383,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,09/02/2015 09:39,15/02/2015 22:59
+UNDERTOW-380,Bug,Resolved,UNDERTOW,Undertow,software,Done,03/02/2015 16:13,16/02/2015 22:10
+UNDERTOW-379,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,02/02/2015 10:43,19/02/2015 02:24
+UNDERTOW-377,Bug,Resolved,UNDERTOW,Undertow,software,Done,30/01/2015 08:34,16/02/2015 04:20
+UNDERTOW-376,Enhancement,Resolved,UNDERTOW,Undertow,software,Won't Do,28/01/2015 10:53,20/02/2015 00:21
+UNDERTOW-375,Bug,Resolved,UNDERTOW,Undertow,software,Done,25/01/2015 04:31,19/02/2015 23:59
+UNDERTOW-374,Bug,Resolved,UNDERTOW,Undertow,software,Won't Do,22/01/2015 03:59,22/01/2015 21:01
+UNDERTOW-373,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/01/2015 14:20,17/02/2015 03:58
+UNDERTOW-372,Bug,Resolved,UNDERTOW,Undertow,software,Done,21/01/2015 05:17,21/01/2015 14:51
+UNDERTOW-371,Bug,Resolved,UNDERTOW,Undertow,software,Done,16/01/2015 11:52,22/01/2015 22:26
+UNDERTOW-370,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,15/01/2015 17:08,17/02/2015 03:45
+UNDERTOW-369,Feature Request,Resolved,UNDERTOW,Undertow,software,Done,13/01/2015 16:04,23/01/2015 00:23
+UNDERTOW-368,Bug,Resolved,UNDERTOW,Undertow,software,Done,07/01/2015 09:59,07/01/2015 16:09
+UNDERTOW-367,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/01/2015 21:49,07/01/2015 00:28
+UNDERTOW-366,Bug,Resolved,UNDERTOW,Undertow,software,Done,06/01/2015 05:59,06/01/2015 20:58
+UNDERTOW-365,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/01/2015 16:30,07/01/2015 16:09
+UNDERTOW-364,Bug,Resolved,UNDERTOW,Undertow,software,Done,05/01/2015 12:20,05/01/2015 16:04

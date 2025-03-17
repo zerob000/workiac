@@ -1,5 +1,5 @@
 All PBIS - Unfiltered 
-Start date: 1901-01-01 12:01:00 End date: 2024-11-08 21:27:00
+Start date: 2021-12-23 05:53:00 End date: 2024-11-08 21:27:00
 System: {'AGENT': 756}
 Types: {'Task': 319, 'Bug': 26, 'Spike': 34, 'Story': 376, 'Ticket': 1}
 Resolutions: {'Obsolete': 80, 'Done': 373, '': 219, 'Duplicate': 49, "Won't Do": 31, 'Cannot Reproduce': 1, "Can't Do": 2, 'Not a Bug': 1}

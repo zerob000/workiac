@@ -1,5 +1,5 @@
 All PBIS - Unfiltered 
-Start date: 1901-01-01 12:01:00 End date: 2024-11-05 23:44:00
+Start date: 2012-02-29 14:31:00 End date: 2024-11-05 23:44:00
 System: {'UNDERTOW': 2093}
 Types: {'Enhancement': 236, 'Bug': 1421, 'Clarification': 16, 'Feature Request': 273, 'Task': 84, 'Documentation': 13, 'Component Upgrade': 25, 'Support Request': 8, 'Dev Task': 1, 'Question': 6, 'Story': 2, 'Issue': 2, 'Library Upgrade': 2, 'Request': 1, 'QE Task': 1, 'Epic': 1, 'Patch': 1}
 Resolutions: {'Done': 1533, 'Cannot Reproduce': 33, 'Obsolete': 52, '': 241, "Won't Do": 172, 'Duplicate': 46, 'Not a Bug': 10, "Can't Do": 6}

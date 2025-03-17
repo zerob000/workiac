@@ -1,5 +1,5 @@
 All PBIS - Unfiltered 
-Start date: 1901-01-01 12:01:00 End date: 2024-11-15 15:51:00
+Start date: 2016-11-07 17:29:00 End date: 2024-11-15 15:51:00
 System: {'OSPRH': 5335}
 Types: {'Task': 976, 'Feature Request': 30, 'Bug': 1136, 'Spike': 347, 'Feature': 138, 'Outcome': 30, 'Story': 1532, 'Epic': 1090, 'Enhancement': 6, 'Ticket': 20, 'Incident': 3, 'Change Request': 1, 'Requirement': 1, 'Release tracker': 25}
 Resolutions: {'': 1735, 'Done': 2666, 'Obsolete': 168, 'Duplicate': 206, 'Done-Errata': 262, "Won't Do": 196, 'Not a Bug': 62, "Can't Do": 19, 'Cannot Reproduce': 15, 'MirrorOrphan': 1, 'Test Pending': 2, 'Declined': 3}

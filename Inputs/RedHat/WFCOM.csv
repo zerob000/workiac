@@ -1,0 +1,70 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+WFCOM-72,Task,Resolved,WFCOM,WildFly Common,software,Won't Do,26/06/2023 13:13,28/06/2023 11:33
+WFCOM-71,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,24/04/2023 22:23,02/11/2023 12:58
+WFCOM-70,Enhancement,Pull Request Sent,WFCOM,WildFly Common,software,,30/03/2022 15:57,
+WFCOM-69,Component Upgrade,Resolved,WFCOM,WildFly Common,software,Done,09/03/2022 10:33,09/03/2022 22:05
+WFCOM-68,Task,Resolved,WFCOM,WildFly Common,software,Done,03/03/2022 17:33,02/11/2023 12:58
+WFCOM-67,Bug,Pull Request Sent,WFCOM,WildFly Common,software,,17/02/2022 19:25,
+WFCOM-66,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,16/02/2022 13:51,10/03/2022 09:57
+WFCOM-65,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,02/12/2021 15:46,23/02/2022 08:03
+WFCOM-64,Enhancement,Closed,WFCOM,WildFly Common,software,Won't Do,23/09/2021 08:43,23/09/2021 20:16
+WFCOM-63,Enhancement,Closed,WFCOM,WildFly Common,software,Won't Do,14/05/2021 20:03,15/05/2021 06:34
+WFCOM-60,Bug,Closed,WFCOM,WildFly Common,software,Won't Do,15/03/2020 14:25,03/04/2020 07:54
+WFCOM-59,Bug,Resolved,WFCOM,WildFly Common,software,Done,11/08/2019 21:52,02/11/2023 12:59
+WFCOM-58,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,30/04/2019 10:17,03/05/2019 09:49
+WFCOM-57,Component Upgrade,Resolved,WFCOM,WildFly Common,software,Done,15/04/2019 14:28,15/04/2019 16:03
+WFCOM-56,Component Upgrade,Resolved,WFCOM,WildFly Common,software,Done,15/04/2019 14:27,15/04/2019 14:41
+WFCOM-55,Component Upgrade,Resolved,WFCOM,WildFly Common,software,Done,15/04/2019 14:26,15/04/2019 14:34
+WFCOM-54,Task,Closed,WFCOM,WildFly Common,software,Won't Do,28/02/2019 10:29,04/03/2019 09:51
+WFCOM-53,Feature Request,Resolved,WFCOM,WildFly Common,software,Done,27/02/2019 15:20,27/02/2019 15:46
+WFCOM-52,Feature Request,Resolved,WFCOM,WildFly Common,software,Done,12/12/2018 14:35,12/12/2018 19:15
+WFCOM-51,Feature Request,Resolved,WFCOM,WildFly Common,software,Done,12/12/2018 12:51,12/12/2018 13:26
+WFCOM-50,Feature Request,Open,WFCOM,WildFly Common,software,,12/12/2018 12:49,
+WFCOM-49,Feature Request,Resolved,WFCOM,WildFly Common,software,Done,12/12/2018 12:47,12/12/2018 13:52
+WFCOM-48,Task,Resolved,WFCOM,WildFly Common,software,Done,07/12/2018 14:16,07/12/2018 17:34
+WFCOM-47,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,03/12/2018 16:06,07/12/2018 17:34
+WFCOM-46,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,20/11/2018 09:36,20/11/2018 09:47
+WFCOM-44,Feature Request,Resolved,WFCOM,WildFly Common,software,Done,29/10/2018 22:43,13/11/2018 23:58
+WFCOM-43,Feature Request,Resolved,WFCOM,WildFly Common,software,Won't Do,10/10/2018 10:46,12/12/2018 12:57
+WFCOM-42,Task,Resolved,WFCOM,WildFly Common,software,Done,24/09/2018 11:49,24/09/2018 11:50
+WFCOM-41,Task,Resolved,WFCOM,WildFly Common,software,Done,24/09/2018 11:45,24/09/2018 11:46
+WFCOM-40,Bug,Resolved,WFCOM,WildFly Common,software,Duplicate,25/04/2018 03:29,25/04/2018 08:00
+WFCOM-39,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,18/04/2018 17:57,24/04/2018 14:28
+WFCOM-38,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,26/03/2018 11:39,27/02/2019 15:48
+WFCOM-37,Bug,Resolved,WFCOM,WildFly Common,software,Done,07/03/2018 10:08,21/03/2018 09:48
+WFCOM-36,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,07/03/2018 10:06,21/03/2018 09:49
+WFCOM-35,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,01/03/2018 10:03,01/03/2018 10:21
+WFCOM-34,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,27/02/2018 09:10,21/03/2018 09:50
+WFCOM-33,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,27/02/2018 09:09,21/03/2018 09:50
+WFCOM-32,Bug,Resolved,WFCOM,WildFly Common,software,Done,22/02/2018 18:55,16/03/2018 10:42
+WFCOM-31,Bug,Resolved,WFCOM,WildFly Common,software,Done,24/01/2018 12:29,24/01/2018 12:58
+WFCOM-30,Enhancement,Open,WFCOM,WildFly Common,software,,24/01/2018 12:06,
+WFCOM-29,Task,Resolved,WFCOM,WildFly Common,software,Done,23/01/2018 14:11,08/02/2018 13:14
+WFCOM-28,Feature Request,Resolved,WFCOM,WildFly Common,software,Won't Do,23/01/2018 13:49,21/03/2018 09:51
+WFCOM-27,Bug,Resolved,WFCOM,WildFly Common,software,Done,17/01/2018 15:38,17/01/2018 17:30
+WFCOM-26,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,06/12/2017 10:24,06/12/2017 10:32
+WFCOM-25,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,06/12/2017 10:21,07/12/2017 19:01
+WFCOM-24,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,06/12/2017 10:19,06/12/2017 10:32
+WFCOM-23,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,01/11/2017 16:57,01/11/2017 17:03
+WFCOM-22,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,01/11/2017 16:56,01/11/2017 17:04
+WFCOM-21,Bug,Resolved,WFCOM,WildFly Common,software,Done,01/11/2017 16:38,01/11/2017 17:04
+WFCOM-20,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,12/10/2017 14:22,12/10/2017 14:27
+WFCOM-19,Component Upgrade,Resolved,WFCOM,WildFly Common,software,Done,09/08/2017 14:17,14/09/2017 11:17
+WFCOM-18,Bug,Resolved,WFCOM,WildFly Common,software,Won't Do,13/07/2017 09:33,07/03/2018 10:11
+WFCOM-17,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,19/06/2017 19:30,19/06/2017 19:33
+WFCOM-16,Bug,Resolved,WFCOM,WildFly Common,software,Done,02/06/2017 17:56,02/06/2017 18:02
+WFCOM-15,Enhancement,Resolved,WFCOM,WildFly Common,software,Won't Do,04/05/2017 11:35,01/11/2017 16:55
+WFCOM-14,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,19/04/2017 10:56,20/04/2017 11:56
+WFCOM-13,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,01/04/2017 12:55,29/11/2018 10:52
+WFCOM-12,Feature Request,Resolved,WFCOM,WildFly Common,software,Done,26/03/2017 12:09,27/02/2019 15:47
+WFCOM-11,Feature Request,Resolved,WFCOM,WildFly Common,software,Done,26/03/2017 12:01,26/03/2017 12:02
+WFCOM-10,Feature Request,Resolved,WFCOM,WildFly Common,software,Done,26/03/2017 12:00,26/03/2017 13:55
+WFCOM-9,Feature Request,Resolved,WFCOM,WildFly Common,software,Done,26/03/2017 11:59,26/03/2017 11:59
+WFCOM-8,Enhancement,Reopened,WFCOM,WildFly Common,software,,27/01/2017 09:57,
+WFCOM-7,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,27/01/2017 09:40,27/01/2017 10:35
+WFCOM-6,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,19/01/2017 18:09,25/01/2017 09:27
+WFCOM-5,Feature Request,Resolved,WFCOM,WildFly Common,software,Done,23/11/2016 08:18,01/11/2017 17:04
+WFCOM-4,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,16/11/2016 13:50,07/12/2016 14:08
+WFCOM-3,Enhancement,Open,WFCOM,WildFly Common,software,,27/06/2016 18:10,
+WFCOM-2,Feature Request,Open,WFCOM,WildFly Common,software,,16/06/2016 09:17,
+WFCOM-1,Enhancement,Resolved,WFCOM,WildFly Common,software,Done,24/03/2016 17:50,25/03/2016 09:07

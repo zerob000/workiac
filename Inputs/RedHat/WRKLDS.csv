@@ -1,0 +1,708 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+WRKLDS-1582,Story,To Do,WRKLDS,OpenShift Workloads,software,,12/11/2024 10:50,
+WRKLDS-1581,Story,To Do,WRKLDS,OpenShift Workloads,software,,12/11/2024 10:50,
+WRKLDS-1580,Story,To Do,WRKLDS,OpenShift Workloads,software,,12/11/2024 10:50,
+WRKLDS-1579,Epic,New,WRKLDS,OpenShift Workloads,software,,12/11/2024 10:49,
+WRKLDS-1578,Story,To Do,WRKLDS,OpenShift Workloads,software,,12/11/2024 10:47,
+WRKLDS-1577,Story,To Do,WRKLDS,OpenShift Workloads,software,,11/11/2024 23:12,
+WRKLDS-1576,Story,To Do,WRKLDS,OpenShift Workloads,software,,11/11/2024 23:12,
+WRKLDS-1575,Story,To Do,WRKLDS,OpenShift Workloads,software,,11/11/2024 23:12,
+WRKLDS-1574,Story,To Do,WRKLDS,OpenShift Workloads,software,,11/11/2024 23:12,
+WRKLDS-1573,Story,To Do,WRKLDS,OpenShift Workloads,software,,11/11/2024 23:12,
+WRKLDS-1572,Story,To Do,WRKLDS,OpenShift Workloads,software,,11/11/2024 23:12,
+WRKLDS-1571,Story,To Do,WRKLDS,OpenShift Workloads,software,,11/11/2024 23:12,
+WRKLDS-1570,Story,To Do,WRKLDS,OpenShift Workloads,software,,11/11/2024 23:11,
+WRKLDS-1569,Story,To Do,WRKLDS,OpenShift Workloads,software,,11/11/2024 23:11,
+WRKLDS-1568,Epic,New,WRKLDS,OpenShift Workloads,software,,11/11/2024 18:57,
+WRKLDS-1567,Epic,New,WRKLDS,OpenShift Workloads,software,,11/11/2024 18:28,
+WRKLDS-1566,Epic,New,WRKLDS,OpenShift Workloads,software,,11/11/2024 18:25,
+WRKLDS-1565,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,01/11/2024 13:14,04/11/2024 09:40
+WRKLDS-1556,Story,To Do,WRKLDS,OpenShift Workloads,software,,24/10/2024 16:53,
+WRKLDS-1555,Story,In Progress,WRKLDS,OpenShift Workloads,software,,24/10/2024 10:30,
+WRKLDS-1554,Bug,Closed,WRKLDS,OpenShift Workloads,software,Done,21/10/2024 12:20,13/11/2024 17:37
+WRKLDS-1553,Story,To Do,WRKLDS,OpenShift Workloads,software,,15/10/2024 01:29,
+WRKLDS-1552,Story,To Do,WRKLDS,OpenShift Workloads,software,,15/10/2024 01:29,
+WRKLDS-1551,Story,To Do,WRKLDS,OpenShift Workloads,software,,15/10/2024 01:28,
+WRKLDS-1550,Story,To Do,WRKLDS,OpenShift Workloads,software,,10/10/2024 14:57,
+WRKLDS-1549,Spike,In Progress,WRKLDS,OpenShift Workloads,software,,10/10/2024 14:54,
+WRKLDS-1548,Epic,New,WRKLDS,OpenShift Workloads,software,,10/10/2024 14:52,
+WRKLDS-1547,Story,In Progress,WRKLDS,OpenShift Workloads,software,,10/10/2024 09:51,
+WRKLDS-1546,Story,To Do,WRKLDS,OpenShift Workloads,software,,08/10/2024 10:18,
+WRKLDS-1545,Story,To Do,WRKLDS,OpenShift Workloads,software,,08/10/2024 10:17,
+WRKLDS-1544,Story,To Do,WRKLDS,OpenShift Workloads,software,,08/10/2024 10:16,
+WRKLDS-1543,Story,In Progress,WRKLDS,OpenShift Workloads,software,,08/10/2024 10:14,
+WRKLDS-1542,Task,To Do,WRKLDS,OpenShift Workloads,software,,04/10/2024 14:21,
+WRKLDS-1541,Task,To Do,WRKLDS,OpenShift Workloads,software,,04/10/2024 14:18,
+WRKLDS-1502,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,02/10/2024 14:25,03/10/2024 12:49
+WRKLDS-1501,Spike,Closed,WRKLDS,OpenShift Workloads,software,Done,30/09/2024 06:31,14/10/2024 13:14
+WRKLDS-1500,Epic,In Progress,WRKLDS,OpenShift Workloads,software,,27/09/2024 07:59,
+WRKLDS-1499,Bug,To Do,WRKLDS,OpenShift Workloads,software,,24/09/2024 09:13,
+WRKLDS-1498,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,24/09/2024 06:43,24/09/2024 11:22
+WRKLDS-1497,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,19/09/2024 11:39,19/09/2024 11:41
+WRKLDS-1495,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,16/09/2024 15:22,22/10/2024 13:05
+WRKLDS-1492,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,03/09/2024 12:19,05/11/2024 14:08
+WRKLDS-1491,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,02/09/2024 14:02,23/09/2024 04:45
+WRKLDS-1490,Epic,New,WRKLDS,OpenShift Workloads,software,,26/08/2024 18:26,
+WRKLDS-1470,Story,In Progress,WRKLDS,OpenShift Workloads,software,,20/08/2024 20:04,
+WRKLDS-1469,Epic,In Progress,WRKLDS,OpenShift Workloads,software,,19/08/2024 14:52,
+WRKLDS-1468,Epic,New,WRKLDS,OpenShift Workloads,software,,19/08/2024 14:50,
+WRKLDS-1467,Epic,New,WRKLDS,OpenShift Workloads,software,,19/08/2024 14:48,
+WRKLDS-1466,Task,To Do,WRKLDS,OpenShift Workloads,software,,09/08/2023 18:00,
+WRKLDS-1463,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,12/08/2024 15:14,02/09/2024 14:35
+WRKLDS-1460,Story,To Do,WRKLDS,OpenShift Workloads,software,,09/08/2024 13:10,
+WRKLDS-1458,Spike,To Do,WRKLDS,OpenShift Workloads,software,,08/08/2024 13:10,
+WRKLDS-1457,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,07/08/2024 12:54,04/09/2024 18:21
+WRKLDS-1456,Epic,New,WRKLDS,OpenShift Workloads,software,,07/08/2024 12:25,
+WRKLDS-1455,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,06/08/2024 13:25,02/09/2024 11:25
+WRKLDS-1454,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,06/08/2024 11:01,25/09/2024 07:12
+WRKLDS-1453,Spike,Closed,WRKLDS,OpenShift Workloads,software,Done,05/08/2024 07:56,05/08/2024 14:19
+WRKLDS-1452,Task,In Progress,WRKLDS,OpenShift Workloads,software,,01/08/2024 18:22,
+WRKLDS-1451,Task,To Do,WRKLDS,OpenShift Workloads,software,,01/08/2024 18:22,
+WRKLDS-1450,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,01/08/2024 18:18,09/10/2024 11:56
+WRKLDS-1449,Epic,Dev Complete,WRKLDS,OpenShift Workloads,software,,01/08/2024 15:01,
+WRKLDS-1448,Epic,New,WRKLDS,OpenShift Workloads,software,,01/08/2024 07:46,
+WRKLDS-1447,Epic,New,WRKLDS,OpenShift Workloads,software,,01/08/2024 07:44,
+WRKLDS-1446,Epic,New,WRKLDS,OpenShift Workloads,software,,01/08/2024 07:44,
+WRKLDS-1445,Epic,New,WRKLDS,OpenShift Workloads,software,,01/08/2024 07:43,
+WRKLDS-1444,Epic,New,WRKLDS,OpenShift Workloads,software,,01/08/2024 07:42,
+WRKLDS-1435,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,31/07/2024 14:07,16/10/2024 03:40
+WRKLDS-1434,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,31/07/2024 14:07,16/10/2024 03:39
+WRKLDS-1433,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,31/07/2024 14:07,07/11/2024 07:04
+WRKLDS-1431,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,29/07/2024 11:35,14/10/2024 12:09
+WRKLDS-1430,Story,To Do,WRKLDS,OpenShift Workloads,software,,26/07/2024 23:13,
+WRKLDS-1429,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,26/07/2024 16:43,06/08/2024 20:02
+WRKLDS-1428,Story,Review,WRKLDS,OpenShift Workloads,software,,26/07/2024 10:27,
+WRKLDS-1427,Spike,To Do,WRKLDS,OpenShift Workloads,software,,23/07/2024 13:16,
+WRKLDS-1426,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,23/07/2024 11:16,25/07/2024 12:24
+WRKLDS-1425,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,23/07/2024 10:09,23/07/2024 10:10
+WRKLDS-1424,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,23/07/2024 08:45,23/07/2024 08:46
+WRKLDS-1423,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,23/07/2024 08:28,23/07/2024 08:29
+WRKLDS-1422,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,23/07/2024 08:10,23/07/2024 08:18
+WRKLDS-1421,Spike,Closed,WRKLDS,OpenShift Workloads,software,Done,23/07/2024 06:59,02/09/2024 13:57
+WRKLDS-1420,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,22/07/2024 15:00,08/08/2024 14:04
+WRKLDS-1419,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,22/07/2024 06:15,12/08/2024 01:52
+WRKLDS-1386,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,10/07/2024 23:13,24/09/2024 11:48
+WRKLDS-1385,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,10/07/2024 23:13,24/09/2024 11:48
+WRKLDS-1384,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,10/07/2024 23:13,24/09/2024 11:48
+WRKLDS-1383,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,10/07/2024 23:13,24/09/2024 11:48
+WRKLDS-1382,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,10/07/2024 23:13,24/09/2024 11:48
+WRKLDS-1381,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,10/07/2024 23:13,24/09/2024 11:48
+WRKLDS-1380,Story,In Progress,WRKLDS,OpenShift Workloads,software,,10/07/2024 09:44,
+WRKLDS-1378,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,10/07/2024 03:28,11/09/2024 14:04
+WRKLDS-1376,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,09/07/2024 20:20,11/09/2024 14:03
+WRKLDS-1375,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,08/07/2024 01:27,22/07/2024 06:14
+WRKLDS-1374,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,06/07/2024 23:11,08/07/2024 07:30
+WRKLDS-1373,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,05/07/2024 20:08,22/07/2024 06:15
+WRKLDS-1372,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,04/07/2024 08:07,23/07/2024 06:54
+WRKLDS-1371,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,02/07/2024 11:03,23/07/2024 08:30
+WRKLDS-1370,Spike,Closed,WRKLDS,OpenShift Workloads,software,Done,02/07/2024 04:45,23/07/2024 06:54
+WRKLDS-1368,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,24/06/2024 15:29,16/07/2024 07:34
+WRKLDS-1367,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,23/06/2024 19:01,02/10/2024 07:39
+WRKLDS-1366,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,22/06/2024 09:38,22/07/2024 15:01
+WRKLDS-1330,Story,To Do,WRKLDS,OpenShift Workloads,software,,18/06/2024 23:17,
+WRKLDS-1329,Story,To Do,WRKLDS,OpenShift Workloads,software,,18/06/2024 23:17,
+WRKLDS-1328,Story,To Do,WRKLDS,OpenShift Workloads,software,,18/06/2024 23:17,
+WRKLDS-1326,Epic,In Progress,WRKLDS,OpenShift Workloads,software,,17/06/2024 07:54,
+WRKLDS-1325,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,17/06/2024 07:39,13/08/2024 07:24
+WRKLDS-1324,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,12/06/2024 23:12,24/09/2024 11:58
+WRKLDS-1323,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,12/06/2024 23:12,24/09/2024 11:58
+WRKLDS-1322,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,12/06/2024 23:12,24/09/2024 11:58
+WRKLDS-1321,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,12/06/2024 14:50,05/11/2024 14:59
+WRKLDS-1320,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,12/06/2024 08:58,01/11/2024 14:42
+WRKLDS-1319,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,12/06/2024 08:57,05/08/2024 19:53
+WRKLDS-1318,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,12/06/2024 08:56,05/09/2024 14:12
+WRKLDS-1317,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,12/06/2024 08:53,19/09/2024 15:34
+WRKLDS-1316,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,12/06/2024 08:50,29/07/2024 15:56
+WRKLDS-1315,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,12/06/2024 08:47,03/07/2024 08:46
+WRKLDS-1314,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,12/06/2024 08:45,16/07/2024 13:35
+WRKLDS-1313,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,11/06/2024 13:13,23/07/2024 13:34
+WRKLDS-1311,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,11/06/2024 12:51,02/07/2024 10:43
+WRKLDS-1310,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,11/06/2024 08:52,03/07/2024 12:21
+WRKLDS-1309,Spike,Closed,WRKLDS,OpenShift Workloads,software,Done,11/06/2024 03:23,02/07/2024 04:44
+WRKLDS-1308,Story,To Do,WRKLDS,OpenShift Workloads,software,,10/06/2024 23:14,
+WRKLDS-1307,Story,To Do,WRKLDS,OpenShift Workloads,software,,10/06/2024 23:14,
+WRKLDS-1306,Story,To Do,WRKLDS,OpenShift Workloads,software,,10/06/2024 23:14,
+WRKLDS-1305,Epic,In Progress,WRKLDS,OpenShift Workloads,software,,10/06/2024 15:53,
+WRKLDS-1304,Story,In Progress,WRKLDS,OpenShift Workloads,software,,04/06/2024 21:36,
+WRKLDS-1303,Story,To Do,WRKLDS,OpenShift Workloads,software,,04/06/2024 21:35,
+WRKLDS-1302,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,04/06/2024 15:12,02/10/2024 07:38
+WRKLDS-1301,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,04/06/2024 13:25,02/10/2024 07:38
+WRKLDS-1300,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,04/06/2024 12:22,11/06/2024 13:14
+WRKLDS-1299,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,04/06/2024 08:03,13/08/2024 07:01
+WRKLDS-1298,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,04/06/2024 06:57,11/06/2024 03:18
+WRKLDS-1297,Spike,Closed,WRKLDS,OpenShift Workloads,software,Done,30/05/2024 10:29,04/06/2024 06:55
+WRKLDS-1296,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,29/05/2024 06:19,30/05/2024 10:27
+WRKLDS-1295,Spike,Closed,WRKLDS,OpenShift Workloads,software,Done,27/05/2024 06:18,29/05/2024 06:16
+WRKLDS-1294,Story,To Do,WRKLDS,OpenShift Workloads,software,,23/05/2024 13:20,
+WRKLDS-1293,Spike,Closed,WRKLDS,OpenShift Workloads,software,Done,22/05/2024 10:23,11/06/2024 03:19
+WRKLDS-1292,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,21/05/2024 13:00,13/08/2024 07:22
+WRKLDS-1291,Story,To Do,WRKLDS,OpenShift Workloads,software,,21/05/2024 08:02,
+WRKLDS-1284,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,20/05/2024 12:40,20/05/2024 12:43
+WRKLDS-1283,Spike,To Do,WRKLDS,OpenShift Workloads,software,,20/05/2024 09:04,
+WRKLDS-1282,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,16/05/2024 11:18,23/07/2024 13:17
+WRKLDS-1281,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,16/05/2024 11:12,12/07/2024 09:20
+WRKLDS-1280,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,16/05/2024 08:48,06/06/2024 06:40
+WRKLDS-1279,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,16/05/2024 08:48,06/06/2024 06:39
+WRKLDS-1278,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,16/05/2024 08:48,06/06/2024 06:39
+WRKLDS-1277,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,16/05/2024 08:48,06/06/2024 06:40
+WRKLDS-1276,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,15/05/2024 16:31,26/06/2024 09:22
+WRKLDS-1273,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,10/05/2024 12:05,23/07/2024 12:33
+WRKLDS-1272,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,10/05/2024 12:04,26/06/2024 08:06
+WRKLDS-1271,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,10/05/2024 12:01,26/06/2024 08:06
+WRKLDS-1270,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,10/05/2024 11:57,26/06/2024 08:06
+WRKLDS-1268,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,09/05/2024 11:52,17/05/2024 14:44
+WRKLDS-1267,Epic,In Progress,WRKLDS,OpenShift Workloads,software,,08/05/2024 14:35,
+WRKLDS-1266,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,07/05/2024 08:52,26/06/2024 08:05
+WRKLDS-1265,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,07/05/2024 08:05,26/06/2024 08:05
+WRKLDS-1264,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,06/05/2024 10:05,02/07/2024 10:45
+WRKLDS-1263,Epic,New,WRKLDS,OpenShift Workloads,software,,06/05/2024 08:35,
+WRKLDS-1261,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,06/05/2024 08:19,02/07/2024 08:05
+WRKLDS-1260,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,06/05/2024 08:19,02/07/2024 08:06
+WRKLDS-1259,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,06/05/2024 08:19,24/07/2024 08:33
+WRKLDS-1257,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,02/05/2024 09:34,06/05/2024 14:52
+WRKLDS-1256,Story,To Do,WRKLDS,OpenShift Workloads,software,,30/04/2024 23:13,
+WRKLDS-1255,Story,To Do,WRKLDS,OpenShift Workloads,software,,30/04/2024 23:13,
+WRKLDS-1254,Story,To Do,WRKLDS,OpenShift Workloads,software,,30/04/2024 23:13,
+WRKLDS-1253,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,30/04/2024 11:58,30/04/2024 11:59
+WRKLDS-1252,Story,To Do,WRKLDS,OpenShift Workloads,software,,30/04/2024 11:47,
+WRKLDS-1251,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,30/04/2024 11:46,05/05/2024 14:35
+WRKLDS-1250,Epic,Release Pending,WRKLDS,OpenShift Workloads,software,Done,30/04/2024 11:44,05/08/2024 05:11
+WRKLDS-1214,Story,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,26/04/2024 23:11,30/04/2024 12:39
+WRKLDS-1213,Story,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,26/04/2024 23:11,30/04/2024 12:39
+WRKLDS-1212,Story,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,26/04/2024 23:11,30/04/2024 12:39
+WRKLDS-1211,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,26/04/2024 23:11,23/09/2024 11:45
+WRKLDS-1210,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,26/04/2024 23:11,23/09/2024 11:44
+WRKLDS-1209,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,26/04/2024 23:11,18/09/2024 12:08
+WRKLDS-1208,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,26/04/2024 23:11,08/07/2024 07:14
+WRKLDS-1207,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,26/04/2024 23:11,08/07/2024 07:15
+WRKLDS-1206,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,26/04/2024 23:11,05/07/2024 17:58
+WRKLDS-1205,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,26/04/2024 23:11,30/04/2024 11:21
+WRKLDS-1204,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,26/04/2024 23:11,30/04/2024 11:21
+WRKLDS-1203,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,26/04/2024 23:11,30/04/2024 11:21
+WRKLDS-1202,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,26/04/2024 23:11,30/04/2024 11:17
+WRKLDS-1201,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,26/04/2024 23:11,30/04/2024 11:17
+WRKLDS-1200,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,26/04/2024 23:11,30/04/2024 11:17
+WRKLDS-1199,Epic,New,WRKLDS,OpenShift Workloads,software,,26/04/2024 14:50,
+WRKLDS-1198,Epic,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,26/04/2024 14:49,30/04/2024 12:39
+WRKLDS-1197,Epic,In Progress,WRKLDS,OpenShift Workloads,software,,26/04/2024 14:49,
+WRKLDS-1196,Epic,Release Pending,WRKLDS,OpenShift Workloads,software,Done,26/04/2024 14:48,08/07/2024 07:33
+WRKLDS-1195,Epic,New,WRKLDS,OpenShift Workloads,software,,26/04/2024 14:27,
+WRKLDS-1194,Bug,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,25/04/2024 10:24,25/04/2024 14:24
+WRKLDS-1193,Epic,New,WRKLDS,OpenShift Workloads,software,,23/04/2024 08:33,
+WRKLDS-1192,Epic,New,WRKLDS,OpenShift Workloads,software,,22/04/2024 09:35,
+WRKLDS-1191,Story,To Do,WRKLDS,OpenShift Workloads,software,,22/04/2024 07:22,
+WRKLDS-1190,Story,Review,WRKLDS,OpenShift Workloads,software,,19/04/2024 16:27,
+WRKLDS-1189,Epic,New,WRKLDS,OpenShift Workloads,software,,17/04/2024 20:44,
+WRKLDS-1178,Story,In Progress,WRKLDS,OpenShift Workloads,software,,10/04/2024 12:10,
+WRKLDS-1171,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,04/04/2024 04:02,16/04/2024 09:36
+WRKLDS-1170,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,03/04/2024 12:12,11/04/2024 12:34
+WRKLDS-1169,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,03/04/2024 12:10,11/04/2024 12:35
+WRKLDS-1168,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,03/04/2024 11:57,03/04/2024 19:50
+WRKLDS-1167,Story,Review,WRKLDS,OpenShift Workloads,software,,03/04/2024 11:50,
+WRKLDS-1166,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,02/04/2024 13:29,13/05/2024 13:20
+WRKLDS-1151,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,27/03/2024 23:15,11/04/2024 17:34
+WRKLDS-1150,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,27/03/2024 23:15,29/04/2024 17:47
+WRKLDS-1149,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,27/03/2024 23:15,11/04/2024 17:33
+WRKLDS-1148,Story,To Do,WRKLDS,OpenShift Workloads,software,,27/03/2024 12:09,
+WRKLDS-1145,Epic,Release Pending,WRKLDS,OpenShift Workloads,software,Done,26/03/2024 16:06,18/06/2024 11:33
+WRKLDS-1142,Epic,Release Pending,WRKLDS,OpenShift Workloads,software,Done,26/03/2024 15:57,18/06/2024 11:27
+WRKLDS-1131,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,26/03/2024 15:45,13/09/2024 12:56
+WRKLDS-1127,Story,To Do,WRKLDS,OpenShift Workloads,software,,13/03/2024 00:22,
+WRKLDS-1126,Story,To Do,WRKLDS,OpenShift Workloads,software,,13/03/2024 00:22,
+WRKLDS-1125,Story,To Do,WRKLDS,OpenShift Workloads,software,,13/03/2024 00:22,
+WRKLDS-1124,Story,To Do,WRKLDS,OpenShift Workloads,software,,13/03/2024 00:20,
+WRKLDS-1123,Story,To Do,WRKLDS,OpenShift Workloads,software,,13/03/2024 00:20,
+WRKLDS-1122,Story,To Do,WRKLDS,OpenShift Workloads,software,,13/03/2024 00:20,
+WRKLDS-1121,Story,To Do,WRKLDS,OpenShift Workloads,software,,13/03/2024 00:20,
+WRKLDS-1120,Story,To Do,WRKLDS,OpenShift Workloads,software,,13/03/2024 00:20,
+WRKLDS-1119,Story,To Do,WRKLDS,OpenShift Workloads,software,,13/03/2024 00:20,
+WRKLDS-1118,Story,To Do,WRKLDS,OpenShift Workloads,software,,13/03/2024 00:12,
+WRKLDS-1117,Story,To Do,WRKLDS,OpenShift Workloads,software,,13/03/2024 00:12,
+WRKLDS-1116,Story,To Do,WRKLDS,OpenShift Workloads,software,,13/03/2024 00:12,
+WRKLDS-1115,Story,To Do,WRKLDS,OpenShift Workloads,software,,12/03/2024 23:44,
+WRKLDS-1114,Story,To Do,WRKLDS,OpenShift Workloads,software,,12/03/2024 23:44,
+WRKLDS-1113,Story,To Do,WRKLDS,OpenShift Workloads,software,,12/03/2024 23:44,
+WRKLDS-1112,Story,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,12/03/2024 23:27,05/08/2024 07:26
+WRKLDS-1111,Story,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,12/03/2024 23:27,05/08/2024 07:26
+WRKLDS-1110,Story,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,12/03/2024 23:27,05/08/2024 07:25
+WRKLDS-1109,Story,To Do,WRKLDS,OpenShift Workloads,software,,12/03/2024 13:06,
+WRKLDS-1108,Story,Closed,WRKLDS,OpenShift Workloads,software,Can't Do,12/03/2024 13:01,27/03/2024 12:18
+WRKLDS-1107,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,12/03/2024 12:43,21/05/2024 13:14
+WRKLDS-1106,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,11/03/2024 23:09,20/03/2024 09:43
+WRKLDS-1105,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,11/03/2024 23:09,18/03/2024 05:26
+WRKLDS-1104,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,11/03/2024 23:09,20/03/2024 09:45
+WRKLDS-1103,Story,Review,WRKLDS,OpenShift Workloads,software,,11/03/2024 15:21,
+WRKLDS-1102,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,11/03/2024 15:19,11/07/2024 13:55
+WRKLDS-1083,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,11/03/2024 07:32,02/04/2024 10:14
+WRKLDS-1082,Epic,In Progress,WRKLDS,OpenShift Workloads,software,,06/03/2024 15:25,
+WRKLDS-1081,Epic,In Progress,WRKLDS,OpenShift Workloads,software,,06/03/2024 15:24,
+WRKLDS-1080,Epic,In Progress,WRKLDS,OpenShift Workloads,software,,06/03/2024 15:22,
+WRKLDS-1079,Story,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,05/03/2024 20:53,06/03/2024 14:51
+WRKLDS-1077,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,26/02/2024 09:42,23/07/2024 11:18
+WRKLDS-1076,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,15/02/2024 15:08,25/03/2024 10:38
+WRKLDS-1075,Story,In Progress,WRKLDS,OpenShift Workloads,software,,12/02/2024 23:09,
+WRKLDS-1074,Story,To Do,WRKLDS,OpenShift Workloads,software,,12/02/2024 23:09,
+WRKLDS-1073,Story,To Do,WRKLDS,OpenShift Workloads,software,,12/02/2024 23:09,
+WRKLDS-1072,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,12/02/2024 12:28,26/06/2024 08:06
+WRKLDS-1071,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,07/02/2024 09:24,26/06/2024 06:14
+WRKLDS-1070,Story,To Do,WRKLDS,OpenShift Workloads,software,,06/02/2024 11:11,
+WRKLDS-1069,Task,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,31/01/2024 10:56,22/04/2024 08:37
+WRKLDS-1068,Task,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,31/01/2024 10:55,22/04/2024 08:36
+WRKLDS-1067,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,31/01/2024 10:54,30/04/2024 06:50
+WRKLDS-1066,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,31/01/2024 10:48,27/03/2024 13:19
+WRKLDS-1065,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,31/01/2024 10:47,21/02/2024 10:13
+WRKLDS-1064,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,31/01/2024 10:46,20/02/2024 13:50
+WRKLDS-1063,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,31/01/2024 10:41,20/02/2024 13:49
+WRKLDS-1062,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,31/01/2024 08:18,04/04/2024 18:42
+WRKLDS-1061,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,31/01/2024 08:16,04/04/2024 18:43
+WRKLDS-1060,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,29/01/2024 12:30,27/03/2024 09:47
+WRKLDS-1059,Task,Closed,WRKLDS,OpenShift Workloads,software,Done-Errata,25/01/2024 16:09,01/07/2024 00:52
+WRKLDS-1058,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,25/01/2024 16:09,21/06/2024 17:07
+WRKLDS-1057,Task,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,25/01/2024 16:09,26/06/2024 13:42
+WRKLDS-1056,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,25/01/2024 16:09,05/07/2024 12:24
+WRKLDS-1055,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,25/01/2024 16:09,25/04/2024 20:20
+WRKLDS-1054,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,25/01/2024 16:09,25/04/2024 20:20
+WRKLDS-1053,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,25/01/2024 16:09,25/04/2024 20:20
+WRKLDS-1051,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,25/01/2024 14:51,05/07/2024 15:24
+WRKLDS-1050,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,25/01/2024 14:51,24/06/2024 16:29
+WRKLDS-1049,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,25/01/2024 14:51,25/04/2024 20:19
+WRKLDS-1048,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,25/01/2024 14:51,25/04/2024 20:19
+WRKLDS-1047,Task,Closed,WRKLDS,OpenShift Workloads,software,Done-Errata,25/01/2024 14:51,01/07/2024 00:29
+WRKLDS-1046,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,25/01/2024 14:51,26/06/2024 13:42
+WRKLDS-1045,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,25/01/2024 14:51,25/04/2024 20:19
+WRKLDS-1044,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,25/01/2024 14:51,26/06/2024 12:57
+WRKLDS-1043,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,23/01/2024 23:16,13/03/2024 09:07
+WRKLDS-1042,Epic,To Do,WRKLDS,OpenShift Workloads,software,,23/01/2024 08:19,
+WRKLDS-1041,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,22/01/2024 09:52,22/01/2024 14:38
+WRKLDS-1040,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,19/01/2024 15:15,12/06/2024 12:58
+WRKLDS-1039,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,19/01/2024 15:15,25/04/2024 20:21
+WRKLDS-1038,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,19/01/2024 15:15,30/04/2024 13:43
+WRKLDS-1037,Task,Closed,WRKLDS,OpenShift Workloads,software,Done-Errata,19/01/2024 15:15,01/07/2024 00:39
+WRKLDS-1036,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,19/01/2024 15:15,05/07/2024 12:27
+WRKLDS-1035,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,19/01/2024 15:15,26/04/2024 07:30
+WRKLDS-1034,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,19/01/2024 15:15,01/05/2024 13:43
+WRKLDS-1033,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,19/01/2024 15:15,25/04/2024 20:21
+WRKLDS-1032,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,19/01/2024 15:15,21/06/2024 17:06
+WRKLDS-1031,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,19/01/2024 15:15,25/04/2024 20:21
+WRKLDS-1030,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,19/01/2024 15:15,02/07/2024 13:59
+WRKLDS-1029,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,19/01/2024 15:14,26/06/2024 12:57
+WRKLDS-1028,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,16/01/2024 23:10,06/03/2024 20:15
+WRKLDS-1027,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,16/01/2024 23:10,27/03/2024 19:03
+WRKLDS-1026,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,16/01/2024 23:10,06/03/2024 20:14
+WRKLDS-1025,Story,To Do,WRKLDS,OpenShift Workloads,software,,16/01/2024 23:10,
+WRKLDS-1024,Story,To Do,WRKLDS,OpenShift Workloads,software,,16/01/2024 23:10,
+WRKLDS-1023,Story,To Do,WRKLDS,OpenShift Workloads,software,,16/01/2024 23:10,
+WRKLDS-1022,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,16/01/2024 23:10,18/03/2024 05:21
+WRKLDS-1021,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,16/01/2024 23:10,18/03/2024 05:28
+WRKLDS-1020,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,16/01/2024 23:10,14/03/2024 06:55
+WRKLDS-1019,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,16/01/2024 16:27,07/03/2024 02:59
+WRKLDS-1018,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,16/01/2024 16:27,07/03/2024 03:00
+WRKLDS-1017,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,16/01/2024 16:27,02/04/2024 07:55
+WRKLDS-1015,Epic,In Progress,WRKLDS,OpenShift Workloads,software,,16/01/2024 13:25,
+WRKLDS-1014,Epic,To Do,WRKLDS,OpenShift Workloads,software,,16/01/2024 12:18,
+WRKLDS-1013,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,16/01/2024 12:00,27/03/2024 19:03
+WRKLDS-1011,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,16/01/2024 10:23,29/04/2024 17:47
+WRKLDS-1010,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,16/01/2024 09:58,27/03/2024 09:09
+WRKLDS-1004,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,11/01/2024 18:10,16/01/2024 13:33
+WRKLDS-1003,Epic,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,10/01/2024 09:58,12/02/2024 13:10
+WRKLDS-1002,Epic,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,10/01/2024 09:55,25/01/2024 15:28
+WRKLDS-1001,Epic,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,10/01/2024 09:54,23/01/2024 14:55
+WRKLDS-1000,Task,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,10/01/2024 06:06,25/01/2024 14:58
+WRKLDS-999,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,10/01/2024 06:04,07/02/2024 05:52
+WRKLDS-998,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,10/01/2024 06:03,22/01/2024 09:51
+WRKLDS-997,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,09/01/2024 23:10,20/03/2024 09:39
+WRKLDS-996,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,09/01/2024 23:10,18/03/2024 08:11
+WRKLDS-995,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,09/01/2024 23:10,06/03/2024 09:01
+WRKLDS-994,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,09/01/2024 09:04,20/03/2024 09:40
+WRKLDS-993,Story,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,27/12/2023 23:09,02/01/2024 02:27
+WRKLDS-992,Story,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,27/12/2023 23:09,02/01/2024 02:27
+WRKLDS-991,Story,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,27/12/2023 23:09,02/01/2024 02:26
+WRKLDS-990,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,23/12/2023 23:15,27/02/2024 09:56
+WRKLDS-989,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,23/12/2023 23:15,27/02/2024 09:55
+WRKLDS-988,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,23/12/2023 23:15,27/02/2024 09:55
+WRKLDS-987,Epic,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,20/12/2023 06:31,20/12/2023 06:46
+WRKLDS-985,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/12/2023 11:28,18/01/2024 13:50
+WRKLDS-984,Task,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,15/12/2023 11:28,27/02/2024 09:59
+WRKLDS-983,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/12/2023 11:28,23/01/2024 14:35
+WRKLDS-982,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/12/2023 11:28,19/12/2023 12:48
+WRKLDS-981,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/12/2023 11:28,15/12/2023 13:36
+WRKLDS-980,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/12/2023 11:28,06/03/2024 14:11
+WRKLDS-978,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/12/2023 11:28,27/02/2024 09:54
+WRKLDS-977,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/12/2023 11:28,07/03/2024 14:21
+WRKLDS-976,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/12/2023 11:28,27/02/2024 09:53
+WRKLDS-975,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/12/2023 11:28,15/12/2023 13:45
+WRKLDS-974,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/12/2023 11:28,07/03/2024 15:01
+WRKLDS-973,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/12/2023 11:28,15/12/2023 14:00
+WRKLDS-972,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/12/2023 11:28,27/02/2024 09:55
+WRKLDS-970,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/12/2023 11:28,27/02/2024 09:53
+WRKLDS-969,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/12/2023 11:28,05/03/2024 16:43
+WRKLDS-968,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,14/12/2023 23:15,21/12/2023 16:50
+WRKLDS-967,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,14/12/2023 23:15,21/12/2023 16:50
+WRKLDS-966,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,14/12/2023 23:15,21/12/2023 16:50
+WRKLDS-965,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,14/12/2023 23:15,21/12/2023 16:49
+WRKLDS-964,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,14/12/2023 23:15,21/12/2023 16:49
+WRKLDS-963,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,14/12/2023 23:12,23/04/2024 09:32
+WRKLDS-962,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,14/12/2023 23:12,23/04/2024 09:32
+WRKLDS-961,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,14/12/2023 23:12,23/04/2024 09:32
+WRKLDS-960,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,14/12/2023 23:12,23/04/2024 09:32
+WRKLDS-959,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,14/12/2023 23:12,23/04/2024 09:32
+WRKLDS-958,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,14/12/2023 23:12,23/04/2024 09:32
+WRKLDS-957,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,14/12/2023 23:12,23/04/2024 09:32
+WRKLDS-956,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,14/12/2023 23:12,23/04/2024 09:31
+WRKLDS-955,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,14/12/2023 23:12,23/04/2024 09:30
+WRKLDS-954,Story,To Do,WRKLDS,OpenShift Workloads,software,,14/12/2023 22:02,
+WRKLDS-950,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,14/12/2023 11:22,22/01/2024 15:25
+WRKLDS-949,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,13/12/2023 20:50,23/07/2024 12:02
+WRKLDS-937,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,13/12/2023 02:50,02/10/2024 07:40
+WRKLDS-936,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,07/12/2023 23:23,17/12/2023 00:28
+WRKLDS-935,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,07/12/2023 23:23,17/12/2023 00:28
+WRKLDS-934,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,07/12/2023 23:23,17/12/2023 00:28
+WRKLDS-933,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,07/12/2023 23:15,19/12/2023 00:01
+WRKLDS-932,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,07/12/2023 23:15,19/12/2023 00:01
+WRKLDS-931,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,07/12/2023 23:15,19/12/2023 00:01
+WRKLDS-930,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,07/12/2023 23:14,19/12/2023 00:01
+WRKLDS-929,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,07/12/2023 23:14,19/12/2023 00:01
+WRKLDS-928,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,07/12/2023 23:14,19/12/2023 00:01
+WRKLDS-924,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,28/11/2023 15:43,23/04/2024 09:33
+WRKLDS-923,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,22/11/2023 23:12,26/12/2023 15:17
+WRKLDS-922,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,22/11/2023 23:09,28/11/2023 11:54
+WRKLDS-921,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,22/11/2023 23:09,19/12/2023 09:57
+WRKLDS-920,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,22/11/2023 23:09,02/01/2024 07:05
+WRKLDS-919,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,21/11/2023 11:27,29/11/2023 07:15
+WRKLDS-918,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,21/11/2023 11:27,29/11/2023 07:15
+WRKLDS-917,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,21/11/2023 11:26,29/11/2023 07:14
+WRKLDS-916,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,21/11/2023 08:42,11/01/2024 06:26
+WRKLDS-915,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,21/11/2023 06:31,21/12/2023 16:49
+WRKLDS-914,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,21/11/2023 06:31,21/12/2023 16:48
+WRKLDS-913,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,21/11/2023 06:31,21/12/2023 16:48
+WRKLDS-912,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,21/11/2023 06:30,21/12/2023 16:48
+WRKLDS-911,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,21/11/2023 06:30,21/12/2023 16:48
+WRKLDS-910,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,21/11/2023 06:30,21/12/2023 16:47
+WRKLDS-908,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,15/11/2023 19:50,02/01/2024 09:48
+WRKLDS-907,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,13/11/2023 15:35,01/04/2024 08:36
+WRKLDS-906,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,12/11/2023 09:34,16/01/2024 13:35
+WRKLDS-905,Story,Closed,WRKLDS,OpenShift Workloads,software,Done-Errata,07/11/2023 11:40,06/03/2024 13:33
+WRKLDS-904,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,07/11/2023 11:37,08/03/2024 08:11
+WRKLDS-903,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,07/11/2023 06:55,15/11/2023 12:23
+WRKLDS-902,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,07/11/2023 06:54,15/11/2023 12:23
+WRKLDS-901,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,07/11/2023 06:54,15/11/2023 09:17
+WRKLDS-900,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,07/11/2023 06:52,15/11/2023 12:18
+WRKLDS-899,Story,Closed,WRKLDS,OpenShift Workloads,software,Done-Errata,01/11/2023 09:54,06/03/2024 14:40
+WRKLDS-898,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,01/11/2023 09:53,05/03/2024 16:46
+WRKLDS-897,Story,Closed,WRKLDS,OpenShift Workloads,software,Done-Errata,01/11/2023 09:52,28/02/2024 00:20
+WRKLDS-896,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,01/11/2023 09:50,28/02/2024 13:51
+WRKLDS-895,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,31/10/2023 11:59,21/11/2023 08:33
+WRKLDS-894,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,30/10/2023 09:52,09/01/2024 04:57
+WRKLDS-893,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,30/10/2023 09:52,09/01/2024 04:57
+WRKLDS-892,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,30/10/2023 09:50,02/11/2023 06:20
+WRKLDS-891,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,30/10/2023 09:48,21/11/2023 07:53
+WRKLDS-890,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,30/10/2023 09:16,16/01/2024 13:31
+WRKLDS-889,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,27/10/2023 10:08,08/03/2024 08:12
+WRKLDS-888,Spike,To Do,WRKLDS,OpenShift Workloads,software,,27/03/2023 09:29,
+WRKLDS-887,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,24/10/2023 14:37,01/11/2023 09:43
+WRKLDS-886,Story,To Do,WRKLDS,OpenShift Workloads,software,,23/10/2023 15:10,
+WRKLDS-885,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,23/10/2023 12:09,01/11/2023 09:42
+WRKLDS-884,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,23/10/2023 11:38,18/01/2024 09:04
+WRKLDS-883,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,23/10/2023 11:31,21/11/2023 08:33
+WRKLDS-882,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,23/10/2023 11:25,21/11/2023 08:33
+WRKLDS-881,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,23/10/2023 11:22,21/11/2023 08:33
+WRKLDS-880,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,17/10/2023 15:55,24/10/2023 09:16
+WRKLDS-879,Epic,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,17/10/2023 15:54,24/10/2023 09:17
+WRKLDS-878,Story,Closed,WRKLDS,OpenShift Workloads,software,Done-Errata,17/10/2023 09:08,26/10/2023 01:04
+WRKLDS-877,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,17/10/2023 09:07,01/11/2023 09:47
+WRKLDS-875,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,12/10/2023 14:29,07/02/2024 06:01
+WRKLDS-874,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,12/10/2023 14:08,09/01/2024 04:56
+WRKLDS-873,Epic,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,11/10/2023 09:51,21/11/2023 08:33
+WRKLDS-872,Story,In Progress,WRKLDS,OpenShift Workloads,software,,06/10/2023 12:53,
+WRKLDS-870,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,21/09/2023 10:32,23/10/2023 11:08
+WRKLDS-869,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,21/09/2023 10:32,23/10/2023 10:59
+WRKLDS-868,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,15/09/2023 15:21,23/10/2023 11:00
+WRKLDS-867,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,14/09/2023 10:44,26/10/2023 11:55
+WRKLDS-866,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,14/09/2023 04:19,26/10/2023 11:55
+WRKLDS-864,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,13/09/2023 08:50,13/09/2023 09:00
+WRKLDS-863,Epic,In Progress,WRKLDS,OpenShift Workloads,software,,12/09/2023 12:53,
+WRKLDS-862,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,12/09/2023 12:22,08/03/2024 08:13
+WRKLDS-861,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,12/09/2023 12:14,08/03/2024 08:13
+WRKLDS-860,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,31/08/2023 05:45,27/11/2023 09:45
+WRKLDS-859,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,31/08/2023 05:41,11/01/2024 06:30
+WRKLDS-858,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,21/08/2023 05:08,21/08/2023 05:10
+WRKLDS-856,Epic,New,WRKLDS,OpenShift Workloads,software,,16/08/2023 15:12,
+WRKLDS-855,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/08/2023 08:43,11/09/2023 09:46
+WRKLDS-854,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/08/2023 08:43,11/09/2023 09:45
+WRKLDS-853,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/08/2023 08:42,15/08/2023 08:44
+WRKLDS-852,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/08/2023 08:41,15/08/2023 08:41
+WRKLDS-845,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,10/08/2023 17:49,06/05/2024 08:38
+WRKLDS-842,Story,To Do,WRKLDS,OpenShift Workloads,software,,10/08/2023 15:18,
+WRKLDS-805,Task,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,05/08/2023 10:36,24/08/2023 07:56
+WRKLDS-804,Task,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,05/08/2023 10:36,24/08/2023 07:56
+WRKLDS-803,Task,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,05/08/2023 10:36,24/08/2023 07:55
+WRKLDS-802,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,05/08/2023 10:36,11/08/2023 18:17
+WRKLDS-800,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,05/08/2023 10:36,07/09/2023 07:22
+WRKLDS-799,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,05/08/2023 10:36,07/09/2023 07:22
+WRKLDS-798,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,05/08/2023 10:36,07/09/2023 07:23
+WRKLDS-797,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,05/08/2023 10:36,11/08/2023 18:17
+WRKLDS-795,Epic,New,WRKLDS,OpenShift Workloads,software,,02/08/2023 17:22,
+WRKLDS-794,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,02/08/2023 14:39,07/11/2023 12:17
+WRKLDS-793,Story,Closed,WRKLDS,OpenShift Workloads,software,Done-Errata,02/08/2023 14:38,23/08/2023 00:18
+WRKLDS-791,Epic,New,WRKLDS,OpenShift Workloads,software,,18/07/2023 21:22,
+WRKLDS-787,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,11/07/2023 07:22,14/08/2023 13:22
+WRKLDS-786,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,11/07/2023 07:21,11/07/2023 07:23
+WRKLDS-785,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,11/07/2023 07:21,08/09/2023 16:10
+WRKLDS-784,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,11/07/2023 07:20,08/09/2023 16:10
+WRKLDS-780,Story,Closed,WRKLDS,OpenShift Workloads,software,Done-Errata,27/06/2023 10:21,26/10/2023 00:48
+WRKLDS-779,Story,Closed,WRKLDS,OpenShift Workloads,software,Done-Errata,27/06/2023 10:20,01/11/2023 00:30
+WRKLDS-778,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,27/06/2023 10:18,01/11/2023 09:47
+WRKLDS-777,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,27/06/2023 10:16,07/11/2023 12:17
+WRKLDS-757,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,20/06/2023 14:40,02/10/2023 07:59
+WRKLDS-754,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,10/06/2023 10:17,13/09/2023 07:57
+WRKLDS-753,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,07/06/2023 10:22,13/09/2023 08:09
+WRKLDS-752,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,06/06/2023 18:16,24/08/2023 20:09
+WRKLDS-747,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,24/05/2023 09:22,24/05/2023 09:23
+WRKLDS-746,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,21/05/2023 15:46,24/08/2023 07:37
+WRKLDS-744,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/05/2023 11:51,07/08/2023 08:51
+WRKLDS-743,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/05/2023 11:50,07/08/2023 08:51
+WRKLDS-742,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/05/2023 11:50,16/08/2023 05:09
+WRKLDS-741,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/05/2023 11:50,07/08/2023 08:46
+WRKLDS-740,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,15/05/2023 11:32,11/08/2023 18:16
+WRKLDS-739,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/05/2023 11:31,04/09/2023 14:45
+WRKLDS-738,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/05/2023 11:31,24/08/2023 08:10
+WRKLDS-737,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,15/05/2023 11:30,16/08/2023 17:41
+WRKLDS-736,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/05/2023 11:25,30/06/2023 11:43
+WRKLDS-735,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,15/05/2023 11:23,30/06/2023 12:19
+WRKLDS-734,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,15/05/2023 11:21,27/06/2023 10:19
+WRKLDS-733,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,15/05/2023 11:19,27/06/2023 10:18
+WRKLDS-732,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,09/05/2023 14:08,11/09/2023 19:01
+WRKLDS-729,Story,To Do,WRKLDS,OpenShift Workloads,software,,28/04/2023 15:30,
+WRKLDS-728,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,28/04/2023 11:45,13/09/2023 08:07
+WRKLDS-727,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,28/04/2023 11:42,13/09/2023 08:07
+WRKLDS-726,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,24/04/2023 20:02,29/08/2023 10:57
+WRKLDS-725,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,24/04/2023 19:40,01/11/2023 08:45
+WRKLDS-723,Story,In Progress,WRKLDS,OpenShift Workloads,software,,14/04/2023 15:16,
+WRKLDS-721,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,24/03/2023 10:56,24/03/2023 11:04
+WRKLDS-720,Epic,To Do,WRKLDS,OpenShift Workloads,software,,21/03/2023 20:09,
+WRKLDS-719,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,14/03/2023 21:47,08/05/2023 21:42
+WRKLDS-717,Story,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,09/03/2023 11:20,09/03/2023 11:39
+WRKLDS-716,Story,To Do,WRKLDS,OpenShift Workloads,software,,09/03/2023 10:11,
+WRKLDS-715,Story,To Do,WRKLDS,OpenShift Workloads,software,,09/03/2023 10:10,
+WRKLDS-714,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,09/03/2023 10:09,18/05/2023 11:58
+WRKLDS-713,Story,To Do,WRKLDS,OpenShift Workloads,software,,09/03/2023 10:07,
+WRKLDS-712,Story,To Do,WRKLDS,OpenShift Workloads,software,,09/03/2023 10:06,
+WRKLDS-707,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,02/03/2023 17:38,13/12/2023 20:52
+WRKLDS-706,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,02/03/2023 12:00,10/08/2023 17:52
+WRKLDS-705,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,21/02/2023 09:59,03/04/2023 09:07
+WRKLDS-704,Task,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,21/02/2023 04:49,29/03/2023 01:08
+WRKLDS-703,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,21/02/2023 04:39,29/03/2023 17:53
+WRKLDS-701,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,20/02/2023 15:59,15/08/2023 08:57
+WRKLDS-697,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,20/02/2023 12:49,11/08/2023 11:40
+WRKLDS-696,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,20/02/2023 10:29,10/08/2023 14:26
+WRKLDS-695,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,16/02/2023 22:10,13/09/2023 08:00
+WRKLDS-694,Story,In Progress,WRKLDS,OpenShift Workloads,software,,16/02/2023 14:52,
+WRKLDS-688,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,13/02/2023 19:12,13/02/2023 19:15
+WRKLDS-687,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,13/02/2023 19:09,28/04/2023 14:00
+WRKLDS-686,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,13/02/2023 19:08,18/05/2023 11:54
+WRKLDS-685,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,13/02/2023 19:07,07/03/2023 17:30
+WRKLDS-684,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,13/02/2023 19:07,20/02/2023 16:30
+WRKLDS-683,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,13/02/2023 18:55,08/03/2023 17:58
+WRKLDS-682,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,13/02/2023 18:54,07/03/2023 17:13
+WRKLDS-681,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,13/02/2023 18:54,07/03/2023 17:11
+WRKLDS-680,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,13/02/2023 18:54,08/03/2023 07:47
+WRKLDS-679,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,13/02/2023 18:48,04/04/2023 01:06
+WRKLDS-678,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,13/02/2023 18:48,04/04/2023 01:05
+WRKLDS-677,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,13/02/2023 18:47,17/02/2023 07:55
+WRKLDS-676,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,13/02/2023 18:19,17/02/2023 07:59
+WRKLDS-675,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,13/02/2023 18:38,23/03/2024 09:35
+WRKLDS-674,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,13/02/2023 18:38,23/03/2024 09:35
+WRKLDS-673,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,13/02/2023 18:37,23/03/2024 09:36
+WRKLDS-672,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,13/02/2023 18:37,21/11/2023 07:56
+WRKLDS-671,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,13/02/2023 18:32,20/02/2023 16:41
+WRKLDS-670,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,13/02/2023 18:32,20/02/2023 16:40
+WRKLDS-669,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,13/02/2023 18:31,20/02/2023 16:40
+WRKLDS-668,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,13/02/2023 18:31,20/02/2023 16:39
+WRKLDS-667,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,13/02/2023 18:25,17/02/2023 07:59
+WRKLDS-666,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,13/02/2023 18:16,17/02/2023 07:54
+WRKLDS-665,Bug,Closed,WRKLDS,OpenShift Workloads,software,Done,13/02/2023 12:47,03/05/2023 12:20
+WRKLDS-664,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,13/02/2023 10:01,21/02/2023 16:10
+WRKLDS-661,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,08/02/2023 06:12,08/02/2023 07:14
+WRKLDS-660,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,06/02/2023 06:07,22/02/2023 07:12
+WRKLDS-659,Task,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,02/02/2023 02:13,02/02/2023 07:38
+WRKLDS-658,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,02/02/2023 02:07,02/02/2023 02:14
+WRKLDS-657,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,31/01/2023 21:29,03/03/2023 18:55
+WRKLDS-656,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,31/01/2023 20:31,14/02/2023 14:43
+WRKLDS-655,Story,In Progress,WRKLDS,OpenShift Workloads,software,,31/01/2023 20:19,
+WRKLDS-654,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,31/01/2023 11:45,17/02/2023 07:52
+WRKLDS-653,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,26/01/2023 12:23,12/04/2023 07:23
+WRKLDS-652,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,25/01/2023 11:42,05/06/2023 08:01
+WRKLDS-651,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,24/01/2023 13:53,10/03/2023 10:15
+WRKLDS-650,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,24/01/2023 13:50,24/01/2023 17:31
+WRKLDS-648,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,16/01/2023 10:02,22/04/2024 07:42
+WRKLDS-647,Bug,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,16/01/2023 09:45,20/04/2023 18:38
+WRKLDS-645,Story,To Do,WRKLDS,OpenShift Workloads,software,,16/01/2023 09:27,
+WRKLDS-642,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,12/01/2023 11:59,03/04/2023 09:05
+WRKLDS-640,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,06/01/2023 10:36,22/02/2023 12:37
+WRKLDS-639,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,06/01/2023 10:23,05/02/2023 12:04
+WRKLDS-638,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,06/01/2023 10:20,05/02/2023 12:08
+WRKLDS-637,Story,To Do,WRKLDS,OpenShift Workloads,software,,04/01/2023 12:09,
+WRKLDS-636,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,04/01/2023 09:15,11/08/2023 11:54
+WRKLDS-635,Story,To Do,WRKLDS,OpenShift Workloads,software,,22/12/2022 09:42,
+WRKLDS-634,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,22/12/2022 09:37,14/10/2024 13:16
+WRKLDS-624,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,12/12/2022 15:35,28/03/2023 14:00
+WRKLDS-622,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,08/12/2022 11:46,13/09/2023 18:10
+WRKLDS-621,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,27/07/2022 08:26,08/12/2022 21:12
+WRKLDS-620,Story,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,29/11/2022 06:21,30/04/2024 13:24
+WRKLDS-619,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,23/11/2022 15:28,31/01/2024 10:34
+WRKLDS-618,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,21/11/2022 11:58,11/04/2024 11:10
+WRKLDS-617,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,15/11/2022 13:59,07/03/2023 12:39
+WRKLDS-605,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,15/11/2022 09:51,02/04/2023 19:57
+WRKLDS-604,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,10/11/2022 18:31,07/12/2022 13:57
+WRKLDS-603,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,01/11/2022 12:32,01/11/2022 12:34
+WRKLDS-601,Story,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,27/10/2022 11:39,27/10/2022 12:10
+WRKLDS-600,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,23/10/2022 00:35,20/03/2024 09:46
+WRKLDS-593,Story,To Do,WRKLDS,OpenShift Workloads,software,,21/10/2022 19:15,
+WRKLDS-592,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,21/10/2022 12:11,10/08/2023 15:28
+WRKLDS-591,Bug,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,20/10/2022 02:15,20/10/2022 02:24
+WRKLDS-587,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,18/10/2022 12:44,17/04/2023 15:33
+WRKLDS-547,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,07/10/2022 07:25,25/10/2022 14:15
+WRKLDS-540,Story,To Do,WRKLDS,OpenShift Workloads,software,,04/10/2022 14:26,
+WRKLDS-537,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,26/07/2022 11:26,29/09/2023 06:01
+WRKLDS-524,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,02/09/2022 11:15,04/10/2022 12:35
+WRKLDS-508,Story,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,18/08/2022 12:52,18/08/2022 12:53
+WRKLDS-501,Story,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,15/08/2022 15:47,20/10/2022 21:08
+WRKLDS-500,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,08/08/2022 11:40,13/09/2022 14:03
+WRKLDS-495,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,03/08/2022 13:13,14/07/2023 06:19
+WRKLDS-494,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,03/08/2022 13:07,29/11/2022 06:16
+WRKLDS-493,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,28/07/2022 13:41,09/03/2023 12:12
+WRKLDS-492,Task,Closed,WRKLDS,OpenShift Workloads,software,Done,27/07/2022 08:23,21/10/2022 11:10
+WRKLDS-489,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,27/07/2022 16:05,22/06/2023 10:46
+WRKLDS-488,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,27/07/2022 16:02,16/11/2022 10:58
+WRKLDS-487,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,21/07/2022 14:52,31/10/2022 19:27
+WRKLDS-486,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,13/07/2022 15:58,12/04/2023 07:56
+WRKLDS-485,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,12/07/2022 14:12,23/08/2022 13:16
+WRKLDS-484,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,12/07/2022 14:09,23/08/2022 13:16
+WRKLDS-483,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,12/07/2022 14:05,23/08/2022 13:17
+WRKLDS-482,Story,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,12/07/2022 14:02,18/10/2022 11:59
+WRKLDS-481,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,12/07/2022 13:52,08/08/2022 13:17
+WRKLDS-478,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,12/07/2022 13:40,20/02/2023 10:31
+WRKLDS-474,Epic,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,06/07/2022 20:41,27/03/2024 12:30
+WRKLDS-473,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,27/06/2022 09:26,04/10/2022 15:49
+WRKLDS-471,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,23/06/2022 18:52,02/12/2022 14:32
+WRKLDS-468,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,15/06/2022 15:39,25/10/2022 14:23
+WRKLDS-466,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,30/05/2022 10:53,23/08/2022 19:29
+WRKLDS-465,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,30/05/2022 10:50,28/07/2022 14:44
+WRKLDS-462,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,23/05/2022 16:04,23/05/2022 19:33
+WRKLDS-461,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,23/05/2022 15:43,23/05/2022 19:36
+WRKLDS-459,Story,Closed,WRKLDS,OpenShift Workloads,software,Duplicate,23/05/2022 12:24,01/07/2022 15:58
+WRKLDS-457,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,10/05/2022 18:24,07/10/2022 10:00
+WRKLDS-456,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,10/05/2022 18:01,07/10/2022 09:57
+WRKLDS-454,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,06/05/2022 09:08,10/01/2023 12:14
+WRKLDS-449,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,03/05/2022 14:29,01/08/2022 14:19
+WRKLDS-448,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,26/04/2022 20:26,29/03/2023 18:09
+WRKLDS-444,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,19/04/2022 13:43,06/05/2022 08:59
+WRKLDS-440,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,30/03/2022 09:05,14/04/2022 11:09
+WRKLDS-439,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,29/03/2022 14:35,11/01/2023 18:19
+WRKLDS-408,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,16/03/2022 13:14,19/04/2022 13:27
+WRKLDS-407,Bug,Closed,WRKLDS,OpenShift Workloads,software,Done,11/03/2022 17:52,23/05/2022 19:37
+WRKLDS-406,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,08/03/2022 11:53,14/04/2022 10:25
+WRKLDS-405,Story,To Do,WRKLDS,OpenShift Workloads,software,,04/03/2022 14:17,
+WRKLDS-404,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,04/03/2022 10:45,23/05/2022 19:37
+WRKLDS-403,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,16/02/2022 14:10,12/07/2022 13:17
+WRKLDS-402,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,16/02/2022 14:06,12/07/2022 13:18
+WRKLDS-401,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,11/02/2022 16:45,23/05/2022 19:40
+WRKLDS-400,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,10/02/2022 02:20,01/08/2022 11:47
+WRKLDS-399,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,08/02/2022 11:29,23/05/2022 19:36
+WRKLDS-398,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,03/02/2022 15:22,09/03/2023 12:11
+WRKLDS-397,Story,To Do,WRKLDS,OpenShift Workloads,software,,03/02/2022 12:03,
+WRKLDS-396,Story,To Do,WRKLDS,OpenShift Workloads,software,,03/02/2022 11:57,
+WRKLDS-395,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,03/02/2022 11:55,03/02/2022 11:57
+WRKLDS-394,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,03/02/2022 11:52,01/04/2022 15:15
+WRKLDS-393,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,03/02/2022 11:50,03/02/2022 11:53
+WRKLDS-392,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,03/02/2022 11:46,29/03/2022 13:24
+WRKLDS-391,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,03/02/2022 11:42,20/02/2023 13:03
+WRKLDS-390,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,03/02/2022 11:32,10/08/2023 17:47
+WRKLDS-389,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,03/02/2022 11:25,01/08/2022 11:47
+WRKLDS-388,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,03/02/2022 10:29,01/08/2022 11:47
+WRKLDS-387,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,18/01/2022 14:30,23/05/2022 19:35
+WRKLDS-386,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,11/01/2022 23:16,23/05/2022 19:35
+WRKLDS-385,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,11/01/2022 22:54,23/05/2022 19:38
+WRKLDS-384,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,11/01/2022 21:36,23/05/2022 19:36
+WRKLDS-383,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,11/01/2022 20:55,23/05/2022 19:37
+WRKLDS-382,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,11/01/2022 20:50,23/05/2022 19:39
+WRKLDS-381,Epic,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,03/01/2022 23:45,03/02/2022 12:54
+WRKLDS-374,Epic,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,30/12/2021 13:53,30/04/2024 12:41
+WRKLDS-372,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,23/11/2021 14:01,05/01/2022 11:58
+WRKLDS-371,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,23/11/2021 13:59,24/01/2022 12:14
+WRKLDS-370,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,10/11/2021 21:15,12/07/2022 13:16
+WRKLDS-369,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,05/11/2021 16:41,01/08/2022 11:47
+WRKLDS-368,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,02/11/2021 13:40,14/04/2022 11:12
+WRKLDS-363,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,01/11/2021 20:55,21/01/2022 15:44
+WRKLDS-362,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,29/10/2021 13:34,14/12/2021 13:51
+WRKLDS-361,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,19/10/2021 09:47,23/05/2022 19:35
+WRKLDS-360,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,14/10/2021 14:21,23/05/2022 20:03
+WRKLDS-359,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,14/10/2021 13:52,01/03/2023 23:45
+WRKLDS-358,Story,To Do,WRKLDS,OpenShift Workloads,software,,21/09/2021 12:17,
+WRKLDS-357,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,31/08/2021 14:04,01/02/2022 13:32
+WRKLDS-356,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,31/08/2021 12:25,14/12/2021 12:53
+WRKLDS-355,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,10/08/2021 19:24,19/04/2022 15:57
+WRKLDS-354,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,10/08/2021 09:15,16/02/2022 16:58
+WRKLDS-351,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,09/08/2021 15:07,03/02/2022 10:29
+WRKLDS-350,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,05/08/2021 16:51,08/03/2023 17:00
+WRKLDS-347,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,29/07/2021 19:19,03/02/2022 15:20
+WRKLDS-343,Epic,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,10/06/2019 20:07,09/03/2023 11:34
+WRKLDS-342,Epic,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,21/07/2021 18:30,15/03/2023 12:47
+WRKLDS-341,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,21/07/2021 17:45,08/03/2023 17:13
+WRKLDS-340,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,21/07/2021 11:22,19/08/2021 16:57
+WRKLDS-339,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,21/07/2021 11:21,19/08/2021 13:29
+WRKLDS-333,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,19/07/2021 15:38,06/08/2021 14:54
+WRKLDS-320,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,19/07/2021 15:18,09/03/2023 11:31
+WRKLDS-319,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,19/07/2021 15:18,09/03/2023 11:30
+WRKLDS-318,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,19/07/2021 15:17,09/08/2021 15:03
+WRKLDS-316,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,29/06/2021 13:35,06/08/2021 09:47
+WRKLDS-315,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,29/06/2021 12:48,12/10/2021 13:29
+WRKLDS-314,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,29/06/2021 12:31,08/03/2022 14:35
+WRKLDS-313,Epic,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,16/06/2021 19:58,05/08/2021 16:42
+WRKLDS-311,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,08/06/2021 13:14,20/07/2021 10:48
+WRKLDS-310,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,08/06/2021 10:16,08/06/2021 10:20
+WRKLDS-309,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,08/06/2021 10:13,29/06/2021 11:57
+WRKLDS-308,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,08/06/2021 09:49,03/02/2022 12:03
+WRKLDS-306,Story,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,31/05/2021 13:18,08/08/2022 14:06
+WRKLDS-303,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,26/05/2021 17:33,20/04/2022 07:49
+WRKLDS-300,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,26/05/2021 17:26,12/07/2022 12:49
+WRKLDS-299,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,26/05/2021 17:23,12/07/2022 12:49
+WRKLDS-298,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,26/05/2021 17:14,23/05/2022 20:03
+WRKLDS-297,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,25/05/2021 15:28,23/05/2022 20:03
+WRKLDS-296,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,25/05/2021 10:42,23/05/2022 20:02
+WRKLDS-295,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,18/05/2021 12:22,20/07/2021 10:47
+WRKLDS-294,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,18/05/2021 12:18,31/08/2021 13:38
+WRKLDS-293,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,17/05/2021 14:13,22/02/2022 14:17
+WRKLDS-292,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,13/05/2021 17:35,09/03/2023 11:30
+WRKLDS-291,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,11/05/2021 13:58,29/06/2021 11:59
+WRKLDS-290,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,04/05/2021 16:09,08/03/2023 17:14
+WRKLDS-289,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,27/04/2021 13:33,14/04/2022 11:11
+WRKLDS-288,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,27/04/2021 13:29,17/11/2021 15:41
+WRKLDS-287,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,27/04/2021 13:11,27/04/2021 13:11
+WRKLDS-286,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,27/04/2021 12:38,05/05/2021 14:41
+WRKLDS-285,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,27/04/2021 12:18,20/07/2021 10:46
+WRKLDS-283,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,15/04/2021 06:52,02/05/2022 08:45
+WRKLDS-282,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,14/04/2021 12:31,18/05/2021 12:13
+WRKLDS-281,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,12/04/2021 08:42,23/05/2022 20:04
+WRKLDS-280,Epic,Closed,WRKLDS,OpenShift Workloads,software,Won't Do,01/04/2021 13:44,13/05/2021 17:30
+WRKLDS-279,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,30/03/2021 11:27,16/02/2022 16:59
+WRKLDS-278,Epic,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,16/03/2021 15:58,15/03/2023 12:35
+WRKLDS-268,Story,To Do,WRKLDS,OpenShift Workloads,software,,16/03/2021 08:42,
+WRKLDS-267,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,16/03/2021 07:21,10/05/2021 08:37
+WRKLDS-266,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,16/03/2021 07:18,06/04/2021 07:51
+WRKLDS-265,Bug,Closed,WRKLDS,OpenShift Workloads,software,Done,15/03/2021 05:46,04/01/2023 14:38
+WRKLDS-264,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,12/03/2021 11:48,27/05/2021 09:41
+WRKLDS-263,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,23/02/2021 08:41,10/06/2021 15:34
+WRKLDS-262,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,23/02/2021 07:48,09/03/2021 08:12
+WRKLDS-261,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,23/02/2021 07:35,03/02/2022 11:46
+WRKLDS-260,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,23/02/2021 07:33,16/05/2021 10:56
+WRKLDS-259,Epic,New,WRKLDS,OpenShift Workloads,software,,04/02/2021 07:11,
+WRKLDS-258,Story,Closed,WRKLDS,OpenShift Workloads,software,Obsolete,02/02/2021 10:03,03/02/2022 11:44
+WRKLDS-257,Epic,Closed,WRKLDS,OpenShift Workloads,software,Done,02/02/2021 09:49,22/06/2023 17:27
+WRKLDS-256,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,02/02/2021 08:53,16/03/2021 07:02
+WRKLDS-255,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,02/02/2021 08:51,16/03/2021 07:02
+WRKLDS-254,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,02/02/2021 08:50,08/06/2021 13:11
+WRKLDS-253,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,02/02/2021 08:49,01/03/2021 10:40
+WRKLDS-252,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,02/02/2021 08:44,23/02/2021 06:50
+WRKLDS-251,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,02/02/2021 08:44,23/02/2021 06:50
+WRKLDS-250,Story,Closed,WRKLDS,OpenShift Workloads,software,Done,02/02/2021 08:28,15/04/2021 14:22

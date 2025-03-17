@@ -1,5 +1,5 @@
 All PBIS - Unfiltered 
-Start date: 1901-01-01 12:01:00 End date: 2024-11-13 10:20:00
+Start date: 2020-08-19 11:59:00 End date: 2024-11-13 10:20:00
 System: {'GITOPS': 4060}
 Types: {'Task': 996, 'Epic': 456, 'Spike': 54, 'Story': 1674, 'Bug': 840, 'Feature': 39, 'Outcome': 1}
 Resolutions: {'': 422, "Won't Do": 560, 'Done': 2697, 'Duplicate': 197, "Can't Do": 4, 'Obsolete': 94, 'Not a Bug': 44, 'Cannot Reproduce': 30, 'Done-Errata': 12}

@@ -1,0 +1,913 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+SWATCH-3110,Epic,New,SWATCH,Subscription Watch,software,,14/11/2024 19:33,
+SWATCH-3109,Story,New,SWATCH,Subscription Watch,software,,14/11/2024 19:18,
+SWATCH-3107,Bug,New,SWATCH,Subscription Watch,software,,13/11/2024 18:29,
+SWATCH-3104,Task,In Progress,SWATCH,Subscription Watch,software,,12/11/2024 20:11,
+SWATCH-3103,Task,New,SWATCH,Subscription Watch,software,,12/11/2024 18:12,
+SWATCH-3102,Task,New,SWATCH,Subscription Watch,software,,12/11/2024 14:59,
+SWATCH-3101,Story,New,SWATCH,Subscription Watch,software,,11/11/2024 16:28,
+SWATCH-3100,Story,New,SWATCH,Subscription Watch,software,,11/11/2024 16:26,
+SWATCH-3099,Story,New,SWATCH,Subscription Watch,software,,11/11/2024 16:09,
+SWATCH-3098,Story,New,SWATCH,Subscription Watch,software,,11/11/2024 16:06,
+SWATCH-3097,Story,New,SWATCH,Subscription Watch,software,,11/11/2024 16:01,
+SWATCH-3096,Story,New,SWATCH,Subscription Watch,software,,11/11/2024 15:59,
+SWATCH-3095,Story,New,SWATCH,Subscription Watch,software,,11/11/2024 15:54,
+SWATCH-3094,Story,New,SWATCH,Subscription Watch,software,,11/11/2024 15:52,
+SWATCH-3093,Story,Backlog,SWATCH,Subscription Watch,software,,11/11/2024 15:41,
+SWATCH-3092,Story,New,SWATCH,Subscription Watch,software,,11/11/2024 15:27,
+SWATCH-3091,Epic,New,SWATCH,Subscription Watch,software,,11/11/2024 15:22,
+SWATCH-3089,Task,Backlog,SWATCH,Subscription Watch,software,,11/11/2024 14:28,
+SWATCH-3087,Bug,New,SWATCH,Subscription Watch,software,,08/11/2024 18:12,
+SWATCH-3084,Story,New,SWATCH,Subscription Watch,software,,08/11/2024 16:08,
+SWATCH-3083,Story,New,SWATCH,Subscription Watch,software,,07/11/2024 18:44,
+SWATCH-3079,Task,New,SWATCH,Subscription Watch,software,,04/11/2024 21:20,
+SWATCH-3076,Task,New,SWATCH,Subscription Watch,software,,04/11/2024 15:01,
+SWATCH-3075,Task,In Progress,SWATCH,Subscription Watch,software,,04/11/2024 13:46,
+SWATCH-3074,Task,Release Pending,SWATCH,Subscription Watch,software,Done,04/11/2024 13:46,11/11/2024 13:14
+SWATCH-3072,Bug,Closed,SWATCH,Subscription Watch,software,Done,01/11/2024 19:38,13/11/2024 19:59
+SWATCH-3071,Task,Backlog,SWATCH,Subscription Watch,software,,01/11/2024 15:06,
+SWATCH-3063,Story,Backlog,SWATCH,Subscription Watch,software,,31/10/2024 13:47,
+SWATCH-3056,Task,Backlog,SWATCH,Subscription Watch,software,,28/10/2024 19:19,
+SWATCH-3055,Bug,Closed,SWATCH,Subscription Watch,software,Not a Bug,28/10/2024 14:56,04/11/2024 18:28
+SWATCH-3054,Story,Release Pending,SWATCH,Subscription Watch,software,Done,28/10/2024 14:05,06/11/2024 13:42
+SWATCH-3053,Bug,Release Pending,SWATCH,Subscription Watch,software,Done,28/10/2024 09:59,29/10/2024 16:05
+SWATCH-3049,Task,Release Pending,SWATCH,Subscription Watch,software,Done,24/10/2024 11:11,06/11/2024 11:22
+SWATCH-3046,Story,Backlog,SWATCH,Subscription Watch,software,,23/10/2024 15:41,
+SWATCH-3040,Bug,Release Pending,SWATCH,Subscription Watch,software,Done,22/10/2024 15:59,01/11/2024 14:23
+SWATCH-3036,Bug,Release Pending,SWATCH,Subscription Watch,software,Done,21/10/2024 09:56,22/10/2024 05:47
+SWATCH-3034,Bug,Release Pending,SWATCH,Subscription Watch,software,Done,18/10/2024 11:33,31/10/2024 07:20
+SWATCH-3033,Story,Backlog,SWATCH,Subscription Watch,software,,17/10/2024 13:55,
+SWATCH-3031,Bug,Backlog,SWATCH,Subscription Watch,software,,22/08/2024 11:21,
+SWATCH-3029,Story,Backlog,SWATCH,Subscription Watch,software,,15/10/2024 14:29,
+SWATCH-3028,Story,Backlog,SWATCH,Subscription Watch,software,,15/10/2024 14:28,
+SWATCH-3023,Story,Backlog,SWATCH,Subscription Watch,software,,11/10/2024 15:38,
+SWATCH-3021,Task,Closed,SWATCH,Subscription Watch,software,Won't Do,09/10/2024 19:20,14/10/2024 17:13
+SWATCH-3020,Story,Closed,SWATCH,Subscription Watch,software,Done,09/10/2024 16:08,14/10/2024 17:13
+SWATCH-3018,Task,Release Pending,SWATCH,Subscription Watch,software,Done,09/10/2024 14:40,10/10/2024 14:17
+SWATCH-3016,Task,Closed,SWATCH,Subscription Watch,software,Done,08/10/2024 14:30,11/11/2024 15:09
+SWATCH-3015,Task,Backlog,SWATCH,Subscription Watch,software,,08/10/2024 14:25,
+SWATCH-3010,Bug,Closed,SWATCH,Subscription Watch,software,Done,07/10/2024 16:05,07/10/2024 17:50
+SWATCH-3007,Task,Release Pending,SWATCH,Subscription Watch,software,Done,07/10/2024 08:48,09/10/2024 17:34
+SWATCH-3002,Task,Backlog,SWATCH,Subscription Watch,software,,04/10/2024 05:37,
+SWATCH-3001,Story,Backlog,SWATCH,Subscription Watch,software,,03/10/2024 18:31,
+SWATCH-2999,Story,Closed,SWATCH,Subscription Watch,software,Won't Do,03/10/2024 15:17,14/10/2024 17:22
+SWATCH-2993,Task,Release Pending,SWATCH,Subscription Watch,software,Done,02/10/2024 05:16,09/10/2024 12:07
+SWATCH-2991,Task,Closed,SWATCH,Subscription Watch,software,Done,01/10/2024 12:59,04/10/2024 08:39
+SWATCH-2990,Task,Release Pending,SWATCH,Subscription Watch,software,Done,01/10/2024 12:39,18/10/2024 17:22
+SWATCH-2982,Task,Closed,SWATCH,Subscription Watch,software,Done,30/09/2024 15:01,29/10/2024 14:40
+SWATCH-2980,Task,Release Pending,SWATCH,Subscription Watch,software,Done,30/09/2024 13:07,06/11/2024 06:48
+SWATCH-2978,Task,Closed,SWATCH,Subscription Watch,software,Won't Do,30/09/2024 07:17,01/10/2024 15:32
+SWATCH-2976,Epic,Refinement,SWATCH,Subscription Watch,software,,27/09/2024 10:10,
+SWATCH-2975,Task,Backlog,SWATCH,Subscription Watch,software,,27/09/2024 08:44,
+SWATCH-2971,Task,Closed,SWATCH,Subscription Watch,software,Done,26/09/2024 17:54,26/09/2024 19:31
+SWATCH-2970,Bug,Closed,SWATCH,Subscription Watch,software,Done,26/09/2024 08:57,26/09/2024 18:21
+SWATCH-2969,Task,Release Pending,SWATCH,Subscription Watch,software,Done,26/09/2024 08:41,04/11/2024 22:05
+SWATCH-2968,Bug,Backlog,SWATCH,Subscription Watch,software,,26/09/2024 07:49,
+SWATCH-2967,Bug,Closed,SWATCH,Subscription Watch,software,Not a Bug,26/09/2024 06:12,26/09/2024 07:32
+SWATCH-2966,Task,Closed,SWATCH,Subscription Watch,software,Done,25/09/2024 19:40,25/09/2024 19:53
+SWATCH-2965,Story,Backlog,SWATCH,Subscription Watch,software,,25/09/2024 19:06,
+SWATCH-2961,Task,Backlog,SWATCH,Subscription Watch,software,,25/09/2024 12:56,
+SWATCH-2960,Bug,Closed,SWATCH,Subscription Watch,software,Done,24/09/2024 19:48,25/09/2024 18:11
+SWATCH-2949,Story,Backlog,SWATCH,Subscription Watch,software,,23/09/2024 20:05,
+SWATCH-2948,Task,Closed,SWATCH,Subscription Watch,software,Done,23/09/2024 15:21,22/10/2024 13:23
+SWATCH-2945,Task,Closed,SWATCH,Subscription Watch,software,Done,23/09/2024 15:09,18/10/2024 20:41
+SWATCH-2942,Bug,Closed,SWATCH,Subscription Watch,software,Done,23/09/2024 11:29,04/10/2024 08:13
+SWATCH-2941,Task,Backlog,SWATCH,Subscription Watch,software,,23/09/2024 08:55,
+SWATCH-2939,Task,Closed,SWATCH,Subscription Watch,software,Done,20/09/2024 13:14,20/09/2024 19:03
+SWATCH-2936,Task,Release Pending,SWATCH,Subscription Watch,software,Done,19/09/2024 15:22,13/11/2024 06:19
+SWATCH-2935,Bug,Closed,SWATCH,Subscription Watch,software,Done,19/09/2024 14:54,01/10/2024 12:19
+SWATCH-2930,Story,Backlog,SWATCH,Subscription Watch,software,,17/09/2024 20:26,
+SWATCH-2925,Bug,Closed,SWATCH,Subscription Watch,software,Done,17/09/2024 19:42,26/09/2024 06:13
+SWATCH-2924,Story,Release Pending,SWATCH,Subscription Watch,software,Done,17/09/2024 19:38,05/11/2024 21:29
+SWATCH-2919,Task,Backlog,SWATCH,Subscription Watch,software,,17/09/2024 14:01,
+SWATCH-2917,Task,Closed,SWATCH,Subscription Watch,software,Done,17/09/2024 07:40,23/09/2024 05:04
+SWATCH-2916,Bug,Release Pending,SWATCH,Subscription Watch,software,Done,17/09/2024 06:29,09/10/2024 17:34
+SWATCH-2912,Task,Backlog,SWATCH,Subscription Watch,software,,16/09/2024 10:12,
+SWATCH-2910,Bug,Closed,SWATCH,Subscription Watch,software,Done,13/09/2024 10:51,25/09/2024 05:00
+SWATCH-2909,Task,Backlog,SWATCH,Subscription Watch,software,,13/09/2024 09:37,
+SWATCH-2904,Bug,Closed,SWATCH,Subscription Watch,software,Done,11/09/2024 16:59,16/09/2024 19:28
+SWATCH-2903,Bug,Closed,SWATCH,Subscription Watch,software,Done,10/09/2024 19:48,01/10/2024 15:38
+SWATCH-2900,Bug,Closed,SWATCH,Subscription Watch,software,Obsolete,10/09/2024 12:50,16/09/2024 17:26
+SWATCH-2897,Story,Closed,SWATCH,Subscription Watch,software,Done,09/09/2024 19:46,18/09/2024 15:01
+SWATCH-2895,Task,Backlog,SWATCH,Subscription Watch,software,,09/09/2024 14:21,
+SWATCH-2891,Task,Closed,SWATCH,Subscription Watch,software,Done,06/09/2024 14:41,25/09/2024 18:36
+SWATCH-2878,Task,Backlog,SWATCH,Subscription Watch,software,,04/09/2024 17:03,
+SWATCH-2877,Story,Backlog,SWATCH,Subscription Watch,software,,04/09/2024 16:28,
+SWATCH-2876,Story,Closed,SWATCH,Subscription Watch,software,Duplicate,04/09/2024 16:24,10/10/2024 18:00
+SWATCH-2875,Story,In Progress,SWATCH,Subscription Watch,software,,04/09/2024 16:13,
+SWATCH-2874,Story,Closed,SWATCH,Subscription Watch,software,Done,04/09/2024 16:07,01/10/2024 12:41
+SWATCH-2872,Task,Release Pending,SWATCH,Subscription Watch,software,Done,04/09/2024 14:50,02/10/2024 18:18
+SWATCH-2870,Task,Closed,SWATCH,Subscription Watch,software,Done,03/09/2024 05:02,03/09/2024 18:42
+SWATCH-2858,Task,Closed,SWATCH,Subscription Watch,software,Done,28/08/2024 14:35,29/08/2024 15:35
+SWATCH-2857,Story,Closed,SWATCH,Subscription Watch,software,Done,27/08/2024 19:39,11/10/2024 15:39
+SWATCH-2854,Story,Closed,SWATCH,Subscription Watch,software,Obsolete,26/08/2024 20:50,09/09/2024 17:28
+SWATCH-2844,Task,Backlog,SWATCH,Subscription Watch,software,,21/08/2024 15:08,
+SWATCH-2843,Story,Release Pending,SWATCH,Subscription Watch,software,Done,21/08/2024 15:02,16/10/2024 13:07
+SWATCH-2842,Story,Release Pending,SWATCH,Subscription Watch,software,Done,21/08/2024 15:01,31/10/2024 14:42
+SWATCH-2837,Task,Closed,SWATCH,Subscription Watch,software,Duplicate,20/08/2024 15:23,20/08/2024 15:46
+SWATCH-2832,Story,Closed,SWATCH,Subscription Watch,software,Done,19/08/2024 17:43,14/10/2024 16:57
+SWATCH-2831,Task,Backlog,SWATCH,Subscription Watch,software,,19/08/2024 17:24,
+SWATCH-2830,Task,Closed,SWATCH,Subscription Watch,software,Done,19/08/2024 16:55,12/09/2024 17:43
+SWATCH-2827,Task,Closed,SWATCH,Subscription Watch,software,Done,16/08/2024 16:48,30/08/2024 05:27
+SWATCH-2825,Task,Closed,SWATCH,Subscription Watch,software,Done,16/08/2024 08:22,19/08/2024 16:57
+SWATCH-2822,Story,Closed,SWATCH,Subscription Watch,software,Done,15/08/2024 18:36,16/09/2024 15:09
+SWATCH-2821,Task,Closed,SWATCH,Subscription Watch,software,Done,15/08/2024 15:35,20/08/2024 13:37
+SWATCH-2820,Task,Backlog,SWATCH,Subscription Watch,software,,15/08/2024 13:51,
+SWATCH-2817,Bug,Closed,SWATCH,Subscription Watch,software,Done,14/08/2024 12:37,26/08/2024 18:08
+SWATCH-2816,Bug,Closed,SWATCH,Subscription Watch,software,Done,14/08/2024 05:39,16/08/2024 05:25
+SWATCH-2815,Story,Closed,SWATCH,Subscription Watch,software,Done,13/08/2024 13:59,16/09/2024 07:03
+SWATCH-2813,Story,Closed,SWATCH,Subscription Watch,software,Done,12/08/2024 19:51,17/09/2024 10:18
+SWATCH-2811,Task,Closed,SWATCH,Subscription Watch,software,Done,12/08/2024 16:20,06/09/2024 12:08
+SWATCH-2809,Story,Closed,SWATCH,Subscription Watch,software,Done,08/08/2024 18:18,27/08/2024 20:02
+SWATCH-2806,Bug,Closed,SWATCH,Subscription Watch,software,Done,08/08/2024 13:08,08/08/2024 17:18
+SWATCH-2804,Task,Closed,SWATCH,Subscription Watch,software,Done,08/08/2024 05:23,29/08/2024 05:27
+SWATCH-2803,Task,Closed,SWATCH,Subscription Watch,software,Done,08/08/2024 05:05,16/09/2024 15:16
+SWATCH-2801,Task,Backlog,SWATCH,Subscription Watch,software,,07/08/2024 07:07,
+SWATCH-2797,Story,Closed,SWATCH,Subscription Watch,software,Done,06/08/2024 14:00,14/10/2024 19:26
+SWATCH-2794,Task,Backlog,SWATCH,Subscription Watch,software,,05/08/2024 19:39,
+SWATCH-2783,Task,Closed,SWATCH,Subscription Watch,software,Done,02/08/2024 04:32,05/08/2024 11:53
+SWATCH-2781,Story,Closed,SWATCH,Subscription Watch,software,Done,31/07/2024 15:12,05/08/2024 17:14
+SWATCH-2779,Task,Closed,SWATCH,Subscription Watch,software,Done,31/07/2024 14:49,09/08/2024 15:44
+SWATCH-2772,Bug,Closed,SWATCH,Subscription Watch,software,Done,25/07/2024 19:15,31/07/2024 20:37
+SWATCH-2770,Task,Closed,SWATCH,Subscription Watch,software,Done,25/07/2024 11:40,03/09/2024 05:17
+SWATCH-2769,Task,Closed,SWATCH,Subscription Watch,software,Done,24/07/2024 13:30,31/07/2024 17:36
+SWATCH-2768,Task,Closed,SWATCH,Subscription Watch,software,Done,24/07/2024 13:25,25/07/2024 20:26
+SWATCH-2766,Bug,Closed,SWATCH,Subscription Watch,software,Done,24/07/2024 05:44,13/08/2024 14:34
+SWATCH-2761,Bug,Closed,SWATCH,Subscription Watch,software,Done,23/07/2024 15:50,24/07/2024 14:39
+SWATCH-2760,Story,Closed,SWATCH,Subscription Watch,software,Done,23/07/2024 14:03,07/08/2024 16:13
+SWATCH-2757,Story,Closed,SWATCH,Subscription Watch,software,Done,22/07/2024 19:20,07/08/2024 13:44
+SWATCH-2756,Story,Closed,SWATCH,Subscription Watch,software,Done,22/07/2024 18:18,27/08/2024 20:00
+SWATCH-2755,Task,Closed,SWATCH,Subscription Watch,software,Done,22/07/2024 18:15,12/09/2024 19:12
+SWATCH-2754,Bug,Closed,SWATCH,Subscription Watch,software,Not a Bug,23/04/2024 12:53,22/07/2024 17:04
+SWATCH-2753,Task,Backlog,SWATCH,Subscription Watch,software,,22/07/2024 15:40,
+SWATCH-2743,Epic,Closed,SWATCH,Subscription Watch,software,Done,16/07/2024 17:54,22/10/2024 17:35
+SWATCH-2739,Task,Closed,SWATCH,Subscription Watch,software,Done,15/07/2024 12:56,22/07/2024 14:15
+SWATCH-2738,Bug,Closed,SWATCH,Subscription Watch,software,Done,15/07/2024 12:02,16/07/2024 13:33
+SWATCH-2736,Story,Closed,SWATCH,Subscription Watch,software,Done,12/07/2024 15:54,20/09/2024 15:02
+SWATCH-2733,Task,Closed,SWATCH,Subscription Watch,software,Done,12/07/2024 05:10,23/07/2024 05:21
+SWATCH-2724,Bug,Closed,SWATCH,Subscription Watch,software,Done,09/07/2024 14:01,16/07/2024 13:21
+SWATCH-2723,Task,Closed,SWATCH,Subscription Watch,software,Not a Bug,09/07/2024 13:39,09/07/2024 13:51
+SWATCH-2707,Story,Release Pending,SWATCH,Subscription Watch,software,Done,03/07/2024 13:55,13/11/2024 15:43
+SWATCH-2706,Task,Backlog,SWATCH,Subscription Watch,software,,03/07/2024 12:41,
+SWATCH-2705,Task,Closed,SWATCH,Subscription Watch,software,Done,03/07/2024 12:18,26/07/2024 15:08
+SWATCH-2704,Story,Closed,SWATCH,Subscription Watch,software,Done,02/07/2024 14:57,17/07/2024 16:51
+SWATCH-2696,Task,Closed,SWATCH,Subscription Watch,software,Done,27/06/2024 13:41,05/09/2024 18:43
+SWATCH-2688,Task,Closed,SWATCH,Subscription Watch,software,Done,25/06/2024 17:22,28/06/2024 13:32
+SWATCH-2683,Task,Closed,SWATCH,Subscription Watch,software,Done,24/06/2024 12:58,24/07/2024 04:44
+SWATCH-2682,Task,Closed,SWATCH,Subscription Watch,software,Done,24/06/2024 12:54,24/07/2024 09:55
+SWATCH-2681,Task,Closed,SWATCH,Subscription Watch,software,Done,24/06/2024 12:48,06/08/2024 03:23
+SWATCH-2680,Task,Closed,SWATCH,Subscription Watch,software,Done,24/06/2024 12:45,06/08/2024 03:23
+SWATCH-2678,Task,In Progress,SWATCH,Subscription Watch,software,,21/06/2024 19:54,
+SWATCH-2677,Task,Backlog,SWATCH,Subscription Watch,software,,21/06/2024 19:46,
+SWATCH-2674,Task,Closed,SWATCH,Subscription Watch,software,Done,21/06/2024 08:54,05/08/2024 16:01
+SWATCH-2673,Bug,Closed,SWATCH,Subscription Watch,software,Done,20/06/2024 17:09,02/07/2024 18:03
+SWATCH-2671,Bug,Closed,SWATCH,Subscription Watch,software,Done,20/06/2024 13:56,11/07/2024 14:56
+SWATCH-2663,Task,Backlog,SWATCH,Subscription Watch,software,,18/06/2024 05:22,
+SWATCH-2660,Task,Backlog,SWATCH,Subscription Watch,software,,17/06/2024 16:27,
+SWATCH-2658,Task,Closed,SWATCH,Subscription Watch,software,Done,17/06/2024 15:20,17/06/2024 23:47
+SWATCH-2656,Story,Closed,SWATCH,Subscription Watch,software,Duplicate,14/06/2024 17:34,17/06/2024 13:25
+SWATCH-2655,Task,Closed,SWATCH,Subscription Watch,software,Done,13/06/2024 19:26,03/10/2024 15:55
+SWATCH-2650,Story,Closed,SWATCH,Subscription Watch,software,Done,13/06/2024 20:02,16/07/2024 17:51
+SWATCH-2649,Bug,Closed,SWATCH,Subscription Watch,software,Done,13/06/2024 15:14,13/06/2024 17:14
+SWATCH-2634,Bug,Backlog,SWATCH,Subscription Watch,software,,12/06/2024 14:41,
+SWATCH-2627,Bug,Closed,SWATCH,Subscription Watch,software,Done,11/06/2024 15:07,11/06/2024 22:39
+SWATCH-2624,Task,Closed,SWATCH,Subscription Watch,software,Done,11/06/2024 08:23,13/06/2024 05:52
+SWATCH-2620,Task,Backlog,SWATCH,Subscription Watch,software,,07/06/2024 18:52,
+SWATCH-2611,Story,Closed,SWATCH,Subscription Watch,software,Done,05/06/2024 15:18,07/10/2024 05:20
+SWATCH-2609,Story,Backlog,SWATCH,Subscription Watch,software,,04/06/2024 16:54,
+SWATCH-2604,Task,Closed,SWATCH,Subscription Watch,software,Done,31/05/2024 12:25,30/07/2024 17:42
+SWATCH-2601,Bug,Closed,SWATCH,Subscription Watch,software,Done,30/05/2024 18:12,11/06/2024 13:44
+SWATCH-2595,Task,Closed,SWATCH,Subscription Watch,software,Done,29/05/2024 18:07,11/06/2024 22:07
+SWATCH-2587,Bug,Closed,SWATCH,Subscription Watch,software,Not a Bug,27/05/2024 12:03,02/06/2024 12:50
+SWATCH-2583,Bug,Closed,SWATCH,Subscription Watch,software,Done,23/05/2024 14:15,06/06/2024 15:50
+SWATCH-2581,Task,Closed,SWATCH,Subscription Watch,software,Done,23/05/2024 08:46,05/06/2024 13:21
+SWATCH-2571,Story,Closed,SWATCH,Subscription Watch,software,Done,20/05/2024 17:16,16/08/2024 07:18
+SWATCH-2569,Story,Closed,SWATCH,Subscription Watch,software,Done,20/05/2024 17:08,01/07/2024 10:26
+SWATCH-2560,Bug,Closed,SWATCH,Subscription Watch,software,Done,16/05/2024 20:29,20/05/2024 18:34
+SWATCH-2558,Story,Closed,SWATCH,Subscription Watch,software,Done,15/05/2024 17:19,22/08/2024 12:30
+SWATCH-2551,Task,Closed,SWATCH,Subscription Watch,software,Done,14/05/2024 18:18,15/07/2024 14:22
+SWATCH-2545,Task,Backlog,SWATCH,Subscription Watch,software,,13/05/2024 13:58,
+SWATCH-2539,Task,Closed,SWATCH,Subscription Watch,software,Done,10/05/2024 13:08,19/06/2024 12:36
+SWATCH-2533,Bug,Closed,SWATCH,Subscription Watch,software,Done,09/05/2024 12:25,16/08/2024 15:50
+SWATCH-2532,Task,Closed,SWATCH,Subscription Watch,software,Done,08/05/2024 15:35,13/06/2024 12:48
+SWATCH-2531,Task,Closed,SWATCH,Subscription Watch,software,Done,08/05/2024 14:51,21/05/2024 13:56
+SWATCH-2523,Bug,Closed,SWATCH,Subscription Watch,software,Done,06/05/2024 18:28,29/05/2024 04:44
+SWATCH-2522,Bug,Closed,SWATCH,Subscription Watch,software,Done,06/05/2024 15:51,04/06/2024 13:50
+SWATCH-2521,Story,Closed,SWATCH,Subscription Watch,software,Done,06/05/2024 14:45,18/06/2024 14:31
+SWATCH-2518,Bug,Closed,SWATCH,Subscription Watch,software,Done,06/05/2024 11:50,30/05/2024 03:19
+SWATCH-2515,Story,Closed,SWATCH,Subscription Watch,software,Duplicate,03/05/2024 18:44,06/05/2024 17:24
+SWATCH-2514,Bug,Closed,SWATCH,Subscription Watch,software,Done,03/05/2024 15:51,08/07/2024 12:08
+SWATCH-2512,Story,Closed,SWATCH,Subscription Watch,software,Won't Do,23/04/2024 13:06,06/05/2024 17:34
+SWATCH-2509,Task,Closed,SWATCH,Subscription Watch,software,Done,30/04/2024 16:02,07/05/2024 12:46
+SWATCH-2507,Task,Closed,SWATCH,Subscription Watch,software,Won't Do,30/04/2024 13:05,24/07/2024 08:56
+SWATCH-2505,Story,Closed,SWATCH,Subscription Watch,software,Done,29/04/2024 17:35,06/09/2024 08:51
+SWATCH-2504,Bug,Closed,SWATCH,Subscription Watch,software,Done,29/04/2024 17:15,09/05/2024 20:48
+SWATCH-2503,Story,Closed,SWATCH,Subscription Watch,software,Done,29/04/2024 15:55,23/07/2024 13:18
+SWATCH-2493,Task,Closed,SWATCH,Subscription Watch,software,Done,26/04/2024 13:42,22/05/2024 12:58
+SWATCH-2478,Bug,Closed,SWATCH,Subscription Watch,software,Done,23/04/2024 14:31,28/05/2024 13:22
+SWATCH-2476,Task,Closed,SWATCH,Subscription Watch,software,Done,23/04/2024 08:25,01/07/2024 12:25
+SWATCH-2473,Bug,Closed,SWATCH,Subscription Watch,software,Done,22/04/2024 12:50,07/05/2024 12:59
+SWATCH-2470,Story,Backlog,SWATCH,Subscription Watch,software,,18/04/2024 21:54,
+SWATCH-2464,Bug,Closed,SWATCH,Subscription Watch,software,Done,17/04/2024 19:50,19/04/2024 16:45
+SWATCH-2462,Bug,Closed,SWATCH,Subscription Watch,software,Done,17/04/2024 14:44,18/07/2024 13:20
+SWATCH-2461,Task,Closed,SWATCH,Subscription Watch,software,Done,17/04/2024 13:21,22/04/2024 16:29
+SWATCH-2460,Task,Closed,SWATCH,Subscription Watch,software,Done,17/04/2024 13:15,22/04/2024 05:10
+SWATCH-2453,Task,Closed,SWATCH,Subscription Watch,software,Done,17/04/2024 05:44,22/04/2024 13:34
+SWATCH-2451,Task,Closed,SWATCH,Subscription Watch,software,Done,16/04/2024 15:01,20/05/2024 13:16
+SWATCH-2432,Story,Closed,SWATCH,Subscription Watch,software,Obsolete,09/04/2024 21:00,11/04/2024 12:08
+SWATCH-2431,Story,Closed,SWATCH,Subscription Watch,software,Obsolete,09/04/2024 20:47,11/04/2024 12:09
+SWATCH-2428,Task,Closed,SWATCH,Subscription Watch,software,Done,09/04/2024 14:48,11/04/2024 17:57
+SWATCH-2423,Story,Closed,SWATCH,Subscription Watch,software,Done,08/04/2024 15:45,11/04/2024 12:41
+SWATCH-2421,Task,Closed,SWATCH,Subscription Watch,software,Done,05/04/2024 14:56,11/04/2024 17:58
+SWATCH-2420,Task,Backlog,SWATCH,Subscription Watch,software,,05/04/2024 13:40,
+SWATCH-2419,Task,Backlog,SWATCH,Subscription Watch,software,,05/04/2024 13:38,
+SWATCH-2418,Task,Backlog,SWATCH,Subscription Watch,software,,05/04/2024 13:35,
+SWATCH-2417,Task,Backlog,SWATCH,Subscription Watch,software,,05/04/2024 13:33,
+SWATCH-2416,Epic,Backlog,SWATCH,Subscription Watch,software,,05/04/2024 13:21,
+SWATCH-2414,Story,Backlog,SWATCH,Subscription Watch,software,,04/04/2024 15:00,
+SWATCH-2413,Task,Closed,SWATCH,Subscription Watch,software,Done,04/04/2024 13:40,17/04/2024 14:27
+SWATCH-2412,Task,Closed,SWATCH,Subscription Watch,software,Done,04/04/2024 13:35,11/04/2024 06:19
+SWATCH-2409,Bug,Backlog,SWATCH,Subscription Watch,software,,04/04/2024 06:31,
+SWATCH-2405,Story,Closed,SWATCH,Subscription Watch,software,Done,03/04/2024 13:40,24/06/2024 20:12
+SWATCH-2404,Story,Closed,SWATCH,Subscription Watch,software,Done,03/04/2024 13:38,13/06/2024 01:21
+SWATCH-2397,Story,Closed,SWATCH,Subscription Watch,software,Done,02/04/2024 16:03,16/08/2024 15:16
+SWATCH-2396,Story,Closed,SWATCH,Subscription Watch,software,Done,02/04/2024 16:02,16/08/2024 15:16
+SWATCH-2390,Bug,Closed,SWATCH,Subscription Watch,software,Done,01/04/2024 16:08,02/04/2024 15:19
+SWATCH-2379,Story,Backlog,SWATCH,Subscription Watch,software,,26/03/2024 20:22,
+SWATCH-2378,Story,Backlog,SWATCH,Subscription Watch,software,,26/03/2024 20:16,
+SWATCH-2377,Story,Backlog,SWATCH,Subscription Watch,software,,26/03/2024 20:07,
+SWATCH-2376,Story,Backlog,SWATCH,Subscription Watch,software,,26/03/2024 20:05,
+SWATCH-2375,Story,Backlog,SWATCH,Subscription Watch,software,,26/03/2024 20:03,
+SWATCH-2374,Story,Backlog,SWATCH,Subscription Watch,software,,26/03/2024 19:59,
+SWATCH-2370,Story,Closed,SWATCH,Subscription Watch,software,Won't Do,26/03/2024 14:07,08/04/2024 15:14
+SWATCH-2368,Story,Closed,SWATCH,Subscription Watch,software,Done,26/03/2024 13:44,06/06/2024 07:19
+SWATCH-2366,Task,Closed,SWATCH,Subscription Watch,software,Done,26/03/2024 05:47,26/03/2024 06:34
+SWATCH-2364,Story,Closed,SWATCH,Subscription Watch,software,Done,25/03/2024 18:58,24/04/2024 20:09
+SWATCH-2363,Story,Backlog,SWATCH,Subscription Watch,software,,25/03/2024 18:57,
+SWATCH-2360,Story,Closed,SWATCH,Subscription Watch,software,Done,22/03/2024 19:39,13/06/2024 01:21
+SWATCH-2357,Bug,Closed,SWATCH,Subscription Watch,software,Done,22/03/2024 15:55,09/04/2024 15:05
+SWATCH-2356,Task,Closed,SWATCH,Subscription Watch,software,Done,22/03/2024 10:06,02/05/2024 05:54
+SWATCH-2354,Bug,Closed,SWATCH,Subscription Watch,software,Not a Bug,22/03/2024 03:35,02/04/2024 13:59
+SWATCH-2353,Story,Closed,SWATCH,Subscription Watch,software,Done,21/03/2024 14:40,10/07/2024 14:55
+SWATCH-2345,Bug,Closed,SWATCH,Subscription Watch,software,Done,20/03/2024 18:56,26/03/2024 20:31
+SWATCH-2343,Epic,Backlog,SWATCH,Subscription Watch,software,,20/03/2024 13:46,
+SWATCH-2333,Bug,Closed,SWATCH,Subscription Watch,software,Done,18/03/2024 18:43,06/05/2024 10:32
+SWATCH-2329,Task,Closed,SWATCH,Subscription Watch,software,Done,15/03/2024 09:55,18/03/2024 16:49
+SWATCH-2328,Story,Closed,SWATCH,Subscription Watch,software,Done,15/03/2024 09:09,25/04/2024 05:51
+SWATCH-2327,Task,Closed,SWATCH,Subscription Watch,software,Duplicate,15/03/2024 08:48,18/03/2024 13:32
+SWATCH-2323,Story,Closed,SWATCH,Subscription Watch,software,Done,14/03/2024 07:11,02/07/2024 18:15
+SWATCH-2322,Task,Closed,SWATCH,Subscription Watch,software,Done,12/03/2024 17:11,14/03/2024 14:45
+SWATCH-2319,Story,Closed,SWATCH,Subscription Watch,software,Done,12/03/2024 14:20,29/03/2024 16:44
+SWATCH-2318,Story,Closed,SWATCH,Subscription Watch,software,Done,12/03/2024 13:51,10/04/2024 17:14
+SWATCH-2317,Story,Closed,SWATCH,Subscription Watch,software,Done,12/03/2024 13:45,04/04/2024 04:42
+SWATCH-2316,Task,Backlog,SWATCH,Subscription Watch,software,,11/03/2024 16:44,
+SWATCH-2315,Task,Backlog,SWATCH,Subscription Watch,software,,11/03/2024 16:42,
+SWATCH-2314,Task,Backlog,SWATCH,Subscription Watch,software,,11/03/2024 16:29,
+SWATCH-2313,Task,Backlog,SWATCH,Subscription Watch,software,,11/03/2024 16:28,
+SWATCH-2312,Story,Backlog,SWATCH,Subscription Watch,software,,11/03/2024 16:10,
+SWATCH-2311,Story,Backlog,SWATCH,Subscription Watch,software,,11/03/2024 16:09,
+SWATCH-2310,Story,Backlog,SWATCH,Subscription Watch,software,,11/03/2024 16:08,
+SWATCH-2309,Story,Backlog,SWATCH,Subscription Watch,software,,11/03/2024 16:08,
+SWATCH-2308,Story,Backlog,SWATCH,Subscription Watch,software,,11/03/2024 16:07,
+SWATCH-2307,Epic,Backlog,SWATCH,Subscription Watch,software,,11/03/2024 16:00,
+SWATCH-2306,Story,Backlog,SWATCH,Subscription Watch,software,,11/03/2024 15:59,
+SWATCH-2305,Story,Backlog,SWATCH,Subscription Watch,software,,11/03/2024 15:57,
+SWATCH-2304,Story,Review,SWATCH,Subscription Watch,software,,11/03/2024 15:55,
+SWATCH-2303,Story,Review,SWATCH,Subscription Watch,software,,11/03/2024 15:52,
+SWATCH-2302,Story,In Progress,SWATCH,Subscription Watch,software,,11/03/2024 15:51,
+SWATCH-2301,Story,In Progress,SWATCH,Subscription Watch,software,,11/03/2024 15:50,
+SWATCH-2300,Story,In Progress,SWATCH,Subscription Watch,software,,11/03/2024 15:48,
+SWATCH-2299,Story,Release Pending,SWATCH,Subscription Watch,software,Done,11/03/2024 15:47,04/11/2024 21:20
+SWATCH-2298,Task,Backlog,SWATCH,Subscription Watch,software,,11/03/2024 15:43,
+SWATCH-2297,Story,Release Pending,SWATCH,Subscription Watch,software,Done,11/03/2024 15:41,30/10/2024 12:57
+SWATCH-2296,Task,Backlog,SWATCH,Subscription Watch,software,,11/03/2024 15:38,
+SWATCH-2295,Task,Closed,SWATCH,Subscription Watch,software,Duplicate,11/03/2024 15:36,11/07/2024 09:44
+SWATCH-2294,Task,Closed,SWATCH,Subscription Watch,software,Duplicate,11/03/2024 15:35,11/07/2024 09:46
+SWATCH-2293,Epic,In Progress,SWATCH,Subscription Watch,software,,11/03/2024 15:34,
+SWATCH-2292,Task,Closed,SWATCH,Subscription Watch,software,Duplicate,11/03/2024 15:33,11/07/2024 09:45
+SWATCH-2291,Story,Closed,SWATCH,Subscription Watch,software,Done,11/03/2024 15:29,28/08/2024 17:56
+SWATCH-2290,Story,Closed,SWATCH,Subscription Watch,software,Done,11/03/2024 15:29,28/08/2024 15:00
+SWATCH-2289,Story,Closed,SWATCH,Subscription Watch,software,Done,11/03/2024 15:29,12/06/2024 13:33
+SWATCH-2288,Story,Closed,SWATCH,Subscription Watch,software,Done,11/03/2024 15:27,23/04/2024 15:33
+SWATCH-2287,Story,Closed,SWATCH,Subscription Watch,software,Done,11/03/2024 15:27,22/04/2024 15:12
+SWATCH-2286,Story,Closed,SWATCH,Subscription Watch,software,Done,11/03/2024 15:26,20/03/2024 05:56
+SWATCH-2285,Story,Closed,SWATCH,Subscription Watch,software,Done,11/03/2024 15:26,09/04/2024 09:50
+SWATCH-2284,Epic,In Progress,SWATCH,Subscription Watch,software,,11/03/2024 15:25,
+SWATCH-2283,Task,Closed,SWATCH,Subscription Watch,software,Obsolete,11/03/2024 15:25,26/08/2024 20:53
+SWATCH-2282,Task,Closed,SWATCH,Subscription Watch,software,Done,11/03/2024 15:22,19/09/2024 14:52
+SWATCH-2281,Task,Closed,SWATCH,Subscription Watch,software,Duplicate,11/03/2024 15:17,10/07/2024 20:46
+SWATCH-2280,Task,Closed,SWATCH,Subscription Watch,software,Done,11/03/2024 15:16,01/08/2024 08:14
+SWATCH-2279,Task,Closed,SWATCH,Subscription Watch,software,Done,11/03/2024 15:12,03/07/2024 04:53
+SWATCH-2278,Task,Closed,SWATCH,Subscription Watch,software,Done,11/03/2024 15:11,02/05/2024 17:57
+SWATCH-2277,Task,Closed,SWATCH,Subscription Watch,software,Done,11/03/2024 15:02,04/04/2024 17:53
+SWATCH-2276,Task,Closed,SWATCH,Subscription Watch,software,Done,11/03/2024 15:01,27/03/2024 14:13
+SWATCH-2275,Task,Closed,SWATCH,Subscription Watch,software,Done,11/03/2024 14:52,16/04/2024 06:10
+SWATCH-2270,Task,Closed,SWATCH,Subscription Watch,software,Done,07/03/2024 19:41,20/03/2024 20:37
+SWATCH-2269,Bug,Closed,SWATCH,Subscription Watch,software,Done,06/03/2024 14:40,06/03/2024 21:34
+SWATCH-2266,Bug,Closed,SWATCH,Subscription Watch,software,Done,05/03/2024 00:19,01/05/2024 13:44
+SWATCH-2265,Task,Closed,SWATCH,Subscription Watch,software,Done,04/03/2024 12:38,03/04/2024 06:06
+SWATCH-2259,Task,Closed,SWATCH,Subscription Watch,software,Done,04/03/2024 07:18,04/03/2024 09:42
+SWATCH-2253,Task,Closed,SWATCH,Subscription Watch,software,Done,29/02/2024 15:52,01/03/2024 08:35
+SWATCH-2247,Epic,Backlog,SWATCH,Subscription Watch,software,,28/02/2024 11:36,
+SWATCH-2246,Task,Closed,SWATCH,Subscription Watch,software,Done,27/02/2024 18:46,01/04/2024 18:07
+SWATCH-2245,Story,Closed,SWATCH,Subscription Watch,software,Done,27/02/2024 16:26,14/03/2024 15:08
+SWATCH-2235,Task,Closed,SWATCH,Subscription Watch,software,Done,22/02/2024 14:01,14/03/2024 09:05
+SWATCH-2227,Task,Closed,SWATCH,Subscription Watch,software,Won't Do,20/02/2024 06:07,26/02/2024 18:13
+SWATCH-2226,Bug,Closed,SWATCH,Subscription Watch,software,Done,19/02/2024 16:28,29/02/2024 21:26
+SWATCH-2224,Task,Closed,SWATCH,Subscription Watch,software,Obsolete,16/02/2024 17:18,01/04/2024 17:55
+SWATCH-2217,Story,Closed,SWATCH,Subscription Watch,software,Done,16/02/2024 15:04,04/06/2024 17:28
+SWATCH-2211,Epic,Backlog,SWATCH,Subscription Watch,software,,12/02/2024 15:16,
+SWATCH-2206,Bug,Closed,SWATCH,Subscription Watch,software,Done,08/02/2024 18:46,13/02/2024 14:08
+SWATCH-2204,Story,Backlog,SWATCH,Subscription Watch,software,,07/06/2023 20:09,
+SWATCH-2201,Bug,Closed,SWATCH,Subscription Watch,software,Done,07/02/2024 21:44,22/02/2024 05:51
+SWATCH-2200,Story,Closed,SWATCH,Subscription Watch,software,Done,07/02/2024 16:30,07/03/2024 20:30
+SWATCH-2198,Story,Closed,SWATCH,Subscription Watch,software,Duplicate,07/02/2024 14:16,12/02/2024 19:15
+SWATCH-2192,Task,Closed,SWATCH,Subscription Watch,software,Done,07/02/2024 08:29,08/02/2024 17:26
+SWATCH-2186,Story,Closed,SWATCH,Subscription Watch,software,Done,05/02/2024 22:20,20/03/2024 06:01
+SWATCH-2183,Story,Closed,SWATCH,Subscription Watch,software,Done,05/02/2024 16:04,08/02/2024 20:01
+SWATCH-2182,Story,Backlog,SWATCH,Subscription Watch,software,,05/02/2024 15:18,
+SWATCH-2174,Task,Closed,SWATCH,Subscription Watch,software,Won't Do,02/02/2024 18:31,27/02/2024 14:22
+SWATCH-2173,Task,Closed,SWATCH,Subscription Watch,software,Done,02/02/2024 01:01,26/03/2024 20:31
+SWATCH-2170,Task,Closed,SWATCH,Subscription Watch,software,Done,01/02/2024 15:24,22/02/2024 06:37
+SWATCH-2164,Task,Closed,SWATCH,Subscription Watch,software,Can't Do,31/01/2024 06:18,20/02/2024 14:27
+SWATCH-2161,Task,Closed,SWATCH,Subscription Watch,software,Done,30/01/2024 07:29,27/02/2024 05:50
+SWATCH-2160,Task,Closed,SWATCH,Subscription Watch,software,Done,30/01/2024 05:47,17/09/2024 16:06
+SWATCH-2158,Bug,Closed,SWATCH,Subscription Watch,software,Done,29/01/2024 20:10,07/02/2024 16:30
+SWATCH-2153,Bug,Closed,SWATCH,Subscription Watch,software,Done,26/01/2024 17:48,12/02/2024 13:14
+SWATCH-2152,Story,Closed,SWATCH,Subscription Watch,software,Not a Bug,26/01/2024 16:30,01/02/2024 16:07
+SWATCH-2149,Story,Closed,SWATCH,Subscription Watch,software,Duplicate,25/01/2024 15:43,01/02/2024 20:42
+SWATCH-2147,Story,Backlog,SWATCH,Subscription Watch,software,,24/01/2024 22:08,
+SWATCH-2146,Story,Backlog,SWATCH,Subscription Watch,software,,24/01/2024 22:06,
+SWATCH-2144,Story,Closed,SWATCH,Subscription Watch,software,Done,24/01/2024 21:56,05/03/2024 05:51
+SWATCH-2141,Task,Closed,SWATCH,Subscription Watch,software,Done,24/01/2024 14:42,01/02/2024 09:32
+SWATCH-2135,Story,Closed,SWATCH,Subscription Watch,software,Done,23/01/2024 15:56,13/02/2024 18:51
+SWATCH-2134,Task,Closed,SWATCH,Subscription Watch,software,Obsolete,23/01/2024 15:41,29/02/2024 06:43
+SWATCH-2133,Task,Backlog,SWATCH,Subscription Watch,software,,23/01/2024 15:37,
+SWATCH-2118,Bug,Closed,SWATCH,Subscription Watch,software,Done,19/01/2024 16:22,23/01/2024 14:14
+SWATCH-2115,Task,Closed,SWATCH,Subscription Watch,software,Done,18/01/2024 15:54,20/03/2024 18:38
+SWATCH-2106,Task,Closed,SWATCH,Subscription Watch,software,Done,17/01/2024 05:48,13/03/2024 13:05
+SWATCH-2105,Bug,Closed,SWATCH,Subscription Watch,software,Done,15/01/2024 20:47,24/01/2024 18:25
+SWATCH-2104,Bug,Closed,SWATCH,Subscription Watch,software,Done,15/01/2024 19:57,09/02/2024 09:16
+SWATCH-2103,Story,Closed,SWATCH,Subscription Watch,software,Done,15/01/2024 18:18,16/01/2024 14:50
+SWATCH-2102,Story,Closed,SWATCH,Subscription Watch,software,Done,15/01/2024 17:35,20/02/2024 21:20
+SWATCH-2101,Story,Closed,SWATCH,Subscription Watch,software,Done,15/01/2024 17:28,08/02/2024 06:04
+SWATCH-2100,Story,Closed,SWATCH,Subscription Watch,software,Done,15/01/2024 17:20,02/02/2024 14:56
+SWATCH-2099,Story,Closed,SWATCH,Subscription Watch,software,Done,15/01/2024 17:16,25/01/2024 08:56
+SWATCH-2095,Task,Closed,SWATCH,Subscription Watch,software,Done,11/01/2024 17:02,16/01/2024 18:47
+SWATCH-2094,Task,Backlog,SWATCH,Subscription Watch,software,,11/01/2024 14:17,
+SWATCH-2091,Task,Closed,SWATCH,Subscription Watch,software,Done,11/01/2024 06:42,06/03/2024 08:41
+SWATCH-2090,Epic,Closed,SWATCH,Subscription Watch,software,Done,11/01/2024 06:19,10/04/2024 05:04
+SWATCH-2089,Task,Closed,SWATCH,Subscription Watch,software,Done,10/01/2024 20:18,07/02/2024 15:32
+SWATCH-2088,Bug,Closed,SWATCH,Subscription Watch,software,Done,10/01/2024 19:38,23/01/2024 14:16
+SWATCH-2083,Bug,Closed,SWATCH,Subscription Watch,software,Done,09/01/2024 14:04,01/02/2024 16:07
+SWATCH-2076,Story,Closed,SWATCH,Subscription Watch,software,Done,05/01/2024 18:58,05/02/2024 14:01
+SWATCH-2075,Story,Closed,SWATCH,Subscription Watch,software,Obsolete,05/01/2024 17:37,17/01/2024 14:29
+SWATCH-2070,Bug,Backlog,SWATCH,Subscription Watch,software,,02/01/2024 18:52,
+SWATCH-2069,Bug,Closed,SWATCH,Subscription Watch,software,Done,02/01/2024 18:41,23/01/2024 10:58
+SWATCH-2067,Story,Closed,SWATCH,Subscription Watch,software,Duplicate,21/12/2023 10:41,15/01/2024 18:13
+SWATCH-2064,Bug,Closed,SWATCH,Subscription Watch,software,Done,30/12/2023 02:06,13/05/2024 17:27
+SWATCH-2062,Task,Closed,SWATCH,Subscription Watch,software,Done,22/12/2023 06:28,04/01/2024 20:09
+SWATCH-2061,Story,Closed,SWATCH,Subscription Watch,software,Done,21/12/2023 15:32,03/01/2024 18:11
+SWATCH-2058,Task,Closed,SWATCH,Subscription Watch,software,Done,21/12/2023 07:10,08/01/2024 14:33
+SWATCH-2056,Story,Closed,SWATCH,Subscription Watch,software,Done,20/12/2023 14:48,04/03/2024 21:58
+SWATCH-2055,Story,Closed,SWATCH,Subscription Watch,software,Won't Do,20/12/2023 13:59,02/01/2024 14:20
+SWATCH-2053,Task,Closed,SWATCH,Subscription Watch,software,Done,19/12/2023 13:31,22/03/2024 07:42
+SWATCH-2048,Task,Closed,SWATCH,Subscription Watch,software,Done,15/12/2023 16:53,20/12/2023 18:07
+SWATCH-2045,Bug,Backlog,SWATCH,Subscription Watch,software,,14/12/2023 21:43,
+SWATCH-2044,Bug,Backlog,SWATCH,Subscription Watch,software,,14/12/2023 19:01,
+SWATCH-2043,Bug,Closed,SWATCH,Subscription Watch,software,Done,14/12/2023 18:56,04/01/2024 17:00
+SWATCH-2042,Task,Closed,SWATCH,Subscription Watch,software,Done,14/12/2023 18:48,01/03/2024 16:28
+SWATCH-2040,Bug,Closed,SWATCH,Subscription Watch,software,Done,14/12/2023 12:33,19/12/2023 07:48
+SWATCH-2039,Task,Closed,SWATCH,Subscription Watch,software,Obsolete,14/12/2023 12:23,15/12/2023 06:19
+SWATCH-2038,Task,Closed,SWATCH,Subscription Watch,software,Done,14/12/2023 12:14,04/04/2024 17:53
+SWATCH-2037,Task,Closed,SWATCH,Subscription Watch,software,Done,14/12/2023 12:11,10/04/2024 05:04
+SWATCH-2036,Task,Closed,SWATCH,Subscription Watch,software,Done,14/12/2023 12:00,15/12/2023 05:16
+SWATCH-2035,Task,Closed,SWATCH,Subscription Watch,software,Done,13/12/2023 06:33,18/12/2023 06:29
+SWATCH-2032,Task,Backlog,SWATCH,Subscription Watch,software,,11/12/2023 06:05,
+SWATCH-2026,Task,Closed,SWATCH,Subscription Watch,software,Done,07/12/2023 17:56,12/03/2024 14:08
+SWATCH-2025,Task,Backlog,SWATCH,Subscription Watch,software,,07/12/2023 17:56,
+SWATCH-2024,Story,Closed,SWATCH,Subscription Watch,software,Done,07/12/2023 17:56,21/03/2024 14:44
+SWATCH-2023,Story,Closed,SWATCH,Subscription Watch,software,Done,07/12/2023 17:55,29/04/2024 08:54
+SWATCH-2021,Story,Closed,SWATCH,Subscription Watch,software,Done,07/12/2023 17:54,02/04/2024 11:34
+SWATCH-2020,Story,Closed,SWATCH,Subscription Watch,software,Done,07/12/2023 17:53,11/07/2024 06:17
+SWATCH-2018,Story,Closed,SWATCH,Subscription Watch,software,Done,07/12/2023 17:51,18/04/2024 10:33
+SWATCH-2017,Story,Closed,SWATCH,Subscription Watch,software,Done,07/12/2023 17:50,30/01/2024 19:35
+SWATCH-2016,Bug,Backlog,SWATCH,Subscription Watch,software,,07/12/2023 17:05,
+SWATCH-2009,Bug,Closed,SWATCH,Subscription Watch,software,Done,06/12/2023 19:07,14/12/2023 06:23
+SWATCH-2007,Task,Closed,SWATCH,Subscription Watch,software,Done,06/12/2023 16:56,12/12/2023 14:09
+SWATCH-2006,Story,Closed,SWATCH,Subscription Watch,software,Done,06/12/2023 15:10,13/12/2023 20:29
+SWATCH-2005,Task,Backlog,SWATCH,Subscription Watch,software,,06/12/2023 14:00,
+SWATCH-2004,Task,Closed,SWATCH,Subscription Watch,software,Done,05/12/2023 21:19,12/12/2023 14:10
+SWATCH-1999,Story,Release Pending,SWATCH,Subscription Watch,software,Done,05/12/2023 16:51,29/03/2024 17:25
+SWATCH-1997,Bug,Closed,SWATCH,Subscription Watch,software,Done,04/12/2023 21:40,22/12/2023 13:06
+SWATCH-1996,Task,Closed,SWATCH,Subscription Watch,software,Obsolete,04/12/2023 19:48,19/03/2024 12:51
+SWATCH-1993,Story,Closed,SWATCH,Subscription Watch,software,Obsolete,04/12/2023 14:27,04/09/2024 16:30
+SWATCH-1987,Story,Closed,SWATCH,Subscription Watch,software,Done,01/12/2023 19:55,23/01/2024 15:57
+SWATCH-1985,Bug,Closed,SWATCH,Subscription Watch,software,Done,01/12/2023 15:49,01/12/2023 19:34
+SWATCH-1984,Bug,Backlog,SWATCH,Subscription Watch,software,,01/12/2023 02:08,
+SWATCH-1982,Task,Closed,SWATCH,Subscription Watch,software,Done,30/11/2023 13:45,06/06/2024 07:14
+SWATCH-1981,Task,Closed,SWATCH,Subscription Watch,software,Done,30/11/2023 13:43,06/06/2024 07:14
+SWATCH-1980,Task,Backlog,SWATCH,Subscription Watch,software,,30/11/2023 13:41,
+SWATCH-1979,Task,Closed,SWATCH,Subscription Watch,software,Done,30/11/2023 13:37,06/06/2024 07:13
+SWATCH-1978,Story,Closed,SWATCH,Subscription Watch,software,Done,30/11/2023 12:49,12/12/2023 10:43
+SWATCH-1976,Task,Closed,SWATCH,Subscription Watch,software,Done,30/11/2023 09:51,06/12/2023 17:04
+SWATCH-1975,Task,Closed,SWATCH,Subscription Watch,software,Done,30/11/2023 09:40,30/11/2023 17:43
+SWATCH-1973,Task,Closed,SWATCH,Subscription Watch,software,Done,29/11/2023 19:48,04/12/2023 15:27
+SWATCH-1972,Task,Closed,SWATCH,Subscription Watch,software,Done,29/11/2023 15:00,04/09/2024 19:32
+SWATCH-1971,Task,Backlog,SWATCH,Subscription Watch,software,,29/11/2023 14:31,
+SWATCH-1970,Story,Closed,SWATCH,Subscription Watch,software,Done,28/11/2023 21:49,29/01/2024 18:03
+SWATCH-1969,Task,Closed,SWATCH,Subscription Watch,software,Done,28/11/2023 21:41,10/01/2024 17:41
+SWATCH-1968,Task,Closed,SWATCH,Subscription Watch,software,Done,28/11/2023 21:40,10/01/2024 16:56
+SWATCH-1966,Task,Closed,SWATCH,Subscription Watch,software,Done,28/11/2023 21:39,04/01/2024 22:24
+SWATCH-1965,Bug,Closed,SWATCH,Subscription Watch,software,Done,28/11/2023 18:09,01/12/2023 14:12
+SWATCH-1964,Epic,Closed,SWATCH,Subscription Watch,software,Done,28/11/2023 15:13,02/04/2024 15:43
+SWATCH-1957,Story,Closed,SWATCH,Subscription Watch,software,Done,27/11/2023 19:07,02/04/2024 15:43
+SWATCH-1956,Story,Closed,SWATCH,Subscription Watch,software,Done,27/11/2023 17:09,22/01/2024 05:55
+SWATCH-1950,Task,Closed,SWATCH,Subscription Watch,software,Done,24/11/2023 09:57,29/11/2023 14:03
+SWATCH-1948,Task,Closed,SWATCH,Subscription Watch,software,Done,21/11/2023 22:43,27/11/2023 06:49
+SWATCH-1947,Task,Closed,SWATCH,Subscription Watch,software,Done,20/11/2023 19:54,20/05/2024 14:44
+SWATCH-1945,Task,Closed,SWATCH,Subscription Watch,software,Done,20/11/2023 04:33,12/12/2023 14:08
+SWATCH-1937,Story,Closed,SWATCH,Subscription Watch,software,Done,16/11/2023 18:30,11/03/2024 12:45
+SWATCH-1934,Task,Closed,SWATCH,Subscription Watch,software,Done,15/11/2023 14:36,08/01/2024 11:16
+SWATCH-1933,Task,Closed,SWATCH,Subscription Watch,software,Can't Do,15/11/2023 14:18,29/11/2023 17:02
+SWATCH-1929,Story,Closed,SWATCH,Subscription Watch,software,Done,14/11/2023 21:30,19/02/2024 10:48
+SWATCH-1928,Story,Closed,SWATCH,Subscription Watch,software,Done,14/11/2023 14:57,05/12/2023 15:25
+SWATCH-1925,Bug,Backlog,SWATCH,Subscription Watch,software,,14/11/2023 12:30,
+SWATCH-1924,Story,Closed,SWATCH,Subscription Watch,software,Done,13/11/2023 18:06,10/01/2024 17:47
+SWATCH-1922,Story,Backlog,SWATCH,Subscription Watch,software,,13/11/2023 15:42,
+SWATCH-1921,Task,Closed,SWATCH,Subscription Watch,software,Done,13/11/2023 12:56,13/11/2023 12:57
+SWATCH-1920,Task,Closed,SWATCH,Subscription Watch,software,Done,13/11/2023 12:55,13/11/2023 12:57
+SWATCH-1919,Task,Closed,SWATCH,Subscription Watch,software,Done,13/11/2023 12:54,13/11/2023 12:58
+SWATCH-1918,Story,Backlog,SWATCH,Subscription Watch,software,,09/11/2023 21:02,
+SWATCH-1913,Task,Closed,SWATCH,Subscription Watch,software,Done,07/11/2023 19:13,07/11/2023 20:03
+SWATCH-1912,Story,Closed,SWATCH,Subscription Watch,software,Done,07/11/2023 16:32,22/01/2024 11:32
+SWATCH-1911,Story,Closed,SWATCH,Subscription Watch,software,Done,07/11/2023 16:19,16/01/2024 07:19
+SWATCH-1910,Task,Closed,SWATCH,Subscription Watch,software,Done,06/11/2023 14:18,19/01/2024 14:33
+SWATCH-1909,Task,Closed,SWATCH,Subscription Watch,software,Done,06/11/2023 12:27,07/11/2023 13:55
+SWATCH-1905,Task,Closed,SWATCH,Subscription Watch,software,Done,03/11/2023 06:33,13/11/2023 19:06
+SWATCH-1904,Task,Backlog,SWATCH,Subscription Watch,software,,03/11/2023 05:48,
+SWATCH-1901,Task,Closed,SWATCH,Subscription Watch,software,Done,01/11/2023 13:56,08/11/2023 12:35
+SWATCH-1900,Task,Closed,SWATCH,Subscription Watch,software,Done,01/11/2023 13:51,08/11/2023 12:37
+SWATCH-1895,Epic,Backlog,SWATCH,Subscription Watch,software,,27/10/2023 15:25,
+SWATCH-1892,Task,Closed,SWATCH,Subscription Watch,software,Done,27/10/2023 12:23,06/11/2023 14:02
+SWATCH-1884,Task,Closed,SWATCH,Subscription Watch,software,Done,25/10/2023 11:41,26/10/2023 13:55
+SWATCH-1883,Task,Closed,SWATCH,Subscription Watch,software,Duplicate,25/10/2023 11:35,06/02/2024 14:45
+SWATCH-1881,Task,Closed,SWATCH,Subscription Watch,software,Duplicate,25/10/2023 08:37,03/11/2023 05:54
+SWATCH-1878,Bug,Closed,SWATCH,Subscription Watch,software,Done,24/10/2023 17:38,01/12/2023 17:06
+SWATCH-1877,Story,Backlog,SWATCH,Subscription Watch,software,,24/10/2023 16:11,
+SWATCH-1875,Story,Closed,SWATCH,Subscription Watch,software,Won't Do,23/10/2023 20:19,31/10/2023 11:51
+SWATCH-1874,Story,Closed,SWATCH,Subscription Watch,software,Done,23/10/2023 20:10,05/12/2023 20:39
+SWATCH-1870,Story,Backlog,SWATCH,Subscription Watch,software,,20/10/2023 20:14,
+SWATCH-1869,Epic,Backlog,SWATCH,Subscription Watch,software,,20/10/2023 20:13,
+SWATCH-1868,Story,Closed,SWATCH,Subscription Watch,software,Done,20/10/2023 20:06,08/03/2024 08:32
+SWATCH-1867,Epic,In Progress,SWATCH,Subscription Watch,software,,20/10/2023 20:05,
+SWATCH-1865,Task,Closed,SWATCH,Subscription Watch,software,Done,20/10/2023 15:34,07/11/2023 21:59
+SWATCH-1863,Story,Backlog,SWATCH,Subscription Watch,software,,20/10/2023 13:15,
+SWATCH-1862,Story,Backlog,SWATCH,Subscription Watch,software,,20/10/2023 13:12,
+SWATCH-1860,Epic,Backlog,SWATCH,Subscription Watch,software,,19/10/2023 15:22,
+SWATCH-1859,Story,Backlog,SWATCH,Subscription Watch,software,,19/10/2023 15:15,
+SWATCH-1858,Bug,Closed,SWATCH,Subscription Watch,software,Done,19/10/2023 13:58,20/10/2023 13:19
+SWATCH-1857,Story,Closed,SWATCH,Subscription Watch,software,Done,19/10/2023 13:54,23/10/2023 17:33
+SWATCH-1854,Task,Closed,SWATCH,Subscription Watch,software,Done,18/10/2023 18:25,18/10/2023 18:34
+SWATCH-1852,Bug,Closed,SWATCH,Subscription Watch,software,Done,18/10/2023 13:04,19/10/2023 13:52
+SWATCH-1850,Task,Closed,SWATCH,Subscription Watch,software,Done,18/10/2023 07:21,30/11/2023 13:56
+SWATCH-1849,Task,Closed,SWATCH,Subscription Watch,software,Done,18/10/2023 07:18,17/11/2023 14:00
+SWATCH-1848,Task,Closed,SWATCH,Subscription Watch,software,Done,18/10/2023 07:04,07/11/2023 18:00
+SWATCH-1847,Story,Closed,SWATCH,Subscription Watch,software,Done,17/10/2023 20:28,18/10/2023 14:29
+SWATCH-1841,Task,Backlog,SWATCH,Subscription Watch,software,,17/10/2023 12:05,
+SWATCH-1839,Story,Closed,SWATCH,Subscription Watch,software,Done,16/10/2023 14:48,24/10/2023 13:50
+SWATCH-1838,Story,Closed,SWATCH,Subscription Watch,software,Done,16/10/2023 14:34,16/10/2023 17:58
+SWATCH-1837,Task,Closed,SWATCH,Subscription Watch,software,Can't Do,16/10/2023 11:30,07/02/2024 10:27
+SWATCH-1834,Task,Closed,SWATCH,Subscription Watch,software,Obsolete,13/10/2023 16:14,28/11/2023 15:23
+SWATCH-1820,Task,Closed,SWATCH,Subscription Watch,software,Done,10/10/2023 13:08,20/10/2023 10:06
+SWATCH-1819,Task,Closed,SWATCH,Subscription Watch,software,Done,10/10/2023 13:06,16/10/2023 13:44
+SWATCH-1818,Task,Closed,SWATCH,Subscription Watch,software,Done,09/10/2023 11:20,18/10/2023 05:50
+SWATCH-1811,Task,Closed,SWATCH,Subscription Watch,software,Done,05/10/2023 18:35,13/10/2023 16:09
+SWATCH-1810,Task,Closed,SWATCH,Subscription Watch,software,Done,05/10/2023 14:29,01/11/2023 14:44
+SWATCH-1809,Bug,Closed,SWATCH,Subscription Watch,software,Done,05/10/2023 13:57,09/10/2023 08:11
+SWATCH-1808,Bug,Closed,SWATCH,Subscription Watch,software,Done,04/10/2023 14:50,10/10/2023 17:36
+SWATCH-1807,Story,Closed,SWATCH,Subscription Watch,software,Done,04/10/2023 14:42,05/12/2023 18:45
+SWATCH-1806,Story,Closed,SWATCH,Subscription Watch,software,Done,04/10/2023 14:42,30/11/2023 07:38
+SWATCH-1805,Story,Closed,SWATCH,Subscription Watch,software,Done,04/10/2023 14:41,28/11/2023 08:30
+SWATCH-1804,Story,Closed,SWATCH,Subscription Watch,software,Obsolete,04/10/2023 14:41,14/11/2023 14:45
+SWATCH-1803,Story,Closed,SWATCH,Subscription Watch,software,Obsolete,04/10/2023 14:40,14/11/2023 14:30
+SWATCH-1802,Story,Closed,SWATCH,Subscription Watch,software,Done,04/10/2023 14:39,14/11/2023 18:29
+SWATCH-1801,Story,Closed,SWATCH,Subscription Watch,software,Done,04/10/2023 14:37,17/10/2023 10:43
+SWATCH-1800,Story,Closed,SWATCH,Subscription Watch,software,Done,04/10/2023 14:37,07/11/2023 13:20
+SWATCH-1799,Story,Closed,SWATCH,Subscription Watch,software,Done,04/10/2023 14:34,17/10/2023 10:43
+SWATCH-1797,Task,Closed,SWATCH,Subscription Watch,software,Obsolete,04/10/2023 14:28,14/11/2023 14:24
+SWATCH-1796,Story,Closed,SWATCH,Subscription Watch,software,Obsolete,04/10/2023 14:23,27/11/2023 18:27
+SWATCH-1795,Story,Closed,SWATCH,Subscription Watch,software,Done,04/10/2023 14:22,19/10/2023 04:31
+SWATCH-1794,Epic,Closed,SWATCH,Subscription Watch,software,Done,04/10/2023 14:19,06/12/2023 17:01
+SWATCH-1793,Task,Closed,SWATCH,Subscription Watch,software,Duplicate,04/10/2023 10:39,08/07/2024 13:32
+SWATCH-1792,Story,Closed,SWATCH,Subscription Watch,software,Done,03/10/2023 19:15,10/10/2023 17:39
+SWATCH-1783,Bug,Closed,SWATCH,Subscription Watch,software,Done,29/09/2023 19:17,04/10/2023 17:44
+SWATCH-1782,Task,Closed,SWATCH,Subscription Watch,software,Done,29/09/2023 14:31,30/09/2023 07:38
+SWATCH-1781,Story,Closed,SWATCH,Subscription Watch,software,Done,29/09/2023 14:16,16/01/2024 18:33
+SWATCH-1777,Story,Closed,SWATCH,Subscription Watch,software,Done,28/09/2023 19:08,05/10/2023 18:37
+SWATCH-1776,Story,Closed,SWATCH,Subscription Watch,software,Done,28/09/2023 14:41,10/10/2023 13:09
+SWATCH-1775,Story,Closed,SWATCH,Subscription Watch,software,Done,27/09/2023 17:49,05/10/2023 13:23
+SWATCH-1761,Story,Closed,SWATCH,Subscription Watch,software,Done,22/09/2023 19:38,17/10/2023 13:14
+SWATCH-1760,Story,Closed,SWATCH,Subscription Watch,software,Done,22/09/2023 16:07,10/10/2023 08:13
+SWATCH-1758,Task,Closed,SWATCH,Subscription Watch,software,Done,22/09/2023 12:18,30/01/2024 18:14
+SWATCH-1757,Task,Closed,SWATCH,Subscription Watch,software,Done,22/09/2023 08:45,10/01/2024 16:20
+SWATCH-1756,Task,Closed,SWATCH,Subscription Watch,software,Done,22/09/2023 07:58,23/10/2023 12:51
+SWATCH-1754,Task,Closed,SWATCH,Subscription Watch,software,Done,21/09/2023 19:15,06/10/2023 08:08
+SWATCH-1753,Task,Closed,SWATCH,Subscription Watch,software,Done,21/09/2023 17:30,04/10/2023 09:22
+SWATCH-1752,Story,Closed,SWATCH,Subscription Watch,software,Done,21/09/2023 14:29,22/09/2023 16:07
+SWATCH-1751,Bug,Closed,SWATCH,Subscription Watch,software,Done,20/09/2023 19:05,25/09/2023 15:09
+SWATCH-1747,Story,Closed,SWATCH,Subscription Watch,software,Won't Do,19/09/2023 15:55,05/12/2023 14:47
+SWATCH-1746,Story,Closed,SWATCH,Subscription Watch,software,Duplicate,19/09/2023 13:07,19/09/2023 13:08
+SWATCH-1745,Story,Closed,SWATCH,Subscription Watch,software,Done,19/09/2023 13:02,03/10/2023 05:11
+SWATCH-1739,Story,Closed,SWATCH,Subscription Watch,software,Done,15/09/2023 14:11,21/09/2023 18:00
+SWATCH-1734,Task,Closed,SWATCH,Subscription Watch,software,Done,14/09/2023 05:47,15/09/2023 14:02
+SWATCH-1732,Task,Closed,SWATCH,Subscription Watch,software,Done,13/09/2023 08:45,03/10/2023 18:04
+SWATCH-1731,Task,Closed,SWATCH,Subscription Watch,software,Done,13/09/2023 08:39,29/09/2023 07:06
+SWATCH-1730,Task,Closed,SWATCH,Subscription Watch,software,Done,13/09/2023 08:21,26/09/2023 10:58
+SWATCH-1729,Task,Closed,SWATCH,Subscription Watch,software,Done,13/09/2023 08:11,21/09/2023 08:25
+SWATCH-1725,Task,Closed,SWATCH,Subscription Watch,software,Done,12/09/2023 16:07,04/10/2023 15:56
+SWATCH-1723,Story,Backlog,SWATCH,Subscription Watch,software,,12/09/2023 15:55,
+SWATCH-1722,Story,Closed,SWATCH,Subscription Watch,software,Done,12/09/2023 15:53,03/10/2023 14:22
+SWATCH-1721,Story,Closed,SWATCH,Subscription Watch,software,Won't Do,12/09/2023 15:52,21/09/2023 14:03
+SWATCH-1719,Story,Closed,SWATCH,Subscription Watch,software,Done,12/09/2023 15:50,22/09/2023 17:06
+SWATCH-1718,Story,Closed,SWATCH,Subscription Watch,software,Done,12/09/2023 15:49,02/10/2023 17:35
+SWATCH-1717,Story,Closed,SWATCH,Subscription Watch,software,Done,12/09/2023 15:49,02/10/2023 17:35
+SWATCH-1716,Story,Closed,SWATCH,Subscription Watch,software,Won't Do,12/09/2023 15:47,21/09/2023 14:01
+SWATCH-1702,Story,Backlog,SWATCH,Subscription Watch,software,,08/09/2023 18:24,
+SWATCH-1700,Task,Backlog,SWATCH,Subscription Watch,software,,08/09/2023 13:57,
+SWATCH-1694,Task,Closed,SWATCH,Subscription Watch,software,Done,07/09/2023 14:54,11/09/2023 06:43
+SWATCH-1693,Story,Closed,SWATCH,Subscription Watch,software,Won't Do,07/09/2023 12:45,24/10/2023 17:07
+SWATCH-1691,Story,Closed,SWATCH,Subscription Watch,software,Done,07/09/2023 12:34,06/10/2023 19:57
+SWATCH-1690,Story,Closed,SWATCH,Subscription Watch,software,Done,07/09/2023 12:33,27/09/2023 15:56
+SWATCH-1689,Story,Closed,SWATCH,Subscription Watch,software,Done,06/09/2023 19:14,29/09/2023 14:14
+SWATCH-1684,Story,Closed,SWATCH,Subscription Watch,software,Done,06/09/2023 19:01,17/10/2023 12:23
+SWATCH-1683,Story,Backlog,SWATCH,Subscription Watch,software,,06/09/2023 14:01,
+SWATCH-1678,Task,Closed,SWATCH,Subscription Watch,software,Done,05/09/2023 17:50,13/02/2024 14:21
+SWATCH-1662,Task,Closed,SWATCH,Subscription Watch,software,Done,04/09/2023 10:25,17/10/2023 12:59
+SWATCH-1661,Task,Closed,SWATCH,Subscription Watch,software,Done,04/09/2023 10:20,04/09/2023 10:22
+SWATCH-1659,Epic,Closed,SWATCH,Subscription Watch,software,Done,01/09/2023 09:09,06/06/2024 07:13
+SWATCH-1657,Task,Closed,SWATCH,Subscription Watch,software,Done,01/09/2023 08:19,07/09/2023 17:59
+SWATCH-1653,Story,Closed,SWATCH,Subscription Watch,software,Done,30/08/2023 13:56,12/09/2023 07:04
+SWATCH-1652,Story,Closed,SWATCH,Subscription Watch,software,Done,30/08/2023 13:51,08/09/2023 14:01
+SWATCH-1651,Bug,Closed,SWATCH,Subscription Watch,software,Done,30/08/2023 13:22,08/09/2023 14:01
+SWATCH-1650,Bug,Closed,SWATCH,Subscription Watch,software,Done,30/08/2023 11:04,17/10/2023 16:51
+SWATCH-1646,Story,Closed,SWATCH,Subscription Watch,software,Done,29/08/2023 12:48,30/08/2023 19:46
+SWATCH-1638,Story,Closed,SWATCH,Subscription Watch,software,Done,28/08/2023 15:44,13/09/2023 19:25
+SWATCH-1630,Story,Closed,SWATCH,Subscription Watch,software,Done,25/08/2023 20:14,06/09/2023 17:33
+SWATCH-1629,Story,Closed,SWATCH,Subscription Watch,software,Done,25/08/2023 15:39,12/09/2023 14:16
+SWATCH-1625,Task,Closed,SWATCH,Subscription Watch,software,Done,24/08/2023 15:40,31/08/2023 12:37
+SWATCH-1624,Story,Closed,SWATCH,Subscription Watch,software,Done,24/08/2023 14:50,17/10/2023 05:04
+SWATCH-1622,Task,Closed,SWATCH,Subscription Watch,software,Done,24/08/2023 12:38,07/05/2024 13:14
+SWATCH-1620,Story,Closed,SWATCH,Subscription Watch,software,Duplicate,23/08/2023 14:59,30/10/2023 06:06
+SWATCH-1614,Task,Closed,SWATCH,Subscription Watch,software,Done,22/08/2023 12:27,13/10/2023 13:06
+SWATCH-1613,Task,Closed,SWATCH,Subscription Watch,software,Done,22/08/2023 07:38,04/09/2023 07:29
+SWATCH-1606,Story,Closed,SWATCH,Subscription Watch,software,Won't Do,15/08/2023 13:37,05/12/2023 14:55
+SWATCH-1605,Task,Closed,SWATCH,Subscription Watch,software,Done,14/08/2023 15:07,22/08/2023 18:59
+SWATCH-1594,Story,Closed,SWATCH,Subscription Watch,software,Done,09/08/2023 19:54,22/05/2024 18:56
+SWATCH-1592,Story,Closed,SWATCH,Subscription Watch,software,Done,08/08/2023 22:54,04/10/2023 12:46
+SWATCH-1588,Task,Closed,SWATCH,Subscription Watch,software,Done,07/08/2023 13:46,24/11/2023 09:47
+SWATCH-1583,Task,Closed,SWATCH,Subscription Watch,software,Done,03/08/2023 14:39,14/08/2023 15:11
+SWATCH-1576,Task,Closed,SWATCH,Subscription Watch,software,Duplicate,02/08/2023 20:09,29/08/2023 08:11
+SWATCH-1569,Story,Closed,SWATCH,Subscription Watch,software,Done,01/08/2023 20:20,30/08/2023 14:10
+SWATCH-1568,Story,Backlog,SWATCH,Subscription Watch,software,,01/08/2023 20:16,
+SWATCH-1566,Task,Closed,SWATCH,Subscription Watch,software,Done,01/08/2023 15:20,13/12/2023 06:05
+SWATCH-1565,Task,Closed,SWATCH,Subscription Watch,software,Done,01/08/2023 15:19,03/08/2023 17:23
+SWATCH-1559,Task,Closed,SWATCH,Subscription Watch,software,Duplicate,28/07/2023 15:20,06/12/2023 14:51
+SWATCH-1558,Task,Backlog,SWATCH,Subscription Watch,software,,28/07/2023 14:08,
+SWATCH-1549,Task,Closed,SWATCH,Subscription Watch,software,Done,26/07/2023 06:46,29/08/2023 05:20
+SWATCH-1547,Story,Closed,SWATCH,Subscription Watch,software,Done,25/07/2023 13:59,25/09/2023 21:42
+SWATCH-1537,Story,Closed,SWATCH,Subscription Watch,software,Done,20/07/2023 14:41,13/09/2023 15:02
+SWATCH-1535,Task,Closed,SWATCH,Subscription Watch,software,Won't Do,19/07/2023 15:58,25/07/2023 15:14
+SWATCH-1534,Story,Closed,SWATCH,Subscription Watch,software,Done,18/07/2023 13:44,15/08/2023 18:46
+SWATCH-1533,Task,Closed,SWATCH,Subscription Watch,software,Done,18/07/2023 12:04,18/07/2023 15:46
+SWATCH-1531,Task,Closed,SWATCH,Subscription Watch,software,Done,18/07/2023 11:19,26/07/2023 06:36
+SWATCH-1525,Bug,Closed,SWATCH,Subscription Watch,software,Done,17/07/2023 18:36,24/07/2023 20:37
+SWATCH-1523,Story,Closed,SWATCH,Subscription Watch,software,Done,17/07/2023 16:39,26/10/2023 06:40
+SWATCH-1520,Bug,Closed,SWATCH,Subscription Watch,software,Done,14/07/2023 20:42,17/07/2023 17:41
+SWATCH-1519,Bug,Closed,SWATCH,Subscription Watch,software,Done,14/07/2023 18:05,27/07/2023 18:02
+SWATCH-1518,Bug,Closed,SWATCH,Subscription Watch,software,Done,14/07/2023 16:00,14/07/2023 18:07
+SWATCH-1517,Bug,Closed,SWATCH,Subscription Watch,software,Done,13/07/2023 19:36,14/07/2023 18:06
+SWATCH-1515,Story,Closed,SWATCH,Subscription Watch,software,Done,13/07/2023 18:52,17/07/2023 15:12
+SWATCH-1513,Task,Closed,SWATCH,Subscription Watch,software,Can't Do,13/07/2023 12:57,13/07/2023 13:02
+SWATCH-1512,Bug,Closed,SWATCH,Subscription Watch,software,Done,13/07/2023 02:03,27/07/2023 15:18
+SWATCH-1509,Story,Closed,SWATCH,Subscription Watch,software,Done,12/07/2023 14:52,27/07/2023 15:39
+SWATCH-1504,Story,Closed,SWATCH,Subscription Watch,software,Done,10/07/2023 18:39,12/02/2024 18:34
+SWATCH-1471,Bug,Closed,SWATCH,Subscription Watch,software,Done,07/07/2023 14:08,07/07/2023 14:47
+SWATCH-1465,Bug,Closed,SWATCH,Subscription Watch,software,Done,06/07/2023 15:01,17/07/2023 15:16
+SWATCH-1464,Bug,Closed,SWATCH,Subscription Watch,software,Done,06/07/2023 01:35,14/07/2023 14:27
+SWATCH-1462,Bug,Closed,SWATCH,Subscription Watch,software,Done,05/07/2023 13:46,31/08/2023 20:24
+SWATCH-1427,Bug,Closed,SWATCH,Subscription Watch,software,Done,30/06/2023 13:48,11/07/2023 14:52
+SWATCH-1425,Bug,Closed,SWATCH,Subscription Watch,software,Not a Bug,29/06/2023 19:55,10/07/2023 13:18
+SWATCH-1424,Bug,Closed,SWATCH,Subscription Watch,software,Done,29/06/2023 14:25,29/06/2023 21:32
+SWATCH-1423,Bug,Closed,SWATCH,Subscription Watch,software,Done,29/06/2023 14:11,29/06/2023 19:24
+SWATCH-1419,Task,Closed,SWATCH,Subscription Watch,software,Won't Do,29/06/2023 12:21,25/07/2023 14:54
+SWATCH-1416,Task,Closed,SWATCH,Subscription Watch,software,Done,29/06/2023 12:19,29/06/2023 18:50
+SWATCH-1402,Task,Closed,SWATCH,Subscription Watch,software,Done,26/06/2023 14:16,20/07/2023 10:58
+SWATCH-1401,Bug,Closed,SWATCH,Subscription Watch,software,Won't Do,25/06/2023 11:52,20/07/2023 14:23
+SWATCH-1399,Bug,Closed,SWATCH,Subscription Watch,software,Done,23/06/2023 15:40,28/06/2023 17:59
+SWATCH-1397,Story,Closed,SWATCH,Subscription Watch,software,Done,23/06/2023 14:30,04/08/2023 13:41
+SWATCH-1395,Bug,Closed,SWATCH,Subscription Watch,software,Done,22/06/2023 19:16,31/07/2023 12:50
+SWATCH-1394,Epic,In Progress,SWATCH,Subscription Watch,software,,22/06/2023 15:02,
+SWATCH-1393,Story,Closed,SWATCH,Subscription Watch,software,Obsolete,22/06/2023 14:56,02/10/2023 17:14
+SWATCH-1392,Story,Closed,SWATCH,Subscription Watch,software,Done,22/06/2023 14:54,31/07/2023 14:22
+SWATCH-1391,Story,Backlog,SWATCH,Subscription Watch,software,,21/06/2023 13:52,
+SWATCH-1390,Story,Closed,SWATCH,Subscription Watch,software,Won't Do,21/06/2023 13:46,05/12/2023 15:52
+SWATCH-1389,Story,Closed,SWATCH,Subscription Watch,software,Done,21/06/2023 13:40,31/07/2023 14:24
+SWATCH-1388,Task,Closed,SWATCH,Subscription Watch,software,Done,21/06/2023 13:35,10/07/2023 14:04
+SWATCH-1386,Story,Closed,SWATCH,Subscription Watch,software,Done,20/06/2023 21:28,15/03/2024 06:06
+SWATCH-1385,Story,Closed,SWATCH,Subscription Watch,software,Done,20/06/2023 21:17,06/05/2024 11:37
+SWATCH-1384,Story,Closed,SWATCH,Subscription Watch,software,Done,20/06/2023 21:17,25/04/2024 11:37
+SWATCH-1383,Story,Closed,SWATCH,Subscription Watch,software,Duplicate,20/06/2023 21:14,14/03/2024 12:28
+SWATCH-1382,Story,Closed,SWATCH,Subscription Watch,software,Done,20/06/2023 21:11,20/03/2024 18:20
+SWATCH-1381,Story,Closed,SWATCH,Subscription Watch,software,Obsolete,20/06/2023 21:08,11/12/2023 07:24
+SWATCH-1380,Story,Closed,SWATCH,Subscription Watch,software,Obsolete,20/06/2023 21:07,11/12/2023 07:23
+SWATCH-1379,Story,Closed,SWATCH,Subscription Watch,software,Duplicate,20/06/2023 20:56,22/08/2023 15:00
+SWATCH-1378,Story,Closed,SWATCH,Subscription Watch,software,Obsolete,20/06/2023 20:55,11/12/2023 07:22
+SWATCH-1377,Story,Closed,SWATCH,Subscription Watch,software,Obsolete,20/06/2023 20:52,11/12/2023 07:18
+SWATCH-1376,Story,Closed,SWATCH,Subscription Watch,software,Obsolete,20/06/2023 19:51,11/12/2023 07:17
+SWATCH-1375,Story,Closed,SWATCH,Subscription Watch,software,Done,20/06/2023 19:42,27/07/2023 11:44
+SWATCH-1374,Story,Closed,SWATCH,Subscription Watch,software,Done,20/06/2023 19:41,20/07/2023 18:53
+SWATCH-1373,Story,Closed,SWATCH,Subscription Watch,software,Done,20/06/2023 19:39,11/07/2023 20:37
+SWATCH-1372,Bug,Closed,SWATCH,Subscription Watch,software,Obsolete,20/06/2023 14:05,06/07/2023 14:28
+SWATCH-1367,Bug,Closed,SWATCH,Subscription Watch,software,Done,17/04/2023 16:11,16/06/2023 12:15
+SWATCH-1365,Bug,Closed,SWATCH,Subscription Watch,software,Done,15/06/2023 12:43,28/06/2023 19:55
+SWATCH-1364,Bug,Closed,SWATCH,Subscription Watch,software,Done,15/06/2023 12:41,23/06/2023 15:34
+SWATCH-1359,Story,Backlog,SWATCH,Subscription Watch,software,,13/06/2023 15:43,
+SWATCH-1358,Story,Closed,SWATCH,Subscription Watch,software,Done,13/06/2023 14:51,10/07/2024 18:01
+SWATCH-1348,Story,Closed,SWATCH,Subscription Watch,software,Done,08/06/2023 14:23,26/07/2023 19:35
+SWATCH-1345,Bug,Closed,SWATCH,Subscription Watch,software,Done,07/06/2023 20:18,14/06/2023 17:42
+SWATCH-1339,Task,Closed,SWATCH,Subscription Watch,software,Done,01/06/2023 19:38,13/02/2024 14:30
+SWATCH-1332,Task,Closed,SWATCH,Subscription Watch,software,Done,31/05/2023 20:27,12/09/2023 17:51
+SWATCH-1294,Bug,Closed,SWATCH,Subscription Watch,software,Done,25/05/2023 15:50,30/05/2023 19:59
+SWATCH-1287,Task,Backlog,SWATCH,Subscription Watch,software,,24/05/2023 13:08,
+SWATCH-1278,Bug,Closed,SWATCH,Subscription Watch,software,Not a Bug,19/05/2023 13:28,05/06/2024 14:33
+SWATCH-1269,Bug,Closed,SWATCH,Subscription Watch,software,Done,17/05/2023 09:36,23/05/2023 18:55
+SWATCH-1266,Bug,Closed,SWATCH,Subscription Watch,software,Done,16/05/2023 14:38,24/05/2023 20:35
+SWATCH-1258,Bug,Closed,SWATCH,Subscription Watch,software,Done,10/05/2023 19:04,11/05/2023 18:36
+SWATCH-1257,Bug,Closed,SWATCH,Subscription Watch,software,Done,10/05/2023 18:41,18/05/2023 17:15
+SWATCH-1256,Bug,Closed,SWATCH,Subscription Watch,software,Done,10/05/2023 15:31,10/05/2023 20:34
+SWATCH-1255,Story,Closed,SWATCH,Subscription Watch,software,Duplicate,10/05/2023 15:30,18/05/2023 14:37
+SWATCH-1252,Task,Closed,SWATCH,Subscription Watch,software,Done,09/05/2023 14:45,30/05/2023 14:21
+SWATCH-1248,Epic,Closed,SWATCH,Subscription Watch,software,Won't Do,08/05/2023 21:18,30/01/2024 15:00
+SWATCH-1247,Story,Closed,SWATCH,Subscription Watch,software,Done,08/05/2023 21:16,05/09/2023 12:21
+SWATCH-1244,Story,Closed,SWATCH,Subscription Watch,software,Done,08/05/2023 13:59,22/08/2023 07:34
+SWATCH-1242,Story,Closed,SWATCH,Subscription Watch,software,Done,05/05/2023 20:46,05/09/2023 14:46
+SWATCH-1241,Story,Closed,SWATCH,Subscription Watch,software,Done,05/05/2023 20:46,28/08/2023 12:14
+SWATCH-1240,Story,Closed,SWATCH,Subscription Watch,software,Done,05/05/2023 20:45,09/08/2023 16:31
+SWATCH-1239,Story,Closed,SWATCH,Subscription Watch,software,Done,05/05/2023 20:45,25/08/2023 15:56
+SWATCH-1238,Story,Closed,SWATCH,Subscription Watch,software,Done,05/05/2023 20:44,23/08/2023 15:12
+SWATCH-1237,Story,Closed,SWATCH,Subscription Watch,software,Done,05/05/2023 20:44,24/08/2023 19:06
+SWATCH-1236,Story,Closed,SWATCH,Subscription Watch,software,Done,05/05/2023 20:44,31/08/2023 12:11
+SWATCH-1235,Story,Closed,SWATCH,Subscription Watch,software,Done,05/05/2023 20:43,31/08/2023 19:51
+SWATCH-1234,Story,Closed,SWATCH,Subscription Watch,software,Done,05/05/2023 20:39,25/08/2023 17:26
+SWATCH-1233,Story,Closed,SWATCH,Subscription Watch,software,Done,05/05/2023 20:38,26/09/2024 14:29
+SWATCH-1232,Story,Closed,SWATCH,Subscription Watch,software,Done,05/05/2023 20:38,21/05/2024 14:42
+SWATCH-1231,Epic,Closed,SWATCH,Subscription Watch,software,Done,05/05/2023 20:37,24/08/2023 14:02
+SWATCH-1230,Story,Closed,SWATCH,Subscription Watch,software,Done,05/05/2023 20:35,14/07/2023 20:02
+SWATCH-1229,Story,Closed,SWATCH,Subscription Watch,software,Done,05/05/2023 20:34,13/06/2023 15:10
+SWATCH-1228,Story,Closed,SWATCH,Subscription Watch,software,Done,05/05/2023 20:33,25/07/2023 14:02
+SWATCH-1227,Story,Closed,SWATCH,Subscription Watch,software,Done,05/05/2023 20:33,28/06/2023 20:29
+SWATCH-1226,Story,Closed,SWATCH,Subscription Watch,software,Done,05/05/2023 20:32,31/05/2023 19:21
+SWATCH-1225,Epic,Closed,SWATCH,Subscription Watch,software,Done,05/05/2023 20:31,06/09/2023 15:15
+SWATCH-1224,Task,Closed,SWATCH,Subscription Watch,software,Done,04/05/2023 18:33,26/07/2023 07:41
+SWATCH-1223,Task,Closed,SWATCH,Subscription Watch,software,Done,04/05/2023 06:06,05/05/2023 04:00
+SWATCH-1222,Task,Closed,SWATCH,Subscription Watch,software,Done,03/05/2023 17:48,22/06/2023 12:51
+SWATCH-1221,Story,Closed,SWATCH,Subscription Watch,software,Done,03/05/2023 15:49,31/05/2023 19:20
+SWATCH-1220,Story,Closed,SWATCH,Subscription Watch,software,Done,03/05/2023 15:42,06/03/2024 21:33
+SWATCH-1218,Task,Closed,SWATCH,Subscription Watch,software,Done,03/05/2023 14:35,31/05/2023 15:01
+SWATCH-1210,Task,Closed,SWATCH,Subscription Watch,software,Won't Do,01/05/2023 19:02,30/01/2024 15:00
+SWATCH-1209,Task,Closed,SWATCH,Subscription Watch,software,Won't Do,01/05/2023 18:56,30/01/2024 15:00
+SWATCH-1208,Task,Closed,SWATCH,Subscription Watch,software,Done,01/05/2023 18:39,24/01/2024 22:12
+SWATCH-1206,Bug,Closed,SWATCH,Subscription Watch,software,Done,27/04/2023 19:53,08/05/2023 19:23
+SWATCH-1205,Task,Closed,SWATCH,Subscription Watch,software,Done,27/04/2023 18:34,01/05/2023 19:01
+SWATCH-1204,Task,Closed,SWATCH,Subscription Watch,software,Done,27/04/2023 18:20,06/07/2023 15:05
+SWATCH-1203,Story,Closed,SWATCH,Subscription Watch,software,Obsolete,27/04/2023 15:16,13/06/2023 17:19
+SWATCH-1202,Story,Closed,SWATCH,Subscription Watch,software,Done,26/04/2023 18:15,06/06/2023 19:50
+SWATCH-1198,Task,Closed,SWATCH,Subscription Watch,software,Done,26/04/2023 16:14,17/05/2023 19:18
+SWATCH-1194,Task,Closed,SWATCH,Subscription Watch,software,Done,25/04/2023 07:18,03/05/2023 11:10
+SWATCH-1192,Story,Closed,SWATCH,Subscription Watch,software,Done,24/04/2023 20:01,06/07/2023 13:25
+SWATCH-1191,Story,Closed,SWATCH,Subscription Watch,software,Done,24/04/2023 19:44,10/05/2023 15:28
+SWATCH-1190,Story,Closed,SWATCH,Subscription Watch,software,Done,24/04/2023 19:43,31/05/2023 12:29
+SWATCH-1189,Story,Closed,SWATCH,Subscription Watch,software,Done,24/04/2023 19:41,31/05/2023 17:01
+SWATCH-1188,Story,Closed,SWATCH,Subscription Watch,software,Done,24/04/2023 19:40,10/05/2023 15:27
+SWATCH-1175,Task,Closed,SWATCH,Subscription Watch,software,Done,20/04/2023 14:53,09/05/2023 13:23
+SWATCH-1174,Task,Closed,SWATCH,Subscription Watch,software,Obsolete,20/04/2023 14:23,25/04/2023 17:28
+SWATCH-1172,Task,Closed,SWATCH,Subscription Watch,software,Won't Do,19/04/2023 18:20,24/04/2023 20:00
+SWATCH-1166,Task,Closed,SWATCH,Subscription Watch,software,Duplicate,18/04/2023 16:01,26/04/2023 16:00
+SWATCH-1165,Task,Closed,SWATCH,Subscription Watch,software,Done,18/04/2023 16:00,06/07/2023 13:23
+SWATCH-1164,Task,Closed,SWATCH,Subscription Watch,software,Done,18/04/2023 16:00,26/04/2023 17:58
+SWATCH-1161,Task,Closed,SWATCH,Subscription Watch,software,Done,18/04/2023 14:49,31/05/2023 19:44
+SWATCH-1160,Task,Backlog,SWATCH,Subscription Watch,software,,17/04/2023 19:34,
+SWATCH-1159,Task,Backlog,SWATCH,Subscription Watch,software,,17/04/2023 14:59,
+SWATCH-1158,Task,Backlog,SWATCH,Subscription Watch,software,,17/04/2023 14:58,
+SWATCH-1155,Task,Closed,SWATCH,Subscription Watch,software,Duplicate,17/04/2023 14:13,07/12/2023 16:55
+SWATCH-1154,Task,Backlog,SWATCH,Subscription Watch,software,,17/04/2023 14:03,
+SWATCH-1152,Story,Closed,SWATCH,Subscription Watch,software,Won't Do,17/04/2023 13:05,30/01/2024 14:59
+SWATCH-1151,Story,Closed,SWATCH,Subscription Watch,software,Won't Do,17/04/2023 13:03,30/01/2024 14:59
+SWATCH-1150,Story,Closed,SWATCH,Subscription Watch,software,Done,17/04/2023 12:59,22/05/2023 18:19
+SWATCH-1148,Bug,Closed,SWATCH,Subscription Watch,software,Done,14/04/2023 15:43,14/04/2023 17:20
+SWATCH-1147,Story,Closed,SWATCH,Subscription Watch,software,Done,14/04/2023 13:04,20/04/2023 13:12
+SWATCH-1143,Story,Closed,SWATCH,Subscription Watch,software,Obsolete,12/04/2023 13:29,14/11/2023 18:49
+SWATCH-1142,Story,Backlog,SWATCH,Subscription Watch,software,,12/04/2023 13:25,
+SWATCH-1141,Story,Backlog,SWATCH,Subscription Watch,software,,12/04/2023 13:24,
+SWATCH-1140,Story,Closed,SWATCH,Subscription Watch,software,Won't Do,12/04/2023 13:22,05/12/2023 21:53
+SWATCH-1137,Task,Closed,SWATCH,Subscription Watch,software,Cannot Reproduce,12/04/2023 13:16,05/12/2023 21:42
+SWATCH-1136,Bug,Closed,SWATCH,Subscription Watch,software,Done,11/04/2023 18:43,11/04/2023 21:42
+SWATCH-1131,Story,Backlog,SWATCH,Subscription Watch,software,,11/04/2023 14:57,
+SWATCH-1124,Task,Closed,SWATCH,Subscription Watch,software,Won't Do,10/04/2023 15:23,04/05/2023 14:49
+SWATCH-1116,Bug,Closed,SWATCH,Subscription Watch,software,Duplicate,07/04/2023 06:10,24/04/2023 19:44
+SWATCH-1115,Bug,Closed,SWATCH,Subscription Watch,software,Done,06/04/2023 16:48,24/04/2023 17:51
+SWATCH-1114,Task,Closed,SWATCH,Subscription Watch,software,Done,05/04/2023 20:06,06/07/2023 13:21
+SWATCH-1113,Bug,Closed,SWATCH,Subscription Watch,software,Done,05/04/2023 17:19,06/06/2023 13:57
+SWATCH-1112,Task,Closed,SWATCH,Subscription Watch,software,Done,05/04/2023 14:58,05/04/2023 15:36
+SWATCH-1111,Task,Closed,SWATCH,Subscription Watch,software,Done,05/04/2023 14:43,10/04/2023 17:16
+SWATCH-1110,Task,Closed,SWATCH,Subscription Watch,software,Done,05/04/2023 14:30,19/03/2024 06:16
+SWATCH-1105,Task,Closed,SWATCH,Subscription Watch,software,Done,03/04/2023 17:41,10/05/2023 15:16
+SWATCH-1102,Story,Closed,SWATCH,Subscription Watch,software,Done,03/04/2023 13:54,04/04/2023 12:07
+SWATCH-1091,Story,Backlog,SWATCH,Subscription Watch,software,,30/03/2023 14:11,
+SWATCH-1087,Story,Closed,SWATCH,Subscription Watch,software,Done,29/03/2023 15:39,29/03/2023 17:18
+SWATCH-1085,Task,Closed,SWATCH,Subscription Watch,software,Done,28/03/2023 12:46,28/03/2023 14:29
+SWATCH-1078,Bug,Closed,SWATCH,Subscription Watch,software,Done,27/03/2023 12:08,18/04/2023 14:04
+SWATCH-1074,Task,Closed,SWATCH,Subscription Watch,software,Done,23/03/2023 17:47,27/03/2023 13:39
+SWATCH-1046,Bug,Closed,SWATCH,Subscription Watch,software,Done,17/03/2023 06:25,21/03/2023 14:36
+SWATCH-1042,Bug,Closed,SWATCH,Subscription Watch,software,Done,16/03/2023 13:30,14/04/2023 15:46
+SWATCH-1037,Story,Closed,SWATCH,Subscription Watch,software,Won't Do,14/03/2023 17:55,14/03/2023 17:57
+SWATCH-1036,Task,Closed,SWATCH,Subscription Watch,software,Done,14/03/2023 15:05,14/03/2023 15:09
+SWATCH-1031,Task,Closed,SWATCH,Subscription Watch,software,Done,13/03/2023 19:36,26/04/2023 21:13
+SWATCH-1026,Story,Closed,SWATCH,Subscription Watch,software,Won't Do,09/03/2023 14:58,19/02/2024 18:23
+SWATCH-1025,Story,Closed,SWATCH,Subscription Watch,software,Done,09/03/2023 14:57,15/06/2023 15:36
+SWATCH-1024,Bug,Closed,SWATCH,Subscription Watch,software,Duplicate,09/03/2023 09:07,19/04/2023 15:47
+SWATCH-1016,Task,Closed,SWATCH,Subscription Watch,software,Done,06/03/2023 21:07,07/03/2023 13:02
+SWATCH-1011,Task,Closed,SWATCH,Subscription Watch,software,Done,03/03/2023 18:18,04/04/2023 17:28
+SWATCH-1008,Task,Closed,SWATCH,Subscription Watch,software,Done,03/03/2023 14:50,04/10/2023 12:46
+SWATCH-1007,Task,Closed,SWATCH,Subscription Watch,software,Done,03/03/2023 12:51,06/03/2023 14:52
+SWATCH-1003,Story,Backlog,SWATCH,Subscription Watch,software,,02/03/2023 19:58,
+SWATCH-1002,Story,Backlog,SWATCH,Subscription Watch,software,,02/03/2023 19:56,
+SWATCH-975,Epic,Closed,SWATCH,Subscription Watch,software,Done,02/03/2023 16:43,10/07/2023 13:26
+SWATCH-973,Story,Closed,SWATCH,Subscription Watch,software,Done,02/03/2023 16:39,22/11/2023 17:35
+SWATCH-972,Task,Closed,SWATCH,Subscription Watch,software,Done,02/03/2023 16:38,23/05/2023 14:31
+SWATCH-969,Story,Closed,SWATCH,Subscription Watch,software,Done,02/03/2023 16:34,21/09/2023 18:57
+SWATCH-966,Story,Closed,SWATCH,Subscription Watch,software,Done,02/03/2023 15:18,27/03/2023 18:47
+SWATCH-965,Task,Closed,SWATCH,Subscription Watch,software,Done,02/03/2023 14:13,02/03/2023 14:50
+SWATCH-961,Task,Closed,SWATCH,Subscription Watch,software,Done,28/02/2023 19:03,26/07/2023 07:35
+SWATCH-960,Task,Closed,SWATCH,Subscription Watch,software,Done,28/02/2023 18:52,26/06/2023 13:55
+SWATCH-954,Task,Closed,SWATCH,Subscription Watch,software,Done,28/02/2023 01:41,23/03/2023 15:45
+SWATCH-953,Task,Closed,SWATCH,Subscription Watch,software,Done,28/02/2023 01:36,09/03/2023 18:17
+SWATCH-952,Task,Closed,SWATCH,Subscription Watch,software,Done,28/02/2023 01:26,27/03/2023 19:03
+SWATCH-951,Task,Closed,SWATCH,Subscription Watch,software,Done,28/02/2023 01:17,23/03/2023 18:57
+SWATCH-950,Story,Backlog,SWATCH,Subscription Watch,software,,27/02/2023 21:12,
+SWATCH-949,Bug,Closed,SWATCH,Subscription Watch,software,Done,27/02/2023 20:22,07/04/2023 14:49
+SWATCH-938,Story,Closed,SWATCH,Subscription Watch,software,Done,24/02/2023 19:19,23/06/2023 17:17
+SWATCH-935,Task,Closed,SWATCH,Subscription Watch,software,Obsolete,23/02/2023 15:02,05/04/2023 17:02
+SWATCH-926,Story,Closed,SWATCH,Subscription Watch,software,Done,23/02/2023 02:27,20/06/2023 17:50
+SWATCH-925,Story,Closed,SWATCH,Subscription Watch,software,Done,23/02/2023 02:18,16/06/2023 01:57
+SWATCH-924,Story,Closed,SWATCH,Subscription Watch,software,Done,23/02/2023 02:11,05/05/2023 19:09
+SWATCH-923,Story,Closed,SWATCH,Subscription Watch,software,Done,23/02/2023 02:06,15/03/2023 16:14
+SWATCH-922,Story,Closed,SWATCH,Subscription Watch,software,Done,23/02/2023 01:58,16/06/2023 01:58
+SWATCH-918,Bug,Closed,SWATCH,Subscription Watch,software,Done,22/02/2023 01:54,09/03/2023 03:51
+SWATCH-916,Task,Closed,SWATCH,Subscription Watch,software,Done,21/02/2023 15:24,21/08/2023 14:03
+SWATCH-915,Task,Closed,SWATCH,Subscription Watch,software,Done,21/02/2023 15:24,26/06/2023 14:02
+SWATCH-911,Task,Closed,SWATCH,Subscription Watch,software,Done,17/02/2023 18:37,26/06/2023 13:59
+SWATCH-910,Task,Closed,SWATCH,Subscription Watch,software,Done,17/02/2023 16:03,17/04/2023 08:26
+SWATCH-909,Epic,Closed,SWATCH,Subscription Watch,software,Done,17/02/2023 15:43,13/10/2023 13:22
+SWATCH-908,Epic,Closed,SWATCH,Subscription Watch,software,Done,17/02/2023 15:37,18/03/2024 19:23
+SWATCH-907,Task,Closed,SWATCH,Subscription Watch,software,Obsolete,16/02/2023 20:29,14/09/2023 13:25
+SWATCH-901,Story,Closed,SWATCH,Subscription Watch,software,Done,15/02/2023 21:00,21/07/2023 15:01
+SWATCH-899,Story,Closed,SWATCH,Subscription Watch,software,Obsolete,14/02/2023 20:05,21/09/2023 15:13
+SWATCH-898,Task,Closed,SWATCH,Subscription Watch,software,Obsolete,14/02/2023 19:35,21/09/2023 15:13
+SWATCH-897,Epic,Closed,SWATCH,Subscription Watch,software,Done,14/02/2023 19:30,21/09/2023 15:13
+SWATCH-894,Task,Closed,SWATCH,Subscription Watch,software,Done,13/02/2023 20:21,27/02/2023 20:51
+SWATCH-893,Story,Closed,SWATCH,Subscription Watch,software,Done,13/02/2023 16:17,21/11/2023 10:02
+SWATCH-892,Task,Closed,SWATCH,Subscription Watch,software,Done,10/02/2023 19:28,17/03/2023 19:36
+SWATCH-882,Task,Closed,SWATCH,Subscription Watch,software,Done,09/02/2023 15:08,27/03/2023 19:51
+SWATCH-876,Story,Backlog,SWATCH,Subscription Watch,software,,08/02/2023 18:52,
+SWATCH-866,Bug,Closed,SWATCH,Subscription Watch,software,Done,07/02/2023 14:50,08/02/2023 14:43
+SWATCH-865,Task,Closed,SWATCH,Subscription Watch,software,Done,07/02/2023 14:37,26/06/2023 18:26
+SWATCH-864,Task,Closed,SWATCH,Subscription Watch,software,Done,07/02/2023 13:34,20/02/2023 20:03
+SWATCH-852,Task,Closed,SWATCH,Subscription Watch,software,Done,02/02/2023 20:53,09/03/2023 18:17
+SWATCH-851,Task,Closed,SWATCH,Subscription Watch,software,Done,02/02/2023 20:52,23/03/2023 15:44
+SWATCH-850,Task,Closed,SWATCH,Subscription Watch,software,Done,02/02/2023 20:52,03/03/2023 14:36
+SWATCH-849,Story,Closed,SWATCH,Subscription Watch,software,Done,02/02/2023 20:47,17/03/2023 20:29
+SWATCH-846,Bug,Closed,SWATCH,Subscription Watch,software,Done,01/02/2023 14:38,01/02/2023 18:39
+SWATCH-840,Story,Closed,SWATCH,Subscription Watch,software,Duplicate,31/01/2023 16:56,06/02/2023 16:56
+SWATCH-829,Story,Closed,SWATCH,Subscription Watch,software,Done,30/01/2023 16:48,13/02/2023 16:37
+SWATCH-828,Task,Closed,SWATCH,Subscription Watch,software,Done,30/01/2023 16:06,03/02/2023 20:13
+SWATCH-817,Task,Closed,SWATCH,Subscription Watch,software,Done,25/01/2023 22:07,16/05/2023 20:17
+SWATCH-814,Story,Closed,SWATCH,Subscription Watch,software,Done,24/01/2023 20:20,28/02/2023 02:03
+SWATCH-795,Task,Closed,SWATCH,Subscription Watch,software,Done,19/01/2023 21:14,10/05/2023 15:27
+SWATCH-794,Story,Closed,SWATCH,Subscription Watch,software,Obsolete,19/01/2023 20:59,01/09/2023 20:20
+SWATCH-793,Story,Closed,SWATCH,Subscription Watch,software,Duplicate,19/01/2023 15:05,20/07/2023 15:23
+SWATCH-792,Task,Closed,SWATCH,Subscription Watch,software,Done,18/01/2023 21:34,06/03/2023 10:14
+SWATCH-791,Task,Closed,SWATCH,Subscription Watch,software,Done,17/01/2023 22:16,03/03/2023 07:00
+SWATCH-788,Story,Closed,SWATCH,Subscription Watch,software,Done,16/01/2023 18:53,11/05/2023 14:58
+SWATCH-787,Task,Closed,SWATCH,Subscription Watch,software,Done,16/01/2023 18:51,26/01/2023 14:51
+SWATCH-786,Epic,Closed,SWATCH,Subscription Watch,software,Done,16/01/2023 18:38,15/05/2023 14:36
+SWATCH-783,Bug,Closed,SWATCH,Subscription Watch,software,Duplicate,13/01/2023 20:21,16/01/2023 16:52
+SWATCH-782,Story,Closed,SWATCH,Subscription Watch,software,Done,13/01/2023 14:47,23/01/2023 16:14
+SWATCH-778,Story,Closed,SWATCH,Subscription Watch,software,Done,12/01/2023 14:12,13/04/2023 13:54
+SWATCH-777,Story,Closed,SWATCH,Subscription Watch,software,Duplicate,12/01/2023 14:11,19/04/2023 15:22
+SWATCH-773,Story,Closed,SWATCH,Subscription Watch,software,Done,10/01/2023 21:05,01/05/2023 19:26
+SWATCH-772,Story,Backlog,SWATCH,Subscription Watch,software,,10/01/2023 16:53,
+SWATCH-771,Bug,Backlog,SWATCH,Subscription Watch,software,,10/01/2023 16:52,
+SWATCH-769,Story,Closed,SWATCH,Subscription Watch,software,Won't Do,10/01/2023 15:17,12/01/2023 20:11
+SWATCH-766,Task,Closed,SWATCH,Subscription Watch,software,Done,06/01/2023 15:33,22/02/2023 18:49
+SWATCH-748,Story,Closed,SWATCH,Subscription Watch,software,Done,15/12/2022 18:44,10/05/2023 15:17
+SWATCH-747,Story,Closed,SWATCH,Subscription Watch,software,Done,15/12/2022 18:43,10/05/2023 15:17
+SWATCH-746,Story,Closed,SWATCH,Subscription Watch,software,Done,15/12/2022 18:42,20/02/2023 21:00
+SWATCH-745,Bug,Closed,SWATCH,Subscription Watch,software,Done,15/12/2022 15:42,23/01/2023 16:04
+SWATCH-740,Epic,Closed,SWATCH,Subscription Watch,software,Done,15/12/2022 08:29,09/05/2023 09:37
+SWATCH-728,Bug,Closed,SWATCH,Subscription Watch,software,Done,08/12/2022 17:07,15/02/2023 18:35
+SWATCH-726,Bug,Closed,SWATCH,Subscription Watch,software,Done,08/12/2022 10:01,08/12/2022 18:47
+SWATCH-720,Epic,Closed,SWATCH,Subscription Watch,software,Done,05/12/2022 15:24,27/04/2023 13:10
+SWATCH-719,Story,Closed,SWATCH,Subscription Watch,software,Done,02/12/2022 21:18,03/03/2023 14:28
+SWATCH-716,Bug,Backlog,SWATCH,Subscription Watch,software,,01/12/2022 06:24,
+SWATCH-714,Story,Closed,SWATCH,Subscription Watch,software,Done,29/11/2022 20:23,21/07/2023 14:37
+SWATCH-713,Story,Closed,SWATCH,Subscription Watch,software,Done,29/11/2022 20:23,11/01/2023 16:17
+SWATCH-710,Story,Backlog,SWATCH,Subscription Watch,software,,28/11/2022 18:47,
+SWATCH-709,Story,Closed,SWATCH,Subscription Watch,software,Done,28/11/2022 18:16,29/11/2022 16:24
+SWATCH-708,Story,Closed,SWATCH,Subscription Watch,software,Done,28/11/2022 16:51,10/01/2023 21:06
+SWATCH-707,Bug,Closed,SWATCH,Subscription Watch,software,Done,24/11/2022 15:17,28/11/2022 18:04
+SWATCH-704,Task,Closed,SWATCH,Subscription Watch,software,Done,21/11/2022 05:50,21/11/2022 22:30
+SWATCH-692,Story,Closed,SWATCH,Subscription Watch,software,Done,15/11/2022 14:20,28/11/2022 21:29
+SWATCH-687,Story,Closed,SWATCH,Subscription Watch,software,Done,10/11/2022 15:29,14/02/2023 16:11
+SWATCH-686,Story,Closed,SWATCH,Subscription Watch,software,Done,10/11/2022 15:28,14/02/2023 16:12
+SWATCH-685,Story,Closed,SWATCH,Subscription Watch,software,Done,10/11/2022 15:14,23/01/2023 15:03
+SWATCH-683,Task,Closed,SWATCH,Subscription Watch,software,Done,08/11/2022 21:44,08/12/2023 04:19
+SWATCH-675,Story,Backlog,SWATCH,Subscription Watch,software,,07/11/2022 16:28,
+SWATCH-673,Story,Closed,SWATCH,Subscription Watch,software,Obsolete,04/11/2022 15:03,23/11/2022 14:44
+SWATCH-669,Bug,Closed,SWATCH,Subscription Watch,software,Done,01/11/2022 14:29,02/11/2022 14:43
+SWATCH-667,Story,Closed,SWATCH,Subscription Watch,software,Done,28/10/2022 15:35,10/10/2023 15:29
+SWATCH-666,Story,Closed,SWATCH,Subscription Watch,software,Won't Do,28/10/2022 15:34,01/08/2023 14:28
+SWATCH-665,Story,Closed,SWATCH,Subscription Watch,software,Done,28/10/2022 15:34,06/09/2023 15:52
+SWATCH-664,Story,Closed,SWATCH,Subscription Watch,software,Done,28/10/2022 15:33,24/10/2023 19:22
+SWATCH-663,Story,Closed,SWATCH,Subscription Watch,software,Done,28/10/2022 15:33,04/10/2023 19:22
+SWATCH-662,Story,Closed,SWATCH,Subscription Watch,software,Done,28/10/2022 15:32,06/10/2023 13:50
+SWATCH-661,Story,Closed,SWATCH,Subscription Watch,software,Done,28/10/2022 15:32,12/10/2023 22:38
+SWATCH-660,Story,Closed,SWATCH,Subscription Watch,software,Done,28/10/2022 15:31,22/08/2023 19:26
+SWATCH-659,Story,Closed,SWATCH,Subscription Watch,software,Done,28/10/2022 15:30,22/08/2023 19:27
+SWATCH-658,Story,Closed,SWATCH,Subscription Watch,software,Done,28/10/2022 15:30,15/08/2023 14:18
+SWATCH-657,Epic,Closed,SWATCH,Subscription Watch,software,Done,28/10/2022 15:28,13/11/2023 18:04
+SWATCH-643,Story,Closed,SWATCH,Subscription Watch,software,Done,19/10/2022 19:38,29/11/2022 20:42
+SWATCH-642,Task,Closed,SWATCH,Subscription Watch,software,Done,15/07/2022 20:40,13/08/2024 15:02
+SWATCH-641,Task,Closed,SWATCH,Subscription Watch,software,Done,15/07/2022 20:46,13/08/2024 15:01
+SWATCH-640,Task,Closed,SWATCH,Subscription Watch,software,Done,15/07/2022 20:46,09/11/2022 19:20
+SWATCH-639,Task,Closed,SWATCH,Subscription Watch,software,Done,15/07/2022 20:42,05/12/2022 19:49
+SWATCH-638,Task,Closed,SWATCH,Subscription Watch,software,Done,15/07/2022 20:40,15/11/2022 16:01
+SWATCH-637,Task,Closed,SWATCH,Subscription Watch,software,Done,15/07/2022 20:50,15/11/2022 18:18
+SWATCH-636,Task,Closed,SWATCH,Subscription Watch,software,Done,17/07/2022 02:13,01/01/2023 02:15
+SWATCH-634,Story,Backlog,SWATCH,Subscription Watch,software,,01/03/2022 17:55,
+SWATCH-633,Bug,Closed,SWATCH,Subscription Watch,software,Done,20/10/2021 11:02,25/08/2023 13:24
+SWATCH-632,Bug,Closed,SWATCH,Subscription Watch,software,Done,19/10/2022 14:29,27/10/2022 13:24
+SWATCH-631,Task,Closed,SWATCH,Subscription Watch,software,Done,19/10/2022 14:15,18/11/2022 20:27
+SWATCH-630,Story,Closed,SWATCH,Subscription Watch,software,Done,18/10/2022 17:32,15/12/2022 01:12
+SWATCH-626,Task,Closed,SWATCH,Subscription Watch,software,Done,17/10/2022 15:10,03/11/2022 20:20
+SWATCH-625,Story,Closed,SWATCH,Subscription Watch,software,Done,17/10/2022 15:03,24/02/2023 19:01
+SWATCH-622,Story,Closed,SWATCH,Subscription Watch,software,Done,14/10/2022 15:33,31/10/2022 20:34
+SWATCH-617,Task,Closed,SWATCH,Subscription Watch,software,Done,13/10/2022 15:47,08/11/2022 16:01
+SWATCH-613,Story,Backlog,SWATCH,Subscription Watch,software,,11/10/2022 18:40,
+SWATCH-604,Story,Closed,SWATCH,Subscription Watch,software,Obsolete,06/10/2022 19:41,05/12/2023 21:41
+SWATCH-592,Story,Closed,SWATCH,Subscription Watch,software,Obsolete,03/10/2022 17:47,13/10/2022 15:48
+SWATCH-591,Story,Closed,SWATCH,Subscription Watch,software,Done,03/10/2022 16:00,28/11/2022 21:28
+SWATCH-589,Story,Closed,SWATCH,Subscription Watch,software,Done,03/10/2022 15:02,21/11/2022 22:39
+SWATCH-588,Story,Closed,SWATCH,Subscription Watch,software,Done,03/10/2022 15:02,07/11/2022 16:13
+SWATCH-587,Story,Closed,SWATCH,Subscription Watch,software,Done,03/10/2022 15:01,19/01/2023 16:29
+SWATCH-585,Story,Closed,SWATCH,Subscription Watch,software,Done,03/10/2022 14:25,07/10/2022 13:40
+SWATCH-584,Story,Closed,SWATCH,Subscription Watch,software,Done,29/09/2022 17:45,09/11/2022 18:58
+SWATCH-583,Story,Closed,SWATCH,Subscription Watch,software,Done,29/09/2022 17:42,21/10/2022 15:29
+SWATCH-582,Story,Closed,SWATCH,Subscription Watch,software,Done,29/09/2022 15:39,19/01/2023 20:02
+SWATCH-581,Story,Backlog,SWATCH,Subscription Watch,software,,29/09/2022 15:00,
+SWATCH-580,Story,Backlog,SWATCH,Subscription Watch,software,,29/09/2022 14:57,
+SWATCH-579,Story,Backlog,SWATCH,Subscription Watch,software,,29/09/2022 14:42,
+SWATCH-577,Story,Closed,SWATCH,Subscription Watch,software,Done,28/09/2022 18:52,12/10/2022 14:33
+SWATCH-576,Story,Closed,SWATCH,Subscription Watch,software,Done,27/09/2022 14:46,08/11/2022 17:17
+SWATCH-566,Bug,Closed,SWATCH,Subscription Watch,software,Done,15/09/2022 19:51,21/10/2022 17:35
+SWATCH-565,Story,Closed,SWATCH,Subscription Watch,software,Obsolete,15/09/2022 15:35,14/11/2023 18:51
+SWATCH-564,Story,Closed,SWATCH,Subscription Watch,software,Done,15/09/2022 15:35,06/12/2022 14:27
+SWATCH-563,Story,Closed,SWATCH,Subscription Watch,software,Done,14/09/2022 19:30,27/09/2022 19:37
+SWATCH-558,Story,Closed,SWATCH,Subscription Watch,software,Done,13/09/2022 18:57,14/11/2022 14:31
+SWATCH-557,Task,Closed,SWATCH,Subscription Watch,software,Done,13/09/2022 18:24,21/09/2022 19:33
+SWATCH-556,Story,Closed,SWATCH,Subscription Watch,software,Done,13/09/2022 18:00,18/10/2022 14:56
+SWATCH-548,Story,Closed,SWATCH,Subscription Watch,software,Won't Do,07/09/2022 13:08,08/09/2022 15:12
+SWATCH-544,Story,Closed,SWATCH,Subscription Watch,software,Obsolete,01/09/2022 23:23,25/01/2023 16:41
+SWATCH-542,Bug,Closed,SWATCH,Subscription Watch,software,Done,31/08/2022 18:37,06/09/2022 17:25
+SWATCH-541,Task,Closed,SWATCH,Subscription Watch,software,Done,31/08/2022 12:27,06/10/2022 18:59
+SWATCH-536,Task,Closed,SWATCH,Subscription Watch,software,Done,29/08/2022 18:28,15/03/2023 17:24
+SWATCH-513,Story,Closed,SWATCH,Subscription Watch,software,Duplicate,23/08/2022 05:09,08/05/2023 01:26
+SWATCH-488,Story,Closed,SWATCH,Subscription Watch,software,Done,09/08/2022 19:06,13/09/2022 21:23
+SWATCH-487,Story,Closed,SWATCH,Subscription Watch,software,Done,09/08/2022 19:01,23/08/2022 13:59
+SWATCH-485,Story,Closed,SWATCH,Subscription Watch,software,Done,09/08/2022 18:52,23/08/2022 13:59
+SWATCH-482,Task,Closed,SWATCH,Subscription Watch,software,Test Pending,09/08/2022 15:50,18/10/2022 13:57
+SWATCH-479,Task,Closed,SWATCH,Subscription Watch,software,Done,08/08/2022 15:01,29/08/2022 18:49
+SWATCH-472,Task,Closed,SWATCH,Subscription Watch,software,Done,02/08/2022 15:25,20/02/2023 17:06
+SWATCH-465,Story,Backlog,SWATCH,Subscription Watch,software,,25/07/2022 17:56,
+SWATCH-462,Task,Backlog,SWATCH,Subscription Watch,software,,28/07/2022 14:57,
+SWATCH-460,Task,Closed,SWATCH,Subscription Watch,software,Done,26/07/2022 19:21,27/07/2022 16:48
+SWATCH-458,Task,Closed,SWATCH,Subscription Watch,software,Done,26/07/2022 15:03,28/07/2022 21:02
+SWATCH-451,Bug,Closed,SWATCH,Subscription Watch,software,Obsolete,20/07/2022 20:56,13/09/2022 15:26
+SWATCH-228,Story,Closed,SWATCH,Subscription Watch,software,Won't Do,14/01/2021 11:27,19/08/2022 20:31
+SWATCH-175,Story,Backlog,SWATCH,Subscription Watch,software,,06/07/2021 15:49,
+SWATCH-105,Story,Closed,SWATCH,Subscription Watch,software,Won't Do,11/12/2020 13:39,03/11/2022 15:44
+SWATCH-72,Epic,Closed,SWATCH,Subscription Watch,software,Done,10/12/2021 01:10,06/12/2023 17:00
+SWATCH-58,Story,Backlog,SWATCH,Subscription Watch,software,,22/11/2021 08:41,
+SWATCH-42,Bug,Closed,SWATCH,Subscription Watch,software,Done,29/10/2020 09:49,04/03/2024 18:32
+SWATCH-22,Story,Closed,SWATCH,Subscription Watch,software,Won't Do,03/08/2021 09:37,08/09/2022 16:04

@@ -1,5 +1,5 @@
 All PBIS - Unfiltered 
-Start date: 1901-01-01 12:01:00 End date: 2024-11-11 12:36:00
+Start date: 2004-12-24 09:01:00 End date: 2024-11-11 12:36:00
 System: {'JGRP': 2694}
 Types: {'Bug': 1244, 'Enhancement': 327, 'Feature Request': 604, 'Task': 498, 'Quality Risk': 3, 'Patch': 11, 'Release': 4, 'Component Upgrade': 1, 'Support Patch': 2}
 Resolutions: {'': 62, 'Done': 2134, "Won't Do": 334, 'Not a Bug': 7, 'Duplicate': 50, "Can't Do": 9, 'Cannot Reproduce': 67, 'Obsolete': 31}

@@ -1,0 +1,39 @@
+All PBIS - Unfiltered 
+Start date: 2011-07-08 10:41:00 End date: 2019-01-31 14:21:00
+System: {'BSA': 3702}
+Types: {'FR': 63, 'Internal Bug sub-task': 600, 'Requirement': 56, 'Bug': 39, 'Improvement': 65, 'Task': 120, 'Epic': 26, 'Story': 4, 'P4 Internal Bug': 128, 'P4 CR': 164, 'P4 FR': 150, 'P4 Bug': 336, 'Sub-task': 1944, 'Bug sub-task': 3, 'Technical Task': 4}
+Resolutions: {'BudÅ¼et FR': 31, 'Closed': 3050, 'Do rozliczenia': 1, 'Open': 329, 'Reopened': 10, 'Resolved': 150, 'Rozliczony': 131}
+Statuses: {'BudÅ¼et FR': 31, 'Closed': 3050, 'Do rozliczenia': 1, 'Open': 329, 'Reopened': 10, 'Resolved': 150, 'Rozliczony': 131}
+
+Average Lead Time (all PBIs): 90.2 days
+Average Lead Time (FR): 108.9 days
+Average Lead Time (Internal Bug sub-task): 37.9 days
+Average Lead Time (Requirement): 52.7 days
+Average Lead Time (Bug): 41.6 days
+Average Lead Time (Improvement): 54.0 days
+Average Lead Time (Task): 256.2 days
+Average Lead Time (Epic): 138.8 days
+Average Lead Time (Story): 30.0 days
+Average Lead Time (P4 Internal Bug): 93.0 days
+Average Lead Time (P4 CR): 282.9 days
+Average Lead Time (P4 FR): 42.1 days
+Average Lead Time (P4 Bug): 57.5 days
+Average Lead Time (Sub-task): 95.4 days
+Average Lead Time (Bug sub-task): 3.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2018-10-23 14:21:00 End date: 2019-01-31 14:21:00
+System: {'BSA': 45}
+Types: {'Requirement': 10, 'Bug': 12, 'Improvement': 4, 'Epic': 2, 'Sub-task': 16, 'P4 CR': 1}
+Resolutions: {'Closed': 23, 'Open': 18, 'Resolved': 4}
+Statuses: {'Closed': 23, 'Open': 18, 'Resolved': 4}
+
+Average Lead Time (all PBIs): 217.5 days
+Average Lead Time (Requirement): 119.2 days
+Average Lead Time (Bug): 55.3 days
+Average Lead Time (Improvement): 77.0 days
+Average Lead Time (Epic): 263.0 days
+Average Lead Time (Sub-task): 314.0 days
+Average Lead Time (P4 CR): 1069.0 days
