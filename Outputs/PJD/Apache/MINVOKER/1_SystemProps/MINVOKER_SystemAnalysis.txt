@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2006-10-03 09:59:43 End date: 2021-12-17 20:39:46
+System: {'MINVOKER': 287}
+Types: {'New Feature': 56, 'Bug': 98, 'Task': 16, 'Improvement': 100, 'Wish': 2, 'Dependency upgrade': 14, 'Test': 1}
+Resolutions: {'': 17, 'Fixed': 214, 'Duplicate': 6, 'Done': 4, 'Information Provided': 1, 'Not A Problem': 14, 'Cannot Reproduce': 4, 'Abandoned': 3, 'Not A Bug': 1, "Won't Fix": 12, 'Invalid': 1, 'Auto Closed': 10}
+Statuses: {'Open': 16, 'Closed': 266, 'Resolved': 4, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 233.4 days
+Average Lead Time (Task): 153.8 days
+Average Lead Time (Bug): 252.7 days
+Average Lead Time (Improvement): 222.9 days
+Average Lead Time (Dependency upgrade): 40.2 days
+Average Lead Time (New Feature): 301.8 days
+Average Lead Time (Test): 77.0 days
+Average Lead Time (Wish): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-08 20:39:46 End date: 2021-12-17 20:39:46
+System: {'MINVOKER': 16}
+Types: {'New Feature': 1, 'Bug': 9, 'Task': 1, 'Improvement': 4, 'Wish': 1}
+Resolutions: {'': 5, 'Fixed': 5, 'Duplicate': 1, 'Done': 1, 'Information Provided': 1, 'Not A Problem': 2, 'Cannot Reproduce': 1}
+Statuses: {'Open': 5, 'Closed': 10, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 154.6 days
+Average Lead Time (Task): 43.0 days
+Average Lead Time (Bug): 215.4 days
+Average Lead Time (Improvement): 50.0 days

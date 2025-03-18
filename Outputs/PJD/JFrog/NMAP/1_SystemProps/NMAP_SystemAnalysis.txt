@@ -1,0 +1,22 @@
+All PBIS - Unfiltered 
+Start date: 2013-06-25 14:21:16 End date: 2021-11-25 09:17:15
+System: {'NMAP': 48}
+Types: {'New Feature': 1, 'Bug': 31, 'Feature Request': 1, 'Improvement': 9, 'Change Request': 1, 'Task': 2, 'Support Ticket': 3}
+Resolutions: {'': 31, 'Done': 14, 'Duplicate': 1, 'Not a Bug': 1, 'Cannot Reproduce': 1}
+Statuses: {'Open': 30, 'Resolved': 17, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 116.0 days
+Average Lead Time (Bug): 129.9 days
+Average Lead Time (Improvement): 21.0 days
+Average Lead Time (Support Ticket): 3.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-08-17 09:17:15 End date: 2021-11-25 09:17:15
+System: {'NMAP': 1}
+Types: {'New Feature': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2008-06-23 14:24:22 End date: 2021-12-14 18:23:03
+System: {'MODCLUSTER': 675}
+Types: {'Task': 81, 'Bug': 373, 'Feature Request': 164, 'Component Upgrade': 29, 'Enhancement': 26, 'Quality Risk': 1, 'Support Patch': 1}
+Resolutions: {'Done': 475, '': 66, 'Duplicate Issue': 21, 'Rejected': 44, 'Cannot Reproduce': 14, 'Out of Date': 30, "Won't Do": 7, "Won't Fix": 9, 'Incomplete Description': 2, 'Partially Completed': 4, 'Migrated to another ITS': 2, 'Deferred': 1}
+Statuses: {'Resolved': 162, 'Open': 57, 'Pull Request Sent': 5, 'Closed': 447, 'Coding In Progress': 2, 'Reopened': 2}
+
+Average Lead Time (all PBIs): 307.5 days
+Average Lead Time (Task): 406.3 days
+Average Lead Time (Bug): 251.2 days
+Average Lead Time (Feature Request): 389.6 days
+Average Lead Time (Component Upgrade): 28.4 days
+Average Lead Time (Enhancement): 766.3 days
+Average Lead Time (Support Patch): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-05 18:23:03 End date: 2021-12-14 18:23:03
+System: {'MODCLUSTER': 20}
+Types: {'Task': 12, 'Bug': 3, 'Feature Request': 3, 'Enhancement': 2}
+Resolutions: {'Done': 14, '': 3, 'Partially Completed': 2, 'Migrated to another ITS': 1}
+Statuses: {'Resolved': 15, 'Open': 3, 'Closed': 2}
+
+Average Lead Time (all PBIs): 1127.6 days
+Average Lead Time (Task): 1023.9 days
+Average Lead Time (Bug): 88.5 days
+Average Lead Time (Feature Request): 1026.3 days
+Average Lead Time (Enhancement): 2837.0 days

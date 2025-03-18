@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2004-02-27 11:55:21 End date: 2009-04-17 15:35:21
+System: {'WSRP4J': 109}
+Types: {'Bug': 73, 'Improvement': 29, 'New Feature': 2, 'Wish': 1, 'Task': 4}
+Resolutions: {'': 39, 'Fixed': 63, 'Duplicate': 4, 'Invalid': 1, "Won't Fix": 2}
+Statuses: {'Open': 39, 'Resolved': 29, 'Closed': 41}
+
+Average Lead Time (all PBIs): 163.2 days
+Average Lead Time (Bug): 166.9 days
+Average Lead Time (Improvement): 158.9 days
+Average Lead Time (Task): 175.2 days
+Average Lead Time (New Feature): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2009-01-07 15:35:21 End date: 2009-04-17 15:35:21
+System: {'WSRP4J': 4}
+Types: {'Bug': 4}
+Resolutions: {'': 4}
+Statuses: {'Open': 4}
+
+No PBIs resolved in last 100 days.

@@ -1,0 +1,59 @@
+Key,ID,Project,IssueType,IsSubtask,Status,Resolution,Created Date,Resolved Date
+PNIX-58,11120,PNIX,Improvement,false,Open,,2003-06-29 22:10:00,
+PNIX-57,11004,PNIX,Bug,false,Open,,2003-06-15 09:59:07,
+PNIX-56,11003,PNIX,Bug,false,Open,,2003-06-14 23:36:13,
+PNIX-55,10842,PNIX,Improvement,false,Open,,2003-06-06 01:48:15,
+PNIX-54,10779,PNIX,Improvement,false,Open,,2003-05-15 20:43:24,
+PNIX-53,10711,PNIX,Improvement,false,Open,,2003-04-23 10:31:47,
+PNIX-52,10710,PNIX,New Feature,false,Open,,2003-04-23 10:12:59,
+PNIX-51,10709,PNIX,New Feature,false,Open,,2003-04-23 10:08:44,
+PNIX-50,10708,PNIX,New Feature,false,Open,,2003-04-23 10:06:25,
+PNIX-49,10707,PNIX,New Feature,false,Open,,2003-04-23 09:53:41,
+PNIX-48,10706,PNIX,New Feature,false,Open,,2003-04-23 09:37:03,
+PNIX-47,10705,PNIX,New Feature,false,Open,,2003-04-23 09:28:23,
+PNIX-46,10704,PNIX,New Feature,false,Open,,2003-04-23 09:24:01,
+PNIX-45,10696,PNIX,New Feature,false,Open,,2003-04-21 10:20:58,
+PNIX-44,10695,PNIX,New Feature,false,Open,,2003-04-21 09:33:56,
+PNIX-43,10694,PNIX,New Feature,false,Open,,2003-04-21 09:30:55,
+PNIX-42,10693,PNIX,New Feature,false,Open,,2003-04-21 09:29:38,
+PNIX-41,10692,PNIX,Improvement,false,Open,,2003-04-21 07:38:19,
+PNIX-40,10691,PNIX,New Feature,false,Open,,2003-04-21 06:58:39,
+PNIX-39,10690,PNIX,New Feature,false,Open,,2003-04-21 06:47:27,
+PNIX-38,10677,PNIX,New Feature,false,Open,,2003-04-17 12:32:46,
+PNIX-37,10674,PNIX,Task,false,Open,,2003-04-17 04:10:01,
+PNIX-36,10673,PNIX,Task,false,Open,,2003-04-17 04:06:38,
+PNIX-35,10661,PNIX,Improvement,false,Open,,2003-04-15 05:09:05,
+PNIX-34,10650,PNIX,Bug,false,Open,,2003-04-12 07:05:01,
+PNIX-33,10647,PNIX,New Feature,false,Open,,2003-04-12 03:39:55,
+PNIX-32,10646,PNIX,New Feature,false,Open,,2003-04-12 03:36:25,
+PNIX-31,10645,PNIX,New Feature,false,Open,,2003-04-12 03:30:38,
+PNIX-30,10644,PNIX,Improvement,false,Open,,2003-04-12 03:15:05,
+PNIX-29,10643,PNIX,Improvement,false,Open,,2003-04-12 03:13:47,
+PNIX-28,10642,PNIX,New Feature,false,Open,,2003-04-12 03:07:04,
+PNIX-27,10641,PNIX,Task,false,Closed,Fixed,2003-04-11 17:24:26,2003-04-27 10:02:17
+PNIX-26,10640,PNIX,Improvement,false,Open,,2003-04-11 17:21:08,
+PNIX-25,10636,PNIX,Improvement,false,Closed,Fixed,2003-04-11 01:55:03,2003-04-11 01:55:50
+PNIX-24,10624,PNIX,New Feature,false,Open,,2003-04-06 06:08:17,
+PNIX-23,10623,PNIX,Wish,false,Open,,2003-04-06 06:03:34,
+PNIX-22,10622,PNIX,New Feature,false,Open,,2003-04-06 06:02:10,
+PNIX-21,10619,PNIX,New Feature,false,Closed,Fixed,2003-04-05 06:15:21,2003-04-06 16:26:16
+PNIX-20,10618,PNIX,Task,false,Closed,Fixed,2003-04-05 02:18:52,2003-04-05 02:39:41
+PNIX-19,10617,PNIX,Task,false,Closed,Fixed,2003-04-05 01:54:32,2003-04-05 02:29:19
+PNIX-18,10616,PNIX,Task,false,Closed,Fixed,2003-04-05 01:53:42,2003-04-05 02:29:49
+PNIX-17,10615,PNIX,Improvement,false,Closed,Duplicate,2003-04-05 01:15:35,2003-05-02 01:28:26
+PNIX-16,10590,PNIX,Bug,false,Closed,Fixed,2003-03-27 20:12:57,2003-04-05 01:12:54
+PNIX-15,10586,PNIX,New Feature,false,Open,,2003-03-25 14:31:42,
+PNIX-14,10585,PNIX,New Feature,false,Open,,2003-03-25 14:28:16,
+PNIX-13,10570,PNIX,Bug,false,Closed,Fixed,2003-03-24 02:04:50,2003-04-17 04:13:36
+PNIX-12,10563,PNIX,New Feature,false,Open,,2003-03-22 08:40:40,
+PNIX-11,10562,PNIX,Improvement,false,Open,,2003-03-22 08:27:56,
+PNIX-10,10561,PNIX,Improvement,false,Open,,2003-03-22 08:24:06,
+PNIX-9,10560,PNIX,New Feature,false,Open,,2003-03-22 08:17:57,
+PNIX-8,10559,PNIX,New Feature,false,Open,,2003-03-22 08:06:26,
+PNIX-7,10558,PNIX,New Feature,false,Open,,2003-03-22 08:03:53,
+PNIX-6,10557,PNIX,New Feature,false,Open,,2003-03-22 08:00:26,
+PNIX-5,10556,PNIX,New Feature,false,Open,,2003-03-22 07:56:45,
+PNIX-4,10543,PNIX,New Feature,false,Closed,Fixed,2003-03-18 12:14:28,2003-03-20 06:00:48
+PNIX-3,10542,PNIX,Bug,false,Closed,Fixed,2003-03-18 02:33:56,2003-04-05 05:38:43
+PNIX-2,10502,PNIX,Bug,false,Open,,2003-03-02 07:31:39,
+PNIX-1,10501,PNIX,New Feature,false,Closed,Fixed,2003-03-01 04:35:54,2003-03-18 18:13:20

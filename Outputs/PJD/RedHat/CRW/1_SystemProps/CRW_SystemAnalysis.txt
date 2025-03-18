@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2018-05-01 18:04:41 End date: 2022-01-04 20:53:48
+System: {'CRW': 2036}
+Types: {'Task': 389, 'Bug': 951, 'QE Task': 515, 'Feature Request': 121, 'Enhancement': 60}
+Resolutions: {'': 343, 'Duplicate Issue': 52, 'Done': 1393, "Won't Fix": 39, 'Cannot Reproduce': 40, "Won't Do": 44, 'Explained': 45, 'Not a Bug': 14, 'Obsolete': 1, 'Rejected': 9, 'Duplicate': 2, 'Fixed': 4, 'Partially Completed': 11, 'Out of Date': 37, 'Incomplete Description': 2}
+Statuses: {'Open': 313, 'Closed': 1336, 'Resolved': 357, 'Coding In Progress': 8, 'Reopened': 22}
+
+Average Lead Time (all PBIs): 62.5 days
+Average Lead Time (Bug): 52.7 days
+Average Lead Time (QE Task): 63.1 days
+Average Lead Time (Task): 62.4 days
+Average Lead Time (Feature Request): 152.0 days
+Average Lead Time (Enhancement): 71.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 20:53:48 End date: 2022-01-04 20:53:48
+System: {'CRW': 334}
+Types: {'Task': 99, 'Bug': 136, 'QE Task': 82, 'Feature Request': 13, 'Enhancement': 4}
+Resolutions: {'': 92, 'Duplicate Issue': 7, 'Done': 199, "Won't Fix": 9, 'Cannot Reproduce': 9, "Won't Do": 7, 'Explained': 6, 'Not a Bug': 2, 'Obsolete': 1, 'Rejected': 1, 'Out of Date': 1}
+Statuses: {'Open': 85, 'Closed': 176, 'Resolved': 66, 'Coding In Progress': 6, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 82.3 days
+Average Lead Time (Bug): 64.5 days
+Average Lead Time (QE Task): 53.7 days
+Average Lead Time (Task): 90.0 days
+Average Lead Time (Feature Request): 297.2 days
+Average Lead Time (Enhancement): 273.0 days

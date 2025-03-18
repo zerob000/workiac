@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2011-10-25 13:25:58 End date: 2020-08-31 14:06:10
+System: {'CB': 11874}
+Types: {'Bug': 8782, 'Improvement': 1649, 'Task': 700, 'New Feature': 407, 'Test': 216, 'Wish': 120}
+Resolutions: {'': 1080, 'Duplicate': 722, 'Cannot Reproduce': 639, 'Fixed': 6625, 'Invalid': 346, "Won't Fix": 1020, 'Incomplete': 171, 'Not A Problem': 634, 'Auto Closed': 78, 'Resolved': 26, 'Not A Bug': 46, "Won't Do": 213, 'Later': 28, 'Abandoned': 78, 'Information Provided': 4, 'Feedback Received': 1, 'Implemented': 95, 'Done': 50, 'Workaround': 13, 'Works for Me': 2, 'Pending Closed': 3}
+Statuses: {'Open': 1043, 'Closed': 10664, 'Resolved': 131, 'Reopened': 23, 'In Progress': 13}
+
+Average Lead Time (all PBIs): 208.2 days
+Average Lead Time (Bug): 173.0 days
+Average Lead Time (Improvement): 313.1 days
+Average Lead Time (Task): 101.9 days
+Average Lead Time (New Feature): 643.1 days
+Average Lead Time (Test): 165.0 days
+Average Lead Time (Wish): 580.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-05-23 14:06:10 End date: 2020-08-31 14:06:10
+System: {'CB': 155}
+Types: {'Bug': 82, 'New Feature': 31, 'Improvement': 29, 'Wish': 10, 'Task': 2, 'Test': 1}
+Resolutions: {'Invalid': 10, 'Cannot Reproduce': 37, 'Fixed': 29, "Won't Do": 64, 'Not A Problem': 2, 'Duplicate': 8, "Won't Fix": 3, 'Incomplete': 2}
+Statuses: {'Closed': 151, 'Resolved': 4}
+
+Average Lead Time (all PBIs): 1441.8 days
+Average Lead Time (Bug): 1358.6 days
+Average Lead Time (New Feature): 1584.8 days
+Average Lead Time (Improvement): 1549.1 days
+Average Lead Time (Wish): 1430.7 days
+Average Lead Time (Task): 1032.0 days
+Average Lead Time (Test): 1644.0 days

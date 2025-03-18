@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2020-12-16 09:16:13 End date: 2022-01-04 15:27:09
+System: {'AA': 445}
+Types: {'Task': 216, 'Bug': 134, 'Story': 55, 'Feature': 40}
+Resolutions: {'': 130, 'Done': 259, 'Out of Date': 56}
+Statuses: {'To Do': 83, 'Done': 259, 'Ready for QA': 3, 'Current Sprint': 2, 'Sprint Backlog': 4, 'Code Review': 3, 'In Progress': 10, 'Obsolete': 56, 'QA In Progress': 1, 'Backlog': 24}
+
+Average Lead Time (all PBIs): 60.9 days
+Average Lead Time (Bug): 85.0 days
+Average Lead Time (Task): 30.8 days
+Average Lead Time (Story): 98.1 days
+Average Lead Time (Feature): 122.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 15:27:09 End date: 2022-01-04 15:27:09
+System: {'AA': 164}
+Types: {'Task': 99, 'Bug': 35, 'Story': 27, 'Feature': 3}
+Resolutions: {'': 61, 'Done': 87, 'Out of Date': 16}
+Statuses: {'To Do': 37, 'Done': 87, 'Ready for QA': 3, 'Current Sprint': 2, 'Sprint Backlog': 4, 'Code Review': 1, 'In Progress': 8, 'Obsolete': 16, 'QA In Progress': 1, 'Backlog': 5}
+
+Average Lead Time (all PBIs): 50.5 days
+Average Lead Time (Bug): 68.0 days
+Average Lead Time (Task): 37.2 days
+Average Lead Time (Story): 84.7 days
+Average Lead Time (Feature): 16.0 days

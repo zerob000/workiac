@@ -1,0 +1,16 @@
+Unfiltered All PBIs between  Start Date: 2010-01-12 14:04:32 and  End Date: 2021-12-26 12:19:34
+
+Arrival Days: {'Mon': 276, 'Tue': 311, 'Wed': 302, 'Thu': 309, 'Fri': 275, 'Sat': 77, 'Sun': 123}
+Total Arrivals: 1673
+Service Days: {'Mon': 245, 'Tue': 281, 'Wed': 259, 'Thu': 256, 'Fri': 266, 'Sat': 99, 'Sun': 158}
+Total Services: 1564
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+Unfiltered PBIs between  Start Date: 2021-09-17 12:19:34 and  End Date: 2021-12-26 12:19:34
+
+Arrival Days: {'Mon': 0, 'Tue': 5, 'Wed': 3, 'Thu': 3, 'Fri': 4, 'Sat': 0, 'Sun': 4}
+Total Arrivals: 19
+Service Days: {'Mon': 1, 'Tue': 2, 'Wed': 3, 'Thu': 1, 'Fri': 6, 'Sat': 0, 'Sun': 5}
+Total Services: 18

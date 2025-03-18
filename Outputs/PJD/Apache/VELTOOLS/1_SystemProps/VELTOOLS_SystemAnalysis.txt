@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2002-05-16 08:04:59 End date: 2021-12-23 03:48:23
+System: {'VELTOOLS': 192}
+Types: {'Bug': 108, 'Improvement': 52, 'New Feature': 22, 'Task': 5, 'Wish': 3, 'Test': 2}
+Resolutions: {'': 7, 'Fixed': 138, "Won't Fix": 22, "Won't Do": 2, 'Not A Problem': 4, 'Cannot Reproduce': 5, 'Duplicate': 2, 'Incomplete': 8, 'Invalid': 3, 'Done': 1}
+Statuses: {'Open': 7, 'Resolved': 33, 'Closed': 152}
+
+Average Lead Time (all PBIs): 686.9 days
+Average Lead Time (Bug): 674.8 days
+Average Lead Time (Improvement): 642.6 days
+Average Lead Time (New Feature): 862.5 days
+Average Lead Time (Task): 466.2 days
+Average Lead Time (Wish): 118.7 days
+Average Lead Time (Test): 1905.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-14 03:48:23 End date: 2021-12-23 03:48:23
+System: {'VELTOOLS': 5}
+Types: {'Bug': 4, 'Improvement': 1}
+Resolutions: {'': 1, 'Fixed': 3, "Won't Fix": 1}
+Statuses: {'Open': 1, 'Resolved': 3, 'Closed': 1}
+
+Average Lead Time (all PBIs): 10.5 days
+Average Lead Time (Bug): 14.0 days
+Average Lead Time (Improvement): 0.0 days

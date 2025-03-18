@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 2014-06-18 07:33:31 End date: 2022-01-04 19:58:56
+System: {'CALCITE': 4721}
+Types: {'Bug': 3088, 'Improvement': 1153, 'Task': 198, 'New Feature': 174, 'Test': 32, 'Wish': 76}
+Resolutions: {'': 1317, 'Fixed': 2924, 'Duplicate': 163, 'Not A Problem': 103, "Won't Fix": 54, 'Abandoned': 7, 'Invalid': 83, 'Implemented': 3, 'Not A Bug': 24, 'Cannot Reproduce': 23, 'Later': 3, 'Resolved': 7, "Won't Do": 4, 'Information Provided': 1, 'Done': 1, 'Incomplete': 2, 'Works for Me': 2}
+Statuses: {'Open': 1254, 'Resolved': 33, 'Closed': 3371, 'In Progress': 44, 'Reopened': 19}
+
+Average Lead Time (all PBIs): 69.7 days
+Average Lead Time (Task): 55.4 days
+Average Lead Time (Bug): 68.1 days
+Average Lead Time (Improvement): 76.0 days
+Average Lead Time (Test): 40.9 days
+Average Lead Time (New Feature): 74.8 days
+Average Lead Time (Wish): 105.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 19:58:56 End date: 2022-01-04 19:58:56
+System: {'CALCITE': 210}
+Types: {'Bug': 121, 'Improvement': 68, 'Task': 15, 'New Feature': 5, 'Test': 1}
+Resolutions: {'': 91, 'Fixed': 97, 'Duplicate': 7, 'Not A Problem': 6, "Won't Fix": 4, 'Abandoned': 2, 'Invalid': 1, 'Cannot Reproduce': 1, 'Not A Bug': 1}
+Statuses: {'Open': 80, 'Resolved': 19, 'Closed': 100, 'In Progress': 11}
+
+Average Lead Time (all PBIs): 92.2 days
+Average Lead Time (Task): 16.7 days
+Average Lead Time (Bug): 85.4 days
+Average Lead Time (Improvement): 120.9 days
+Average Lead Time (Test): 32.0 days
+Average Lead Time (New Feature): 143.0 days

@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2016-03-21 14:59:36 End date: 2022-01-04 16:08:10
+System: {'COMPASS': 2550}
+Types: {'Task': 1043, 'Bug': 1000, 'New Feature': 148, 'Investigation': 137, 'Story': 202, 'Release': 20}
+Resolutions: {'': 515, 'Fixed': 723, 'Done': 608, 'Works as Designed': 56, 'Duplicate': 159, "Won't Fix": 146, 'Gone away': 164, "Won't Do": 47, 'Cannot Reproduce': 39, 'Declined': 21, 'Incomplete': 64, 'Community Answered': 8}
+Statuses: {'Needs Triage': 266, 'Closed': 2033, 'Ready for Work': 17, 'Open': 216, 'In Progress': 4, 'Debugging With Submitter': 4, 'In Code Review': 1, 'Waiting (Blocked)': 9}
+
+Average Lead Time (all PBIs): 156.4 days
+Average Lead Time (New Feature): 393.7 days
+Average Lead Time (Task): 153.6 days
+Average Lead Time (Bug): 112.1 days
+Average Lead Time (Investigation): 104.1 days
+Average Lead Time (Release): 14.1 days
+Average Lead Time (Story): 252.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 16:08:10 End date: 2022-01-04 16:08:10
+System: {'COMPASS': 324}
+Types: {'Task': 186, 'Bug': 79, 'New Feature': 3, 'Investigation': 41, 'Story': 11, 'Release': 4}
+Resolutions: {'': 127, 'Fixed': 60, 'Done': 82, 'Works as Designed': 4, 'Duplicate': 18, "Won't Fix": 6, 'Gone away': 11, "Won't Do": 12, 'Incomplete': 1, 'Cannot Reproduce': 1, 'Declined': 1, 'Community Answered': 1}
+Statuses: {'Needs Triage': 84, 'Closed': 197, 'Ready for Work': 6, 'Open': 23, 'In Progress': 4, 'Debugging With Submitter': 4, 'In Code Review': 1, 'Waiting (Blocked)': 5}
+
+Average Lead Time (all PBIs): 126.3 days
+Average Lead Time (New Feature): 336.5 days
+Average Lead Time (Task): 125.7 days
+Average Lead Time (Bug): 127.4 days
+Average Lead Time (Investigation): 118.5 days
+Average Lead Time (Release): 16.5 days
+Average Lead Time (Story): 191.0 days

@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2016-05-25 02:59:52 End date: 2021-12-23 05:46:07
+System: {'ACSPRING': 114}
+Types: {'Story': 76, 'Bug': 33, 'Task': 3, 'Documentation': 2}
+Resolutions: {'': 20, 'Fixed': 79, 'Duplicate': 1, 'Answered': 3, 'Invalid': 1, "Won't Do": 4, 'Obsolete': 1, 'Tracked Elsewhere': 2, 'Not a bug': 2, 'Timed out': 1}
+Statuses: {'In Progress': 3, 'Closed': 94, 'New': 15, 'Triage': 1, 'Under Review': 1}
+
+Average Lead Time (all PBIs): 78.5 days
+Average Lead Time (Bug): 28.7 days
+Average Lead Time (Story): 96.2 days
+Average Lead Time (Task): 405.5 days
+Average Lead Time (Documentation): 3.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-14 05:46:07 End date: 2021-12-23 05:46:07
+System: {'ACSPRING': 5}
+Types: {'Story': 1, 'Bug': 3, 'Task': 1}
+Resolutions: {'': 1, 'Fixed': 4}
+Statuses: {'In Progress': 1, 'Closed': 4}
+
+Average Lead Time (all PBIs): 265.0 days
+Average Lead Time (Bug): 83.0 days
+Average Lead Time (Task): 811.0 days

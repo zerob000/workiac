@@ -1,0 +1,22 @@
+All PBIS - Unfiltered 
+Start date: 2007-05-18 10:22:46 End date: 2022-01-04 19:37:31
+System: {'DESIGN': 1479}
+Types: {'Story': 1449, 'Bug': 30}
+Resolutions: {'': 32, 'Done': 1274, 'Duplicate Issue': 12, "Won't Do": 99, "Won't Fix": 11, 'Out of Date': 46, 'Rejected': 2, 'Partially Completed': 1, 'Deferred': 2}
+Statuses: {'To Do': 26, 'In Progress': 4, 'Done': 1447, 'Undefined': 2}
+
+Average Lead Time (all PBIs): 126.6 days
+Average Lead Time (Story): 126.3 days
+Average Lead Time (Bug): 141.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 19:37:31 End date: 2022-01-04 19:37:31
+System: {'DESIGN': 37}
+Types: {'Story': 37}
+Resolutions: {'': 14, 'Done': 19, 'Duplicate Issue': 1, 'Out of Date': 3}
+Statuses: {'To Do': 11, 'In Progress': 3, 'Done': 23}
+
+Average Lead Time (all PBIs): 141.8 days
+Average Lead Time (Story): 141.8 days

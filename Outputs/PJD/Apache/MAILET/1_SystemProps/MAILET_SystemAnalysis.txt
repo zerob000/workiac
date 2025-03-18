@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2002-08-03 22:32:39 End date: 2021-09-06 01:51:45
+System: {'MAILET': 150}
+Types: {'Improvement': 63, 'Bug': 37, 'New Feature': 13, 'Task': 37}
+Resolutions: {'Fixed': 116, '': 25, 'Not A Problem': 4, 'Duplicate': 2, 'Invalid': 2, 'Incomplete': 1}
+Statuses: {'Closed': 96, 'Open': 24, 'Resolved': 29, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 198.3 days
+Average Lead Time (Improvement): 133.6 days
+Average Lead Time (Bug): 216.3 days
+Average Lead Time (New Feature): 213.2 days
+Average Lead Time (Task): 281.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-05-29 01:51:45 End date: 2021-09-06 01:51:45
+System: {'MAILET': 4}
+Types: {'Bug': 3, 'Task': 1}
+Resolutions: {'Fixed': 3, 'Not A Problem': 1}
+Statuses: {'Closed': 4}
+
+Average Lead Time (all PBIs): 2010.5 days
+Average Lead Time (Bug): 1384.3 days
+Average Lead Time (Task): 3889.0 days

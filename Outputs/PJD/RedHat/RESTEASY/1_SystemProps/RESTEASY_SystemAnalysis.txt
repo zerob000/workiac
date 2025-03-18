@@ -1,0 +1,33 @@
+All PBIS - Unfiltered 
+Start date: 2008-02-27 20:07:01 End date: 2021-12-30 10:28:29
+System: {'RESTEASY': 2826}
+Types: {'Bug': 1519, 'Task': 470, 'Component Upgrade': 169, 'Enhancement': 197, 'Feature Request': 423, 'Release': 26, 'Quality Risk': 6, 'Patch': 15, 'Support Patch': 1}
+Resolutions: {'': 294, 'Done': 1983, 'Not a Bug': 10, 'Explained': 30, 'Rejected': 152, "Won't Do": 10, 'Migrated to another ITS': 2, 'Duplicate Issue': 56, 'Out of Date': 214, 'Cannot Reproduce': 36, 'Incomplete': 2, 'Fixed': 1, 'Duplicate': 2, 'Partially Completed': 6, "Won't Fix": 24, 'Incomplete Description': 4}
+Statuses: {'Open': 249, 'Pull Request Sent': 29, 'Resolved': 941, 'Closed': 1591, 'Coding In Progress': 9, 'Reopened': 7}
+
+Average Lead Time (all PBIs): 249.5 days
+Average Lead Time (Component Upgrade): 40.2 days
+Average Lead Time (Task): 141.2 days
+Average Lead Time (Bug): 261.1 days
+Average Lead Time (Feature Request): 453.0 days
+Average Lead Time (Enhancement): 171.6 days
+Average Lead Time (Release): 32.2 days
+Average Lead Time (Quality Risk): 315.6 days
+Average Lead Time (Patch): 977.8 days
+Average Lead Time (Support Patch): 30.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-21 10:28:29 End date: 2021-12-30 10:28:29
+System: {'RESTEASY': 70}
+Types: {'Bug': 28, 'Task': 23, 'Component Upgrade': 6, 'Enhancement': 9, 'Feature Request': 4}
+Resolutions: {'': 24, 'Done': 40, 'Not a Bug': 1, 'Explained': 1, 'Rejected': 1, "Won't Do": 1, 'Migrated to another ITS': 1, 'Duplicate Issue': 1}
+Statuses: {'Open': 15, 'Pull Request Sent': 9, 'Resolved': 40, 'Closed': 6}
+
+Average Lead Time (all PBIs): 48.1 days
+Average Lead Time (Component Upgrade): 5.2 days
+Average Lead Time (Task): 105.2 days
+Average Lead Time (Bug): 26.9 days
+Average Lead Time (Feature Request): 126.0 days
+Average Lead Time (Enhancement): 0.4 days

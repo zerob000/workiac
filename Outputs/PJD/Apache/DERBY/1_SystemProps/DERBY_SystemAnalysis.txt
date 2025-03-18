@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2004-09-24 21:22:40 End date: 2021-12-14 09:17:11
+System: {'DERBY': 6665}
+Types: {'Improvement': 2170, 'Bug': 4163, 'Task': 332}
+Resolutions: {'': 1278, 'Fixed': 4266, 'Not A Problem': 64, 'Duplicate': 373, 'Not A Bug': 5, 'Resolved': 1, 'Information Provided': 1, "Won't Fix": 216, 'Workaround': 1, 'Invalid': 263, 'Cannot Reproduce': 175, 'Incomplete': 13, 'Done': 5, 'Abandoned': 2, 'Later': 2}
+Statuses: {'Open': 1247, 'Closed': 5341, 'Resolved': 46, 'Reopened': 20, 'In Progress': 11}
+
+Average Lead Time (all PBIs): 251.6 days
+Average Lead Time (Task): 201.0 days
+Average Lead Time (Bug): 218.3 days
+Average Lead Time (Improvement): 336.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-05 09:17:11 End date: 2021-12-14 09:17:11
+System: {'DERBY': 8}
+Types: {'Improvement': 2, 'Bug': 3, 'Task': 3}
+Resolutions: {'': 6, 'Fixed': 1, 'Abandoned': 1}
+Statuses: {'Open': 6, 'Closed': 2}
+
+Average Lead Time (all PBIs): 1372.5 days
+Average Lead Time (Task): 205.0 days
+Average Lead Time (Bug): 2540.0 days

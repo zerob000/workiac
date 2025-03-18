@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2019-02-26 07:20:50 End date: 2022-01-04 15:00:44
+System: {'HAC': 318}
+Types: {'Task': 27, 'Story': 195, 'Bug': 92, 'Feature': 4}
+Resolutions: {'': 210, 'Obsolete': 11, 'Done': 81, 'Duplicate Issue': 3, "Won't Do": 7, 'Not a Bug': 1, 'Out of Date': 2, 'Cannot Reproduce': 2, 'Fixed': 1}
+Statuses: {'In Progress': 23, 'To Do': 177, 'Closed': 108, 'Code Review': 8, 'Review': 2}
+
+Average Lead Time (all PBIs): 87.7 days
+Average Lead Time (Task): 5.4 days
+Average Lead Time (Story): 37.1 days
+Average Lead Time (Bug): 224.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 15:00:44 End date: 2022-01-04 15:00:44
+System: {'HAC': 242}
+Types: {'Task': 19, 'Story': 165, 'Bug': 54, 'Feature': 4}
+Resolutions: {'': 134, 'Obsolete': 11, 'Done': 81, 'Duplicate Issue': 3, "Won't Do": 7, 'Not a Bug': 1, 'Out of Date': 2, 'Cannot Reproduce': 2, 'Fixed': 1}
+Statuses: {'In Progress': 18, 'To Do': 110, 'Closed': 108, 'Code Review': 5, 'Review': 1}
+
+Average Lead Time (all PBIs): 87.7 days
+Average Lead Time (Task): 5.4 days
+Average Lead Time (Story): 37.1 days
+Average Lead Time (Bug): 224.6 days

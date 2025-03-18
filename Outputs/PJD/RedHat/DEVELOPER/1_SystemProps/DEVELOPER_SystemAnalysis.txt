@@ -1,0 +1,22 @@
+All PBIS - Unfiltered 
+Start date: 2012-03-14 15:45:50 End date: 2021-12-15 14:28:21
+System: {'DEVELOPER': 5014}
+Types: {'Bug': 1943, 'Story': 3060, 'Initiative': 11}
+Resolutions: {'': 148, "Won't Fix": 61, "Won't Do": 29, 'Done': 3890, 'Duplicate Issue': 292, 'Explained': 8, 'Cannot Reproduce': 53, 'Out of Date': 358, 'Migrated to another ITS': 22, 'Deferred': 82, 'Rejected': 32, 'Partially Completed': 29, 'Incomplete Description': 10}
+Statuses: {'To Do': 114, 'Done': 4865, 'In Progress': 17, 'Blocked': 13, 'In Review': 4, 'Implemented': 1}
+
+Average Lead Time (all PBIs): 79.2 days
+Average Lead Time (Bug): 67.6 days
+Average Lead Time (Story): 86.4 days
+Average Lead Time (Initiative): 289.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-06 14:28:21 End date: 2021-12-15 14:28:21
+System: {'DEVELOPER': 2}
+Types: {'Bug': 2}
+Resolutions: {'': 2}
+Statuses: {'To Do': 2}
+
+No PBIs resolved in last 100 days.

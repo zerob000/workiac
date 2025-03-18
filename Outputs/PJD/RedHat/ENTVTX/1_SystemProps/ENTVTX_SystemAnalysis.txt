@@ -1,0 +1,21 @@
+All PBIS - Unfiltered 
+Start date: 2017-02-15 14:30:52 End date: 2021-10-29 21:40:47
+System: {'ENTVTX': 41}
+Types: {'Task': 41}
+Resolutions: {'': 4, 'Done': 34, 'Duplicate Issue': 2, 'Out of Date': 1}
+Statuses: {'New': 2, 'Resolved': 12, 'Coding In Progress': 2, 'Closed': 25}
+
+Average Lead Time (all PBIs): 137.3 days
+Average Lead Time (Task): 137.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-07-21 21:40:47 End date: 2021-10-29 21:40:47
+System: {'ENTVTX': 3}
+Types: {'Task': 3}
+Resolutions: {'Done': 3}
+Statuses: {'Closed': 3}
+
+Average Lead Time (all PBIs): 594.7 days
+Average Lead Time (Task): 594.7 days

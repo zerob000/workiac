@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2011-03-28 02:26:57 End date: 2016-03-08 06:39:06
+System: {'MRUNIT': 207}
+Types: {'Bug': 72, 'New Feature': 14, 'Dependency upgrade': 5, 'Question': 6, 'Improvement': 65, 'Task': 43, 'Umbrella': 1, 'Test': 1}
+Resolutions: {'Duplicate': 6, '': 32, 'Fixed': 155, "Won't Fix": 5, 'Not A Problem': 6, 'Incomplete': 1, 'Invalid': 2}
+Statuses: {'Closed': 15, 'Open': 27, 'Reopened': 1, 'Resolved': 160, 'In Progress': 4}
+
+Average Lead Time (all PBIs): 50.8 days
+Average Lead Time (Bug): 64.9 days
+Average Lead Time (Dependency upgrade): 2.4 days
+Average Lead Time (Improvement): 37.2 days
+Average Lead Time (Task): 25.5 days
+Average Lead Time (New Feature): 162.2 days
+Average Lead Time (Question): 8.5 days
+Average Lead Time (Test): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2015-11-29 06:39:06 End date: 2016-03-08 06:39:06
+System: {'MRUNIT': 1}
+Types: {'Bug': 1}
+Resolutions: {'Duplicate': 1}
+Statuses: {'Closed': 1}
+
+Average Lead Time (all PBIs): 0.0 days
+Average Lead Time (Bug): 0.0 days

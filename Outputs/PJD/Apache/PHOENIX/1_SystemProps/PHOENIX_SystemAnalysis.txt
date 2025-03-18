@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2014-01-11 23:14:04 End date: 2022-01-05 05:20:30
+System: {'PHOENIX': 5893}
+Types: {'Task': 984, 'Bug': 3513, 'Improvement': 996, 'New Feature': 206, 'Test': 159, 'Wish': 35}
+Resolutions: {'': 1441, 'Duplicate': 282, 'Fixed': 3556, 'Not A Bug': 23, 'Done': 6, 'Abandoned': 1, 'Cannot Reproduce': 76, 'Implemented': 17, 'Invalid': 143, 'Information Provided': 2, "Won't Do": 5, 'Not A Problem': 145, "Won't Fix": 106, 'Workaround': 2, 'Resolved': 64, 'Incomplete': 12, 'Later': 10, 'Pending Closed': 2}
+Statuses: {'Open': 1267, 'Resolved': 2910, 'In Progress': 20, 'Reopened': 25, 'Closed': 1542, 'Patch Available': 129}
+
+Average Lead Time (all PBIs): 71.2 days
+Average Lead Time (Bug): 69.5 days
+Average Lead Time (Task): 45.9 days
+Average Lead Time (Improvement): 94.3 days
+Average Lead Time (Test): 45.6 days
+Average Lead Time (New Feature): 187.9 days
+Average Lead Time (Wish): 109.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-27 05:20:30 End date: 2022-01-05 05:20:30
+System: {'PHOENIX': 62}
+Types: {'Task': 10, 'Bug': 43, 'Improvement': 8, 'New Feature': 1}
+Resolutions: {'': 24, 'Duplicate': 2, 'Fixed': 30, 'Not A Bug': 2, 'Done': 1, 'Abandoned': 1, 'Cannot Reproduce': 2}
+Statuses: {'Open': 22, 'Resolved': 38, 'In Progress': 2}
+
+Average Lead Time (all PBIs): 83.0 days
+Average Lead Time (Bug): 91.9 days
+Average Lead Time (Task): 49.2 days
+Average Lead Time (Improvement): 92.2 days

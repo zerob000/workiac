@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2011-01-05 16:16:58 End date: 2022-01-04 13:16:17
+System: {'FUSETOOLS': 2942}
+Types: {'Task': 648, 'Enhancement': 627, 'Bug': 1375, 'Documentation': 61, 'Feature Request': 204, 'Story': 27}
+Resolutions: {'': 512, 'Done': 1842, 'Rejected': 111, 'Duplicate Issue': 109, 'Cannot Reproduce': 85, 'Incomplete Description': 9, 'Explained': 4, 'Out of Date': 147, "Won't Do": 54, 'Upstream': 1, "Won't Fix": 57, 'Duplicate': 1, 'Partially Completed': 7, 'Migrated to another ITS': 1, 'Resolved at Apache': 1, 'Deferred': 1}
+Statuses: {'Open': 494, 'Resolved': 17, 'Pull Request Sent': 3, 'Closed': 2413, 'Coding In Progress': 2, 'Reopened': 13}
+
+Average Lead Time (all PBIs): 150.9 days
+Average Lead Time (Task): 182.5 days
+Average Lead Time (Bug): 99.8 days
+Average Lead Time (Documentation): 87.4 days
+Average Lead Time (Enhancement): 233.2 days
+Average Lead Time (Feature Request): 239.0 days
+Average Lead Time (Story): 149.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 13:16:17 End date: 2022-01-04 13:16:17
+System: {'FUSETOOLS': 58}
+Types: {'Task': 35, 'Enhancement': 6, 'Bug': 15, 'Documentation': 2}
+Resolutions: {'': 12, 'Done': 35, 'Rejected': 1, 'Duplicate Issue': 2, 'Cannot Reproduce': 1, 'Out of Date': 7}
+Statuses: {'Open': 10, 'Resolved': 17, 'Pull Request Sent': 1, 'Closed': 29, 'Coding In Progress': 1}
+
+Average Lead Time (all PBIs): 275.9 days
+Average Lead Time (Task): 94.7 days
+Average Lead Time (Bug): 317.1 days
+Average Lead Time (Documentation): 24.0 days
+Average Lead Time (Enhancement): 1331.2 days

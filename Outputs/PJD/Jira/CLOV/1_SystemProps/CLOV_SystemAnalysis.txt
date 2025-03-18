@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2007-08-01 23:41:41 End date: 2019-08-13 06:52:58
+System: {'CLOV': 1282}
+Types: {'Bug': 531, 'Suggestion': 751}
+Resolutions: {"Won't Fix": 452, 'Tracked Elsewhere': 10, 'Fixed': 682, 'Handled by Support': 6, 'Invalid': 11, 'Obsolete': 24, 'Duplicate': 61, 'Cannot Reproduce': 15, 'Not a bug': 13, 'Support Request': 1, 'Answered': 3, 'Timed out': 1, 'Resolved Locally': 2, 'Unsolved Mysteries': 1}
+Statuses: {'Closed': 1282}
+
+Average Lead Time (all PBIs): 894.8 days
+Average Lead Time (Bug): 550.3 days
+Average Lead Time (Suggestion): 1138.4 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2019-05-05 06:52:58 End date: 2019-08-13 06:52:58
+System: {'CLOV': 325}
+Types: {'Bug': 96, 'Suggestion': 229}
+Resolutions: {"Won't Fix": 324, 'Fixed': 1}
+Statuses: {'Closed': 325}
+
+Average Lead Time (all PBIs): 2577.2 days
+Average Lead Time (Bug): 2388.1 days
+Average Lead Time (Suggestion): 2656.5 days

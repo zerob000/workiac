@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2010-07-28 10:14:13 End date: 2020-07-29 18:56:30
+System: {'JRJC': 248}
+Types: {'Bug': 94, 'Improvement': 31, 'New Feature': 27, 'Technical Debt': 1, 'Support Request': 18, 'Task': 15, 'Third-party issue': 1, 'Story': 61}
+Resolutions: {'': 127, 'Fixed': 81, 'Not a bug': 7, 'Duplicate': 3, "Won't Fix": 11, 'Invalid': 4, 'Tracked Elsewhere': 1, 'Answered': 7, 'Done': 1, 'Unresolved': 4, 'Cannot Reproduce': 2}
+Statuses: {'New': 119, 'Resolved': 66, 'Closed': 55, 'In Progress': 5, 'Reopened': 3}
+
+Average Lead Time (all PBIs): 52.3 days
+Average Lead Time (New Feature): 43.4 days
+Average Lead Time (Bug): 52.3 days
+Average Lead Time (Improvement): 27.4 days
+Average Lead Time (Third-party issue): 0.0 days
+Average Lead Time (Support Request): 99.4 days
+Average Lead Time (Story): 53.3 days
+Average Lead Time (Task): 61.4 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-04-20 18:56:30 End date: 2020-07-29 18:56:30
+System: {'JRJC': 5}
+Types: {'Bug': 4, 'Improvement': 1}
+Resolutions: {'': 5}
+Statuses: {'New': 5}
+
+No PBIs resolved in last 100 days.

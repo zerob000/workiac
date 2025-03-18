@@ -1,0 +1,21 @@
+All PBIS - Unfiltered 
+Start date: 2016-08-24 09:55:26 End date: 2018-02-13 09:39:42
+System: {'MBT': 75}
+Types: {'Story': 2, 'Task': 54, 'Feature Request': 2, 'Bug': 17}
+Resolutions: {'': 60, 'Done': 15}
+Statuses: {'Open': 55, 'Closed': 15, 'Sprint Ready': 2, 'Reopened': 1, 'In Progress': 1, 'Review in Progress': 1}
+
+Average Lead Time (all PBIs): 36.0 days
+Average Lead Time (Task): 33.3 days
+Average Lead Time (Feature Request): 76.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2017-11-05 09:39:42 End date: 2018-02-13 09:39:42
+System: {'MBT': 1}
+Types: {'Story': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

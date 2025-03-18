@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2005-03-03 19:14:19 End date: 2021-12-20 21:00:09
+System: {'MJAVADOC': 686}
+Types: {'Bug': 467, 'New Feature': 38, 'Task': 27, 'Improvement': 130, 'Dependency upgrade': 11, 'Wish': 13}
+Resolutions: {'': 33, 'Fixed': 405, 'Incomplete': 26, 'Cannot Reproduce': 34, 'Implemented': 3, "Won't Fix": 31, 'Duplicate': 60, 'Not A Problem': 51, 'Invalid': 3, 'Pending Closed': 7, 'Done': 3, 'Information Provided': 1, 'Not A Bug': 3, 'Auto Closed': 25, 'Workaround': 1}
+Statuses: {'Open': 32, 'Resolved': 1, 'Closed': 652, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 310.3 days
+Average Lead Time (Bug): 305.2 days
+Average Lead Time (Task): 147.8 days
+Average Lead Time (Improvement): 292.8 days
+Average Lead Time (New Feature): 493.8 days
+Average Lead Time (Dependency upgrade): 113.2 days
+Average Lead Time (Wish): 635.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-11 21:00:09 End date: 2021-12-20 21:00:09
+System: {'MJAVADOC': 12}
+Types: {'Bug': 10, 'New Feature': 2}
+Resolutions: {'': 10, 'Fixed': 2}
+Statuses: {'Open': 10, 'Resolved': 1, 'Closed': 1}
+
+Average Lead Time (all PBIs): 35.5 days
+Average Lead Time (Bug): 35.5 days

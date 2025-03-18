@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2013-10-23 10:44:14 End date: 2021-12-20 11:58:13
+System: {'JBERET': 434}
+Types: {'Enhancement': 95, 'Bug': 173, 'Task': 78, 'Feature Request': 88}
+Resolutions: {'': 87, 'Done': 331, 'Explained': 3, 'Duplicate Issue': 3, "Won't Fix": 4, 'Cannot Reproduce': 2, 'Rejected': 2, 'Resolved at Apache': 1, 'Incomplete Description': 1}
+Statuses: {'Open': 65, 'Resolved': 338, 'Coding In Progress': 21, 'Pull Request Sent': 1, 'Closed': 9}
+
+Average Lead Time (all PBIs): 43.6 days
+Average Lead Time (Enhancement): 53.6 days
+Average Lead Time (Bug): 29.8 days
+Average Lead Time (Task): 30.9 days
+Average Lead Time (Feature Request): 81.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-11 11:58:13 End date: 2021-12-20 11:58:13
+System: {'JBERET': 4}
+Types: {'Enhancement': 3, 'Task': 1}
+Resolutions: {'': 1, 'Done': 3}
+Statuses: {'Open': 1, 'Resolved': 3}
+
+Average Lead Time (all PBIs): 599.0 days
+Average Lead Time (Enhancement): 714.0 days
+Average Lead Time (Task): 369.0 days

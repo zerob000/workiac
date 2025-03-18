@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2007-03-01 20:38:17 End date: 2020-11-30 09:48:25
+System: {'JBPAPP': 5342}
+Types: {'Task': 1215, 'Bug': 3439, 'Support Patch': 109, 'Feature Request': 395, 'Patch': 8, 'Component Upgrade': 89, 'Enhancement': 75, 'Quality Risk': 12}
+Resolutions: {'Done': 3950, 'Rejected': 271, 'Out of Date': 584, 'Duplicate Issue': 139, "Won't Do": 1, "Won't Fix": 289, 'Migrated to another ITS': 16, 'Incomplete Description': 7, 'Deferred': 18, 'Cannot Reproduce': 49, 'Partially Completed': 18}
+Statuses: {'Closed': 3895, 'Resolved': 1447}
+
+Average Lead Time (all PBIs): 291.8 days
+Average Lead Time (Task): 144.6 days
+Average Lead Time (Bug): 303.2 days
+Average Lead Time (Support Patch): 326.0 days
+Average Lead Time (Feature Request): 531.4 days
+Average Lead Time (Patch): 514.5 days
+Average Lead Time (Component Upgrade): 226.6 days
+Average Lead Time (Enhancement): 888.1 days
+Average Lead Time (Quality Risk): 340.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-08-22 09:48:25 End date: 2020-11-30 09:48:25
+System: {'JBPAPP': 1}
+Types: {'Task': 1}
+Resolutions: {'Done': 1}
+Statuses: {'Closed': 1}
+
+Average Lead Time (all PBIs): 0.0 days
+Average Lead Time (Task): 0.0 days

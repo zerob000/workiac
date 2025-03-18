@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2008-10-15 16:00:03 End date: 2021-05-03 10:53:01
+System: {'DOSGI': 278}
+Types: {'Bug': 188, 'New Feature': 11, 'Improvement': 66, 'Task': 11, 'Wish': 1, 'Test': 1}
+Resolutions: {'': 11, 'Fixed': 215, 'Cannot Reproduce': 16, "Won't Fix": 24, 'Later': 1, 'Duplicate': 9, 'Invalid': 2}
+Statuses: {'Open': 11, 'Closed': 163, 'Resolved': 104}
+
+Average Lead Time (all PBIs): 403.7 days
+Average Lead Time (Bug): 481.8 days
+Average Lead Time (New Feature): 529.5 days
+Average Lead Time (Improvement): 192.1 days
+Average Lead Time (Task): 201.4 days
+Average Lead Time (Wish): 1457.0 days
+Average Lead Time (Test): 82.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-01-23 10:53:01 End date: 2021-05-03 10:53:01
+System: {'DOSGI': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

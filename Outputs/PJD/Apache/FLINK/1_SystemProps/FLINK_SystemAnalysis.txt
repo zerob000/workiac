@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2014-06-08 16:28:31 End date: 2022-01-05 16:12:00
+System: {'FLINK': 20171}
+Types: {'Bug': 10126, 'New Feature': 1606, 'Improvement': 8247, 'Technical Debt': 192}
+Resolutions: {'': 3407, 'Duplicate': 1387, 'Not A Problem': 653, 'Invalid': 446, 'Fixed': 11178, "Won't Fix": 780, 'Incomplete': 25, 'Not A Bug': 141, 'Cannot Reproduce': 340, 'Information Provided': 77, 'Later': 84, 'Abandoned': 322, "Won't Do": 273, 'Implemented': 555, 'Done': 303, 'Resolved': 156, 'Staged': 4, 'Auto Closed': 1, 'Workaround': 26, 'Works for Me': 2, 'Feedback Received': 6, 'Pending Closed': 5}
+Statuses: {'In Progress': 109, 'Open': 2858, 'Closed': 13455, 'Resolved': 3309, 'Reopened': 440}
+
+Average Lead Time (all PBIs): 119.5 days
+Average Lead Time (Improvement): 142.4 days
+Average Lead Time (Bug): 80.0 days
+Average Lead Time (New Feature): 294.7 days
+Average Lead Time (Technical Debt): 67.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-27 16:12:00 End date: 2022-01-05 16:12:00
+System: {'FLINK': 1138}
+Types: {'Bug': 591, 'New Feature': 84, 'Improvement': 377, 'Technical Debt': 86}
+Resolutions: {'': 472, 'Duplicate': 74, 'Not A Problem': 20, 'Invalid': 11, 'Fixed': 405, "Won't Fix": 26, 'Incomplete': 3, 'Not A Bug': 8, 'Cannot Reproduce': 8, 'Information Provided': 39, 'Later': 7, 'Abandoned': 36, "Won't Do": 8, 'Implemented': 6, 'Done': 10, 'Resolved': 3, 'Auto Closed': 1, 'Workaround': 1}
+Statuses: {'In Progress': 21, 'Open': 448, 'Closed': 540, 'Resolved': 126, 'Reopened': 3}
+
+Average Lead Time (all PBIs): 220.9 days
+Average Lead Time (Improvement): 302.1 days
+Average Lead Time (Bug): 184.1 days
+Average Lead Time (New Feature): 390.9 days
+Average Lead Time (Technical Debt): 22.7 days

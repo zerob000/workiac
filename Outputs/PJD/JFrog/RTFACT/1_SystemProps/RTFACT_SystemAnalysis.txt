@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2006-10-04 12:19:24 End date: 2022-01-04 06:21:48
+System: {'RTFACT': 11780}
+Types: {'Bug': 6769, 'New Feature': 1659, 'Improvement': 2521, 'Performance': 127, 'Task': 704}
+Resolutions: {'': 3446, 'Done': 4988, 'Deferred': 2405, 'Will not implement': 14, 'Duplicate': 488, 'Not a Bug': 336, 'Cannot Reproduce': 103}
+Statuses: {'Open': 3199, 'Closed': 2429, 'Done': 6014, 'Pause': 7, 'In Progress': 31, 'Reopened': 19, 'Backlog': 75, 'Ready for Code Review': 3, 'Pending QA': 2, 'Ready For Merge': 1}
+
+Average Lead Time (all PBIs): 683.9 days
+Average Lead Time (Bug): 611.7 days
+Average Lead Time (Improvement): 834.4 days
+Average Lead Time (New Feature): 1104.7 days
+Average Lead Time (Task): 311.7 days
+Average Lead Time (Performance): 562.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 06:21:48 End date: 2022-01-04 06:21:48
+System: {'RTFACT': 2376}
+Types: {'Bug': 1451, 'New Feature': 345, 'Improvement': 499, 'Performance': 34, 'Task': 47}
+Resolutions: {'': 220, 'Done': 66, 'Deferred': 2080, 'Will not implement': 6, 'Duplicate': 1, 'Not a Bug': 2, 'Cannot Reproduce': 1}
+Statuses: {'Open': 217, 'Closed': 2090, 'Done': 64, 'Pause': 1, 'In Progress': 3, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 2231.7 days
+Average Lead Time (Bug): 2060.6 days
+Average Lead Time (Improvement): 2478.4 days
+Average Lead Time (New Feature): 2516.5 days
+Average Lead Time (Task): 2803.6 days
+Average Lead Time (Performance): 2540.3 days

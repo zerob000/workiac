@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2004-04-06 08:31:40 End date: 2008-11-26 02:20:13
+System: {'HIVEMIND': 213}
+Types: {'Bug': 111, 'Improvement': 56, 'Task': 2, 'New Feature': 36, 'Wish': 6, 'Test': 2}
+Resolutions: {'': 81, 'Fixed': 109, 'Cannot Reproduce': 3, 'Duplicate': 4, 'Invalid': 3, "Won't Fix": 13}
+Statuses: {'Open': 80, 'Closed': 93, 'Resolved': 39, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 69.6 days
+Average Lead Time (Bug): 47.9 days
+Average Lead Time (Improvement): 87.3 days
+Average Lead Time (New Feature): 114.9 days
+Average Lead Time (Test): 316.0 days
+Average Lead Time (Wish): 102.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2008-08-18 02:20:13 End date: 2008-11-26 02:20:13
+System: {'HIVEMIND': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

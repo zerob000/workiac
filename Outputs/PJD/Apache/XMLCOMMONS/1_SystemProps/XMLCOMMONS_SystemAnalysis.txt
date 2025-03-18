@@ -1,0 +1,22 @@
+All PBIS - Unfiltered 
+Start date: 2001-10-12 17:17:35 End date: 2021-02-16 10:54:35
+System: {'XMLCOMMONS': 92}
+Types: {'Bug': 81, 'Improvement': 10, 'Task': 1}
+Resolutions: {'': 37, 'Not A Bug': 1, 'Invalid': 3, 'Fixed': 17, 'Incomplete': 25, "Won't Fix": 3, 'Duplicate': 2, 'Cannot Reproduce': 4}
+Statuses: {'Open': 36, 'Closed': 7, 'Resolved': 48, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 1857.3 days
+Average Lead Time (Bug): 1873.1 days
+Average Lead Time (Improvement): 2073.4 days
+Average Lead Time (Task): 3.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-11-08 10:54:35 End date: 2021-02-16 10:54:35
+System: {'XMLCOMMONS': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

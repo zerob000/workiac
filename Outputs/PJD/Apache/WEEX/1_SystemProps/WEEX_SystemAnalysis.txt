@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2017-01-04 06:50:32 End date: 2021-04-19 15:44:52
+System: {'WEEX': 659}
+Types: {'Bug': 378, 'Wish': 11, 'Task': 29, 'Improvement': 166, 'New Feature': 75}
+Resolutions: {'': 231, 'Abandoned': 1, 'Fixed': 363, "Won't Fix": 13, 'Invalid': 8, 'Not A Problem': 4, 'Resolved': 16, 'Later': 2, 'Workaround': 2, 'Delivered': 1, 'Auto Closed': 1, 'Duplicate': 3, 'Not A Bug': 2, 'Works for Me': 1, 'Done': 4, "Won't Do": 1, 'Cannot Reproduce': 1, 'Implemented': 4, 'Incomplete': 1}
+Statuses: {'Open': 226, 'Closed': 157, 'Resolved': 271, 'In Progress': 2, 'Reopened': 3}
+
+Average Lead Time (all PBIs): 69.0 days
+Average Lead Time (Wish): 12.1 days
+Average Lead Time (Bug): 62.6 days
+Average Lead Time (New Feature): 80.8 days
+Average Lead Time (Improvement): 80.6 days
+Average Lead Time (Task): 68.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-01-09 15:44:52 End date: 2021-04-19 15:44:52
+System: {'WEEX': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

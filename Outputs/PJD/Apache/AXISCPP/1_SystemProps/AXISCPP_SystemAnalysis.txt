@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2003-09-24 19:29:38 End date: 2016-01-15 14:20:23
+System: {'AXISCPP': 1079}
+Types: {'Bug': 786, 'Task': 25, 'Wish': 24, 'New Feature': 49, 'Improvement': 161, 'Test': 34}
+Resolutions: {'': 89, 'Not A Problem': 4, 'Fixed': 818, 'Incomplete': 13, 'Duplicate': 45, 'Cannot Reproduce': 37, 'Invalid': 28, "Won't Fix": 45}
+Statuses: {'Open': 87, 'Closed': 949, 'Resolved': 41, 'Reopened': 2}
+
+Average Lead Time (all PBIs): 172.5 days
+Average Lead Time (Wish): 544.9 days
+Average Lead Time (Bug): 143.6 days
+Average Lead Time (Improvement): 227.2 days
+Average Lead Time (New Feature): 425.6 days
+Average Lead Time (Test): 116.0 days
+Average Lead Time (Task): 140.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2015-10-07 14:20:23 End date: 2016-01-15 14:20:23
+System: {'AXISCPP': 3}
+Types: {'Bug': 3}
+Resolutions: {'': 3}
+Statuses: {'Open': 3}
+
+No PBIs resolved in last 100 days.

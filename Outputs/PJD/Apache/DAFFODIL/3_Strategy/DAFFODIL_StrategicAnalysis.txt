@@ -1,0 +1,73 @@
+
+System Name: DAFFODIL
+System Duration (Captured): 4067 days
+
+Calculated Final System Size: 401 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 401 PBIs
+
+Model Final System Size: 558 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 558 PBIs
+
+% Error, Final backlog, model vs actual: 39.0%
+Error, Final backlog, model vs actual: 157 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 984 PBIs
+Total Unplanned Arrivals: 1473 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 388 PBIs
+Total Net Arrivals: 2069 PBIs
+Total Services: 1668 PBIs
+
+Rates:
+Planned Arrival Rate: 0.269 PBIs/day
+Unplanned Arrival Rate: 0.399 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.1 PBIs/day
+Net Arrival Rate: 0.568 PBIs/day
+Service Rate: 0.461 PBIs/day
+
+
+Metrics:
+Stability: 0.812
+Quality: 0.403
+Control: 0.85
+Inventory Days: 869.848 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 401 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 401 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 19 PBIs
+Unplanned Arrivals in this period: 35 PBIs
+Cancelled/Rejected/Won't Do  in this period: 4 PBIs
+System size change in this period: 16 PBIs
+Net Arrivals in this period: 50 PBIs
+Services in this period: 33 PBIs
+
+Rates:
+Planned Arrival Rate: 0.203 PBIs/day
+Unplanned Arrival Rate: 0.444 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.063 PBIs/day
+Net Arrival Rate: 0.533 PBIs/day
+Service Rate: 0.328 PBIs/day
+
+Metrics:
+Stability: 0.562
+Quality: 0.314
+Control: 0.903
+Inventory Days: 1222.561 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

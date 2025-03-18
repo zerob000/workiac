@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2016-03-28 19:53:14 End date: 2021-11-05 05:22:44
+System: {'JSDECO': 183}
+Types: {'Bug': 79, 'Task': 8, 'Improvement': 54, 'New Feature': 42}
+Resolutions: {'': 115, 'Done': 68}
+Statuses: {'To Do': 111, 'Done': 68, 'In Progress': 4}
+
+Average Lead Time (all PBIs): 146.0 days
+Average Lead Time (New Feature): 298.8 days
+Average Lead Time (Bug): 123.8 days
+Average Lead Time (Improvement): 128.0 days
+Average Lead Time (Task): 11.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-07-28 05:22:44 End date: 2021-11-05 05:22:44
+System: {'JSDECO': 3}
+Types: {'Bug': 2, 'New Feature': 1}
+Resolutions: {'': 1, 'Done': 2}
+Statuses: {'To Do': 1, 'Done': 2}
+
+Average Lead Time (all PBIs): 1311.0 days
+Average Lead Time (Bug): 891.0 days
+Average Lead Time (New Feature): 1731.0 days

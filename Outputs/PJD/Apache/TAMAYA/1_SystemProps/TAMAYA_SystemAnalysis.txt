@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2014-11-23 00:18:36 End date: 2020-11-29 15:26:55
+System: {'TAMAYA': 331}
+Types: {'Bug': 97, 'Improvement': 130, 'Task': 57, 'New Feature': 42, 'Wish': 2, 'Test': 3}
+Resolutions: {'': 26, 'Fixed': 230, 'Invalid': 1, 'Done': 18, "Won't Fix": 18, 'Implemented': 31, 'Duplicate': 2, 'Later': 1, 'Incomplete': 1, 'Not A Problem': 2, "Won't Do": 1}
+Statuses: {'Open': 18, 'Resolved': 202, 'Closed': 103, 'In Progress': 8}
+
+Average Lead Time (all PBIs): 135.8 days
+Average Lead Time (Bug): 56.8 days
+Average Lead Time (Improvement): 124.4 days
+Average Lead Time (Task): 301.1 days
+Average Lead Time (New Feature): 153.4 days
+Average Lead Time (Wish): 163.5 days
+Average Lead Time (Test): 385.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-08-21 15:26:55 End date: 2020-11-29 15:26:55
+System: {'TAMAYA': 2}
+Types: {'Bug': 2}
+Resolutions: {'': 1, 'Fixed': 1}
+Statuses: {'Open': 1, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 1.0 days
+Average Lead Time (Bug): 1.0 days

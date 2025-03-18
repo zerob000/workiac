@@ -1,0 +1,73 @@
+
+System Name: INFRA
+System Duration (Captured): 6698 days
+
+Calculated Final System Size: 110 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 110 PBIs
+
+Model Final System Size: 212 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 212 PBIs
+
+% Error, Final backlog, model vs actual: 93.0%
+Error, Final backlog, model vs actual: 102 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 9214 PBIs
+Total Unplanned Arrivals: 5804 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 2334 PBIs
+Total Net Arrivals: 12684 PBIs
+Total Services: 12574 PBIs
+
+Rates:
+Planned Arrival Rate: 3.196 PBIs/day
+Unplanned Arrival Rate: 1.865 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.757 PBIs/day
+Net Arrival Rate: 4.304 PBIs/day
+Service Rate: 4.243 PBIs/day
+
+
+Metrics:
+Stability: 0.986
+Quality: 0.631
+Control: 0.85
+Inventory Days: 25.925 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Start-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 110 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 110 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 209 PBIs
+Unplanned Arrivals in this period: 124 PBIs
+Cancelled/Rejected/Won't Do  in this period: 68 PBIs
+System size change in this period: -43 PBIs
+Net Arrivals in this period: 265 PBIs
+Services in this period: 309 PBIs
+
+Rates:
+Planned Arrival Rate: 1.942 PBIs/day
+Unplanned Arrival Rate: 1.491 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.686 PBIs/day
+Net Arrival Rate: 2.692 PBIs/day
+Service Rate: 2.971 PBIs/day
+
+Metrics:
+Stability: 1.082
+Quality: 0.566
+Control: 0.8
+Inventory Days: 37.025 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

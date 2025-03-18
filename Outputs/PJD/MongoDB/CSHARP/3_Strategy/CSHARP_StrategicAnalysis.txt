@@ -1,0 +1,73 @@
+
+System Name: CSHARP
+System Duration (Captured): 4344 days
+
+Calculated Final System Size: 546 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 546 PBIs
+
+Model Final System Size: 554 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 554 PBIs
+
+% Error, Final backlog, model vs actual: 1.0%
+Error, Final backlog, model vs actual: 8 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 2502 PBIs
+Total Unplanned Arrivals: 1179 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 1158 PBIs
+Total Net Arrivals: 2523 PBIs
+Total Services: 1977 PBIs
+
+Rates:
+Planned Arrival Rate: 0.583 PBIs/day
+Unplanned Arrival Rate: 0.269 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.288 PBIs/day
+Net Arrival Rate: 0.564 PBIs/day
+Service Rate: 0.416 PBIs/day
+
+
+Metrics:
+Stability: 0.738
+Quality: 0.684
+Control: 0.662
+Inventory Days: 1312.5 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 98 days
+
+Calculated Final System Size: 546 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 546 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 80 PBIs
+Unplanned Arrivals in this period: 28 PBIs
+Cancelled/Rejected/Won't Do  in this period: 29 PBIs
+System size change in this period: -127 PBIs
+Net Arrivals in this period: 79 PBIs
+Services in this period: 205 PBIs
+
+Rates:
+Planned Arrival Rate: 0.913 PBIs/day
+Unplanned Arrival Rate: 0.332 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.295 PBIs/day
+Net Arrival Rate: 0.963 PBIs/day
+Service Rate: 2.243 PBIs/day
+
+Metrics:
+Stability: 2.361
+Quality: 0.733
+Control: 0.763
+Inventory Days: 243.424 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

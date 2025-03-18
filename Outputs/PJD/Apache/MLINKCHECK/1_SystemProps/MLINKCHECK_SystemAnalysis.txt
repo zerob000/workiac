@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2010-08-05 04:44:41 End date: 2021-06-04 22:11:10
+System: {'MLINKCHECK': 38}
+Types: {'Dependency upgrade': 6, 'Improvement': 13, 'Bug': 14, 'New Feature': 3, 'Task': 2}
+Resolutions: {'Duplicate': 1, '': 10, 'Fixed': 21, 'Done': 2, "Won't Fix": 1, 'Auto Closed': 1, 'Not A Problem': 2}
+Statuses: {'Closed': 28, 'Open': 10}
+
+Average Lead Time (all PBIs): 148.0 days
+Average Lead Time (Dependency upgrade): 10.6 days
+Average Lead Time (Improvement): 119.8 days
+Average Lead Time (Bug): 135.7 days
+Average Lead Time (Task): 716.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-02-24 22:11:10 End date: 2021-06-04 22:11:10
+System: {'MLINKCHECK': 1}
+Types: {'Dependency upgrade': 1}
+Resolutions: {'Duplicate': 1}
+Statuses: {'Closed': 1}
+
+Average Lead Time (all PBIs): 1.0 days
+Average Lead Time (Dependency upgrade): 1.0 days

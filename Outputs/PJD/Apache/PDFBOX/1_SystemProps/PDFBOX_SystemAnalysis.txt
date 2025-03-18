@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 2003-07-04 00:57:00 End date: 2022-01-04 11:47:59
+System: {'PDFBOX': 5254}
+Types: {'Bug': 3814, 'Wish': 98, 'Improvement': 965, 'Task': 134, 'New Feature': 222, 'Test': 21}
+Resolutions: {'': 381, 'Invalid': 179, 'Fixed': 3271, 'Duplicate': 336, 'Not A Bug': 164, "Won't Fix": 234, 'Cannot Reproduce': 214, "Won't Do": 37, 'Not A Problem': 330, 'Implemented': 24, 'Later': 12, 'Incomplete': 47, 'Workaround': 2, 'Information Provided': 2, 'Done': 3, 'Feedback Received': 1, 'Abandoned': 17}
+Statuses: {'Open': 365, 'Closed': 4758, 'Resolved': 115, 'Reopened': 14, 'In Progress': 2}
+
+Average Lead Time (all PBIs): 299.2 days
+Average Lead Time (Wish): 237.5 days
+Average Lead Time (Bug): 277.0 days
+Average Lead Time (Improvement): 167.6 days
+Average Lead Time (Task): 127.4 days
+Average Lead Time (New Feature): 1387.5 days
+Average Lead Time (Test): 353.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 11:47:59 End date: 2022-01-04 11:47:59
+System: {'PDFBOX': 76}
+Types: {'Bug': 55, 'Wish': 1, 'Improvement': 11, 'Task': 6, 'New Feature': 3}
+Resolutions: {'': 19, 'Invalid': 3, 'Fixed': 35, 'Duplicate': 3, 'Not A Bug': 11, "Won't Fix": 2, 'Cannot Reproduce': 2, "Won't Do": 1}
+Statuses: {'Open': 19, 'Closed': 48, 'Resolved': 9}
+
+Average Lead Time (all PBIs): 44.1 days
+Average Lead Time (Wish): 0.0 days
+Average Lead Time (Bug): 47.1 days
+Average Lead Time (Improvement): 61.7 days
+Average Lead Time (Task): 1.8 days
+Average Lead Time (New Feature): 4.0 days

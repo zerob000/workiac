@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 2009-04-17 20:00:51 End date: 2022-01-04 15:57:11
+System: {'JAVA': 3899}
+Types: {'Task': 611, 'Bug': 1110, 'Improvement': 1604, 'New Feature': 553, 'Spec Change': 20, 'Question': 1}
+Resolutions: {'': 220, "Won't Fix": 353, 'Fixed': 2296, 'Declined': 6, 'Gone away': 71, 'Works as Designed': 375, 'Duplicate': 251, 'Done': 193, "Won't Do": 21, 'Community Answered': 15, 'Incomplete': 35, 'Cannot Reproduce': 63}
+Statuses: {'Needs Triage': 2, 'Investigating': 4, 'In Code Review': 2, 'Closed': 3679, 'Open': 169, 'Waiting (Blocked)': 38, 'Scheduled': 4, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 134.3 days
+Average Lead Time (Task): 76.6 days
+Average Lead Time (Improvement): 169.9 days
+Average Lead Time (New Feature): 226.6 days
+Average Lead Time (Bug): 76.4 days
+Average Lead Time (Spec Change): 41.8 days
+Average Lead Time (Question): 2.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 15:57:11 End date: 2022-01-04 15:57:11
+System: {'JAVA': 144}
+Types: {'Task': 16, 'Bug': 23, 'Improvement': 72, 'New Feature': 18, 'Spec Change': 15}
+Resolutions: {'': 41, "Won't Fix": 5, 'Fixed': 71, 'Declined': 2, 'Gone away': 5, 'Works as Designed': 6, 'Duplicate': 5, 'Done': 7, "Won't Do": 2}
+Statuses: {'Needs Triage': 2, 'Investigating': 4, 'In Code Review': 2, 'Closed': 103, 'Open': 16, 'Waiting (Blocked)': 13, 'Scheduled': 4}
+
+Average Lead Time (all PBIs): 53.0 days
+Average Lead Time (Task): 17.3 days
+Average Lead Time (Improvement): 60.8 days
+Average Lead Time (New Feature): 100.8 days
+Average Lead Time (Bug): 29.7 days
+Average Lead Time (Spec Change): 38.5 days

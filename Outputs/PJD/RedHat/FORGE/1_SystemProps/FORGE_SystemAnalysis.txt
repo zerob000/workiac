@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2010-10-22 11:34:26 End date: 2021-11-04 19:09:53
+System: {'FORGE': 2298}
+Types: {'Task': 117, 'Bug': 843, 'Feature Request': 769, 'Enhancement': 410, 'Component Upgrade': 131, 'Quality Risk': 24, 'Patch': 4}
+Resolutions: {'': 242, 'Done': 1630, 'Duplicate Issue': 60, 'Rejected': 54, "Won't Do": 28, 'Out of Date': 101, 'Incomplete Description': 4, 'Explained': 1, "Won't Fix": 106, 'Deferred': 12, 'Cannot Reproduce': 45, 'Partially Completed': 7, 'Migrated to another ITS': 8}
+Statuses: {'Open': 237, 'Closed': 2055, 'Resolved': 1, 'Reopened': 5}
+
+Average Lead Time (all PBIs): 124.9 days
+Average Lead Time (Bug): 77.2 days
+Average Lead Time (Task): 113.4 days
+Average Lead Time (Feature Request): 199.4 days
+Average Lead Time (Enhancement): 140.4 days
+Average Lead Time (Component Upgrade): 15.5 days
+Average Lead Time (Quality Risk): 39.4 days
+Average Lead Time (Patch): 26.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-07-27 19:09:53 End date: 2021-11-04 19:09:53
+System: {'FORGE': 2}
+Types: {'Task': 1, 'Bug': 1}
+Resolutions: {'': 1, 'Done': 1}
+Statuses: {'Open': 1, 'Closed': 1}
+
+Average Lead Time (all PBIs): 1.0 days
+Average Lead Time (Bug): 1.0 days

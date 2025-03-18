@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2006-07-06 19:46:46 End date: 2021-12-23 15:17:49
+System: {'JCS': 210}
+Types: {'Bug': 137, 'Improvement': 39, 'Task': 3, 'Question': 18, 'Documentation': 2, 'New Feature': 6, 'Wish': 5}
+Resolutions: {'Fixed': 155, 'Not A Bug': 4, 'Invalid': 10, "Won't Fix": 9, 'Cannot Reproduce': 9, 'Duplicate': 3, 'Not A Problem': 10, 'Auto Closed': 1, 'Works for Me': 1, 'Abandoned': 1, 'Information Provided': 1, 'Incomplete': 5, 'Implemented': 1}
+Statuses: {'Resolved': 10, 'Closed': 200}
+
+Average Lead Time (all PBIs): 368.7 days
+Average Lead Time (Bug): 311.7 days
+Average Lead Time (Improvement): 661.6 days
+Average Lead Time (Task): 57.3 days
+Average Lead Time (Question): 170.4 days
+Average Lead Time (Documentation): 0.0 days
+Average Lead Time (New Feature): 319.3 days
+Average Lead Time (Wish): 753.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-14 15:17:49 End date: 2021-12-23 15:17:49
+System: {'JCS': 5}
+Types: {'Bug': 3, 'Improvement': 1, 'Question': 1}
+Resolutions: {'Fixed': 3, 'Not A Bug': 2}
+Statuses: {'Resolved': 5}
+
+Average Lead Time (all PBIs): 642.0 days
+Average Lead Time (Bug): 561.7 days
+Average Lead Time (Improvement): 269.0 days
+Average Lead Time (Question): 1256.0 days

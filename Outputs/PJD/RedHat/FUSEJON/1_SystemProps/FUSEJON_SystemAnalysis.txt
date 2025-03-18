@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2012-04-05 14:50:51 End date: 2021-09-06 06:52:44
+System: {'FUSEJON': 139}
+Types: {'Bug': 84, 'Feature Request': 22, 'Enhancement': 17, 'Task': 12, 'Documentation': 4}
+Resolutions: {"Won't Do": 1, 'Out of Date': 8, 'Cannot Reproduce': 2, 'Done': 113, 'Rejected': 2, '': 7, 'Duplicate Issue': 2, "Won't Fix": 3, 'Deferred': 1}
+Statuses: {'Resolved': 86, 'Closed': 46, 'Open': 7}
+
+Average Lead Time (all PBIs): 123.9 days
+Average Lead Time (Bug): 142.2 days
+Average Lead Time (Feature Request): 64.7 days
+Average Lead Time (Enhancement): 182.1 days
+Average Lead Time (Task): 48.8 days
+Average Lead Time (Documentation): 54.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-05-29 06:52:44 End date: 2021-09-06 06:52:44
+System: {'FUSEJON': 5}
+Types: {'Enhancement': 1, 'Bug': 4}
+Resolutions: {'Out of Date': 5}
+Statuses: {'Closed': 5}
+
+Average Lead Time (all PBIs): 1892.2 days
+Average Lead Time (Enhancement): 1752.0 days
+Average Lead Time (Bug): 1927.2 days

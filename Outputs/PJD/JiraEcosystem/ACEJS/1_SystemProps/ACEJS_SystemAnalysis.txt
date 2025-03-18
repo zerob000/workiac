@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2013-12-19 00:16:45 End date: 2021-02-08 18:07:59
+System: {'ACEJS': 121}
+Types: {'Improvement': 36, 'Bug': 58, 'New Feature': 11, 'Initiative': 1, 'Support Request': 8, 'Documentation': 7}
+Resolutions: {'': 23, 'Fixed': 50, 'Not a bug': 2, 'Invalid': 6, 'Duplicate': 2, 'Obsolete': 11, 'Handled by Support': 2, 'Done': 3, 'Rejected': 2, "Won't Do": 3, "Won't Fix": 4, 'Answered': 7, 'Sent to Forums': 1, 'Cannot Reproduce': 2, 'Resolved Locally': 1, 'Timed out': 1, 'Tracked Elsewhere': 1}
+Statuses: {'Triage': 14, 'Closed': 98, 'New': 4, 'Under Review': 2, 'In Progress': 3}
+
+Average Lead Time (all PBIs): 463.2 days
+Average Lead Time (Bug): 469.7 days
+Average Lead Time (New Feature): 586.6 days
+Average Lead Time (Initiative): 94.0 days
+Average Lead Time (Support Request): 275.3 days
+Average Lead Time (Improvement): 442.7 days
+Average Lead Time (Documentation): 556.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-10-31 18:07:59 End date: 2021-02-08 18:07:59
+System: {'ACEJS': 6}
+Types: {'Improvement': 4, 'Bug': 2}
+Resolutions: {'': 3, 'Fixed': 2, 'Obsolete': 1}
+Statuses: {'Triage': 3, 'Closed': 3}
+
+Average Lead Time (all PBIs): 728.7 days
+Average Lead Time (Bug): 859.5 days
+Average Lead Time (Improvement): 467.0 days

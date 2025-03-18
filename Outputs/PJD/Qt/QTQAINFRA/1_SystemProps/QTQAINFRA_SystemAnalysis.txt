@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2009-11-12 10:02:54 End date: 2022-01-04 14:10:43
+System: {'QTQAINFRA': 3637}
+Types: {'Task': 1924, 'Bug': 1317, 'User Story': 218, 'Suggestion': 178}
+Resolutions: {'': 447, 'Done': 2106, 'Out of scope': 283, 'Fixed': 171, 'Invalid': 168, "Won't Do": 132, 'Duplicate': 173, 'Cannot Reproduce': 96, 'Incomplete': 58, 'Moved': 3}
+Statuses: {'Reported': 202, 'In Progress': 56, 'Closed': 3162, 'Open': 189, 'Withdrawn': 28}
+
+Average Lead Time (all PBIs): 199.0 days
+Average Lead Time (Bug): 195.4 days
+Average Lead Time (Task): 162.7 days
+Average Lead Time (User Story): 346.7 days
+Average Lead Time (Suggestion): 528.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 14:10:43 End date: 2022-01-04 14:10:43
+System: {'QTQAINFRA': 176}
+Types: {'Task': 102, 'Bug': 44, 'User Story': 22, 'Suggestion': 8}
+Resolutions: {'': 80, 'Done': 57, 'Out of scope': 6, 'Fixed': 12, 'Invalid': 7, "Won't Do": 7, 'Duplicate': 5, 'Cannot Reproduce': 2}
+Statuses: {'Reported': 33, 'In Progress': 19, 'Closed': 94, 'Open': 28, 'Withdrawn': 2}
+
+Average Lead Time (all PBIs): 181.2 days
+Average Lead Time (Bug): 224.9 days
+Average Lead Time (Task): 153.4 days
+Average Lead Time (User Story): 193.5 days
+Average Lead Time (Suggestion): 244.3 days

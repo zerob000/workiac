@@ -1,0 +1,12 @@
+---
+# Add a queue of system names and data files for the manager to run
+System_Names:
+    ## "CSV name": "Yaml name"
+    "WEB": "Mojang.yaml"
+    "REALMS": "Mojang.yaml"
+    "MCPE": "Mojang.yaml"
+    "MCL": "Mojang.yaml"
+    "MCD": "Mojang.yaml"
+    "MCCE": "Mojang.yaml"
+    "MC": "Mojang.yaml"
+    "BDS": "Mojang.yaml"

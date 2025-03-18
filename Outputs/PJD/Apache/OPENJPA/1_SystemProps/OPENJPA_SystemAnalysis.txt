@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2006-05-09 08:37:23 End date: 2021-12-23 15:53:07
+System: {'OPENJPA': 2654}
+Types: {'Bug': 1870, 'Improvement': 436, 'Question': 43, 'Task': 66, 'New Feature': 164, 'Wish': 15, 'Dependency upgrade': 6, 'Documentation': 6, 'Test': 48}
+Resolutions: {'Fixed': 1611, '': 779, 'Duplicate': 55, 'Not A Problem': 55, "Won't Fix": 43, 'Workaround': 2, 'Resolved': 1, 'Auto Closed': 1, 'Incomplete': 4, 'Invalid': 63, 'Abandoned': 4, 'Cannot Reproduce': 35, 'Later': 1}
+Statuses: {'Resolved': 168, 'Open': 752, 'Closed': 1707, 'Reopened': 18, 'In Progress': 9}
+
+Average Lead Time (all PBIs): 156.9 days
+Average Lead Time (Bug): 152.0 days
+Average Lead Time (Improvement): 180.4 days
+Average Lead Time (Task): 107.2 days
+Average Lead Time (New Feature): 175.8 days
+Average Lead Time (Wish): 324.7 days
+Average Lead Time (Dependency upgrade): 239.7 days
+Average Lead Time (Question): 192.8 days
+Average Lead Time (Test): 112.2 days
+Average Lead Time (Documentation): 9.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-14 15:53:07 End date: 2021-12-23 15:53:07
+System: {'OPENJPA': 17}
+Types: {'Bug': 12, 'Improvement': 2, 'Question': 1, 'Task': 2}
+Resolutions: {'Fixed': 10, '': 7}
+Statuses: {'Resolved': 10, 'Open': 7}
+
+Average Lead Time (all PBIs): 21.7 days
+Average Lead Time (Bug): 22.3 days
+Average Lead Time (Improvement): 41.5 days
+Average Lead Time (Task): 0.0 days

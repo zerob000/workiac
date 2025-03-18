@@ -1,0 +1,21 @@
+All PBIS - Unfiltered 
+Start date: 2014-01-26 00:35:10 End date: 2022-01-04 10:58:23
+System: {'WEB': 3473}
+Types: {'Bug': 3473}
+Resolutions: {'': 216, 'Incomplete': 140, 'Invalid': 1701, 'Duplicate': 511, 'Awaiting Response': 171, 'Fixed': 518, 'Works As Intended': 65, 'Cannot Reproduce': 73, "Won't Fix": 75, 'Done': 3}
+Statuses: {'Open': 166, 'Reopened': 50, 'Resolved': 3257}
+
+Average Lead Time (all PBIs): 67.8 days
+Average Lead Time (Bug): 67.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 10:58:23 End date: 2022-01-04 10:58:23
+System: {'WEB': 407}
+Types: {'Bug': 407}
+Resolutions: {'': 48, 'Incomplete': 8, 'Invalid': 109, 'Duplicate': 59, 'Awaiting Response': 19, 'Fixed': 99, 'Works As Intended': 18, 'Cannot Reproduce': 9, "Won't Fix": 38}
+Statuses: {'Open': 44, 'Reopened': 4, 'Resolved': 359}
+
+Average Lead Time (all PBIs): 252.0 days
+Average Lead Time (Bug): 252.0 days

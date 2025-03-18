@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 2010-11-28 16:11:18 End date: 2021-12-17 09:43:56
+System: {'PLUGWEB': 573}
+Types: {'Bug': 255, 'Task': 104, 'Improvement': 146, 'New Feature': 36, 'Story': 27, 'Documentation': 5}
+Resolutions: {'': 51, 'Fixed': 314, 'Not a bug': 19, 'Done': 27, 'Duplicate': 24, 'Obsolete': 28, "Won't Fix": 72, "Won't Do": 13, 'Canceled': 11, 'Answered': 2, 'Cannot Reproduce': 2, 'Resolved Locally': 1, 'Tracked Elsewhere': 5, 'Support Request': 1, 'Incomplete': 1, 'Invalid': 1, 'Timed out': 1}
+Statuses: {'Needs Triage': 11, 'Short Term Backlog': 2, 'Closed': 522, 'In Review': 1, 'Not Being Considered': 24, 'Under Triage': 3, 'Long Term Backlog': 9, 'Waiting for Release': 1}
+
+Average Lead Time (all PBIs): 369.9 days
+Average Lead Time (Bug): 344.1 days
+Average Lead Time (Task): 107.3 days
+Average Lead Time (New Feature): 565.8 days
+Average Lead Time (Improvement): 552.8 days
+Average Lead Time (Story): 350.2 days
+Average Lead Time (Documentation): 128.4 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-08 09:43:56 End date: 2021-12-17 09:43:56
+System: {'PLUGWEB': 79}
+Types: {'Bug': 36, 'Task': 20, 'Improvement': 13, 'New Feature': 3, 'Story': 7}
+Resolutions: {'': 11, 'Fixed': 23, 'Not a bug': 3, 'Done': 6, 'Duplicate': 1, "Won't Fix": 34, 'Cannot Reproduce': 1}
+Statuses: {'Needs Triage': 8, 'Short Term Backlog': 1, 'Closed': 68, 'In Review': 1, 'Not Being Considered': 1}
+
+Average Lead Time (all PBIs): 847.8 days
+Average Lead Time (Bug): 985.9 days
+Average Lead Time (Task): 198.6 days
+Average Lead Time (New Feature): 831.0 days
+Average Lead Time (Improvement): 1981.0 days
+Average Lead Time (Story): 343.0 days

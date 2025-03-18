@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2017-11-02 15:55:20 End date: 2021-08-06 12:13:03
+System: {'MXNET': 1145}
+Types: {'Bug': 375, 'Task': 148, 'Improvement': 346, 'Story': 101, 'New Feature': 158, 'Test': 17}
+Resolutions: {'': 880, 'Implemented': 7, 'Fixed': 216, 'Done': 13, 'Information Provided': 2, 'Duplicate': 6, "Won't Fix": 4, 'Not A Problem': 3, 'Cannot Reproduce': 7, 'Later': 1, 'Not A Bug': 2, 'Feedback Received': 1, "Won't Do": 1, 'Resolved': 2}
+Statuses: {'To Do': 596, 'Done': 485, 'In Progress': 41, 'In Review': 23}
+
+Average Lead Time (all PBIs): 42.6 days
+Average Lead Time (Task): 57.2 days
+Average Lead Time (Improvement): 49.6 days
+Average Lead Time (New Feature): 27.3 days
+Average Lead Time (Bug): 32.8 days
+Average Lead Time (Story): 59.9 days
+Average Lead Time (Test): 15.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-04-28 12:13:03 End date: 2021-08-06 12:13:03
+System: {'MXNET': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'To Do': 1}
+
+No PBIs resolved in last 100 days.

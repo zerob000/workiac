@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2012-07-23 23:50:00 End date: 2020-02-20 09:14:28
+System: {'RHBRMS': 2400}
+Types: {'Bug': 2229, 'Support Patch': 8, 'Enhancement': 102, 'Task': 15, 'Feature Request': 46}
+Resolutions: {'Done': 1893, "Won't Fix": 196, 'Explained': 1, 'Out of Date': 26, 'Rejected': 28, 'Duplicate Issue': 92, 'Cannot Reproduce': 133, "Won't Do": 14, 'Partially Completed': 1, 'Deferred': 4, 'Incomplete Description': 12}
+Statuses: {'Verified': 1012, 'Closed': 1379, 'Resolved': 9}
+
+Average Lead Time (all PBIs): 275.4 days
+Average Lead Time (Bug): 246.2 days
+Average Lead Time (Support Patch): 78.7 days
+Average Lead Time (Enhancement): 685.7 days
+Average Lead Time (Task): 211.5 days
+Average Lead Time (Feature Request): 830.9 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2019-11-12 09:14:28 End date: 2020-02-20 09:14:28
+System: {'RHBRMS': 141}
+Types: {'Bug': 107, 'Enhancement': 23, 'Feature Request': 11}
+Resolutions: {"Won't Fix": 136, 'Out of Date': 2, 'Cannot Reproduce': 2, "Won't Do": 1}
+Statuses: {'Closed': 141}
+
+Average Lead Time (all PBIs): 1644.5 days
+Average Lead Time (Bug): 1582.7 days
+Average Lead Time (Enhancement): 1851.1 days
+Average Lead Time (Feature Request): 1813.5 days

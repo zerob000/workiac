@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 2011-12-05 12:58:31 End date: 2021-12-08 01:59:40
+System: {'OPENMEETINGS': 2640}
+Types: {'Bug': 1790, 'Test': 75, 'Improvement': 492, 'Task': 143, 'New Feature': 86, 'Wish': 54}
+Resolutions: {'': 90, 'Fixed': 1806, 'Duplicate': 80, 'Not A Bug': 15, 'Information Provided': 176, 'Abandoned': 2, 'Cannot Reproduce': 138, 'Incomplete': 36, 'Implemented': 12, 'Workaround': 7, 'Pending Closed': 4, 'Not A Problem': 131, 'Resolved': 2, "Won't Fix": 47, 'Invalid': 71, "Won't Do": 5, 'Done': 8, 'Later': 10}
+Statuses: {'Open': 83, 'Resolved': 245, 'Closed': 2305, 'Reopened': 2, 'In Progress': 5}
+
+Average Lead Time (all PBIs): 87.1 days
+Average Lead Time (Bug): 54.5 days
+Average Lead Time (Improvement): 175.1 days
+Average Lead Time (Task): 94.3 days
+Average Lead Time (New Feature): 307.7 days
+Average Lead Time (Test): 39.7 days
+Average Lead Time (Wish): 157.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-08-30 01:59:40 End date: 2021-12-08 01:59:40
+System: {'OPENMEETINGS': 79}
+Types: {'Bug': 43, 'Test': 8, 'Improvement': 12, 'Task': 10, 'New Feature': 6}
+Resolutions: {'': 22, 'Fixed': 42, 'Duplicate': 3, 'Not A Bug': 1, 'Information Provided': 2, 'Abandoned': 1, 'Cannot Reproduce': 6, 'Incomplete': 1, 'Implemented': 1}
+Statuses: {'Open': 21, 'Resolved': 31, 'Closed': 26, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 48.5 days
+Average Lead Time (Bug): 54.1 days
+Average Lead Time (Improvement): 59.7 days
+Average Lead Time (Task): 54.1 days
+Average Lead Time (New Feature): 4.0 days
+Average Lead Time (Test): 2.0 days

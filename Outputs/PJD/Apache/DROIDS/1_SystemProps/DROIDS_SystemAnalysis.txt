@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2008-03-19 12:35:24 End date: 2020-01-28 06:43:18
+System: {'DROIDS': 171}
+Types: {'New Feature': 17, 'Bug': 59, 'Question': 4, 'Improvement': 77, 'Task': 9, 'Wish': 3, 'Test': 2}
+Resolutions: {'': 43, 'Fixed': 119, 'Incomplete': 1, "Won't Fix": 4, 'Duplicate': 3, 'Invalid': 1}
+Statuses: {'Open': 41, 'Resolved': 77, 'Closed': 51, 'In Progress': 1, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 142.8 days
+Average Lead Time (Bug): 109.5 days
+Average Lead Time (Improvement): 128.2 days
+Average Lead Time (Task): 436.0 days
+Average Lead Time (New Feature): 208.8 days
+Average Lead Time (Wish): 89.0 days
+Average Lead Time (Test): 36.5 days
+Average Lead Time (Question): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2019-10-20 06:43:18 End date: 2020-01-28 06:43:18
+System: {'DROIDS': 1}
+Types: {'New Feature': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

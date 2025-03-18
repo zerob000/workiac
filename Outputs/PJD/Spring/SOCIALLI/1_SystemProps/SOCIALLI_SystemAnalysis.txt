@@ -1,0 +1,22 @@
+All PBIS - Unfiltered 
+Start date: 2010-12-06 06:20:17 End date: 2018-09-01 13:08:22
+System: {'SOCIALLI': 35}
+Types: {'Bug': 15, 'New Feature': 4, 'Improvement': 16}
+Resolutions: {'': 7, 'Cannot Reproduce': 1, 'Complete': 15, 'Invalid': 2, 'Works as Designed': 2, "Won't Fix": 3, 'Fixed': 4, 'Duplicate': 1}
+Statuses: {'Open': 7, 'Resolved': 17, 'Closed': 11}
+
+Average Lead Time (all PBIs): 143.9 days
+Average Lead Time (Bug): 102.8 days
+Average Lead Time (New Feature): 189.5 days
+Average Lead Time (Improvement): 178.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2018-05-24 13:08:22 End date: 2018-09-01 13:08:22
+System: {'SOCIALLI': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

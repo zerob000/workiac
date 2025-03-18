@@ -1,0 +1,73 @@
+
+System Name: ENTESB
+System Duration (Captured): 4000 days
+
+Calculated Final System Size: 412 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 412 PBIs
+
+Model Final System Size: 627 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 627 PBIs
+
+% Error, Final backlog, model vs actual: 52.0%
+Error, Final backlog, model vs actual: 215 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 3810 PBIs
+Total Unplanned Arrivals: 8929 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 608 PBIs
+Total Net Arrivals: 12131 PBIs
+Total Services: 11719 PBIs
+
+Rates:
+Planned Arrival Rate: 1.162 PBIs/day
+Unplanned Arrival Rate: 2.951 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.199 PBIs/day
+Net Arrival Rate: 3.914 PBIs/day
+Service Rate: 3.842 PBIs/day
+
+
+Metrics:
+Stability: 0.982
+Quality: 0.283
+Control: 0.952
+Inventory Days: 107.236 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 412 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 412 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 91 PBIs
+Unplanned Arrivals in this period: 188 PBIs
+Cancelled/Rejected/Won't Do  in this period: 24 PBIs
+System size change in this period: -12 PBIs
+Net Arrivals in this period: 255 PBIs
+Services in this period: 266 PBIs
+
+Rates:
+Planned Arrival Rate: 0.948 PBIs/day
+Unplanned Arrival Rate: 2.102 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.256 PBIs/day
+Net Arrival Rate: 2.827 PBIs/day
+Service Rate: 3.376 PBIs/day
+
+Metrics:
+Stability: 1.208
+Quality: 0.311
+Control: 0.916
+Inventory Days: 122.038 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

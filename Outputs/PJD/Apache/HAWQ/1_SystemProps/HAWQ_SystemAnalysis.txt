@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2015-09-19 02:33:03 End date: 2022-01-03 09:07:02
+System: {'HAWQ': 1526}
+Types: {'Bug': 898, 'New Feature': 102, 'Improvement': 350, 'Task': 99, 'Wish': 38, 'Test': 39}
+Resolutions: {'Fixed': 932, '': 259, 'Duplicate': 24, 'Implemented': 4, "Won't Fix": 14, 'Not A Problem': 15, 'Invalid': 8, 'Not A Bug': 4, 'Cannot Reproduce': 2, 'Done': 10, 'Workaround': 1, 'Resolved': 252, 'Incomplete': 1}
+Statuses: {'Closed': 873, 'Open': 252, 'Resolved': 394, 'Reopened': 5, 'In Progress': 2}
+
+Average Lead Time (all PBIs): 74.9 days
+Average Lead Time (Bug): 68.0 days
+Average Lead Time (New Feature): 114.8 days
+Average Lead Time (Improvement): 82.3 days
+Average Lead Time (Task): 62.5 days
+Average Lead Time (Test): 71.6 days
+Average Lead Time (Wish): 579.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-25 09:07:02 End date: 2022-01-03 09:07:02
+System: {'HAWQ': 19}
+Types: {'Bug': 12, 'New Feature': 3, 'Improvement': 4}
+Resolutions: {'Fixed': 17, '': 2}
+Statuses: {'Closed': 17, 'Open': 2}
+
+Average Lead Time (all PBIs): 6.5 days
+Average Lead Time (Bug): 6.1 days
+Average Lead Time (New Feature): 0.0 days
+Average Lead Time (Improvement): 12.7 days

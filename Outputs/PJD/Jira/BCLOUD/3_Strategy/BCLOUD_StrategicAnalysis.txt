@@ -1,0 +1,73 @@
+
+System Name: BCLOUD
+System Duration (Captured): 4953 days
+
+Calculated Final System Size: 2358 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 2358 PBIs
+
+Model Final System Size: 3858 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 3858 PBIs
+
+% Error, Final backlog, model vs actual: 64.0%
+Error, Final backlog, model vs actual: 1500 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 7756 PBIs
+Total Unplanned Arrivals: 12596 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 8847 PBIs
+Total Net Arrivals: 11505 PBIs
+Total Services: 9147 PBIs
+
+Rates:
+Planned Arrival Rate: 1.784 PBIs/day
+Unplanned Arrival Rate: 3.126 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 1.939 PBIs/day
+Net Arrival Rate: 2.971 PBIs/day
+Service Rate: 2.448 PBIs/day
+
+
+Metrics:
+Stability: 0.824
+Quality: 0.363
+Control: 0.605
+Inventory Days: 963.235 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 2358 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 2358 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 134 PBIs
+Unplanned Arrivals in this period: 51 PBIs
+Cancelled/Rejected/Won't Do  in this period: 218 PBIs
+System size change in this period: -75 PBIs
+Net Arrivals in this period: -33 PBIs
+Services in this period: 43 PBIs
+
+Rates:
+Planned Arrival Rate: 1.367 PBIs/day
+Unplanned Arrival Rate: 0.507 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 2.164 PBIs/day
+Net Arrival Rate: -0.314 PBIs/day
+Service Rate: 0.401 PBIs/day
+
+Metrics:
+Stability: -1.383
+Quality: 0.729
+Control: -0.155
+Inventory Days: 5880.299 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

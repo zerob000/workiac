@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 2007-03-16 05:46:49 End date: 2022-01-04 13:46:38
+System: {'JBDS': 3880}
+Types: {'Task': 917, 'Bug': 2192, 'Enhancement': 165, 'Feature Request': 585, 'Story': 12, 'Component Upgrade': 3, 'Quality Risk': 3, 'Patch': 2, 'Support Patch': 1}
+Resolutions: {'': 141, 'Done': 2808, 'Not a Bug': 3, 'Duplicate Issue': 248, "Won't Fix": 142, 'Out of Date': 160, 'Migrated to another ITS': 50, 'Incomplete Description': 16, 'Cannot Reproduce': 106, 'Rejected': 164, 'Upstream': 1, 'Partially Completed': 21, "Won't Do": 5, 'Deferred': 13, 'Explained': 1, 'Fixed': 1}
+Statuses: {'Pull Request Sent': 4, 'Closed': 3697, 'Open': 131, 'Resolved': 42, 'Reopened': 6}
+
+Average Lead Time (all PBIs): 186.7 days
+Average Lead Time (Bug): 185.8 days
+Average Lead Time (Task): 92.3 days
+Average Lead Time (Enhancement): 171.0 days
+Average Lead Time (Feature Request): 349.0 days
+Average Lead Time (Story): 119.1 days
+Average Lead Time (Component Upgrade): 35.0 days
+Average Lead Time (Quality Risk): 320.0 days
+Average Lead Time (Patch): 128.5 days
+Average Lead Time (Support Patch): 36.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 13:46:38 End date: 2022-01-04 13:46:38
+System: {'JBDS': 22}
+Types: {'Task': 6, 'Bug': 15, 'Enhancement': 1}
+Resolutions: {'': 10, 'Done': 8, 'Not a Bug': 1, 'Duplicate Issue': 1, 'Out of Date': 1, 'Incomplete Description': 1}
+Statuses: {'Pull Request Sent': 1, 'Closed': 8, 'Open': 9, 'Resolved': 4}
+
+Average Lead Time (all PBIs): 191.8 days
+Average Lead Time (Bug): 300.4 days
+Average Lead Time (Task): 39.6 days

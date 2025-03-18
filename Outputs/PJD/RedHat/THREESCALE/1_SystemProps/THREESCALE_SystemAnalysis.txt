@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2016-10-10 09:43:31 End date: 2022-01-03 08:42:57
+System: {'THREESCALE': 4136}
+Types: {'Enhancement': 541, 'Bug': 1630, 'Feature Request': 967, 'Task': 998}
+Resolutions: {'': 924, 'Not a Bug': 13, 'Done': 2105, 'Duplicate': 15, 'Duplicate Issue': 167, 'Explained': 215, 'Out of Date': 336, "Won't Do": 193, 'Obsolete': 1, 'Cannot Reproduce': 45, 'Rejected': 47, 'Next Release': 1, "Won't Fix": 60, 'Partially Completed': 5, 'Deferred': 3, 'Migrated to another ITS': 4, 'Fixed': 2}
+Statuses: {'To Develop': 57, 'New': 217, 'Closed': 3190, 'To Test (QE)': 25, 'To Define': 61, 'Defined': 511, 'Testing (QE)': 1, 'SME Review': 7, 'To Document': 19, 'Developing': 21, 'Designing': 1, 'Defining': 21, 'To Ship To On-Prem': 3, 'Documenting': 2}
+
+Average Lead Time (all PBIs): 196.9 days
+Average Lead Time (Bug): 148.7 days
+Average Lead Time (Task): 148.1 days
+Average Lead Time (Feature Request): 307.4 days
+Average Lead Time (Enhancement): 267.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-25 08:42:57 End date: 2022-01-03 08:42:57
+System: {'THREESCALE': 425}
+Types: {'Enhancement': 38, 'Bug': 161, 'Feature Request': 110, 'Task': 116}
+Resolutions: {'': 180, 'Not a Bug': 3, 'Done': 215, 'Duplicate': 1, 'Duplicate Issue': 9, 'Explained': 9, 'Out of Date': 3, "Won't Do": 2, 'Obsolete': 1, 'Cannot Reproduce': 2}
+Statuses: {'To Develop': 23, 'New': 106, 'Closed': 245, 'To Test (QE)': 13, 'To Define': 1, 'Defined': 18, 'Testing (QE)': 1, 'SME Review': 1, 'To Document': 4, 'Developing': 11, 'Designing': 1, 'Defining': 1}
+
+Average Lead Time (all PBIs): 228.0 days
+Average Lead Time (Bug): 212.0 days
+Average Lead Time (Task): 175.0 days
+Average Lead Time (Feature Request): 326.8 days
+Average Lead Time (Enhancement): 247.6 days

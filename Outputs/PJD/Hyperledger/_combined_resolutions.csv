@@ -1,0 +1,12 @@
+Type,Count
+Done,16152
+,2511
+Duplicate,528
+Invalid: Works as Expected,295
+Cannot Reproduce,10
+Won't Do,1739
+Deferred,51
+Invalid,749
+Invalid: Environment Issue,108
+Invalid: Test Error,55
+Invalid: Not Supported,24

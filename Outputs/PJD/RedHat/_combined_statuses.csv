@@ -1,0 +1,93 @@
+Type,Count
+Open,18069
+Resolved,61755
+Pull Request Sent,1214
+Closed,188525
+Coding In Progress,554
+Reopened,654
+In Progress,879
+To Do,3684
+Done,20632
+Obsolete,1130
+Won't Fix / Obsolete,78
+Code Review,130
+New,4843
+Pending Upload to Patch Repository,1
+Verified,13086
+Backlog,1191
+Awaiting Release,659
+Review in Progress,7
+Rejected,619
+Released,61
+To Develop,57
+To Test (QE),25
+To Define,61
+Defined,511
+Testing (QE),1
+SME Review,13
+To Document,19
+Developing,21
+Designing,1
+Defining,21
+To Ship To On-Prem,3
+Documenting,2
+QE Review,44
+Review,49
+Selected for Development,106
+QA In Progress,10
+Ready for QA,92
+Awaiting Docs,3
+Ready For Release,20
+Blocked,53
+In Review,36
+Undefined,4
+Under Review,96
+Accepted,268
+Deferred,42
+Dev In Progress,24
+Implemented,125
+Analysis in Progress,9
+Triage,989
+Plan,84
+WONTFIX,25
+Peer Review,1
+In Triage,39
+Needs Info,10
+Quality Review,4
+Upstream Review,1
+Verification,6
+Feature Complete,2
+Not In Scope,9
+QE,12
+Sprint Ready,2
+ASSIGNED,8
+ON_QA,5
+MODIFIED,4
+Refinement,31
+POST,3
+Pending,1
+ON_DEV,1
+Duplicate,16
+WON'T FIX,56
+Dev Complete,5
+Ready for Review,136
+Ready for Triage,52
+Ready for Build,4
+Ready for Test,2
+Ready for Dev,11
+Inbox,17
+Productization Backlog,21
+Release Backlog,39
+Product Backlog,227
+In Clarification,6
+In Development,12
+Development Next,15
+Validation Backlog,8
+Validation Failed,3
+Dropped,16
+Release Pending,2
+On Deck,29
+Approved,1
+Completed,13
+Current Sprint,2
+Sprint Backlog,4

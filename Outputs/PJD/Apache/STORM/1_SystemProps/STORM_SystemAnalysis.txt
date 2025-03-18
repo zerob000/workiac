@@ -1,0 +1,36 @@
+All PBIS - Unfiltered 
+Start date: 2013-12-06 20:56:27 End date: 2022-01-04 22:07:24
+System: {'STORM': 3595}
+Types: {'Improvement': 1124, 'Bug': 1764, 'Request': 3, 'Question': 40, 'Story': 27, 'New Feature': 345, 'Dependency upgrade': 45, 'Test': 20, 'Documentation': 99, 'Task': 95, 'Comment': 2, 'Wish': 18, 'Umbrella': 9, 'Brainstorming': 2, 'Temp': 1, 'New JIRA Project': 1}
+Resolutions: {'Fixed': 2212, 'Duplicate': 124, '': 1042, 'Abandoned': 4, 'Not A Problem': 47, 'Cannot Reproduce': 12, "Won't Fix": 63, 'Not A Bug': 8, 'Invalid': 65, 'Done': 5, 'Works for Me': 2, 'Incomplete': 4, "Won't Do": 2, 'Resolved': 2, 'Implemented': 3}
+Statuses: {'Resolved': 2121, 'Closed': 432, 'Open': 961, 'In Progress': 65, 'Reopened': 16}
+
+Average Lead Time (all PBIs): 84.2 days
+Average Lead Time (Improvement): 83.2 days
+Average Lead Time (Bug): 63.7 days
+Average Lead Time (Question): 204.2 days
+Average Lead Time (Dependency upgrade): 131.2 days
+Average Lead Time (Test): 22.8 days
+Average Lead Time (Documentation): 75.5 days
+Average Lead Time (Comment): 194.5 days
+Average Lead Time (New Feature): 192.5 days
+Average Lead Time (Task): 94.8 days
+Average Lead Time (Wish): 345.5 days
+Average Lead Time (Story): 196.8 days
+Average Lead Time (Umbrella): 172.0 days
+Average Lead Time (Temp): 0.0 days
+Average Lead Time (Request): 6.0 days
+Average Lead Time (Brainstorming): 114.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 22:07:24 End date: 2022-01-04 22:07:24
+System: {'STORM': 19}
+Types: {'Improvement': 12, 'Bug': 7}
+Resolutions: {'Fixed': 8, 'Duplicate': 1, '': 10}
+Statuses: {'Resolved': 7, 'Closed': 2, 'Open': 10}
+
+Average Lead Time (all PBIs): 144.2 days
+Average Lead Time (Improvement): 3.9 days
+Average Lead Time (Bug): 635.5 days

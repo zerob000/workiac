@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2021-04-23 16:25:56 End date: 2021-12-22 13:03:42
+System: {'DBAAS': 142}
+Types: {'Task': 129, 'Bug': 6, 'Story': 7}
+Resolutions: {'': 17, 'Done': 121, 'Out of Date': 4}
+Statuses: {'New': 16, 'Closed': 125, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 35.4 days
+Average Lead Time (Task): 36.5 days
+Average Lead Time (Bug): 12.5 days
+Average Lead Time (Story): 37.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-13 13:03:42 End date: 2021-12-22 13:03:42
+System: {'DBAAS': 56}
+Types: {'Task': 49, 'Bug': 5, 'Story': 2}
+Resolutions: {'': 17, 'Done': 35, 'Out of Date': 4}
+Statuses: {'New': 16, 'Closed': 39, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 81.8 days
+Average Lead Time (Task): 90.4 days
+Average Lead Time (Bug): 14.2 days
+Average Lead Time (Story): 114.0 days

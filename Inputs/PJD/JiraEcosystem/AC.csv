@@ -1,0 +1,1535 @@
+Key,ID,Project,IssueType,IsSubtask,Status,Resolution,Created Date,Resolved Date
+AC-2547,374540,AC,Bug,false,Closed,Fixed,2021-10-05 18:45:14,2021-10-24 19:12:12
+AC-2545,344142,AC,Bug,false,New,,2021-04-30 02:01:42,
+AC-2543,341745,AC,Improvement,false,Triage,,2021-04-07 19:42:58,
+AC-2542,341744,AC,Improvement,false,Triage,,2021-04-07 19:42:54,
+AC-2538,332042,AC,Improvement,false,New,,2021-02-03 17:47:04,
+AC-2537,329288,AC,Bug,false,Triage,,2021-01-05 20:22:35,
+AC-2532,306860,AC,Documentation,false,New,,2020-07-23 05:04:58,
+AC-2530,301979,AC,New Feature,false,New,,2020-06-28 18:55:48,
+AC-2529,301269,AC,Improvement,false,New,,2020-06-18 17:44:05,
+AC-2528,301108,AC,Bug,false,Triage,,2020-06-17 05:42:37,
+AC-2527,300293,AC,Bug,false,Triage,,2020-06-09 09:55:02,
+AC-2526,300570,AC,Improvement,false,Closed,Fixed,2020-06-12 02:07:19,2021-05-06 07:04:49
+AC-2525,296533,AC,Improvement,false,Closed,Tracked Elsewhere,2020-04-16 17:40:54,2021-12-12 21:14:52
+AC-2524,295670,AC,Improvement,false,Closed,Fixed,2020-04-01 23:44:25,2021-05-06 07:04:49
+AC-2522,295026,AC,Atlassian Incident,false,New,,2020-03-23 20:20:27,
+AC-2521,294562,AC,Improvement,false,Closed,Fixed,2020-03-16 07:07:36,2021-05-06 07:04:50
+AC-2520,294558,AC,Bug,false,Closed,Fixed,2020-03-16 06:11:49,2021-05-06 07:04:50
+AC-2518,292599,AC,New Feature,false,Triage,,2020-02-17 16:05:19,
+AC-2517,292020,AC,Improvement,false,Closed,Fixed,2020-02-08 15:40:03,2021-05-06 07:04:49
+AC-2516,291040,AC,Initiative,false,Triage,,2020-01-24 10:38:43,
+AC-2515,290546,AC,New Feature,false,New,,2020-01-16 18:56:01,
+AC-2514,289135,AC,Improvement,false,Under Review,,2019-12-18 23:11:18,
+AC-2513,288631,AC,Improvement,false,Under Review,,2019-12-12 18:15:12,
+AC-2512,288207,AC,Improvement,false,Under Review,,2019-12-09 00:56:08,
+AC-2511,287185,AC,Improvement,false,New,,2019-11-21 18:13:52,
+AC-2510,283475,AC,Bug,false,New,,2019-09-13 10:25:20,
+AC-2507,281135,AC,New Feature,false,New,,2019-08-01 21:24:49,
+AC-2505,280483,AC,Bug,false,Under Review,,2019-07-23 00:15:31,
+AC-2503,280409,AC,New Feature,false,New,,2019-07-21 20:55:50,
+AC-2502,278521,AC,Bug,false,Closed,Fixed,2019-06-12 21:51:52,2019-07-22 00:57:11
+AC-2500,277550,AC,Improvement,false,New,,2019-05-23 04:32:28,
+AC-2499,186169,AC,Bug,false,New,,2016-12-19 18:44:59,
+AC-2496,276779,AC,New Feature,false,Under Review,,2019-05-09 02:55:59,
+AC-2495,276011,AC,Bug,false,Under Review,,2019-04-24 21:19:00,
+AC-2492,273434,AC,Bug,false,Closed,Fixed,2019-03-11 22:38:11,2019-03-13 20:42:37
+AC-2491,273432,AC,Bug,false,Closed,Rejected,2019-03-11 22:11:33,2019-03-11 22:27:11
+AC-2490,273362,AC,New Feature,false,New,,2019-03-11 08:04:07,
+AC-2488,273302,AC,New Feature,false,Closed,Fixed,2019-03-10 19:24:27,2019-04-10 23:03:28
+AC-2487,273301,AC,New Feature,false,Closed,Fixed,2019-03-10 19:14:33,2019-04-09 02:27:33
+AC-2486,273300,AC,New Feature,false,Closed,Fixed,2019-03-10 19:10:00,2019-04-09 02:27:24
+AC-2485,273230,AC,Improvement,false,Closed,Fixed,2019-03-07 19:30:46,2019-03-10 18:58:43
+AC-2484,272971,AC,New Feature,false,New,,2019-03-04 12:23:05,
+AC-2483,272681,AC,Bug,false,Closed,Fixed,2019-02-26 11:42:09,2020-04-15 10:05:13
+AC-2482,271818,AC,Improvement,false,Closed,Won't Do,2019-02-12 03:33:44,2019-02-20 18:42:05
+AC-2481,271844,AC,Bug,false,Closed,Fixed,2019-02-12 10:46:22,2019-02-12 12:03:07
+AC-2480,270433,AC,Improvement,false,Closed,Fixed,2019-01-16 06:38:32,2020-04-15 10:05:10
+AC-2479,269496,AC,New Feature,false,New,,2018-12-27 20:36:48,
+AC-2477,267269,AC,New Feature,false,New,,2018-11-15 05:37:46,
+AC-2476,267275,AC,Bug,false,Closed,Tracked Elsewhere,2018-11-15 06:47:45,2018-11-19 10:30:37
+AC-2475,267264,AC,Bug,false,Closed,Cannot Reproduce,2018-11-15 04:31:32,2018-11-19 10:16:06
+AC-2474,263371,AC,Improvement,false,Under Review,,2018-09-07 06:40:25,
+AC-2473,266701,AC,Improvement,false,New,,2018-11-06 23:51:37,
+AC-2472,265996,AC,Bug,false,Closed,Cannot Reproduce,2018-10-23 21:32:32,2019-03-04 05:45:01
+AC-2471,265141,AC,Improvement,false,Under Review,,2018-10-08 20:25:01,
+AC-2469,265105,AC,Bug,false,Closed,Duplicate,2018-10-08 00:08:15,2019-09-16 12:00:07
+AC-2468,264905,AC,Improvement,false,Under Review,,2018-10-03 02:30:21,
+AC-2467,262157,AC,Improvement,false,Closed,Fixed,2018-08-19 20:12:28,2018-09-24 02:29:05
+AC-2463,263131,AC,Documentation,false,Closed,Fixed,2018-09-03 20:58:45,2019-08-27 18:56:49
+AC-2461,262760,AC,Improvement,false,Closed,Duplicate,2018-08-28 07:16:45,2018-08-28 08:04:52
+AC-2459,262155,AC,Documentation,false,Closed,Fixed,2018-08-19 20:06:45,2018-10-02 02:57:48
+AC-2458,261631,AC,Improvement,false,New,,2018-08-10 06:26:23,
+AC-2457,261591,AC,Improvement,false,New,,2018-08-09 11:42:56,
+AC-2456,261255,AC,Improvement,false,Closed,Obsolete,2018-08-01 21:35:17,2018-08-02 18:42:59
+AC-2448,259813,AC,Bug,false,In Progress,,2018-07-10 08:18:45,
+AC-2446,259385,AC,Improvement,false,New,,2018-07-02 05:50:41,
+AC-2445,259169,AC,Improvement,false,New,,2018-06-26 23:13:22,
+AC-2444,259038,AC,New Feature,false,Closed,Tracked Elsewhere,2018-06-25 01:22:23,2018-06-25 21:33:47
+AC-2442,258352,AC,Improvement,false,Under Review,,2018-06-12 13:29:22,
+AC-2440,257979,AC,Improvement,false,Closed,Invalid,2018-06-05 23:47:13,2018-06-06 00:12:17
+AC-2437,257053,AC,Improvement,false,Closed,Fixed,2018-05-22 12:35:35,2020-11-23 19:51:21
+AC-2434,256610,AC,Improvement,false,Under Review,,2018-05-16 09:35:59,
+AC-2433,256605,AC,Improvement,false,Closed,Fixed,2018-05-16 09:31:26,2020-02-26 13:17:48
+AC-2431,256603,AC,Improvement,false,Under Review,,2018-05-16 09:28:29,
+AC-2425,257311,AC,Improvement,false,Closed,Fixed,2018-05-25 10:55:39,2020-04-15 10:05:10
+AC-2424,257310,AC,Improvement,false,Under Review,,2018-05-25 10:52:12,
+AC-2423,257304,AC,Improvement,false,New,,2018-05-25 09:34:41,
+AC-2421,251609,AC,Bug,false,New,,2018-03-01 04:19:48,
+AC-2417,256624,AC,Improvement,false,Under Review,,2018-05-16 10:10:15,
+AC-2414,256621,AC,Documentation,false,Closed,Won't Do,2018-05-16 10:07:26,2018-10-07 21:36:06
+AC-2413,256620,AC,Documentation,false,Closed,Fixed,2018-05-16 10:06:17,2018-10-02 02:57:47
+AC-2411,256618,AC,Documentation,false,Closed,Fixed,2018-05-16 10:04:06,2018-10-02 02:57:47
+AC-2410,256617,AC,Documentation,false,Closed,Fixed,2018-05-16 10:00:46,2018-10-07 21:43:38
+AC-2409,256614,AC,Documentation,false,Closed,Fixed,2018-05-16 09:52:28,2018-10-02 02:57:48
+AC-2406,255413,AC,Bug,false,Under Review,,2018-05-03 01:25:19,
+AC-2403,254129,AC,Improvement,false,Under Review,,2018-04-12 04:41:47,
+AC-2396,248854,AC,Improvement,false,Closed,Fixed,2018-01-16 10:35:54,2018-01-17 05:00:00
+AC-2395,248470,AC,Improvement,false,Closed,Duplicate,2018-01-09 17:10:17,2018-11-18 22:55:12
+AC-2394,128028,AC,Bug,false,Closed,Fixed,2015-09-23 20:09:37,2018-03-09 07:06:58
+AC-2391,247333,AC,Bug,false,New,,2017-12-14 12:01:07,
+AC-2389,245681,AC,Bug,false,Closed,Tracked Elsewhere,2017-11-27 02:09:53,2017-11-27 06:51:04
+AC-2386,245513,AC,Improvement,false,Closed,Fixed,2017-11-23 09:37:26,2019-10-23 03:38:56
+AC-2385,245501,AC,Improvement,false,In Progress,,2017-11-23 08:29:03,
+AC-2384,136189,AC,Improvement,false,Closed,Fixed,2016-04-03 19:52:08,2019-10-23 12:02:25
+AC-2383,172558,AC,Improvement,false,New,,2016-10-06 18:25:52,
+AC-2382,130463,AC,Improvement,false,New,,2015-11-17 06:50:07,
+AC-2381,128055,AC,Improvement,false,New,,2015-09-24 02:29:52,
+AC-2370,242288,AC,Documentation,false,Closed,Duplicate,2017-10-23 22:30:03,2017-10-23 22:43:41
+AC-2369,183274,AC,Improvement,false,New,,2016-12-01 17:19:54,
+AC-2368,187033,AC,Improvement,false,In Progress,,2017-01-03 15:42:50,
+AC-2367,229107,AC,New Feature,false,New,,2017-08-09 10:32:52,
+AC-2366,241156,AC,Bug,false,Closed,Tracked Elsewhere,2017-10-12 00:42:21,2017-11-08 04:27:09
+AC-2364,240395,AC,Improvement,false,Closed,Duplicate,2017-10-03 08:33:52,2017-10-05 06:46:10
+AC-2363,240239,AC,Bug,false,Closed,Not a bug,2017-10-02 12:37:15,2017-10-23 10:08:54
+AC-2362,224486,AC,Improvement,false,Closed,Done,2017-07-18 01:00:42,2017-11-10 09:05:38
+AC-2360,238548,AC,Bug,false,Closed,Duplicate,2017-09-18 02:02:58,2017-09-20 18:31:11
+AC-2357,237588,AC,Bug,false,Closed,Fixed,2017-09-10 20:43:09,2017-12-04 12:47:40
+AC-2355,231989,AC,Improvement,false,Closed,Fixed,2017-08-21 21:00:41,2017-08-23 23:48:38
+AC-2340,138129,AC,Improvement,false,New,,2016-05-05 00:39:03,
+AC-2322,218846,AC,Bug,false,New,,2017-06-27 23:31:21,
+AC-2321,217265,AC,Documentation,false,Closed,Fixed,2017-06-21 23:15:03,2017-06-25 18:30:27
+AC-2320,217260,AC,Bug,false,New,,2017-06-21 20:54:47,
+AC-2319,216973,AC,Bug,false,Closed,Duplicate,2017-06-21 10:04:57,2017-06-23 04:14:57
+AC-2312,210450,AC,Atlassian Incident,false,Closed,Invalid,2017-05-28 23:49:31,2017-05-28 23:53:04
+AC-2310,209487,AC,New Feature,false,New,,2017-05-24 12:26:06,
+AC-2309,209107,AC,Bug,false,Closed,Won't Fix,2017-05-23 01:16:21,2019-08-20 11:16:27
+AC-2303,207174,AC,Bug,false,Closed,Not a bug,2017-05-11 09:15:19,2017-05-12 06:28:15
+AC-2298,207018,AC,Bug,false,Closed,Timed out,2017-05-10 15:12:50,2017-05-18 17:52:44
+AC-2297,206763,AC,Documentation,false,Closed,Tracked Elsewhere,2017-05-09 17:39:20,2017-08-08 10:52:23
+AC-2291,204119,AC,Bug,false,Closed,Duplicate,2017-04-30 20:04:13,2017-05-11 19:26:04
+AC-2284,202069,AC,Bug,false,Closed,Fixed,2017-04-10 21:18:21,2019-02-13 04:09:10
+AC-2283,201832,AC,Bug,false,Closed,Won't Fix,2017-04-06 20:21:05,2017-12-21 20:50:30
+AC-2282,201416,AC,Bug,false,Closed,Timed out,2017-04-03 03:28:53,2017-08-31 14:42:03
+AC-2281,201399,AC,Documentation,false,Closed,Won't Fix,2017-04-03 00:01:14,2017-04-03 03:25:37
+AC-2279,201241,AC,Improvement,false,New,,2017-03-31 04:42:54,
+AC-2278,201002,AC,Improvement,false,New,,2017-03-30 04:50:01,
+AC-2277,200985,AC,Bug,false,New,,2017-03-30 01:53:20,
+AC-2273,196675,AC,Bug,false,Closed,Resolved Locally,2017-03-21 10:36:23,2017-03-22 06:15:40
+AC-2271,196012,AC,Bug,false,Closed,Duplicate,2017-03-10 15:00:45,2017-03-13 12:47:42
+AC-2268,196003,AC,Documentation,false,Closed,Fixed,2017-03-10 10:59:27,2017-03-13 10:36:47
+AC-2267,195735,AC,Improvement,false,Closed,Won't Do,2017-03-09 02:38:24,2018-06-07 19:42:08
+AC-2266,195546,AC,Documentation,false,Closed,Duplicate,2017-03-08 02:00:36,2017-03-08 02:43:00
+AC-2261,130883,AC,New Feature,false,New,,2015-11-26 17:04:06,
+AC-2260,194802,AC,Documentation,false,Closed,Fixed,2017-03-02 10:35:30,2017-03-13 13:10:44
+AC-2256,194417,AC,Improvement,false,New,,2017-03-01 05:58:30,
+AC-2252,188700,AC,Improvement,false,Closed,Fixed,2017-01-17 23:12:50,2017-02-28 05:28:42
+AC-2247,192344,AC,Bug,false,Closed,Fixed,2017-02-20 21:28:13,2017-03-07 22:05:41
+AC-2246,192216,AC,Improvement,false,New,,2017-02-19 16:03:06,
+AC-2245,192212,AC,Documentation,false,Closed,Fixed,2017-02-19 13:05:06,2017-08-08 11:27:06
+AC-2242,191344,AC,Documentation,false,Closed,Fixed,2017-02-13 16:49:09,2017-02-22 17:05:57
+AC-2240,190812,AC,Bug,false,Closed,Duplicate,2017-02-08 04:05:47,2017-04-12 21:15:21
+AC-2238,190027,AC,Atlassian Incident,false,Closed,Fixed,2017-01-31 01:50:12,2017-02-12 22:58:22
+AC-2237,189877,AC,Bug,false,Closed,Duplicate,2017-01-30 07:36:09,2017-02-12 18:20:41
+AC-2234,189388,AC,Documentation,false,Closed,Fixed,2017-01-22 10:57:03,2017-01-23 17:57:22
+AC-2228,188497,AC,Documentation,false,Closed,Support Request,2017-01-16 15:26:21,2017-01-16 18:47:54
+AC-2227,188464,AC,Documentation,false,Closed,Fixed,2017-01-16 01:23:32,2017-04-05 02:45:42
+AC-2225,187656,AC,Improvement,false,New,,2017-01-08 17:24:10,
+AC-2221,186999,AC,Bug,false,Closed,Duplicate,2017-01-03 03:51:21,2017-01-04 20:44:34
+AC-2219,120321,AC,New Feature,false,Closed,Fixed,2015-06-01 00:17:01,2017-01-11 04:09:08
+AC-2213,184815,AC,Improvement,false,Closed,Fixed,2016-12-11 21:13:13,2016-12-15 00:36:57
+AC-2211,184531,AC,Bug,false,Closed,Duplicate,2016-12-09 05:46:41,2016-12-13 22:51:53
+AC-2209,184313,AC,Documentation,false,Closed,Invalid,2016-12-08 16:17:42,2016-12-14 22:33:10
+AC-2208,184312,AC,New Feature,false,Closed,Duplicate,2016-12-08 16:14:21,2017-01-03 01:34:32
+AC-2207,184206,AC,Documentation,false,Closed,Invalid,2016-12-07 23:46:11,2016-12-14 00:24:57
+AC-2205,183977,AC,Bug,false,Closed,Fixed,2016-12-06 19:05:56,2017-01-30 05:37:26
+AC-2204,183844,AC,Improvement,false,Closed,Won't Fix,2016-12-06 01:03:02,2017-01-09 21:53:21
+AC-2202,182678,AC,Bug,false,Closed,Fixed,2016-11-28 06:57:19,2017-04-10 18:56:11
+AC-2201,182663,AC,Bug,false,Closed,Fixed,2016-11-28 00:06:32,2016-12-01 16:23:59
+AC-2199,182030,AC,New Feature,false,New,,2016-11-22 14:55:58,
+AC-2195,181589,AC,Bug,false,Closed,Fixed,2016-11-20 12:34:59,2016-11-27 19:10:14
+AC-2192,180708,AC,Bug,false,Closed,Fixed,2016-11-15 17:07:14,2016-11-22 17:02:22
+AC-2190,180530,AC,Bug,false,Closed,Duplicate,2016-11-15 00:04:09,2016-11-15 16:02:33
+AC-2189,179205,AC,Bug,false,Closed,Answered,2016-11-08 05:26:53,2016-11-13 17:25:26
+AC-2188,179190,AC,Bug,false,Closed,Fixed,2016-11-07 23:55:30,2016-11-22 23:24:10
+AC-2186,178717,AC,Bug,false,In Progress,,2016-11-04 15:52:54,
+AC-2185,178550,AC,Improvement,false,Closed,Tracked Elsewhere,2016-11-04 03:02:22,2016-11-04 06:11:46
+AC-2184,178543,AC,Improvement,false,Closed,Fixed,2016-11-04 01:05:32,2018-04-11 18:20:35
+AC-2183,178236,AC,Bug,false,Closed,Not a bug,2016-11-03 06:34:24,2016-11-07 19:07:57
+AC-2182,178225,AC,Bug,false,Closed,Answered,2016-11-03 01:59:47,2016-11-03 05:50:57
+AC-2179,177809,AC,Bug,false,Closed,Fixed,2016-11-02 12:08:27,2016-11-20 17:06:24
+AC-2178,177710,AC,Documentation,false,Closed,Answered,2016-11-02 06:16:28,2016-11-02 06:35:49
+AC-2177,177111,AC,Bug,false,Closed,Duplicate,2016-10-31 10:37:57,2016-11-09 21:34:57
+AC-2176,176855,AC,Improvement,false,Closed,Fixed,2016-10-28 18:39:50,2016-10-31 02:01:50
+AC-2175,176816,AC,New Feature,false,Closed,Answered,2016-10-28 16:43:27,2016-11-13 17:28:00
+AC-2173,176633,AC,Bug,false,Closed,Fixed,2016-10-28 00:04:12,2016-11-22 17:54:01
+AC-2169,175782,AC,New Feature,false,Closed,Fixed,2016-10-25 02:24:21,2016-11-02 19:28:53
+AC-2166,175415,AC,Bug,false,Closed,Answered,2016-10-21 08:48:37,2016-10-27 06:36:26
+AC-2165,175309,AC,Bug,false,New,,2016-10-20 22:35:16,
+AC-2163,175175,AC,Improvement,false,Closed,Duplicate,2016-10-20 07:18:05,2016-10-20 22:10:00
+AC-2162,175174,AC,Improvement,false,New,,2016-10-20 07:07:41,
+AC-2161,175114,AC,Bug,false,Closed,Fixed,2016-10-19 22:47:11,2016-11-01 03:24:17
+AC-2160,174960,AC,Improvement,false,Closed,Won't Fix,2016-10-18 23:15:50,2016-10-19 00:21:06
+AC-2159,174263,AC,Bug,false,Closed,Answered,2016-10-15 14:23:09,2016-11-05 17:57:24
+AC-2158,174154,AC,Improvement,false,Closed,Won't Fix,2016-10-14 16:54:38,2016-11-13 17:31:34
+AC-2154,172782,AC,Bug,false,New,,2016-10-09 23:59:00,
+AC-2149,171137,AC,Bug,false,Closed,Resolved Locally,2016-09-30 15:30:39,2016-10-01 21:08:00
+AC-2148,171056,AC,Documentation,false,Closed,Fixed,2016-09-30 13:41:55,2016-11-05 19:35:40
+AC-2145,169757,AC,Bug,false,Closed,Answered,2016-09-26 03:21:51,2016-09-27 03:03:07
+AC-2144,169502,AC,Bug,false,Closed,Tracked Elsewhere,2016-09-23 16:49:58,2016-12-19 00:39:09
+AC-2143,158156,AC,Bug,false,Closed,Fixed,2016-08-14 09:53:27,2016-09-27 02:23:24
+AC-2140,169447,AC,Improvement,false,Closed,Duplicate,2016-09-23 04:06:11,2016-09-23 04:15:01
+AC-2139,163215,AC,Bug,false,Closed,Fixed,2016-09-02 21:03:08,2016-09-28 03:59:32
+AC-2134,167205,AC,Documentation,false,Closed,Fixed,2016-09-16 01:08:06,2016-09-18 20:36:47
+AC-2133,166945,AC,Bug,false,Closed,Fixed,2016-09-15 17:01:10,2016-09-16 00:12:59
+AC-2132,165821,AC,New Feature,false,New,,2016-09-13 20:52:53,
+AC-2129,164974,AC,Bug,false,Closed,Duplicate,2016-09-09 15:29:21,2016-09-13 19:40:43
+AC-2127,164611,AC,Documentation,false,Closed,Duplicate,2016-09-08 10:32:41,2016-09-11 17:33:38
+AC-2114,161757,AC,Bug,false,Closed,Invalid,2016-08-30 09:36:45,2016-08-30 19:12:52
+AC-2112,161643,AC,Bug,false,Closed,Not a bug,2016-08-29 16:32:52,2016-08-30 01:33:05
+AC-2109,161350,AC,Improvement,false,Closed,Duplicate,2016-08-26 08:14:35,2016-08-29 18:29:30
+AC-2103,159879,AC,Improvement,false,New,,2016-08-22 00:07:58,
+AC-2101,159191,AC,Improvement,false,New,,2016-08-18 10:22:27,
+AC-2100,159133,AC,New Feature,false,New,,2016-08-18 00:04:09,
+AC-2097,158872,AC,Bug,false,Closed,Timed out,2016-08-17 06:18:04,2016-09-23 03:08:00
+AC-2096,158856,AC,Improvement,false,Closed,Answered,2016-08-17 01:02:42,2016-11-07 20:29:38
+AC-2093,75916,AC,New Feature,false,Closed,Duplicate,2013-04-22 02:03:21,2016-08-16 19:58:48
+AC-2091,158239,AC,Documentation,false,Closed,Fixed,2016-08-15 13:11:25,2016-08-15 16:03:26
+AC-2090,158202,AC,Documentation,false,Closed,Fixed,2016-08-14 23:13:30,2016-08-15 16:48:13
+AC-2089,158155,AC,Improvement,false,Closed,Fixed,2016-08-14 09:28:58,2016-11-07 19:38:18
+AC-2088,158119,AC,Bug,false,Closed,Answered,2016-08-13 10:25:08,2016-08-13 12:30:23
+AC-2082,157489,AC,Bug,false,Closed,Answered,2016-08-10 06:52:21,2016-08-11 18:13:38
+AC-2081,157346,AC,Bug,false,Closed,Answered,2016-08-10 00:04:10,2016-08-10 00:48:48
+AC-2079,157032,AC,Documentation,false,Closed,Fixed,2016-08-06 17:08:07,2016-08-31 22:24:52
+AC-2077,156993,AC,Bug,false,Closed,Answered,2016-08-05 02:50:08,2016-08-09 00:09:45
+AC-2073,156937,AC,New Feature,false,New,,2016-08-04 06:37:33,
+AC-2072,156876,AC,Bug,false,Closed,Answered,2016-08-03 04:07:09,2016-08-04 07:05:55
+AC-2068,156770,AC,New Feature,false,New,,2016-08-02 08:24:35,
+AC-2067,156604,AC,Improvement,false,Closed,Fixed,2016-07-31 17:06:16,2016-12-07 00:10:55
+AC-2066,156595,AC,Improvement,false,Closed,Duplicate,2016-07-31 00:23:05,2016-07-31 17:49:58
+AC-2065,156594,AC,Improvement,false,Closed,Duplicate,2016-07-31 00:20:58,2016-07-31 17:50:05
+AC-2063,156555,AC,Bug,false,Closed,Duplicate,2016-07-29 13:55:55,2016-07-29 16:08:46
+AC-2062,156538,AC,Bug,false,Closed,Resolved Locally,2016-07-29 11:07:10,2016-07-29 16:10:15
+AC-2058,156362,AC,Documentation,false,Closed,Fixed,2016-07-27 09:08:21,2016-08-04 02:52:21
+AC-2057,156275,AC,Bug,false,Closed,Duplicate,2016-07-26 07:33:41,2016-07-26 18:51:06
+AC-2056,156282,AC,Documentation,false,Closed,Duplicate,2016-07-26 10:19:17,2016-07-31 16:48:25
+AC-2054,156279,AC,Improvement,false,New,,2016-07-26 09:42:57,
+AC-2051,155785,AC,Documentation,false,Closed,Fixed,2016-07-19 16:24:43,2017-05-24 23:28:09
+AC-2050,155680,AC,Bug,false,Closed,Fixed,2016-07-17 20:52:16,2016-08-14 19:25:15
+AC-2048,155494,AC,Bug,false,Closed,Answered,2016-07-14 10:17:12,2016-08-16 10:16:54
+AC-2047,155371,AC,Documentation,false,Closed,Answered,2016-07-13 04:08:57,2016-07-31 17:19:31
+AC-2045,155333,AC,Documentation,false,Closed,Fixed,2016-07-12 19:42:01,2016-07-12 22:37:53
+AC-2043,155229,AC,New Feature,false,Closed,Answered,2016-07-11 14:29:51,2016-07-31 17:11:53
+AC-2042,155084,AC,Bug,false,Closed,Tracked Elsewhere,2016-07-10 21:57:57,2016-07-13 02:05:43
+AC-2037,154045,AC,Documentation,false,Closed,Fixed,2016-07-01 04:02:23,2016-07-11 22:43:47
+AC-2036,154026,AC,Documentation,false,Closed,Fixed,2016-07-01 00:01:59,2016-07-03 19:00:18
+AC-2032,153893,AC,Bug,false,Closed,Resolved Locally,2016-06-29 03:34:33,2016-06-29 06:28:23
+AC-2031,153871,AC,New Feature,false,New,,2016-06-28 21:05:18,
+AC-2030,153867,AC,Bug,false,Closed,Cannot Reproduce,2016-06-28 20:22:47,2016-07-12 18:19:49
+AC-2025,152778,AC,Bug,false,Closed,Fixed,2016-06-20 20:48:38,2016-07-24 22:29:10
+AC-2024,152771,AC,Bug,false,Closed,Fixed,2016-06-20 19:20:49,2016-07-06 23:39:40
+AC-2023,152647,AC,Bug,false,Closed,Duplicate,2016-06-20 03:33:58,2016-06-20 20:59:34
+AC-2021,152630,AC,Improvement,false,Closed,Fixed,2016-06-19 23:11:04,2016-06-21 17:57:04
+AC-2020,152588,AC,Documentation,false,Closed,Not a bug,2016-06-18 20:44:18,2016-06-19 18:49:53
+AC-2015,152169,AC,Bug,false,Closed,Fixed,2016-06-15 16:02:29,2016-06-17 01:28:05
+AC-2011,150167,AC,Improvement,false,Closed,Fixed,2016-06-04 14:14:18,2016-10-15 20:23:00
+AC-2010,150032,AC,Bug,false,Closed,Duplicate,2016-06-03 01:26:20,2016-06-05 19:39:54
+AC-2008,149416,AC,Improvement,false,Closed,Duplicate,2016-05-29 21:19:24,2016-08-17 00:03:00
+AC-2007,149295,AC,Bug,false,Closed,Answered,2016-05-27 01:23:13,2016-05-29 21:20:04
+AC-2006,149173,AC,Bug,false,Closed,Won't Fix,2016-05-26 18:00:31,2016-05-27 18:47:58
+AC-2005,144935,AC,Bug,false,Closed,Answered,2016-05-25 07:19:27,2016-06-23 01:43:34
+AC-2001,143808,AC,New Feature,false,New,,2016-05-24 04:36:44,
+AC-1964,141440,AC,Improvement,false,Closed,Duplicate,2016-05-23 08:22:36,2016-08-14 20:17:56
+AC-1951,138829,AC,Documentation,false,Under Review,,2016-05-12 00:49:42,
+AC-1950,131745,AC,Documentation,false,Under Review,,2015-12-17 20:57:30,
+AC-1949,138740,AC,Documentation,false,Closed,Answered,2016-05-10 21:42:54,2016-05-10 22:05:07
+AC-1948,136831,AC,Improvement,false,Closed,Fixed,2016-04-11 18:40:32,2016-05-12 18:46:25
+AC-1943,138378,AC,Bug,false,Under Review,,2016-05-08 19:54:55,
+AC-1942,138134,AC,Improvement,false,Closed,Obsolete,2016-05-05 01:00:01,2018-05-03 07:29:04
+AC-1940,138132,AC,Improvement,false,Closed,Tracked Elsewhere,2016-05-05 00:56:23,2016-05-05 01:01:22
+AC-1939,138131,AC,Improvement,false,New,,2016-05-05 00:54:32,
+AC-1938,138130,AC,Improvement,false,Closed,Won't Fix,2016-05-05 00:49:41,2016-11-13 18:29:47
+AC-1937,138122,AC,Improvement,false,New,,2016-05-04 20:48:08,
+AC-1935,138111,AC,Bug,false,Closed,Tracked Elsewhere,2016-05-04 16:50:03,2016-05-17 00:26:48
+AC-1933,136931,AC,Improvement,false,Closed,Fixed,2016-04-13 01:35:45,2020-04-15 10:05:14
+AC-1932,133578,AC,Improvement,false,New,,2016-02-09 18:27:24,
+AC-1931,137753,AC,Documentation,false,Closed,Won't Do,2016-04-28 06:27:48,2016-05-16 21:01:43
+AC-1930,137735,AC,Documentation,false,Under Review,,2016-04-27 23:26:07,
+AC-1926,137371,AC,Documentation,false,Closed,Fixed,2016-04-21 13:37:55,2016-04-21 17:27:34
+AC-1924,137197,AC,Documentation,false,Closed,Cannot Reproduce,2016-04-19 15:34:31,2016-04-20 05:15:33
+AC-1923,137128,AC,Documentation,false,Closed,Fixed,2016-04-18 19:24:30,2016-06-06 02:17:02
+AC-1913,136214,AC,New Feature,false,New,,2016-04-04 02:05:35,
+AC-1912,126201,AC,New Feature,false,New,,2015-08-18 19:30:57,
+AC-1911,135293,AC,Improvement,false,New,,2016-03-15 10:03:41,
+AC-1910,136021,AC,Improvement,false,Closed,Obsolete,2016-03-30 17:05:42,2016-05-04 18:27:31
+AC-1909,136000,AC,Bug,false,Closed,Duplicate,2016-03-30 01:04:13,2016-03-30 01:16:42
+AC-1908,134064,AC,Improvement,false,Closed,Timed out,2016-02-20 08:07:26,2016-11-12 00:28:18
+AC-1907,135956,AC,Improvement,false,Closed,Duplicate,2016-03-29 04:35:56,2016-03-29 22:17:26
+AC-1905,135922,AC,Documentation,false,Under Review,,2016-03-28 16:40:23,
+AC-1904,135843,AC,Bug,false,Closed,Answered,2016-03-24 07:06:00,2016-03-28 16:45:38
+AC-1902,135735,AC,Documentation,false,Under Review,,2016-03-21 22:44:26,
+AC-1900,135544,AC,New Feature,false,New,,2016-03-18 08:51:56,
+AC-1897,135412,AC,Improvement,false,Closed,Won't Fix,2016-03-16 10:38:42,2016-03-17 06:17:50
+AC-1896,135352,AC,New Feature,false,New,,2016-03-16 08:26:14,
+AC-1895,135348,AC,Improvement,false,Closed,Duplicate,2016-03-16 06:27:46,2016-03-16 08:01:39
+AC-1894,135048,AC,Bug,false,Closed,Fixed,2016-03-10 05:50:52,2016-03-23 19:24:16
+AC-1883,134348,AC,Bug,false,Closed,Fixed,2016-02-25 15:21:09,2016-02-28 19:08:44
+AC-1882,134130,AC,Bug,false,Closed,Fixed,2016-02-22 17:18:30,2016-02-23 18:09:35
+AC-1876,134038,AC,Bug,false,Closed,Fixed,2016-02-18 21:55:53,2016-08-17 13:47:50
+AC-1873,133941,AC,Bug,false,Closed,Not a bug,2016-02-17 03:48:25,2016-02-17 20:11:45
+AC-1872,133940,AC,Improvement,false,Closed,Obsolete,2016-02-17 00:32:34,2016-03-17 23:24:17
+AC-1871,133715,AC,New Feature,false,New,,2016-02-12 17:03:58,
+AC-1870,133690,AC,Improvement,false,Closed,Fixed,2016-02-11 19:10:58,2016-03-02 19:12:01
+AC-1869,133688,AC,Improvement,false,Closed,Fixed,2016-02-11 18:26:11,2016-02-11 18:30:39
+AC-1866,133642,AC,Improvement,false,Closed,Fixed,2016-02-10 22:56:04,2017-01-02 16:28:06
+AC-1865,133600,AC,Improvement,false,Closed,Fixed,2016-02-09 23:21:15,2016-04-04 21:47:51
+AC-1863,133579,AC,Improvement,false,New,,2016-02-09 18:29:11,
+AC-1861,133575,AC,Improvement,false,Closed,Answered,2016-02-09 17:54:44,2016-02-09 18:30:29
+AC-1859,133554,AC,Bug,false,Closed,Not a bug,2016-02-09 05:30:44,2016-02-09 22:16:08
+AC-1858,133425,AC,New Feature,false,New,,2016-02-04 18:30:04,
+AC-1856,133334,AC,New Feature,false,New,,2016-02-02 23:09:05,
+AC-1855,133330,AC,New Feature,false,New,,2016-02-02 22:06:22,
+AC-1854,133301,AC,Bug,false,Closed,Answered,2016-02-02 09:03:58,2016-02-02 18:59:58
+AC-1852,133246,AC,Documentation,false,Closed,Fixed,2016-01-31 21:41:40,2016-02-01 16:58:41
+AC-1847,133168,AC,New Feature,false,Closed,Fixed,2016-01-28 18:45:21,2016-02-17 15:02:23
+AC-1846,133151,AC,New Feature,false,New,,2016-01-28 11:28:59,
+AC-1843,132266,AC,New Feature,false,Closed,Fixed,2016-01-07 23:50:01,2016-03-28 21:51:13
+AC-1840,133079,AC,Documentation,false,Closed,Duplicate,2016-01-26 20:28:42,2016-01-26 20:29:50
+AC-1839,133058,AC,New Feature,false,New,,2016-01-26 17:47:30,
+AC-1838,133040,AC,Bug,false,Closed,Duplicate,2016-01-26 10:35:01,2016-01-26 19:17:00
+AC-1836,133033,AC,Bug,false,Closed,Fixed,2016-01-26 03:53:28,2016-08-01 20:48:48
+AC-1834,132920,AC,Documentation,false,Closed,Duplicate,2016-01-24 22:57:22,2016-01-26 21:11:34
+AC-1831,132476,AC,Documentation,false,Closed,Fixed,2016-01-13 00:31:27,2016-03-01 23:11:05
+AC-1826,132730,AC,Improvement,false,Closed,Done,2016-01-18 20:58:04,2016-01-19 00:32:38
+AC-1825,132721,AC,Bug,false,Closed,Fixed,2016-01-18 16:14:50,2016-02-07 21:01:40
+AC-1824,132719,AC,Improvement,false,New,,2016-01-18 12:30:44,
+AC-1823,126632,AC,New Feature,false,New,,2015-08-31 02:36:14,
+AC-1822,132495,AC,New Feature,false,Closed,Duplicate,2016-01-13 13:49:35,2016-01-13 16:05:57
+AC-1818,132225,AC,Bug,false,Closed,Not a bug,2016-01-06 23:47:25,2016-01-31 18:13:53
+AC-1817,132224,AC,Improvement,false,New,,2016-01-06 22:39:25,
+AC-1815,132164,AC,Improvement,false,New,,2016-01-05 20:41:53,
+AC-1814,132163,AC,Improvement,false,Closed,Won't Fix,2016-01-05 20:38:58,2016-01-05 21:01:15
+AC-1813,132162,AC,Improvement,false,Closed,Won't Fix,2016-01-05 20:36:29,2016-01-10 18:43:40
+AC-1812,132010,AC,Documentation,false,Closed,Fixed,2016-01-04 05:56:25,2016-02-01 00:49:36
+AC-1809,131703,AC,Improvement,false,Closed,Fixed,2015-12-16 00:52:27,2015-12-20 23:11:02
+AC-1806,131545,AC,Documentation,false,Closed,Fixed,2015-12-10 14:40:11,2016-01-26 22:37:54
+AC-1805,131555,AC,Bug,false,Closed,Not a bug,2015-12-13 05:24:45,2016-02-17 00:34:21
+AC-1803,131544,AC,Bug,false,Closed,Obsolete,2015-12-10 13:36:17,2016-01-13 05:16:07
+AC-1801,131323,AC,Documentation,false,Closed,Fixed,2015-12-07 14:53:29,2016-03-02 22:25:09
+AC-1800,131321,AC,Bug,false,Closed,Answered,2015-12-07 13:43:36,2015-12-15 07:24:41
+AC-1799,131223,AC,Bug,false,New,,2015-12-06 06:35:09,
+AC-1798,131160,AC,Bug,false,Closed,Invalid,2015-12-04 04:20:15,2015-12-04 06:29:42
+AC-1797,131158,AC,Bug,false,Closed,Answered,2015-12-04 03:54:38,2015-12-04 05:36:44
+AC-1796,129948,AC,Improvement,false,Closed,Fixed,2015-11-05 10:26:24,2016-05-05 00:45:29
+AC-1793,131055,AC,Documentation,false,Closed,Fixed,2015-12-01 12:13:49,2020-01-23 20:49:49
+AC-1791,130916,AC,Documentation,false,Closed,Fixed,2015-11-28 19:54:42,2016-03-15 22:51:24
+AC-1787,130784,AC,Improvement,false,Closed,Tracked Elsewhere,2015-11-24 12:39:22,2015-11-24 13:17:56
+AC-1785,130561,AC,Bug,false,Closed,Not a bug,2015-11-20 05:12:35,2015-12-16 18:58:46
+AC-1782,130422,AC,Improvement,false,Closed,Won't Fix,2015-11-16 12:57:47,2015-11-16 13:21:01
+AC-1781,130317,AC,New Feature,false,Closed,Duplicate,2015-11-13 10:14:54,2015-11-13 10:36:30
+AC-1780,130257,AC,Improvement,false,Closed,Duplicate,2015-11-12 16:27:45,2015-11-13 04:25:06
+AC-1778,130202,AC,Bug,false,Closed,Duplicate,2015-11-11 09:47:48,2015-11-11 16:45:24
+AC-1775,129916,AC,Documentation,false,Closed,Obsolete,2015-11-04 17:00:35,2016-03-02 23:52:54
+AC-1774,129886,AC,Improvement,false,Closed,Fixed,2015-11-04 01:01:37,2016-01-04 16:17:51
+AC-1772,129862,AC,Documentation,false,Closed,Fixed,2015-11-03 16:42:08,2016-03-03 18:57:28
+AC-1771,129849,AC,Bug,false,Closed,Fixed,2015-11-03 06:38:12,2015-11-03 17:46:53
+AC-1770,129699,AC,Documentation,false,Closed,Fixed,2015-10-30 12:14:45,2016-03-02 20:21:34
+AC-1769,129630,AC,Improvement,false,New,,2015-10-28 18:08:12,
+AC-1768,129625,AC,Bug,false,Closed,Won't Fix,2015-10-28 14:42:25,2016-08-16 00:26:00
+AC-1767,129566,AC,Documentation,false,Closed,Fixed,2015-10-27 12:31:23,2015-10-27 15:14:58
+AC-1765,129370,AC,Documentation,false,Closed,Fixed,2015-10-21 18:14:37,2016-03-02 22:25:09
+AC-1762,129234,AC,Documentation,false,Closed,Obsolete,2015-10-19 13:06:58,2016-03-01 17:49:14
+AC-1761,129056,AC,Improvement,false,New,,2015-10-17 10:37:40,
+AC-1760,128979,AC,Documentation,false,Closed,Fixed,2015-10-14 20:05:34,2015-10-15 17:52:20
+AC-1759,128902,AC,Improvement,false,Closed,Fixed,2015-10-13 18:55:43,2015-10-14 20:08:51
+AC-1758,128932,AC,Bug,false,Closed,Fixed,2015-10-13 23:42:52,2015-10-15 17:52:19
+AC-1756,128555,AC,Bug,false,Closed,Fixed,2015-10-05 23:20:07,2015-10-12 02:03:23
+AC-1755,128814,AC,Documentation,false,Closed,Invalid,2015-10-12 08:54:43,2015-10-12 18:25:34
+AC-1753,128658,AC,Bug,false,Closed,Cannot Reproduce,2015-10-07 16:21:46,2015-10-20 21:29:58
+AC-1752,128648,AC,Improvement,false,Closed,Won't Fix,2015-10-07 10:59:16,2016-03-30 23:27:31
+AC-1751,128567,AC,Bug,false,Closed,Fixed,2015-10-06 06:53:11,2015-10-09 01:12:26
+AC-1749,128478,AC,Bug,false,Closed,Fixed,2015-10-02 11:14:53,2015-10-13 00:36:54
+AC-1748,128454,AC,Improvement,false,Closed,Fixed,2015-10-01 19:32:50,2015-10-01 23:18:36
+AC-1746,128262,AC,Bug,false,Closed,Invalid,2015-09-29 09:36:00,2015-10-06 22:28:09
+AC-1733,128169,AC,Documentation,false,Closed,Fixed,2015-09-27 23:11:37,2015-09-29 01:45:15
+AC-1732,128149,AC,New Feature,false,New,,2015-09-27 20:04:55,
+AC-1731,128146,AC,New Feature,false,Closed,Won't Fix,2015-09-27 19:43:19,2016-03-30 23:40:19
+AC-1729,128129,AC,Documentation,false,Closed,Fixed,2015-09-26 10:51:56,2016-03-01 22:44:36
+AC-1728,127966,AC,Documentation,false,Closed,Fixed,2015-09-22 10:02:46,2016-04-27 02:16:28
+AC-1720,127663,AC,Bug,false,Closed,Duplicate,2015-09-16 21:09:18,2015-09-16 21:14:59
+AC-1719,126924,AC,Improvement,false,Closed,Obsolete,2015-09-02 01:53:36,2017-05-26 05:13:55
+AC-1718,127546,AC,Bug,false,Closed,Fixed,2015-09-14 23:32:19,2015-09-15 03:58:02
+AC-1717,127618,AC,Documentation,false,Closed,Duplicate,2015-09-16 09:30:47,2015-09-17 01:47:31
+AC-1716,127611,AC,Improvement,false,New,,2015-09-16 07:09:40,
+AC-1715,127541,AC,Bug,false,Closed,Not a bug,2015-09-14 22:32:53,2015-09-15 03:02:41
+AC-1714,127531,AC,Improvement,false,New,,2015-09-14 19:16:34,
+AC-1710,127274,AC,New Feature,false,Closed,Won't Fix,2015-09-09 01:49:27,2015-09-09 05:56:46
+AC-1709,127234,AC,Documentation,false,Closed,Tracked Elsewhere,2015-09-08 02:54:52,2015-09-08 19:21:46
+AC-1706,127216,AC,Improvement,false,Closed,Invalid,2015-09-07 18:57:00,2015-09-07 20:19:23
+AC-1700,127049,AC,Documentation,false,Closed,Fixed,2015-09-03 22:34:38,2015-09-07 18:46:32
+AC-1696,126803,AC,Documentation,false,Closed,Fixed,2015-09-01 14:41:40,2015-10-15 17:52:19
+AC-1695,102259,AC,New Feature,false,Closed,Fixed,2014-09-16 14:49:20,2017-05-24 22:26:18
+AC-1693,126630,AC,Bug,false,Closed,Fixed,2015-08-31 02:06:15,2015-11-26 16:08:52
+AC-1692,126611,AC,Bug,false,New,,2015-08-29 17:54:41,
+AC-1691,126483,AC,Documentation,false,Closed,Duplicate,2015-08-26 16:14:55,2015-08-26 18:17:06
+AC-1689,126418,AC,Documentation,false,Closed,Fixed,2015-08-25 06:24:45,2015-12-21 18:35:53
+AC-1688,126324,AC,Improvement,false,Closed,Fixed,2015-08-23 20:04:40,2015-08-24 20:07:57
+AC-1687,126295,AC,Bug,false,Closed,Answered,2015-08-21 04:26:28,2015-08-23 18:19:46
+AC-1686,126290,AC,Improvement,false,Closed,Fixed,2015-08-20 22:50:38,2015-09-11 01:35:08
+AC-1685,126275,AC,Bug,false,Closed,Duplicate,2015-08-20 07:54:09,2015-12-03 14:23:54
+AC-1684,126235,AC,Documentation,false,Closed,Fixed,2015-08-19 05:30:06,2015-09-01 01:27:44
+AC-1682,125658,AC,Improvement,false,Closed,Fixed,2015-08-05 00:52:19,2015-08-17 09:37:08
+AC-1681,126127,AC,Bug,false,Closed,Tracked Elsewhere,2015-08-17 12:07:44,2015-08-19 01:25:29
+AC-1679,126059,AC,Improvement,false,Closed,Duplicate,2015-08-14 08:01:10,2015-09-03 18:55:12
+AC-1676,125950,AC,Documentation,false,Closed,Duplicate,2015-08-11 09:11:51,2015-09-30 10:22:33
+AC-1671,125841,AC,Bug,false,Closed,Resolved Locally,2015-08-10 14:20:33,2015-08-10 18:20:36
+AC-1668,125691,AC,Documentation,false,Closed,Fixed,2015-08-06 09:18:46,2016-03-02 19:20:49
+AC-1667,125666,AC,Documentation,false,Closed,Fixed,2015-08-05 03:38:15,2015-09-17 22:27:39
+AC-1666,125543,AC,Bug,false,Closed,Fixed,2015-08-03 15:03:05,2015-08-04 02:02:26
+AC-1665,125537,AC,Bug,false,Closed,Duplicate,2015-08-03 08:09:29,2015-08-03 18:54:48
+AC-1663,125366,AC,Bug,false,New,,2015-07-29 03:41:38,
+AC-1662,89210,AC,Improvement,false,Closed,Won't Fix,2014-03-06 20:54:33,2016-08-16 00:17:53
+AC-1661,125319,AC,Bug,false,New,,2015-07-28 03:19:55,
+AC-1659,125320,AC,Bug,false,Closed,Tracked Elsewhere,2015-07-28 03:34:54,2018-08-10 08:42:30
+AC-1655,125232,AC,Improvement,false,New,,2015-07-26 19:14:35,
+AC-1654,125197,AC,Bug,false,Closed,Done,2015-07-24 04:31:05,2015-07-30 23:39:52
+AC-1652,125063,AC,Improvement,false,Closed,Fixed,2015-07-22 01:36:10,2015-11-02 14:21:22
+AC-1650,125057,AC,Bug,false,Closed,Done,2015-07-22 00:13:04,2015-07-30 23:35:50
+AC-1649,125050,AC,Bug,false,Closed,Fixed,2015-07-21 20:19:31,2015-07-27 01:55:34
+AC-1648,124991,AC,Documentation,false,Closed,Fixed,2015-07-20 16:10:49,2015-09-24 01:34:12
+AC-1646,124940,AC,Bug,false,Closed,Fixed,2015-07-19 17:59:19,2016-01-28 23:28:15
+AC-1642,124529,AC,New Feature,false,Closed,Won't Fix,2015-07-13 02:17:41,2016-03-30 23:31:53
+AC-1641,124518,AC,New Feature,false,Closed,Fixed,2015-07-12 19:57:25,2016-01-10 18:14:33
+AC-1640,112006,AC,Bug,false,Closed,Fixed,2015-02-12 06:24:43,2015-10-26 04:16:21
+AC-1638,124228,AC,Improvement,false,Closed,Obsolete,2015-07-09 19:18:01,2016-03-17 23:22:29
+AC-1637,124129,AC,Bug,false,Closed,Duplicate,2015-07-08 19:38:01,2015-07-28 20:32:38
+AC-1636,124124,AC,Bug,false,New,,2015-07-08 19:19:39,
+AC-1633,124029,AC,New Feature,false,Closed,Won't Fix,2015-07-07 19:06:23,2016-03-14 18:15:54
+AC-1632,124025,AC,Documentation,false,Closed,Fixed,2015-07-07 17:08:34,2015-07-08 19:29:30
+AC-1631,123936,AC,New Feature,false,Closed,Won't Do,2015-07-06 20:59:52,2015-07-09 19:04:18
+AC-1630,123641,AC,New Feature,false,Closed,Won't Do,2015-07-03 09:10:22,2015-07-06 21:03:39
+AC-1627,123515,AC,Bug,false,Closed,Not a bug,2015-07-01 09:11:28,2015-07-01 18:43:51
+AC-1626,113242,AC,Improvement,false,New,,2015-03-10 22:45:16,
+AC-1625,123427,AC,Improvement,false,Closed,Fixed,2015-06-30 23:54:33,2015-07-02 19:19:45
+AC-1623,123221,AC,New Feature,false,New,,2015-06-29 00:27:10,
+AC-1622,122830,AC,Improvement,false,Closed,Duplicate,2015-06-24 19:23:58,2015-12-22 06:56:19
+AC-1621,122812,AC,Bug,false,New,,2015-06-24 05:41:38,
+AC-1620,122711,AC,Improvement,false,New,,2015-06-23 07:24:00,
+AC-1619,122632,AC,Documentation,false,Closed,Fixed,2015-06-22 22:26:34,2015-06-22 22:53:02
+AC-1618,122626,AC,Improvement,false,Closed,Duplicate,2015-06-22 17:36:47,2015-07-03 02:10:09
+AC-1617,122528,AC,Improvement,false,New,,2015-06-22 03:09:00,
+AC-1614,122224,AC,New Feature,false,Closed,Tracked Elsewhere,2015-06-18 14:10:37,2015-06-18 18:17:02
+AC-1609,121958,AC,Improvement,false,Closed,Duplicate,2015-06-14 22:29:33,2015-06-15 04:17:07
+AC-1608,121820,AC,New Feature,false,Closed,Fixed,2015-06-11 07:00:52,2016-10-10 21:54:41
+AC-1607,121819,AC,New Feature,false,Closed,Fixed,2015-06-11 06:59:13,2016-08-25 00:31:14
+AC-1605,121710,AC,Improvement,false,Closed,Won't Fix,2015-06-10 17:29:34,2015-06-15 22:19:06
+AC-1603,121231,AC,New Feature,false,Closed,Tracked Elsewhere,2015-06-10 04:19:24,2019-03-06 08:24:18
+AC-1602,121230,AC,Documentation,false,Closed,Fixed,2015-06-10 02:50:01,2015-07-02 23:21:24
+AC-1601,121227,AC,Improvement,false,Closed,Fixed,2015-06-10 01:46:10,2015-06-11 11:01:20
+AC-1600,121130,AC,Improvement,false,Closed,Duplicate,2015-06-08 20:38:15,2015-06-09 15:08:41
+AC-1599,120910,AC,Bug,false,Closed,Fixed,2015-06-06 06:14:34,2015-07-07 01:27:20
+AC-1598,120811,AC,Bug,false,Closed,Duplicate,2015-06-05 05:37:37,2015-07-03 02:38:25
+AC-1596,120712,AC,Improvement,false,Closed,Duplicate,2015-06-04 06:52:16,2015-06-23 20:13:05
+AC-1589,120426,AC,Documentation,false,Closed,Fixed,2015-06-01 20:56:12,2016-03-01 20:43:46
+AC-1588,120049,AC,Improvement,false,Closed,Duplicate,2015-05-29 02:33:51,2015-05-29 07:17:40
+AC-1584,116060,AC,Improvement,false,Closed,Fixed,2015-04-20 21:37:22,2015-05-25 22:35:04
+AC-1582,119360,AC,Bug,false,Closed,Incomplete,2015-05-22 04:33:49,2015-05-22 18:51:51
+AC-1579,119340,AC,Improvement,false,Closed,Fixed,2015-05-21 20:25:40,2015-10-03 04:38:15
+AC-1578,119222,AC,Improvement,false,Closed,Answered,2015-05-20 14:01:16,2015-05-21 05:28:57
+AC-1577,119147,AC,Documentation,false,Closed,Done,2015-05-20 04:32:21,2015-08-03 21:47:58
+AC-1573,118434,AC,Bug,false,Closed,Fixed,2015-05-13 04:04:25,2015-05-13 21:19:26
+AC-1572,118423,AC,Improvement,false,New,,2015-05-12 23:25:30,
+AC-1569,117915,AC,New Feature,false,Closed,Duplicate,2015-05-08 11:18:35,2015-05-10 18:13:55
+AC-1567,117421,AC,Bug,false,Closed,Duplicate,2015-05-04 18:32:33,2017-01-13 11:42:20
+AC-1566,117211,AC,Documentation,false,Closed,Fixed,2015-05-02 17:04:45,2015-05-03 23:25:11
+AC-1565,117115,AC,Bug,false,Closed,Won't Fix,2015-05-01 13:49:59,2015-05-02 17:05:25
+AC-1560,116216,AC,Bug,false,Closed,Not a bug,2015-04-22 16:08:39,2015-04-24 03:22:09
+AC-1558,115638,AC,Improvement,false,Closed,Fixed,2015-04-17 00:53:40,2015-04-20 19:32:42
+AC-1556,115624,AC,Bug,false,Closed,Cannot Reproduce,2015-04-16 11:53:11,2015-04-19 17:50:05
+AC-1553,115412,AC,Documentation,false,Closed,Fixed,2015-04-14 07:36:37,2015-04-15 20:18:53
+AC-1551,113455,AC,Bug,false,Closed,Invalid,2015-03-16 22:51:55,2016-08-16 01:26:36
+AC-1550,115110,AC,Improvement,false,Closed,Duplicate,2015-04-11 08:13:10,2015-04-12 18:24:36
+AC-1548,114942,AC,Documentation,false,Closed,Fixed,2015-04-09 21:22:39,2015-05-06 18:47:15
+AC-1547,112581,AC,Improvement,false,Closed,Fixed,2015-02-25 18:22:00,2015-03-24 20:50:37
+AC-1544,114523,AC,Improvement,false,Closed,Fixed,2015-04-06 18:01:23,2015-04-28 20:09:08
+AC-1542,114059,AC,Improvement,false,Closed,Invalid,2015-04-02 02:18:07,2015-04-02 02:57:50
+AC-1541,114023,AC,Bug,false,Closed,Fixed,2015-04-01 17:20:51,2015-04-01 19:48:19
+AC-1540,113896,AC,Bug,false,Closed,Not a bug,2015-03-30 23:06:14,2015-03-30 23:11:34
+AC-1529,113060,AC,Bug,false,Closed,Handled by Support,2015-03-06 15:15:11,2015-03-08 20:34:56
+AC-1528,112961,AC,Bug,false,Closed,Fixed,2015-03-03 18:17:40,2020-09-29 20:29:30
+AC-1525,112527,AC,Bug,false,Closed,Fixed,2015-02-24 15:47:57,2015-02-26 17:43:13
+AC-1523,112516,AC,Improvement,false,Closed,Fixed,2015-02-24 06:29:58,2021-03-30 15:32:45
+AC-1520,108918,AC,Bug,false,New,,2014-12-09 10:27:21,
+AC-1519,112083,AC,Improvement,false,Closed,Fixed,2015-02-15 21:32:38,2020-01-20 23:40:59
+AC-1518,112065,AC,Documentation,false,Closed,Fixed,2015-02-15 00:06:30,2015-03-18 17:41:32
+AC-1517,112064,AC,Improvement,false,Closed,Not a bug,2015-02-14 17:10:58,2015-02-17 21:36:06
+AC-1514,112053,AC,Bug,false,Closed,Not a bug,2015-02-13 11:58:12,2015-02-15 15:01:30
+AC-1512,112041,AC,Bug,false,Closed,Resolved Locally,2015-02-12 23:53:01,2015-03-15 17:40:25
+AC-1511,112026,AC,Documentation,false,Closed,Fixed,2015-02-12 19:58:50,2015-02-12 23:34:43
+AC-1509,111975,AC,New Feature,false,Closed,Tracked Elsewhere,2015-02-11 18:36:31,2015-05-07 00:17:30
+AC-1508,111930,AC,Bug,false,Closed,Fixed,2015-02-11 15:07:05,2015-02-16 17:12:57
+AC-1506,111915,AC,Improvement,false,Closed,Not a bug,2015-02-11 07:53:02,2015-02-11 16:17:12
+AC-1505,111782,AC,Bug,false,Closed,Fixed,2015-02-10 11:09:23,2015-02-10 21:03:46
+AC-1504,111778,AC,Improvement,false,Closed,Duplicate,2015-02-10 05:53:36,2015-02-11 00:33:28
+AC-1503,111753,AC,Bug,false,Closed,Fixed,2015-02-09 16:49:14,2015-02-10 21:03:45
+AC-1502,111724,AC,Documentation,false,Closed,Fixed,2015-02-09 05:27:06,2015-03-15 21:04:26
+AC-1501,111664,AC,Documentation,false,Closed,Fixed,2015-02-07 19:18:29,2015-03-15 23:18:13
+AC-1500,111627,AC,Bug,false,Closed,Fixed,2015-02-05 20:06:34,2017-02-17 03:56:27
+AC-1497,111411,AC,Bug,false,Closed,Duplicate,2015-01-31 05:04:10,2015-02-17 21:44:47
+AC-1496,111396,AC,Documentation,false,Closed,Answered,2015-01-30 08:43:17,2015-02-01 04:58:22
+AC-1495,111352,AC,Bug,false,Closed,Answered,2015-01-29 11:25:21,2015-01-29 16:51:22
+AC-1493,111317,AC,Documentation,false,Closed,Fixed,2015-01-28 15:54:36,2015-01-28 22:30:44
+AC-1492,111223,AC,Bug,false,Closed,Tracked Elsewhere,2015-01-27 13:24:38,2015-02-17 21:39:16
+AC-1491,111217,AC,Bug,false,New,,2015-01-27 09:48:46,
+AC-1489,111041,AC,Improvement,false,Closed,Handled by Support,2015-01-23 06:10:44,2015-01-26 17:12:39
+AC-1487,110997,AC,New Feature,false,Closed,Roadmap Candidate,2015-01-21 22:54:59,2015-05-21 20:41:34
+AC-1486,110065,AC,Bug,false,Closed,Answered,2015-01-02 08:14:24,2015-01-22 19:39:04
+AC-1485,110763,AC,Improvement,false,Closed,Duplicate,2015-01-20 11:24:43,2015-04-28 22:30:39
+AC-1483,110702,AC,Bug,false,Closed,Fixed,2015-01-16 20:16:50,2015-02-17 21:51:08
+AC-1482,110652,AC,Bug,false,Closed,Obsolete,2015-01-15 18:20:02,2015-04-22 23:47:37
+AC-1481,110438,AC,Improvement,false,New,,2015-01-13 16:52:17,
+AC-1479,110365,AC,Improvement,false,Closed,Won't Fix,2015-01-12 00:41:22,2015-05-22 01:28:37
+AC-1478,110325,AC,Improvement,false,Closed,Tracked Elsewhere,2015-01-09 12:31:59,2015-02-22 18:36:44
+AC-1477,110253,AC,Bug,false,Closed,Duplicate,2015-01-08 19:04:40,2015-01-08 19:25:51
+AC-1476,110185,AC,Improvement,false,Closed,Duplicate,2015-01-07 06:41:24,2015-01-27 19:08:20
+AC-1474,109769,AC,New Feature,false,New,,2014-12-23 04:15:30,
+AC-1472,109741,AC,Improvement,false,Closed,Fixed,2014-12-22 20:10:42,2015-01-06 15:54:58
+AC-1470,109731,AC,New Feature,false,Closed,Won't Fix,2014-12-22 12:14:27,2014-12-22 16:49:00
+AC-1468,109610,AC,Bug,false,Closed,Tracked Elsewhere,2014-12-18 05:34:36,2015-05-18 02:01:32
+AC-1467,109487,AC,Documentation,false,Closed,Invalid,2014-12-17 16:56:09,2015-03-15 18:46:48
+AC-1466,109484,AC,Bug,false,Closed,Fixed,2014-12-17 16:34:10,2015-01-05 19:21:28
+AC-1465,109345,AC,Improvement,false,Closed,Fixed,2014-12-15 01:33:45,2014-12-15 22:46:32
+AC-1464,109148,AC,Improvement,false,Closed,Fixed,2014-12-11 23:58:19,2014-12-15 22:43:53
+AC-1463,109076,AC,Improvement,false,Closed,Fixed,2014-12-10 23:40:59,2014-12-10 23:51:54
+AC-1462,109075,AC,Improvement,false,Closed,Fixed,2014-12-10 23:35:09,2014-12-10 23:57:09
+AC-1461,109074,AC,Improvement,false,Closed,Fixed,2014-12-10 23:18:08,2014-12-10 23:36:06
+AC-1460,109072,AC,Improvement,false,Closed,Fixed,2014-12-10 22:35:55,2015-03-17 18:58:41
+AC-1459,109053,AC,Improvement,false,Closed,Fixed,2014-12-10 19:04:50,2014-12-10 23:59:58
+AC-1457,108917,AC,Improvement,false,Closed,Duplicate,2014-12-09 09:51:47,2014-12-09 16:17:55
+AC-1454,108717,AC,Improvement,false,Closed,Fixed,2014-12-07 14:16:38,2014-12-07 15:05:01
+AC-1453,108524,AC,Improvement,false,Closed,Won't Fix,2014-12-04 19:18:46,2014-12-04 20:12:40
+AC-1452,108424,AC,Documentation,false,Closed,Fixed,2014-12-03 17:07:56,2015-03-17 01:31:45
+AC-1451,108410,AC,Bug,false,Closed,Tracked Elsewhere,2014-12-03 04:41:46,2014-12-03 05:08:43
+AC-1449,108322,AC,Bug,false,Closed,Fixed,2014-12-02 15:33:26,2014-12-03 00:15:58
+AC-1448,108191,AC,Bug,false,Closed,Resolved Locally,2014-12-01 14:31:36,2014-12-04 15:47:11
+AC-1445,108119,AC,Bug,false,Closed,Tracked Elsewhere,2014-11-28 13:06:01,2015-02-17 21:47:28
+AC-1444,107946,AC,Bug,false,Closed,Fixed,2014-11-27 03:26:42,2014-11-28 00:24:44
+AC-1443,107912,AC,Bug,false,Closed,Duplicate,2014-11-26 04:55:01,2014-11-26 13:23:05
+AC-1439,107228,AC,Bug,false,Closed,Fixed,2014-11-17 18:00:58,2014-12-15 22:43:13
+AC-1437,107213,AC,Bug,false,Closed,Obsolete,2014-11-17 12:20:08,2015-01-21 19:36:01
+AC-1436,107191,AC,Improvement,false,Closed,Fixed,2014-11-16 23:49:00,2015-01-21 20:02:09
+AC-1435,106338,AC,Bug,false,Closed,Answered,2014-11-04 04:22:13,2014-11-23 18:26:19
+AC-1434,105961,AC,Bug,false,Closed,Resolved Locally,2014-10-30 01:02:44,2015-05-21 20:11:52
+AC-1432,105939,AC,Bug,false,Closed,Won't Fix,2014-10-29 16:22:41,2014-10-29 22:16:25
+AC-1431,105804,AC,Bug,false,Closed,Tracked Elsewhere,2014-10-28 22:36:28,2014-10-28 23:35:01
+AC-1430,105768,AC,Bug,false,Closed,Fixed,2014-10-28 06:09:33,2014-10-28 20:44:44
+AC-1429,105753,AC,Bug,false,Closed,Fixed,2014-10-27 22:19:42,2014-10-28 20:44:40
+AC-1427,105656,AC,Bug,false,Closed,Fixed,2014-10-27 04:25:48,2014-12-17 22:29:21
+AC-1426,105650,AC,Bug,false,Closed,Fixed,2014-10-26 23:42:25,2014-10-27 13:06:01
+AC-1425,105534,AC,Bug,false,Closed,Duplicate,2014-10-22 23:02:57,2014-11-06 23:33:51
+AC-1424,105412,AC,Bug,false,Closed,Fixed,2014-10-21 23:37:18,2020-01-22 05:57:31
+AC-1422,105290,AC,Improvement,false,Closed,Duplicate,2014-10-20 01:34:52,2014-10-24 01:50:58
+AC-1419,105231,AC,New Feature,false,New,,2014-10-16 19:31:48,
+AC-1418,105145,AC,Improvement,false,Closed,Fixed,2014-10-15 00:58:01,2014-10-15 00:58:44
+AC-1417,105122,AC,Bug,false,Closed,Tracked Elsewhere,2014-10-14 17:34:53,2015-09-03 18:42:11
+AC-1409,101612,AC,Bug,false,Closed,Fixed,2014-09-05 06:13:21,2016-10-15 20:24:15
+AC-1408,104921,AC,Improvement,false,Closed,Answered,2014-10-11 22:35:32,2014-10-12 16:51:46
+AC-1407,104911,AC,Improvement,false,Closed,Duplicate,2014-10-10 14:48:53,2015-05-24 19:24:22
+AC-1406,104910,AC,Bug,false,Closed,Duplicate,2014-10-10 14:45:26,2014-10-12 17:00:31
+AC-1405,104810,AC,Improvement,false,Closed,Tracked Elsewhere,2014-10-10 10:46:23,2014-12-10 21:40:54
+AC-1402,104721,AC,Improvement,false,Closed,Duplicate,2014-10-09 17:45:05,2015-02-22 20:11:17
+AC-1401,104618,AC,Improvement,false,Closed,Duplicate,2014-10-08 13:23:53,2018-03-20 16:11:03
+AC-1400,104614,AC,Improvement,false,New,,2014-10-08 11:25:45,
+AC-1399,98555,AC,Improvement,false,Closed,Fixed,2014-08-05 23:21:26,2014-10-15 00:42:40
+AC-1398,104409,AC,Improvement,false,Closed,Fixed,2014-10-06 21:48:00,2014-10-09 23:12:56
+AC-1397,104398,AC,Documentation,false,Closed,Fixed,2014-10-06 18:41:56,2015-03-18 02:34:32
+AC-1395,104012,AC,New Feature,false,Closed,Duplicate,2014-10-02 12:15:48,2014-10-12 17:02:36
+AC-1394,104028,AC,Improvement,false,New,,2014-10-02 18:45:30,
+AC-1392,104020,AC,Bug,false,Closed,Not a bug,2014-10-02 15:37:58,2015-05-22 01:51:19
+AC-1390,104014,AC,Bug,false,Closed,Duplicate,2014-10-02 13:20:25,2014-10-13 18:19:13
+AC-1388,103849,AC,Bug,false,Closed,Fixed,2014-10-01 18:50:11,2014-12-18 22:51:25
+AC-1387,103817,AC,Bug,false,Closed,Duplicate,2014-10-01 14:50:51,2014-11-04 17:21:21
+AC-1386,92819,AC,Documentation,false,Closed,Fixed,2014-05-08 13:50:01,2020-08-27 05:47:12
+AC-1384,103517,AC,New Feature,false,New,,2014-09-30 05:03:41,
+AC-1382,103504,AC,Improvement,false,Closed,Fixed,2014-09-30 01:14:12,2020-08-27 05:47:29
+AC-1381,103474,AC,Documentation,false,Closed,Fixed,2014-09-29 22:41:12,2020-08-27 05:47:17
+AC-1380,103469,AC,Improvement,false,Closed,Invalid,2014-09-29 21:50:50,2014-09-29 21:51:24
+AC-1378,103417,AC,Bug,false,Under Review,,2014-09-29 08:37:10,
+AC-1377,103416,AC,Improvement,false,Closed,Incomplete,2014-09-29 07:08:07,2014-12-01 22:20:29
+AC-1376,103356,AC,Improvement,false,Closed,Fixed,2014-09-28 22:07:27,2014-09-30 02:10:44
+AC-1374,103328,AC,Improvement,false,Closed,Duplicate,2014-09-27 18:07:02,2014-11-25 00:38:10
+AC-1373,103310,AC,Bug,false,Closed,Answered,2014-09-26 04:55:07,2014-09-28 23:23:30
+AC-1372,103210,AC,Bug,false,Closed,Duplicate,2014-09-25 20:38:55,2014-09-26 17:49:58
+AC-1370,103167,AC,Improvement,false,Closed,Done,2014-09-25 19:12:20,2020-11-26 07:04:06
+AC-1369,102923,AC,Bug,false,Closed,Fixed,2014-09-24 19:36:18,2014-09-25 02:03:09
+AC-1368,102618,AC,Bug,false,Closed,Fixed,2014-09-23 12:58:05,2014-11-06 06:41:26
+AC-1365,100216,AC,Bug,false,Under Review,,2014-08-25 02:09:56,
+AC-1363,102424,AC,Improvement,false,Closed,Duplicate,2014-09-18 18:36:08,2014-09-28 23:28:11
+AC-1362,102420,AC,Bug,false,New,,2014-09-18 16:11:22,
+AC-1359,102322,AC,Bug,false,Closed,Fixed,2014-09-17 23:45:26,2020-08-27 05:47:17
+AC-1358,102321,AC,Improvement,false,Closed,Won't Fix,2014-09-17 21:02:19,2014-10-16 19:44:08
+AC-1357,97052,AC,Improvement,false,Closed,Obsolete,2014-07-17 22:59:42,2015-10-30 11:55:39
+AC-1354,102249,AC,Bug,false,Closed,Obsolete,2014-09-16 13:10:14,2015-05-22 01:41:17
+AC-1353,102246,AC,Bug,false,Closed,Duplicate,2014-09-16 09:17:36,2014-09-28 17:47:28
+AC-1352,102240,AC,Bug,false,Closed,Cannot Reproduce,2014-09-15 23:14:53,2015-02-17 22:05:04
+AC-1351,102232,AC,Bug,false,Closed,Duplicate,2014-09-15 19:44:37,2014-09-15 19:45:31
+AC-1349,102015,AC,Improvement,false,Closed,Fixed,2014-09-12 13:39:57,2014-09-17 15:21:29
+AC-1346,102010,AC,Bug,false,Closed,Not a bug,2014-09-12 12:08:00,2015-04-28 22:29:37
+AC-1345,101958,AC,Improvement,false,Closed,Fixed,2014-09-12 04:13:35,2014-09-29 22:26:49
+AC-1344,101945,AC,Bug,false,Closed,Duplicate,2014-09-11 13:59:39,2014-10-13 01:23:12
+AC-1343,101943,AC,Improvement,false,Closed,Roadmap Candidate,2014-09-11 10:25:02,2014-09-15 18:46:17
+AC-1342,101922,AC,Bug,false,Closed,Fixed,2014-09-10 17:16:45,2014-10-17 07:47:03
+AC-1341,101818,AC,Bug,false,Closed,Fixed,2014-09-10 03:35:14,2014-10-20 20:39:01
+AC-1340,101731,AC,Bug,false,Closed,Fixed,2014-09-09 17:04:30,2016-08-18 00:15:39
+AC-1339,101727,AC,Bug,false,Closed,Fixed,2014-09-09 16:15:54,2014-09-09 17:44:32
+AC-1338,101721,AC,Bug,false,Closed,Fixed,2014-09-09 14:33:48,2014-09-15 19:46:39
+AC-1337,101720,AC,Bug,false,Closed,Fixed,2014-09-09 14:26:35,2014-09-17 15:22:30
+AC-1334,101712,AC,Improvement,false,Closed,Won't Fix,2014-09-09 08:42:29,2014-11-06 06:33:20
+AC-1333,101661,AC,Bug,false,Closed,Fixed,2014-09-08 12:15:08,2014-09-18 13:39:06
+AC-1332,101655,AC,Bug,false,Closed,Duplicate,2014-09-08 04:45:15,2014-10-12 21:59:53
+AC-1331,101654,AC,Bug,false,Closed,Answered,2014-09-08 04:21:59,2014-10-23 02:02:16
+AC-1330,101211,AC,Bug,false,Closed,Fixed,2014-09-03 09:35:41,2014-09-16 17:20:29
+AC-1327,100910,AC,Improvement,false,Closed,Won't Fix,2014-09-01 05:02:48,2014-10-01 00:32:13
+AC-1326,100710,AC,Bug,false,Closed,Not a bug,2014-08-30 09:00:34,2014-09-03 20:28:03
+AC-1324,100516,AC,Bug,false,Closed,Fixed,2014-08-28 11:44:10,2014-09-16 16:56:32
+AC-1323,100215,AC,Improvement,false,Closed,Duplicate,2014-08-25 02:04:23,2014-10-13 18:32:13
+AC-1321,100436,AC,New Feature,false,Closed,Duplicate,2014-08-27 23:23:38,2014-10-13 18:30:59
+AC-1317,100334,AC,New Feature,false,New,,2014-08-26 21:26:57,
+AC-1316,100326,AC,New Feature,false,Closed,Duplicate,2014-08-26 18:49:09,2014-10-06 19:22:13
+AC-1312,100236,AC,Bug,false,Closed,Fixed,2014-08-26 00:01:54,2014-09-29 21:11:49
+AC-1310,99910,AC,New Feature,false,Closed,Tracked Elsewhere,2014-08-23 16:40:22,2014-08-26 00:08:22
+AC-1309,99863,AC,Improvement,false,New,,2014-08-22 11:56:24,
+AC-1308,99859,AC,Improvement,false,Closed,Won't Fix,2014-08-22 08:26:25,2014-12-01 22:09:06
+AC-1307,99835,AC,Bug,false,Closed,Fixed,2014-08-22 00:07:00,2014-10-13 01:21:07
+AC-1305,99625,AC,Bug,false,Closed,Duplicate,2014-08-20 12:19:30,2014-08-26 00:15:20
+AC-1301,99443,AC,Bug,false,Closed,Fixed,2014-08-18 09:05:57,2014-09-16 16:31:08
+AC-1297,99423,AC,Improvement,false,Closed,Invalid,2014-08-17 14:35:06,2014-08-26 00:20:35
+AC-1296,99422,AC,Improvement,false,Closed,Not a bug,2014-08-16 18:05:13,2014-08-17 06:05:36
+AC-1295,99321,AC,New Feature,false,Closed,Fixed,2014-08-14 19:32:47,2014-09-30 21:20:39
+AC-1294,99314,AC,Bug,false,Closed,Fixed,2014-08-14 13:36:16,2014-09-17 15:24:10
+AC-1293,99232,AC,Bug,false,Under Review,,2014-08-13 22:18:20,
+AC-1290,99160,AC,Improvement,false,New,,2014-08-12 20:52:12,
+AC-1289,99132,AC,Improvement,false,New,,2014-08-12 01:17:17,
+AC-1288,99116,AC,Improvement,false,Closed,Fixed,2014-08-11 12:18:29,2014-10-09 17:49:45
+AC-1286,98957,AC,Bug,false,Closed,Answered,2014-08-10 04:28:49,2014-08-10 09:03:38
+AC-1285,98847,AC,New Feature,false,Closed,Answered,2014-08-07 03:09:00,2014-08-07 08:24:39
+AC-1284,98846,AC,New Feature,false,Closed,Answered,2014-08-07 02:59:28,2014-08-07 20:19:52
+AC-1283,98842,AC,Bug,false,Closed,Not a bug,2014-08-07 01:08:56,2014-08-17 19:23:23
+AC-1281,98813,AC,Bug,false,Closed,Obsolete,2014-08-06 10:08:34,2014-09-30 20:41:18
+AC-1280,98812,AC,Bug,false,Closed,Answered,2014-08-06 09:03:58,2014-08-18 00:04:07
+AC-1278,98711,AC,Bug,false,Closed,Duplicate,2014-08-06 04:14:24,2014-08-06 10:08:43
+AC-1277,98528,AC,Bug,false,Closed,Fixed,2014-08-05 16:18:55,2016-08-01 23:16:02
+AC-1276,98526,AC,Bug,false,Closed,Fixed,2014-08-05 15:31:07,2014-08-05 21:09:47
+AC-1274,98523,AC,Bug,false,Under Review,,2014-08-05 10:35:20,
+AC-1273,98411,AC,Bug,false,Closed,Fixed,2014-08-04 04:53:06,2014-08-05 21:14:44
+AC-1272,98213,AC,Improvement,false,New,,2014-08-01 00:45:35,
+AC-1271,98125,AC,Bug,false,Closed,Fixed,2014-07-31 19:14:33,2021-03-21 20:25:34
+AC-1269,98116,AC,Bug,false,Closed,Fixed,2014-07-31 13:00:06,2014-07-31 16:09:11
+AC-1267,98114,AC,Improvement,false,Closed,Cannot Reproduce,2014-07-31 11:30:40,2014-09-30 19:13:21
+AC-1262,97919,AC,Bug,false,Closed,Tracked Elsewhere,2014-07-30 14:59:39,2014-08-01 21:57:17
+AC-1261,97916,AC,Bug,false,Under Review,,2014-07-30 12:34:22,
+AC-1259,96414,AC,Bug,false,Under Review,,2014-07-09 00:47:13,
+AC-1258,97832,AC,Bug,false,Closed,Duplicate,2014-07-30 01:42:44,2014-07-30 01:56:17
+AC-1257,97828,AC,Improvement,false,Closed,Won't Fix,2014-07-29 21:44:12,2014-09-30 19:14:38
+AC-1256,97749,AC,Bug,false,Under Review,,2014-07-28 20:12:07,
+AC-1255,97728,AC,Improvement,false,Closed,Duplicate,2014-07-28 10:19:37,2014-07-28 17:49:05
+AC-1254,97727,AC,Improvement,false,Closed,Duplicate,2014-07-28 10:16:43,2014-07-28 17:46:50
+AC-1253,97629,AC,Improvement,false,Closed,Fixed,2014-07-27 19:52:42,2021-03-21 20:26:47
+AC-1252,97627,AC,Bug,false,New,,2014-07-27 19:34:50,
+AC-1250,97619,AC,Bug,false,Closed,Tracked Elsewhere,2014-07-25 23:58:19,2014-07-30 18:55:41
+AC-1249,97613,AC,Bug,false,Closed,Answered,2014-07-25 12:00:49,2014-07-26 21:09:12
+AC-1248,97569,AC,Bug,false,Under Review,,2014-07-24 23:34:33,
+AC-1246,97562,AC,Bug,false,Closed,Fixed,2014-07-24 20:37:11,2014-07-29 01:54:48
+AC-1245,97561,AC,Bug,false,Closed,Fixed,2014-07-24 20:31:42,2014-07-29 01:55:00
+AC-1244,95950,AC,Bug,false,Closed,Tracked Elsewhere,2014-06-30 20:24:20,2014-07-24 20:01:27
+AC-1242,97525,AC,Improvement,false,Closed,Fixed,2014-07-24 07:35:35,2014-07-24 07:37:45
+AC-1239,97426,AC,Bug,false,Closed,Answered,2014-07-23 16:41:14,2014-07-23 19:21:50
+AC-1238,97419,AC,Bug,false,Closed,Duplicate,2014-07-23 09:12:56,2014-07-24 07:54:33
+AC-1237,97418,AC,Bug,false,Closed,Timed out,2014-07-23 09:09:52,2014-08-26 00:24:18
+AC-1236,97349,AC,Bug,false,Under Review,,2014-07-22 20:22:54,
+AC-1235,97363,AC,Bug,false,Closed,Fixed,2014-07-23 00:35:48,2014-07-23 00:43:15
+AC-1232,97222,AC,Bug,false,Closed,Fixed,2014-07-21 17:48:27,2014-07-22 00:46:33
+AC-1231,97215,AC,Bug,false,Closed,Tracked Elsewhere,2014-07-21 13:29:25,2014-11-09 17:04:16
+AC-1229,97046,AC,Bug,false,Under Review,,2014-07-17 19:15:02,
+AC-1228,97044,AC,Bug,false,Under Review,,2014-07-17 18:56:32,
+AC-1227,97038,AC,Bug,false,Closed,Not a bug,2014-07-17 15:11:07,2014-07-20 01:11:51
+AC-1224,96916,AC,Bug,false,Under Review,,2014-07-16 07:13:45,
+AC-1220,96830,AC,Bug,false,Under Review,,2014-07-15 14:17:21,
+AC-1219,96829,AC,Bug,false,Under Review,,2014-07-15 14:04:47,
+AC-1218,96788,AC,Improvement,false,Under Review,,2014-07-15 00:29:24,
+AC-1217,96782,AC,Improvement,false,Closed,Fixed,2014-07-14 22:30:22,2016-06-28 00:36:23
+AC-1216,96709,AC,Improvement,false,Closed,Done,2014-07-11 20:12:40,2020-11-26 07:04:06
+AC-1214,96668,AC,Bug,false,Closed,Won't Fix,2014-07-10 21:54:13,2014-09-29 21:33:50
+AC-1212,96624,AC,Improvement,false,Closed,Fixed,2014-07-10 15:51:39,2014-07-17 17:15:05
+AC-1210,96561,AC,Bug,false,Under Review,,2014-07-10 00:26:54,
+AC-1209,96560,AC,Improvement,false,Closed,Fixed,2014-07-10 00:03:40,2021-03-21 20:26:34
+AC-1208,96535,AC,Bug,false,Under Review,,2014-07-09 17:12:14,
+AC-1207,96533,AC,Improvement,false,Under Review,,2014-07-09 17:08:09,
+AC-1206,96531,AC,Improvement,false,Closed,Obsolete,2014-07-09 15:42:22,2015-07-06 21:16:24
+AC-1205,96526,AC,Bug,false,Closed,Not a bug,2014-07-09 14:37:00,2014-07-09 15:13:33
+AC-1204,96524,AC,Bug,false,Closed,Duplicate,2014-07-09 13:32:08,2014-07-09 14:55:07
+AC-1203,96336,AC,Bug,false,Closed,Obsolete,2014-07-07 04:34:50,2014-09-30 20:38:41
+AC-1202,96321,AC,Bug,false,Under Review,,2014-07-06 21:53:52,
+AC-1201,96319,AC,Bug,false,Under Review,,2014-07-06 20:03:16,
+AC-1200,96315,AC,New Feature,false,Under Review,,2014-07-06 18:19:12,
+AC-1199,96314,AC,Bug,false,Under Review,,2014-07-05 23:50:56,
+AC-1198,96218,AC,Bug,false,Closed,Not a bug,2014-07-03 10:00:38,2014-07-03 15:07:45
+AC-1197,96213,AC,Bug,false,Closed,Not a bug,2014-07-03 04:21:59,2014-07-03 17:51:42
+AC-1195,96122,AC,Bug,false,Closed,Fixed,2014-07-02 09:08:19,2014-07-08 18:34:26
+AC-1194,96042,AC,Bug,false,Closed,Fixed,2014-07-01 19:10:25,2014-07-01 19:21:32
+AC-1193,96024,AC,New Feature,false,Closed,Won't Fix,2014-07-01 15:58:49,2016-05-25 09:07:41
+AC-1189,95924,AC,Bug,false,Closed,Not a bug,2014-06-30 04:36:49,2014-06-30 06:38:56
+AC-1188,95911,AC,Improvement,false,Closed,Won't Fix,2014-06-28 15:57:53,2014-06-29 18:06:09
+AC-1186,95822,AC,Improvement,false,New,,2014-06-27 21:37:24,
+AC-1185,95820,AC,New Feature,false,Under Review,,2014-06-27 19:01:14,
+AC-1184,95816,AC,Improvement,false,Under Review,,2014-06-27 04:48:47,
+AC-1182,95011,AC,Bug,false,Under Review,,2014-06-17 05:08:16,
+AC-1181,95649,AC,Bug,false,Closed,Fixed,2014-06-25 21:23:21,2014-06-26 01:06:03
+AC-1180,95720,AC,Documentation,false,Closed,Done,2014-06-26 12:52:00,2020-11-26 07:04:06
+AC-1179,95710,AC,Improvement,false,Closed,Won't Fix,2014-06-26 02:36:43,2014-11-06 06:36:46
+AC-1176,95510,AC,Bug,false,Closed,Unresolved,2014-06-24 02:09:20,2014-06-30 18:59:28
+AC-1175,95396,AC,Improvement,false,Under Review,,2014-06-23 21:49:26,
+AC-1173,95361,AC,Improvement,false,Closed,Fixed,2014-06-23 00:16:14,2014-06-30 18:44:28
+AC-1172,95360,AC,Improvement,false,Under Review,,2014-06-23 00:04:58,
+AC-1171,95345,AC,Improvement,false,Under Review,,2014-06-20 13:44:38,
+AC-1168,95139,AC,Documentation,false,Closed,Done,2014-06-18 19:44:55,2020-11-26 07:04:06
+AC-1167,95124,AC,Bug,false,Closed,Tracked Elsewhere,2014-06-18 12:32:35,2014-06-26 20:40:33
+AC-1165,95117,AC,Improvement,false,Under Review,,2014-06-18 05:48:12,
+AC-1164,95038,AC,Improvement,false,Under Review,,2014-06-17 23:58:21,
+AC-1161,94858,AC,Improvement,false,Closed,Won't Fix,2014-06-13 18:10:10,2014-07-07 00:41:43
+AC-1157,94843,AC,Bug,false,Closed,Duplicate,2014-06-13 03:54:59,2014-06-13 07:43:41
+AC-1156,94833,AC,Improvement,false,Closed,Duplicate,2014-06-12 22:11:38,2014-07-07 00:47:21
+AC-1155,94822,AC,New Feature,false,Closed,Tracked Elsewhere,2014-06-12 15:19:32,2014-06-12 16:01:48
+AC-1154,94727,AC,Bug,false,Closed,Duplicate,2014-06-11 19:06:10,2014-06-11 19:26:15
+AC-1153,94712,AC,Bug,false,Closed,Duplicate,2014-06-11 05:02:31,2014-06-30 23:44:33
+AC-1152,94683,AC,Improvement,false,Closed,Fixed,2014-06-10 19:25:22,2014-06-19 20:38:49
+AC-1151,94653,AC,Improvement,false,Closed,Won't Fix,2014-06-09 20:43:23,2014-06-09 21:03:22
+AC-1150,94641,AC,Bug,false,Under Review,,2014-06-09 16:05:26,
+AC-1149,94532,AC,Bug,false,Closed,Not a bug,2014-06-05 19:36:50,2014-06-09 18:12:41
+AC-1147,94510,AC,Bug,false,Closed,Obsolete,2014-06-05 04:21:38,2015-04-08 18:17:02
+AC-1146,94448,AC,Improvement,false,Closed,Tracked Elsewhere,2014-06-04 23:45:09,2014-06-05 01:32:39
+AC-1145,94433,AC,Bug,false,Closed,Fixed,2014-06-04 19:06:36,2014-06-05 22:14:36
+AC-1142,94316,AC,Improvement,false,Under Review,,2014-06-03 07:34:28,
+AC-1141,94242,AC,Bug,false,Under Review,,2014-06-02 10:29:41,
+AC-1140,94241,AC,Bug,false,Closed,Fixed,2014-06-02 09:29:05,2014-06-17 08:18:53
+AC-1138,92920,AC,Improvement,false,Under Review,,2014-05-12 13:27:18,
+AC-1137,94234,AC,Bug,false,Closed,Answered,2014-06-02 01:22:58,2014-06-02 07:18:54
+AC-1136,94223,AC,Bug,false,Closed,Duplicate,2014-05-31 10:46:22,2014-06-09 20:46:12
+AC-1135,94222,AC,Improvement,false,Closed,Duplicate,2014-05-31 07:52:00,2014-06-09 19:12:00
+AC-1134,94218,AC,Bug,false,Under Review,,2014-05-30 16:06:48,
+AC-1133,94217,AC,Improvement,false,Closed,Duplicate,2014-05-30 14:46:22,2014-09-30 20:54:43
+AC-1132,94212,AC,Bug,false,Closed,Answered,2014-05-30 08:07:48,2014-05-30 08:21:34
+AC-1128,94014,AC,Bug,false,Closed,Won't Fix,2014-05-28 05:46:10,2014-05-28 05:58:51
+AC-1127,93923,AC,Bug,false,Closed,Answered,2014-05-27 17:10:08,2014-05-27 18:27:56
+AC-1124,93819,AC,Bug,false,Under Review,,2014-05-24 16:00:19,
+AC-1122,93630,AC,Improvement,false,Closed,Duplicate,2014-05-21 19:14:16,2014-06-09 18:53:08
+AC-1121,93617,AC,New Feature,false,Closed,Fixed,2014-05-21 13:54:55,2021-03-21 20:25:50
+AC-1120,93569,AC,Bug,false,Closed,Fixed,2014-05-21 01:34:44,2014-07-21 00:37:59
+AC-1119,93558,AC,Improvement,false,Closed,Fixed,2014-05-20 22:02:28,2014-08-13 18:22:27
+AC-1117,93425,AC,Bug,false,Closed,Duplicate,2014-05-19 15:24:21,2014-05-19 15:26:11
+AC-1115,93413,AC,Bug,false,Closed,Fixed,2014-05-19 04:20:41,2014-06-24 11:28:01
+AC-1114,93057,AC,Improvement,false,Closed,Won't Fix,2014-05-14 19:40:05,2014-09-29 21:47:57
+AC-1113,93049,AC,Improvement,false,Closed,Fixed,2014-05-14 12:46:19,2014-05-25 18:14:08
+AC-1112,93048,AC,Improvement,false,Closed,Fixed,2014-05-14 12:12:14,2014-06-26 19:39:48
+AC-1110,92935,AC,New Feature,false,New,,2014-05-12 18:24:53,
+AC-1109,91713,AC,Bug,false,Closed,Fixed,2014-04-21 12:12:01,2014-05-12 18:00:24
+AC-1106,92928,AC,New Feature,false,New,,2014-05-12 16:39:45,
+AC-1103,92925,AC,New Feature,false,Closed,Duplicate,2014-05-12 16:28:18,2014-05-12 17:57:42
+AC-1101,92923,AC,New Feature,false,Closed,Answered,2014-05-12 16:22:09,2014-05-12 17:48:39
+AC-1099,92919,AC,Documentation,false,Under Review,,2014-05-12 13:27:16,
+AC-1098,92862,AC,Bug,false,Closed,Answered,2014-05-09 17:20:13,2014-05-12 17:59:57
+AC-1097,92858,AC,New Feature,false,Closed,Not a bug,2014-05-09 14:17:20,2014-05-10 17:58:14
+AC-1095,92750,AC,Improvement,false,Under Review,,2014-05-07 18:29:57,
+AC-1094,92749,AC,Bug,false,Closed,Fixed,2014-05-07 18:25:21,2014-05-14 12:19:45
+AC-1093,92746,AC,Bug,false,Closed,Not a bug,2014-05-07 16:42:44,2014-05-07 18:26:24
+AC-1091,92719,AC,Improvement,false,Closed,Duplicate,2014-05-07 06:44:35,2014-07-18 00:06:26
+AC-1087,92615,AC,New Feature,false,Closed,Answered,2014-05-06 05:28:22,2014-05-06 06:58:52
+AC-1085,92524,AC,Bug,false,Closed,Won't Fix,2014-05-04 00:38:22,2014-07-10 23:43:25
+AC-1081,92310,AC,New Feature,false,Closed,Duplicate,2014-04-30 02:09:32,2014-04-30 02:22:37
+AC-1080,92242,AC,New Feature,false,Under Review,,2014-04-30 00:30:56,
+AC-1078,92168,AC,Bug,false,Under Review,,2014-04-28 17:24:29,
+AC-1077,92147,AC,Improvement,false,Closed,Won't Fix,2014-04-28 11:16:55,2014-07-31 18:51:38
+AC-1076,92146,AC,Improvement,false,New,,2014-04-28 11:13:50,
+AC-1075,92110,AC,Bug,false,Closed,Answered,2014-04-26 20:31:56,2014-04-28 16:27:10
+AC-1074,91919,AC,Improvement,false,Under Review,,2014-04-24 13:25:38,
+AC-1073,91831,AC,New Feature,false,Under Review,,2014-04-23 18:00:44,
+AC-1072,91828,AC,Bug,false,Closed,Fixed,2014-04-23 16:18:19,2014-07-10 23:57:11
+AC-1071,91824,AC,Bug,false,New,,2014-04-23 15:24:03,
+AC-1070,91818,AC,Improvement,false,Closed,Fixed,2014-04-23 11:42:35,2014-04-29 18:29:23
+AC-1069,91817,AC,Bug,false,Closed,Tracked Elsewhere,2014-04-23 11:41:18,2014-08-27 19:29:01
+AC-1067,91775,AC,New Feature,false,Closed,Invalid,2014-04-22 16:59:57,2014-04-27 21:07:47
+AC-1066,91772,AC,Improvement,false,Closed,Fixed,2014-04-22 15:58:31,2014-04-23 00:09:10
+AC-1064,91766,AC,Bug,false,New,,2014-04-22 12:12:51,
+AC-1062,91580,AC,Bug,false,Closed,Fixed,2014-04-17 23:04:07,2014-04-23 19:21:46
+AC-1061,91579,AC,Improvement,false,Closed,Not a bug,2014-04-17 21:59:11,2014-07-10 23:56:31
+AC-1059,91465,AC,Bug,false,Closed,Won't Fix,2014-04-14 20:00:01,2014-05-01 22:38:46
+AC-1058,91454,AC,Improvement,false,Closed,Fixed,2014-04-14 08:28:39,2014-04-23 00:14:09
+AC-1056,91423,AC,Improvement,false,Closed,Answered,2014-04-11 15:05:20,2014-04-11 17:13:53
+AC-1055,91335,AC,Bug,false,Closed,Not a bug,2014-04-10 23:58:46,2014-04-13 21:10:19
+AC-1053,91316,AC,Improvement,false,Closed,Fixed,2014-04-10 06:35:30,2014-04-13 21:21:19
+AC-1052,91194,AC,Improvement,false,Closed,Answered,2014-04-09 16:19:07,2014-07-30 15:23:03
+AC-1051,91157,AC,Improvement,false,Closed,Fixed,2014-04-08 19:43:19,2014-04-08 20:40:41
+AC-1050,91154,AC,Improvement,false,Closed,Fixed,2014-04-08 19:35:20,2014-04-13 20:50:42
+AC-1049,90972,AC,Bug,false,Closed,Fixed,2014-04-02 18:49:37,2014-04-15 21:39:35
+AC-1047,91118,AC,Bug,false,Closed,Not a bug,2014-04-07 10:49:48,2014-06-23 01:57:25
+AC-1046,91117,AC,Bug,false,Closed,Fixed,2014-04-07 10:44:18,2014-04-08 18:15:15
+AC-1045,91077,AC,Bug,false,Closed,Fixed,2014-04-07 00:04:56,2014-05-05 07:15:52
+AC-1044,91062,AC,New Feature,false,Closed,Not a bug,2014-04-04 18:33:43,2014-04-05 04:05:16
+AC-1043,91058,AC,Bug,false,Closed,Fixed,2014-04-04 17:52:34,2014-04-15 02:02:08
+AC-1042,91057,AC,Improvement,false,Closed,Won't Fix,2014-04-04 17:51:00,2014-04-28 18:56:32
+AC-1040,91042,AC,Improvement,false,Closed,Duplicate,2014-04-04 04:33:27,2014-04-13 20:48:38
+AC-1039,91041,AC,Bug,false,Closed,Not a bug,2014-04-04 02:34:35,2014-04-04 15:32:32
+AC-1037,90857,AC,Bug,false,Closed,Duplicate,2014-03-31 09:21:26,2014-03-31 16:33:30
+AC-1036,90856,AC,Improvement,false,Closed,Duplicate,2014-03-31 09:20:57,2014-03-31 17:28:52
+AC-1032,90852,AC,Improvement,false,Closed,Answered,2014-03-31 09:18:10,2014-03-31 17:31:06
+AC-1031,90825,AC,Documentation,false,Closed,Fixed,2014-03-30 05:36:33,2015-03-17 18:58:44
+AC-1030,90824,AC,Improvement,false,Closed,Answered,2014-03-29 18:52:48,2014-03-30 16:08:32
+AC-1028,90622,AC,Bug,false,Closed,Fixed,2014-03-27 14:23:45,2014-03-27 22:13:23
+AC-1027,90550,AC,Bug,false,Closed,Fixed,2014-03-27 01:18:02,2014-04-27 17:53:19
+AC-1026,90520,AC,Improvement,false,New,,2014-03-26 12:38:00,
+AC-1025,90513,AC,Bug,false,Closed,Fixed,2014-03-26 05:48:46,2019-08-20 09:36:25
+AC-1024,90411,AC,Improvement,false,Closed,Not a bug,2014-03-25 06:49:44,2014-03-25 18:10:13
+AC-1023,90342,AC,Bug,false,Closed,Fixed,2014-03-24 20:29:23,2014-04-10 03:22:25
+AC-1022,90325,AC,Improvement,false,Closed,Fixed,2014-03-24 16:42:53,2014-03-24 23:29:48
+AC-1018,90114,AC,Bug,false,Closed,Fixed,2014-03-21 14:53:48,2014-07-31 21:24:59
+AC-1016,90012,AC,Bug,false,Closed,Cannot Reproduce,2014-03-19 02:22:20,2014-03-19 20:33:32
+AC-1015,90011,AC,Bug,false,Closed,Fixed,2014-03-19 02:17:07,2014-03-19 17:20:24
+AC-1014,89860,AC,Improvement,false,New,,2014-03-18 01:54:41,
+AC-1012,89645,AC,Improvement,false,Closed,Fixed,2014-03-13 22:06:10,2014-03-17 00:30:38
+AC-1006,89310,AC,Bug,false,Closed,Fixed,2014-03-07 11:23:57,2014-03-12 17:30:49
+AC-1005,89129,AC,Improvement,false,Closed,Fixed,2014-03-06 18:43:37,2014-04-07 17:55:14
+AC-1004,89117,AC,Improvement,false,Closed,Fixed,2014-03-06 09:36:10,2014-03-06 16:21:29
+AC-1003,89114,AC,Bug,false,Closed,Fixed,2014-03-06 04:55:56,2014-03-06 17:06:24
+AC-1002,89071,AC,Bug,false,Closed,Fixed,2014-03-05 23:44:42,2014-03-13 17:53:08
+AC-1000,89046,AC,Bug,false,Closed,Fixed,2014-03-05 15:50:29,2014-03-05 19:04:05
+AC-998,88954,AC,Bug,false,Closed,Duplicate,2014-03-04 10:23:53,2014-03-04 18:33:14
+AC-997,88920,AC,Improvement,false,Closed,Fixed,2014-03-03 04:20:33,2014-03-04 02:01:12
+AC-995,88848,AC,Bug,false,Closed,Fixed,2014-02-27 23:52:07,2014-02-28 23:30:54
+AC-994,88845,AC,Bug,false,Closed,Fixed,2014-02-27 22:09:36,2014-02-28 00:37:24
+AC-993,88835,AC,Bug,false,Closed,Fixed,2014-02-27 19:18:47,2014-03-04 20:20:18
+AC-992,88732,AC,Bug,false,Closed,Fixed,2014-02-26 18:58:11,2014-03-04 09:53:06
+AC-991,88711,AC,Improvement,false,Closed,Won't Fix,2014-02-26 02:30:07,2014-09-30 19:02:20
+AC-990,88710,AC,Bug,false,Closed,Fixed,2014-02-26 00:57:04,2014-03-13 00:36:16
+AC-989,88675,AC,Bug,false,Closed,Fixed,2014-02-25 22:13:20,2014-02-26 00:21:51
+AC-988,88671,AC,Improvement,false,Closed,Fixed,2014-02-25 19:47:53,2014-05-05 18:08:58
+AC-987,88651,AC,Bug,false,Closed,Duplicate,2014-02-25 14:17:43,2014-02-25 17:10:09
+AC-986,88614,AC,Bug,false,Closed,Fixed,2014-02-25 05:46:49,2014-02-26 00:36:39
+AC-985,87992,AC,Bug,false,Closed,Fixed,2014-02-17 23:33:14,2014-02-20 21:40:35
+AC-984,88513,AC,Bug,false,Closed,Answered,2014-02-24 03:24:31,2014-04-13 20:53:18
+AC-983,88511,AC,Bug,false,Closed,Fixed,2014-02-24 01:32:36,2020-01-23 20:49:50
+AC-982,88430,AC,Improvement,false,Closed,Fixed,2014-02-23 19:49:57,2014-02-23 19:53:20
+AC-981,87043,AC,Bug,false,Closed,Fixed,2014-02-03 14:22:00,2014-02-19 18:25:15
+AC-980,88417,AC,Improvement,false,Closed,Fixed,2014-02-23 16:46:40,2014-02-23 20:54:34
+AC-979,88416,AC,Bug,false,Closed,Answered,2014-02-23 16:07:43,2014-02-23 18:20:50
+AC-978,88415,AC,Bug,false,Closed,Fixed,2014-02-23 16:00:11,2014-07-02 18:09:48
+AC-977,88410,AC,Bug,false,Closed,Fixed,2014-02-22 06:31:45,2014-02-23 18:14:13
+AC-976,88311,AC,Bug,false,Closed,Won't Fix,2014-02-21 03:18:39,2014-05-27 19:17:33
+AC-975,88050,AC,Improvement,false,Closed,Fixed,2014-02-18 23:39:55,2020-09-16 20:23:24
+AC-973,88010,AC,Bug,false,Closed,Won't Fix,2014-02-18 14:58:36,2014-04-13 21:08:44
+AC-972,87986,AC,Bug,false,Closed,Won't Fix,2014-02-17 22:26:36,2014-11-09 23:55:23
+AC-969,87954,AC,Bug,false,Closed,Answered,2014-02-16 20:11:00,2014-02-26 17:49:26
+AC-968,87941,AC,Bug,false,Closed,Fixed,2014-02-16 16:55:02,2014-02-24 22:06:16
+AC-967,87931,AC,Bug,false,Closed,Duplicate,2014-02-15 02:37:29,2014-03-18 23:56:27
+AC-966,87873,AC,Bug,false,Closed,Fixed,2014-02-13 23:54:40,2014-02-16 20:20:47
+AC-965,87115,AC,Improvement,false,Closed,Fixed,2014-02-04 15:29:11,2014-02-16 05:11:06
+AC-964,87826,AC,Bug,false,Closed,Fixed,2014-02-13 16:05:42,2014-02-17 20:24:43
+AC-963,87759,AC,Bug,false,Closed,Not a bug,2014-02-12 22:40:53,2014-02-13 00:06:02
+AC-962,87756,AC,Bug,false,Closed,Fixed,2014-02-12 21:53:36,2014-02-13 00:37:32
+AC-961,87755,AC,Improvement,false,Closed,Answered,2014-02-12 21:29:56,2014-02-12 21:36:09
+AC-960,87740,AC,Improvement,false,Closed,Fixed,2014-02-12 17:14:00,2014-02-12 17:39:51
+AC-959,87719,AC,Bug,false,Closed,Fixed,2014-02-12 12:12:29,2014-02-24 21:46:32
+AC-958,87717,AC,Bug,false,Closed,Cannot Reproduce,2014-02-12 09:09:36,2014-02-12 12:10:00
+AC-957,87641,AC,Bug,false,Closed,Fixed,2014-02-12 00:05:46,2014-02-12 06:25:11
+AC-956,87636,AC,Bug,false,Closed,Fixed,2014-02-11 23:14:35,2014-02-13 18:16:21
+AC-954,87603,AC,Bug,false,Closed,Done,2014-02-11 19:48:43,2014-02-12 23:19:20
+AC-953,87598,AC,Improvement,false,Closed,Done,2014-02-11 19:13:48,2014-11-06 06:38:02
+AC-952,87581,AC,Bug,false,Closed,Fixed,2014-02-11 17:35:29,2014-02-17 20:24:36
+AC-951,87573,AC,Improvement,false,Closed,Done,2014-02-11 13:54:56,2014-04-29 01:23:55
+AC-950,87567,AC,Improvement,false,Closed,Answered,2014-02-11 08:13:40,2014-02-11 13:41:33
+AC-949,87566,AC,Bug,false,Closed,Not a bug,2014-02-11 08:08:08,2014-02-11 13:34:50
+AC-948,87558,AC,Bug,false,Closed,Fixed,2014-02-11 01:01:24,2014-02-12 12:54:46
+AC-947,87555,AC,Bug,false,Closed,Fixed,2014-02-11 00:28:06,2014-02-11 00:44:27
+AC-946,87554,AC,Bug,false,Closed,Fixed,2014-02-11 00:11:36,2014-02-12 00:59:46
+AC-945,87553,AC,Bug,false,Closed,Fixed,2014-02-10 23:54:29,2014-02-10 23:57:23
+AC-944,87552,AC,Bug,false,Closed,Fixed,2014-02-10 23:46:38,2014-02-12 22:05:34
+AC-943,87550,AC,New Feature,false,Closed,Won't Fix,2014-02-10 22:55:50,2014-11-09 23:07:36
+AC-942,87551,AC,Bug,false,Closed,Fixed,2014-02-10 22:58:56,2014-02-16 21:33:43
+AC-941,87549,AC,Bug,false,Closed,Fixed,2014-02-10 22:28:45,2014-02-16 22:05:29
+AC-940,87548,AC,Improvement,false,Closed,Duplicate,2014-02-10 22:25:28,2014-02-10 22:29:33
+AC-939,87547,AC,Improvement,false,Closed,Fixed,2014-02-10 22:19:50,2014-02-11 19:00:01
+AC-938,87523,AC,Improvement,false,Closed,Fixed,2014-02-10 20:58:01,2014-02-20 21:03:27
+AC-937,87502,AC,Improvement,false,Closed,Fixed,2014-02-10 16:39:41,2014-02-13 16:07:47
+AC-935,87477,AC,New Feature,false,Closed,Duplicate,2014-02-10 08:18:43,2014-04-10 20:49:12
+AC-934,87325,AC,Bug,false,Closed,Fixed,2014-02-06 15:30:06,2014-02-11 14:23:45
+AC-933,87356,AC,Bug,false,Closed,Fixed,2014-02-06 16:47:27,2014-02-11 19:12:40
+AC-932,87333,AC,Bug,false,Closed,Obsolete,2014-02-06 16:00:53,2014-04-13 21:01:21
+AC-931,87320,AC,Improvement,false,Closed,Won't Fix,2014-02-06 13:05:45,2014-03-05 21:46:46
+AC-930,87311,AC,Improvement,false,Closed,Not a bug,2014-02-06 02:46:28,2014-02-06 03:36:43
+AC-929,87273,AC,New Feature,false,Closed,Won't Fix,2014-02-05 22:57:42,2014-11-09 23:07:42
+AC-928,87252,AC,Improvement,false,Closed,Fixed,2014-02-05 17:33:15,2014-02-10 18:10:36
+AC-927,87263,AC,Bug,false,Closed,Fixed,2014-02-05 18:52:17,2014-02-23 19:35:08
+AC-926,87144,AC,Bug,false,Closed,Fixed,2014-02-05 00:16:27,2014-02-06 18:24:39
+AC-924,87117,AC,Bug,false,Closed,Fixed,2014-02-04 17:26:30,2014-02-04 22:18:57
+AC-923,87075,AC,Bug,false,Closed,Fixed,2014-02-03 22:52:30,2014-02-04 22:23:03
+AC-922,87078,AC,Bug,false,Closed,Fixed,2014-02-04 00:03:16,2014-02-04 18:18:45
+AC-921,86137,AC,Bug,false,Closed,Fixed,2014-01-20 05:42:31,2014-02-04 00:52:00
+AC-920,87031,AC,Bug,false,Closed,Fixed,2014-02-03 09:51:52,2014-02-04 00:23:53
+AC-919,83414,AC,Bug,false,Under Review,,2013-11-20 05:02:54,
+AC-918,86071,AC,Improvement,false,Closed,Fixed,2014-01-16 18:58:51,2014-01-30 16:29:22
+AC-917,77416,AC,Improvement,false,Closed,Fixed,2013-06-10 20:48:13,2014-02-02 21:31:54
+AC-916,87012,AC,Bug,false,Under Review,,2014-02-02 15:36:54,
+AC-915,86924,AC,Improvement,false,Closed,Fixed,2014-01-31 16:45:51,2014-02-06 18:34:44
+AC-914,86653,AC,Bug,false,Closed,Fixed,2014-01-28 22:19:06,2014-01-30 16:37:02
+AC-913,86652,AC,Improvement,false,Closed,Fixed,2014-01-28 21:56:42,2014-01-30 22:28:04
+AC-912,86622,AC,Improvement,false,Under Review,,2014-01-28 12:26:51,
+AC-911,86618,AC,Bug,false,Closed,Duplicate,2014-01-28 06:39:49,2014-02-13 16:49:09
+AC-910,86565,AC,Improvement,false,Closed,Fixed,2014-01-27 23:15:47,2014-04-29 01:22:36
+AC-909,86550,AC,Bug,false,Closed,Fixed,2014-01-27 16:55:51,2014-02-11 18:32:27
+AC-907,86277,AC,Bug,false,Closed,Won't Fix,2014-01-21 16:41:10,2014-01-21 19:19:28
+AC-906,86246,AC,Bug,false,Under Review,,2014-01-21 00:30:23,
+AC-905,85834,AC,New Feature,false,Closed,Fixed,2014-01-12 21:29:07,2014-01-19 18:28:12
+AC-904,85842,AC,Bug,false,Under Review,,2014-01-13 00:38:00,
+AC-903,86128,AC,Bug,false,Under Review,,2014-01-19 16:45:46,
+AC-902,86127,AC,Improvement,false,Under Review,,2014-01-19 16:21:40,
+AC-901,85930,AC,Improvement,false,Closed,Fixed,2014-01-14 22:07:33,2014-01-16 15:48:27
+AC-900,85944,AC,New Feature,false,Under Review,,2014-01-15 13:58:03,
+AC-899,85571,AC,Bug,false,Closed,Fixed,2014-01-05 16:54:02,2014-01-07 16:43:45
+AC-898,84750,AC,New Feature,false,Under Review,,2013-12-09 16:31:58,
+AC-897,85174,AC,Bug,false,Closed,Fixed,2013-12-17 00:14:49,2020-02-06 17:17:10
+AC-895,85824,AC,Bug,false,Closed,Fixed,2014-01-10 18:59:09,2014-01-13 22:27:10
+AC-894,85823,AC,Bug,false,Under Review,,2014-01-10 18:53:53,
+AC-893,85793,AC,Bug,false,Closed,Fixed,2014-01-09 16:40:08,2021-03-21 20:26:08
+AC-892,85782,AC,New Feature,false,Under Review,,2014-01-09 09:54:26,
+AC-889,85750,AC,Bug,false,Closed,Cannot Reproduce,2014-01-08 13:01:12,2014-01-30 22:21:15
+AC-888,85748,AC,Bug,false,Closed,Fixed,2014-01-08 08:22:04,2014-01-08 16:50:44
+AC-886,85727,AC,Bug,false,Closed,Not a bug,2014-01-07 17:11:48,2014-02-16 22:27:08
+AC-885,85722,AC,Bug,false,Under Review,,2014-01-07 12:59:33,
+AC-884,84751,AC,New Feature,false,Under Review,,2013-12-09 16:32:19,
+AC-883,85717,AC,New Feature,false,Closed,Answered,2014-01-06 20:39:06,2014-01-06 21:06:19
+AC-882,85480,AC,Bug,false,Closed,Fixed,2013-12-29 16:11:31,2020-01-23 20:49:51
+AC-881,85568,AC,Improvement,false,Closed,Won't Fix,2014-01-05 14:47:30,2014-03-05 21:47:43
+AC-880,85555,AC,Bug,false,Closed,Cannot Reproduce,2014-01-03 09:21:40,2014-04-13 20:54:43
+AC-879,85520,AC,Bug,false,Closed,Fixed,2014-01-01 19:05:51,2014-01-05 20:09:51
+AC-878,85511,AC,Improvement,false,Closed,Tracked Elsewhere,2013-12-31 06:32:42,2014-01-09 13:04:06
+AC-877,85508,AC,Bug,false,Closed,Not a bug,2013-12-31 03:15:56,2014-01-07 16:35:46
+AC-876,85484,AC,Bug,false,Under Review,,2013-12-29 20:30:36,
+AC-875,85468,AC,Bug,false,Closed,Duplicate,2013-12-26 20:07:17,2014-01-06 22:50:55
+AC-874,85467,AC,Bug,false,Closed,Fixed,2013-12-26 20:00:46,2014-01-08 16:51:48
+AC-871,85199,AC,Bug,false,Closed,Cannot Reproduce,2013-12-17 17:13:30,2014-01-29 22:24:30
+AC-869,85111,AC,Improvement,false,Closed,Obsolete,2013-12-16 01:35:09,2014-01-06 22:46:03
+AC-868,85040,AC,Bug,false,Under Review,,2013-12-14 11:09:24,
+AC-867,85036,AC,Bug,false,Closed,Obsolete,2013-12-13 14:46:10,2014-09-30 22:42:43
+AC-866,85024,AC,New Feature,false,Closed,Fixed,2013-12-13 09:29:28,2014-01-23 22:28:23
+AC-865,84866,AC,Improvement,false,Under Review,,2013-12-12 15:49:49,
+AC-864,84815,AC,Improvement,false,Closed,Fixed,2013-12-11 07:06:12,2013-12-11 07:16:50
+AC-863,84801,AC,New Feature,false,New,,2013-12-10 18:19:38,
+AC-862,84780,AC,New Feature,false,Closed,Duplicate,2013-12-10 13:32:51,2013-12-10 14:53:09
+AC-861,84729,AC,Improvement,false,Closed,Fixed,2013-12-09 00:31:15,2014-01-06 22:44:40
+AC-860,84618,AC,Improvement,false,Under Review,,2013-12-08 17:25:11,
+AC-859,84610,AC,Bug,false,Under Review,,2013-12-06 22:40:11,
+AC-858,84343,AC,Improvement,false,Closed,Fixed,2013-12-02 20:30:21,2013-12-04 19:55:11
+AC-857,84549,AC,Improvement,false,Under Review,,2013-12-04 17:01:19,
+AC-856,84531,AC,Improvement,false,Closed,Fixed,2013-12-03 22:09:08,2013-12-11 18:13:11
+AC-855,84349,AC,New Feature,false,Closed,Duplicate,2013-12-02 23:13:46,2013-12-03 00:10:18
+AC-854,84348,AC,New Feature,false,Closed,Won't Fix,2013-12-02 23:12:15,2013-12-03 01:00:17
+AC-853,84347,AC,Improvement,false,Under Review,,2013-12-02 23:11:55,
+AC-852,84024,AC,New Feature,false,Closed,Fixed,2013-11-27 18:04:44,2014-01-30 22:44:50
+AC-851,83951,AC,Improvement,false,Under Review,,2013-11-27 00:33:56,
+AC-850,76967,AC,New Feature,false,Closed,Fixed,2013-05-28 19:09:43,2014-04-22 01:00:54
+AC-849,83950,AC,Bug,false,Closed,Fixed,2013-11-27 00:12:13,2013-11-27 00:20:55
+AC-848,77719,AC,New Feature,false,Closed,Fixed,2013-06-17 13:23:17,2014-04-02 20:53:54
+AC-847,78033,AC,Improvement,false,Under Review,,2013-07-01 17:54:57,
+AC-846,79020,AC,Improvement,false,Closed,Won't Fix,2013-08-07 03:25:32,2014-11-09 23:08:22
+AC-845,78710,AC,Improvement,false,Closed,Won't Fix,2013-07-25 18:40:44,2014-04-29 01:16:45
+AC-844,83940,AC,Improvement,false,Closed,Obsolete,2013-11-26 19:22:18,2014-02-03 04:05:27
+AC-842,83430,AC,Bug,false,Closed,Cannot Reproduce,2013-11-20 22:31:31,2013-11-27 04:27:37
+AC-841,83423,AC,Bug,false,Under Review,,2013-11-20 16:08:40,
+AC-839,83406,AC,Bug,false,Under Review,,2013-11-19 21:46:30,
+AC-837,83392,AC,Bug,false,Closed,Not a bug,2013-11-19 09:17:40,2013-11-19 15:26:37
+AC-836,83391,AC,Bug,false,Closed,Won't Fix,2013-11-19 08:49:05,2013-11-19 14:59:50
+AC-834,83381,AC,New Feature,false,Under Review,,2013-11-19 01:02:01,
+AC-833,83174,AC,Bug,false,Closed,Tracked Elsewhere,2013-11-12 19:48:22,2013-11-12 21:38:29
+AC-832,83170,AC,Bug,false,Under Review,,2013-11-12 18:41:18,
+AC-831,83131,AC,Improvement,false,Closed,Fixed,2013-11-11 14:30:08,2013-11-11 14:35:35
+AC-830,83121,AC,Bug,false,Closed,Answered,2013-11-11 01:56:30,2013-11-20 15:34:02
+AC-829,83049,AC,New Feature,false,Closed,Not a bug,2013-11-08 02:58:54,2013-11-11 20:23:51
+AC-827,83040,AC,Improvement,false,Closed,Duplicate,2013-11-07 21:36:36,2013-11-27 03:22:53
+AC-826,82995,AC,Improvement,false,Closed,Fixed,2013-11-06 10:40:47,2013-12-04 21:51:39
+AC-825,82994,AC,New Feature,false,Closed,Done,2013-11-06 10:38:01,2014-08-24 23:38:02
+AC-824,82993,AC,Improvement,false,Closed,Fixed,2013-11-06 10:28:52,2013-11-24 23:40:01
+AC-823,82644,AC,Bug,false,Closed,Fixed,2013-10-28 23:19:20,2013-10-31 23:16:22
+AC-822,82928,AC,Bug,false,Under Review,,2013-11-04 12:41:19,
+AC-820,82794,AC,Bug,false,Under Review,,2013-11-01 08:21:03,
+AC-819,82624,AC,Bug,false,Closed,Fixed,2013-10-28 17:20:09,2013-11-26 13:49:32
+AC-818,82758,AC,New Feature,false,Closed,Tracked Elsewhere,2013-10-31 12:44:20,2013-11-04 21:18:00
+AC-817,78225,AC,Improvement,false,Under Review,,2013-07-08 19:19:02,
+AC-816,82722,AC,Bug,false,Closed,Fixed,2013-10-30 18:00:45,2013-10-30 20:33:55
+AC-815,82705,AC,Bug,false,Closed,Fixed,2013-10-30 09:32:46,2014-02-09 19:53:57
+AC-811,82454,AC,Bug,false,Closed,Fixed,2013-10-24 02:05:28,2019-07-23 02:53:38
+AC-810,82364,AC,Bug,false,Closed,Fixed,2013-10-22 01:50:47,2013-10-28 13:43:51
+AC-809,82235,AC,New Feature,false,Closed,Won't Fix,2013-10-21 08:58:12,2013-10-21 16:57:13
+AC-808,82168,AC,Bug,false,Closed,Not a bug,2013-10-20 09:53:25,2013-10-20 16:52:18
+AC-804,82078,AC,New Feature,false,Under Review,,2013-10-16 02:10:23,
+AC-803,82048,AC,Improvement,false,New,,2013-10-15 04:05:17,
+AC-802,82047,AC,Improvement,false,Closed,Fixed,2013-10-15 01:45:04,2014-02-03 05:36:32
+AC-801,82042,AC,Improvement,false,Closed,Fixed,2013-10-14 21:33:37,2014-01-06 22:43:10
+AC-800,82038,AC,Bug,false,Under Review,,2013-10-14 18:12:48,
+AC-799,82023,AC,Bug,false,Closed,Not a bug,2013-10-14 08:17:14,2013-11-25 21:15:29
+AC-798,82022,AC,Bug,false,Under Review,,2013-10-14 08:14:59,
+AC-797,81923,AC,Improvement,false,Closed,Obsolete,2013-10-10 23:09:29,2014-04-21 21:30:22
+AC-796,81912,AC,Improvement,false,Under Review,,2013-10-10 17:11:04,
+AC-795,81880,AC,Improvement,false,Under Review,,2013-10-10 14:32:03,
+AC-794,81876,AC,Improvement,false,Closed,Obsolete,2013-10-10 13:38:20,2014-03-05 21:48:21
+AC-793,81857,AC,Bug,false,Under Review,,2013-10-09 22:19:22,
+AC-792,81838,AC,Bug,false,Closed,Not a bug,2013-10-09 16:37:17,2014-02-03 04:04:16
+AC-790,81630,AC,Bug,false,Closed,Tracked Elsewhere,2013-10-07 03:02:48,2013-11-13 04:10:45
+AC-789,81611,AC,Improvement,false,Closed,Duplicate,2013-10-05 13:04:49,2015-02-23 22:21:58
+AC-787,81581,AC,Improvement,false,Closed,Won't Fix,2013-10-04 12:41:04,2013-11-04 23:25:21
+AC-786,81571,AC,New Feature,false,Closed,Obsolete,2013-10-04 07:57:58,2014-04-13 20:58:29
+AC-785,81570,AC,New Feature,false,Closed,Obsolete,2013-10-04 07:54:21,2014-01-06 22:39:05
+AC-784,81568,AC,Bug,false,Closed,Won't Fix,2013-10-04 07:43:47,2013-11-25 21:12:46
+AC-783,80829,AC,Bug,false,Closed,Fixed,2013-09-26 08:22:18,2013-09-26 19:37:02
+AC-782,80820,AC,Bug,false,Under Review,,2013-09-25 21:17:12,
+AC-781,80740,AC,Bug,false,Closed,Fixed,2013-09-25 17:24:00,2013-09-25 23:48:32
+AC-780,80697,AC,Bug,false,Closed,Fixed,2013-09-25 06:01:28,2013-10-21 04:41:30
+AC-779,80594,AC,New Feature,false,Closed,Duplicate,2013-09-24 08:12:38,2013-11-25 21:11:46
+AC-778,80506,AC,Improvement,false,Closed,Fixed,2013-09-21 17:58:45,2014-01-06 22:38:43
+AC-777,80504,AC,Bug,false,Closed,Duplicate,2013-09-21 08:25:30,2014-02-03 17:37:45
+AC-776,80448,AC,Bug,false,Under Review,,2013-09-19 12:55:35,
+AC-775,80447,AC,Bug,false,Under Review,,2013-09-19 12:43:09,
+AC-774,80357,AC,Bug,false,Under Review,,2013-09-17 07:14:20,
+AC-773,80319,AC,Improvement,false,Closed,Won't Fix,2013-09-16 11:11:16,2014-07-01 19:05:28
+AC-772,80310,AC,Bug,false,Closed,Fixed,2013-09-15 23:25:15,2013-09-18 12:10:40
+AC-771,80171,AC,Improvement,false,Closed,Done,2013-09-14 18:37:53,2013-11-25 21:10:05
+AC-770,80167,AC,Bug,false,Closed,Obsolete,2013-09-13 20:26:15,2014-09-30 20:39:08
+AC-769,80166,AC,Bug,false,Closed,Obsolete,2013-09-13 19:14:50,2014-09-30 19:35:25
+AC-768,80155,AC,Bug,false,Closed,Fixed,2013-09-13 09:07:34,2013-10-07 17:18:27
+AC-766,80138,AC,New Feature,false,Under Review,,2013-09-12 17:47:07,
+AC-765,80137,AC,Improvement,false,Under Review,,2013-09-12 17:37:08,
+AC-764,80111,AC,New Feature,false,Closed,Won't Fix,2013-09-11 23:39:14,2014-04-14 01:15:42
+AC-762,80102,AC,Improvement,false,Closed,Fixed,2013-09-11 14:17:28,2013-11-25 21:08:30
+AC-761,77336,AC,New Feature,false,Closed,Fixed,2013-06-06 03:04:46,2013-11-04 06:15:09
+AC-760,80065,AC,Bug,false,Closed,Fixed,2013-09-10 14:29:38,2013-09-10 15:35:11
+AC-759,80064,AC,Bug,false,Under Review,,2013-09-10 12:00:40,
+AC-758,80059,AC,Bug,false,Closed,Fixed,2013-09-10 07:27:28,2013-09-23 02:34:21
+AC-757,80055,AC,Bug,false,Under Review,,2013-09-10 00:39:16,
+AC-756,80040,AC,Bug,false,Under Review,,2013-09-09 19:53:32,
+AC-755,79912,AC,Bug,false,Closed,Fixed,2013-09-06 20:01:05,2013-09-10 15:51:06
+AC-754,79899,AC,Improvement,false,Closed,Won't Fix,2013-09-05 21:32:42,2013-10-21 04:54:40
+AC-753,79898,AC,Bug,false,Closed,Won't Fix,2013-09-05 21:18:36,2013-10-21 04:54:50
+AC-752,79897,AC,Bug,false,Closed,Duplicate,2013-09-05 21:15:16,2013-09-09 18:38:44
+AC-751,79893,AC,Improvement,false,Under Review,,2013-09-05 19:54:53,
+AC-750,79891,AC,Improvement,false,Closed,Fixed,2013-09-05 18:54:47,2013-09-10 11:46:47
+AC-749,79861,AC,New Feature,false,Closed,Obsolete,2013-09-04 18:34:40,2013-09-10 18:00:33
+AC-746,79853,AC,New Feature,false,Closed,Not a bug,2013-09-04 14:44:47,2013-09-04 15:25:33
+AC-745,79833,AC,Bug,false,Closed,Cannot Reproduce,2013-09-03 05:15:32,2014-01-07 16:41:22
+AC-744,79832,AC,Bug,false,Closed,Invalid,2013-09-03 05:08:12,2013-09-03 05:31:50
+AC-743,79831,AC,Bug,false,Closed,Fixed,2013-09-03 05:07:49,2013-09-09 18:54:29
+AC-742,79820,AC,Bug,false,Closed,Obsolete,2013-09-02 13:34:47,2013-09-10 18:01:06
+AC-741,79819,AC,Bug,false,Under Review,,2013-09-02 12:57:27,
+AC-740,79811,AC,New Feature,false,Closed,Answered,2013-09-01 23:18:20,2013-09-02 18:36:33
+AC-739,79775,AC,Improvement,false,Closed,Timed out,2013-08-30 05:19:26,2014-04-29 01:19:38
+AC-738,79753,AC,Bug,false,Closed,Fixed,2013-08-29 17:36:13,2013-09-03 15:17:38
+AC-736,76231,AC,Bug,false,Closed,Fixed,2013-05-15 23:32:44,2013-08-26 02:08:08
+AC-735,77333,AC,Improvement,false,Closed,Fixed,2013-06-06 02:43:00,2013-08-26 22:21:33
+AC-734,79012,AC,Improvement,false,Closed,Fixed,2013-08-06 18:31:32,2013-08-26 22:17:20
+AC-733,79722,AC,Bug,false,Closed,Fixed,2013-08-28 04:15:03,2014-04-13 21:07:24
+AC-731,77460,AC,Improvement,false,Closed,Fixed,2013-06-11 12:39:58,2020-02-26 13:17:47
+AC-730,78944,AC,Bug,false,Closed,Fixed,2013-08-02 01:01:06,2013-08-02 03:57:03
+AC-729,78946,AC,Bug,false,Closed,Fixed,2013-08-02 02:05:28,2013-08-05 17:55:19
+AC-728,78970,AC,Improvement,false,Closed,Fixed,2013-08-04 21:01:57,2013-08-07 17:17:06
+AC-727,79696,AC,Bug,false,Under Review,,2013-08-27 06:24:04,
+AC-726,79692,AC,Bug,false,Closed,Obsolete,2013-08-27 03:39:40,2014-09-30 20:37:46
+AC-724,79679,AC,Bug,false,Closed,Fixed,2013-08-26 22:21:03,2013-08-27 11:22:56
+AC-722,79507,AC,Bug,false,Closed,Obsolete,2013-08-23 10:59:39,2014-04-13 21:03:41
+AC-721,79505,AC,Improvement,false,Closed,Done,2013-08-23 09:01:42,2014-02-26 17:50:19
+AC-720,79504,AC,Improvement,false,Closed,Obsolete,2013-08-23 07:33:51,2014-09-30 21:00:04
+AC-719,79499,AC,Improvement,false,Closed,Won't Fix,2013-08-22 22:04:44,2013-10-21 04:55:39
+AC-718,79498,AC,New Feature,false,Closed,Not a bug,2013-08-22 20:28:19,2013-09-03 17:57:34
+AC-717,79493,AC,Improvement,false,Closed,Obsolete,2013-08-22 17:05:07,2014-04-29 01:19:27
+AC-715,79478,AC,New Feature,false,Under Review,,2013-08-22 11:22:15,
+AC-714,79473,AC,Bug,false,Closed,Duplicate,2013-08-22 07:35:39,2013-08-22 08:36:10
+AC-713,79472,AC,Improvement,false,Closed,Duplicate,2013-08-22 04:48:02,2013-11-25 20:52:58
+AC-712,79452,AC,Improvement,false,Closed,Tracked Elsewhere,2013-08-21 17:58:14,2013-08-21 18:37:59
+AC-710,79449,AC,Improvement,false,Closed,Fixed,2013-08-21 17:29:58,2013-08-28 14:25:53
+AC-709,79427,AC,Improvement,false,Closed,Fixed,2013-08-21 13:25:36,2013-08-27 16:51:25
+AC-708,79417,AC,Bug,false,Closed,Duplicate,2013-08-21 04:16:25,2013-08-21 05:33:50
+AC-707,79321,AC,Improvement,false,Closed,Fixed,2013-08-19 13:31:08,2014-02-03 04:03:22
+AC-706,79316,AC,Bug,false,Closed,Not a bug,2013-08-19 03:34:48,2013-08-19 20:13:54
+AC-705,79270,AC,Bug,false,Closed,Obsolete,2013-08-18 15:16:25,2014-09-30 20:38:04
+AC-704,79269,AC,Bug,false,Closed,Fixed,2013-08-18 14:33:18,2013-08-20 18:08:22
+AC-703,79266,AC,Bug,false,Under Review,,2013-08-16 13:15:50,
+AC-702,79261,AC,Improvement,false,Closed,Obsolete,2013-08-16 10:45:27,2013-11-25 21:05:29
+AC-701,79245,AC,Improvement,false,Under Review,,2013-08-15 19:56:24,
+AC-700,79243,AC,Improvement,false,Under Review,,2013-08-15 18:42:18,
+AC-697,79131,AC,Bug,false,Closed,Invalid,2013-08-12 16:34:17,2013-08-12 18:21:03
+AC-695,79031,AC,Bug,false,Closed,Fixed,2013-08-07 16:29:38,2013-09-03 15:26:12
+AC-694,79008,AC,Improvement,false,Closed,Won't Fix,2013-08-06 18:14:33,2013-08-19 23:49:04
+AC-693,79003,AC,New Feature,false,New,,2013-08-06 13:43:57,
+AC-692,79001,AC,Improvement,false,Closed,Won't Fix,2013-08-06 11:14:25,2016-08-16 22:27:39
+AC-691,78995,AC,New Feature,false,Closed,Fixed,2013-08-06 03:31:37,2013-08-19 13:30:26
+AC-690,78994,AC,New Feature,false,Closed,Fixed,2013-08-06 03:31:16,2013-08-19 13:30:32
+AC-689,78988,AC,Improvement,false,Closed,Fixed,2013-08-05 19:02:38,2013-09-02 17:26:58
+AC-688,78987,AC,Improvement,false,Closed,Fixed,2013-08-05 19:01:43,2020-02-26 13:17:48
+AC-687,78969,AC,Bug,false,Closed,Fixed,2013-08-03 14:05:12,2013-08-27 17:36:39
+AC-685,78934,AC,Improvement,false,Closed,Won't Fix,2013-08-01 14:42:04,2013-08-06 14:03:13
+AC-684,78931,AC,Bug,false,Closed,Duplicate,2013-08-01 13:02:12,2013-08-01 13:48:32
+AC-683,78930,AC,Bug,false,Closed,Fixed,2013-08-01 13:01:23,2014-02-19 16:04:32
+AC-682,78907,AC,New Feature,false,Closed,Fixed,2013-07-31 17:46:38,2014-04-09 02:51:18
+AC-681,78902,AC,Improvement,false,Closed,Fixed,2013-07-31 12:43:27,2013-09-13 11:35:24
+AC-680,78892,AC,Improvement,false,Closed,Fixed,2013-07-30 23:49:40,2013-07-31 18:45:26
+AC-678,78887,AC,New Feature,false,Closed,Duplicate,2013-07-30 18:35:41,2015-07-06 23:42:51
+AC-677,78886,AC,Bug,false,Closed,Duplicate,2013-07-30 18:33:00,2013-09-03 17:52:05
+AC-676,78885,AC,New Feature,false,Closed,Duplicate,2013-07-30 17:47:47,2013-07-30 22:42:09
+AC-674,78760,AC,Bug,false,Closed,Fixed,2013-07-27 09:07:33,2013-07-28 13:00:36
+AC-673,78747,AC,Bug,false,Closed,Obsolete,2013-07-26 06:57:37,2013-10-21 04:39:18
+AC-672,78746,AC,Bug,false,Closed,Obsolete,2013-07-26 06:54:39,2013-10-21 04:39:10
+AC-671,78745,AC,Bug,false,Closed,Obsolete,2013-07-26 06:41:54,2014-04-13 21:06:36
+AC-670,78744,AC,Bug,false,Closed,Fixed,2013-07-26 06:25:13,2013-08-12 02:36:33
+AC-667,78631,AC,New Feature,false,Closed,Fixed,2013-07-22 22:07:45,2014-01-22 20:51:51
+AC-666,78625,AC,New Feature,false,Closed,Obsolete,2013-07-22 20:48:28,2013-11-25 21:04:35
+AC-665,78438,AC,Bug,false,Closed,Fixed,2013-07-16 02:36:35,2013-08-02 07:25:25
+AC-664,78372,AC,Improvement,false,Closed,Tracked Elsewhere,2013-07-14 18:53:48,2013-07-15 00:58:28
+AC-663,78370,AC,New Feature,false,Closed,Fixed,2013-07-13 06:36:37,2013-07-14 19:25:14
+AC-662,78359,AC,Bug,false,Closed,Tracked Elsewhere,2013-07-12 06:38:09,2013-07-12 19:13:35
+AC-661,78351,AC,Improvement,false,Closed,Obsolete,2013-07-11 23:09:55,2013-11-11 15:45:28
+AC-660,76338,AC,Bug,false,Closed,Duplicate,2013-05-21 13:32:39,2013-10-21 04:21:35
+AC-659,78342,AC,Bug,false,Closed,Cannot Reproduce,2013-07-11 14:45:37,2013-07-31 07:14:00
+AC-658,78333,AC,New Feature,false,Closed,Won't Fix,2013-07-11 10:39:45,2013-07-29 23:45:39
+AC-657,78315,AC,New Feature,false,Closed,Duplicate,2013-07-10 19:35:42,2013-09-12 01:37:23
+AC-656,78245,AC,Bug,false,Closed,Fixed,2013-07-09 17:55:36,2013-07-16 17:59:05
+AC-655,78216,AC,New Feature,false,Closed,Obsolete,2013-07-08 10:27:29,2016-08-17 00:58:03
+AC-654,78148,AC,Bug,false,Closed,Fixed,2013-07-05 06:54:11,2013-08-01 08:30:44
+AC-653,78147,AC,Bug,false,Closed,Fixed,2013-07-05 06:51:07,2013-08-14 12:47:53
+AC-652,78144,AC,Bug,false,Closed,Fixed,2013-07-05 05:39:19,2013-07-15 08:11:30
+AC-651,78143,AC,Bug,false,Closed,Not a bug,2013-07-05 05:33:46,2013-09-03 05:46:06
+AC-650,78142,AC,Bug,false,Closed,Fixed,2013-07-05 04:05:47,2013-07-19 10:07:52
+AC-645,78029,AC,New Feature,false,Closed,Fixed,2013-07-01 16:19:03,2013-08-27 18:18:53
+AC-644,77980,AC,Improvement,false,Closed,Tracked Elsewhere,2013-06-28 13:31:19,2014-03-06 01:41:23
+AC-643,77952,AC,Improvement,false,Closed,Fixed,2013-06-27 15:23:04,2013-07-09 17:05:43
+AC-641,77811,AC,Bug,false,Closed,Fixed,2013-06-20 19:50:09,2013-07-19 10:08:03
+AC-640,77800,AC,Bug,false,Closed,Fixed,2013-06-20 11:54:22,2014-01-12 20:43:49
+AC-639,77790,AC,Improvement,false,Closed,Duplicate,2013-06-19 20:36:40,2013-11-04 06:16:36
+AC-636,77746,AC,New Feature,false,Closed,Fixed,2013-06-18 13:35:48,2014-01-23 21:55:56
+AC-635,77730,AC,Bug,false,Closed,Fixed,2013-06-17 19:42:10,2013-06-26 18:49:32
+AC-634,77728,AC,Bug,false,Closed,Fixed,2013-06-17 18:44:31,2013-06-26 13:18:38
+AC-633,77584,AC,Improvement,false,Closed,Fixed,2013-06-14 23:35:34,2013-08-01 19:45:10
+AC-630,77504,AC,Improvement,false,Closed,Fixed,2013-06-12 20:41:00,2013-08-12 01:11:35
+AC-629,77440,AC,Bug,false,Closed,Obsolete,2013-06-10 23:22:50,2013-10-21 04:15:57
+AC-627,77398,AC,New Feature,false,Closed,Tracked Elsewhere,2013-06-09 07:44:06,2014-09-30 20:45:42
+AC-624,77335,AC,New Feature,false,Closed,Fixed,2013-06-06 03:03:40,2013-08-31 06:27:56
+AC-623,77334,AC,New Feature,false,Closed,Fixed,2013-06-06 03:02:01,2013-07-23 01:28:24
+AC-622,77311,AC,New Feature,false,Closed,Fixed,2013-06-05 12:49:17,2013-07-30 23:20:28
+AC-621,77299,AC,Bug,false,Closed,Fixed,2013-06-04 20:01:16,2013-06-19 13:13:42
+AC-620,76584,AC,Improvement,false,Closed,Won't Fix,2013-03-11 16:39:46,2013-07-09 18:48:03
+AC-619,76558,AC,Improvement,false,Closed,Fixed,2013-04-25 00:09:22,2013-12-04 17:26:50
+AC-618,76887,AC,Improvement,false,Closed,Done,2012-06-20 21:31:45,2013-06-06 02:39:27
+AC-617,76950,AC,Improvement,false,Closed,Done,2011-12-07 23:20:17,2013-06-06 02:40:10
+AC-616,76710,AC,Improvement,false,Closed,Won't Fix,2013-01-18 10:30:47,2013-06-18 19:24:11
+AC-615,76900,AC,Improvement,false,Closed,Done,2012-05-22 16:13:58,2013-06-06 02:39:31
+AC-614,76911,AC,Improvement,false,Closed,Done,2012-04-20 12:30:57,2013-06-06 02:39:32
+AC-613,76711,AC,Improvement,false,Closed,Obsolete,2013-01-18 10:30:10,2013-07-15 00:50:08
+AC-611,76573,AC,Improvement,false,Closed,Done,2013-03-20 17:32:03,2013-06-06 02:39:23
+AC-610,76909,AC,Improvement,false,Closed,Done,2012-04-20 14:37:38,2013-06-06 02:39:57
+AC-609,76766,AC,Improvement,false,Closed,Won't Fix,2012-11-13 17:25:52,2013-06-10 23:36:56
+AC-608,76914,AC,Improvement,false,Closed,Done,2012-04-18 19:50:44,2013-06-06 02:39:50
+AC-607,76920,AC,Improvement,false,Closed,Fixed,2012-04-18 19:17:41,2013-08-27 17:51:21
+AC-606,76672,AC,Improvement,false,Closed,Done,2013-01-30 17:40:27,2013-06-06 02:39:52
+AC-605,76868,AC,Improvement,false,Closed,Done,2012-07-23 23:17:10,2013-06-06 02:40:12
+AC-604,76772,AC,Improvement,false,Closed,Done,2012-12-27 18:11:35,2013-06-06 02:39:37
+AC-603,76751,AC,Improvement,false,Under Review,,2013-01-07 07:18:15,
+AC-602,76773,AC,Improvement,false,Closed,Done,2012-12-27 12:54:43,2013-06-06 02:40:10
+AC-601,76774,AC,Improvement,false,Closed,Fixed,2012-12-26 23:42:03,2014-01-21 22:00:48
+AC-600,76822,AC,Improvement,false,Closed,Done,2012-12-10 06:51:41,2013-06-06 02:39:51
+AC-599,76925,AC,Bug,false,Closed,Not a bug,2012-04-09 23:09:50,2013-09-07 19:34:28
+AC-598,76917,AC,Improvement,false,Closed,Done,2012-04-18 19:21:08,2013-06-06 02:40:09
+AC-597,76768,AC,Improvement,false,Under Review,,2012-11-13 18:27:11,
+AC-595,76901,AC,Improvement,false,Closed,Done,2012-05-22 16:13:21,2013-06-06 02:39:33
+AC-594,76941,AC,Improvement,false,Closed,Done,2011-12-21 23:18:00,2013-06-06 02:39:29
+AC-593,76549,AC,Improvement,false,Closed,Fixed,2013-05-02 18:31:50,2013-08-20 17:53:23
+AC-592,76849,AC,Improvement,false,Closed,Done,2012-11-20 03:01:53,2013-06-06 02:39:48
+AC-591,76689,AC,Improvement,false,Closed,Done,2013-01-24 12:12:05,2013-06-06 02:40:01
+AC-590,76942,AC,Improvement,false,Closed,Done,2011-12-21 15:59:56,2013-06-06 02:40:00
+AC-588,76648,AC,Improvement,false,Closed,Done,2013-02-08 18:51:40,2013-06-06 02:39:31
+AC-587,76823,AC,Improvement,false,Closed,Timed out,2012-12-10 02:46:08,2013-06-10 23:48:23
+AC-586,76776,AC,Improvement,false,Closed,Done,2012-12-26 23:29:43,2013-06-06 02:39:38
+AC-585,76556,AC,Improvement,false,Closed,Won't Fix,2013-04-25 12:40:52,2013-06-18 19:48:49
+AC-584,76767,AC,Improvement,false,Closed,Done,2012-12-07 13:41:52,2013-06-06 02:39:17
+AC-583,76775,AC,Improvement,false,Closed,Won't Fix,2012-12-26 23:37:40,2013-06-18 19:49:43
+AC-582,76569,AC,Improvement,false,Closed,Done,2013-03-22 10:22:02,2013-06-06 02:39:17
+AC-581,76949,AC,Improvement,false,Closed,Done,2011-12-19 23:12:26,2013-06-06 02:39:42
+AC-580,76546,AC,Improvement,false,Closed,Won't Fix,2013-05-11 14:44:01,2013-06-18 19:50:35
+AC-579,76886,AC,Improvement,false,Closed,Duplicate,2012-06-21 13:27:59,2013-07-22 22:02:15
+AC-578,76723,AC,Improvement,false,Closed,Fixed,2013-01-11 15:39:04,2013-08-06 18:06:58
+AC-577,76690,AC,Improvement,false,Closed,Obsolete,2013-01-24 11:50:48,2013-06-19 15:24:48
+AC-576,76947,AC,Improvement,false,Closed,Done,2011-12-20 00:15:30,2013-06-06 02:39:53
+AC-575,76926,AC,Improvement,false,Closed,Done,2012-04-09 23:09:02,2013-06-06 02:39:18
+AC-574,76616,AC,Improvement,false,Closed,Done,2013-02-22 11:58:36,2013-06-06 02:40:07
+AC-573,76846,AC,Improvement,false,Closed,Won't Fix,2012-11-27 03:51:57,2013-10-21 04:16:19
+AC-572,76842,AC,Improvement,false,Closed,Fixed,2012-11-27 09:57:15,2020-02-26 13:17:49
+AC-571,76882,AC,Improvement,false,Closed,Done,2012-06-25 14:52:45,2013-06-06 02:39:28
+AC-570,76843,AC,Improvement,false,Closed,Done,2012-11-27 09:53:33,2013-06-06 02:39:20
+AC-569,76905,AC,Improvement,false,Closed,Done,2012-04-26 18:36:27,2013-06-06 02:39:50
+AC-568,76913,AC,Improvement,false,Closed,Done,2012-04-18 19:51:46,2013-06-06 02:39:18
+AC-567,76840,AC,Improvement,false,Closed,Won't Fix,2012-11-29 03:35:05,2013-06-10 23:43:05
+AC-566,76700,AC,Improvement,false,Closed,Done,2013-01-22 17:43:51,2013-06-06 02:40:13
+AC-565,76896,AC,Improvement,false,Closed,Won't Fix,2012-05-26 03:28:37,2013-06-10 23:32:58
+AC-564,76881,AC,Improvement,false,Closed,Done,2012-06-27 01:45:52,2013-06-06 02:39:31
+AC-563,76671,AC,Improvement,false,Closed,Done,2013-01-30 18:33:14,2013-06-06 02:39:40
+AC-562,76918,AC,Improvement,false,Closed,Done,2012-04-18 19:20:25,2013-06-06 02:40:07
+AC-561,76676,AC,Improvement,false,Closed,Done,2013-01-29 13:50:37,2013-06-06 02:39:31
+AC-560,76719,AC,Improvement,false,Closed,Done,2013-01-15 15:37:55,2013-06-06 02:39:38
+AC-559,76658,AC,Improvement,false,Closed,Duplicate,2013-02-06 11:36:49,2013-06-18 19:55:13
+AC-558,76939,AC,Improvement,false,Closed,Done,2012-01-04 02:32:09,2013-06-06 02:40:06
+AC-557,76850,AC,Improvement,false,Closed,Done,2012-11-15 08:41:08,2013-06-06 02:39:37
+AC-556,76668,AC,Improvement,false,Closed,Done,2013-02-04 02:51:52,2013-06-06 02:40:01
+AC-555,76919,AC,Improvement,false,Closed,Done,2012-04-18 19:19:55,2013-06-06 02:39:32
+AC-554,76829,AC,Improvement,false,Closed,Done,2012-12-05 05:43:41,2013-06-06 02:40:12
+AC-553,76838,AC,Improvement,false,Closed,Done,2012-11-29 09:41:48,2013-06-06 02:39:57
+AC-552,76844,AC,Improvement,false,Closed,Done,2012-11-27 09:28:18,2013-06-06 02:39:24
+AC-551,76907,AC,Improvement,false,Closed,Done,2012-04-21 02:41:22,2013-06-06 02:40:11
+AC-550,76777,AC,Improvement,false,Closed,Done,2012-12-24 23:41:22,2013-06-06 02:39:37
+AC-548,76837,AC,New Feature,false,Closed,Fixed,2012-12-03 00:04:56,2020-02-07 05:45:06
+AC-547,76794,AC,New Feature,false,Closed,Tracked Elsewhere,2012-12-23 15:56:19,2013-06-11 21:23:50
+AC-546,76793,AC,New Feature,false,Closed,Tracked Elsewhere,2012-12-23 16:14:27,2013-06-11 21:23:53
+AC-545,76833,AC,New Feature,false,Closed,Won't Fix,2012-12-04 16:46:55,2013-10-13 01:49:51
+AC-544,76830,AC,New Feature,false,Under Review,,2012-12-04 19:49:43,
+AC-543,76798,AC,New Feature,false,Closed,Tracked Elsewhere,2012-12-23 15:27:49,2013-06-11 21:23:52
+AC-541,76790,AC,New Feature,false,Closed,Tracked Elsewhere,2012-12-23 16:29:27,2013-06-11 21:23:52
+AC-540,76799,AC,New Feature,false,Closed,Tracked Elsewhere,2012-12-23 15:17:51,2013-06-11 21:23:50
+AC-539,76792,AC,New Feature,false,Closed,Tracked Elsewhere,2012-12-23 16:25:57,2013-06-11 21:23:51
+AC-538,76797,AC,New Feature,false,Closed,Fixed,2012-12-23 15:33:09,2020-02-07 05:45:10
+AC-537,76621,AC,New Feature,false,Closed,Done,2013-02-18 22:50:55,2013-06-06 02:40:09
+AC-536,76646,AC,New Feature,false,Closed,Done,2013-02-11 17:06:47,2013-06-06 02:39:50
+AC-535,76795,AC,New Feature,false,Closed,Tracked Elsewhere,2012-12-23 15:51:29,2013-06-11 21:23:51
+AC-534,76764,AC,New Feature,false,Under Review,,2013-01-02 20:20:30,
+AC-533,76789,AC,New Feature,false,Closed,Tracked Elsewhere,2012-12-23 16:39:44,2013-06-11 21:23:51
+AC-532,76836,AC,New Feature,false,Closed,Tracked Elsewhere,2012-12-04 01:52:39,2013-06-11 21:23:52
+AC-531,76904,AC,New Feature,false,Closed,Done,2012-04-27 04:36:41,2013-06-06 02:39:32
+AC-530,76647,AC,New Feature,false,Closed,Done,2013-02-11 17:01:50,2013-06-06 02:39:36
+AC-529,76606,AC,New Feature,false,Closed,Fixed,2013-02-28 10:22:22,2013-07-30 01:12:46
+AC-528,76791,AC,New Feature,false,Closed,Tracked Elsewhere,2012-12-23 16:27:57,2013-06-11 21:23:51
+AC-527,76832,AC,New Feature,false,Under Review,,2012-12-04 19:44:03,
+AC-526,76796,AC,New Feature,false,Closed,Tracked Elsewhere,2012-12-23 15:42:04,2013-06-11 21:23:51
+AC-525,76663,AC,New Feature,false,Closed,Won't Fix,2013-02-04 21:59:52,2013-07-01 01:51:17
+AC-524,76831,AC,New Feature,false,Closed,Done,2012-12-04 19:45:01,2013-06-06 02:39:48
+AC-523,76655,AC,New Feature,false,Closed,Won't Fix,2013-02-06 22:30:16,2013-07-01 01:51:46
+AC-522,76815,AC,New Feature,false,Closed,Tracked Elsewhere,2012-12-18 17:24:26,2013-06-11 21:23:51
+AC-520,76634,AC,New Feature,false,Closed,Obsolete,2013-02-13 18:01:47,2013-10-21 04:37:10
+AC-519,76683,AC,New Feature,false,Closed,Obsolete,2013-01-28 12:44:01,2013-11-25 20:59:07
+AC-518,76759,AC,New Feature,false,Under Review,,2013-01-04 13:20:54,
+AC-517,76656,AC,New Feature,false,Closed,Won't Fix,2013-02-06 17:44:01,2013-06-24 18:48:58
+AC-516,76784,AC,New Feature,false,Closed,Done,2012-12-23 21:10:29,2013-06-06 02:39:49
+AC-514,76610,AC,New Feature,false,Closed,Done,2013-02-26 18:31:53,2013-06-06 02:39:29
+AC-513,76758,AC,New Feature,false,Closed,Done,2013-01-04 13:20:57,2013-06-06 02:39:22
+AC-512,76753,AC,New Feature,false,Closed,Won't Fix,2013-01-04 14:14:55,2013-06-04 18:02:42
+AC-511,76736,AC,New Feature,false,Closed,Done,2013-01-09 23:34:05,2013-06-06 02:40:11
+AC-510,76807,AC,New Feature,false,Closed,Done,2012-12-20 23:43:10,2013-06-06 02:40:05
+AC-509,76738,AC,New Feature,false,Closed,Done,2013-01-09 23:33:00,2013-06-06 02:39:49
+AC-508,76667,AC,New Feature,false,Closed,Done,2013-02-04 02:55:47,2013-06-06 02:39:21
+AC-507,76565,AC,New Feature,false,Closed,Fixed,2013-04-02 14:16:39,2013-06-05 13:27:32
+AC-506,76805,AC,New Feature,false,Closed,Duplicate,2012-12-20 23:52:01,2013-05-29 20:31:14
+AC-505,76702,AC,New Feature,false,Closed,Done,2013-01-22 05:40:17,2013-06-06 02:39:36
+AC-504,76747,AC,New Feature,false,Closed,Done,2013-01-08 10:55:49,2013-06-06 02:39:42
+AC-503,76706,AC,New Feature,false,Closed,Done,2013-01-21 10:48:30,2013-06-06 02:39:51
+AC-502,76897,AC,New Feature,false,Closed,Done,2012-05-26 03:27:58,2013-06-06 02:39:55
+AC-501,76698,AC,New Feature,false,Closed,Done,2013-01-23 13:51:50,2013-06-06 02:39:56
+AC-500,76561,AC,New Feature,false,Closed,Done,2013-04-19 13:35:44,2013-06-06 02:39:53
+AC-499,76725,AC,New Feature,false,Closed,Done,2013-01-11 11:31:33,2013-06-06 02:39:48
+AC-498,76806,AC,New Feature,false,Closed,Done,2012-12-20 23:45:23,2013-06-06 02:39:42
+AC-497,76562,AC,New Feature,false,Closed,Duplicate,2013-04-19 13:35:13,2013-06-18 17:46:44
+AC-496,76707,AC,New Feature,false,Closed,Won't Fix,2013-01-19 16:43:17,2013-07-01 21:43:53
+AC-495,76735,AC,New Feature,false,Closed,Done,2013-01-09 23:40:31,2013-06-06 02:39:32
+AC-494,76617,AC,New Feature,false,Closed,Done,2013-02-22 11:37:06,2013-06-06 02:39:50
+AC-493,76727,AC,New Feature,false,Closed,Done,2013-01-10 08:51:49,2013-06-06 02:39:51
+AC-492,76696,AC,New Feature,false,Closed,Done,2013-01-23 13:59:52,2013-06-06 02:39:25
+AC-491,76632,AC,New Feature,false,Closed,Done,2013-02-14 11:27:21,2013-06-06 02:39:57
+AC-490,76572,AC,New Feature,false,Closed,Duplicate,2013-03-20 17:33:30,2013-06-19 15:45:06
+AC-489,76752,AC,New Feature,false,Closed,Done,2013-01-06 18:20:50,2013-06-06 02:40:02
+AC-488,76684,AC,New Feature,false,Closed,Obsolete,2013-01-27 10:36:34,2014-03-05 21:50:51
+AC-487,76757,AC,New Feature,false,Closed,Done,2013-01-04 13:21:00,2013-06-06 02:40:03
+AC-486,76670,AC,New Feature,false,Closed,Done,2013-01-30 19:56:38,2013-06-06 02:40:10
+AC-485,76609,AC,New Feature,false,Closed,Done,2013-02-26 18:32:25,2013-06-06 02:40:00
+AC-484,76737,AC,New Feature,false,Closed,Done,2013-01-09 23:33:12,2013-06-06 02:39:54
+AC-483,76644,AC,New Feature,false,Closed,Done,2013-02-12 13:19:54,2013-06-06 02:40:02
+AC-481,76804,AC,New Feature,false,Under Review,,2012-12-20 23:55:27,
+AC-479,76661,AC,New Feature,false,Closed,Done,2013-02-05 18:14:18,2013-06-06 02:40:06
+AC-478,76691,AC,New Feature,false,Closed,Fixed,2013-01-24 01:35:09,2013-05-30 15:07:57
+AC-477,76639,AC,New Feature,false,Closed,Done,2013-02-13 14:36:03,2013-06-06 02:40:05
+AC-476,76654,AC,New Feature,false,Closed,Done,2013-02-07 14:36:41,2013-06-06 02:39:52
+AC-475,76638,AC,New Feature,false,Closed,Done,2013-02-13 14:36:04,2013-06-06 02:40:06
+AC-474,76802,AC,New Feature,false,Under Review,,2012-12-21 00:13:52,
+AC-473,76713,AC,New Feature,false,Closed,Done,2013-01-16 18:03:40,2013-06-06 02:39:28
+AC-472,76682,AC,New Feature,false,Closed,Done,2013-01-28 20:48:15,2013-06-06 02:39:37
+AC-471,76788,AC,New Feature,false,Closed,Done,2012-12-23 18:13:12,2013-06-06 02:39:36
+AC-470,76810,AC,New Feature,false,Closed,Done,2012-12-19 16:51:41,2013-06-06 02:40:03
+AC-468,76733,AC,New Feature,false,Closed,Done,2013-01-10 00:07:43,2013-06-06 02:39:56
+AC-467,76669,AC,New Feature,false,Closed,Done,2013-01-30 23:00:19,2013-06-06 02:39:58
+AC-466,76756,AC,New Feature,false,Closed,Done,2013-01-04 13:21:03,2013-06-06 02:39:35
+AC-465,76821,AC,New Feature,false,Closed,Timed out,2012-12-11 05:11:36,2013-06-10 23:48:35
+AC-463,76786,AC,New Feature,false,Under Review,,2012-12-23 18:15:48,
+AC-462,76680,AC,New Feature,false,Closed,Done,2013-01-29 11:01:51,2013-06-06 02:39:20
+AC-460,76731,AC,New Feature,false,Closed,Won't Fix,2013-01-10 00:10:19,2013-10-21 04:22:35
+AC-459,76782,AC,New Feature,false,Closed,Done,2012-12-23 21:14:37,2013-06-06 02:39:28
+AC-458,76631,AC,New Feature,false,Closed,Obsolete,2013-02-14 14:24:43,2013-10-21 04:28:36
+AC-457,76765,AC,New Feature,false,Closed,Done,2013-01-02 15:03:13,2013-06-06 02:39:54
+AC-456,76801,AC,New Feature,false,Under Review,,2012-12-21 12:50:40,
+AC-455,76697,AC,New Feature,false,Closed,Done,2013-01-23 13:54:56,2013-06-06 02:40:07
+AC-454,76608,AC,New Feature,false,Closed,Obsolete,2013-02-27 13:48:49,2013-09-12 00:39:01
+AC-453,76746,AC,New Feature,false,Closed,Done,2013-01-08 10:58:54,2013-06-06 02:39:22
+AC-452,76732,AC,New Feature,false,Closed,Done,2013-01-10 00:10:07,2013-06-06 02:39:50
+AC-451,76591,AC,New Feature,false,Closed,Fixed,2013-03-06 22:27:41,2014-02-16 05:11:14
+AC-450,76596,AC,New Feature,false,Closed,Done,2013-03-05 14:38:52,2013-06-06 02:40:08
+AC-449,76716,AC,New Feature,false,Closed,Done,2013-01-15 17:59:29,2013-06-06 02:39:26
+AC-448,76781,AC,New Feature,false,Closed,Done,2012-12-23 21:16:18,2013-06-06 02:40:02
+AC-447,76749,AC,New Feature,false,Closed,Done,2013-01-08 10:50:01,2013-06-06 02:39:30
+AC-446,76809,AC,New Feature,false,Closed,Done,2012-12-20 15:40:59,2013-06-06 02:39:47
+AC-445,76678,AC,New Feature,false,Closed,Done,2013-01-29 11:37:36,2013-06-06 02:39:30
+AC-444,76575,AC,New Feature,false,Closed,Duplicate,2013-03-18 17:31:17,2013-06-24 18:57:14
+AC-443,76714,AC,New Feature,false,Closed,Done,2013-01-16 12:02:42,2013-06-06 02:39:27
+AC-442,76754,AC,New Feature,false,Closed,Won't Fix,2013-01-04 13:21:09,2013-06-04 18:03:06
+AC-441,76803,AC,New Feature,false,Closed,Done,2012-12-21 00:00:07,2013-06-06 02:39:28
+AC-440,76717,AC,New Feature,false,Closed,Done,2013-01-15 17:58:01,2013-06-06 02:40:10
+AC-439,76755,AC,New Feature,false,Under Review,,2013-01-04 13:21:06,
+AC-438,76800,AC,New Feature,false,Closed,Done,2012-12-21 12:51:54,2013-06-06 02:39:24
+AC-437,76581,AC,New Feature,false,Closed,Done,2013-03-12 17:08:07,2013-06-06 02:39:42
+AC-436,76922,AC,New Feature,false,Closed,Done,2012-04-09 23:11:28,2013-06-06 02:39:18
+AC-435,76685,AC,New Feature,false,Closed,Done,2013-01-27 10:25:05,2013-06-06 02:39:26
+AC-434,76630,AC,New Feature,false,Closed,Done,2013-02-14 14:32:20,2013-06-06 02:40:04
+AC-433,76652,AC,New Feature,false,Closed,Done,2013-02-07 18:34:35,2013-06-06 02:40:11
+AC-432,76878,AC,New Feature,false,Closed,Fixed,2012-06-28 18:59:30,2019-08-22 12:19:56
+AC-431,76625,AC,New Feature,false,Closed,Done,2013-02-15 12:20:21,2013-06-06 02:39:25
+AC-430,76640,AC,New Feature,false,Closed,Done,2013-02-13 14:36:02,2013-06-06 02:39:34
+AC-429,76762,AC,New Feature,false,Closed,Done,2013-01-03 16:30:32,2013-06-06 02:39:54
+AC-428,76583,AC,New Feature,false,Closed,Done,2013-03-12 01:35:59,2013-06-06 02:40:07
+AC-427,76948,AC,New Feature,false,Closed,Done,2011-12-19 23:57:06,2013-06-06 02:40:02
+AC-426,76783,AC,New Feature,false,Closed,Won't Fix,2012-12-23 21:13:33,2013-06-24 18:57:35
+AC-425,76718,AC,New Feature,false,Closed,Done,2013-01-15 17:45:28,2013-06-06 02:39:50
+AC-424,76618,AC,New Feature,false,Closed,Won't Fix,2013-02-21 15:22:42,2013-06-24 19:47:20
+AC-423,76722,AC,New Feature,false,Closed,Done,2013-01-11 17:30:01,2013-06-06 02:39:56
+AC-421,76780,AC,New Feature,false,Closed,Done,2012-12-23 21:22:06,2013-06-06 02:39:57
+AC-420,76730,AC,New Feature,false,Closed,Won't Fix,2013-01-10 00:10:20,2013-06-24 18:58:59
+AC-419,76724,AC,New Feature,false,Closed,Done,2013-01-11 15:36:36,2013-06-06 02:40:13
+AC-418,76666,AC,New Feature,false,Closed,Done,2013-02-04 03:12:49,2013-06-06 02:39:19
+AC-417,76745,AC,New Feature,false,Closed,Done,2013-01-09 02:47:06,2013-06-06 02:40:06
+AC-416,76728,AC,New Feature,false,Closed,Done,2013-01-10 00:10:21,2013-06-06 02:39:33
+AC-415,76574,AC,New Feature,false,Closed,Duplicate,2013-03-18 17:31:53,2013-06-24 18:59:23
+AC-414,76653,AC,New Feature,false,Closed,Done,2013-02-07 18:34:01,2013-06-06 02:39:55
+AC-413,76787,AC,New Feature,false,Closed,Done,2012-12-23 18:15:20,2013-06-06 02:40:06
+AC-412,76729,AC,New Feature,false,Closed,Won't Fix,2013-01-10 00:10:20,2013-06-24 18:59:46
+AC-411,76649,AC,New Feature,false,Closed,Won't Fix,2013-02-07 22:28:20,2013-06-24 19:01:29
+AC-410,76635,AC,New Feature,false,Closed,Fixed,2013-02-13 17:20:01,2013-08-26 22:23:51
+AC-409,76712,AC,New Feature,false,Closed,Done,2013-01-16 18:08:10,2013-06-06 02:39:44
+AC-408,76808,AC,New Feature,false,Under Review,,2012-12-20 23:33:34,
+AC-407,76763,AC,New Feature,false,Under Review,,2013-01-03 15:16:22,
+AC-406,76740,AC,New Feature,false,Closed,Done,2013-01-09 23:31:33,2013-06-06 02:39:59
+AC-405,76643,AC,New Feature,false,Closed,Done,2013-02-12 13:20:31,2013-06-06 02:40:11
+AC-404,76688,AC,New Feature,false,Closed,Done,2013-01-24 13:32:10,2013-06-06 02:39:35
+AC-403,76739,AC,New Feature,false,Closed,Done,2013-01-09 23:32:47,2013-06-06 02:39:47
+AC-402,76785,AC,New Feature,false,Closed,Done,2012-12-23 18:19:13,2013-06-06 02:40:02
+AC-401,76927,AC,New Feature,false,Closed,Done,2012-04-09 23:08:28,2013-06-06 02:39:40
+AC-400,76883,AC,New Feature,false,Closed,Done,2012-06-21 13:28:44,2013-06-06 02:39:42
+AC-399,76853,AC,New Feature,false,Closed,Done,2012-11-13 07:50:17,2013-06-06 02:39:24
+AC-398,76935,AC,New Feature,false,Closed,Done,2012-01-16 18:34:27,2013-06-06 02:39:58
+AC-397,76877,AC,New Feature,false,Closed,Done,2012-06-29 17:31:29,2013-06-06 02:39:57
+AC-396,76778,AC,New Feature,false,Closed,Done,2012-12-24 12:15:59,2013-06-06 02:39:26
+AC-394,76554,AC,New Feature,false,Closed,Done,2013-04-27 12:03:10,2013-06-06 02:39:35
+AC-393,76660,AC,New Feature,false,Closed,Done,2013-02-06 05:58:07,2013-06-06 02:39:49
+AC-392,76910,AC,New Feature,false,Closed,Obsolete,2012-04-20 13:21:49,2014-09-30 20:45:02
+AC-391,76891,AC,New Feature,false,Closed,Done,2012-06-15 18:36:32,2013-06-06 02:40:05
+AC-390,76657,AC,New Feature,false,Closed,Done,2013-02-06 16:06:57,2013-06-06 02:40:12
+AC-389,76619,AC,New Feature,false,Closed,Duplicate,2013-02-19 13:56:55,2013-06-06 03:11:15
+AC-388,76898,AC,New Feature,false,Closed,Done,2012-05-26 03:09:52,2013-06-06 02:39:54
+AC-387,76852,AC,New Feature,false,Closed,Done,2012-11-13 13:12:28,2013-06-06 02:40:06
+AC-384,76744,AC,New Feature,false,Closed,Done,2013-01-09 17:35:08,2013-06-06 02:39:57
+AC-383,76651,AC,New Feature,false,Closed,Duplicate,2013-02-07 22:23:10,2013-06-25 00:37:53
+AC-382,76650,AC,New Feature,false,Closed,Won't Fix,2013-02-07 22:25:02,2013-10-21 04:24:40
+AC-381,76885,AC,New Feature,false,Closed,Done,2012-06-21 13:28:21,2013-06-06 02:39:58
+AC-380,76580,AC,New Feature,false,Closed,Done,2013-03-12 18:35:12,2013-06-06 02:39:39
+AC-379,76871,AC,New Feature,false,Closed,Done,2012-07-20 04:32:43,2013-06-06 02:39:54
+AC-378,76876,AC,New Feature,false,Closed,Done,2012-07-02 00:25:53,2013-06-06 02:39:24
+AC-377,76934,AC,New Feature,false,Closed,Done,2012-01-17 15:18:01,2013-06-06 02:39:36
+AC-375,76938,AC,New Feature,false,Closed,Done,2012-01-04 02:34:50,2013-06-06 02:39:47
+AC-374,76566,AC,New Feature,false,Closed,Fixed,2013-04-02 14:13:12,2013-06-05 13:23:12
+AC-373,76553,AC,New Feature,false,Closed,Duplicate,2013-04-27 12:04:28,2013-06-05 13:36:42
+AC-370,76679,AC,New Feature,false,Closed,Obsolete,2013-01-29 11:12:38,2013-07-23 23:48:16
+AC-369,76932,AC,New Feature,false,Closed,Fixed,2012-03-06 14:55:22,2014-01-22 21:31:33
+AC-368,76820,AC,New Feature,false,Closed,Done,2012-12-11 17:13:27,2013-06-06 02:39:56
+AC-367,76884,AC,New Feature,false,Closed,Won't Fix,2012-06-21 13:28:33,2013-07-16 17:18:51
+AC-366,76811,AC,New Feature,false,Closed,Done,2012-12-19 16:16:12,2013-06-06 02:39:18
+AC-365,76659,AC,New Feature,false,Closed,Fixed,2013-02-06 06:52:34,2013-12-10 18:16:54
+AC-362,76681,AC,New Feature,false,Closed,Done,2013-01-28 20:55:01,2013-06-06 02:39:24
+AC-361,76916,AC,New Feature,false,Closed,Done,2012-04-18 19:21:38,2013-06-06 02:39:29
+AC-360,76551,AC,New Feature,false,Closed,Duplicate,2013-05-01 13:01:34,2013-06-05 13:26:43
+AC-359,76824,AC,New Feature,false,Closed,Done,2012-12-06 18:09:53,2013-06-06 02:39:28
+AC-358,76748,AC,New Feature,false,Under Review,,2013-01-08 10:53:06,
+AC-357,76589,AC,New Feature,false,Closed,Done,2013-03-07 14:11:19,2013-06-06 02:39:25
+AC-356,76641,AC,New Feature,false,Closed,Obsolete,2013-02-13 14:29:08,2013-07-01 21:36:18
+AC-355,76555,AC,New Feature,false,Closed,Done,2013-04-27 12:01:15,2013-06-06 02:39:35
+AC-354,76864,AC,New Feature,false,Closed,Done,2012-08-30 10:40:26,2013-06-06 02:39:41
+AC-353,76567,AC,New Feature,false,Closed,Answered,2013-03-29 17:29:03,2013-07-22 22:13:11
+AC-352,76664,AC,New Feature,false,Closed,Done,2013-02-04 09:42:56,2013-06-06 02:39:28
+AC-351,76828,AC,New Feature,false,Under Review,,2012-12-06 04:21:40,
+AC-350,76924,AC,Bug,false,Closed,Done,2012-04-09 23:10:28,2013-06-06 02:39:53
+AC-349,76597,AC,Bug,false,Closed,Done,2013-03-05 14:28:47,2013-06-06 02:39:39
+AC-348,76862,AC,Bug,false,Closed,Done,2012-09-12 01:40:00,2013-06-06 02:40:03
+AC-347,76571,AC,Bug,false,Closed,Done,2013-03-21 10:24:19,2013-06-06 02:40:10
+AC-346,76721,AC,Bug,false,Closed,Done,2013-01-15 09:15:39,2013-06-06 02:39:54
+AC-345,76835,AC,Bug,false,Closed,Done,2012-12-04 06:49:50,2013-06-06 02:39:40
+AC-344,76841,AC,Bug,false,Closed,Done,2012-11-27 10:29:45,2013-06-06 02:39:37
+AC-343,76601,AC,Bug,false,Closed,Cannot Reproduce,2013-02-28 22:52:20,2013-09-11 02:36:26
+AC-342,76848,AC,Bug,false,Closed,Done,2012-11-22 03:13:42,2013-06-06 02:39:25
+AC-341,76867,AC,Bug,false,Closed,Done,2012-07-24 09:07:12,2013-06-06 02:39:31
+AC-340,76579,AC,Bug,false,Closed,Done,2013-03-13 00:15:47,2013-06-06 02:39:52
+AC-339,76662,AC,Bug,false,Closed,Done,2013-02-05 03:32:08,2013-06-06 02:39:57
+AC-338,76861,AC,Bug,false,Closed,Done,2012-09-25 15:38:18,2013-06-06 02:40:00
+AC-337,76545,AC,Bug,false,Closed,Done,2013-05-13 11:27:45,2013-06-06 02:39:18
+AC-336,76943,AC,Bug,false,Closed,Done,2011-12-20 23:08:13,2013-06-06 02:39:24
+AC-335,76814,AC,Bug,false,Closed,Done,2012-12-19 14:36:27,2013-06-06 02:39:49
+AC-334,76858,AC,Bug,false,Closed,Done,2012-10-10 15:02:36,2013-06-06 02:40:10
+AC-333,76908,AC,Bug,false,Closed,Done,2012-04-21 02:24:33,2013-06-06 02:39:34
+AC-332,76929,AC,Bug,false,Closed,Done,2012-03-30 17:03:41,2013-06-06 02:39:45
+AC-331,76604,AC,Bug,false,Closed,Done,2013-02-28 17:44:25,2013-06-06 02:39:48
+AC-330,76946,AC,Bug,false,Closed,Done,2011-12-20 16:05:49,2013-06-06 02:39:29
+AC-329,76879,AC,Bug,false,Closed,Fixed,2012-06-27 21:41:12,2019-08-22 12:19:57
+AC-328,76770,AC,Bug,false,Closed,Done,2012-12-06 19:33:39,2013-06-06 02:40:00
+AC-327,76928,AC,Bug,false,Closed,Done,2012-04-05 11:37:38,2013-06-06 02:39:19
+AC-326,76933,AC,Bug,false,Closed,Done,2012-02-13 17:28:42,2013-06-06 02:39:30
+AC-325,76627,AC,Bug,false,Closed,Done,2013-02-15 07:57:28,2013-06-06 02:39:31
+AC-324,76760,AC,Bug,false,Under Review,,2013-01-04 03:52:29,
+AC-323,76633,AC,Bug,false,Closed,Obsolete,2013-02-14 10:28:13,2013-10-21 04:22:55
+AC-322,76875,AC,Bug,false,Closed,Done,2012-07-02 04:42:40,2013-06-06 02:39:40
+AC-321,76637,AC,Bug,false,Closed,Done,2013-02-13 14:57:19,2013-06-06 02:40:12
+AC-320,76708,AC,Bug,false,Closed,Done,2013-01-18 16:50:27,2013-06-06 02:39:26
+AC-319,76686,AC,Bug,false,Closed,Done,2013-01-25 18:30:14,2013-06-06 02:39:51
+AC-318,76695,AC,Bug,false,Closed,Done,2013-01-23 16:00:12,2013-06-06 02:40:05
+AC-317,76624,AC,Bug,false,Closed,Done,2013-02-16 01:25:34,2013-06-06 02:40:00
+AC-316,76951,AC,Bug,false,Closed,Done,2011-11-24 00:45:17,2013-06-06 02:39:55
+AC-315,76761,AC,Bug,false,Closed,Done,2013-01-04 03:33:35,2013-06-06 02:39:40
+AC-314,76921,AC,Bug,false,Closed,Done,2012-04-16 07:27:31,2013-06-06 02:40:04
+AC-313,76894,AC,Bug,false,Closed,Done,2012-05-30 00:46:07,2013-06-06 02:39:27
+AC-312,76771,AC,Bug,false,Closed,Done,2012-12-02 19:04:14,2013-06-06 02:40:13
+AC-311,76602,AC,Bug,false,Closed,Done,2013-02-28 21:32:07,2013-06-06 02:39:42
+AC-310,76769,AC,Bug,false,Closed,Fixed,2012-12-02 21:18:11,2014-07-07 17:56:54
+AC-309,76576,AC,Bug,false,Closed,Done,2013-03-14 13:45:56,2013-06-06 02:39:38
+AC-308,76741,AC,Bug,false,Closed,Done,2013-01-09 22:33:33,2013-06-06 02:39:59
+AC-307,76677,AC,Bug,false,Closed,Done,2013-01-29 11:38:05,2013-06-06 02:39:20
+AC-306,76847,AC,Bug,false,Closed,Done,2012-11-22 03:16:11,2013-06-06 02:39:39
+AC-305,76865,AC,Bug,false,Closed,Done,2012-08-09 01:05:57,2013-06-06 02:39:47
+AC-304,76592,AC,Bug,false,Closed,Done,2013-03-06 15:23:02,2013-06-06 02:39:51
+AC-303,76857,AC,Bug,false,Closed,Done,2012-10-16 01:07:49,2013-06-06 02:39:18
+AC-302,76570,AC,Bug,false,Closed,Done,2013-03-21 13:52:20,2013-06-06 02:40:05
+AC-301,76825,AC,Bug,false,Under Review,,2012-12-06 17:29:55,
+AC-300,76856,AC,Bug,false,Closed,Done,2012-10-16 19:26:08,2013-06-06 02:39:17
+AC-299,76585,AC,Bug,false,Closed,Done,2013-03-11 16:35:58,2013-06-06 02:39:36
+AC-298,76930,AC,Bug,false,Closed,Done,2012-03-22 05:29:35,2013-06-06 02:39:46
+AC-297,76874,AC,Bug,false,Closed,Done,2012-07-03 06:37:13,2013-06-06 02:39:55
+AC-296,76611,AC,Bug,false,Closed,Done,2013-02-26 13:31:43,2013-06-06 02:39:58
+AC-295,76705,AC,Bug,false,Closed,Done,2013-01-21 18:12:00,2013-06-06 02:39:49
+AC-294,76590,AC,Bug,false,Closed,Done,2013-03-07 09:25:14,2013-06-06 02:39:48
+AC-293,76547,AC,Bug,false,Closed,Timed out,2013-05-11 10:19:50,2013-11-27 00:14:07
+AC-292,76750,AC,Bug,false,Closed,Done,2013-01-08 02:18:04,2013-06-06 02:40:04
+AC-291,76866,AC,Bug,false,Closed,Done,2012-07-30 00:50:12,2013-06-06 02:39:24
+AC-290,76704,AC,Bug,false,Closed,Done,2013-01-21 18:14:16,2013-06-06 02:39:49
+AC-289,76936,AC,Bug,false,Closed,Done,2012-01-10 17:55:03,2013-06-06 02:39:19
+AC-288,76845,AC,Bug,false,Closed,Obsolete,2012-11-27 05:16:56,2013-12-03 16:47:27
+AC-287,76612,AC,Bug,false,Closed,Obsolete,2013-02-26 12:37:57,2013-09-17 17:57:30
+AC-286,76623,AC,Bug,false,Closed,Done,2013-02-18 07:49:34,2013-06-06 02:39:21
+AC-285,76615,AC,Bug,false,Closed,Done,2013-02-22 16:23:37,2013-06-06 02:39:45
+AC-284,76734,AC,Bug,false,Closed,Done,2013-01-09 23:42:53,2013-06-06 02:39:34
+AC-283,76577,AC,Bug,false,Closed,Done,2013-03-13 10:31:07,2013-06-06 02:40:08
+AC-282,76873,AC,Bug,false,Closed,Done,2012-07-04 07:36:17,2013-06-06 02:40:11
+AC-281,76564,AC,Bug,false,Closed,Fixed,2013-04-04 13:42:35,2013-07-01 16:36:58
+AC-280,76715,AC,Bug,false,Closed,Done,2013-01-16 00:09:15,2013-06-06 02:39:37
+AC-279,76595,AC,Bug,false,Closed,Done,2013-03-05 15:34:35,2013-06-06 02:39:21
+AC-278,76642,AC,Bug,false,Closed,Done,2013-02-13 07:06:54,2013-06-06 02:39:59
+AC-277,76937,AC,Bug,false,Closed,Done,2012-01-05 13:56:59,2013-06-06 02:39:39
+AC-276,76587,AC,Bug,false,Closed,Done,2013-03-08 12:30:47,2013-06-06 02:39:45
+AC-275,76888,AC,Bug,false,Closed,Done,2012-06-20 21:30:52,2013-06-06 02:40:02
+AC-274,76594,AC,Bug,false,Closed,Done,2013-03-06 07:34:27,2013-06-06 02:40:00
+AC-273,76674,AC,Bug,false,Closed,Done,2013-01-29 18:16:29,2013-06-06 02:39:53
+AC-272,76893,AC,Bug,false,Closed,Done,2012-06-07 12:41:06,2013-06-06 02:39:59
+AC-271,76557,AC,Bug,false,Closed,Done,2013-04-25 12:35:13,2013-06-06 02:39:21
+AC-270,76622,AC,Bug,false,Closed,Done,2013-02-18 18:34:58,2013-06-06 02:39:26
+AC-269,76593,AC,Bug,false,Closed,Done,2013-03-06 07:35:48,2013-06-06 02:39:55
+AC-268,76889,AC,Bug,false,Closed,Done,2012-06-20 16:34:56,2013-06-06 02:39:41
+AC-267,76673,AC,Bug,false,Closed,Done,2013-01-30 14:41:11,2013-06-06 02:40:03
+AC-266,76890,AC,Bug,false,Closed,Done,2012-06-19 15:43:55,2013-06-06 02:39:22
+AC-265,76839,AC,Bug,false,Closed,Done,2012-11-29 09:38:50,2013-06-06 02:39:26
+AC-264,76923,AC,Bug,false,Closed,Done,2012-04-09 23:11:08,2013-06-06 02:39:20
+AC-263,76563,AC,Bug,false,Closed,Fixed,2013-04-15 08:16:13,2013-07-01 00:43:07
+AC-262,76693,AC,Bug,false,Closed,Done,2013-01-23 19:16:50,2013-06-06 02:40:09
+AC-261,76860,AC,Bug,false,Closed,Done,2012-09-27 05:12:46,2013-06-06 02:39:22
+AC-260,76550,AC,Bug,false,Closed,Obsolete,2013-05-02 15:04:46,2014-03-05 21:51:17
+AC-259,76607,AC,Bug,false,Closed,Done,2013-02-27 13:49:18,2013-06-06 02:40:09
+AC-258,76588,AC,Bug,false,Closed,Done,2013-03-07 15:37:24,2013-06-06 02:39:54
+AC-257,76945,AC,Bug,false,Closed,Done,2011-12-20 18:22:11,2013-06-06 02:39:49
+AC-256,76742,AC,Bug,false,Closed,Done,2013-01-09 21:50:09,2013-06-06 02:39:34
+AC-255,76903,AC,Bug,false,Closed,Done,2012-05-21 10:35:40,2013-06-06 02:40:08
+AC-254,76899,AC,Bug,false,Closed,Done,2012-05-25 14:19:48,2013-06-06 02:39:37
+AC-253,76869,AC,Bug,false,Closed,Done,2012-07-23 02:26:43,2013-06-06 02:40:09
+AC-252,76703,AC,Bug,false,Closed,Done,2013-01-21 23:27:39,2013-06-06 02:39:17
+AC-251,76636,AC,Bug,false,Closed,Done,2013-02-13 16:41:47,2013-06-06 02:39:45
+AC-250,76578,AC,Bug,false,Closed,Done,2013-03-13 01:28:47,2013-06-06 02:39:34
+AC-249,76620,AC,Bug,false,Closed,Done,2013-02-19 09:37:14,2013-06-06 02:39:33
+AC-248,76701,AC,Bug,false,Closed,Done,2013-01-22 16:33:53,2013-06-06 02:39:56
+AC-247,76912,AC,Bug,false,Closed,Done,2012-04-19 12:37:30,2013-06-06 02:39:39
+AC-246,76694,AC,Bug,false,Closed,Done,2013-01-23 16:51:41,2013-06-06 02:40:07
+AC-245,76931,AC,Bug,false,Closed,Done,2012-03-08 07:45:54,2013-06-06 02:39:41
+AC-244,76863,AC,Bug,false,Closed,Done,2012-09-10 12:22:05,2013-06-06 02:39:19
+AC-243,76851,AC,Bug,false,Closed,Done,2012-11-14 07:52:11,2013-06-06 02:39:42
+AC-242,76827,AC,Bug,false,Closed,Done,2012-12-06 10:34:32,2013-06-06 02:39:25
+AC-241,76559,AC,Bug,false,Closed,Won't Fix,2013-04-25 00:08:51,2013-07-01 00:44:00
+AC-240,76812,AC,Bug,false,Closed,Obsolete,2012-12-19 14:39:11,2013-07-10 22:16:06
+AC-239,76855,AC,Bug,false,Closed,Done,2012-10-31 15:28:08,2013-06-06 02:39:48
+AC-238,76944,AC,Bug,false,Closed,Done,2011-12-20 22:48:19,2013-06-06 02:40:09
+AC-237,76600,AC,Bug,false,Closed,Done,2013-02-28 22:54:56,2013-06-06 02:40:02
+AC-236,76603,AC,Bug,false,Closed,Done,2013-02-28 17:45:59,2013-06-06 02:39:56
+AC-235,76699,AC,Bug,false,Closed,Done,2013-01-22 17:46:26,2013-06-06 02:39:38
+AC-234,76940,AC,Bug,false,Closed,Done,2011-12-21 23:19:04,2013-06-06 02:39:55
+AC-233,76605,AC,Bug,false,Closed,Done,2013-02-28 17:42:21,2013-06-06 02:40:01
+AC-232,76906,AC,Bug,false,Closed,Done,2012-04-22 21:04:55,2013-06-06 02:39:29
+AC-231,76870,AC,Bug,false,Closed,Fixed,2012-07-20 12:48:49,2013-06-26 07:39:50
+AC-230,76892,AC,Bug,false,Closed,Done,2012-06-12 19:32:09,2013-06-06 02:39:27
+AC-229,76692,AC,Bug,false,Closed,Done,2013-01-23 20:26:38,2013-06-06 02:40:01
+AC-228,76614,AC,Bug,false,Closed,Done,2013-02-25 14:10:06,2013-06-06 02:39:38
+AC-227,76586,AC,Bug,false,Closed,Done,2013-03-10 23:34:14,2013-06-06 02:39:51
+AC-226,76626,AC,Bug,false,Closed,Done,2013-02-15 11:57:29,2013-06-06 02:39:39
+AC-225,76665,AC,Bug,false,Closed,Done,2013-02-04 05:08:10,2013-06-06 02:39:52
+AC-224,76582,AC,Bug,false,Closed,Cannot Reproduce,2013-03-12 12:03:35,2014-08-04 01:33:55
+AC-223,76687,AC,Bug,false,Closed,Done,2013-01-24 15:50:58,2013-06-06 02:39:46
+AC-222,76872,AC,Bug,false,Closed,Done,2012-07-06 02:33:05,2013-06-06 02:39:21
+AC-221,76568,AC,Bug,false,Closed,Done,2013-03-25 13:41:01,2013-06-06 02:39:59
+AC-220,76599,AC,Bug,false,Closed,Done,2013-03-01 03:55:39,2013-06-06 02:39:32
+AC-219,76548,AC,Bug,false,Closed,Fixed,2013-05-11 00:32:48,2013-06-06 03:23:03
+AC-218,76902,AC,Bug,false,Closed,Done,2012-05-21 10:36:14,2013-06-06 02:39:30
+AC-217,76629,AC,Bug,false,Closed,Done,2013-02-14 14:33:44,2013-06-06 02:39:41
+AC-216,76628,AC,Bug,false,Closed,Done,2013-02-14 14:33:52,2013-06-06 02:39:58
+AC-215,76859,AC,Bug,false,Closed,Done,2012-10-03 19:48:01,2013-06-06 02:39:49
+AC-214,76743,AC,Bug,false,Closed,Done,2013-01-09 21:42:02,2013-06-06 02:39:37
+AC-213,76895,AC,Bug,false,Closed,Answered,2012-05-26 04:08:05,2013-06-10 23:34:15
+AC-211,77293,AC,New Feature,false,Closed,Duplicate,2013-06-04 18:23:47,2013-07-15 00:57:47
+AC-210,77292,AC,New Feature,false,Closed,Fixed,2013-06-04 18:21:56,2014-07-07 18:28:50
+AC-207,77287,AC,New Feature,false,Closed,Duplicate,2013-06-04 18:02:19,2014-09-04 20:14:55
+AC-206,77248,AC,New Feature,false,Closed,Fixed,2013-06-03 18:26:01,2014-02-03 16:33:22
+AC-205,76983,AC,New Feature,false,Closed,Obsolete,2013-05-29 02:28:56,2013-10-21 04:22:04
+AC-204,76969,AC,New Feature,false,New,,2013-05-28 19:33:51,
+AC-203,76538,AC,New Feature,false,Closed,Fixed,2013-05-27 23:05:31,2013-07-30 18:11:11
+AC-202,76537,AC,New Feature,false,Closed,Answered,2013-05-27 23:01:00,2013-07-22 22:15:36
+AC-201,76528,AC,New Feature,false,Closed,Tracked Elsewhere,2013-05-27 17:32:28,2013-07-22 22:11:57
+AC-200,76460,AC,Bug,false,Closed,Duplicate,2013-05-24 08:44:14,2013-06-05 13:30:23
+AC-199,76311,AC,Bug,false,Closed,Obsolete,2013-05-20 01:10:58,2013-11-11 15:26:55
+AC-198,76251,AC,New Feature,false,Closed,Won't Fix,2013-05-16 14:40:50,2013-07-16 17:22:29
+AC-197,76230,AC,Improvement,false,Closed,Won't Fix,2013-05-15 23:30:18,2017-01-03 01:19:01
+AC-196,76210,AC,Bug,false,Closed,Incomplete,2013-05-15 19:07:22,2013-06-14 00:37:20
+AC-195,76146,AC,Improvement,false,Closed,Fixed,2013-05-13 20:19:27,2013-07-30 18:10:27

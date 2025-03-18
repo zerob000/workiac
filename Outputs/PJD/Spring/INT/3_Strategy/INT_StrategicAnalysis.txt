@@ -1,0 +1,73 @@
+
+System Name: INT
+System Duration (Captured): 4962 days
+
+Calculated Final System Size: 131 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 131 PBIs
+
+Model Final System Size: 618 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 618 PBIs
+
+% Error, Final backlog, model vs actual: 372.0%
+Error, Final backlog, model vs actual: 487 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 2559 PBIs
+Total Unplanned Arrivals: 1673 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 460 PBIs
+Total Net Arrivals: 3772 PBIs
+Total Services: 3641 PBIs
+
+Rates:
+Planned Arrival Rate: 0.713 PBIs/day
+Unplanned Arrival Rate: 0.447 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.105 PBIs/day
+Net Arrival Rate: 1.055 PBIs/day
+Service Rate: 0.939 PBIs/day
+
+
+Metrics:
+Stability: 0.89
+Quality: 0.615
+Control: 0.909
+Inventory Days: 139.51 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 95 days
+
+Calculated Final System Size: 131 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 131 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 0 PBIs
+Unplanned Arrivals in this period: 0 PBIs
+Cancelled/Rejected/Won't Do  in this period: 28 PBIs
+System size change in this period: -32 PBIs
+Net Arrivals in this period: -28 PBIs
+Services in this period: 3 PBIs
+
+Rates:
+Planned Arrival Rate: NaN PBIs/day
+Unplanned Arrival Rate: NaN PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.545 PBIs/day
+Net Arrival Rate: -0.545 PBIs/day
+Service Rate: 0.036 PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

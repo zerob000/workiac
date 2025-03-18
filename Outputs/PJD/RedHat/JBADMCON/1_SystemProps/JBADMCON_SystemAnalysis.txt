@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2005-01-06 17:06:30 End date: 2020-11-02 12:10:47
+System: {'JBADMCON': 105}
+Types: {'Bug': 31, 'Feature Request': 36, 'Enhancement': 2, 'Patch': 8, 'Task': 28}
+Resolutions: {'': 55, 'Rejected': 2, 'Duplicate Issue': 3, 'Done': 43, 'Cannot Reproduce': 1, "Won't Fix": 1}
+Statuses: {'Open': 54, 'Closed': 23, 'Resolved': 27, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 68.0 days
+Average Lead Time (Feature Request): 91.1 days
+Average Lead Time (Bug): 47.0 days
+Average Lead Time (Patch): 66.2 days
+Average Lead Time (Task): 77.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-07-25 12:10:47 End date: 2020-11-02 12:10:47
+System: {'JBADMCON': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

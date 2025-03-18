@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2009-02-17 16:48:26 End date: 2021-01-25 16:52:49
+System: {'MDEV': 21960}
+Types: {'Bug': 17828, 'Task': 4132}
+Resolutions: {'Not a Bug': 1197, 'Fixed': 11437, 'Cannot Reproduce': 415, '': 6188, 'Duplicate': 1280, 'Incomplete': 669, "Won't Fix": 660, 'Done': 57, "Won't Do": 57}
+Statuses: {'Closed': 15772, 'In Progress': 233, 'Open': 4891, 'Confirmed': 565, 'In Review': 115, 'Stalled': 384}
+
+Average Lead Time (all PBIs): 175.7 days
+Average Lead Time (Bug): 169.7 days
+Average Lead Time (Task): 209.4 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-10-17 16:52:49 End date: 2021-01-25 16:52:49
+System: {'MDEV': 1017}
+Types: {'Task': 113, 'Bug': 904}
+Resolutions: {'Duplicate': 70, 'Fixed': 363, "Won't Fix": 38, 'Cannot Reproduce': 20, 'Incomplete': 53, 'Not a Bug': 28, "Won't Do": 2, 'Done': 3, '': 440}
+Statuses: {'Closed': 577, 'Open': 369, 'Confirmed': 34, 'In Review': 10, 'In Progress': 13, 'Stalled': 14}
+
+Average Lead Time (all PBIs): 378.4 days
+Average Lead Time (Task): 541.8 days
+Average Lead Time (Bug): 363.5 days

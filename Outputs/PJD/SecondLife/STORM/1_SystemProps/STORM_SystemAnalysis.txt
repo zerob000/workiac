@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2007-05-05 22:13:19 End date: 2021-05-21 12:23:44
+System: {'STORM': 1291}
+Types: {'Defect': 975, 'Story': 316}
+Resolutions: {"Won't Finish": 102, 'Fixed': 704, '': 70, 'Released': 146, 'Accepted': 8, 'Incomplete': 145, 'Triaged': 2, 'Expected Behavior': 1, 'Cannot Reproduce': 2, 'Duplicate': 69, 'Not Applicable': 41, 'Unactionable': 1}
+Statuses: {'Closed': 1150, 'Open': 67, 'Pending Release': 5, 'Approved': 1, 'Needs More Info': 17, 'Reviewing': 14, 'In Progress': 2, 'Product Review': 35}
+
+Average Lead Time (all PBIs): 202.5 days
+Average Lead Time (Defect): 175.2 days
+Average Lead Time (Story): 285.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-02-10 12:23:44 End date: 2021-05-21 12:23:44
+System: {'STORM': 5}
+Types: {'Story': 3, 'Defect': 2}
+Resolutions: {'Incomplete': 2, 'Released': 1, "Won't Finish": 1, 'Not Applicable': 1}
+Statuses: {'Needs More Info': 2, 'Closed': 3}
+
+Average Lead Time (all PBIs): 2606.8 days
+Average Lead Time (Story): 2296.3 days
+Average Lead Time (Defect): 3072.5 days

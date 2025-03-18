@@ -1,0 +1,73 @@
+
+System Name: RHPAM
+System Duration (Captured): 3169 days
+
+Calculated Final System Size: 324 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 324 PBIs
+
+Model Final System Size: 294 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 294 PBIs
+
+% Error, Final backlog, model vs actual: 9.0%
+Error, Final backlog, model vs actual: -30 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 578 PBIs
+Total Unplanned Arrivals: 2295 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 143 PBIs
+Total Net Arrivals: 2730 PBIs
+Total Services: 2406 PBIs
+
+Rates:
+Planned Arrival Rate: 0.335 PBIs/day
+Unplanned Arrival Rate: 1.303 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.091 PBIs/day
+Net Arrival Rate: 1.547 PBIs/day
+Service Rate: 1.564 PBIs/day
+
+
+Metrics:
+Stability: 1.011
+Quality: 0.205
+Control: 0.944
+Inventory Days: 207.161 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 97 days
+
+Calculated Final System Size: 324 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 324 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 31 PBIs
+Unplanned Arrivals in this period: 83 PBIs
+Cancelled/Rejected/Won't Do  in this period: 13 PBIs
+System size change in this period: 37 PBIs
+Net Arrivals in this period: 101 PBIs
+Services in this period: 65 PBIs
+
+Rates:
+Planned Arrival Rate: 0.374 PBIs/day
+Unplanned Arrival Rate: 0.954 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.118 PBIs/day
+Net Arrival Rate: 1.222 PBIs/day
+Service Rate: 0.799 PBIs/day
+
+Metrics:
+Stability: 0.66
+Quality: 0.282
+Control: 0.911
+Inventory Days: 405.507 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

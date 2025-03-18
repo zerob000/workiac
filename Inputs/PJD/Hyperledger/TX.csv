@@ -1,0 +1,54 @@
+Key,ID,Project,IssueType,IsSubtask,Status,Resolution,Created Date,Resolved Date
+TX-57,43532,TX,New Feature,false,Done,Done,2019-12-03 19:00:51,2020-02-11 15:35:10
+TX-56,42650,TX,New Feature,false,In Review,,2019-10-07 14:57:29,
+TX-55,42649,TX,New Feature,false,In Progress,,2019-10-07 14:55:57,
+TX-54,42432,TX,New Feature,false,Done,Done,2019-09-19 21:24:22,2019-10-07 15:06:01
+TX-53,42180,TX,Improvement,false,Backlog,,2019-09-03 18:08:36,
+TX-52,41102,TX,New Feature,false,Backlog,,2019-07-11 20:06:55,
+TX-51,40524,TX,New Feature,false,Done,Done,2019-06-11 15:16:48,2019-09-04 13:57:48
+TX-50,40474,TX,New Feature,false,Done,Done,2019-06-07 17:24:31,2019-06-17 20:20:04
+TX-49,40449,TX,New Feature,false,Done,Done,2019-06-06 16:33:48,2019-07-11 19:01:38
+TX-48,40331,TX,Improvement,false,Backlog,,2019-06-03 19:30:24,
+TX-47,40328,TX,Improvement,false,Backlog,,2019-06-03 19:28:33,
+TX-46,40327,TX,Improvement,false,Backlog,,2019-06-03 19:27:14,
+TX-45,40326,TX,New Feature,false,Backlog,,2019-06-03 19:25:40,
+TX-44,40324,TX,Improvement,false,Backlog,,2019-06-03 19:23:59,
+TX-43,40323,TX,Improvement,false,Backlog,,2019-06-03 19:21:38,
+TX-42,40322,TX,Improvement,false,Backlog,,2019-06-03 19:18:31,
+TX-41,40321,TX,Improvement,false,Backlog,,2019-06-03 19:17:34,
+TX-40,40319,TX,Improvement,false,Backlog,,2019-06-03 19:16:36,
+TX-39,40318,TX,Improvement,false,Backlog,,2019-06-03 19:16:04,
+TX-38,40317,TX,Improvement,false,Backlog,,2019-06-03 19:15:34,
+TX-37,40316,TX,Improvement,false,Backlog,,2019-06-03 19:10:58,
+TX-36,40315,TX,Improvement,false,Backlog,,2019-06-03 19:10:34,
+TX-35,40314,TX,Improvement,false,Backlog,,2019-06-03 19:08:34,
+TX-34,40313,TX,Improvement,false,Backlog,,2019-06-03 19:08:20,
+TX-33,40312,TX,Improvement,false,Backlog,,2019-06-03 19:06:23,
+TX-32,40311,TX,Improvement,false,Backlog,,2019-06-03 19:05:12,
+TX-31,40310,TX,Improvement,false,Backlog,,2019-06-03 19:00:19,
+TX-30,40308,TX,New Feature,false,Backlog,,2019-06-03 18:55:32,
+TX-29,40307,TX,Improvement,false,In Progress,,2019-06-03 18:54:29,
+TX-28,40306,TX,Improvement,false,Backlog,,2019-06-03 18:53:07,
+TX-27,40305,TX,New Feature,false,Done,Done,2019-06-03 18:51:24,2019-06-24 13:19:28
+TX-26,40303,TX,Improvement,false,In Progress,,2019-06-03 18:40:21,
+TX-24,40047,TX,Task,false,Done,Done,2019-05-21 20:05:15,2019-06-11 14:41:58
+TX-23,40027,TX,Improvement,false,Done,Done,2019-05-21 15:54:47,2019-07-17 14:31:49
+TX-22,39997,TX,Task,false,Backlog,,2019-05-21 14:28:03,
+TX-21,39995,TX,Task,false,Done,Done,2019-05-21 14:27:16,2019-06-03 14:21:22
+TX-20,39994,TX,Task,false,Done,Done,2019-05-21 14:24:53,2019-06-05 14:23:37
+TX-19,39993,TX,Task,false,Done,Done,2019-05-21 14:24:03,2019-06-26 14:31:34
+TX-18,39992,TX,Task,false,Done,Done,2019-05-21 14:22:57,2019-05-23 14:02:58
+TX-17,39991,TX,New Feature,false,Backlog,,2019-05-21 14:21:37,
+TX-16,39990,TX,Task,false,Done,Done,2019-05-21 14:20:59,2019-06-26 14:31:18
+TX-15,39988,TX,New Feature,false,Backlog,,2019-05-21 14:19:49,
+TX-14,39989,TX,Task,false,Done,Done,2019-05-21 14:19:52,2019-06-26 14:31:02
+TX-13,39986,TX,New Feature,false,Backlog,,2019-05-21 14:18:41,
+TX-12,39985,TX,Task,false,Done,Done,2019-05-21 14:18:17,2019-05-23 13:54:04
+TX-11,39984,TX,Task,false,Done,Done,2019-05-21 14:17:02,2019-06-26 14:30:57
+TX-10,39958,TX,Improvement,false,Done,Done,2019-05-20 21:04:50,2019-06-14 15:15:09
+TX-9,39957,TX,Improvement,false,In Review,,2019-05-20 20:57:29,
+TX-8,39956,TX,Improvement,false,In Review,,2019-05-20 20:56:11,
+TX-7,39955,TX,Improvement,false,In Review,,2019-05-20 20:49:11,
+TX-6,39954,TX,Improvement,false,Done,Done,2019-05-20 20:40:50,2019-06-04 17:33:40
+TX-4,39952,TX,Improvement,false,Done,Done,2019-05-20 20:37:24,2019-06-04 16:35:58
+TX-1,39837,TX,Improvement,false,Done,Done,2019-05-15 20:03:48,2019-05-20 20:38:16

@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2011-02-07 04:18:42 End date: 2015-01-08 20:12:31
+System: {'SKE': 181}
+Types: {'Bug': 145, 'Idea / Feature request': 1, 'Feature Request': 31, 'Task': 2, 'Enhancement': 2}
+Resolutions: {'': 42, 'Non-Issue': 7, 'Incomplete': 1, 'Fixed': 107, "Won't Fix": 8, 'Duplicate': 5, 'Cannot Reproduce': 11}
+Statuses: {'Awaiting Review': 33, 'Resolved': 19, 'Open': 8, 'Closed': 104, 'Verified': 16, 'Awaiting Information': 1}
+
+Average Lead Time (all PBIs): 49.1 days
+Average Lead Time (Idea / Feature request): 25.0 days
+Average Lead Time (Bug): 47.2 days
+Average Lead Time (Feature Request): 58.0 days
+Average Lead Time (Task): 91.0 days
+Average Lead Time (Enhancement): 6.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2014-09-30 20:12:31 End date: 2015-01-08 20:12:31
+System: {'SKE': 3}
+Types: {'Bug': 2, 'Idea / Feature request': 1}
+Resolutions: {'': 2, 'Non-Issue': 1}
+Statuses: {'Awaiting Review': 1, 'Resolved': 1, 'Open': 1}
+
+Average Lead Time (all PBIs): 25.0 days
+Average Lead Time (Idea / Feature request): 25.0 days

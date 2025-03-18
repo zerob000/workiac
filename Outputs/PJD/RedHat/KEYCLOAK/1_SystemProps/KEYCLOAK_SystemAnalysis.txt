@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2013-07-09 11:43:44 End date: 2022-01-04 15:39:21
+System: {'KEYCLOAK': 14477}
+Types: {'Enhancement': 2434, 'Bug': 7438, 'Feature Request': 1751, 'Task': 2718, 'Story': 136}
+Resolutions: {'Duplicate Issue': 820, 'Cannot Reproduce': 327, '': 903, 'Done': 7668, 'Explained': 282, "Won't Do": 132, 'Out of Date': 2087, 'Duplicate': 40, 'Not a Bug': 38, 'Migrated to another ITS': 25, 'Rejected': 1357, "Won't Fix": 275, 'Deferred': 398, 'Next Release': 1, 'Incomplete Description': 110, 'Fixed': 4, 'Obsolete': 4, 'Errata': 1, 'Resolved at Apache': 1, 'Partially Completed': 4}
+Statuses: {'Closed': 13130, 'Triage': 447, 'Open': 345, 'Coding In Progress': 10, 'Resolved': 444, 'Pull Request Sent': 53, 'Plan': 48}
+
+Average Lead Time (all PBIs): 166.4 days
+Average Lead Time (Enhancement): 253.6 days
+Average Lead Time (Bug): 91.3 days
+Average Lead Time (Task): 175.2 days
+Average Lead Time (Story): 289.8 days
+Average Lead Time (Feature Request): 344.9 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 15:39:21 End date: 2022-01-04 15:39:21
+System: {'KEYCLOAK': 1427}
+Types: {'Enhancement': 395, 'Bug': 458, 'Feature Request': 279, 'Task': 273, 'Story': 22}
+Resolutions: {'Duplicate Issue': 15, 'Cannot Reproduce': 6, '': 195, 'Done': 184, 'Explained': 8, "Won't Do": 8, 'Out of Date': 980, 'Duplicate': 2, 'Not a Bug': 6, 'Migrated to another ITS': 5, 'Rejected': 10, "Won't Fix": 2, 'Deferred': 3, 'Next Release': 1, 'Fixed': 1, 'Incomplete Description': 1}
+Statuses: {'Closed': 1063, 'Triage': 157, 'Open': 26, 'Coding In Progress': 4, 'Resolved': 169, 'Pull Request Sent': 5, 'Plan': 3}
+
+Average Lead Time (all PBIs): 445.6 days
+Average Lead Time (Enhancement): 480.8 days
+Average Lead Time (Bug): 299.3 days
+Average Lead Time (Task): 504.5 days
+Average Lead Time (Story): 730.0 days
+Average Lead Time (Feature Request): 511.2 days

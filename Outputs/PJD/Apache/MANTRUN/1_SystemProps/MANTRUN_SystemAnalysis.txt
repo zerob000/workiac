@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2005-06-21 10:45:05 End date: 2021-11-04 16:10:48
+System: {'MANTRUN': 202}
+Types: {'Bug': 124, 'Task': 10, 'Improvement': 37, 'Dependency upgrade': 11, 'Test': 1, 'Wish': 3, 'New Feature': 16}
+Resolutions: {'': 7, 'Information Provided': 1, 'Fixed': 90, 'Not A Problem': 18, 'Duplicate': 26, 'Done': 7, 'Cannot Reproduce': 16, 'Workaround': 2, 'Incomplete': 6, 'Not A Bug': 1, 'Auto Closed': 3, "Won't Fix": 25}
+Statuses: {'Open': 5, 'In Progress': 1, 'Closed': 195, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 459.6 days
+Average Lead Time (Bug): 556.8 days
+Average Lead Time (Improvement): 286.0 days
+Average Lead Time (Dependency upgrade): 50.5 days
+Average Lead Time (Task): 413.1 days
+Average Lead Time (Test): 73.0 days
+Average Lead Time (Wish): 559.7 days
+Average Lead Time (New Feature): 457.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-07-27 16:10:48 End date: 2021-11-04 16:10:48
+System: {'MANTRUN': 5}
+Types: {'Bug': 4, 'Task': 1}
+Resolutions: {'': 4, 'Information Provided': 1}
+Statuses: {'Open': 3, 'In Progress': 1, 'Closed': 1}
+
+Average Lead Time (all PBIs): 232.0 days
+Average Lead Time (Bug): 232.0 days

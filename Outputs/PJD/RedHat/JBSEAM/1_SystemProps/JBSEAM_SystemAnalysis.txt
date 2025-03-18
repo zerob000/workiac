@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2004-11-26 12:21:34 End date: 2021-05-11 03:53:44
+System: {'JBSEAM': 5012}
+Types: {'Bug': 2627, 'Component Upgrade': 4, 'Feature Request': 1637, 'Enhancement': 15, 'Task': 588, 'Patch': 135, 'Release': 2, 'Quality Risk': 3, 'Support Patch': 1}
+Resolutions: {'': 898, 'Rejected': 342, 'Duplicate Issue': 178, 'Done': 2860, 'Out of Date': 331, 'Deferred': 6, "Won't Fix": 236, 'Partially Completed': 31, 'Cannot Reproduce': 109, 'Incomplete Description': 20, "Won't Do": 1}
+Statuses: {'Open': 876, 'Closed': 4097, 'Resolved': 17, 'Reopened': 22}
+
+Average Lead Time (all PBIs): 166.7 days
+Average Lead Time (Component Upgrade): 841.5 days
+Average Lead Time (Bug): 96.4 days
+Average Lead Time (Enhancement): 308.5 days
+Average Lead Time (Task): 232.6 days
+Average Lead Time (Feature Request): 266.9 days
+Average Lead Time (Patch): 104.8 days
+Average Lead Time (Release): 97.0 days
+Average Lead Time (Quality Risk): 307.7 days
+Average Lead Time (Support Patch): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-01-31 03:53:44 End date: 2021-05-11 03:53:44
+System: {'JBSEAM': 16}
+Types: {'Bug': 3, 'Feature Request': 11, 'Task': 2}
+Resolutions: {'Out of Date': 16}
+Statuses: {'Resolved': 2, 'Closed': 14}
+
+Average Lead Time (all PBIs): 4883.1 days
+Average Lead Time (Bug): 4645.0 days
+Average Lead Time (Feature Request): 4943.5 days
+Average Lead Time (Task): 4907.5 days

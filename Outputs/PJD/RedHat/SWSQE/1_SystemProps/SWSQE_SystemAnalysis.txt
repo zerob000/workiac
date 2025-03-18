@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2018-02-14 11:18:46 End date: 2021-12-15 06:10:12
+System: {'SWSQE': 979}
+Types: {'QE Task': 610, 'Bug': 113, 'Story': 65, 'Task': 187, 'Dev Task': 3, 'Docs Task': 1}
+Resolutions: {'Done': 849, '': 73, 'Out of Date': 25, 'Duplicate Issue': 19, "Won't Do": 5, 'Rejected': 3, 'Duplicate': 2, 'Cannot Reproduce': 3}
+Statuses: {'Resolved': 783, 'Coding In Progress': 16, 'Open': 56, 'Closed': 123, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 38.1 days
+Average Lead Time (QE Task): 33.3 days
+Average Lead Time (Bug): 27.1 days
+Average Lead Time (Story): 102.8 days
+Average Lead Time (Task): 38.4 days
+Average Lead Time (Dev Task): 270.0 days
+Average Lead Time (Docs Task): 3.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-06 06:10:12 End date: 2021-12-15 06:10:12
+System: {'SWSQE': 45}
+Types: {'QE Task': 36, 'Bug': 3, 'Story': 3, 'Task': 3}
+Resolutions: {'Done': 27, '': 12, 'Out of Date': 5, "Won't Do": 1}
+Statuses: {'Resolved': 26, 'Coding In Progress': 7, 'Open': 5, 'Closed': 7}
+
+Average Lead Time (all PBIs): 182.5 days
+Average Lead Time (QE Task): 99.7 days
+Average Lead Time (Bug): 578.7 days
+Average Lead Time (Story): 1.0 days
+Average Lead Time (Task): 564.3 days

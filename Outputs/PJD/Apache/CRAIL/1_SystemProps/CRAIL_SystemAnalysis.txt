@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2018-01-03 02:32:02 End date: 2021-09-16 07:10:00
+System: {'CRAIL': 113}
+Types: {'Bug': 51, 'Wish': 3, 'New Feature': 4, 'Improvement': 55}
+Resolutions: {'': 39, 'Not A Problem': 1, 'Fixed': 71, 'Incomplete': 1, 'Done': 1}
+Statuses: {'Open': 37, 'Closed': 71, 'Reopened': 2, 'Resolved': 3}
+
+Average Lead Time (all PBIs): 32.3 days
+Average Lead Time (Wish): 21.0 days
+Average Lead Time (Bug): 22.2 days
+Average Lead Time (Improvement): 38.8 days
+Average Lead Time (New Feature): 90.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-06-08 07:10:00 End date: 2021-09-16 07:10:00
+System: {'CRAIL': 2}
+Types: {'Bug': 1, 'Wish': 1}
+Resolutions: {'': 1, 'Not A Problem': 1}
+Statuses: {'Open': 1, 'Closed': 1}
+
+Average Lead Time (all PBIs): 0.0 days
+Average Lead Time (Wish): 0.0 days

@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2016-04-08 22:01:42 End date: 2021-12-23 17:13:28
+System: {'OMID': 157}
+Types: {'Wish': 8, 'Bug': 69, 'Task': 33, 'Improvement': 38, 'Test': 3, 'New Feature': 6}
+Resolutions: {'': 33, 'Fixed': 100, 'Duplicate': 5, "Won't Fix": 1, 'Invalid': 1, 'Cannot Reproduce': 1, 'Implemented': 2, 'Done': 11, 'Information Provided': 1, 'Not A Problem': 1, 'Delivered': 1}
+Statuses: {'Open': 30, 'Resolved': 42, 'Closed': 82, 'Reopened': 2, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 74.9 days
+Average Lead Time (Bug): 66.8 days
+Average Lead Time (Task): 60.3 days
+Average Lead Time (Improvement): 75.4 days
+Average Lead Time (Test): 38.7 days
+Average Lead Time (Wish): 189.3 days
+Average Lead Time (New Feature): 199.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-14 17:13:28 End date: 2021-12-23 17:13:28
+System: {'OMID': 4}
+Types: {'Wish': 1, 'Bug': 2, 'Task': 1}
+Resolutions: {'': 2, 'Fixed': 2}
+Statuses: {'Open': 2, 'Resolved': 2}
+
+Average Lead Time (all PBIs): 0.0 days
+Average Lead Time (Bug): 0.0 days
+Average Lead Time (Task): 0.0 days

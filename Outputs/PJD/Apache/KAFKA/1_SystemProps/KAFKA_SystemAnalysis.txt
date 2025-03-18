@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2011-07-19 21:32:09 End date: 2022-01-05 08:35:14
+System: {'KAFKA': 10938}
+Types: {'Improvement': 3304, 'Bug': 6552, 'Task': 333, 'Test': 221, 'New Feature': 436, 'Wish': 92}
+Resolutions: {'': 3399, 'Duplicate': 685, 'Information Provided': 27, 'Not A Bug': 79, 'Fixed': 5522, "Won't Fix": 361, 'Cannot Reproduce': 134, 'Not A Problem': 271, 'Invalid': 178, 'Abandoned': 45, 'Resolved': 19, 'Workaround': 9, 'Done': 25, 'Auto Closed': 116, "Won't Do": 22, 'Implemented': 19, 'Incomplete': 16, 'Later': 5, 'Feedback Received': 2, 'Delivered': 1, 'Pending Closed': 3}
+Statuses: {'Open': 3023, 'Patch Available': 190, 'Resolved': 6899, 'In Progress': 136, 'Closed': 640, 'Reopened': 50}
+
+Average Lead Time (all PBIs): 178.4 days
+Average Lead Time (Bug): 157.7 days
+Average Lead Time (Task): 138.0 days
+Average Lead Time (Test): 143.4 days
+Average Lead Time (Wish): 410.6 days
+Average Lead Time (Improvement): 204.2 days
+Average Lead Time (New Feature): 410.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-27 08:35:14 End date: 2022-01-05 08:35:14
+System: {'KAFKA': 258}
+Types: {'Improvement': 85, 'Bug': 151, 'Task': 8, 'Test': 6, 'New Feature': 5, 'Wish': 3}
+Resolutions: {'': 165, 'Duplicate': 10, 'Information Provided': 1, 'Not A Bug': 2, 'Fixed': 65, "Won't Fix": 2, 'Cannot Reproduce': 3, 'Not A Problem': 2, 'Invalid': 3, 'Abandoned': 1, 'Resolved': 1, 'Later': 1, 'Workaround': 1, 'Done': 1}
+Statuses: {'Open': 137, 'Patch Available': 10, 'Resolved': 91, 'In Progress': 18, 'Closed': 2}
+
+Average Lead Time (all PBIs): 114.7 days
+Average Lead Time (Bug): 80.3 days
+Average Lead Time (Task): 35.7 days
+Average Lead Time (Test): 93.0 days
+Average Lead Time (Wish): 0.0 days
+Average Lead Time (Improvement): 186.4 days
+Average Lead Time (New Feature): 75.0 days

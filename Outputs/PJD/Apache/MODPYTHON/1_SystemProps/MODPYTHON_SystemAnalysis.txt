@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2004-12-14 06:51:53 End date: 2010-05-27 22:23:16
+System: {'MODPYTHON': 253}
+Types: {'Bug': 146, 'Improvement': 57, 'Task': 13, 'New Feature': 32, 'Wish': 5}
+Resolutions: {'': 81, 'Fixed': 163, 'Invalid': 2, "Won't Fix": 5, 'Duplicate': 1, 'Incomplete': 1}
+Statuses: {'Open': 72, 'In Progress': 6, 'Resolved': 1, 'Closed': 171, 'Reopened': 3}
+
+Average Lead Time (all PBIs): 84.3 days
+Average Lead Time (Bug): 60.3 days
+Average Lead Time (Improvement): 102.8 days
+Average Lead Time (New Feature): 129.4 days
+Average Lead Time (Task): 214.8 days
+Average Lead Time (Wish): 189.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2010-02-16 22:23:16 End date: 2010-05-27 22:23:16
+System: {'MODPYTHON': 2}
+Types: {'Bug': 2}
+Resolutions: {'': 2}
+Statuses: {'Open': 2}
+
+No PBIs resolved in last 100 days.

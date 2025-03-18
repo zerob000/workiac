@@ -1,0 +1,35 @@
+All PBIS - Unfiltered 
+Start date: 2004-11-23 04:07:55 End date: 2022-01-04 09:59:26
+System: {'JBPM': 8675}
+Types: {'Bug': 4445, 'Enhancement': 913, 'Task': 1365, 'Feature Request': 1777, 'Component Upgrade': 21, 'Story': 54, 'Patch': 47, 'Release': 19, 'Quality Risk': 29, 'CTS Challenge': 1, 'Support Patch': 4}
+Resolutions: {'': 1624, 'Done': 5167, 'Explained': 64, "Won't Do": 90, 'Not a Bug': 5, 'Duplicate Issue': 274, "Won't Fix": 233, 'Duplicate': 6, 'Cannot Reproduce': 143, 'Rejected': 515, 'Current Release': 1, 'Incomplete Description': 24, 'Obsolete': 1, 'Out of Date': 487, 'Upstream': 2, 'Partially Completed': 10, 'Migrated to another ITS': 1, 'Resolved at Apache': 1, 'Deferred': 26, 'EOL': 1}
+Statuses: {'Open': 1485, 'Pull Request Sent': 87, 'Resolved': 5294, 'Closed': 1757, 'Coding In Progress': 21, 'Reopened': 31}
+
+Average Lead Time (all PBIs): 159.0 days
+Average Lead Time (Bug): 151.3 days
+Average Lead Time (Enhancement): 147.4 days
+Average Lead Time (Feature Request): 208.3 days
+Average Lead Time (Task): 124.3 days
+Average Lead Time (Component Upgrade): 180.5 days
+Average Lead Time (Story): 233.2 days
+Average Lead Time (Quality Risk): 43.0 days
+Average Lead Time (Release): 54.1 days
+Average Lead Time (Patch): 277.4 days
+Average Lead Time (Support Patch): 184.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 09:59:26 End date: 2022-01-04 09:59:26
+System: {'JBPM': 108}
+Types: {'Bug': 65, 'Enhancement': 18, 'Task': 8, 'Feature Request': 11, 'Component Upgrade': 2, 'Story': 4}
+Resolutions: {'': 32, 'Done': 55, 'Explained': 2, "Won't Do": 9, 'Duplicate': 1, 'Not a Bug': 1, 'Out of Date': 6, 'Cannot Reproduce': 1, 'Duplicate Issue': 1}
+Statuses: {'Open': 24, 'Pull Request Sent': 8, 'Resolved': 59, 'Closed': 17}
+
+Average Lead Time (all PBIs): 254.3 days
+Average Lead Time (Bug): 215.5 days
+Average Lead Time (Enhancement): 312.2 days
+Average Lead Time (Feature Request): 36.6 days
+Average Lead Time (Task): 113.8 days
+Average Lead Time (Component Upgrade): 32.5 days
+Average Lead Time (Story): 1165.0 days

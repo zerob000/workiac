@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2013-10-16 16:48:27 End date: 2022-01-04 21:54:23
+System: {'TINKERPOP': 2681}
+Types: {'Improvement': 1913, 'Bug': 758, 'Task': 2, 'New Feature': 3, 'Wish': 1, 'Test': 4}
+Resolutions: {'': 181, 'Not A Problem': 41, 'Fixed': 815, 'Done': 1006, 'Invalid': 74, 'Not A Bug': 27, "Won't Do": 137, 'Duplicate': 71, 'Cannot Reproduce': 20, 'Feedback Received': 1, 'Workaround': 3, 'Information Provided': 2, "Won't Fix": 153, 'Incomplete': 9, 'Implemented': 132, 'Later': 7, 'Abandoned': 2}
+Statuses: {'Open': 176, 'Closed': 2499, 'Reopened': 5, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 143.1 days
+Average Lead Time (Bug): 66.4 days
+Average Lead Time (Improvement): 174.9 days
+Average Lead Time (Task): 1.0 days
+Average Lead Time (New Feature): 0.0 days
+Average Lead Time (Wish): 0.0 days
+Average Lead Time (Test): 3.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 21:54:23 End date: 2022-01-04 21:54:23
+System: {'TINKERPOP': 73}
+Types: {'Improvement': 54, 'Bug': 19}
+Resolutions: {'': 30, 'Not A Problem': 2, 'Fixed': 12, 'Done': 25, 'Invalid': 1, 'Not A Bug': 2, "Won't Do": 1}
+Statuses: {'Open': 29, 'Closed': 43, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 70.0 days
+Average Lead Time (Bug): 106.7 days
+Average Lead Time (Improvement): 52.2 days

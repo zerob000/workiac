@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2011-08-14 05:43:28 End date: 2021-01-31 22:02:30
+System: {'DASH': 380}
+Types: {'Bug': 249, 'Roadmap item': 2, 'Task': 114, 'Feature Request': 13, '(Deprecated) Contributed Patch': 2}
+Resolutions: {'': 76, 'Non-Issue': 20, 'Fixed': 243, 'Incorporated': 15, 'Duplicate': 11, 'Cannot Reproduce': 8, 'Done': 1, "Won't Fix": 5, 'No Resources': 1}
+Statuses: {'Open': 74, 'Closed': 271, 'Awaiting Review': 3, 'Verified': 24, 'Resolved': 8}
+
+Average Lead Time (all PBIs): 44.2 days
+Average Lead Time (Bug): 50.2 days
+Average Lead Time (Task): 26.5 days
+Average Lead Time (Feature Request): 86.3 days
+Average Lead Time ((Deprecated) Contributed Patch): 258.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-10-23 22:02:30 End date: 2021-01-31 22:02:30
+System: {'DASH': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

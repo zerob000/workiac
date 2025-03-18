@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2006-04-20 03:46:22 End date: 2021-02-11 03:27:19
+System: {'TRINIDAD': 2543}
+Types: {'Bug': 1700, 'Improvement': 618, 'Wish': 28, 'New Feature': 142, 'Task': 48, 'Test': 7}
+Resolutions: {'': 699, 'Fixed': 1585, 'Duplicate': 75, 'Invalid': 92, 'Not A Problem': 8, "Won't Fix": 45, 'Cannot Reproduce': 29, 'Incomplete': 7, 'Abandoned': 1, 'Later': 2}
+Statuses: {'Open': 595, 'Resolved': 287, 'Closed': 1557, 'Patch Available': 82, 'Reopened': 18, 'In Progress': 4}
+
+Average Lead Time (all PBIs): 93.3 days
+Average Lead Time (Bug): 91.0 days
+Average Lead Time (Improvement): 89.5 days
+Average Lead Time (New Feature): 118.1 days
+Average Lead Time (Wish): 158.1 days
+Average Lead Time (Task): 141.2 days
+Average Lead Time (Test): 111.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-11-03 03:27:19 End date: 2021-02-11 03:27:19
+System: {'TRINIDAD': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

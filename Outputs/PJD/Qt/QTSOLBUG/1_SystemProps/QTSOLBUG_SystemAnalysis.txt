@@ -1,0 +1,22 @@
+All PBIS - Unfiltered 
+Start date: 2005-08-09 02:46:00 End date: 2021-10-26 05:11:30
+System: {'QTSOLBUG': 196}
+Types: {'Bug': 125, 'Task': 8, 'Suggestion': 63}
+Resolutions: {'': 150, 'Invalid': 5, 'Done': 20, 'Cannot Reproduce': 3, 'Duplicate': 8, 'Out of scope': 10}
+Statuses: {'Reported': 103, 'Closed': 46, 'Open': 47}
+
+Average Lead Time (all PBIs): 666.6 days
+Average Lead Time (Bug): 570.7 days
+Average Lead Time (Suggestion): 1122.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-07-18 05:11:30 End date: 2021-10-26 05:11:30
+System: {'QTSOLBUG': 1}
+Types: {'Bug': 1}
+Resolutions: {'Duplicate': 1}
+Statuses: {'Closed': 1}
+
+Average Lead Time (all PBIs): 4319.0 days
+Average Lead Time (Bug): 4319.0 days

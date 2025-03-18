@@ -1,0 +1,36 @@
+All PBIS - Unfiltered 
+Start date: 2012-10-30 17:45:03 End date: 2022-01-05 00:11:54
+System: {'IMPALA': 9845}
+Types: {'Improvement': 2526, 'Bug': 6027, 'Task': 522, 'New Feature': 605, 'Documentation': 50, 'Question': 21, 'Wish': 4, 'Test': 81, 'Dependency upgrade': 2, 'Request': 1, 'Umbrella': 1, 'Story': 3, 'Project': 2}
+Resolutions: {'': 1943, 'Resolved': 18, 'Fixed': 5514, 'Duplicate': 849, 'Implemented': 27, 'Abandoned': 3, 'Done': 32, 'Invalid': 64, 'Not A Bug': 268, 'Not A Problem': 41, 'Cannot Reproduce': 347, "Won't Fix": 359, 'Information Provided': 49, "Won't Do": 51, 'Later': 124, 'Workaround': 13, 'Incomplete': 45, 'Feedback Received': 4, 'Works for Me': 94}
+Statuses: {'Open': 1854, 'Resolved': 7450, 'In Progress': 56, 'Closed': 452, 'Reopened': 33}
+
+Average Lead Time (all PBIs): 201.9 days
+Average Lead Time (Bug): 138.0 days
+Average Lead Time (Question): 104.5 days
+Average Lead Time (Improvement): 335.5 days
+Average Lead Time (Task): 340.0 days
+Average Lead Time (Documentation): 66.6 days
+Average Lead Time (Test): 319.8 days
+Average Lead Time (New Feature): 382.8 days
+Average Lead Time (Wish): 146.0 days
+Average Lead Time (Request): 0.0 days
+Average Lead Time (Story): 94.0 days
+Average Lead Time (Dependency upgrade): 40.0 days
+Average Lead Time (Project): 427.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-27 00:11:54 End date: 2022-01-05 00:11:54
+System: {'IMPALA': 165}
+Types: {'Improvement': 49, 'Bug': 90, 'Task': 11, 'New Feature': 11, 'Documentation': 2, 'Question': 2}
+Resolutions: {'': 91, 'Resolved': 1, 'Fixed': 63, 'Duplicate': 6, 'Implemented': 1, "Won't Fix": 1, "Won't Do": 1, 'Later': 1}
+Statuses: {'Open': 86, 'Resolved': 68, 'In Progress': 5, 'Closed': 6}
+
+Average Lead Time (all PBIs): 178.3 days
+Average Lead Time (Bug): 143.5 days
+Average Lead Time (Question): 11.0 days
+Average Lead Time (Improvement): 257.4 days
+Average Lead Time (Task): 37.0 days
+Average Lead Time (New Feature): 773.0 days

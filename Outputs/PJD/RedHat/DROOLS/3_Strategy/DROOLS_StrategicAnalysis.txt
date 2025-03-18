@@ -1,0 +1,73 @@
+
+System Name: DROOLS
+System Duration (Captured): 5664 days
+
+Calculated Final System Size: 887 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 887 PBIs
+
+Model Final System Size: 786 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 786 PBIs
+
+% Error, Final backlog, model vs actual: 11.0%
+Error, Final backlog, model vs actual: -101 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 2620 PBIs
+Total Unplanned Arrivals: 3179 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 287 PBIs
+Total Net Arrivals: 5512 PBIs
+Total Services: 4625 PBIs
+
+Rates:
+Planned Arrival Rate: 0.818 PBIs/day
+Unplanned Arrival Rate: 0.973 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.113 PBIs/day
+Net Arrival Rate: 1.678 PBIs/day
+Service Rate: 1.569 PBIs/day
+
+
+Metrics:
+Stability: 0.935
+Quality: 0.457
+Control: 0.937
+Inventory Days: 565.328 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 887 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 887 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 72 PBIs
+Unplanned Arrivals in this period: 62 PBIs
+Cancelled/Rejected/Won't Do  in this period: 10 PBIs
+System size change in this period: 9 PBIs
+Net Arrivals in this period: 124 PBIs
+Services in this period: 116 PBIs
+
+Rates:
+Planned Arrival Rate: 0.783 PBIs/day
+Unplanned Arrival Rate: 0.612 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.153 PBIs/day
+Net Arrival Rate: 1.287 PBIs/day
+Service Rate: 1.27 PBIs/day
+
+Metrics:
+Stability: 1.023
+Quality: 0.561
+Control: 0.89
+Inventory Days: 698.425 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

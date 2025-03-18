@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2015-07-06 21:03:53 End date: 2020-03-04 21:43:07
+System: {'APEXCORE': 695}
+Types: {'Dependency upgrade': 7, 'Improvement': 242, 'Bug': 279, 'Task': 106, 'Documentation': 14, 'New Feature': 41, 'GitBox Request': 1, 'Question': 2, 'Wish': 1, 'Test': 1, 'Request': 1}
+Resolutions: {'': 227, 'Not A Bug': 4, 'Fixed': 349, 'Implemented': 23, 'Done': 34, 'Invalid': 20, 'Duplicate': 19, "Won't Fix": 8, "Won't Do": 3, 'Not A Problem': 2, 'Cannot Reproduce': 5, 'Incomplete': 1}
+Statuses: {'Open': 220, 'Resolved': 12, 'Closed': 456, 'In Progress': 6, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 80.1 days
+Average Lead Time (Improvement): 85.7 days
+Average Lead Time (Bug): 62.8 days
+Average Lead Time (Task): 118.5 days
+Average Lead Time (Dependency upgrade): 7.8 days
+Average Lead Time (Documentation): 23.7 days
+Average Lead Time (GitBox Request): 0.0 days
+Average Lead Time (Question): 1.0 days
+Average Lead Time (New Feature): 121.9 days
+Average Lead Time (Test): 2.0 days
+Average Lead Time (Request): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2019-11-25 21:43:07 End date: 2020-03-04 21:43:07
+System: {'APEXCORE': 1}
+Types: {'Dependency upgrade': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

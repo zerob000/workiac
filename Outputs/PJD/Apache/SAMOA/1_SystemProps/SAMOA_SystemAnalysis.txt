@@ -1,0 +1,22 @@
+All PBIS - Unfiltered 
+Start date: 2015-01-13 13:22:54 End date: 2021-02-19 13:41:33
+System: {'SAMOA': 83}
+Types: {'Bug': 37, 'Task': 32, 'New Feature': 14}
+Resolutions: {'': 26, 'Done': 57}
+Statuses: {'To Do': 26, 'Done': 57}
+
+Average Lead Time (all PBIs): 67.8 days
+Average Lead Time (Bug): 48.1 days
+Average Lead Time (New Feature): 133.7 days
+Average Lead Time (Task): 70.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-11-11 13:41:33 End date: 2021-02-19 13:41:33
+System: {'SAMOA': 3}
+Types: {'Bug': 3}
+Resolutions: {'': 3}
+Statuses: {'To Do': 3}
+
+No PBIs resolved in last 100 days.

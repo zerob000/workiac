@@ -1,0 +1,32 @@
+All PBIS - Unfiltered 
+Start date: 2004-04-20 14:14:03 End date: 2022-01-04 21:22:12
+System: {'AMQ': 7461}
+Types: {'Bug': 4997, 'Wish': 73, 'Task': 277, 'Dependency upgrade': 44, 'New Feature': 517, 'Improvement': 1476, 'Test': 77}
+Resolutions: {'': 776, 'Fixed': 4924, 'Information Provided': 6, 'Invalid': 190, 'Not A Problem': 392, 'Duplicate': 263, 'Incomplete': 254, 'Workaround': 8, "Won't Fix": 313, 'Cannot Reproduce': 253, 'Abandoned': 38, 'Not A Bug': 12, 'Feedback Received': 1, 'Done': 6, 'Later': 16, 'Resolved': 2, 'Implemented': 4, 'Pending Closed': 2, 'Auto Closed': 1}
+Statuses: {'Open': 733, 'Resolved': 4930, 'Closed': 1755, 'Reopened': 35, 'In Progress': 8}
+
+Average Lead Time (all PBIs): 205.1 days
+Average Lead Time (Bug): 198.8 days
+Average Lead Time (Dependency upgrade): 18.8 days
+Average Lead Time (Task): 57.1 days
+Average Lead Time (Improvement): 208.9 days
+Average Lead Time (Test): 281.2 days
+Average Lead Time (New Feature): 269.2 days
+Average Lead Time (Wish): 825.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 21:22:12 End date: 2022-01-04 21:22:12
+System: {'AMQ': 50}
+Types: {'Bug': 21, 'Wish': 1, 'Task': 8, 'Dependency upgrade': 12, 'New Feature': 4, 'Improvement': 3, 'Test': 1}
+Resolutions: {'': 20, 'Fixed': 20, 'Information Provided': 2, 'Invalid': 4, 'Not A Problem': 1, 'Abandoned': 3}
+Statuses: {'Open': 17, 'Resolved': 20, 'Closed': 10, 'Reopened': 1, 'In Progress': 2}
+
+Average Lead Time (all PBIs): 196.4 days
+Average Lead Time (Bug): 438.6 days
+Average Lead Time (Dependency upgrade): 30.6 days
+Average Lead Time (Task): 47.0 days
+Average Lead Time (Improvement): 0.0 days
+Average Lead Time (Test): 25.0 days
+Average Lead Time (New Feature): 95.0 days

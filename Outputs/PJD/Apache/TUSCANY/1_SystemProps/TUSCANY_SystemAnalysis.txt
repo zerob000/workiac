@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2006-01-10 05:26:27 End date: 2015-01-15 03:56:51
+System: {'TUSCANY': 4015}
+Types: {'Task': 83, 'Test': 115, 'Bug': 2826, 'New Feature': 270, 'Improvement': 682, 'Wish': 39}
+Resolutions: {'Fixed': 3055, '': 576, 'Not A Problem': 40, 'Invalid': 114, "Won't Fix": 96, 'Cannot Reproduce': 43, 'Duplicate': 62, 'Later': 23, 'Incomplete': 6}
+Statuses: {'Resolved': 384, 'Open': 548, 'Closed': 3055, 'Reopened': 19, 'In Progress': 9}
+
+Average Lead Time (all PBIs): 84.9 days
+Average Lead Time (Task): 211.8 days
+Average Lead Time (Bug): 62.5 days
+Average Lead Time (Improvement): 127.5 days
+Average Lead Time (New Feature): 152.1 days
+Average Lead Time (Test): 79.8 days
+Average Lead Time (Wish): 294.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2014-10-07 03:56:51 End date: 2015-01-15 03:56:51
+System: {'TUSCANY': 1}
+Types: {'Task': 1}
+Resolutions: {'Fixed': 1}
+Statuses: {'Resolved': 1}
+
+Average Lead Time (all PBIs): 273.0 days
+Average Lead Time (Task): 273.0 days

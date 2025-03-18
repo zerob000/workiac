@@ -1,0 +1,73 @@
+
+System Name: SAK
+System Duration (Captured): 6312 days
+
+Calculated Final System Size: 7373 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 7373 PBIs
+
+Model Final System Size: 6815 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 6815 PBIs
+
+% Error, Final backlog, model vs actual: 8.0%
+Error, Final backlog, model vs actual: -558 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 11137 PBIs
+Total Unplanned Arrivals: 29248 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 9933 PBIs
+Total Net Arrivals: 30452 PBIs
+Total Services: 23079 PBIs
+
+Rates:
+Planned Arrival Rate: 1.91 PBIs/day
+Unplanned Arrival Rate: 4.482 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 1.684 PBIs/day
+Net Arrival Rate: 4.708 PBIs/day
+Service Rate: 3.784 PBIs/day
+
+
+Metrics:
+Stability: 0.804
+Quality: 0.299
+Control: 0.737
+Inventory Days: 1948.467 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 7373 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 7373 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 69 PBIs
+Unplanned Arrivals in this period: 330 PBIs
+Cancelled/Rejected/Won't Do  in this period: 49 PBIs
+System size change in this period: 190 PBIs
+Net Arrivals in this period: 350 PBIs
+Services in this period: 161 PBIs
+
+Rates:
+Planned Arrival Rate: 0.81 PBIs/day
+Unplanned Arrival Rate: 3.277 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.477 PBIs/day
+Net Arrival Rate: 3.617 PBIs/day
+Service Rate: 1.664 PBIs/day
+
+Metrics:
+Stability: 0.461
+Quality: 0.198
+Control: 0.883
+Inventory Days: 4430.889 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

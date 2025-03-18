@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2021-08-30 16:13:29 End date: 2021-12-14 18:00:13
+System: {'USMINT': 107}
+Types: {'Task': 106, 'Story': 1}
+Resolutions: {'': 73, 'Done': 33, 'Duplicate Issue': 1}
+Statuses: {'In Progress': 18, 'New': 55, 'Closed': 34}
+
+Average Lead Time (all PBIs): 15.0 days
+Average Lead Time (Task): 14.5 days
+Average Lead Time (Story): 31.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-05 18:00:13 End date: 2021-12-14 18:00:13
+System: {'USMINT': 107}
+Types: {'Task': 106, 'Story': 1}
+Resolutions: {'': 73, 'Done': 33, 'Duplicate Issue': 1}
+Statuses: {'In Progress': 18, 'New': 55, 'Closed': 34}
+
+Average Lead Time (all PBIs): 15.0 days
+Average Lead Time (Task): 14.5 days
+Average Lead Time (Story): 31.0 days

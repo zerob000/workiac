@@ -1,0 +1,37 @@
+All PBIS - Unfiltered 
+Start date: 2010-12-08 16:40:04 End date: 2022-01-04 21:21:38
+System: {'JENA': 2225}
+Types: {'Bug': 1087, 'Improvement': 728, 'Task': 198, 'New Feature': 96, 'Question': 46, 'Test': 5, 'Dependency upgrade': 10, 'Wish': 17, 'Brainstorming': 9, 'Story': 1, 'Documentation': 27, 'Umbrella': 1}
+Resolutions: {'Fixed': 1254, '': 146, 'Done': 485, 'Not A Problem': 91, 'Cannot Reproduce': 21, 'Duplicate': 35, 'Implemented': 18, 'Information Provided': 46, 'Not A Bug': 11, 'Incomplete': 3, 'Resolved': 7, 'Feedback Received': 4, "Won't Fix": 59, 'Invalid': 26, 'Abandoned': 6, 'Later': 3, 'Workaround': 2, "Won't Do": 6, 'Delivered': 2}
+Statuses: {'Resolved': 21, 'In Progress': 4, 'Open': 141, 'Closed': 2058, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 203.8 days
+Average Lead Time (Bug): 198.0 days
+Average Lead Time (Task): 134.2 days
+Average Lead Time (Improvement): 211.1 days
+Average Lead Time (New Feature): 364.0 days
+Average Lead Time (Dependency upgrade): 361.0 days
+Average Lead Time (Question): 104.3 days
+Average Lead Time (Wish): 185.1 days
+Average Lead Time (Documentation): 155.4 days
+Average Lead Time (Brainstorming): 665.9 days
+Average Lead Time (Test): 320.0 days
+Average Lead Time (Umbrella): 1350.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 21:21:38 End date: 2022-01-04 21:21:38
+System: {'JENA': 75}
+Types: {'Bug': 25, 'Improvement': 20, 'Task': 18, 'New Feature': 5, 'Question': 4, 'Test': 1, 'Dependency upgrade': 1, 'Wish': 1}
+Resolutions: {'Fixed': 25, '': 9, 'Done': 29, 'Not A Problem': 2, 'Cannot Reproduce': 2, 'Duplicate': 2, 'Implemented': 1, 'Information Provided': 4, 'Not A Bug': 1}
+Statuses: {'Resolved': 21, 'In Progress': 1, 'Open': 8, 'Closed': 45}
+
+Average Lead Time (all PBIs): 35.8 days
+Average Lead Time (Bug): 4.1 days
+Average Lead Time (Task): 4.1 days
+Average Lead Time (Improvement): 120.0 days
+Average Lead Time (New Feature): 3.0 days
+Average Lead Time (Dependency upgrade): 0.0 days
+Average Lead Time (Question): 7.0 days
+Average Lead Time (Wish): 10.0 days

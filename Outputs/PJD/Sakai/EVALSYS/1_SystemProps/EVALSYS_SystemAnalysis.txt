@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2007-01-19 10:56:04 End date: 2021-10-04 09:11:22
+System: {'EVALSYS': 1420}
+Types: {'Bug': 917, 'Task': 261, 'Feature Request': 219, '(Deprecated) Contributed Patch': 21, 'Roadmap item': 2}
+Resolutions: {'Fixed': 950, '': 229, 'Duplicate': 53, 'Incorporated': 20, 'Non-Issue': 49, "Won't Fix": 78, 'No Resources': 7, 'Cannot Reproduce': 21, 'Incomplete': 13}
+Statuses: {'Resolved': 240, 'Awaiting Review': 219, 'Open': 7, 'Verified': 58, 'Awaiting Information': 3, 'Closed': 893}
+
+Average Lead Time (all PBIs): 177.7 days
+Average Lead Time (Bug): 104.2 days
+Average Lead Time (Feature Request): 355.0 days
+Average Lead Time (Task): 272.1 days
+Average Lead Time ((Deprecated) Contributed Patch): 774.6 days
+Average Lead Time (Roadmap item): 258.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-06-26 09:11:22 End date: 2021-10-04 09:11:22
+System: {'EVALSYS': 2}
+Types: {'Bug': 2}
+Resolutions: {'Fixed': 2}
+Statuses: {'Resolved': 2}
+
+Average Lead Time (all PBIs): 57.0 days
+Average Lead Time (Bug): 57.0 days

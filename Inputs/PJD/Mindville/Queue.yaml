@@ -1,0 +1,9 @@
+---
+# Add a queue of system names and data files for the manager to run
+System_Names:
+    ## "CSV name": "Yaml name"
+    "IMFC": "Mindville.yaml"
+    "IJBI": "Mindville.yaml"
+    "ID": "Mindville.yaml"
+    "ICS": "Mindville.yaml"
+    "ICC": "Mindville.yaml"

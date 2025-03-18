@@ -1,0 +1,33 @@
+All PBIS - Unfiltered 
+Start date: 2016-10-31 15:27:35 End date: 2022-01-04 16:29:53
+System: {'KOGITO': 5945}
+Types: {'Task': 2387, 'Bug': 1750, 'Enhancement': 1008, 'Feature Request': 579, 'Story': 199, 'Component Upgrade': 11, 'Quality Risk': 6, 'Patch': 5}
+Resolutions: {'': 1362, 'Done': 3995, 'Duplicate Issue': 141, "Won't Do": 137, 'Cannot Reproduce': 63, 'Explained': 33, 'Fixed': 10, 'Not a Bug': 6, 'Duplicate': 21, 'Out of Date': 108, 'Deferred': 31, 'Rejected': 13, 'Incomplete Description': 1, 'Partially Completed': 5, 'Upstream': 1, 'Incomplete': 1, 'Obsolete': 1, "Won't Fix": 15, 'Migrated to another ITS': 1}
+Statuses: {'Open': 1175, 'Coding In Progress': 51, 'Pull Request Sent': 128, 'Resolved': 3927, 'Closed': 656, 'Reopened': 8}
+
+Average Lead Time (all PBIs): 52.8 days
+Average Lead Time (Bug): 37.6 days
+Average Lead Time (Enhancement): 61.7 days
+Average Lead Time (Task): 49.4 days
+Average Lead Time (Component Upgrade): 31.2 days
+Average Lead Time (Feature Request): 84.2 days
+Average Lead Time (Story): 116.1 days
+Average Lead Time (Quality Risk): 111.0 days
+Average Lead Time (Patch): 19.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 16:29:53 End date: 2022-01-04 16:29:53
+System: {'KOGITO': 636}
+Types: {'Task': 278, 'Bug': 207, 'Enhancement': 70, 'Feature Request': 58, 'Story': 22, 'Component Upgrade': 1}
+Resolutions: {'': 256, 'Done': 316, 'Duplicate Issue': 18, "Won't Do": 21, 'Cannot Reproduce': 6, 'Explained': 2, 'Fixed': 4, 'Not a Bug': 1, 'Duplicate': 1, 'Out of Date': 5, 'Deferred': 5, 'Incomplete Description': 1}
+Statuses: {'Open': 193, 'Coding In Progress': 19, 'Pull Request Sent': 44, 'Resolved': 310, 'Closed': 70}
+
+Average Lead Time (all PBIs): 98.3 days
+Average Lead Time (Bug): 64.3 days
+Average Lead Time (Enhancement): 157.7 days
+Average Lead Time (Task): 88.8 days
+Average Lead Time (Component Upgrade): 1.0 days
+Average Lead Time (Feature Request): 165.3 days
+Average Lead Time (Story): 217.1 days

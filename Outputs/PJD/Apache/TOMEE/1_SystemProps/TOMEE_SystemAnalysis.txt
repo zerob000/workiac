@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2007-07-23 12:27:07 End date: 2022-01-05 15:41:23
+System: {'TOMEE': 2630}
+Types: {'Bug': 1116, 'Dependency upgrade': 328, 'Improvement': 573, 'Documentation': 98, 'Wish': 8, 'Task': 165, 'New Feature': 327, 'Test': 15}
+Resolutions: {'Fixed': 2001, '': 421, 'Works for Me': 1, 'Invalid': 28, 'Duplicate': 25, 'Done': 33, 'Resolved': 32, "Won't Do": 1, 'Information Provided': 4, 'Implemented': 5, 'Cannot Reproduce': 5, 'Not A Problem': 44, "Won't Fix": 12, 'Incomplete': 4, 'Pending Closed': 3, 'Not A Bug': 4, 'Workaround': 2, 'Abandoned': 5}
+Statuses: {'Resolved': 1223, 'Open': 406, 'Closed': 986, 'Reopened': 9, 'In Progress': 6}
+
+Average Lead Time (all PBIs): 74.0 days
+Average Lead Time (Bug): 79.3 days
+Average Lead Time (Dependency upgrade): 43.4 days
+Average Lead Time (Improvement): 86.0 days
+Average Lead Time (Documentation): 115.4 days
+Average Lead Time (Wish): 443.5 days
+Average Lead Time (New Feature): 38.2 days
+Average Lead Time (Task): 135.0 days
+Average Lead Time (Test): 55.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-27 15:41:23 End date: 2022-01-05 15:41:23
+System: {'TOMEE': 27}
+Types: {'Bug': 10, 'Dependency upgrade': 11, 'Improvement': 4, 'Documentation': 2}
+Resolutions: {'Fixed': 17, '': 10}
+Statuses: {'Resolved': 16, 'Open': 10, 'Closed': 1}
+
+Average Lead Time (all PBIs): 31.8 days
+Average Lead Time (Bug): 5.7 days
+Average Lead Time (Dependency upgrade): 20.0 days
+Average Lead Time (Improvement): 93.0 days
+Average Lead Time (Documentation): 44.0 days

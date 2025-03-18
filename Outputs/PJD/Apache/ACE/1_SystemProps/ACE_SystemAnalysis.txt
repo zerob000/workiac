@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2009-04-27 07:31:04 End date: 2018-02-14 23:30:40
+System: {'ACE': 500}
+Types: {'New Feature': 42, 'Improvement': 172, 'Bug': 194, 'Task': 76, 'Question': 6, 'IT Help': 1, 'Documentation': 3, 'Test': 1, 'Wish': 4, 'Brainstorming': 1}
+Resolutions: {'': 47, 'Fixed': 402, 'Invalid': 4, 'Not A Problem': 6, 'Incomplete': 2, 'Cannot Reproduce': 3, "Won't Fix": 31, 'Duplicate': 3, 'Later': 2}
+Statuses: {'Open': 47, 'Resolved': 70, 'Closed': 383}
+
+Average Lead Time (all PBIs): 316.7 days
+Average Lead Time (New Feature): 570.5 days
+Average Lead Time (Improvement): 325.8 days
+Average Lead Time (Bug): 243.9 days
+Average Lead Time (Task): 315.8 days
+Average Lead Time (Question): 157.0 days
+Average Lead Time (Documentation): 0.0 days
+Average Lead Time (Test): 183.0 days
+Average Lead Time (Wish): 769.2 days
+Average Lead Time (Brainstorming): 1176.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2017-11-06 23:30:40 End date: 2018-02-14 23:30:40
+System: {'ACE': 1}
+Types: {'New Feature': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

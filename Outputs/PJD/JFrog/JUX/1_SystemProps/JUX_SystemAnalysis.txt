@@ -1,0 +1,21 @@
+All PBIS - Unfiltered 
+Start date: 2020-10-07 07:03:57 End date: 2021-12-21 09:48:57
+System: {'JUX': 31}
+Types: {'New Feature': 10, 'Performance': 1, 'Improvement': 6, 'Bug': 2, 'Task': 12}
+Resolutions: {'': 27, 'Done': 4}
+Statuses: {'Open': 22, 'Done': 4, 'Pending QA': 2, 'In Progress': 1, 'Backlog': 2}
+
+Average Lead Time (all PBIs): 43.5 days
+Average Lead Time (New Feature): 80.0 days
+Average Lead Time (Task): 7.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-12 09:48:57 End date: 2021-12-21 09:48:57
+System: {'JUX': 6}
+Types: {'New Feature': 2, 'Performance': 1, 'Improvement': 2, 'Bug': 1}
+Resolutions: {'': 6}
+Statuses: {'Open': 6}
+
+No PBIs resolved in last 100 days.

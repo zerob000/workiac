@@ -1,0 +1,73 @@
+
+System Name: PYSIDE
+System Duration (Captured): 3598 days
+
+Calculated Final System Size: 226 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 226 PBIs
+
+Model Final System Size: 182 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 182 PBIs
+
+% Error, Final backlog, model vs actual: 19.0%
+Error, Final backlog, model vs actual: -44 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 122 PBIs
+Total Unplanned Arrivals: 1449 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 645 PBIs
+Total Net Arrivals: 926 PBIs
+Total Services: 700 PBIs
+
+Rates:
+Planned Arrival Rate: 0.047 PBIs/day
+Unplanned Arrival Rate: 0.381 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.239 PBIs/day
+Net Arrival Rate: 0.189 PBIs/day
+Service Rate: 0.247 PBIs/day
+
+
+Metrics:
+Stability: 1.307
+Quality: 0.11
+Control: 0.442
+Inventory Days: 914.98 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 226 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 226 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 5 PBIs
+Unplanned Arrivals in this period: 78 PBIs
+Cancelled/Rejected/Won't Do  in this period: 32 PBIs
+System size change in this period: 5 PBIs
+Net Arrivals in this period: 51 PBIs
+Services in this period: 45 PBIs
+
+Rates:
+Planned Arrival Rate: 0.083 PBIs/day
+Unplanned Arrival Rate: 0.705 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.281 PBIs/day
+Net Arrival Rate: 0.471 PBIs/day
+Service Rate: 0.448 PBIs/day
+
+Metrics:
+Stability: 0.884
+Quality: 0.105
+Control: 0.643
+Inventory Days: 504.464 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

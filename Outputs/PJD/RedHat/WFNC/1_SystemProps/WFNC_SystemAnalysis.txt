@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2016-06-23 16:15:54 End date: 2021-10-05 15:51:48
+System: {'WFNC': 61}
+Types: {'Component Upgrade': 3, 'Task': 10, 'Bug': 25, 'Enhancement': 20, 'Feature Request': 3}
+Resolutions: {'': 10, 'Done': 51}
+Statuses: {'Pull Request Sent': 1, 'Resolved': 51, 'Open': 9}
+
+Average Lead Time (all PBIs): 25.6 days
+Average Lead Time (Component Upgrade): 3.0 days
+Average Lead Time (Task): 52.6 days
+Average Lead Time (Bug): 31.7 days
+Average Lead Time (Enhancement): 9.1 days
+Average Lead Time (Feature Request): 5.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-06-27 15:51:48 End date: 2021-10-05 15:51:48
+System: {'WFNC': 1}
+Types: {'Component Upgrade': 1}
+Resolutions: {'': 1}
+Statuses: {'Pull Request Sent': 1}
+
+No PBIs resolved in last 100 days.

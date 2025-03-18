@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2013-02-20 10:39:33 End date: 2020-10-07 11:59:31
+System: {'TEIIDWEBCN': 37}
+Types: {'Bug': 21, 'Enhancement': 9, 'Task': 1, 'Feature Request': 6}
+Resolutions: {'': 1, 'Cannot Reproduce': 2, 'Done': 29, 'Out of Date': 1, "Won't Do": 1, 'Incomplete Description': 1, 'Rejected': 2}
+Statuses: {'Open': 1, 'Resolved': 33, 'Closed': 3}
+
+Average Lead Time (all PBIs): 142.9 days
+Average Lead Time (Enhancement): 134.6 days
+Average Lead Time (Task): 327.0 days
+Average Lead Time (Bug): 82.5 days
+Average Lead Time (Feature Request): 326.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-06-29 11:59:31 End date: 2020-10-07 11:59:31
+System: {'TEIIDWEBCN': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

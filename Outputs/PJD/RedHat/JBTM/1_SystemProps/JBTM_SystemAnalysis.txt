@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2005-12-23 17:03:04 End date: 2021-12-24 08:20:46
+System: {'JBTM': 3372}
+Types: {'Bug': 1621, 'Enhancement': 282, 'Task': 969, 'Component Upgrade': 18, 'Feature Request': 482}
+Resolutions: {'': 244, "Won't Do": 8, 'Done': 2502, 'Incomplete': 1, "Won't Fix": 138, 'Duplicate Issue': 137, 'Explained': 4, 'Rejected': 123, 'Duplicate': 3, 'Migrated to another ITS': 18, 'Out of Date': 97, 'Incomplete Description': 31, 'Cannot Reproduce': 50, 'Deferred': 8, 'Partially Completed': 8}
+Statuses: {'Open': 232, 'Coding In Progress': 4, 'Closed': 3117, 'Resolved': 11, 'Pull Request Sent': 6, 'Reopened': 2}
+
+Average Lead Time (all PBIs): 166.6 days
+Average Lead Time (Task): 207.8 days
+Average Lead Time (Enhancement): 196.3 days
+Average Lead Time (Bug): 85.4 days
+Average Lead Time (Component Upgrade): 20.8 days
+Average Lead Time (Feature Request): 362.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-15 08:20:46 End date: 2021-12-24 08:20:46
+System: {'JBTM': 28}
+Types: {'Bug': 15, 'Enhancement': 8, 'Task': 4, 'Component Upgrade': 1}
+Resolutions: {'': 13, "Won't Do": 2, 'Done': 12, 'Duplicate': 1}
+Statuses: {'Open': 10, 'Coding In Progress': 1, 'Closed': 5, 'Resolved': 10, 'Pull Request Sent': 2}
+
+Average Lead Time (all PBIs): 88.1 days
+Average Lead Time (Task): 329.3 days
+Average Lead Time (Enhancement): 20.7 days
+Average Lead Time (Bug): 35.0 days
+Average Lead Time (Component Upgrade): 35.0 days

@@ -1,0 +1,73 @@
+
+System Name: RUST
+System Duration (Captured): 1320 days
+
+Calculated Final System Size: 203 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 203 PBIs
+
+Model Final System Size: 185 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 185 PBIs
+
+% Error, Final backlog, model vs actual: 9.0%
+Error, Final backlog, model vs actual: -18 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 862 PBIs
+Total Unplanned Arrivals: 121 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 242 PBIs
+Total Net Arrivals: 741 PBIs
+Total Services: 538 PBIs
+
+Rates:
+Planned Arrival Rate: 0.72 PBIs/day
+Unplanned Arrival Rate: 0.153 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.227 PBIs/day
+Net Arrival Rate: 0.646 PBIs/day
+Service Rate: 0.541 PBIs/day
+
+
+Metrics:
+Stability: 0.837
+Quality: 0.825
+Control: 0.74
+Inventory Days: 375.231 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 203 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 203 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 80 PBIs
+Unplanned Arrivals in this period: 14 PBIs
+Cancelled/Rejected/Won't Do  in this period: 16 PBIs
+System size change in this period: 5 PBIs
+Net Arrivals in this period: 78 PBIs
+Services in this period: 74 PBIs
+
+Rates:
+Planned Arrival Rate: 0.918 PBIs/day
+Unplanned Arrival Rate: 0.159 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.186 PBIs/day
+Net Arrival Rate: 0.877 PBIs/day
+Service Rate: 0.848 PBIs/day
+
+Metrics:
+Stability: 0.952
+Quality: 0.852
+Control: 0.827
+Inventory Days: 239.387 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

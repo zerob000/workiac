@@ -1,0 +1,73 @@
+
+System Name: MONGOID
+System Duration (Captured): 4430 days
+
+Calculated Final System Size: 186 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 186 PBIs
+
+Model Final System Size: 995 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 995 PBIs
+
+% Error, Final backlog, model vs actual: 435.0%
+Error, Final backlog, model vs actual: 809 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 4553 PBIs
+Total Unplanned Arrivals: 507 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 497 PBIs
+Total Net Arrivals: 4563 PBIs
+Total Services: 4377 PBIs
+
+Rates:
+Planned Arrival Rate: 1.237 PBIs/day
+Unplanned Arrival Rate: 0.17 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.199 PBIs/day
+Net Arrival Rate: 1.208 PBIs/day
+Service Rate: 1.326 PBIs/day
+
+
+Metrics:
+Stability: 1.098
+Quality: 0.879
+Control: 0.859
+Inventory Days: 140.271 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 98 days
+
+Calculated Final System Size: 186 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 186 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 11 PBIs
+Unplanned Arrivals in this period: 9 PBIs
+Cancelled/Rejected/Won't Do  in this period: 10 PBIs
+System size change in this period: -5 PBIs
+Net Arrivals in this period: 10 PBIs
+Services in this period: 16 PBIs
+
+Rates:
+Planned Arrival Rate: 0.09 PBIs/day
+Unplanned Arrival Rate: 0.102 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.18 PBIs/day
+Net Arrival Rate: 0.122 PBIs/day
+Service Rate: 0.144 PBIs/day
+
+Metrics:
+Stability: 12.0
+Quality: 0.469
+Control: 0.063
+Inventory Days: 1291.667 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

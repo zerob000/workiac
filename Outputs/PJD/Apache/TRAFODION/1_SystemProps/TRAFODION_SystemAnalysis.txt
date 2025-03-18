@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2015-06-20 02:57:06 End date: 2020-12-15 08:06:56
+System: {'TRAFODION': 3076}
+Types: {'New Feature': 168, 'Task': 15, 'Bug': 2341, 'Improvement': 378, 'Documentation': 129, 'Wish': 25, 'Umbrella': 10, 'Test': 5, 'Question': 1, 'Dependency upgrade': 2, 'Brainstorming': 2}
+Resolutions: {'': 762, 'Fixed': 2157, "Won't Fix": 38, 'Not A Problem': 16, 'Implemented': 20, 'Duplicate': 27, 'Resolved': 3, 'Invalid': 14, 'Done': 8, 'Cannot Reproduce': 24, "Won't Do": 1, 'Delivered': 1, 'Not A Bug': 2, 'Abandoned': 1, 'Later': 2}
+Statuses: {'Open': 702, 'Resolved': 93, 'In Progress': 49, 'Closed': 2221, 'Reopened': 11}
+
+Average Lead Time (all PBIs): 74.1 days
+Average Lead Time (Task): 57.0 days
+Average Lead Time (Bug): 62.5 days
+Average Lead Time (Improvement): 97.0 days
+Average Lead Time (Documentation): 184.6 days
+Average Lead Time (New Feature): 93.3 days
+Average Lead Time (Umbrella): 215.2 days
+Average Lead Time (Wish): 304.6 days
+Average Lead Time (Dependency upgrade): 15.0 days
+Average Lead Time (Brainstorming): 272.0 days
+Average Lead Time (Test): 104.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-09-06 08:06:56 End date: 2020-12-15 08:06:56
+System: {'TRAFODION': 1}
+Types: {'New Feature': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

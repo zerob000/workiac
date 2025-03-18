@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2020-04-09 06:08:32 End date: 2021-12-17 14:59:18
+System: {'RHOSPDOC': 134}
+Types: {'Story': 42, 'Feature': 78, 'Bug': 3, 'Task': 11}
+Resolutions: {'': 54, 'Done': 70, 'Current Release': 9, 'Duplicate': 1}
+Statuses: {'New': 19, 'Closed': 71, 'Open': 18, 'Coding In Progress': 4, 'Ready For Release': 10, 'SME Review': 2, 'Verified': 4, 'Resolved': 5, 'QA In Progress': 1}
+
+Average Lead Time (all PBIs): 122.5 days
+Average Lead Time (Story): 74.2 days
+Average Lead Time (Feature): 154.0 days
+Average Lead Time (Bug): 0.0 days
+Average Lead Time (Task): 66.4 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-08 14:59:18 End date: 2021-12-17 14:59:18
+System: {'RHOSPDOC': 38}
+Types: {'Story': 20, 'Feature': 18}
+Resolutions: {'': 25, 'Done': 13}
+Statuses: {'New': 12, 'Closed': 11, 'Open': 9, 'Coding In Progress': 1, 'Ready For Release': 2, 'SME Review': 1, 'Verified': 2}
+
+Average Lead Time (all PBIs): 148.8 days
+Average Lead Time (Story): 85.7 days
+Average Lead Time (Feature): 222.5 days

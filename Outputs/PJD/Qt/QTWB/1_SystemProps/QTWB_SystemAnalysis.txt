@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2016-07-20 06:46:58 End date: 2021-12-01 15:45:50
+System: {'QTWB': 34}
+Types: {'Bug': 26, 'Task': 4, 'Suggestion': 3, 'User Story': 1}
+Resolutions: {'': 6, 'Incomplete': 3, 'Fixed': 4, 'Done': 3, 'Invalid': 4, 'Moved': 2, 'Duplicate': 6, 'Out of scope': 2, "Won't Do": 1, 'Cannot Reproduce': 3}
+Statuses: {'Reported': 5, 'Need More Info': 2, 'Closed': 26, 'Open': 1}
+
+Average Lead Time (all PBIs): 241.9 days
+Average Lead Time (Bug): 232.7 days
+Average Lead Time (Task): 342.8 days
+Average Lead Time (Suggestion): 50.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-08-23 15:45:50 End date: 2021-12-01 15:45:50
+System: {'QTWB': 1}
+Types: {'Bug': 1}
+Resolutions: {'Incomplete': 1}
+Statuses: {'Need More Info': 1}
+
+Average Lead Time (all PBIs): 1661.0 days
+Average Lead Time (Bug): 1661.0 days

@@ -1,0 +1,32 @@
+Key,ID,Project,IssueType,IsSubtask,Status,Resolution,Created Date,Resolved Date
+JUX-44,140417,JUX,New Feature,false,Open,,2021-12-21 09:48:57,
+JUX-43,140028,JUX,Performance,false,Open,,2021-10-14 11:34:59,
+JUX-42,140026,JUX,Improvement,false,Open,,2021-10-14 11:05:09,
+JUX-41,140007,JUX,Bug,false,Open,,2021-10-07 20:22:18,
+JUX-40,139989,JUX,Improvement,false,Open,,2021-09-29 16:22:27,
+JUX-39,139985,JUX,New Feature,false,Open,,2021-09-28 21:09:47,
+JUX-38,139891,JUX,New Feature,false,Open,,2021-09-01 13:01:42,
+JUX-37,139730,JUX,New Feature,false,Open,,2021-08-16 16:00:13,
+JUX-36,139608,JUX,Bug,false,Open,,2021-07-22 19:15:36,
+JUX-35,139474,JUX,New Feature,false,Open,,2021-06-16 10:19:39,
+JUX-34,139324,JUX,New Feature,false,Open,,2021-06-07 15:57:15,
+JUX-33,138563,JUX,Improvement,false,Open,,2021-05-04 09:14:28,
+JUX-28,134823,JUX,New Feature,false,Open,,2021-04-06 11:22:22,
+JUX-27,134808,JUX,Improvement,false,Open,,2021-04-06 11:10:40,
+JUX-26,134774,JUX,Improvement,false,Open,,2021-04-06 10:15:19,
+JUX-25,134772,JUX,Improvement,false,Open,,2021-04-06 10:13:56,
+JUX-24,125498,JUX,New Feature,false,Done,Done,2021-01-13 08:19:49,2021-03-22 20:38:52
+JUX-21,125338,JUX,New Feature,false,Open,,2021-01-12 12:53:30,
+JUX-14,120253,JUX,Task,false,Open,,2020-12-07 10:48:11,
+JUX-13,120251,JUX,Task,false,Open,,2020-12-07 10:47:08,
+JUX-12,120226,JUX,New Feature,false,Done,Done,2020-12-07 08:45:02,2021-03-10 07:23:34
+JUX-11,120225,JUX,Task,false,Open,,2020-12-07 08:42:14,
+JUX-10,120157,JUX,Task,false,Open,,2020-12-06 12:41:43,
+JUX-9,118593,JUX,Task,false,Pending QA,,2020-11-18 12:46:38,
+JUX-8,118591,JUX,Task,false,In Progress,,2020-11-18 12:45:02,
+JUX-6,118589,JUX,Task,false,Done,Done,2020-11-18 12:40:50,2020-12-03 10:14:52
+JUX-5,118588,JUX,Task,false,Backlog,,2020-11-18 12:39:04,
+JUX-4,118587,JUX,Task,false,Pending QA,,2020-11-18 12:37:03,
+JUX-3,117797,JUX,Task,false,Backlog,,2020-11-10 10:21:29,
+JUX-2,116685,JUX,Task,false,Open,,2020-10-29 14:04:56,
+JUX-1,112457,JUX,Task,false,Done,Done,2020-10-07 07:03:57,2020-10-07 07:14:13

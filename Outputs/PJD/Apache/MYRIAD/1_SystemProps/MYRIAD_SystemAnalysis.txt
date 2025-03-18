@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2014-09-18 00:04:55 End date: 2019-09-20 06:29:36
+System: {'MYRIAD': 292}
+Types: {'Improvement': 88, 'Task': 26, 'Bug': 160, 'New Feature': 15, 'Wish': 1, 'Test': 2}
+Resolutions: {'Fixed': 112, '': 147, 'Done': 5, "Won't Fix": 6, 'Not A Bug': 3, 'Cannot Reproduce': 3, 'Duplicate': 15, 'Not A Problem': 1}
+Statuses: {'Closed': 101, 'Open': 102, 'In Progress': 8, 'Resolved': 81}
+
+Average Lead Time (all PBIs): 211.1 days
+Average Lead Time (Improvement): 142.0 days
+Average Lead Time (Task): 158.1 days
+Average Lead Time (Bug): 255.7 days
+Average Lead Time (Wish): 307.0 days
+Average Lead Time (New Feature): 248.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2019-06-12 06:29:36 End date: 2019-09-20 06:29:36
+System: {'MYRIAD': 27}
+Types: {'Improvement': 7, 'Task': 14, 'Bug': 5, 'Wish': 1}
+Resolutions: {'Fixed': 17, '': 7, 'Done': 1, 'Not A Bug': 1, 'Cannot Reproduce': 1}
+Statuses: {'Closed': 20, 'Open': 6, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 374.2 days
+Average Lead Time (Improvement): 8.3 days
+Average Lead Time (Task): 153.5 days
+Average Lead Time (Bug): 1092.6 days
+Average Lead Time (Wish): 307.0 days

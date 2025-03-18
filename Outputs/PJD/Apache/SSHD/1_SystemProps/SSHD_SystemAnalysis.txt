@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2008-12-10 10:03:36 End date: 2022-01-03 16:37:03
+System: {'SSHD': 1234}
+Types: {'Bug': 511, 'Improvement': 479, 'Question': 82, 'New Feature': 121, 'Task': 20, 'Wish': 15, 'Test': 3, 'Documentation': 2, 'Dependency upgrade': 1}
+Resolutions: {'Not A Problem': 57, '': 83, 'Fixed': 895, 'Information Provided': 44, 'Duplicate': 37, 'Invalid': 7, 'Workaround': 9, 'Abandoned': 4, 'Not A Bug': 6, "Won't Fix": 60, "Won't Do": 3, 'Cannot Reproduce': 16, 'Done': 4, 'Implemented': 5, 'Works for Me': 1, 'Incomplete': 2, 'Later': 1}
+Statuses: {'Closed': 101, 'Open': 76, 'Resolved': 1050, 'Reopened': 5, 'In Progress': 2}
+
+Average Lead Time (all PBIs): 82.8 days
+Average Lead Time (Bug): 82.0 days
+Average Lead Time (Improvement): 73.3 days
+Average Lead Time (Question): 56.2 days
+Average Lead Time (New Feature): 132.6 days
+Average Lead Time (Task): 105.6 days
+Average Lead Time (Wish): 33.9 days
+Average Lead Time (Documentation): 201.5 days
+Average Lead Time (Test): 5.0 days
+Average Lead Time (Dependency upgrade): 1396.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-25 16:37:03 End date: 2022-01-03 16:37:03
+System: {'SSHD': 29}
+Types: {'Bug': 12, 'Improvement': 15, 'Question': 2}
+Resolutions: {'Not A Problem': 2, '': 4, 'Fixed': 15, 'Information Provided': 4, 'Abandoned': 2, "Won't Do": 2}
+Statuses: {'Closed': 7, 'Open': 4, 'Resolved': 18}
+
+Average Lead Time (all PBIs): 165.5 days
+Average Lead Time (Bug): 31.2 days
+Average Lead Time (Improvement): 304.1 days
+Average Lead Time (Question): 72.5 days

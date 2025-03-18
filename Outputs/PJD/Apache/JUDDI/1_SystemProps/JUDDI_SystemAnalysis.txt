@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2004-01-17 22:54:01 End date: 2021-07-28 22:38:09
+System: {'JUDDI': 982}
+Types: {'Bug': 582, 'Improvement': 131, 'Task': 175, 'New Feature': 88, 'Test': 3, 'Wish': 3}
+Resolutions: {'Fixed': 820, '': 19, 'Cannot Reproduce': 22, 'Duplicate': 21, "Won't Fix": 27, 'Not A Problem': 29, 'Invalid': 18, 'Done': 14, 'Implemented': 4, 'Abandoned': 3, 'Incomplete': 5}
+Statuses: {'Closed': 889, 'Resolved': 74, 'Open': 17, 'In Progress': 2}
+
+Average Lead Time (all PBIs): 113.8 days
+Average Lead Time (Bug): 86.7 days
+Average Lead Time (Improvement): 174.3 days
+Average Lead Time (Task): 141.9 days
+Average Lead Time (New Feature): 145.6 days
+Average Lead Time (Test): 144.3 days
+Average Lead Time (Wish): 841.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-04-19 22:38:09 End date: 2021-07-28 22:38:09
+System: {'JUDDI': 1}
+Types: {'Bug': 1}
+Resolutions: {'Fixed': 1}
+Statuses: {'Closed': 1}
+
+Average Lead Time (all PBIs): 49.0 days
+Average Lead Time (Bug): 49.0 days

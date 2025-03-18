@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2017-03-14 19:56:14 End date: 2021-11-29 18:43:25
+System: {'NIFIREG': 313}
+Types: {'Bug': 85, 'Improvement': 167, 'Task': 32, 'Test': 6, 'Wish': 1, 'New Feature': 22}
+Resolutions: {'': 1, 'Duplicate': 14, 'Incomplete': 1, 'Not A Problem': 3, 'Fixed': 269, 'Done': 13, "Won't Fix": 1, 'Workaround': 2, 'Invalid': 3, "Won't Do": 2, 'Not A Bug': 1, 'Information Provided': 1, 'Cannot Reproduce': 2}
+Statuses: {'Open': 1, 'Closed': 33, 'Resolved': 279}
+
+Average Lead Time (all PBIs): 33.7 days
+Average Lead Time (Improvement): 36.6 days
+Average Lead Time (Bug): 22.6 days
+Average Lead Time (Task): 25.8 days
+Average Lead Time (Test): 2.2 days
+Average Lead Time (Wish): 303.0 days
+Average Lead Time (New Feature): 61.9 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-08-21 18:43:25 End date: 2021-11-29 18:43:25
+System: {'NIFIREG': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

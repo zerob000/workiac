@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 2008-07-16 21:15:08 End date: 2021-11-25 00:00:20
+System: {'SELENIUM': 296}
+Types: {'Improvement': 123, 'Bug': 101, 'Task': 34, 'Story': 2, 'New Feature': 35, 'Documentation': 1}
+Resolutions: {'': 1, "Won't Do": 63, 'Fixed': 181, 'Tracked Elsewhere': 2, 'Duplicate': 10, 'Invalid': 3, 'Obsolete': 16, "Won't Fix": 14, 'Roadmap Candidate': 1, 'Answered': 1, 'Cannot Reproduce': 2, 'Not a bug': 2}
+Statuses: {'Under Review': 1, 'Closed': 130, 'Resolved': 165}
+
+Average Lead Time (all PBIs): 812.1 days
+Average Lead Time (Bug): 598.6 days
+Average Lead Time (Improvement): 1065.9 days
+Average Lead Time (Task): 386.5 days
+Average Lead Time (Story): 441.0 days
+Average Lead Time (New Feature): 926.6 days
+Average Lead Time (Documentation): 2627.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-08-17 00:00:20 End date: 2021-11-25 00:00:20
+System: {'SELENIUM': 62}
+Types: {'Bug': 16, 'Improvement': 35, 'New Feature': 7, 'Task': 3, 'Documentation': 1}
+Resolutions: {"Won't Do": 62}
+Statuses: {'Closed': 62}
+
+Average Lead Time (all PBIs): 3010.3 days
+Average Lead Time (Bug): 2838.9 days
+Average Lead Time (Improvement): 3169.5 days
+Average Lead Time (New Feature): 2905.9 days
+Average Lead Time (Task): 2439.7 days
+Average Lead Time (Documentation): 2627.0 days

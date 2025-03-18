@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2008-12-18 05:22:47 End date: 2022-01-04 17:24:08
+System: {'WFLY': 12322}
+Types: {'Bug': 6785, 'Task': 1637, 'Component Upgrade': 1728, 'Enhancement': 865, 'Feature Request': 1307}
+Resolutions: {'': 1261, 'Done': 8816, 'Not a Bug': 11, "Won't Do": 80, "Won't Fix": 172, 'Out of Date': 619, 'Rejected': 701, 'Duplicate Issue': 395, 'Explained': 72, 'Migrated to another ITS': 15, 'Duplicate': 3, 'Cannot Reproduce': 118, 'Incomplete Description': 23, 'Deferred': 16, 'Resolved at Apache': 3, 'Obsolete': 1, 'Partially Completed': 16}
+Statuses: {'Open': 1064, 'Pull Request Sent': 124, 'Resolved': 835, 'Closed': 10226, 'Coding In Progress': 43, 'Reopened': 30}
+
+Average Lead Time (all PBIs): 138.0 days
+Average Lead Time (Component Upgrade): 32.5 days
+Average Lead Time (Enhancement): 181.6 days
+Average Lead Time (Bug): 139.2 days
+Average Lead Time (Task): 140.4 days
+Average Lead Time (Feature Request): 272.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 17:24:08 End date: 2022-01-04 17:24:08
+System: {'WFLY': 533}
+Types: {'Bug': 168, 'Task': 176, 'Component Upgrade': 82, 'Enhancement': 57, 'Feature Request': 50}
+Resolutions: {'': 188, 'Done': 290, 'Not a Bug': 4, "Won't Do": 15, "Won't Fix": 4, 'Out of Date': 19, 'Rejected': 5, 'Duplicate Issue': 4, 'Explained': 1, 'Cannot Reproduce': 1, 'Migrated to another ITS': 1, 'Incomplete Description': 1}
+Statuses: {'Open': 116, 'Pull Request Sent': 57, 'Resolved': 264, 'Closed': 81, 'Coding In Progress': 12, 'Reopened': 3}
+
+Average Lead Time (all PBIs): 325.2 days
+Average Lead Time (Component Upgrade): 31.1 days
+Average Lead Time (Enhancement): 398.6 days
+Average Lead Time (Bug): 352.5 days
+Average Lead Time (Task): 302.7 days
+Average Lead Time (Feature Request): 1685.9 days

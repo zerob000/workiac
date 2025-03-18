@@ -1,0 +1,186 @@
+Key,ID,Project,IssueType,IsSubtask,Status,Resolution,Created Date,Resolved Date
+SHL-192,82861,SHL,Improvement,false,Open,,2018-10-24 22:53:54,
+SHL-191,68626,SHL,Bug,false,Open,,2016-05-12 14:14:05,
+SHL-190,68252,SHL,Improvement,false,Open,,2016-04-08 12:01:01,
+SHL-189,68135,SHL,Improvement,false,Closed,Fixed,2016-04-01 12:33:40,2016-11-03 14:43:09
+SHL-188,67694,SHL,Improvement,false,Closed,Won't Fix,2016-02-16 17:40:26,2016-11-03 14:14:10
+SHL-187,67682,SHL,Bug,false,Closed,Complete,2016-02-16 06:10:13,2016-06-29 18:08:55
+SHL-186,66897,SHL,Bug,false,Open,,2015-11-30 12:29:51,
+SHL-185,66713,SHL,Bug,false,Open,,2015-11-13 15:45:33,
+SHL-183,66217,SHL,Bug,false,Closed,Complete,2015-10-07 20:12:39,2016-06-17 13:14:11
+SHL-182,65892,SHL,Improvement,false,Open,,2015-09-18 11:44:43,
+SHL-181,65891,SHL,Improvement,false,Open,,2015-09-18 10:43:33,
+SHL-180,65837,SHL,Improvement,false,Open,,2015-09-11 21:24:08,
+SHL-179,64756,SHL,Bug,false,Open,,2015-07-14 08:00:44,
+SHL-178,64689,SHL,Bug,false,Open,,2015-07-09 13:19:43,
+SHL-177,64541,SHL,Task,false,Closed,Complete,2015-07-01 01:28:02,2016-06-17 13:14:46
+SHL-176,63023,SHL,Bug,false,Closed,Cannot Reproduce,2015-04-01 11:19:05,2015-07-01 01:59:39
+SHL-175,62767,SHL,New Feature,false,Open,,2015-03-18 20:55:06,
+SHL-174,62764,SHL,New Feature,false,Open,,2015-03-18 12:11:24,
+SHL-173,62475,SHL,Improvement,false,Open,,2015-03-02 07:58:02,
+SHL-172,62353,SHL,Improvement,false,Open,,2015-02-23 03:47:26,
+SHL-171,62209,SHL,New Feature,false,Open,,2015-02-12 01:53:59,
+SHL-170,62162,SHL,Bug,false,Closed,Fixed,2015-02-09 05:19:40,2015-06-30 03:53:39
+SHL-169,61524,SHL,Improvement,false,Open,,2015-01-09 05:55:11,
+SHL-168,61523,SHL,Improvement,false,Open,,2015-01-09 04:54:48,
+SHL-167,61484,SHL,New Feature,false,Open,,2015-01-07 07:24:34,
+SHL-166,61269,SHL,Improvement,false,Open,,2014-12-18 03:54:21,
+SHL-165,61134,SHL,Bug,false,Open,,2014-12-09 08:46:36,
+SHL-164,61008,SHL,Improvement,false,Open,,2014-12-04 08:26:47,
+SHL-163,60893,SHL,Bug,false,Open,,2014-11-29 10:40:50,
+SHL-162,60395,SHL,Bug,false,Open,,2014-10-29 04:46:17,
+SHL-161,60118,SHL,Bug,false,Open,,2014-10-08 06:23:31,
+SHL-160,59566,SHL,Bug,false,Open,,2014-09-03 11:47:16,
+SHL-159,59200,SHL,New Feature,false,Open,,2014-08-07 00:49:32,
+SHL-158,58840,SHL,Bug,false,Closed,Complete,2014-07-16 00:27:45,2016-06-17 13:15:16
+SHL-157,58769,SHL,Bug,false,Open,,2014-07-11 09:09:04,
+SHL-156,58683,SHL,Bug,false,Closed,Complete,2014-07-07 20:28:09,2014-07-25 14:11:16
+SHL-155,58503,SHL,Improvement,false,Resolved,Complete,2014-06-27 07:30:29,2014-07-01 07:48:59
+SHL-154,58378,SHL,Task,false,Resolved,Complete,2014-06-20 19:11:02,2014-07-07 20:21:42
+SHL-153,58347,SHL,Bug,false,Closed,Complete,2014-06-19 18:58:03,2014-06-20 13:52:24
+SHL-152,57881,SHL,Bug,false,Open,,2014-05-21 01:13:53,
+SHL-151,57795,SHL,Task,false,Closed,Complete,2014-05-16 13:02:11,2014-06-20 13:49:19
+SHL-150,57794,SHL,Bug,false,Open,,2014-05-16 12:47:54,
+SHL-149,57793,SHL,Bug,false,Resolved,Complete,2014-05-16 12:46:12,2014-06-20 13:49:31
+SHL-148,57723,SHL,Bug,false,Open,,2014-05-14 04:40:34,
+SHL-147,57707,SHL,New Feature,false,Closed,Won't Fix,2014-05-13 02:56:33,2015-07-01 03:10:14
+SHL-146,57628,SHL,Bug,false,Closed,Fixed,2014-05-07 08:56:51,2016-11-03 14:41:28
+SHL-145,57616,SHL,New Feature,false,Open,,2014-05-06 02:27:40,
+SHL-144,57597,SHL,Improvement,false,Open,,2014-05-05 08:15:55,
+SHL-143,57484,SHL,Improvement,false,Resolved,Complete,2014-05-02 10:50:32,2014-05-02 13:41:15
+SHL-142,57384,SHL,Improvement,false,Open,,2014-04-28 14:16:57,
+SHL-141,57215,SHL,Bug,false,Open,,2014-04-18 07:39:03,
+SHL-140,57212,SHL,Bug,false,Resolved,Complete,2014-04-18 07:01:28,2014-07-07 20:21:54
+SHL-139,57201,SHL,Improvement,false,Resolved,Complete,2014-04-18 03:59:30,2014-05-02 13:45:50
+SHL-138,57200,SHL,Bug,false,Closed,Complete,2014-04-18 03:44:32,2014-06-20 13:54:53
+SHL-137,57152,SHL,Task,false,Resolved,Complete,2014-04-15 06:40:14,2014-05-02 10:51:25
+SHL-136,57149,SHL,Improvement,false,Closed,Complete,2014-04-15 05:55:40,2014-06-20 13:51:42
+SHL-135,57120,SHL,Bug,false,Resolved,Complete,2014-04-14 06:55:18,2014-04-15 06:36:32
+SHL-134,57110,SHL,Improvement,false,Resolved,Complete,2014-04-13 06:22:52,2014-05-16 12:36:15
+SHL-133,57090,SHL,Bug,false,Resolved,Complete,2014-04-11 17:59:59,2014-04-15 06:36:54
+SHL-132,56935,SHL,Bug,false,Resolved,Invalid,2014-04-04 13:21:41,2014-05-02 13:44:14
+SHL-130,56883,SHL,Task,false,Resolved,Complete,2014-04-02 15:13:31,2014-04-02 17:31:11
+SHL-129,56860,SHL,Bug,false,Open,,2014-04-02 00:29:52,
+SHL-128,56859,SHL,Task,false,Resolved,Complete,2014-04-01 23:01:09,2014-04-02 14:37:07
+SHL-127,56686,SHL,Bug,false,Resolved,Complete,2014-03-25 00:03:33,2014-04-01 22:44:33
+SHL-126,56596,SHL,New Feature,false,Resolved,Complete,2014-03-24 13:38:38,2014-04-01 21:30:49
+SHL-125,56491,SHL,Improvement,false,Resolved,Complete,2014-03-19 13:43:15,2014-04-01 22:10:28
+SHL-124,56191,SHL,Bug,false,Resolved,Won't Fix,2014-03-04 21:13:38,2014-04-02 14:31:32
+SHL-123,56109,SHL,Bug,false,Resolved,Deferred,2014-02-27 21:55:07,2014-04-01 22:24:55
+SHL-122,55682,SHL,Bug,false,Closed,Complete,2014-02-14 01:36:45,2014-03-03 01:41:04
+SHL-121,55559,SHL,New Feature,false,Open,,2014-02-10 00:31:59,
+SHL-120,55420,SHL,Bug,false,Closed,Complete,2014-01-30 16:08:40,2014-01-30 16:19:47
+SHL-119,55419,SHL,Bug,false,Resolved,Complete,2014-01-30 15:04:59,2014-01-30 15:28:27
+SHL-118,55418,SHL,Task,false,Resolved,Complete,2014-01-30 14:56:01,2014-01-30 15:28:38
+SHL-117,55183,SHL,Bug,false,Resolved,Complete,2014-01-16 19:39:31,2014-04-01 22:48:29
+SHL-116,52323,SHL,Bug,false,Closed,Complete,2013-12-12 04:29:57,2014-01-30 16:21:50
+SHL-115,52287,SHL,Bug,false,Resolved,Won't Fix,2013-12-10 14:20:29,2014-04-01 22:28:42
+SHL-114,52106,SHL,Bug,false,Resolved,Complete,2013-11-29 08:27:08,2014-04-01 22:14:19
+SHL-113,51823,SHL,Bug,false,Closed,Complete,2013-11-13 01:59:49,2014-04-18 07:02:47
+SHL-112,51568,SHL,Bug,false,Open,,2013-10-28 12:40:55,
+SHL-111,51516,SHL,Improvement,false,Resolved,Works as Designed,2013-10-24 09:23:56,2014-04-01 22:19:11
+SHL-110,51345,SHL,Bug,false,Open,,2013-10-15 10:52:13,
+SHL-109,51323,SHL,New Feature,false,Closed,Won't Fix,2013-10-13 07:16:25,2015-07-01 00:38:41
+SHL-108,50318,SHL,Bug,false,Closed,Invalid,2013-08-12 21:02:45,2013-08-13 21:11:54
+SHL-107,50235,SHL,Bug,false,Resolved,Complete,2013-08-08 18:16:05,2014-04-01 21:47:32
+SHL-106,50227,SHL,New Feature,false,Open,,2013-08-08 12:55:28,
+SHL-105,49982,SHL,Improvement,false,Resolved,Complete,2013-07-25 16:50:41,2013-07-25 16:52:00
+SHL-104,49981,SHL,Improvement,false,Resolved,Complete,2013-07-25 16:44:53,2013-07-25 16:46:22
+SHL-103,49913,SHL,New Feature,false,Resolved,Complete,2013-07-23 08:46:22,2013-07-25 17:19:31
+SHL-102,49901,SHL,Improvement,false,Resolved,Complete,2013-07-22 23:58:41,2013-07-23 00:03:04
+SHL-101,49900,SHL,Improvement,false,Resolved,Complete,2013-07-22 23:39:15,2013-07-23 00:02:56
+SHL-100,49899,SHL,Improvement,false,Resolved,Complete,2013-07-22 21:01:06,2013-07-23 00:02:41
+SHL-99,49868,SHL,Improvement,false,Open,,2013-07-22 04:42:59,
+SHL-98,49468,SHL,Bug,false,Closed,Complete,2013-07-02 22:27:18,2014-12-01 03:55:03
+SHL-97,49106,SHL,Improvement,false,Open,,2013-06-13 01:14:49,
+SHL-96,48438,SHL,Improvement,false,Closed,Invalid,2013-05-05 02:44:52,2013-07-22 16:28:43
+SHL-95,48304,SHL,New Feature,false,Open,,2013-04-24 02:23:12,
+SHL-94,47884,SHL,New Feature,false,Open,,2013-03-21 08:49:10,
+SHL-93,47197,SHL,Improvement,false,Resolved,Complete,2013-01-27 20:48:54,2013-07-25 16:12:15
+SHL-92,47196,SHL,Improvement,false,Closed,Complete,2013-01-27 20:30:32,2013-07-25 16:13:06
+SHL-91,47195,SHL,Improvement,false,Resolved,Complete,2013-01-27 14:29:07,2014-04-01 23:06:08
+SHL-90,47170,SHL,Improvement,false,Closed,Complete,2013-01-24 13:02:45,2015-07-01 01:17:00
+SHL-89,47169,SHL,Bug,false,Open,,2013-01-24 12:45:41,
+SHL-88,46907,SHL,Bug,false,Open,,2013-01-15 02:14:13,
+SHL-87,46862,SHL,Bug,false,Closed,Complete,2013-01-11 03:30:45,2013-07-25 14:14:46
+SHL-86,46677,SHL,Improvement,false,Resolved,Complete,2012-12-18 15:50:04,2012-12-19 13:29:45
+SHL-85,46558,SHL,Bug,false,Closed,Complete,2012-12-07 13:33:04,2014-02-28 01:52:25
+SHL-84,46557,SHL,Bug,false,Resolved,Complete,2012-12-07 13:09:45,2014-04-02 06:54:11
+SHL-83,46509,SHL,Improvement,false,Open,,2012-12-04 04:01:38,
+SHL-82,46388,SHL,Improvement,false,Resolved,Complete,2012-11-28 16:13:36,2013-07-25 15:38:28
+SHL-81,46332,SHL,Improvement,false,Open,,2012-11-25 23:01:43,
+SHL-80,46331,SHL,Improvement,false,Resolved,Complete,2012-11-25 22:58:49,2014-04-01 23:04:11
+SHL-79,46220,SHL,Improvement,false,Resolved,Complete,2012-11-15 14:46:18,2012-11-15 14:46:46
+SHL-78,46219,SHL,Improvement,false,Resolved,Complete,2012-11-15 14:42:37,2012-12-18 14:30:58
+SHL-77,46218,SHL,Improvement,false,Resolved,Complete,2012-11-15 14:31:05,2012-11-15 14:36:02
+SHL-75,46214,SHL,Improvement,false,Resolved,Complete,2012-11-15 12:38:44,2012-11-15 14:34:55
+SHL-74,46070,SHL,Improvement,false,Closed,Complete,2012-11-11 09:41:09,2014-01-30 16:21:06
+SHL-73,46069,SHL,Improvement,false,Resolved,Complete,2012-11-11 08:43:08,2013-07-25 14:21:33
+SHL-72,46068,SHL,Bug,false,Resolved,Complete,2012-11-11 07:58:21,2013-07-25 14:39:18
+SHL-71,46067,SHL,Improvement,false,Resolved,Complete,2012-11-11 07:54:17,2013-07-25 14:21:56
+SHL-70,46066,SHL,Improvement,false,Resolved,Complete,2012-11-11 07:42:28,2013-07-25 14:58:29
+SHL-69,46065,SHL,Improvement,false,Resolved,Complete,2012-11-11 07:29:34,2013-07-25 15:08:14
+SHL-68,46064,SHL,Improvement,false,Resolved,Complete,2012-11-11 07:25:19,2013-07-25 15:11:36
+SHL-67,45990,SHL,New Feature,false,Resolved,Works as Designed,2012-11-05 11:14:45,2014-04-01 15:33:21
+SHL-66,45988,SHL,New Feature,false,Resolved,Complete,2012-11-05 10:31:31,2013-07-25 15:09:43
+SHL-65,45987,SHL,Bug,false,Open,,2012-11-05 08:50:37,
+SHL-64,45674,SHL,New Feature,false,Closed,Won't Fix,2012-10-08 18:43:27,2012-12-19 13:35:19
+SHL-63,45538,SHL,Improvement,false,Resolved,Complete,2012-09-24 08:08:16,2012-10-03 11:12:50
+SHL-62,45529,SHL,Bug,false,Closed,Complete,2012-09-23 21:27:26,2013-07-22 20:34:33
+SHL-61,45484,SHL,Bug,false,Closed,Complete,2012-09-19 11:26:56,2012-09-19 11:29:02
+SHL-60,45246,SHL,Bug,false,Closed,Complete,2012-08-31 14:14:32,2012-09-19 09:02:05
+SHL-59,45041,SHL,New Feature,false,Resolved,Duplicate,2012-08-23 05:08:16,2012-09-19 09:03:33
+SHL-58,44759,SHL,New Feature,false,Open,,2012-08-01 11:19:54,
+SHL-57,44748,SHL,Improvement,false,Resolved,Complete,2012-08-01 00:02:16,2012-08-01 19:01:27
+SHL-56,44656,SHL,New Feature,false,Resolved,Duplicate,2012-07-24 08:52:16,2012-07-24 10:22:50
+SHL-55,44651,SHL,New Feature,false,Resolved,Complete,2012-07-24 02:00:32,2012-07-24 03:32:14
+SHL-54,44591,SHL,Improvement,false,Closed,Complete,2012-07-20 02:24:15,2012-09-19 08:12:50
+SHL-53,44576,SHL,Improvement,false,Resolved,Complete,2012-07-19 05:20:23,2012-09-19 08:48:09
+SHL-52,44573,SHL,Bug,false,Closed,Works as Designed,2012-07-19 01:58:56,2012-09-19 08:50:45
+SHL-51,44572,SHL,Task,false,Resolved,Complete,2012-07-19 01:54:44,2012-09-19 07:46:10
+SHL-50,44558,SHL,Task,false,Resolved,Complete,2012-07-18 09:06:32,2012-07-18 09:06:57
+SHL-49,44550,SHL,Bug,false,Open,,2012-07-17 18:27:25,
+SHL-48,44536,SHL,Bug,false,Resolved,Complete,2012-07-16 13:20:54,2012-09-19 07:34:03
+SHL-47,44535,SHL,Bug,false,Resolved,Complete,2012-07-16 13:13:23,2013-07-25 15:41:27
+SHL-46,44534,SHL,Task,false,Resolved,Complete,2012-07-16 12:49:33,2012-07-17 21:39:05
+SHL-45,44515,SHL,Task,false,Resolved,Complete,2012-07-14 10:28:27,2012-07-16 13:33:27
+SHL-44,44514,SHL,Task,false,Resolved,Complete,2012-07-14 05:30:13,2012-07-14 11:04:46
+SHL-43,44513,SHL,Task,false,Resolved,Complete,2012-07-14 05:11:09,2012-07-14 05:12:21
+SHL-42,44485,SHL,Task,false,Resolved,Complete,2012-07-12 12:18:04,2012-07-14 11:04:24
+SHL-41,44483,SHL,Improvement,false,Resolved,Complete,2012-07-12 10:20:40,2012-07-12 11:36:33
+SHL-40,44482,SHL,New Feature,false,Resolved,Complete,2012-07-12 10:10:53,2012-07-12 10:17:14
+SHL-39,44481,SHL,Improvement,false,Resolved,Complete,2012-07-12 10:10:03,2012-07-12 11:37:18
+SHL-38,44478,SHL,Improvement,false,Open,,2012-07-12 09:24:00,
+SHL-37,44458,SHL,Improvement,false,Open,,2012-07-11 07:27:37,
+SHL-36,44453,SHL,Improvement,false,Resolved,Won't Fix,2012-07-11 04:43:56,2013-07-22 20:44:01
+SHL-35,43786,SHL,Bug,false,Resolved,Complete,2012-06-08 03:43:15,2012-07-12 10:02:47
+SHL-34,43555,SHL,Improvement,false,Resolved,Duplicate,2012-05-24 23:25:36,2013-07-22 20:44:57
+SHL-33,43744,SHL,Improvement,false,Resolved,Incomplete,2012-06-06 01:31:02,2014-04-01 23:07:28
+SHL-32,43596,SHL,Improvement,false,Resolved,Complete,2012-05-28 23:33:53,2012-07-17 10:32:23
+SHL-31,43595,SHL,Improvement,false,Resolved,Complete,2012-05-28 23:33:42,2012-07-17 10:34:38
+SHL-30,43386,SHL,New Feature,false,Resolved,Complete,2012-05-16 18:20:49,2012-05-21 02:18:31
+SHL-29,43385,SHL,New Feature,false,Open,,2012-05-16 18:19:24,
+SHL-25,43063,SHL,Task,false,Resolved,Complete,2012-04-23 11:41:13,2012-04-23 21:31:27
+SHL-24,43036,SHL,Improvement,false,Resolved,Complete,2012-04-20 01:36:38,2012-04-24 00:22:24
+SHL-23,43025,SHL,Task,false,Resolved,Complete,2012-04-19 05:32:18,2012-07-17 21:37:52
+SHL-22,42988,SHL,Bug,false,Resolved,Complete,2012-04-16 19:57:48,2012-04-16 20:34:04
+SHL-21,42964,SHL,Bug,false,Resolved,Complete,2012-04-16 00:42:37,2012-04-17 03:16:01
+SHL-20,42962,SHL,Improvement,false,Closed,Won't Fix,2012-04-15 20:11:01,2012-04-23 11:32:17
+SHL-19,42961,SHL,Bug,false,Resolved,Complete,2012-04-15 20:05:13,2012-04-15 23:55:42
+SHL-18,42935,SHL,Bug,false,Resolved,Complete,2012-04-12 20:49:42,2012-04-15 23:56:29
+SHL-16,42919,SHL,Bug,false,Resolved,Complete,2012-04-12 00:01:27,2012-04-15 23:56:42
+SHL-15,42905,SHL,Bug,false,Resolved,Complete,2012-04-10 23:51:51,2012-04-15 23:57:42
+SHL-14,42878,SHL,Bug,false,Resolved,Complete,2012-04-09 07:27:56,2012-04-17 23:59:33
+SHL-13,42877,SHL,New Feature,false,Resolved,Complete,2012-04-09 07:18:38,2012-04-16 00:01:30
+SHL-12,42876,SHL,New Feature,false,Resolved,Complete,2012-04-09 07:16:18,2012-04-16 00:04:30
+SHL-11,42875,SHL,New Feature,false,Resolved,Complete,2012-04-09 07:15:07,2012-04-16 00:01:44
+SHL-10,42874,SHL,Task,false,Resolved,Complete,2012-04-09 06:35:52,2012-04-16 00:02:08
+SHL-9,42873,SHL,Task,false,Resolved,Complete,2012-04-09 06:34:22,2012-04-16 00:03:06
+SHL-8,42865,SHL,Bug,false,Resolved,Complete,2012-04-07 03:41:25,2012-04-16 00:03:14
+SHL-7,42849,SHL,New Feature,false,Closed,Won't Fix,2012-04-05 22:06:31,2015-07-01 01:52:00
+SHL-6,42848,SHL,Bug,false,Resolved,Complete,2012-04-05 21:09:26,2012-04-16 00:03:24
+SHL-5,42820,SHL,Task,false,Closed,Duplicate,2012-04-04 01:19:52,2015-07-01 01:49:38
+SHL-4,42818,SHL,Task,false,Resolved,Complete,2012-04-04 00:56:40,2012-04-27 18:44:09
+SHL-3,42231,SHL,Task,false,Resolved,Complete,2012-02-15 18:19:12,2012-04-16 00:03:46
+SHL-2,42230,SHL,New Feature,false,Resolved,Complete,2012-02-15 18:15:17,2012-04-16 00:04:01
+SHL-1,42229,SHL,Task,false,Resolved,Complete,2012-02-15 18:10:12,2012-04-24 22:30:27

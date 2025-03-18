@@ -1,0 +1,70 @@
+---
+Locations:
+    id_loc: 0
+    sysm_loc: 2
+    issue_loc: 3
+    resol_loc: 6
+    status_loc: 5
+    arr_loc: 7
+    ser_loc: 8
+spacer: ''
+#date_format = '%d/%m/%Y'
+#date_format = '%d/%b/%y %H:%M'
+#date_format: "%d/%m/%Y %H:%M" 
+date_format: "%Y-%m-%d %H:%M:%S"
+Filters:
+    EpicsSubtasks:
+    - "Epic"
+    FeedbackBugs:
+    - "Bug"
+    #- "Defect"
+    #- "Cosmetic"
+    #- "Production Issue"
+    #- "Support Ticket"
+    #- "Meta Issue"
+    #- "Question"
+    #- "Clarification"
+    #- "Support Request"
+    #- "Patch"
+    #- "Support Patch"
+    #- "Issue"
+    #- "Incident"
+    StatusNoFurtherWorkRequired:
+    - "Confirmed"
+    - "Closed"
+    #- "Complete"
+    - "Done"
+    #- "Duplicate"
+    #- "Invalid"
+    #- "Resolved"
+    #- "Will Not Implement"
+    #- "Won't Fix"
+    #- "Dropped"
+    #- "Rejected"
+    #- "Verified"
+    ResosNotDoneByTeam:
+    #- "Canceled"
+    - "Cannot Reproduce"
+    #- "Can't Do"
+    #- "Declined"
+    #- "Deferred"
+    - "Duplicate"
+    #- "Expected Behavior"
+    - "Incomplete"
+    #- "Invalid"
+    #- "Invalid: Works as Expected"
+    #- "Invalid: Environment Issue"
+    #- "Invalid: Test Error"
+    #- "Invalid: Not Supported"
+    #- "Low Priority"
+    #- "MirrorOrphan"
+    - "Not a Bug"
+    #- "Not Applicable"
+    #- "Obsolete"
+    #- "Unactionable"
+    #- "Will not implement"
+    - "Won't Do"
+    #- "Won't Finish"
+    - "Won't Fix"
+    
+

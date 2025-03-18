@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2020-09-23 05:17:29 End date: 2022-01-04 16:48:52
+System: {'QUARKUS': 692}
+Types: {'Feature Request': 100, 'Bug': 445, 'Task': 129, 'Component Upgrade': 18}
+Resolutions: {'': 99, 'Done': 452, "Won't Do": 13, 'Not a Bug': 9, "Won't Fix": 8, 'Duplicate': 3, 'Rejected': 17, 'Explained': 4, 'Fixed': 42, 'Out of Date': 3, 'Duplicate Issue': 33, 'Cannot Reproduce': 1, 'Upstream': 1, 'Deferred': 5, 'Migrated to another ITS': 1, 'Incomplete': 1}
+Statuses: {'To Do': 66, 'Closed': 440, 'Dev In Progress': 24, 'Implemented': 121, 'Verified': 6, 'Resolved': 26, 'Analysis in Progress': 9}
+
+Average Lead Time (all PBIs): 32.6 days
+Average Lead Time (Bug): 22.0 days
+Average Lead Time (Component Upgrade): 10.9 days
+Average Lead Time (Task): 49.3 days
+Average Lead Time (Feature Request): 78.9 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 16:48:52 End date: 2022-01-04 16:48:52
+System: {'QUARKUS': 270}
+Types: {'Feature Request': 38, 'Bug': 179, 'Task': 38, 'Component Upgrade': 15}
+Resolutions: {'': 49, 'Done': 159, "Won't Do": 4, 'Not a Bug': 2, "Won't Fix": 5, 'Duplicate': 1, 'Rejected': 2, 'Explained': 1, 'Fixed': 42, 'Out of Date': 2, 'Cannot Reproduce': 1, 'Duplicate Issue': 1, 'Deferred': 1}
+Statuses: {'To Do': 29, 'Closed': 88, 'Dev In Progress': 16, 'Implemented': 115, 'Verified': 6, 'Resolved': 12, 'Analysis in Progress': 4}
+
+Average Lead Time (all PBIs): 35.9 days
+Average Lead Time (Bug): 23.9 days
+Average Lead Time (Component Upgrade): 0.0 days
+Average Lead Time (Task): 67.2 days
+Average Lead Time (Feature Request): 119.6 days

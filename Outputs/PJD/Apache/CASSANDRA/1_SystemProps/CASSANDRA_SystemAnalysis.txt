@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2009-03-07 03:37:05 End date: 2022-01-05 13:00:17
+System: {'CASSANDRA': 16399}
+Types: {'Bug': 9431, 'Improvement': 5475, 'New Feature': 926, 'Task': 567}
+Resolutions: {'Not A Problem': 891, '': 2148, 'Fixed': 9635, 'Invalid': 543, 'Duplicate': 1489, "Won't Fix": 764, 'Cannot Reproduce': 507, 'Implemented': 14, 'Incomplete': 39, 'Not A Bug': 34, 'Done': 20, 'Abandoned': 18, 'Auto Closed': 87, 'Later': 146, 'Information Provided': 44, 'Resolved': 8, 'Works for Me': 1, 'Workaround': 2, 'Feedback Received': 3, "Won't Do": 6}
+Statuses: {'Resolved': 14249, 'Open': 1714, 'Patch Available': 48, 'In Progress': 70, 'Triage Needed': 240, 'Review In Progress': 23, 'Changes Suggested': 11, 'Ready to Commit': 6, 'Needs Committer': 3, 'Awaiting Feedback': 35}
+
+Average Lead Time (all PBIs): 107.3 days
+Average Lead Time (Bug): 89.8 days
+Average Lead Time (Task): 91.4 days
+Average Lead Time (Improvement): 128.3 days
+Average Lead Time (New Feature): 198.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-27 13:00:17 End date: 2022-01-05 13:00:17
+System: {'CASSANDRA': 305}
+Types: {'Bug': 133, 'Improvement': 101, 'New Feature': 36, 'Task': 35}
+Resolutions: {'Not A Problem': 10, '': 117, 'Fixed': 144, 'Invalid': 10, 'Duplicate': 14, "Won't Fix": 3, 'Cannot Reproduce': 6, 'Incomplete': 1}
+Statuses: {'Resolved': 188, 'Open': 45, 'Patch Available': 10, 'In Progress': 12, 'Triage Needed': 40, 'Review In Progress': 6, 'Changes Suggested': 1, 'Ready to Commit': 3}
+
+Average Lead Time (all PBIs): 317.5 days
+Average Lead Time (Bug): 373.7 days
+Average Lead Time (Task): 41.2 days
+Average Lead Time (Improvement): 321.8 days
+Average Lead Time (New Feature): 434.9 days

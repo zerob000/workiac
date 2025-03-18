@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2016-01-26 09:19:34 End date: 2022-01-04 13:45:31
+System: {'DBZ': 4134}
+Types: {'Bug': 1793, 'Task': 1300, 'Feature Request': 391, 'Enhancement': 650}
+Resolutions: {'Done': 2652, '': 721, 'Invalid Ticket': 3, 'Explained': 131, 'Duplicate Issue': 164, 'Cannot Reproduce': 78, 'Out of Date': 179, "Won't Do": 73, 'Not a Bug': 42, 'Rejected': 33, "Won't Fix": 33, 'Upstream': 1, 'Duplicate': 15, 'Incomplete Description': 3, 'Resolved at Apache': 4, 'Partially Completed': 2}
+Statuses: {'Resolved': 56, 'Pull Request Sent': 51, 'Open': 656, 'Closed': 3357, 'Reopened': 10, 'Coding In Progress': 4}
+
+Average Lead Time (all PBIs): 69.0 days
+Average Lead Time (Bug): 51.1 days
+Average Lead Time (Feature Request): 147.4 days
+Average Lead Time (Enhancement): 98.6 days
+Average Lead Time (Task): 61.4 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 13:45:31 End date: 2022-01-04 13:45:31
+System: {'DBZ': 534}
+Types: {'Bug': 230, 'Task': 179, 'Feature Request': 34, 'Enhancement': 91}
+Resolutions: {'Done': 285, '': 151, 'Invalid Ticket': 3, 'Explained': 16, 'Duplicate Issue': 27, 'Cannot Reproduce': 8, 'Out of Date': 25, "Won't Do": 9, 'Not a Bug': 8, 'Rejected': 2}
+Statuses: {'Resolved': 29, 'Pull Request Sent': 19, 'Open': 128, 'Closed': 354, 'Reopened': 1, 'Coding In Progress': 3}
+
+Average Lead Time (all PBIs): 74.1 days
+Average Lead Time (Bug): 66.4 days
+Average Lead Time (Feature Request): 190.7 days
+Average Lead Time (Enhancement): 79.2 days
+Average Lead Time (Task): 66.1 days

@@ -1,0 +1,34 @@
+All PBIS - Unfiltered 
+Start date: 2007-05-29 14:33:00 End date: 2019-12-16 09:37:43
+System: {'BATCH': 2497}
+Types: {'Improvement': 737, 'Bug': 1097, 'Support': 19, 'New Feature': 355, 'Task': 190, 'Pruning': 5, 'Defect': 30, 'Story': 6, 'Refactoring': 58}
+Resolutions: {'': 355, 'Fixed': 1034, 'Complete': 626, "Won't Do": 43, 'Duplicate': 95, 'Invalid': 89, 'Works as Designed': 56, 'Done': 5, "Won't Fix": 162, 'Cannot Reproduce': 29, 'Incomplete': 3}
+Statuses: {'Open': 351, 'Resolved': 1448, 'Closed': 694, 'In Progress': 2, 'Reopened': 2}
+
+Average Lead Time (all PBIs): 164.9 days
+Average Lead Time (Bug): 103.3 days
+Average Lead Time (Support): 452.0 days
+Average Lead Time (Improvement): 201.4 days
+Average Lead Time (New Feature): 298.6 days
+Average Lead Time (Pruning): 576.8 days
+Average Lead Time (Task): 91.2 days
+Average Lead Time (Defect): 226.4 days
+Average Lead Time (Story): 1011.0 days
+Average Lead Time (Refactoring): 95.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2019-09-07 09:37:43 End date: 2019-12-16 09:37:43
+System: {'BATCH': 76}
+Types: {'Improvement': 16, 'Bug': 37, 'Support': 2, 'New Feature': 16, 'Task': 4, 'Pruning': 1}
+Resolutions: {'': 16, 'Fixed': 6, 'Complete': 7, "Won't Do": 13, 'Duplicate': 15, 'Done': 2, 'Works as Designed': 4, "Won't Fix": 5, 'Invalid': 5, 'Cannot Reproduce': 3}
+Statuses: {'Open': 16, 'Resolved': 57, 'Closed': 3}
+
+Average Lead Time (all PBIs): 1445.1 days
+Average Lead Time (Bug): 1231.1 days
+Average Lead Time (Support): 108.5 days
+Average Lead Time (Improvement): 1398.3 days
+Average Lead Time (New Feature): 2395.4 days
+Average Lead Time (Pruning): 212.0 days
+Average Lead Time (Task): 1272.7 days

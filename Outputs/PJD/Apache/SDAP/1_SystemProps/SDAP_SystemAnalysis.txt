@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2017-10-27 22:33:58 End date: 2021-12-17 01:17:05
+System: {'SDAP': 316}
+Types: {'Bug': 117, 'Improvement': 92, 'New Feature': 58, 'Task': 44, 'Test': 1, 'Wish': 4}
+Resolutions: {'': 138, 'Fixed': 132, 'Done': 38, "Won't Fix": 2, "Won't Do": 1, 'Duplicate': 4, 'Implemented': 1}
+Statuses: {'To Do': 127, 'In Progress': 11, 'Done': 178}
+
+Average Lead Time (all PBIs): 46.1 days
+Average Lead Time (Improvement): 42.5 days
+Average Lead Time (New Feature): 52.8 days
+Average Lead Time (Bug): 29.2 days
+Average Lead Time (Task): 42.1 days
+Average Lead Time (Test): 21.0 days
+Average Lead Time (Wish): 373.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-08 01:17:05 End date: 2021-12-17 01:17:05
+System: {'SDAP': 30}
+Types: {'Bug': 9, 'Improvement': 12, 'New Feature': 3, 'Task': 6}
+Resolutions: {'': 19, 'Fixed': 9, 'Done': 1, 'Implemented': 1}
+Statuses: {'To Do': 18, 'In Progress': 1, 'Done': 11}
+
+Average Lead Time (all PBIs): 135.5 days
+Average Lead Time (Improvement): 174.2 days
+Average Lead Time (New Feature): 0.0 days
+Average Lead Time (Bug): 24.5 days
+Average Lead Time (Task): 186.0 days

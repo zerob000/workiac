@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2018-10-24 08:33:07 End date: 2021-08-16 17:31:36
+System: {'RHMWINT': 97}
+Types: {'Task': 79, 'Bug': 13, 'Clarification': 1, 'Enhancement': 1, 'Feature Request': 3}
+Resolutions: {'Duplicate Issue': 3, '': 21, 'Done': 70, "Won't Fix": 1, "Won't Do": 1, 'Rejected': 1}
+Statuses: {'Closed': 58, 'Open': 17, 'Resolved': 18, 'Coding In Progress': 4}
+
+Average Lead Time (all PBIs): 72.9 days
+Average Lead Time (Task): 61.8 days
+Average Lead Time (Bug): 82.5 days
+Average Lead Time (Feature Request): 380.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-05-08 17:31:36 End date: 2021-08-16 17:31:36
+System: {'RHMWINT': 6}
+Types: {'Task': 3, 'Bug': 2, 'Feature Request': 1}
+Resolutions: {'Done': 6}
+Statuses: {'Resolved': 4, 'Closed': 2}
+
+Average Lead Time (all PBIs): 333.5 days
+Average Lead Time (Task): 296.3 days
+Average Lead Time (Bug): 262.5 days
+Average Lead Time (Feature Request): 587.0 days

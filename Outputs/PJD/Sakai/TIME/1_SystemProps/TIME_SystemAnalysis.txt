@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2008-08-26 07:09:52 End date: 2018-09-06 10:08:52
+System: {'TIME': 75}
+Types: {'Story': 1, 'Bug': 30, 'Feature Request': 18, 'Enhancement': 1, 'Task': 25}
+Resolutions: {"Won't Do": 1, '': 38, 'Fixed': 29, "Won't Fix": 6, 'Non-Issue': 1}
+Statuses: {'Closed': 30, 'Open': 34, 'Resolved': 7, 'In Progress': 4}
+
+Average Lead Time (all PBIs): 641.6 days
+Average Lead Time (Story): 0.0 days
+Average Lead Time (Feature Request): 1382.8 days
+Average Lead Time (Enhancement): 0.0 days
+Average Lead Time (Task): 271.7 days
+Average Lead Time (Bug): 50.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2018-05-29 10:08:52 End date: 2018-09-06 10:08:52
+System: {'TIME': 2}
+Types: {'Story': 1, 'Bug': 1}
+Resolutions: {"Won't Do": 1, '': 1}
+Statuses: {'Closed': 1, 'Open': 1}
+
+Average Lead Time (all PBIs): 0.0 days
+Average Lead Time (Story): 0.0 days

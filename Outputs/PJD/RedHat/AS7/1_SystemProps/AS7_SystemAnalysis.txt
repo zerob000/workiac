@@ -1,0 +1,34 @@
+All PBIS - Unfiltered 
+Start date: 2006-04-19 09:53:41 End date: 2013-09-20 05:05:53
+System: {'AS7': 5086}
+Types: {'Bug': 2944, 'Enhancement': 202, 'Feature Request': 871, 'Release': 1, 'Task': 876, 'Library Upgrade': 14, 'Clarification': 25, 'Component Upgrade': 138, 'Quality Risk': 11, 'Tracker': 2, 'Story': 1, 'Patch': 1}
+Resolutions: {'Rejected': 383, 'Done': 4021, 'Cannot Reproduce': 96, "Won't Fix": 131, 'Duplicate Issue': 190, 'Out of Date': 204, 'Deferred': 26, 'Partially Completed': 22, 'Incomplete Description': 10, 'Migrated to another ITS': 3}
+Statuses: {'Closed': 1065, 'Resolved': 4021}
+
+Average Lead Time (all PBIs): 50.3 days
+Average Lead Time (Bug): 39.1 days
+Average Lead Time (Enhancement): 60.5 days
+Average Lead Time (Feature Request): 78.1 days
+Average Lead Time (Release): 3.0 days
+Average Lead Time (Task): 62.7 days
+Average Lead Time (Library Upgrade): 33.9 days
+Average Lead Time (Clarification): 19.5 days
+Average Lead Time (Component Upgrade): 20.1 days
+Average Lead Time (Quality Risk): 63.8 days
+Average Lead Time (Tracker): 299.5 days
+Average Lead Time (Story): 341.0 days
+Average Lead Time (Patch): 15.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-06-12 05:05:53 End date: 2013-09-20 05:05:53
+System: {'AS7': 5}
+Types: {'Enhancement': 2, 'Feature Request': 1, 'Bug': 2}
+Resolutions: {'Done': 5}
+Statuses: {'Closed': 1, 'Resolved': 4}
+
+Average Lead Time (all PBIs): 430.2 days
+Average Lead Time (Enhancement): 386.0 days
+Average Lead Time (Feature Request): 391.0 days
+Average Lead Time (Bug): 494.0 days

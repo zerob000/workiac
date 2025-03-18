@@ -1,0 +1,73 @@
+
+System Name: NEXUS
+System Duration (Captured): 5023 days
+
+Calculated Final System Size: 1174 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 1174 PBIs
+
+Model Final System Size: 629 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 629 PBIs
+
+% Error, Final backlog, model vs actual: 46.0%
+Error, Final backlog, model vs actual: -545 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 2829 PBIs
+Total Unplanned Arrivals: 6484 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 2875 PBIs
+Total Net Arrivals: 6438 PBIs
+Total Services: 5264 PBIs
+
+Rates:
+Planned Arrival Rate: 0.544 PBIs/day
+Unplanned Arrival Rate: 1.222 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.693 PBIs/day
+Net Arrival Rate: 1.073 PBIs/day
+Service Rate: 1.035 PBIs/day
+
+
+Metrics:
+Stability: 0.965
+Quality: 0.308
+Control: 0.608
+Inventory Days: 1134.3 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 1174 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 1174 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 24 PBIs
+Unplanned Arrivals in this period: 129 PBIs
+Cancelled/Rejected/Won't Do  in this period: 28 PBIs
+System size change in this period: 52 PBIs
+Net Arrivals in this period: 125 PBIs
+Services in this period: 72 PBIs
+
+Rates:
+Planned Arrival Rate: 0.272 PBIs/day
+Unplanned Arrival Rate: 1.27 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.383 PBIs/day
+Net Arrival Rate: 1.106 PBIs/day
+Service Rate: 0.82 PBIs/day
+
+Metrics:
+Stability: 0.708
+Quality: 0.176
+Control: 0.752
+Inventory Days: 1431.707 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

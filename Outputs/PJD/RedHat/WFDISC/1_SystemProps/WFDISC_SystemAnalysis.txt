@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2016-10-17 13:21:45 End date: 2021-01-04 12:53:11
+System: {'WFDISC': 36}
+Types: {'Bug': 10, 'Enhancement': 19, 'Feature Request': 6, 'Task': 1}
+Resolutions: {'': 6, 'Done': 29, 'Rejected': 1}
+Statuses: {'Pull Request Sent': 3, 'Resolved': 30, 'Open': 3}
+
+Average Lead Time (all PBIs): 12.0 days
+Average Lead Time (Enhancement): 15.1 days
+Average Lead Time (Bug): 3.0 days
+Average Lead Time (Feature Request): 18.8 days
+Average Lead Time (Task): 12.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-09-26 12:53:11 End date: 2021-01-04 12:53:11
+System: {'WFDISC': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'Pull Request Sent': 1}
+
+No PBIs resolved in last 100 days.

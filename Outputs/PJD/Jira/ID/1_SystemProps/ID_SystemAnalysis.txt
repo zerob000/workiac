@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2003-03-03 10:23:05 End date: 2022-01-05 06:38:10
+System: {'ID': 1310}
+Types: {'Suggestion': 653, 'Bug': 656, 'Support Request': 1}
+Resolutions: {'': 296, "Won't Fix": 112, 'Fixed': 352, 'Not a bug': 30, 'Invalid': 22, 'Incorrectly Filed': 2, 'Duplicate': 75, 'Cannot Reproduce': 23, 'Done': 25, 'Tracked Elsewhere': 21, "Won't Do": 24, 'Answered': 8, 'Timed out': 242, 'Obsolete': 68, 'Deployed': 3, 'Handled by Support': 3, 'Incomplete': 3, 'Resolved Locally': 1}
+Statuses: {'Gathering Interest': 172, 'Needs Triage': 4, 'Short Term Backlog': 22, 'Gathering Impact': 39, 'Closed': 1013, 'Long Term Backlog': 24, 'In Progress': 21, 'Waiting for Release': 2, 'Future Consideration': 5, 'Reviewing': 2, 'Under Consideration': 6}
+
+Average Lead Time (all PBIs): 569.6 days
+Average Lead Time (Bug): 397.7 days
+Average Lead Time (Suggestion): 774.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-27 06:38:10 End date: 2022-01-05 06:38:10
+System: {'ID': 59}
+Types: {'Suggestion': 29, 'Bug': 30}
+Resolutions: {'': 40, "Won't Fix": 6, 'Fixed': 6, 'Not a bug': 4, 'Invalid': 1, 'Done': 1, 'Duplicate': 1}
+Statuses: {'Gathering Interest': 22, 'Needs Triage': 2, 'Short Term Backlog': 8, 'Closed': 19, 'Long Term Backlog': 3, 'In Progress': 2, 'Gathering Impact': 3}
+
+Average Lead Time (all PBIs): 544.4 days
+Average Lead Time (Bug): 118.6 days
+Average Lead Time (Suggestion): 1274.3 days

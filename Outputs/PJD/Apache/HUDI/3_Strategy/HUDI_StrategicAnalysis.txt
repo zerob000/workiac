@@ -1,0 +1,73 @@
+
+System Name: HUDI
+System Duration (Captured): 1037 days
+
+Calculated Final System Size: 1108 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 1108 PBIs
+
+Model Final System Size: 872 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 872 PBIs
+
+% Error, Final backlog, model vs actual: 21.0%
+Error, Final backlog, model vs actual: -236 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 1732 PBIs
+Total Unplanned Arrivals: 755 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 178 PBIs
+Total Net Arrivals: 2309 PBIs
+Total Services: 1201 PBIs
+
+Rates:
+Planned Arrival Rate: 1.636 PBIs/day
+Unplanned Arrival Rate: 0.716 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.174 PBIs/day
+Net Arrival Rate: 2.178 PBIs/day
+Service Rate: 1.319 PBIs/day
+
+
+Metrics:
+Stability: 0.606
+Quality: 0.696
+Control: 0.926
+Inventory Days: 840.03 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 1108 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 1108 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 400 PBIs
+Unplanned Arrivals in this period: 166 PBIs
+Cancelled/Rejected/Won't Do  in this period: 55 PBIs
+System size change in this period: 370 PBIs
+Net Arrivals in this period: 511 PBIs
+Services in this period: 140 PBIs
+
+Rates:
+Planned Arrival Rate: 4.336 PBIs/day
+Unplanned Arrival Rate: 2.092 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.569 PBIs/day
+Net Arrival Rate: 5.769 PBIs/day
+Service Rate: 1.496 PBIs/day
+
+Metrics:
+Stability: 0.255
+Quality: 0.675
+Control: 0.911
+Inventory Days: 740.642 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2004-11-19 01:52:19 End date: 2010-05-31 01:53:06
+System: {'IBATIS': 777}
+Types: {'Bug': 452, 'New Feature': 298, 'Task': 18, 'Test': 9}
+Resolutions: {'Fixed': 321, "Won't Fix": 64, '': 208, 'Not A Problem': 9, 'Duplicate': 31, 'Cannot Reproduce': 19, 'Invalid': 125}
+Statuses: {'Closed': 567, 'Open': 203, 'Resolved': 2, 'Reopened': 5}
+
+Average Lead Time (all PBIs): 81.7 days
+Average Lead Time (Bug): 53.3 days
+Average Lead Time (New Feature): 135.4 days
+Average Lead Time (Task): 180.3 days
+Average Lead Time (Test): 79.9 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2010-02-20 01:53:06 End date: 2010-05-31 01:53:06
+System: {'IBATIS': 45}
+Types: {'Bug': 30, 'New Feature': 15}
+Resolutions: {'Fixed': 16, "Won't Fix": 1, '': 20, 'Not A Problem': 2, 'Duplicate': 3, 'Cannot Reproduce': 1, 'Invalid': 2}
+Statuses: {'Closed': 24, 'Open': 20, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 56.0 days
+Average Lead Time (Bug): 6.3 days
+Average Lead Time (New Feature): 316.8 days

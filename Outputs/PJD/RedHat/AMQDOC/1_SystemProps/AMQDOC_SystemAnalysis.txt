@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2013-12-03 13:37:07 End date: 2021-12-17 12:05:04
+System: {'AMQDOC': 725}
+Types: {'Bug': 300, 'Task': 165, 'Enhancement': 213, 'Story': 5, 'Feature Request': 42}
+Resolutions: {'': 136, 'Fixed': 1, 'Done': 428, "Won't Do": 20, 'Cannot Reproduce': 2, 'Not a Bug': 1, "Won't Fix": 10, 'Rejected': 34, 'Out of Date': 63, 'Duplicate Issue': 28, 'Explained': 1, 'Partially Completed': 1}
+Statuses: {'New': 116, 'Closed': 532, 'Open': 18, 'Resolved': 57, 'Reopened': 2}
+
+Average Lead Time (all PBIs): 263.3 days
+Average Lead Time (Bug): 291.8 days
+Average Lead Time (Task): 146.6 days
+Average Lead Time (Enhancement): 344.0 days
+Average Lead Time (Feature Request): 112.5 days
+Average Lead Time (Story): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-08 12:05:04 End date: 2021-12-17 12:05:04
+System: {'AMQDOC': 17}
+Types: {'Bug': 6, 'Task': 11}
+Resolutions: {'': 10, 'Fixed': 1, 'Done': 6}
+Statuses: {'New': 9, 'Closed': 5, 'Open': 1, 'Resolved': 2}
+
+Average Lead Time (all PBIs): 368.7 days
+Average Lead Time (Bug): 812.3 days
+Average Lead Time (Task): 36.0 days

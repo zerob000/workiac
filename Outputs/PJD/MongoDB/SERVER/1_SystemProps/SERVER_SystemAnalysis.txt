@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2009-04-08 08:01:26 End date: 2022-01-04 13:59:54
+System: {'SERVER': 58928}
+Types: {'Task': 16234, 'Improvement': 12734, 'Bug': 25690, 'New Feature': 2801, 'Question': 1469}
+Resolutions: {'': 5956, 'Fixed': 33606, 'Done': 2247, "Won't Fix": 3637, "Won't Do": 1025, 'Duplicate': 6086, 'Gone away': 2209, 'Declined': 95, 'Works as Designed': 2522, 'Incomplete': 886, 'Community Answered': 98, 'Cannot Reproduce': 561}
+Statuses: {'Needs Scheduling': 84, 'Open': 5279, 'Needs Verification': 7, 'In Code Review': 120, 'Closed': 52972, 'Investigating': 80, 'In Progress': 78, 'Waiting For User Input': 10, 'Blocked': 61, 'Backlog': 237}
+
+Average Lead Time (all PBIs): 164.8 days
+Average Lead Time (Bug): 122.4 days
+Average Lead Time (Task): 97.4 days
+Average Lead Time (Improvement): 303.9 days
+Average Lead Time (New Feature): 451.0 days
+Average Lead Time (Question): 49.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 13:59:54 End date: 2022-01-04 13:59:54
+System: {'SERVER': 3163}
+Types: {'Task': 1382, 'Improvement': 648, 'Bug': 1003, 'New Feature': 116, 'Question': 14}
+Resolutions: {'': 893, 'Fixed': 1328, 'Done': 119, "Won't Fix": 200, "Won't Do": 262, 'Duplicate': 144, 'Gone away': 78, 'Declined': 82, 'Works as Designed': 42, 'Incomplete': 7, 'Community Answered': 2, 'Cannot Reproduce': 6}
+Statuses: {'Needs Scheduling': 73, 'Open': 640, 'Needs Verification': 5, 'In Code Review': 83, 'Closed': 2270, 'Investigating': 22, 'In Progress': 43, 'Waiting For User Input': 7, 'Blocked': 14, 'Backlog': 6}
+
+Average Lead Time (all PBIs): 404.6 days
+Average Lead Time (Bug): 249.9 days
+Average Lead Time (Task): 211.3 days
+Average Lead Time (Improvement): 853.6 days
+Average Lead Time (New Feature): 1037.3 days
+Average Lead Time (Question): 408.0 days

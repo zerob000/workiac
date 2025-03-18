@@ -1,0 +1,8 @@
+---
+# Add a queue of system names and data files for the manager to run
+System_Names:
+    ## "CSV name": "Yaml name"
+    "OSSRH": "Sonatype.yaml"
+    "NEXUS": "Sonatype.yaml"
+    "MVNCENTRAL": "Sonatype.yaml"
+    "DX": "Sonatype.yaml"

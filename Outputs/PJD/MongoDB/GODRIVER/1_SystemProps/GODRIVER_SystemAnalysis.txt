@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2017-03-16 19:44:34 End date: 2022-01-04 15:57:09
+System: {'GODRIVER': 2081}
+Types: {'Task': 438, 'Bug': 615, 'Improvement': 667, 'New Feature': 348, 'Spec Change': 13}
+Resolutions: {'': 263, 'Done': 257, 'Gone away': 127, 'Fixed': 960, 'Duplicate': 111, 'Works as Designed': 116, "Won't Do": 80, "Won't Fix": 88, 'Cannot Reproduce': 6, 'Community Answered': 70, 'Declined': 2, 'Incomplete': 1}
+Statuses: {'Needs Triage': 2, 'Investigating': 3, 'Open': 234, 'Closed': 1818, 'Waiting (Blocked)': 22, 'In Progress': 1, 'In Code Review': 1}
+
+Average Lead Time (all PBIs): 90.6 days
+Average Lead Time (Improvement): 127.2 days
+Average Lead Time (Task): 55.0 days
+Average Lead Time (Bug): 33.5 days
+Average Lead Time (New Feature): 174.0 days
+Average Lead Time (Spec Change): 111.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 15:57:09 End date: 2022-01-04 15:57:09
+System: {'GODRIVER': 116}
+Types: {'Task': 36, 'Bug': 26, 'Improvement': 40, 'New Feature': 6, 'Spec Change': 8}
+Resolutions: {'': 52, 'Done': 29, 'Gone away': 9, 'Fixed': 16, 'Duplicate': 4, 'Works as Designed': 2, "Won't Do": 2, "Won't Fix": 2}
+Statuses: {'Needs Triage': 2, 'Investigating': 3, 'Open': 34, 'Closed': 64, 'Waiting (Blocked)': 12, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 152.0 days
+Average Lead Time (Improvement): 217.6 days
+Average Lead Time (Task): 124.7 days
+Average Lead Time (Bug): 58.9 days
+Average Lead Time (New Feature): 362.3 days
+Average Lead Time (Spec Change): 111.0 days

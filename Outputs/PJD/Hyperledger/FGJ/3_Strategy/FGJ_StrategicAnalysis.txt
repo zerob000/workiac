@@ -1,0 +1,73 @@
+
+System Name: FGJ
+System Duration (Captured): 919 days
+
+Calculated Final System Size: 8 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 8 PBIs
+
+Model Final System Size: 23 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 23 PBIs
+
+% Error, Final backlog, model vs actual: 188.0%
+Error, Final backlog, model vs actual: 15 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 69 PBIs
+Total Unplanned Arrivals: 39 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 29 PBIs
+Total Net Arrivals: 79 PBIs
+Total Services: 71 PBIs
+
+Rates:
+Planned Arrival Rate: 0.095 PBIs/day
+Unplanned Arrival Rate: 0.04 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.04 PBIs/day
+Net Arrival Rate: 0.095 PBIs/day
+Service Rate: 0.079 PBIs/day
+
+
+Metrics:
+Stability: 0.832
+Quality: 0.704
+Control: 0.704
+Inventory Days: 101.266 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 8 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 8 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 0 PBIs
+Unplanned Arrivals in this period: 2 PBIs
+Cancelled/Rejected/Won't Do  in this period: 0 PBIs
+System size change in this period: 0 PBIs
+Net Arrivals in this period: 2 PBIs
+Services in this period: 3 PBIs
+
+Rates:
+Planned Arrival Rate: NaN PBIs/day
+Unplanned Arrival Rate: 0.021 PBIs/day
+Cancelled/Rejected/Won't Do Rate: NaN PBIs/day
+Net Arrival Rate: 0.023 PBIs/day
+Service Rate: 0.028 PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

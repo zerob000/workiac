@@ -1,0 +1,73 @@
+
+System Name: CLIMATE
+System Duration (Captured): 2494 days
+
+Calculated Final System Size: 111 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 111 PBIs
+
+Model Final System Size: 162 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 162 PBIs
+
+% Error, Final backlog, model vs actual: 46.0%
+Error, Final backlog, model vs actual: 51 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 525 PBIs
+Total Unplanned Arrivals: 309 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 66 PBIs
+Total Net Arrivals: 768 PBIs
+Total Services: 657 PBIs
+
+Rates:
+Planned Arrival Rate: 0.293 PBIs/day
+Unplanned Arrival Rate: 0.151 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.03 PBIs/day
+Net Arrival Rate: 0.414 PBIs/day
+Service Rate: 0.361 PBIs/day
+
+
+Metrics:
+Stability: 0.872
+Quality: 0.66
+Control: 0.932
+Inventory Days: 307.479 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 28 days
+
+Calculated Final System Size: 111 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 111 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 1 PBIs
+Unplanned Arrivals in this period: 0 PBIs
+Cancelled/Rejected/Won't Do  in this period: 0 PBIs
+System size change in this period: 1 PBIs
+Net Arrivals in this period: 1 PBIs
+Services in this period: 0 PBIs
+
+Rates:
+Planned Arrival Rate: 0.077 PBIs/day
+Unplanned Arrival Rate: NaN PBIs/day
+Cancelled/Rejected/Won't Do Rate: NaN PBIs/day
+Net Arrival Rate: 0.015 PBIs/day
+Service Rate: NaN PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2013-02-24 23:39:20 End date: 2020-05-29 04:13:54
+System: {'JCHART': 39}
+Types: {'Bug': 25, 'New Feature': 6, 'Documentation': 2, 'Improvement': 3, 'Plugin Release Request': 1, 'Story': 1, 'Task': 1}
+Resolutions: {'': 28, 'Duplicate': 1, 'Tracked Elsewhere': 2, 'Fixed': 7, 'Answered': 1}
+Statuses: {'New': 27, 'Closed': 4, 'Resolved': 7, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 61.3 days
+Average Lead Time (Bug): 53.4 days
+Average Lead Time (Documentation): 230.0 days
+Average Lead Time (Plugin Release Request): 5.0 days
+Average Lead Time (Task): 12.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-02-19 04:13:54 End date: 2020-05-29 04:13:54
+System: {'JCHART': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'New': 1}
+
+No PBIs resolved in last 100 days.

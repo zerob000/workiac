@@ -1,0 +1,73 @@
+
+System Name: WFCORE
+System Duration (Captured): 4361 days
+
+Calculated Final System Size: 551 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 551 PBIs
+
+Model Final System Size: 553 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 553 PBIs
+
+% Error, Final backlog, model vs actual: 0.0%
+Error, Final backlog, model vs actual: 2 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 2515 PBIs
+Total Unplanned Arrivals: 2433 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 70 PBIs
+Total Net Arrivals: 4878 PBIs
+Total Services: 4327 PBIs
+
+Rates:
+Planned Arrival Rate: 0.838 PBIs/day
+Unplanned Arrival Rate: 1.019 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.025 PBIs/day
+Net Arrival Rate: 1.832 PBIs/day
+Service Rate: 1.794 PBIs/day
+
+
+Metrics:
+Stability: 0.979
+Quality: 0.451
+Control: 0.987
+Inventory Days: 307.135 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 551 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 551 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 75 PBIs
+Unplanned Arrivals in this period: 26 PBIs
+Cancelled/Rejected/Won't Do  in this period: 6 PBIs
+System size change in this period: 11 PBIs
+Net Arrivals in this period: 95 PBIs
+Services in this period: 83 PBIs
+
+Rates:
+Planned Arrival Rate: 0.778 PBIs/day
+Unplanned Arrival Rate: 0.287 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.079 PBIs/day
+Net Arrival Rate: 0.997 PBIs/day
+Service Rate: 0.953 PBIs/day
+
+Metrics:
+Stability: 0.967
+Quality: 0.731
+Control: 0.926
+Inventory Days: 578.174 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

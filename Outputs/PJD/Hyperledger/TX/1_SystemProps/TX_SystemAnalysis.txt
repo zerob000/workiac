@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2019-05-15 20:03:48 End date: 2020-02-11 15:35:10
+System: {'TX': 53}
+Types: {'New Feature': 14, 'Improvement': 29, 'Task': 10}
+Resolutions: {'Done': 20, '': 33}
+Statuses: {'Done': 20, 'In Review': 4, 'In Progress': 3, 'Backlog': 26}
+
+Average Lead Time (all PBIs): 27.0 days
+Average Lead Time (New Feature): 39.2 days
+Average Lead Time (Task): 21.3 days
+Average Lead Time (Improvement): 22.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2019-11-03 15:35:10 End date: 2020-02-11 15:35:10
+System: {'TX': 1}
+Types: {'New Feature': 1}
+Resolutions: {'Done': 1}
+Statuses: {'Done': 1}
+
+Average Lead Time (all PBIs): 69.0 days
+Average Lead Time (New Feature): 69.0 days

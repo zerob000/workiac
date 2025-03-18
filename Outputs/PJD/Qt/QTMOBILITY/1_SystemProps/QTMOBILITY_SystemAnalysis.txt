@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2009-11-17 04:11:05 End date: 2017-01-27 16:12:04
+System: {'QTMOBILITY': 1757}
+Types: {'Bug': 1538, 'Task': 70, 'Suggestion': 149}
+Resolutions: {'Out of scope': 124, '': 249, 'Done': 955, 'Invalid': 175, 'Duplicate': 97, 'Incomplete': 39, 'Cannot Reproduce': 102, 'Moved': 15, "Won't Do": 1}
+Statuses: {'Closed': 1509, 'Reported': 123, 'Open': 113, 'In Progress': 12}
+
+Average Lead Time (all PBIs): 72.3 days
+Average Lead Time (Bug): 66.8 days
+Average Lead Time (Task): 123.1 days
+Average Lead Time (Suggestion): 118.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2016-10-19 16:12:04 End date: 2017-01-27 16:12:04
+System: {'QTMOBILITY': 1}
+Types: {'Bug': 1}
+Resolutions: {"Won't Do": 1}
+Statuses: {'Closed': 1}
+
+Average Lead Time (all PBIs): 2038.0 days
+Average Lead Time (Bug): 2038.0 days

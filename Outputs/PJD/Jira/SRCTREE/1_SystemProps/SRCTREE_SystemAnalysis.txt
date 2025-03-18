@@ -1,0 +1,22 @@
+All PBIS - Unfiltered 
+Start date: 2010-07-27 21:22:25 End date: 2022-01-04 04:34:57
+System: {'SRCTREE': 5292}
+Types: {'Bug': 3288, 'Suggestion': 2004}
+Resolutions: {'': 2845, 'Fixed': 1075, 'Duplicate': 604, 'Invalid': 47, 'Resolved Locally': 57, 'Answered': 110, 'Spam': 76, 'Incorrectly Filed': 6, 'Cannot Reproduce': 70, 'Obsolete': 54, 'Incomplete': 20, "Won't Fix": 144, 'Not a bug': 84, "Won't Do": 8, 'Done': 10, 'Unsolved Mysteries': 43, 'Tracked Elsewhere': 28, 'Handled by Support': 2, 'Support Request': 2, 'Timed out': 7}
+Statuses: {'Needs Triage': 1445, 'Gathering Interest': 139, 'Closed': 3520, 'In Review': 1, 'Short Term Backlog': 7, 'Long Term Backlog': 45, 'Under Consideration': 1, 'Gathering Impact': 89, 'Reviewing': 40, 'In Progress': 5}
+
+Average Lead Time (all PBIs): 158.9 days
+Average Lead Time (Bug): 126.7 days
+Average Lead Time (Suggestion): 231.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 04:34:57 End date: 2022-01-04 04:34:57
+System: {'SRCTREE': 49}
+Types: {'Bug': 45, 'Suggestion': 4}
+Resolutions: {'': 33, 'Fixed': 10, 'Duplicate': 4, 'Invalid': 1, 'Resolved Locally': 1}
+Statuses: {'Needs Triage': 28, 'Gathering Interest': 4, 'Closed': 16, 'In Review': 1}
+
+Average Lead Time (all PBIs): 214.4 days
+Average Lead Time (Bug): 214.4 days

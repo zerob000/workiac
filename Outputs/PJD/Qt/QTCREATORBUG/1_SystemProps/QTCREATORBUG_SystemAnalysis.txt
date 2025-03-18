@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2007-07-05 11:32:00 End date: 2022-01-04 15:32:16
+System: {'QTCREATORBUG': 24858}
+Types: {'Suggestion': 3512, 'Bug': 20142, 'Task': 1032, 'User Story': 172}
+Resolutions: {'': 3234, 'Incomplete': 1216, 'Duplicate': 2485, 'Out of scope': 2074, 'Done': 11531, 'Invalid': 1892, 'Fixed': 405, 'Cannot Reproduce': 1716, "Won't Do": 240, 'Moved': 65}
+Statuses: {'Reported': 2333, 'Open': 865, 'In Progress': 35, 'Need More Info': 8, 'Closed': 21579, 'Withdrawn': 37, 'Blocked': 1}
+
+Average Lead Time (all PBIs): 240.6 days
+Average Lead Time (Bug): 210.7 days
+Average Lead Time (Suggestion): 423.3 days
+Average Lead Time (Task): 310.2 days
+Average Lead Time (User Story): 242.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 15:32:16 End date: 2022-01-04 15:32:16
+System: {'QTCREATORBUG': 648}
+Types: {'Suggestion': 64, 'Bug': 536, 'Task': 36, 'User Story': 12}
+Resolutions: {'': 235, 'Incomplete': 37, 'Duplicate': 49, 'Out of scope': 14, 'Done': 224, 'Invalid': 18, 'Fixed': 33, 'Cannot Reproduce': 27, "Won't Do": 11}
+Statuses: {'Reported': 208, 'Open': 13, 'In Progress': 14, 'Need More Info': 8, 'Closed': 404, 'Withdrawn': 1}
+
+Average Lead Time (all PBIs): 280.1 days
+Average Lead Time (Bug): 191.5 days
+Average Lead Time (Suggestion): 1175.8 days
+Average Lead Time (Task): 327.8 days
+Average Lead Time (User Story): 343.3 days

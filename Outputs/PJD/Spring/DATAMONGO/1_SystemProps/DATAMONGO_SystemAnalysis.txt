@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2010-10-19 09:44:52 End date: 2020-12-25 08:37:20
+System: {'DATAMONGO': 2576}
+Types: {'Bug': 1108, 'New Feature': 313, 'Task': 528, 'Improvement': 627}
+Resolutions: {'': 375, 'Complete': 549, 'Fixed': 1086, 'Works as Designed': 203, "Won't Fix": 108, 'Duplicate': 138, 'Invalid': 53, 'Deferred': 2, 'Done': 23, 'Cannot Reproduce': 37, "Won't Do": 1, 'Incomplete': 1}
+Statuses: {'Open': 251, 'Waiting for Review': 5, 'Waiting for Feedback': 84, 'Closed': 1818, 'In Progress': 8, 'Resolved': 383, 'Investigating': 24, 'Reopened': 3}
+
+Average Lead Time (all PBIs): 191.5 days
+Average Lead Time (Task): 39.9 days
+Average Lead Time (Bug): 141.6 days
+Average Lead Time (Improvement): 287.6 days
+Average Lead Time (New Feature): 505.9 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-09-16 08:37:20 End date: 2020-12-25 08:37:20
+System: {'DATAMONGO': 61}
+Types: {'Bug': 24, 'New Feature': 6, 'Task': 25, 'Improvement': 6}
+Resolutions: {'': 24, 'Complete': 26, 'Fixed': 3, 'Works as Designed': 4, "Won't Fix": 2, 'Duplicate': 1, 'Invalid': 1}
+Statuses: {'Open': 17, 'Waiting for Review': 2, 'Waiting for Feedback': 4, 'Closed': 35, 'In Progress': 1, 'Resolved': 2}
+
+Average Lead Time (all PBIs): 73.7 days
+Average Lead Time (Task): 27.8 days
+Average Lead Time (Bug): 153.3 days
+Average Lead Time (Improvement): 116.2 days
+Average Lead Time (New Feature): 28.0 days

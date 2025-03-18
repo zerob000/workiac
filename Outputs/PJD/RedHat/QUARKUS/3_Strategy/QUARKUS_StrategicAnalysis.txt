@@ -1,0 +1,73 @@
+
+System Name: QUARKUS
+System Duration (Captured): 468 days
+
+Calculated Final System Size: 220 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 220 PBIs
+
+Model Final System Size: 162 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 162 PBIs
+
+% Error, Final backlog, model vs actual: 26.0%
+Error, Final backlog, model vs actual: -58 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 247 PBIs
+Total Unplanned Arrivals: 445 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 26 PBIs
+Total Net Arrivals: 666 PBIs
+Total Services: 446 PBIs
+
+Rates:
+Planned Arrival Rate: 0.566 PBIs/day
+Unplanned Arrival Rate: 0.876 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.054 PBIs/day
+Net Arrival Rate: 1.388 PBIs/day
+Service Rate: 1.044 PBIs/day
+
+
+Metrics:
+Stability: 0.752
+Quality: 0.393
+Control: 0.963
+Inventory Days: 210.728 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 220 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 220 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 65 PBIs
+Unplanned Arrivals in this period: 123 PBIs
+Cancelled/Rejected/Won't Do  in this period: 7 PBIs
+System size change in this period: 83 PBIs
+Net Arrivals in this period: 181 PBIs
+Services in this period: 97 PBIs
+
+Rates:
+Planned Arrival Rate: 0.865 PBIs/day
+Unplanned Arrival Rate: 1.215 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.316 PBIs/day
+Net Arrival Rate: 2.012 PBIs/day
+Service Rate: 1.152 PBIs/day
+
+Metrics:
+Stability: 0.653
+Quality: 0.416
+Control: 0.848
+Inventory Days: 190.972 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

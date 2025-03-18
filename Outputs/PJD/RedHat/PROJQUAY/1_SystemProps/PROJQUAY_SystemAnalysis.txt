@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2017-12-01 17:59:41 End date: 2022-01-04 18:14:32
+System: {'PROJQUAY': 2342}
+Types: {'Task': 632, 'Bug': 1125, 'Feature': 292, 'Story': 288, 'Spike': 2, 'Market Problem': 3}
+Resolutions: {'': 631, 'Done': 1362, 'Duplicate Issue': 62, 'Explained': 37, 'Not a Bug': 22, 'Rejected': 7, "Won't Fix": 68, 'Deferred': 9, 'Fixed': 2, 'Duplicate': 10, 'Obsolete': 6, "Won't Do": 63, 'Cannot Reproduce': 23, 'Out of Date': 27, 'Current Release': 4, 'Incomplete Description': 4, 'Next Release': 4, 'Migrated to another ITS': 1}
+Statuses: {'Triage': 542, 'Open': 27, 'Coding In Progress': 11, 'Resolved': 204, 'Closed': 1507, 'Plan': 36, 'Pull Request Sent': 15}
+
+Average Lead Time (all PBIs): 88.4 days
+Average Lead Time (Task): 78.9 days
+Average Lead Time (Bug): 66.2 days
+Average Lead Time (Feature): 185.7 days
+Average Lead Time (Spike): 5.5 days
+Average Lead Time (Story): 145.3 days
+Average Lead Time (Market Problem): 454.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 18:14:32 End date: 2022-01-04 18:14:32
+System: {'PROJQUAY': 491}
+Types: {'Task': 152, 'Bug': 222, 'Feature': 82, 'Story': 31, 'Spike': 2, 'Market Problem': 2}
+Resolutions: {'': 160, 'Done': 241, 'Duplicate Issue': 19, 'Explained': 4, 'Not a Bug': 5, 'Rejected': 1, "Won't Fix": 6, 'Deferred': 2, 'Duplicate': 2, "Won't Do": 24, 'Out of Date': 14, 'Cannot Reproduce': 3, 'Obsolete': 4, 'Current Release': 4, 'Incomplete Description': 1, 'Fixed': 1}
+Statuses: {'Triage': 113, 'Open': 22, 'Coding In Progress': 9, 'Resolved': 117, 'Closed': 214, 'Plan': 9, 'Pull Request Sent': 7}
+
+Average Lead Time (all PBIs): 149.9 days
+Average Lead Time (Task): 97.5 days
+Average Lead Time (Bug): 114.2 days
+Average Lead Time (Feature): 295.9 days
+Average Lead Time (Spike): 5.5 days
+Average Lead Time (Story): 396.7 days
+Average Lead Time (Market Problem): 454.0 days

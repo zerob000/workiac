@@ -1,0 +1,44 @@
+All PBIS - Unfiltered 
+Start date: 2011-10-31 15:51:53 End date: 2021-05-05 15:23:45
+System: {'AEROGEAR': 7764}
+Types: {'Bug': 1394, 'Task': 3526, 'Feature Request': 1941, 'Enhancement': 643, 'Feature': 1, 'Spike': 1, 'Documentation': 175, 'Dev Task': 22, 'Question': 1, 'Initiative': 1, 'OKR': 1, 'Library Upgrade': 3, 'Docs Task': 2, 'QE Task': 1, 'Technical Requirement': 3, 'Tracker': 4, 'Story': 10, 'Component Upgrade': 21, 'Support Request': 7, 'Requirement': 2, 'Clarification': 3, 'Release': 1, 'Quality Risk': 1}
+Resolutions: {'': 101, 'Done': 5529, "Won't Do": 209, 'Duplicate Issue': 221, "Won't Fix": 219, 'Deferred': 30, 'Out of Date': 1195, 'Rejected': 162, 'Cannot Reproduce': 66, 'Explained': 10, 'Migrated to another ITS': 1, 'Partially Completed': 14, 'Incomplete Description': 7}
+Statuses: {'Open': 93, 'Resolved': 5092, 'Pull Request Sent': 5, 'Closed': 2571, 'Coding In Progress': 3}
+
+Average Lead Time (all PBIs): 147.7 days
+Average Lead Time (Bug): 107.2 days
+Average Lead Time (Task): 99.5 days
+Average Lead Time (Enhancement): 164.0 days
+Average Lead Time (Spike): 13.0 days
+Average Lead Time (Documentation): 109.7 days
+Average Lead Time (Dev Task): 123.9 days
+Average Lead Time (Feature Request): 257.6 days
+Average Lead Time (Question): 346.0 days
+Average Lead Time (Initiative): 13.0 days
+Average Lead Time (OKR): 22.0 days
+Average Lead Time (Library Upgrade): 93.3 days
+Average Lead Time (Docs Task): 4.5 days
+Average Lead Time (QE Task): 89.0 days
+Average Lead Time (Technical Requirement): 220.0 days
+Average Lead Time (Tracker): 337.2 days
+Average Lead Time (Story): 241.4 days
+Average Lead Time (Component Upgrade): 276.0 days
+Average Lead Time (Support Request): 157.6 days
+Average Lead Time (Requirement): 79.0 days
+Average Lead Time (Clarification): 1088.0 days
+Average Lead Time (Release): 1025.0 days
+Average Lead Time (Quality Risk): 7.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-01-25 15:23:45 End date: 2021-05-05 15:23:45
+System: {'AEROGEAR': 5}
+Types: {'Bug': 2, 'Question': 1, 'Task': 2}
+Resolutions: {'': 1, 'Done': 3, 'Out of Date': 1}
+Statuses: {'Open': 1, 'Closed': 3, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 513.0 days
+Average Lead Time (Question): 346.0 days
+Average Lead Time (Task): 543.0 days
+Average Lead Time (Bug): 620.0 days

@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2015-01-15 20:04:39 End date: 2020-05-27 09:12:13
+System: {'HAWKULAR': 1105}
+Types: {'Bug': 563, 'Enhancement': 274, 'Task': 137, 'Feature Request': 105, 'Story': 26}
+Resolutions: {'': 46, 'Rejected': 22, 'Done': 752, 'Out of Date': 213, "Won't Fix": 15, 'Duplicate Issue': 33, "Won't Do": 10, 'Cannot Reproduce': 12, 'Partially Completed': 1, 'Migrated to another ITS': 1}
+Statuses: {'Open': 43, 'Closed': 1008, 'Coding In Progress': 1, 'Resolved': 51, 'Pull Request Sent': 1, 'QA In Progress': 1}
+
+Average Lead Time (all PBIs): 115.2 days
+Average Lead Time (Bug): 82.9 days
+Average Lead Time (Enhancement): 132.0 days
+Average Lead Time (Task): 102.8 days
+Average Lead Time (Feature Request): 163.5 days
+Average Lead Time (Story): 500.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-02-17 09:12:13 End date: 2020-05-27 09:12:13
+System: {'HAWKULAR': 1}
+Types: {'Enhancement': 1}
+Resolutions: {'Out of Date': 1}
+Statuses: {'Closed': 1}
+
+Average Lead Time (all PBIs): 1020.0 days
+Average Lead Time (Enhancement): 1020.0 days

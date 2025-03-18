@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 2015-11-05 12:39:31 End date: 2022-01-05 14:00:34
+System: {'UNOMI': 457}
+Types: {'Bug': 221, 'Improvement': 169, 'Test': 7, 'Task': 21, 'New Feature': 33, 'Wish': 6}
+Resolutions: {'': 77, 'Fixed': 353, 'Duplicate': 5, "Won't Do": 6, 'Not A Bug': 1, 'Resolved': 6, "Won't Fix": 5, 'Cannot Reproduce': 1, 'Done': 1, 'Not A Problem': 1, 'Works for Me': 1}
+Statuses: {'In Progress': 2, 'Open': 74, 'Resolved': 268, 'Closed': 112, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 85.0 days
+Average Lead Time (Improvement): 88.2 days
+Average Lead Time (Test): 85.8 days
+Average Lead Time (Bug): 51.6 days
+Average Lead Time (Task): 119.7 days
+Average Lead Time (New Feature): 261.4 days
+Average Lead Time (Wish): 490.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-27 14:00:34 End date: 2022-01-05 14:00:34
+System: {'UNOMI': 36}
+Types: {'Bug': 18, 'Improvement': 11, 'Test': 1, 'Task': 5, 'New Feature': 1}
+Resolutions: {'': 14, 'Fixed': 22}
+Statuses: {'In Progress': 2, 'Open': 12, 'Resolved': 17, 'Closed': 5}
+
+Average Lead Time (all PBIs): 29.7 days
+Average Lead Time (Improvement): 46.2 days
+Average Lead Time (Test): 0.0 days
+Average Lead Time (Bug): 13.4 days
+Average Lead Time (Task): 40.5 days
+Average Lead Time (New Feature): 80.0 days

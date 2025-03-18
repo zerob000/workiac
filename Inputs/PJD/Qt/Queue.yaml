@@ -1,0 +1,23 @@
+---
+# Add a queue of system names and data files for the manager to run
+System_Names:
+    ## "CSV name": "Yaml name"
+    "QTWEBSITE": "Qt.yaml"
+    "QTWB": "Qt.yaml"
+    "QTVSADDINBUG": "Qt.yaml"
+    "QTSOLBUG": "Qt.yaml"
+    "QTQAINFRA": "Qt.yaml"
+    "QTMOBILITY": "Qt.yaml"
+    "QTMCU": "Qt.yaml"
+    "QTJIRA": "Qt.yaml"
+    "QTIFW": "Qt.yaml"
+    "QTCREATORBUG": "Qt.yaml"
+    "QTBUG": "Qt.yaml"
+    "QT3DS": "Qt.yaml"
+    "QSR": "Qt.yaml"
+    "QDS": "Qt.yaml"
+    "QBS": "Qt.yaml"
+    "PYSIDE": "Qt.yaml"
+    "COIN": "Qt.yaml"
+    "CLOUD": "Qt.yaml"
+    "AUTOSUITE": "Qt.yaml"

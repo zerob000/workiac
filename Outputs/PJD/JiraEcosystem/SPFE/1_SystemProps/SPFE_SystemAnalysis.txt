@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2019-02-22 09:06:38 End date: 2021-12-13 05:04:16
+System: {'SPFE': 647}
+Types: {'Task': 448, 'Bug': 69, 'Story': 130}
+Resolutions: {'': 167, 'Done': 165, 'Fixed': 216, "Won't Fix": 5, 'Duplicate': 10, "Won't Do": 23, 'Not a bug': 4, 'Incomplete': 3, 'Canceled': 40, 'Answered': 2, 'Obsolete': 1, 'Invalid': 1, 'Tracked Elsewhere': 2, 'Cannot Reproduce': 1, 'Known Error': 1, 'Timed out': 1, 'Rejected': 1, 'Declined': 3, 'Unresolved': 1}
+Statuses: {'Needs Triage': 56, 'Closed': 480, 'In Progress': 6, 'In Review': 2, 'Short Term Backlog': 7, 'Waiting for Release': 17, 'Not Being Considered': 78, 'Selected for Development': 1}
+
+Average Lead Time (all PBIs): 68.5 days
+Average Lead Time (Task): 62.0 days
+Average Lead Time (Story): 102.6 days
+Average Lead Time (Bug): 48.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-04 05:04:16 End date: 2021-12-13 05:04:16
+System: {'SPFE': 141}
+Types: {'Task': 101, 'Bug': 8, 'Story': 32}
+Resolutions: {'': 36, 'Done': 44, 'Fixed': 52, "Won't Fix": 4, 'Duplicate': 2, "Won't Do": 1, 'Not a bug': 1, 'Incomplete': 1}
+Statuses: {'Needs Triage': 20, 'Closed': 105, 'In Progress': 6, 'In Review': 2, 'Short Term Backlog': 4, 'Waiting for Release': 3, 'Not Being Considered': 1}
+
+Average Lead Time (all PBIs): 46.2 days
+Average Lead Time (Task): 52.9 days
+Average Lead Time (Story): 24.8 days
+Average Lead Time (Bug): 16.4 days

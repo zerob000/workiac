@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2010-10-16 18:37:10 End date: 2022-01-05 22:35:38
+System: {'ASTERIXDB': 2982}
+Types: {'Bug': 2285, 'Improvement': 512, 'New Feature': 38, 'Task': 106, 'Test': 26, 'Wish': 15}
+Resolutions: {'': 862, 'Fixed': 1685, 'Duplicate': 99, 'Not A Problem': 36, 'Implemented': 39, 'Done': 22, 'Delivered': 1, "Won't Do": 3, 'Cannot Reproduce': 34, 'Not A Bug': 4, 'Information Provided': 3, "Won't Fix": 69, 'Invalid': 111, 'Later': 2, 'Workaround': 3, 'Resolved': 4, 'Incomplete': 3, 'REMIND': 1, 'Abandoned': 1}
+Statuses: {'Open': 839, 'Resolved': 891, 'Closed': 1229, 'In Progress': 9, 'For Review': 4, 'Reopened': 10}
+
+Average Lead Time (all PBIs): 454.6 days
+Average Lead Time (Bug): 497.4 days
+Average Lead Time (Improvement): 275.1 days
+Average Lead Time (New Feature): 52.2 days
+Average Lead Time (Task): 189.7 days
+Average Lead Time (Test): 138.0 days
+Average Lead Time (Wish): 762.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-27 22:35:38 End date: 2022-01-05 22:35:38
+System: {'ASTERIXDB': 45}
+Types: {'Bug': 32, 'Improvement': 8, 'New Feature': 3, 'Task': 2}
+Resolutions: {'': 17, 'Fixed': 27, 'Delivered': 1}
+Statuses: {'Open': 15, 'Resolved': 24, 'Closed': 4, 'In Progress': 1, 'For Review': 1}
+
+Average Lead Time (all PBIs): 197.4 days
+Average Lead Time (Bug): 149.7 days
+Average Lead Time (Improvement): 319.0 days
+Average Lead Time (New Feature): 6.0 days
+Average Lead Time (Task): 296.0 days

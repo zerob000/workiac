@@ -1,0 +1,34 @@
+All PBIS - Unfiltered 
+Start date: 2007-03-15 10:46:49 End date: 2012-01-12 08:14:49
+System: {'SOA': 3056}
+Types: {'Bug': 2298, 'Enhancement': 13, 'Task': 479, 'Support Patch': 9, 'Feature Request': 246, 'Quality Risk': 8, 'Patch': 1, 'CTS Challenge': 1, 'Release': 1}
+Resolutions: {'Migrated to another ITS': 198, 'Rejected': 170, 'Done': 2193, '': 1, 'Deferred': 13, 'Duplicate Issue': 103, 'Cannot Reproduce': 43, "Won't Fix": 137, 'Out of Date': 192, 'Partially Completed': 3, 'Incomplete Description': 3}
+Statuses: {'Closed': 3053, 'Resolved': 2, 'QA In Progress': 1}
+
+Average Lead Time (all PBIs): 135.8 days
+Average Lead Time (Bug): 118.4 days
+Average Lead Time (Enhancement): 131.1 days
+Average Lead Time (Task): 137.0 days
+Average Lead Time (Support Patch): 33.3 days
+Average Lead Time (Feature Request): 294.2 days
+Average Lead Time (Quality Risk): 167.8 days
+Average Lead Time (Patch): 0.0 days
+Average Lead Time (CTS Challenge): 941.0 days
+Average Lead Time (Release): 34.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2011-10-04 08:14:49 End date: 2012-01-12 08:14:49
+System: {'SOA': 440}
+Types: {'Bug': 326, 'Enhancement': 9, 'Task': 32, 'Support Patch': 4, 'Feature Request': 65, 'Quality Risk': 4}
+Resolutions: {'Migrated to another ITS': 198, 'Rejected': 17, 'Done': 123, '': 1, 'Deferred': 1, 'Duplicate Issue': 6, 'Cannot Reproduce': 4, "Won't Fix": 9, 'Out of Date': 81}
+Statuses: {'Closed': 437, 'Resolved': 2, 'QA In Progress': 1}
+
+Average Lead Time (all PBIs): 306.9 days
+Average Lead Time (Bug): 274.4 days
+Average Lead Time (Enhancement): 180.6 days
+Average Lead Time (Task): 444.1 days
+Average Lead Time (Support Patch): 33.3 days
+Average Lead Time (Feature Request): 434.2 days
+Average Lead Time (Quality Risk): 274.0 days

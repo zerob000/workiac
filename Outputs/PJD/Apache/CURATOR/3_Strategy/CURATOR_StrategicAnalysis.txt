@@ -1,0 +1,73 @@
+
+System Name: CURATOR
+System Duration (Captured): 3204 days
+
+Calculated Final System Size: 185 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 185 PBIs
+
+Model Final System Size: 186 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 186 PBIs
+
+% Error, Final backlog, model vs actual: 1.0%
+Error, Final backlog, model vs actual: 1 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 232 PBIs
+Total Unplanned Arrivals: 377 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 81 PBIs
+Total Net Arrivals: 528 PBIs
+Total Services: 343 PBIs
+
+Rates:
+Planned Arrival Rate: 0.073 PBIs/day
+Unplanned Arrival Rate: 0.128 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.029 PBIs/day
+Net Arrival Rate: 0.172 PBIs/day
+Service Rate: 0.119 PBIs/day
+
+
+Metrics:
+Stability: 0.692
+Quality: 0.363
+Control: 0.856
+Inventory Days: 1554.622 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 87 days
+
+Calculated Final System Size: 185 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 185 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 3 PBIs
+Unplanned Arrivals in this period: 4 PBIs
+Cancelled/Rejected/Won't Do  in this period: 0 PBIs
+System size change in this period: 6 PBIs
+Net Arrivals in this period: 7 PBIs
+Services in this period: 3 PBIs
+
+Rates:
+Planned Arrival Rate: 0.04 PBIs/day
+Unplanned Arrival Rate: 0.054 PBIs/day
+Cancelled/Rejected/Won't Do Rate: NaN PBIs/day
+Net Arrival Rate: 0.089 PBIs/day
+Service Rate: 0.071 PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

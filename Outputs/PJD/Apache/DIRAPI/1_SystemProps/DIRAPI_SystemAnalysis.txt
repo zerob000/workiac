@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2008-05-13 06:56:16 End date: 2022-01-05 17:57:30
+System: {'DIRAPI': 353}
+Types: {'Bug': 207, 'Improvement': 79, 'Wish': 5, 'Question': 9, 'New Feature': 30, 'Documentation': 1, 'Test': 1, 'Task': 17, 'Dependency upgrade': 3, 'Suitable Name Search': 1}
+Resolutions: {'Fixed': 258, '': 36, 'Invalid': 18, 'Cannot Reproduce': 1, 'Not A Problem': 21, "Won't Fix": 12, 'Incomplete': 1, 'Duplicate': 6}
+Statuses: {'Resolved': 154, 'Open': 36, 'Closed': 163}
+
+Average Lead Time (all PBIs): 229.9 days
+Average Lead Time (Bug): 241.1 days
+Average Lead Time (Improvement): 183.5 days
+Average Lead Time (Wish): 79.4 days
+Average Lead Time (New Feature): 269.1 days
+Average Lead Time (Question): 429.7 days
+Average Lead Time (Task): 199.5 days
+Average Lead Time (Dependency upgrade): 66.3 days
+Average Lead Time (Suitable Name Search): 271.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-27 17:57:30 End date: 2022-01-05 17:57:30
+System: {'DIRAPI': 2}
+Types: {'Bug': 2}
+Resolutions: {'Fixed': 1, '': 1}
+Statuses: {'Resolved': 1, 'Open': 1}
+
+Average Lead Time (all PBIs): 51.0 days
+Average Lead Time (Bug): 51.0 days

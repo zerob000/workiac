@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2003-06-02 06:45:32 End date: 2022-01-04 19:49:53
+System: {'CONFSERVER': 43910}
+Types: {'Bug': 26426, 'Suggestion': 17473, 'Public Security Vulnerability': 10, 'Support Request': 1}
+Resolutions: {'': 6620, 'Duplicate': 4277, 'Incorrectly Filed': 8, 'Done': 93, 'Incomplete': 52, 'Tracked Elsewhere': 522, 'Fixed': 12387, 'Not a bug': 765, 'Answered': 1816, 'Cannot Reproduce': 863, "Won't Fix": 6254, 'Low Engagement': 1, 'Invalid': 512, 'Spam': 1, "Won't Do": 3179, 'Resolved Locally': 168, 'Support Request': 1996, 'Obsolete': 2097, 'Timed out': 2236, 'Handled by Support': 12, 'Unsolved Mysteries': 46, 'Deployed': 5}
+Statuses: {'Needs Triage': 72, 'Gathering Interest': 3085, 'Gathering Impact': 2414, 'In Progress': 26, 'Long Term Backlog': 732, 'Closed': 37283, 'Waiting for Release': 20, 'Short Term Backlog': 93, 'In Review': 6, 'Ready for Development': 3, 'Published': 10, 'Awaiting Merge': 4, 'Under Consideration': 16, 'Future Consideration': 62, 'Not Being Considered': 78, 'Reviewing': 6}
+
+Average Lead Time (all PBIs): 646.2 days
+Average Lead Time (Bug): 544.3 days
+Average Lead Time (Suggestion): 812.0 days
+Average Lead Time (Public Security Vulnerability): 48.6 days
+Average Lead Time (Support Request): 6.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 19:49:53 End date: 2022-01-04 19:49:53
+System: {'CONFSERVER': 316}
+Types: {'Bug': 213, 'Suggestion': 102, 'Public Security Vulnerability': 1}
+Resolutions: {'': 210, 'Duplicate': 10, 'Incorrectly Filed': 3, 'Done': 7, 'Incomplete': 1, 'Tracked Elsewhere': 1, 'Fixed': 72, 'Not a bug': 2, 'Answered': 1, 'Cannot Reproduce': 5, "Won't Fix": 2, 'Obsolete': 1, "Won't Do": 1}
+Statuses: {'Needs Triage': 62, 'Gathering Interest': 84, 'Gathering Impact': 42, 'In Progress': 4, 'Long Term Backlog': 4, 'Closed': 105, 'Waiting for Release': 5, 'Short Term Backlog': 4, 'In Review': 2, 'Ready for Development': 1, 'Published': 1, 'Awaiting Merge': 2}
+
+Average Lead Time (all PBIs): 555.1 days
+Average Lead Time (Bug): 483.2 days
+Average Lead Time (Suggestion): 960.4 days
+Average Lead Time (Public Security Vulnerability): 0.0 days

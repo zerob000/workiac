@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2006-11-27 15:11:52 End date: 2021-11-22 02:12:12
+System: {'DIRSTUDIO': 1253}
+Types: {'Bug': 704, 'Question': 21, 'Improvement': 308, 'Task': 100, 'Test': 1, 'Brainstorming': 2, 'Outage': 1, 'Wish': 9, 'Documentation': 2, 'IT Help': 2, 'New Feature': 103}
+Resolutions: {'': 190, 'Fixed': 881, 'Invalid': 26, "Won't Fix": 34, 'Not A Bug': 1, 'Not A Problem': 38, 'Cannot Reproduce': 32, 'Done': 5, 'Incomplete': 3, 'Duplicate': 30, 'Implemented': 1, 'Abandoned': 5, 'Workaround': 5, 'Information Provided': 1, 'Later': 1}
+Statuses: {'Open': 186, 'Resolved': 1, 'Closed': 1062, 'Reopened': 4}
+
+Average Lead Time (all PBIs): 269.7 days
+Average Lead Time (Improvement): 276.2 days
+Average Lead Time (Bug): 264.9 days
+Average Lead Time (Question): 465.3 days
+Average Lead Time (Test): 24.0 days
+Average Lead Time (Task): 241.0 days
+Average Lead Time (Brainstorming): 206.0 days
+Average Lead Time (Outage): 17.0 days
+Average Lead Time (Documentation): 1.0 days
+Average Lead Time (IT Help): 1.5 days
+Average Lead Time (New Feature): 307.7 days
+Average Lead Time (Wish): 238.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-08-14 02:12:12 End date: 2021-11-22 02:12:12
+System: {'DIRSTUDIO': 8}
+Types: {'Bug': 6, 'Question': 1, 'Improvement': 1}
+Resolutions: {'': 7, 'Fixed': 1}
+Statuses: {'Open': 7, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 2.0 days
+Average Lead Time (Improvement): 2.0 days

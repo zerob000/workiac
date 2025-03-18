@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2006-02-18 11:53:10 End date: 2020-01-13 17:23:18
+System: {'ODE': 1052}
+Types: {'Wish': 15, 'Bug': 652, 'New Feature': 89, 'Improvement': 224, 'Task': 60, 'Test': 12}
+Resolutions: {'': 234, 'Fixed': 705, 'Invalid': 37, 'Workaround': 1, 'Duplicate': 21, "Won't Fix": 28, 'Cannot Reproduce': 13, 'Later': 4, 'Not A Problem': 7, 'Incomplete': 2}
+Statuses: {'Open': 228, 'Closed': 253, 'Resolved': 565, 'Reopened': 5, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 212.8 days
+Average Lead Time (Wish): 345.7 days
+Average Lead Time (Bug): 210.6 days
+Average Lead Time (Improvement): 247.0 days
+Average Lead Time (New Feature): 140.7 days
+Average Lead Time (Task): 212.0 days
+Average Lead Time (Test): 13.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2019-10-05 17:23:18 End date: 2020-01-13 17:23:18
+System: {'ODE': 1}
+Types: {'Wish': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

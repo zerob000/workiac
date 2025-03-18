@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2010-11-22 23:50:41 End date: 2020-12-29 05:16:47
+System: {'DATAJPA': 1684}
+Types: {'Bug': 788, 'Improvement': 369, 'Task': 379, 'New Feature': 148}
+Resolutions: {'': 197, 'Works as Designed': 182, 'Duplicate': 81, 'Complete': 221, 'Invalid': 98, 'Done': 22, "Won't Do": 46, 'Cannot Reproduce': 66, "Won't Fix": 47, 'Fixed': 706, 'Deferred': 4, 'Incomplete': 14}
+Statuses: {'Open': 152, 'Closed': 1442, 'Resolved': 45, 'Waiting for Feedback': 13, 'Reopened': 3, 'Investigating': 20, 'Waiting for Review': 6, 'In Progress': 3}
+
+Average Lead Time (all PBIs): 223.1 days
+Average Lead Time (Improvement): 353.6 days
+Average Lead Time (Bug): 191.7 days
+Average Lead Time (Task): 51.8 days
+Average Lead Time (New Feature): 578.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-09-20 05:16:47 End date: 2020-12-29 05:16:47
+System: {'DATAJPA': 63}
+Types: {'Bug': 26, 'Improvement': 15, 'Task': 18, 'New Feature': 4}
+Resolutions: {'': 20, 'Works as Designed': 4, 'Duplicate': 4, 'Complete': 18, 'Invalid': 2, 'Done': 10, "Won't Do": 1, 'Cannot Reproduce': 2, "Won't Fix": 2}
+Statuses: {'Open': 18, 'Closed': 42, 'Resolved': 1, 'Waiting for Feedback': 1, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 108.1 days
+Average Lead Time (Improvement): 166.3 days
+Average Lead Time (Bug): 93.4 days
+Average Lead Time (Task): 23.5 days
+Average Lead Time (New Feature): 290.7 days

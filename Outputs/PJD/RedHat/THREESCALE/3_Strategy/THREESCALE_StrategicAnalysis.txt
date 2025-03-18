@@ -1,0 +1,73 @@
+
+System Name: THREESCALE
+System Duration (Captured): 1910 days
+
+Calculated Final System Size: 970 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 970 PBIs
+
+Model Final System Size: 1126 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 1126 PBIs
+
+% Error, Final backlog, model vs actual: 16.0%
+Error, Final backlog, model vs actual: 156 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 2506 PBIs
+Total Unplanned Arrivals: 1630 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 267 PBIs
+Total Net Arrivals: 3869 PBIs
+Total Services: 2899 PBIs
+
+Rates:
+Planned Arrival Rate: 1.645 PBIs/day
+Unplanned Arrival Rate: 1.05 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.209 PBIs/day
+Net Arrival Rate: 2.486 PBIs/day
+Service Rate: 1.989 PBIs/day
+
+
+Metrics:
+Stability: 0.8
+Quality: 0.61
+Control: 0.922
+Inventory Days: 487.682 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 97 days
+
+Calculated Final System Size: 970 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 970 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 139 PBIs
+Unplanned Arrivals in this period: 79 PBIs
+Cancelled/Rejected/Won't Do  in this period: 8 PBIs
+System size change in this period: -26 PBIs
+Net Arrivals in this period: 210 PBIs
+Services in this period: 235 PBIs
+
+Rates:
+Planned Arrival Rate: 1.531 PBIs/day
+Unplanned Arrival Rate: 0.882 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.088 PBIs/day
+Net Arrival Rate: 2.321 PBIs/day
+Service Rate: 2.751 PBIs/day
+
+Metrics:
+Stability: 1.183
+Quality: 0.634
+Control: 0.964
+Inventory Days: 352.599 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

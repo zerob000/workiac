@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2017-04-17 04:30:53 End date: 2021-03-10 11:31:33
+System: {'TEIIDSB': 191}
+Types: {'Bug': 52, 'Feature Request': 48, 'Task': 29, 'Quality Risk': 28, 'Enhancement': 32, 'Component Upgrade': 2}
+Resolutions: {'Done': 149, '': 8, 'Out of Date': 7, "Won't Fix": 3, 'Explained': 5, 'Duplicate Issue': 6, "Won't Do": 10, 'Rejected': 1, 'Cannot Reproduce': 1, 'Partially Completed': 1}
+Statuses: {'Resolved': 172, 'Open': 7, 'Reopened': 1, 'Closed': 11}
+
+Average Lead Time (all PBIs): 52.8 days
+Average Lead Time (Bug): 9.7 days
+Average Lead Time (Feature Request): 121.6 days
+Average Lead Time (Task): 33.4 days
+Average Lead Time (Quality Risk): 15.4 days
+Average Lead Time (Enhancement): 80.9 days
+Average Lead Time (Component Upgrade): 3.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-11-30 11:31:33 End date: 2021-03-10 11:31:33
+System: {'TEIIDSB': 7}
+Types: {'Bug': 3, 'Feature Request': 3, 'Enhancement': 1}
+Resolutions: {'Done': 1, '': 2, 'Out of Date': 2, "Won't Fix": 2}
+Statuses: {'Resolved': 5, 'Open': 2}
+
+Average Lead Time (all PBIs): 151.8 days
+Average Lead Time (Bug): 16.0 days
+Average Lead Time (Feature Request): 138.0 days
+Average Lead Time (Enhancement): 329.0 days

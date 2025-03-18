@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2007-01-05 05:07:29 End date: 2019-08-20 10:16:04
+System: {'RIVER': 450}
+Types: {'Test': 7, 'Bug': 169, 'Story': 14, 'Wish': 8, 'Task': 22, 'Improvement': 185, 'New Feature': 39, 'TCK Challenge': 1, 'Brainstorming': 1, 'Question': 4}
+Resolutions: {'': 264, 'Fixed': 163, 'Implemented': 1, 'Not A Problem': 1, 'Invalid': 4, "Won't Fix": 8, 'Later': 1, 'Abandoned': 4, 'Done': 1, 'Cannot Reproduce': 2, "Won't Do": 1}
+Statuses: {'Open': 255, 'Resolved': 91, 'Closed': 95, 'Reopened': 3, 'In Progress': 6}
+
+Average Lead Time (all PBIs): 779.7 days
+Average Lead Time (Bug): 604.6 days
+Average Lead Time (Improvement): 939.0 days
+Average Lead Time (Task): 956.7 days
+Average Lead Time (Wish): 338.0 days
+Average Lead Time (TCK Challenge): 936.0 days
+Average Lead Time (Question): 1950.5 days
+Average Lead Time (New Feature): 930.2 days
+Average Lead Time (Test): 885.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2019-05-12 10:16:04 End date: 2019-08-20 10:16:04
+System: {'RIVER': 5}
+Types: {'Test': 1, 'Bug': 1, 'Improvement': 2, 'Task': 1}
+Resolutions: {'': 2, 'Abandoned': 2, "Won't Do": 1}
+Statuses: {'Open': 2, 'Closed': 3}
+
+Average Lead Time (all PBIs): 4471.7 days
+Average Lead Time (Improvement): 4408.0 days
+Average Lead Time (Task): 4599.0 days

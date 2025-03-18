@@ -1,0 +1,47 @@
+Key,ID,Project,IssueType,IsSubtask,Status,Resolution,Created Date,Resolved Date
+IA-56,35952,IA,Story,false,Complete,Won't Do,2018-12-07 00:39:44,2019-09-18 14:40:15
+IA-55,35951,IA,Story,false,Complete,Done,2018-12-07 00:16:07,2019-09-18 14:42:18
+IA-54,35950,IA,Story,false,Complete,Won't Do,2018-12-07 00:12:13,2019-09-18 14:40:15
+IA-53,35949,IA,Story,false,Complete,Won't Do,2018-12-07 00:10:01,2019-09-18 14:42:05
+IA-52,35948,IA,Story,false,Complete,Won't Do,2018-12-07 00:07:52,2019-09-18 14:40:15
+IA-51,35947,IA,Story,false,Complete,Won't Do,2018-12-06 23:59:22,2019-09-18 14:40:16
+IA-50,35946,IA,Task,false,Complete,Won't Do,2018-12-06 23:49:13,2019-09-18 14:40:16
+IA-48,35327,IA,Story,false,Complete,Deferred,2018-11-13 22:26:23,2019-09-18 15:33:12
+IA-47,35236,IA,Task,false,Complete,Deferred,2018-11-08 23:41:37,2019-09-18 15:33:13
+IA-46,35058,IA,Story,false,Complete,Deferred,2018-11-01 22:02:22,2019-09-18 15:33:13
+IA-45,35057,IA,Task,false,Complete,Deferred,2018-11-01 21:50:02,2019-09-18 15:33:11
+IA-44,35056,IA,Story,false,Complete,Deferred,2018-11-01 21:33:56,2019-09-18 15:33:10
+IA-43,34977,IA,Task,false,Complete,,2018-10-30 13:47:04,
+IA-42,34538,IA,Task,false,Complete,,2018-10-09 20:59:01,
+IA-41,34536,IA,Task,false,Complete,,2018-10-09 20:55:28,
+IA-39,34533,IA,Task,false,Complete,Deferred,2018-10-09 20:45:57,2019-09-18 15:33:10
+IA-38,34013,IA,Task,false,Complete,,2018-09-24 02:06:42,
+IA-37,33230,IA,Task,false,Complete,,2018-08-26 10:02:34,
+IA-36,30125,IA,Task,false,Complete,,2018-05-10 23:05:13,
+IA-35,31796,IA,Task,false,Complete,Invalid,2018-07-11 16:57:51,2019-03-29 20:45:22
+IA-34,31794,IA,Task,false,Complete,Done,2018-07-11 16:49:27,2019-09-18 14:57:32
+IA-32,31792,IA,Story,false,Complete,Invalid,2018-07-11 16:34:58,2019-03-29 20:45:22
+IA-30,31788,IA,Story,false,Complete,Deferred,2018-07-11 15:59:01,2019-09-18 15:28:47
+IA-29,31787,IA,Story,false,Complete,Deferred,2018-07-11 15:53:07,2019-09-18 15:28:47
+IA-28,31785,IA,Story,false,Complete,,2018-07-11 15:45:01,
+IA-27,31783,IA,Story,false,Complete,,2018-07-11 15:34:55,
+IA-26,31729,IA,Task,false,Complete,Deferred,2018-07-06 20:56:35,2019-03-29 20:46:11
+IA-24,19849,IA,Story,false,Complete,Deferred,2017-08-02 09:27:23,2019-09-18 15:26:22
+IA-23,19850,IA,Story,false,Complete,Deferred,2017-08-02 09:27:23,2019-09-18 15:26:21
+IA-20,31516,IA,Task,false,Complete,,2018-06-29 21:14:42,
+IA-19,31514,IA,Task,false,Complete,,2018-06-29 21:06:22,
+IA-18,31510,IA,Task,false,Complete,,2018-06-29 20:12:26,
+IA-17,31499,IA,Task,false,Complete,Invalid,2018-06-29 17:13:42,2019-03-29 20:45:21
+IA-16,31498,IA,Task,false,Complete,,2018-06-29 17:05:27,
+IA-14,31475,IA,Task,false,Complete,,2018-06-28 22:34:51,
+IA-13,31473,IA,Task,false,Complete,,2018-06-28 22:27:03,
+IA-12,31472,IA,Task,false,Complete,,2018-06-28 22:17:33,
+IA-11,31469,IA,Task,false,Complete,,2018-06-28 21:18:52,
+IA-10,31466,IA,Task,false,Complete,,2018-06-28 20:29:53,
+IA-9,31465,IA,Story,false,Complete,,2018-06-28 20:18:40,
+IA-8,31461,IA,Story,false,Complete,,2018-06-28 18:53:57,
+IA-7,31460,IA,Story,false,Complete,,2018-06-28 18:00:25,
+IA-6,31459,IA,Task,false,Complete,,2018-06-28 17:39:15,
+IA-5,31457,IA,Task,false,Complete,Deferred,2018-06-28 17:21:02,2019-09-18 15:33:12
+IA-2,30124,IA,Story,false,Complete,,2018-05-10 23:02:45,
+IA-1,31274,IA,Bug,false,Complete,,2018-06-21 15:43:01,

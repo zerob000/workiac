@@ -1,0 +1,73 @@
+
+System Name: PSAP
+System Duration (Captured): 318 days
+
+Calculated Final System Size: 63 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 63 PBIs
+
+Model Final System Size: 86 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 86 PBIs
+
+% Error, Final backlog, model vs actual: 37.0%
+Error, Final backlog, model vs actual: 23 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 141 PBIs
+Total Unplanned Arrivals: 3 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 0 PBIs
+Total Net Arrivals: 144 PBIs
+Total Services: 81 PBIs
+
+Rates:
+Planned Arrival Rate: 0.53 PBIs/day
+Unplanned Arrival Rate: 0.016 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0 PBIs/day
+Net Arrival Rate: 0.546 PBIs/day
+Service Rate: 0.289 PBIs/day
+
+
+Metrics:
+Stability: 0.529
+Quality: 0.971
+Control: 1.0
+Inventory Days: 217.993 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 63 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 63 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 32 PBIs
+Unplanned Arrivals in this period: 0 PBIs
+Cancelled/Rejected/Won't Do  in this period: 0 PBIs
+System size change in this period: 3 PBIs
+Net Arrivals in this period: 32 PBIs
+Services in this period: 28 PBIs
+
+Rates:
+Planned Arrival Rate: 0.376 PBIs/day
+Unplanned Arrival Rate: NaN PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0 PBIs/day
+Net Arrival Rate: 0.376 PBIs/day
+Service Rate: 0.254 PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

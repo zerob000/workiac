@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2013-05-01 12:31:00 End date: 2022-01-04 10:07:06
+System: {'RHPAM': 2873}
+Types: {'Bug': 2291, 'Requirement': 14, 'Task': 191, 'Enhancement': 298, 'Feature Request': 71, 'Support Patch': 4, 'Component Upgrade': 4}
+Resolutions: {'': 315, 'Not a Bug': 10, 'Done': 1793, 'Fixed': 3, 'Duplicate Issue': 139, "Won't Do": 52, 'Explained': 62, "Won't Fix": 71, 'Cannot Reproduce': 75, 'Out of Date': 267, 'Duplicate': 6, 'Rejected': 70, 'Incomplete Description': 4, 'Partially Completed': 2, 'Deferred': 3, 'Migrated to another ITS': 1}
+Statuses: {'New': 241, 'Closed': 1092, 'Open': 58, 'Resolved': 27, 'Pull Request Sent': 10, 'Verified': 1430, 'Ready for QA': 8, 'Reopened': 3, 'QA In Progress': 1, 'Coding In Progress': 1, 'Awaiting Docs': 2}
+
+Average Lead Time (all PBIs): 152.7 days
+Average Lead Time (Bug): 144.2 days
+Average Lead Time (Task): 87.7 days
+Average Lead Time (Enhancement): 245.8 days
+Average Lead Time (Feature Request): 286.0 days
+Average Lead Time (Support Patch): 60.8 days
+Average Lead Time (Requirement): 129.8 days
+Average Lead Time (Component Upgrade): 45.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 10:07:06 End date: 2022-01-04 10:07:06
+System: {'RHPAM': 148}
+Types: {'Bug': 105, 'Requirement': 2, 'Task': 17, 'Enhancement': 19, 'Feature Request': 4, 'Support Patch': 1}
+Resolutions: {'': 60, 'Not a Bug': 3, 'Done': 58, 'Fixed': 2, 'Duplicate Issue': 5, "Won't Do": 7, 'Explained': 5, "Won't Fix": 1, 'Cannot Reproduce': 4, 'Out of Date': 3}
+Statuses: {'New': 42, 'Closed': 32, 'Open': 11, 'Resolved': 17, 'Pull Request Sent': 4, 'Verified': 31, 'Ready for QA': 8, 'Reopened': 1, 'QA In Progress': 1, 'Coding In Progress': 1}
+
+Average Lead Time (all PBIs): 101.8 days
+Average Lead Time (Bug): 81.0 days
+Average Lead Time (Task): 109.5 days
+Average Lead Time (Enhancement): 312.0 days
+Average Lead Time (Feature Request): 13.0 days
+Average Lead Time (Support Patch): 16.0 days

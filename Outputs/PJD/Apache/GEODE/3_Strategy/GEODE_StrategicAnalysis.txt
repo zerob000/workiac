@@ -1,0 +1,73 @@
+
+System Name: GEODE
+System Duration (Captured): 2436 days
+
+Calculated Final System Size: 1593 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 1593 PBIs
+
+Model Final System Size: 1693 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 1693 PBIs
+
+% Error, Final backlog, model vs actual: 6.0%
+Error, Final backlog, model vs actual: 100 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 3408 PBIs
+Total Unplanned Arrivals: 5340 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 1080 PBIs
+Total Net Arrivals: 7668 PBIs
+Total Services: 6075 PBIs
+
+Rates:
+Planned Arrival Rate: 1.573 PBIs/day
+Unplanned Arrival Rate: 2.337 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.551 PBIs/day
+Net Arrival Rate: 3.359 PBIs/day
+Service Rate: 2.748 PBIs/day
+
+
+Metrics:
+Stability: 0.818
+Quality: 0.402
+Control: 0.859
+Inventory Days: 579.694 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 1593 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 1593 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 110 PBIs
+Unplanned Arrivals in this period: 162 PBIs
+Cancelled/Rejected/Won't Do  in this period: 19 PBIs
+System size change in this period: 53 PBIs
+Net Arrivals in this period: 253 PBIs
+Services in this period: 199 PBIs
+
+Rates:
+Planned Arrival Rate: 1.23 PBIs/day
+Unplanned Arrival Rate: 1.587 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.214 PBIs/day
+Net Arrival Rate: 2.59 PBIs/day
+Service Rate: 2.207 PBIs/day
+
+Metrics:
+Stability: 0.848
+Quality: 0.437
+Control: 0.924
+Inventory Days: 721.794 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

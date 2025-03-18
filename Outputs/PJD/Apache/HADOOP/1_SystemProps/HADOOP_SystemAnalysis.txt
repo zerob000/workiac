@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2005-07-24 23:46:18 End date: 2022-01-05 19:47:22
+System: {'HADOOP': 13477}
+Types: {'Bug': 7897, 'Improvement': 4088, 'Wish': 63, 'Task': 347, 'New Feature': 822, 'Test': 260}
+Resolutions: {'': 2157, 'Invalid': 379, 'Fixed': 8329, 'Duplicate': 1222, 'Done': 38, 'Abandoned': 7, "Won't Fix": 813, 'Not A Problem': 231, 'Works for Me': 7, 'Later': 32, "Won't Do": 8, 'Cannot Reproduce': 130, 'Not A Bug': 11, 'Resolved': 8, 'Implemented': 26, 'Incomplete': 75, 'Workaround': 1, 'Information Provided': 1, 'Auto Closed': 1, 'Pending Closed': 1}
+Statuses: {'Open': 1657, 'Resolved': 5257, 'Patch Available': 441, 'In Progress': 27, 'Reopened': 32, 'Closed': 6063}
+
+Average Lead Time (all PBIs): 195.2 days
+Average Lead Time (Improvement): 233.2 days
+Average Lead Time (Bug): 159.9 days
+Average Lead Time (Task): 205.3 days
+Average Lead Time (Wish): 556.0 days
+Average Lead Time (New Feature): 323.1 days
+Average Lead Time (Test): 252.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-27 19:47:22 End date: 2022-01-05 19:47:22
+System: {'HADOOP': 128}
+Types: {'Bug': 67, 'Improvement': 37, 'Wish': 4, 'Task': 11, 'New Feature': 5, 'Test': 4}
+Resolutions: {'': 36, 'Invalid': 6, 'Fixed': 70, 'Duplicate': 8, 'Done': 2, 'Abandoned': 2, "Won't Fix": 4}
+Statuses: {'Open': 30, 'Resolved': 92, 'Patch Available': 3, 'In Progress': 2, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 100.7 days
+Average Lead Time (Improvement): 90.0 days
+Average Lead Time (Bug): 79.0 days
+Average Lead Time (Task): 185.4 days
+Average Lead Time (Wish): 0.0 days
+Average Lead Time (New Feature): 17.0 days
+Average Lead Time (Test): 564.5 days

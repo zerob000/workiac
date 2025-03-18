@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 2019-01-14 07:42:14 End date: 2022-01-05 11:22:16
+System: {'IOTDB': 2136}
+Types: {'Bug': 867, 'New Feature': 341, 'Improvement': 730, 'Task': 135, 'Test': 10, 'Wish': 53}
+Resolutions: {'': 543, 'Fixed': 1353, "Won't Do": 4, 'Implemented': 15, 'Done': 62, 'Resolved': 23, 'Not A Problem': 28, 'Duplicate': 48, 'Not A Bug': 7, "Won't Fix": 23, 'Abandoned': 3, 'Invalid': 5, 'Pending Closed': 1, 'Cannot Reproduce': 17, 'Workaround': 1, 'Later': 3}
+Statuses: {'Open': 495, 'Closed': 1450, 'In Progress': 41, 'Resolved': 143, 'Reopened': 7}
+
+Average Lead Time (all PBIs): 36.1 days
+Average Lead Time (Bug): 21.5 days
+Average Lead Time (Improvement): 44.9 days
+Average Lead Time (Task): 54.6 days
+Average Lead Time (New Feature): 50.9 days
+Average Lead Time (Test): 14.8 days
+Average Lead Time (Wish): 99.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-27 11:22:16 End date: 2022-01-05 11:22:16
+System: {'IOTDB': 552}
+Types: {'Bug': 212, 'New Feature': 110, 'Improvement': 167, 'Task': 55, 'Test': 7, 'Wish': 1}
+Resolutions: {'': 213, 'Fixed': 281, "Won't Do": 3, 'Implemented': 9, 'Done': 21, 'Resolved': 3, 'Not A Problem': 2, 'Duplicate': 8, 'Not A Bug': 2, "Won't Fix": 4, 'Abandoned': 1, 'Invalid': 3, 'Pending Closed': 1, 'Cannot Reproduce': 1}
+Statuses: {'Open': 191, 'Closed': 325, 'In Progress': 21, 'Resolved': 14, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 23.4 days
+Average Lead Time (Bug): 10.3 days
+Average Lead Time (Improvement): 23.7 days
+Average Lead Time (Task): 30.6 days
+Average Lead Time (New Feature): 48.8 days
+Average Lead Time (Test): 3.0 days

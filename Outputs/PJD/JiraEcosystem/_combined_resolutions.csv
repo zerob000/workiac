@@ -1,0 +1,28 @@
+Type,Count
+,4967
+Invalid,706
+Fixed,17778
+Rejected,29
+Duplicate,2295
+Answered,552
+Won't Fix,3760
+Obsolete,3069
+Cannot Reproduce,704
+Timed out,288
+Tracked Elsewhere,368
+Not a bug,566
+Won't Do,391
+Done,2828
+Handled by Support,127
+Roadmap Candidate,59
+Support Request,25
+Resolved Locally,38
+Incomplete,106
+Canceled,150
+Known Error,2
+Declined,16
+Unresolved,43
+Stop Dots,1
+Sent to Docs,3
+Deprioritized,2
+Sent to Forums,5

@@ -1,0 +1,73 @@
+
+System Name: TRAFODION
+System Duration (Captured): 2005 days
+
+Calculated Final System Size: 762 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 762 PBIs
+
+Model Final System Size: 1353 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 1353 PBIs
+
+% Error, Final backlog, model vs actual: 78.0%
+Error, Final backlog, model vs actual: 591 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 707 PBIs
+Total Unplanned Arrivals: 2369 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 123 PBIs
+Total Net Arrivals: 2953 PBIs
+Total Services: 2191 PBIs
+
+Rates:
+Planned Arrival Rate: 0.461 PBIs/day
+Unplanned Arrival Rate: 1.631 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.098 PBIs/day
+Net Arrival Rate: 1.994 PBIs/day
+Service Rate: 1.412 PBIs/day
+
+
+Metrics:
+Stability: 0.708
+Quality: 0.22
+Control: 0.953
+Inventory Days: 539.66 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 0 days
+
+Calculated Final System Size: 762 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 762 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 0 PBIs
+Unplanned Arrivals in this period: 0 PBIs
+Cancelled/Rejected/Won't Do  in this period: 0 PBIs
+System size change in this period: 0 PBIs
+Net Arrivals in this period: 0 PBIs
+Services in this period: 0 PBIs
+
+Rates:
+Planned Arrival Rate: NaN PBIs/day
+Unplanned Arrival Rate: NaN PBIs/day
+Cancelled/Rejected/Won't Do Rate: NaN PBIs/day
+Net Arrival Rate: NaN PBIs/day
+Service Rate: NaN PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

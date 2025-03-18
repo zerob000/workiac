@@ -1,0 +1,22 @@
+All PBIS - Unfiltered 
+Start date: 2002-01-29 22:23:25 End date: 2009-06-02 22:00:38
+System: {'RESOURCES': 41}
+Types: {'Improvement': 11, 'Bug': 30}
+Resolutions: {'': 7, 'Fixed': 23, "Won't Fix": 7, 'Duplicate': 2, 'Incomplete': 2}
+Statuses: {'Open': 7, 'Resolved': 34}
+
+Average Lead Time (all PBIs): 503.8 days
+Average Lead Time (Improvement): 627.8 days
+Average Lead Time (Bug): 465.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2009-02-22 22:00:38 End date: 2009-06-02 22:00:38
+System: {'RESOURCES': 4}
+Types: {'Improvement': 1, 'Bug': 3}
+Resolutions: {'': 1, 'Fixed': 3}
+Statuses: {'Open': 1, 'Resolved': 3}
+
+Average Lead Time (all PBIs): 1275.0 days
+Average Lead Time (Bug): 1275.0 days

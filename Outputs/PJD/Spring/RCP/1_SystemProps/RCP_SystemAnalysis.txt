@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2004-06-08 22:25:54 End date: 2019-03-01 02:34:03
+System: {'RCP': 625}
+Types: {'Bug': 287, 'Support': 1, 'Improvement': 213, 'Refactoring': 4, 'New Feature': 79, 'Task': 41}
+Resolutions: {'': 118, 'Complete': 10, 'Fixed': 423, "Won't Fix": 39, 'Invalid': 3, 'Duplicate': 17, 'Cannot Reproduce': 14, 'Incomplete': 1}
+Statuses: {'Open': 110, 'Resolved': 142, 'Reopened': 2, 'In Progress': 6, 'Closed': 365}
+
+Average Lead Time (all PBIs): 201.7 days
+Average Lead Time (Bug): 182.6 days
+Average Lead Time (Improvement): 245.3 days
+Average Lead Time (Refactoring): 818.0 days
+Average Lead Time (New Feature): 189.8 days
+Average Lead Time (Task): 122.9 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2018-11-21 02:34:03 End date: 2019-03-01 02:34:03
+System: {'RCP': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

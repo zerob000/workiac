@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2007-11-18 06:20:02 End date: 2021-08-22 19:33:15
+System: {'DOXIATOOLS': 56}
+Types: {'Improvement': 13, 'Bug': 28, 'Dependency upgrade': 5, 'Task': 4, 'New Feature': 6}
+Resolutions: {'Fixed': 25, '': 3, 'Auto Closed': 23, 'Duplicate': 1, 'Not A Problem': 1, "Won't Fix": 2, 'Cannot Reproduce': 1}
+Statuses: {'Closed': 53, 'Reopened': 1, 'Open': 2}
+
+Average Lead Time (all PBIs): 1136.5 days
+Average Lead Time (Improvement): 815.3 days
+Average Lead Time (Bug): 1345.8 days
+Average Lead Time (Dependency upgrade): 330.5 days
+Average Lead Time (Task): 444.0 days
+Average Lead Time (New Feature): 1836.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-05-14 19:33:15 End date: 2021-08-22 19:33:15
+System: {'DOXIATOOLS': 8}
+Types: {'Improvement': 2, 'Dependency upgrade': 1, 'Bug': 4, 'New Feature': 1}
+Resolutions: {'Fixed': 2, 'Auto Closed': 6}
+Statuses: {'Closed': 8}
+
+Average Lead Time (all PBIs): 2441.0 days
+Average Lead Time (Improvement): 1604.0 days
+Average Lead Time (Dependency upgrade): 255.0 days
+Average Lead Time (Bug): 2798.0 days
+Average Lead Time (New Feature): 4873.0 days

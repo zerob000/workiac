@@ -1,0 +1,73 @@
+
+System Name: OLINGO
+System Duration (Captured): 3081 days
+
+Calculated Final System Size: 302 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 302 PBIs
+
+Model Final System Size: 173 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 173 PBIs
+
+% Error, Final backlog, model vs actual: 43.0%
+Error, Final backlog, model vs actual: -129 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 499 PBIs
+Total Unplanned Arrivals: 973 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 200 PBIs
+Total Net Arrivals: 1272 PBIs
+Total Services: 970 PBIs
+
+Rates:
+Planned Arrival Rate: 0.178 PBIs/day
+Unplanned Arrival Rate: 0.355 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.102 PBIs/day
+Net Arrival Rate: 0.431 PBIs/day
+Service Rate: 0.384 PBIs/day
+
+
+Metrics:
+Stability: 0.891
+Quality: 0.334
+Control: 0.809
+Inventory Days: 786.458 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 302 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 302 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 2 PBIs
+Unplanned Arrivals in this period: 2 PBIs
+Cancelled/Rejected/Won't Do  in this period: 0 PBIs
+System size change in this period: 5 PBIs
+Net Arrivals in this period: 4 PBIs
+Services in this period: 0 PBIs
+
+Rates:
+Planned Arrival Rate: 1.5 PBIs/day
+Unplanned Arrival Rate: 0.221 PBIs/day
+Cancelled/Rejected/Won't Do Rate: NaN PBIs/day
+Net Arrival Rate: 0.032 PBIs/day
+Service Rate: NaN PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

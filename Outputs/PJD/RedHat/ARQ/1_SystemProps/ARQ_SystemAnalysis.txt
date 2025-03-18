@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2009-08-06 08:08:24 End date: 2021-12-14 14:27:26
+System: {'ARQ': 2119}
+Types: {'Task': 227, 'Bug': 722, 'Enhancement': 226, 'Feature Request': 737, 'Component Upgrade': 96, 'Release': 102, 'Story': 2, 'Quality Risk': 2, 'Patch': 4, 'CTS Challenge': 1}
+Resolutions: {'': 455, 'Done': 1439, 'Migrated to another ITS': 3, 'Explained': 1, 'Duplicate Issue': 44, 'Partially Completed': 5, "Won't Fix": 39, 'Rejected': 48, 'Out of Date': 70, 'Cannot Reproduce': 5, 'Resolved at Apache': 1, 'Deferred': 6, 'Incomplete Description': 2, "Won't Do": 1}
+Statuses: {'Open': 425, 'Resolved': 187, 'Closed': 1477, 'Coding In Progress': 9, 'Pull Request Sent': 18, 'Reopened': 3}
+
+Average Lead Time (all PBIs): 122.9 days
+Average Lead Time (Task): 112.5 days
+Average Lead Time (Bug): 118.1 days
+Average Lead Time (Enhancement): 106.2 days
+Average Lead Time (Component Upgrade): 24.2 days
+Average Lead Time (Release): 2.3 days
+Average Lead Time (Feature Request): 176.1 days
+Average Lead Time (Quality Risk): 74.0 days
+Average Lead Time (Patch): 1.3 days
+Average Lead Time (CTS Challenge): 2134.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-05 14:27:26 End date: 2021-12-14 14:27:26
+System: {'ARQ': 2}
+Types: {'Task': 2}
+Resolutions: {'': 1, 'Done': 1}
+Statuses: {'Open': 1, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 114.0 days
+Average Lead Time (Task): 114.0 days

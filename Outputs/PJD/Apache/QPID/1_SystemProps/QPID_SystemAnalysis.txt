@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2006-09-18 09:57:49 End date: 2021-12-09 09:00:40
+System: {'QPID': 8279}
+Types: {'Bug': 5089, 'Improvement': 2364, 'Task': 341, 'Wish': 29, 'New Feature': 374, 'Test': 82}
+Resolutions: {'': 648, 'Fixed': 6294, 'Duplicate': 201, 'Resolved': 3, 'Not A Problem': 91, 'Information Provided': 4, 'Invalid': 117, 'Not A Bug': 9, 'Abandoned': 8, 'Implemented': 5, 'Done': 52, "Won't Fix": 414, 'Cannot Reproduce': 57, 'Feedback Received': 2, "Won't Do": 9, 'Later': 234, 'Incomplete': 32, 'Auto Closed': 99}
+Statuses: {'Open': 624, 'Closed': 6914, 'Reopened': 14, 'Resolved': 717, 'In Progress': 3, 'Reviewable': 7}
+
+Average Lead Time (all PBIs): 206.9 days
+Average Lead Time (Task): 188.3 days
+Average Lead Time (Improvement): 211.0 days
+Average Lead Time (Bug): 187.3 days
+Average Lead Time (Wish): 1105.3 days
+Average Lead Time (New Feature): 381.3 days
+Average Lead Time (Test): 306.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-08-31 09:00:40 End date: 2021-12-09 09:00:40
+System: {'QPID': 9}
+Types: {'Bug': 4, 'Improvement': 5}
+Resolutions: {'': 8, 'Invalid': 1}
+Statuses: {'Open': 8, 'Closed': 1}
+
+Average Lead Time (all PBIs): 413.0 days
+Average Lead Time (Improvement): 413.0 days

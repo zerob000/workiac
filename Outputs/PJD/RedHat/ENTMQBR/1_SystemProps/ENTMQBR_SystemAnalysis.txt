@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2011-02-01 15:04:06 End date: 2022-01-04 16:55:26
+System: {'ENTMQBR': 3602}
+Types: {'Bug': 1911, 'Task': 943, 'Enhancement': 748}
+Resolutions: {'': 805, 'Done': 1982, 'Rejected': 306, 'Duplicate Issue': 204, "Won't Do": 49, 'Obsolete': 2, 'Explained': 119, 'Fixed': 1, 'Duplicate': 8, 'Out of Date': 49, 'Not a Bug': 9, "Won't Fix": 35, 'Cannot Reproduce': 30, 'Partially Completed': 1, 'Incomplete Description': 2}
+Statuses: {'Ready for Review': 79, 'In Progress': 33, 'New': 591, 'Closed': 2797, 'Blocked': 10, 'To Do': 86, 'Reopened': 6}
+
+Average Lead Time (all PBIs): 117.6 days
+Average Lead Time (Task): 87.2 days
+Average Lead Time (Enhancement): 219.4 days
+Average Lead Time (Bug): 100.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 16:55:26 End date: 2022-01-04 16:55:26
+System: {'ENTMQBR': 272}
+Types: {'Bug': 157, 'Task': 58, 'Enhancement': 57}
+Resolutions: {'': 150, 'Done': 100, 'Rejected': 1, 'Duplicate Issue': 4, "Won't Do": 4, 'Obsolete': 2, 'Explained': 6, 'Fixed': 1, 'Duplicate': 1, 'Out of Date': 3}
+Statuses: {'Ready for Review': 32, 'In Progress': 10, 'New': 100, 'Closed': 122, 'Blocked': 3, 'To Do': 5}
+
+Average Lead Time (all PBIs): 81.2 days
+Average Lead Time (Task): 83.7 days
+Average Lead Time (Enhancement): 157.0 days
+Average Lead Time (Bug): 63.9 days

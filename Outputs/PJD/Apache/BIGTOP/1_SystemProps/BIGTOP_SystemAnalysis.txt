@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2011-07-19 19:38:40 End date: 2022-01-03 13:19:13
+System: {'BIGTOP': 3026}
+Types: {'Bug': 1909, 'Improvement': 719, 'Task': 156, 'New Feature': 182, 'Wish': 12, 'Test': 48}
+Resolutions: {'': 513, 'Fixed': 2152, 'Invalid': 37, 'Not A Problem': 41, "Won't Fix": 100, 'Duplicate': 107, 'Cannot Reproduce': 29, 'Not A Bug': 4, "Won't Do": 8, 'Abandoned': 3, 'Implemented': 8, 'Done': 15, 'Resolved': 2, 'Works for Me': 1, 'Later': 2, 'Pending Closed': 2, 'Incomplete': 1, 'Workaround': 1}
+Statuses: {'Open': 483, 'Resolved': 1422, 'Reopened': 12, 'Patch Available': 17, 'Closed': 1084, 'In Progress': 8}
+
+Average Lead Time (all PBIs): 80.4 days
+Average Lead Time (Improvement): 102.7 days
+Average Lead Time (Bug): 64.4 days
+Average Lead Time (Task): 84.0 days
+Average Lead Time (New Feature): 209.1 days
+Average Lead Time (Wish): 143.6 days
+Average Lead Time (Test): 64.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-25 13:19:13 End date: 2022-01-03 13:19:13
+System: {'BIGTOP': 36}
+Types: {'Bug': 15, 'Improvement': 12, 'Task': 8, 'New Feature': 1}
+Resolutions: {'': 16, 'Fixed': 20}
+Statuses: {'Open': 14, 'Resolved': 20, 'Reopened': 2}
+
+Average Lead Time (all PBIs): 22.7 days
+Average Lead Time (Improvement): 5.2 days
+Average Lead Time (Bug): 12.3 days
+Average Lead Time (Task): 62.4 days

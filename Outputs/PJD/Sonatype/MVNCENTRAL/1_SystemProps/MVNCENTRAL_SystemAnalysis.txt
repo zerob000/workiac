@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2010-10-20 08:27:32 End date: 2021-10-28 20:45:56
+System: {'MVNCENTRAL': 1641}
+Types: {'Problem': 1597, 'Question': 2, 'Improvement': 42}
+Resolutions: {'': 1641}
+Statuses: {'Done': 1640, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 277.5 days
+Average Lead Time (Problem): 282.2 days
+Average Lead Time (Question): 9.5 days
+Average Lead Time (Improvement): 105.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-07-20 20:45:56 End date: 2021-10-28 20:45:56
+System: {'MVNCENTRAL': 15}
+Types: {'Problem': 13, 'Question': 2}
+Resolutions: {'': 15}
+Statuses: {'Done': 15}
+
+Average Lead Time (all PBIs): 5.1 days
+Average Lead Time (Problem): 4.4 days
+Average Lead Time (Question): 9.5 days

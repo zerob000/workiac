@@ -1,0 +1,37 @@
+All PBIS - Unfiltered 
+Start date: 2011-05-13 02:01:02 End date: 2021-12-30 10:04:04
+System: {'AIRAVATA': 2781}
+Types: {'New JIRA Project': 2, 'Improvement': 519, 'New Feature': 281, 'Bug': 1639, 'Test': 11, 'Task': 176, 'Story': 108, 'Request': 1, 'IT Help': 1, 'Dependency upgrade': 2, 'Project': 7, 'Wish': 7, 'Question': 9, 'New Git Repo': 1, 'Brainstorming': 3, 'Documentation': 14}
+Resolutions: {'': 531, 'Fixed': 1945, 'Invalid': 87, 'Duplicate': 45, 'Workaround': 5, 'Cannot Reproduce': 32, 'Implemented': 2, "Won't Fix": 76, 'Not A Problem': 29, 'Incomplete': 3, 'Later': 10, 'Resolved': 3, 'Not A Bug': 2, 'Abandoned': 10, 'Done': 1}
+Statuses: {'Open': 491, 'Resolved': 851, 'In Progress': 22, 'Closed': 1399, 'Reopened': 18}
+
+Average Lead Time (all PBIs): 144.3 days
+Average Lead Time (New Feature): 208.2 days
+Average Lead Time (Bug): 103.9 days
+Average Lead Time (Improvement): 203.1 days
+Average Lead Time (Task): 171.4 days
+Average Lead Time (Test): 6.2 days
+Average Lead Time (Dependency upgrade): 228.5 days
+Average Lead Time (Project): 148.6 days
+Average Lead Time (Story): 260.8 days
+Average Lead Time (New Git Repo): 0.0 days
+Average Lead Time (New JIRA Project): 172.0 days
+Average Lead Time (Brainstorming): 13.0 days
+Average Lead Time (Question): 262.1 days
+Average Lead Time (Wish): 597.2 days
+Average Lead Time (Documentation): 427.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-21 10:04:04 End date: 2021-12-30 10:04:04
+System: {'AIRAVATA': 42}
+Types: {'New JIRA Project': 1, 'Improvement': 6, 'New Feature': 8, 'Bug': 24, 'Test': 1, 'Task': 2}
+Resolutions: {'': 24, 'Fixed': 18}
+Statuses: {'Open': 21, 'Resolved': 18, 'In Progress': 3}
+
+Average Lead Time (all PBIs): 47.1 days
+Average Lead Time (New Feature): 131.0 days
+Average Lead Time (Bug): 28.2 days
+Average Lead Time (Improvement): 0.0 days
+Average Lead Time (Task): 13.0 days

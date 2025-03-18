@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2007-03-20 03:57:00 End date: 2010-08-02 06:15:11
+System: {'SJC': 200}
+Types: {'Improvement': 75, 'Bug': 48, 'Task': 24, 'New Feature': 40, 'Refactoring': 13}
+Resolutions: {'Duplicate': 13, "Won't Fix": 69, 'Fixed': 99, 'Invalid': 8, 'Cannot Reproduce': 3, 'Deferred': 8}
+Statuses: {'Closed': 155, 'Resolved': 45}
+
+Average Lead Time (all PBIs): 234.1 days
+Average Lead Time (Improvement): 282.6 days
+Average Lead Time (Bug): 121.0 days
+Average Lead Time (Task): 265.0 days
+Average Lead Time (New Feature): 280.4 days
+Average Lead Time (Refactoring): 172.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2010-04-24 06:15:11 End date: 2010-08-02 06:15:11
+System: {'SJC': 55}
+Types: {'Improvement': 25, 'Bug': 8, 'Task': 8, 'New Feature': 11, 'Refactoring': 3}
+Resolutions: {"Won't Fix": 55}
+Statuses: {'Closed': 51, 'Resolved': 4}
+
+Average Lead Time (all PBIs): 665.0 days
+Average Lead Time (Improvement): 702.3 days
+Average Lead Time (Bug): 467.6 days
+Average Lead Time (Task): 701.4 days
+Average Lead Time (New Feature): 699.3 days
+Average Lead Time (Refactoring): 658.3 days

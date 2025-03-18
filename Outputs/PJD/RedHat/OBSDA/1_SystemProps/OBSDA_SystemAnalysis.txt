@@ -1,0 +1,21 @@
+All PBIS - Unfiltered 
+Start date: 2020-04-06 12:23:31 End date: 2021-12-13 16:07:47
+System: {'OBSDA': 30}
+Types: {'Feature': 30}
+Resolutions: {'': 29, 'Done': 1}
+Statuses: {'New': 27, 'In Progress': 2, 'Closed': 1}
+
+Average Lead Time (all PBIs): 584.0 days
+Average Lead Time (Feature): 584.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-04 16:07:47 End date: 2021-12-13 16:07:47
+System: {'OBSDA': 8}
+Types: {'Feature': 8}
+Resolutions: {'': 7, 'Done': 1}
+Statuses: {'New': 7, 'Closed': 1}
+
+Average Lead Time (all PBIs): 584.0 days
+Average Lead Time (Feature): 584.0 days

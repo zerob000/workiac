@@ -1,0 +1,38 @@
+All PBIS - Unfiltered 
+Start date: 2012-02-29 14:31:16 End date: 2021-12-30 06:46:08
+System: {'UNDERTOW': 1725}
+Types: {'Bug': 1232, 'Enhancement': 154, 'Feature Request': 238, 'Question': 3, 'Task': 55, 'Documentation': 10, 'Clarification': 12, 'Component Upgrade': 7, 'Issue': 2, 'Library Upgrade': 2, 'Request': 1, 'Support Request': 6, 'QE Task': 1, 'Patch': 1, 'Story': 1}
+Resolutions: {'': 179, 'Done': 1269, 'Cannot Reproduce': 22, 'Rejected': 133, 'Duplicate Issue': 32, "Won't Do": 11, 'Out of Date': 51, 'Incomplete Description': 3, 'Not a Bug': 1, 'Explained': 4, "Won't Fix": 14, 'Duplicate': 2, 'Partially Completed': 3, 'Deferred': 1}
+Statuses: {'Pull Request Sent': 38, 'Open': 134, 'Resolved': 1439, 'Coding In Progress': 3, 'Closed': 107, 'Reopened': 4}
+
+Average Lead Time (all PBIs): 81.3 days
+Average Lead Time (Enhancement): 92.4 days
+Average Lead Time (Task): 147.2 days
+Average Lead Time (Bug): 68.2 days
+Average Lead Time (Feature Request): 129.6 days
+Average Lead Time (Question): 8.0 days
+Average Lead Time (Clarification): 148.7 days
+Average Lead Time (Component Upgrade): 36.0 days
+Average Lead Time (Issue): 189.0 days
+Average Lead Time (Support Request): 193.8 days
+Average Lead Time (QE Task): 4.0 days
+Average Lead Time (Library Upgrade): 104.0 days
+Average Lead Time (Documentation): 77.8 days
+Average Lead Time (Story): 80.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-21 06:46:08 End date: 2021-12-30 06:46:08
+System: {'UNDERTOW': 64}
+Types: {'Bug': 41, 'Enhancement': 13, 'Feature Request': 2, 'Question': 1, 'Task': 3, 'Documentation': 1, 'Clarification': 2, 'Issue': 1}
+Resolutions: {'': 20, 'Done': 36, 'Cannot Reproduce': 1, 'Rejected': 5, 'Duplicate Issue': 1, "Won't Fix": 1}
+Statuses: {'Pull Request Sent': 6, 'Open': 13, 'Resolved': 44, 'Coding In Progress': 1}
+
+Average Lead Time (all PBIs): 300.7 days
+Average Lead Time (Enhancement): 307.0 days
+Average Lead Time (Task): 26.3 days
+Average Lead Time (Bug): 338.3 days
+Average Lead Time (Feature Request): 5.0 days
+Average Lead Time (Clarification): 341.0 days
+Average Lead Time (Issue): 260.0 days

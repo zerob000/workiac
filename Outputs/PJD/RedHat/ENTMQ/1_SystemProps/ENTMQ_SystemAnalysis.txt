@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2011-08-24 20:43:39 End date: 2021-12-03 15:45:54
+System: {'ENTMQ': 1442}
+Types: {'Bug': 1130, 'Task': 142, 'Enhancement': 170}
+Resolutions: {'Explained': 31, "Won't Fix": 95, "Won't Do": 6, 'Rejected': 49, 'Done': 1084, '': 4, 'Duplicate Issue': 43, 'Cannot Reproduce': 31, 'Out of Date': 78, 'Resolved at Apache': 3, 'Incomplete Description': 9, 'Deferred': 3, 'Partially Completed': 6}
+Statuses: {'Closed': 1438, 'New': 3, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 156.5 days
+Average Lead Time (Bug): 143.2 days
+Average Lead Time (Task): 240.3 days
+Average Lead Time (Enhancement): 176.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-08-25 15:45:54 End date: 2021-12-03 15:45:54
+System: {'ENTMQ': 3}
+Types: {'Bug': 3}
+Resolutions: {'Explained': 2, "Won't Fix": 1}
+Statuses: {'Closed': 3}
+
+Average Lead Time (all PBIs): 57.3 days
+Average Lead Time (Bug): 57.3 days

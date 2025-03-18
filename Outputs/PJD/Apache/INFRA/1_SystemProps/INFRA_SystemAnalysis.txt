@@ -1,0 +1,58 @@
+All PBIS - Unfiltered 
+Start date: 2003-09-04 02:42:25 End date: 2022-01-05 10:07:07
+System: {'INFRA': 15018}
+Types: {'Task': 5601, 'Blogs - Access to Existing Blog': 12, 'Improvement': 1071, 'New Feature': 304, 'Bug': 5001, 'Project': 661, 'Github Integration': 326, 'Wish': 803, 'Documentation': 36, 'Pending Review': 13, 'Planned Work': 402, 'New TLP ': 37, 'Outage': 41, 'Blog - New Blog Request': 27, 'New Git Repo': 189, 'New Confluence Wiki': 68, 'New JIRA Project': 120, 'SVN->GIT Mirroring': 36, 'GitBox Request': 168, 'New TLP - Common Tasks': 12, 'SVN->GIT Migration': 76, 'Blogs - New Blog User Account Request': 13, 'New Bugzilla Project': 1}
+Resolutions: {'': 109, 'Fixed': 11195, 'Invalid': 324, "Won't Fix": 836, 'Information Provided': 464, 'Feedback Received': 44, 'Done': 650, 'Cannot Reproduce': 82, 'Duplicate': 245, 'Incomplete': 129, 'Abandoned': 81, 'Works for Me': 14, "Won't Do": 28, 'Not A Bug': 36, 'Resolved': 141, 'Not A Problem': 388, 'Later': 111, 'Workaround': 40, 'Implemented': 32, 'Delivered': 4, 'Auto Closed': 56, 'Pending Closed': 9}
+Statuses: {'Waiting for Infra': 76, 'Waiting for user': 29, 'Closed': 14910, 'For Review': 3}
+
+Average Lead Time (all PBIs): 26.7 days
+Average Lead Time (Task): 17.1 days
+Average Lead Time (Project): 16.8 days
+Average Lead Time (Github Integration): 10.2 days
+Average Lead Time (Improvement): 31.3 days
+Average Lead Time (Bug): 23.5 days
+Average Lead Time (New Feature): 41.1 days
+Average Lead Time (Wish): 27.7 days
+Average Lead Time (Documentation): 48.1 days
+Average Lead Time (Pending Review): 125.5 days
+Average Lead Time (New TLP ): 16.9 days
+Average Lead Time (Outage): 5.7 days
+Average Lead Time (Blog - New Blog Request): 5.6 days
+Average Lead Time (Planned Work): 241.1 days
+Average Lead Time (New Git Repo): 10.5 days
+Average Lead Time (New Confluence Wiki): 6.5 days
+Average Lead Time (New JIRA Project): 11.4 days
+Average Lead Time (SVN->GIT Mirroring): 14.6 days
+Average Lead Time (Blogs - Access to Existing Blog): 1.5 days
+Average Lead Time (GitBox Request): 10.4 days
+Average Lead Time (New TLP - Common Tasks): 6.8 days
+Average Lead Time (SVN->GIT Migration): 28.9 days
+Average Lead Time (Blogs - New Blog User Account Request): 2.7 days
+Average Lead Time (New Bugzilla Project): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-27 10:07:07 End date: 2022-01-05 10:07:07
+System: {'INFRA': 426}
+Types: {'Task': 149, 'Blogs - Access to Existing Blog': 1, 'Improvement': 50, 'New Feature': 10, 'Bug': 125, 'Project': 19, 'Github Integration': 4, 'Wish': 29, 'Documentation': 3, 'Pending Review': 2, 'Planned Work': 26, 'New TLP ': 1, 'Outage': 2, 'Blog - New Blog Request': 2, 'New Git Repo': 1, 'New Confluence Wiki': 1, 'New JIRA Project': 1}
+Resolutions: {'': 47, 'Fixed': 265, 'Invalid': 10, "Won't Fix": 14, 'Information Provided': 22, 'Feedback Received': 8, 'Done': 11, 'Cannot Reproduce': 4, 'Duplicate': 4, 'Incomplete': 16, 'Abandoned': 5, 'Works for Me': 1, "Won't Do": 2, 'Not A Bug': 1, 'Resolved': 3, 'Not A Problem': 8, 'Later': 4, 'Workaround': 1}
+Statuses: {'Waiting for Infra': 34, 'Waiting for user': 13, 'Closed': 379}
+
+Average Lead Time (all PBIs): 110.6 days
+Average Lead Time (Task): 61.3 days
+Average Lead Time (Project): 54.1 days
+Average Lead Time (Github Integration): 0.5 days
+Average Lead Time (Improvement): 62.9 days
+Average Lead Time (Bug): 97.6 days
+Average Lead Time (New Feature): 271.9 days
+Average Lead Time (Wish): 68.7 days
+Average Lead Time (Documentation): 35.5 days
+Average Lead Time (Pending Review): 109.5 days
+Average Lead Time (New TLP ): 7.0 days
+Average Lead Time (Outage): 13.0 days
+Average Lead Time (Blog - New Blog Request): 2.5 days
+Average Lead Time (Planned Work): 591.7 days
+Average Lead Time (New Git Repo): 17.0 days
+Average Lead Time (New Confluence Wiki): 8.0 days
+Average Lead Time (New JIRA Project): 8.0 days

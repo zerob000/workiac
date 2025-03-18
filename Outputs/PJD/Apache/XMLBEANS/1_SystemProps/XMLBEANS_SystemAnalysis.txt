@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2003-10-03 03:24:52 End date: 2022-01-02 21:30:45
+System: {'XMLBEANS': 582}
+Types: {'Task': 8, 'Improvement': 92, 'Bug': 424, 'New Feature': 43, 'Wish': 13, 'Test': 2}
+Resolutions: {'': 162, 'Fixed': 244, 'Information Provided': 2, "Won't Fix": 60, 'Invalid': 37, 'Not A Problem': 5, 'Works for Me': 2, 'Duplicate': 29, 'Workaround': 1, 'Cannot Reproduce': 25, 'Abandoned': 11, 'Incomplete': 4}
+Statuses: {'Open': 159, 'Resolved': 198, 'Closed': 222, 'Reopened': 3}
+
+Average Lead Time (all PBIs): 565.1 days
+Average Lead Time (Bug): 577.8 days
+Average Lead Time (Improvement): 317.9 days
+Average Lead Time (New Feature): 857.0 days
+Average Lead Time (Wish): 848.6 days
+Average Lead Time (Task): 968.0 days
+Average Lead Time (Test): 46.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-24 21:30:45 End date: 2022-01-02 21:30:45
+System: {'XMLBEANS': 22}
+Types: {'Task': 1, 'Improvement': 9, 'Bug': 11, 'New Feature': 1}
+Resolutions: {'': 6, 'Fixed': 11, 'Information Provided': 1, 'Works for Me': 1, 'Cannot Reproduce': 2, "Won't Fix": 1}
+Statuses: {'Open': 6, 'Resolved': 13, 'Closed': 3}
+
+Average Lead Time (all PBIs): 1422.9 days
+Average Lead Time (Bug): 2270.9 days
+Average Lead Time (Improvement): 3.0 days
+Average Lead Time (New Feature): 43.0 days

@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2015-06-09 13:29:49 End date: 2021-11-03 14:07:31
+System: {'QPIDIT': 137}
+Types: {'Bug': 55, 'Task': 39, 'Improvement': 31, 'New Feature': 11, 'Test': 1}
+Resolutions: {'': 41, 'Fixed': 83, "Won't Fix": 6, 'Duplicate': 5, 'Invalid': 1, 'Not A Problem': 1}
+Statuses: {'Open': 40, 'Resolved': 11, 'Closed': 85, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 183.8 days
+Average Lead Time (Task): 357.5 days
+Average Lead Time (Bug): 88.4 days
+Average Lead Time (Improvement): 111.8 days
+Average Lead Time (New Feature): 188.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-07-26 14:07:31 End date: 2021-11-03 14:07:31
+System: {'QPIDIT': 6}
+Types: {'Bug': 2, 'Task': 4}
+Resolutions: {'': 1, 'Fixed': 4, "Won't Fix": 1}
+Statuses: {'Open': 1, 'Resolved': 4, 'Closed': 1}
+
+Average Lead Time (all PBIs): 710.4 days
+Average Lead Time (Task): 766.5 days
+Average Lead Time (Bug): 486.0 days

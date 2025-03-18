@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2013-03-25 12:59:18 End date: 2022-01-05 12:43:04
+System: {'KNOX': 2161}
+Types: {'Improvement': 602, 'Task': 126, 'Bug': 1185, 'Wish': 9, 'New Feature': 191, 'Test': 48}
+Resolutions: {'': 289, 'Fixed': 1664, 'Not A Problem': 14, 'Invalid': 33, 'Duplicate': 62, 'Not A Bug': 10, "Won't Fix": 42, 'Abandoned': 9, 'Cannot Reproduce': 20, 'Information Provided': 5, 'Workaround': 1, "Won't Do": 1, 'Done': 1, 'Implemented': 6, 'Incomplete': 3, 'Resolved': 1}
+Statuses: {'In Progress': 8, 'Open': 272, 'Resolved': 426, 'Closed': 1446, 'Patch Available': 6, 'Reopened': 3}
+
+Average Lead Time (all PBIs): 91.8 days
+Average Lead Time (Bug): 76.5 days
+Average Lead Time (Task): 62.9 days
+Average Lead Time (Improvement): 94.2 days
+Average Lead Time (Wish): 156.6 days
+Average Lead Time (New Feature): 224.9 days
+Average Lead Time (Test): 72.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-27 12:43:04 End date: 2022-01-05 12:43:04
+System: {'KNOX': 50}
+Types: {'Improvement': 16, 'Task': 12, 'Bug': 18, 'New Feature': 4}
+Resolutions: {'': 11, 'Fixed': 26, 'Not A Problem': 1, 'Invalid': 1, 'Not A Bug': 2, 'Abandoned': 8, "Won't Do": 1}
+Statuses: {'In Progress': 3, 'Open': 8, 'Resolved': 39}
+
+Average Lead Time (all PBIs): 428.6 days
+Average Lead Time (Bug): 425.6 days
+Average Lead Time (Task): 23.4 days
+Average Lead Time (Improvement): 490.3 days
+Average Lead Time (New Feature): 1165.5 days

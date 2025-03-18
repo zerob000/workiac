@@ -1,0 +1,33 @@
+All PBIS - Unfiltered 
+Start date: 2007-02-27 16:51:17 End date: 2022-01-05 20:00:44
+System: {'HBASE': 21780}
+Types: {'Wish': 74, 'Bug': 12012, 'Improvement': 5768, 'Task': 1867, 'New Feature': 1027, 'Umbrella': 254, 'Test': 662, 'Brainstorming': 116}
+Resolutions: {'': 3104, 'Fixed': 14419, "Won't Fix": 852, 'Done': 30, 'Workaround': 2, 'Resolved': 12, "Won't Do": 12, 'Not A Bug': 21, 'Later': 259, 'Not A Problem': 576, 'Duplicate': 1134, 'Incomplete': 179, 'Cannot Reproduce': 320, 'Invalid': 746, 'Implemented': 92, 'Abandoned': 12, 'Information Provided': 7, 'Works for Me': 2, 'REMIND': 1}
+Statuses: {'Open': 2590, 'In Progress': 97, 'Resolved': 10678, 'Patch Available': 357, 'Reopened': 60, 'Closed': 7998}
+
+Average Lead Time (all PBIs): 160.6 days
+Average Lead Time (Improvement): 208.2 days
+Average Lead Time (Task): 145.9 days
+Average Lead Time (Bug): 120.3 days
+Average Lead Time (Umbrella): 384.6 days
+Average Lead Time (Test): 81.1 days
+Average Lead Time (New Feature): 442.0 days
+Average Lead Time (Wish): 301.8 days
+Average Lead Time (Brainstorming): 611.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-27 20:00:44 End date: 2022-01-05 20:00:44
+System: {'HBASE': 282}
+Types: {'Wish': 1, 'Bug': 114, 'Improvement': 67, 'Task': 64, 'New Feature': 15, 'Umbrella': 15, 'Test': 5, 'Brainstorming': 1}
+Resolutions: {'': 93, 'Fixed': 161, "Won't Fix": 12, 'Done': 2, 'Workaround': 1, 'Resolved': 1, "Won't Do": 1, 'Not A Bug': 2, 'Later': 3, 'Not A Problem': 2, 'Implemented': 3, 'Incomplete': 1}
+Statuses: {'Open': 79, 'In Progress': 8, 'Resolved': 189, 'Patch Available': 6}
+
+Average Lead Time (all PBIs): 143.6 days
+Average Lead Time (Improvement): 125.6 days
+Average Lead Time (Task): 73.1 days
+Average Lead Time (Bug): 114.2 days
+Average Lead Time (Umbrella): 276.6 days
+Average Lead Time (Test): 178.2 days
+Average Lead Time (New Feature): 904.8 days

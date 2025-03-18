@@ -1,0 +1,32 @@
+All PBIS - Unfiltered 
+Start date: 2010-02-07 23:19:27 End date: 2021-10-09 14:08:30
+System: {'OODT': 889}
+Types: {'Bug': 392, 'Improvement': 338, 'Task': 33, 'Question': 7, 'Documentation': 5, 'New Feature': 99, 'Test': 4, 'Dependency upgrade': 3, 'Story': 1, 'Umbrella': 2, 'Wish': 4, 'Brainstorming': 1}
+Resolutions: {'': 48, 'Fixed': 608, 'Done': 7, 'Not A Problem': 13, 'Resolved': 3, "Won't Fix": 173, 'Invalid': 3, 'Duplicate': 16, 'Cannot Reproduce': 14, 'Incomplete': 1, 'Pending Closed': 1, 'Implemented': 1, 'Later': 1}
+Statuses: {'Open': 47, 'Closed': 48, 'Resolved': 793, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 442.8 days
+Average Lead Time (Bug): 310.8 days
+Average Lead Time (Task): 522.6 days
+Average Lead Time (Improvement): 512.6 days
+Average Lead Time (Documentation): 180.0 days
+Average Lead Time (Test): 475.5 days
+Average Lead Time (Dependency upgrade): 17.3 days
+Average Lead Time (New Feature): 715.0 days
+Average Lead Time (Story): 9.0 days
+Average Lead Time (Umbrella): 1143.0 days
+Average Lead Time (Wish): 50.2 days
+Average Lead Time (Question): 625.2 days
+Average Lead Time (Brainstorming): 1038.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-07-01 14:08:30 End date: 2021-10-09 14:08:30
+System: {'OODT': 5}
+Types: {'Bug': 4, 'Improvement': 1}
+Resolutions: {'': 4, 'Fixed': 1}
+Statuses: {'Open': 4, 'Closed': 1}
+
+Average Lead Time (all PBIs): 158.0 days
+Average Lead Time (Bug): 158.0 days

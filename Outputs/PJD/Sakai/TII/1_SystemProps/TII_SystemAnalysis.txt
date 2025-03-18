@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2007-03-19 06:15:09 End date: 2019-07-09 05:01:50
+System: {'TII': 248}
+Types: {'Bug': 146, 'Task': 37, 'Feature Request': 25, '(Deprecated) Contributed Patch': 39, 'Branch': 1}
+Resolutions: {'Non-Issue': 14, 'Cannot Reproduce': 4, 'Fixed': 192, '': 22, 'Incorporated': 7, 'Duplicate': 2, "Won't Fix": 6, 'Incomplete': 1}
+Statuses: {'Resolved': 138, 'Closed': 88, 'Open': 21, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 200.2 days
+Average Lead Time (Bug): 167.7 days
+Average Lead Time (Task): 128.6 days
+Average Lead Time (Feature Request): 740.5 days
+Average Lead Time ((Deprecated) Contributed Patch): 117.1 days
+Average Lead Time (Branch): 54.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2019-03-31 05:01:50 End date: 2019-07-09 05:01:50
+System: {'TII': 4}
+Types: {'Bug': 1, 'Task': 3}
+Resolutions: {'Non-Issue': 1, 'Cannot Reproduce': 1, 'Fixed': 2}
+Statuses: {'Resolved': 4}
+
+Average Lead Time (all PBIs): 2.2 days
+Average Lead Time (Bug): 3.0 days
+Average Lead Time (Task): 2.0 days

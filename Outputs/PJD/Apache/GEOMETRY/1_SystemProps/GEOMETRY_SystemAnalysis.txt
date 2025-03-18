@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2018-04-08 02:42:21 End date: 2021-11-18 12:31:21
+System: {'GEOMETRY': 130}
+Types: {'New Feature': 19, 'Task': 36, 'Improvement': 49, 'Bug': 18, 'Wish': 7, 'Test': 1}
+Resolutions: {'': 8, "Won't Do": 1, 'Done': 68, 'Fixed': 30, 'Invalid': 3, 'Implemented': 9, "Won't Fix": 2, 'Not A Problem': 4, 'Resolved': 3, 'Not A Bug': 2}
+Statuses: {'Open': 8, 'Closed': 122}
+
+Average Lead Time (all PBIs): 106.5 days
+Average Lead Time (New Feature): 81.2 days
+Average Lead Time (Improvement): 86.9 days
+Average Lead Time (Bug): 65.5 days
+Average Lead Time (Task): 143.4 days
+Average Lead Time (Wish): 198.2 days
+Average Lead Time (Test): 426.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-08-10 12:31:21 End date: 2021-11-18 12:31:21
+System: {'GEOMETRY': 5}
+Types: {'New Feature': 2, 'Task': 2, 'Improvement': 1}
+Resolutions: {'': 2, "Won't Do": 1, 'Resolved': 1, 'Not A Problem': 1}
+Statuses: {'Open': 2, 'Closed': 3}
+
+Average Lead Time (all PBIs): 506.3 days
+Average Lead Time (New Feature): 8.0 days
+Average Lead Time (Task): 684.0 days
+Average Lead Time (Improvement): 827.0 days

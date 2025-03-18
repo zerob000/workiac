@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2004-08-25 01:35:27 End date: 2020-02-24 18:13:05
+System: {'SPRNET': 1534}
+Types: {'Improvement': 444, 'Bug': 589, 'New Feature': 227, 'Task': 260, 'Defect': 2, 'Refactoring': 12}
+Resolutions: {'': 217, 'Fixed': 1066, 'Complete': 118, "Won't Fix": 82, 'Invalid': 13, 'Duplicate': 20, 'Works as Designed': 5, 'Cannot Reproduce': 13}
+Statuses: {'Open': 208, 'Resolved': 1084, 'Closed': 233, 'Reopened': 7, 'In Progress': 2}
+
+Average Lead Time (all PBIs): 159.2 days
+Average Lead Time (New Feature): 203.3 days
+Average Lead Time (Improvement): 164.6 days
+Average Lead Time (Bug): 134.6 days
+Average Lead Time (Task): 176.4 days
+Average Lead Time (Defect): 300.0 days
+Average Lead Time (Refactoring): 95.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2019-11-16 18:13:05 End date: 2020-02-24 18:13:05
+System: {'SPRNET': 1}
+Types: {'Improvement': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

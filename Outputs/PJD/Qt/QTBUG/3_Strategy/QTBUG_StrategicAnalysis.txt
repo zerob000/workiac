@@ -1,0 +1,73 @@
+
+System Name: QTBUG
+System Duration (Captured): 6678 days
+
+Calculated Final System Size: 18998 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 18998 PBIs
+
+Model Final System Size: 20164 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 20164 PBIs
+
+% Error, Final backlog, model vs actual: 6.0%
+Error, Final backlog, model vs actual: 1166 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 7492 PBIs
+Total Unplanned Arrivals: 82829 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 33807 PBIs
+Total Net Arrivals: 56514 PBIs
+Total Services: 37516 PBIs
+
+Rates:
+Planned Arrival Rate: 1.492 PBIs/day
+Unplanned Arrival Rate: 16.955 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 7.142 PBIs/day
+Net Arrival Rate: 11.305 PBIs/day
+Service Rate: 8.125 PBIs/day
+
+
+Metrics:
+Stability: 0.719
+Quality: 0.081
+Control: 0.613
+Inventory Days: 2338.215 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 100 days
+
+Calculated Final System Size: 18998 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 18998 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 299 PBIs
+Unplanned Arrivals in this period: 1641 PBIs
+Cancelled/Rejected/Won't Do  in this period: 634 PBIs
+System size change in this period: 205 PBIs
+Net Arrivals in this period: 1306 PBIs
+Services in this period: 1100 PBIs
+
+Rates:
+Planned Arrival Rate: 3.209 PBIs/day
+Unplanned Arrival Rate: 17.111 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 6.632 PBIs/day
+Net Arrival Rate: 13.735 PBIs/day
+Service Rate: 11.932 PBIs/day
+
+Metrics:
+Stability: 0.872
+Quality: 0.158
+Control: 0.674
+Inventory Days: 1592.189 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

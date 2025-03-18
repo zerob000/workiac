@@ -1,0 +1,804 @@
+Key,ID,Project,IssueType,IsSubtask,Status,Resolution,Created Date,Resolved Date
+RFE-2529,14418338,RFE,Feature Request,false,Backlog,,2022-01-04 19:19:27,
+RFE-2528,14416944,RFE,Feature Request,false,Backlog,,2022-01-04 09:40:53,
+RFE-2527,14415993,RFE,Feature Request,false,Backlog,,2022-01-02 11:25:41,
+RFE-2524,14415348,RFE,Feature Request,false,Backlog,,2021-12-28 14:02:51,
+RFE-2522,14414633,RFE,Feature Request,false,Backlog,,2021-12-24 09:44:48,
+RFE-2521,14414342,RFE,Feature Request,false,Backlog,,2021-12-23 18:42:55,
+RFE-2520,14412429,RFE,Feature Request,false,Backlog,,2021-12-22 14:42:25,
+RFE-2518,14411801,RFE,Feature Request,false,Backlog,,2021-12-22 08:35:29,
+RFE-2517,14411147,RFE,Feature Request,false,Backlog,,2021-12-21 15:11:36,
+RFE-2516,14411159,RFE,Feature Request,false,Backlog,,2021-12-21 15:29:44,
+RFE-2515,14410978,RFE,Feature Request,false,Backlog,,2021-12-21 13:12:39,
+RFE-2514,14410973,RFE,Feature Request,false,Backlog,,2021-12-21 13:10:07,
+RFE-2512,14410581,RFE,Feature Request,false,Backlog,,2021-12-21 06:35:50,
+RFE-2509,14397345,RFE,Feature Request,false,Backlog,,2021-12-17 13:44:36,
+RFE-2507,14396303,RFE,Feature Request,false,Backlog,,2021-12-16 18:45:39,
+RFE-2506,14396255,RFE,Feature Request,false,Backlog,,2021-12-16 16:49:17,
+RFE-2505,14395613,RFE,Feature Request,false,Backlog,,2021-12-16 10:41:09,
+RFE-2504,14394307,RFE,Feature Request,false,Backlog,,2021-12-15 18:31:30,
+RFE-2503,14394118,RFE,Feature Request,false,Backlog,,2021-12-15 14:40:18,
+RFE-2502,14393788,RFE,Feature Request,false,Rejected,Done,2021-12-15 14:02:47,2021-12-20 16:18:47
+RFE-2501,14393231,RFE,Feature Request,false,Backlog,,2021-12-15 08:10:06,
+RFE-2500,14392395,RFE,Feature Request,false,Rejected,Done,2021-12-14 21:22:09,2021-12-15 21:59:01
+RFE-2498,14384392,RFE,Feature Request,false,Backlog,,2021-12-10 06:46:20,
+RFE-2488,14391742,RFE,Feature Request,false,Backlog,,2021-12-14 14:12:39,
+RFE-2483,14390589,RFE,Feature Request,false,Backlog,,2021-12-14 06:48:12,
+RFE-2476,14389088,RFE,Feature Request,false,Backlog,,2021-12-13 13:51:46,
+RFE-2475,13188725,RFE,Feature Request,false,Under Review,,2020-11-02 10:34:41,
+RFE-2474,14284540,RFE,Feature Request,false,Backlog,,2021-10-06 14:21:40,
+RFE-2473,14298316,RFE,Feature Request,false,Backlog,,2021-10-14 18:51:39,
+RFE-2472,13254665,RFE,Feature Request,false,Backlog,,2021-02-04 07:16:50,
+RFE-2469,13192319,RFE,Feature Request,false,Under Review,,2020-11-06 09:27:59,
+RFE-2467,13202912,RFE,Feature Request,false,Accepted,,2020-11-23 11:34:13,
+RFE-2466,13229546,RFE,Feature Request,false,Accepted,,2021-01-12 07:46:07,
+RFE-2465,13342041,RFE,Feature Request,false,Backlog,,2021-05-04 20:09:06,
+RFE-2463,13391130,RFE,Feature Request,false,Backlog,,2021-06-23 00:47:09,
+RFE-2461,14301289,RFE,Feature Request,false,Backlog,,2021-10-18 14:24:04,
+RFE-2460,13218177,RFE,Feature Request,false,Under Review,,2020-12-15 07:25:35,
+RFE-2453,13234468,RFE,Feature Request,false,Accepted,,2021-01-18 11:58:34,
+RFE-2451,14217442,RFE,Feature Request,false,Backlog,,2021-08-24 17:26:57,
+RFE-2450,14276200,RFE,Feature Request,false,Backlog,,2021-10-01 13:37:22,
+RFE-2447,13329486,RFE,Feature Request,false,Backlog,,2021-04-22 08:22:17,
+RFE-2446,14252641,RFE,Feature Request,false,Rejected,Rejected,2021-09-16 15:52:38,2021-09-17 15:38:41
+RFE-2444,13268996,RFE,Feature Request,false,Backlog,,2021-02-22 08:40:44,
+RFE-2440,13220801,RFE,Feature Request,false,Accepted,,2020-12-18 10:35:42,
+RFE-2439,13308544,RFE,Feature Request,false,Backlog,,2021-04-01 13:58:11,
+RFE-2436,13255721,RFE,Feature Request,false,Accepted,,2021-02-04 22:49:21,
+RFE-2432,13368560,RFE,Feature Request,false,Backlog,,2021-06-01 12:54:33,
+RFE-2430,13206234,RFE,Feature Request,false,Under Review,,2020-11-27 12:14:44,
+RFE-2429,13391123,RFE,Feature Request,false,Accepted,,2021-06-22 23:35:21,
+RFE-2428,13391137,RFE,Feature Request,false,Backlog,,2021-06-23 01:22:58,
+RFE-2427,13190717,RFE,Feature Request,false,Rejected,Rejected,2020-11-04 12:50:42,2020-11-24 15:14:25
+RFE-2426,13323207,RFE,Feature Request,false,Backlog,,2021-04-15 16:48:56,
+RFE-2423,13385733,RFE,Feature Request,false,Backlog,,2021-06-17 08:07:10,
+RFE-2422,13186992,RFE,Feature Request,false,Under Review,,2020-10-29 10:55:21,
+RFE-2419,13294438,RFE,Feature Request,false,Backlog,,2021-03-19 06:11:40,
+RFE-2418,14281832,RFE,Feature Request,false,Backlog,,2021-10-05 12:15:14,
+RFE-2416,13338329,RFE,Feature Request,false,Accepted,,2021-04-30 18:00:45,
+RFE-2413,13260513,RFE,Feature Request,false,Backlog,,2021-02-10 08:10:08,
+RFE-2412,14225329,RFE,Feature Request,false,Backlog,,2021-08-30 14:00:11,
+RFE-2410,13382439,RFE,Feature Request,false,Backlog,,2021-06-15 07:02:30,
+RFE-2407,13304834,RFE,Feature Request,false,Backlog,,2021-03-29 14:24:53,
+RFE-2403,13188783,RFE,Feature Request,false,Under Review,,2020-11-02 11:13:13,
+RFE-2402,13204329,RFE,Feature Request,false,Under Review,,2020-11-24 16:11:41,
+RFE-2401,14238611,RFE,Feature Request,false,Backlog,,2021-09-08 12:25:24,
+RFE-2400,13278437,RFE,Feature Request,false,Backlog,,2021-03-02 10:19:51,
+RFE-2398,13300646,RFE,Feature Request,false,Backlog,,2021-03-24 11:11:09,
+RFE-2395,13214954,RFE,Feature Request,false,Under Review,,2020-12-10 04:54:27,
+RFE-2394,13427113,RFE,Feature Request,false,Backlog,,2021-07-29 08:02:02,
+RFE-2393,13263347,RFE,Feature Request,false,Backlog,,2021-02-15 02:32:20,
+RFE-2392,14357793,RFE,Feature Request,false,Backlog,,2021-11-23 13:37:26,
+RFE-2391,13396464,RFE,Feature Request,false,Backlog,,2021-06-25 14:18:11,
+RFE-2390,13279767,RFE,Feature Request,false,Accepted,,2021-03-03 08:24:55,
+RFE-2388,13391141,RFE,Feature Request,false,Backlog,,2021-06-23 01:47:14,
+RFE-2386,13385723,RFE,Feature Request,false,Backlog,,2021-06-17 07:49:23,
+RFE-2383,13239441,RFE,Feature Request,false,Under Review,,2021-01-22 11:44:47,
+RFE-2381,14318534,RFE,Feature Request,false,Backlog,,2021-10-28 17:59:34,
+RFE-2377,13383880,RFE,Feature Request,false,Backlog,,2021-06-15 20:07:39,
+RFE-2376,13176609,RFE,Feature Request,false,Rejected,Rejected,2020-10-14 14:38:38,2020-11-17 15:40:00
+RFE-2375,13391142,RFE,Feature Request,false,Backlog,,2021-06-23 01:48:21,
+RFE-2374,13215345,RFE,Feature Request,false,Accepted,,2020-12-10 10:42:14,
+RFE-2373,13255904,RFE,Feature Request,false,Backlog,,2021-02-05 04:55:31,
+RFE-2372,13263176,RFE,Feature Request,false,Backlog,,2021-02-13 07:40:29,
+RFE-2371,13179139,RFE,Feature Request,false,Rejected,Rejected,2020-10-19 14:39:26,2020-11-17 15:46:52
+RFE-2370,14267353,RFE,Feature Request,false,Backlog,,2021-09-27 16:28:49,
+RFE-2366,13309585,RFE,Feature Request,false,Backlog,,2021-04-05 18:41:46,
+RFE-2363,13325293,RFE,Feature Request,false,Backlog,,2021-04-19 11:54:10,
+RFE-2360,13296101,RFE,Feature Request,false,Backlog,,2021-03-22 09:54:24,
+RFE-2357,13192760,RFE,Feature Request,false,Under Review,,2020-11-09 03:34:54,
+RFE-2355,13303680,RFE,Feature Request,false,Backlog,,2021-03-26 16:28:23,
+RFE-2351,13178921,RFE,Feature Request,false,Rejected,Rejected,2020-10-19 10:40:44,2020-11-17 15:43:59
+RFE-2350,13291125,RFE,Feature Request,false,Under Review,,2021-03-16 13:47:01,
+RFE-2347,14361893,RFE,Feature Request,false,Backlog,,2021-11-25 14:47:01,
+RFE-2346,13239338,RFE,Feature Request,false,Rejected,Rejected,2021-01-22 10:16:58,2021-01-26 15:26:48
+RFE-2344,13341456,RFE,Feature Request,false,Backlog,,2021-05-04 13:52:13,
+RFE-2343,13409156,RFE,Feature Request,false,Backlog,,2021-07-09 09:06:37,
+RFE-2341,13223973,RFE,Feature Request,false,Accepted,,2021-01-04 07:36:43,
+RFE-2340,13300685,RFE,Feature Request,false,Backlog,,2021-03-24 11:19:21,
+RFE-2339,13391127,RFE,Feature Request,false,Backlog,,2021-06-23 00:30:17,
+RFE-2335,13202951,RFE,Feature Request,false,Accepted,,2020-11-23 11:47:38,
+RFE-2334,13368557,RFE,Feature Request,false,Backlog,,2021-06-01 12:52:04,
+RFE-2332,13385819,RFE,Feature Request,false,Backlog,,2021-06-17 09:02:05,
+RFE-2331,13361273,RFE,Feature Request,false,Backlog,,2021-05-21 15:40:48,
+RFE-2328,14380826,RFE,Feature Request,false,Backlog,,2021-12-08 14:39:27,
+RFE-2327,14380497,RFE,Feature Request,false,Under Review,,2021-12-08 13:35:06,
+RFE-2326,14380033,RFE,Feature Request,false,Under Review,,2021-12-08 08:46:35,
+RFE-2325,14376439,RFE,Feature Request,false,Deferred,Done,2021-12-06 14:35:36,2021-12-13 15:14:52
+RFE-2324,14362636,RFE,Feature Request,false,Backlog,,2021-11-26 10:05:17,
+RFE-2323,14375771,RFE,Feature Request,false,Backlog,,2021-12-06 09:16:15,
+RFE-2322,14375453,RFE,Feature Request,false,Backlog,,2021-12-06 06:27:20,
+RFE-2321,14374095,RFE,Feature Request,false,Backlog,,2021-12-03 15:35:06,
+RFE-2320,14374148,RFE,Feature Request,false,Backlog,,2021-12-03 14:49:11,
+RFE-2318,14371000,RFE,Feature Request,false,Backlog,,2021-12-02 11:39:36,
+RFE-2317,14367805,RFE,Feature Request,false,Under Review,,2021-12-01 07:03:49,
+RFE-2315,14367663,RFE,Feature Request,false,Backlog,,2021-11-30 22:04:48,
+RFE-2314,14367293,RFE,Feature Request,false,Backlog,,2021-11-30 18:15:23,
+RFE-2312,14366230,RFE,Feature Request,false,Under Review,,2021-11-30 09:21:59,
+RFE-2310,14364323,RFE,Feature Request,false,Backlog,,2021-11-29 12:46:01,
+RFE-2308,14364073,RFE,Feature Request,false,Backlog,,2021-11-29 11:34:03,
+RFE-2307,14364013,RFE,Feature Request,false,Backlog,,2021-11-29 10:13:16,
+RFE-2306,14362713,RFE,Feature Request,false,Backlog,,2021-11-26 10:51:57,
+RFE-2305,14361737,RFE,Feature Request,false,Backlog,,2021-11-25 11:25:20,
+RFE-2304,14361181,RFE,Feature Request,false,Backlog,,2021-11-25 01:31:44,
+RFE-2301,14357554,RFE,Feature Request,false,Rejected,Done,2021-11-23 11:10:14,2021-12-01 09:38:06
+RFE-2300,14357282,RFE,Feature Request,false,Backlog,,2021-11-23 08:45:23,
+RFE-2299,14356925,RFE,Feature Request,false,Backlog,,2021-11-22 22:06:37,
+RFE-2298,14355819,RFE,Feature Request,false,Backlog,,2021-11-22 13:55:12,
+RFE-2293,13373973,RFE,Feature Request,false,Under Review,,2021-06-07 17:32:00,
+RFE-2291,14348767,RFE,Feature Request,false,Backlog,,2021-11-17 13:19:58,
+RFE-2290,13400771,RFE,Feature Request,false,Backlog,,2021-06-30 15:26:15,
+RFE-2289,14352530,RFE,Feature Request,false,Backlog,,2021-11-18 23:53:22,
+RFE-2287,14284019,RFE,Feature Request,false,Backlog,,2021-10-06 09:11:55,
+RFE-2286,14310935,RFE,Feature Request,false,Backlog,,2021-10-25 14:24:25,
+RFE-2284,13418107,RFE,Feature Request,false,Rejected,Done,2021-07-20 13:23:17,2021-07-23 13:18:59
+RFE-2281,14250989,RFE,Feature Request,false,Backlog,,2021-09-15 19:34:59,
+RFE-2278,14348756,RFE,Feature Request,false,Backlog,,2021-11-17 12:50:19,
+RFE-2275,14348204,RFE,Feature Request,false,Backlog,,2021-11-16 22:02:45,
+RFE-2273,14346272,RFE,Feature Request,false,Backlog,,2021-11-16 07:02:47,
+RFE-2272,14345447,RFE,Feature Request,false,Backlog,,2021-11-15 15:48:37,
+RFE-2270,14344188,RFE,Feature Request,false,Backlog,,2021-11-15 10:28:46,
+RFE-2269,14344314,RFE,Feature Request,false,Backlog,,2021-11-15 10:16:06,
+RFE-2268,14339756,RFE,Feature Request,false,Accepted,Done,2021-11-11 13:38:18,2021-11-11 15:18:33
+RFE-2267,14339841,RFE,Feature Request,false,Backlog,,2021-11-11 13:12:17,
+RFE-2265,14338056,RFE,Feature Request,false,Backlog,,2021-11-10 14:06:48,
+RFE-2262,14334907,RFE,Feature Request,false,Backlog,,2021-11-09 11:10:58,
+RFE-2261,14333185,RFE,Feature Request,false,Backlog,,2021-11-08 14:38:17,
+RFE-2260,14332947,RFE,Feature Request,false,Backlog,,2021-11-08 13:16:26,
+RFE-2259,14332503,RFE,Feature Request,false,Backlog,,2021-11-08 10:30:22,
+RFE-2257,14251351,RFE,Feature Request,false,Rejected,Done,2021-09-15 21:44:31,2021-09-20 17:40:29
+RFE-2256,13410372,RFE,Feature Request,false,Backlog,,2021-07-12 10:19:20,
+RFE-2248,14328431,RFE,Feature Request,false,Backlog,,2021-11-04 03:48:18,
+RFE-2246,14325669,RFE,Feature Request,false,Backlog,,2021-11-03 12:47:08,
+RFE-2245,14325249,RFE,Feature Request,false,Backlog,,2021-11-03 09:28:04,
+RFE-2244,14325042,RFE,Feature Request,false,Under Review,,2021-11-03 09:00:45,
+RFE-2242,14324937,RFE,Feature Request,false,Backlog,,2021-11-03 03:50:15,
+RFE-2240,14324747,RFE,Feature Request,false,Backlog,,2021-11-02 23:13:30,
+RFE-2237,14322838,RFE,Feature Request,false,Backlog,,2021-11-01 23:59:59,
+RFE-2236,14321335,RFE,Feature Request,false,Accepted,Done,2021-11-01 14:17:28,2021-11-05 14:48:54
+RFE-2235,14320653,RFE,Feature Request,false,Accepted,Done,2021-11-01 09:09:35,2021-12-13 17:29:31
+RFE-2234,14320416,RFE,Feature Request,false,Backlog,,2021-11-01 04:49:21,
+RFE-2233,14319861,RFE,Feature Request,false,Backlog,,2021-10-29 20:40:11,
+RFE-2231,14318791,RFE,Feature Request,false,Backlog,,2021-10-29 03:46:20,
+RFE-2230,14318089,RFE,Feature Request,false,Under Review,,2021-10-28 16:51:19,
+RFE-2225,14315156,RFE,Feature Request,false,Backlog,,2021-10-27 10:01:34,
+RFE-2224,14315409,RFE,Feature Request,false,Backlog,,2021-10-27 10:00:29,
+RFE-2223,14315151,RFE,Feature Request,false,Backlog,,2021-10-27 09:56:10,
+RFE-2222,14315405,RFE,Feature Request,false,Backlog,,2021-10-27 09:54:51,
+RFE-2221,14313306,RFE,Feature Request,false,Backlog,,2021-10-26 12:14:13,
+RFE-2220,14311695,RFE,Feature Request,false,Accepted,Done,2021-10-25 20:24:20,2021-11-02 20:13:46
+RFE-2218,14310340,RFE,Feature Request,false,Backlog,,2021-10-25 08:48:28,
+RFE-2217,14309628,RFE,Feature Request,false,Backlog,,2021-10-22 22:14:34,
+RFE-2215,14309278,RFE,Feature Request,false,Backlog,,2021-10-22 07:38:28,
+RFE-2213,14307710,RFE,Feature Request,false,Backlog,,2021-10-21 12:04:03,
+RFE-2212,14307285,RFE,Feature Request,false,Backlog,,2021-10-21 09:15:27,
+RFE-2209,14306321,RFE,Feature Request,false,Backlog,,2021-10-20 16:53:05,
+RFE-2207,14306220,RFE,Feature Request,false,Backlog,,2021-10-20 15:42:36,
+RFE-2206,14304927,RFE,Feature Request,false,Backlog,,2021-10-20 02:50:11,
+RFE-2205,14304709,RFE,Feature Request,false,Backlog,,2021-10-20 00:11:05,
+RFE-2204,14303315,RFE,Feature Request,false,Backlog,,2021-10-19 12:00:09,
+RFE-2203,14302245,RFE,Feature Request,false,Backlog,,2021-10-18 19:43:08,
+RFE-2202,14302321,RFE,Feature Request,false,Backlog,,2021-10-18 19:12:29,
+RFE-2201,14301548,RFE,Feature Request,false,Backlog,,2021-10-18 14:52:36,
+RFE-2200,14298115,RFE,Feature Request,false,Backlog,,2021-10-14 17:34:28,
+RFE-2198,14295371,RFE,Feature Request,false,Accepted,Done,2021-10-13 14:05:30,2021-10-28 12:50:22
+RFE-2197,14294348,RFE,Feature Request,false,Under Review,,2021-10-13 00:20:21,
+RFE-2196,14293872,RFE,Feature Request,false,Backlog,,2021-10-12 17:29:59,
+RFE-2195,14293551,RFE,Feature Request,false,Backlog,,2021-10-12 14:36:47,
+RFE-2194,14292571,RFE,Feature Request,false,Backlog,,2021-10-12 05:13:43,
+RFE-2193,14291707,RFE,Feature Request,false,Under Review,,2021-10-11 16:23:22,
+RFE-2192,14289739,RFE,Feature Request,false,Backlog,,2021-10-09 12:42:59,
+RFE-2191,14288791,RFE,Feature Request,false,Backlog,,2021-10-08 17:54:50,
+RFE-2190,14288283,RFE,Feature Request,false,Under Review,,2021-10-08 14:41:15,
+RFE-2189,13182404,RFE,Feature Request,false,Backlog,,2020-10-22 18:41:49,
+RFE-2188,14285897,RFE,Feature Request,false,Backlog,,2021-10-07 11:41:33,
+RFE-2187,14285588,RFE,Feature Request,false,Backlog,,2021-10-07 08:52:25,
+RFE-2186,14283198,RFE,Feature Request,false,Rejected,Done,2021-10-05 20:00:31,2021-10-21 01:01:30
+RFE-2184,14285006,RFE,Feature Request,false,Backlog,,2021-10-06 17:57:30,
+RFE-2181,14283329,RFE,Feature Request,false,Backlog,,2021-10-05 20:02:30,
+RFE-2179,14282721,RFE,Feature Request,false,Backlog,,2021-10-05 17:04:14,
+RFE-2177,14282543,RFE,Feature Request,false,Backlog,,2021-10-05 16:40:26,
+RFE-2176,14281942,RFE,Feature Request,false,Backlog,,2021-10-05 12:11:40,
+RFE-2175,14281940,RFE,Feature Request,false,Backlog,,2021-10-05 12:05:11,
+RFE-2173,14280884,RFE,Feature Request,false,Backlog,,2021-10-05 03:56:05,
+RFE-2172,14279879,RFE,Feature Request,false,Backlog,,2021-10-04 15:06:12,
+RFE-2171,14277873,RFE,Feature Request,false,Backlog,,2021-10-04 09:48:33,
+RFE-2166,14274628,RFE,Feature Request,false,Deferred,Done,2021-09-30 18:23:03,2021-10-25 17:17:22
+RFE-2165,14272199,RFE,Feature Request,false,Rejected,Done,2021-09-30 08:12:36,2021-10-18 16:19:03
+RFE-2164,14271858,RFE,Feature Request,false,Under Review,,2021-09-29 19:23:26,
+RFE-2162,14268763,RFE,Feature Request,false,Backlog,,2021-09-28 13:33:57,
+RFE-2161,14268300,RFE,Feature Request,false,Under Review,,2021-09-28 10:17:41,
+RFE-2160,14268351,RFE,Feature Request,false,Backlog,,2021-09-28 10:08:16,
+RFE-2159,14266189,RFE,Feature Request,false,Backlog,,2021-09-27 11:54:48,
+RFE-2158,14266147,RFE,Feature Request,false,Backlog,,2021-09-27 10:38:17,
+RFE-2157,14266228,RFE,Feature Request,false,Backlog,,2021-09-27 09:46:45,
+RFE-2156,14265947,RFE,Feature Request,false,Accepted,Done,2021-09-27 07:55:37,2021-12-10 16:28:57
+RFE-2155,14265831,RFE,Feature Request,false,Backlog,,2021-09-26 17:22:03,
+RFE-2154,14265830,RFE,Feature Request,false,Backlog,,2021-09-26 17:21:19,
+RFE-2152,14264591,RFE,Feature Request,false,Backlog,,2021-09-24 12:57:40,
+RFE-2151,14264099,RFE,Feature Request,false,Backlog,,2021-09-24 08:44:02,
+RFE-2150,14264096,RFE,Feature Request,false,Under Review,,2021-09-24 08:34:17,
+RFE-2149,14264240,RFE,Feature Request,false,Under Review,,2021-09-24 08:23:19,
+RFE-2148,14264083,RFE,Feature Request,false,Rejected,Done,2021-09-24 08:12:32,2021-11-23 09:09:53
+RFE-2145,14262003,RFE,Feature Request,false,Under Review,,2021-09-23 07:51:30,
+RFE-2144,14260670,RFE,Feature Request,false,Accepted,Done,2021-09-22 13:31:46,2021-11-08 15:40:20
+RFE-2142,14256568,RFE,Feature Request,false,Deferred,Done,2021-09-20 18:24:24,2021-09-28 12:15:19
+RFE-2141,14256422,RFE,Feature Request,false,Backlog,,2021-09-20 16:11:50,
+RFE-2138,14253899,RFE,Feature Request,false,Backlog,,2021-09-17 14:21:05,
+RFE-2137,14253833,RFE,Feature Request,false,Backlog,,2021-09-17 12:57:55,
+RFE-2136,14253202,RFE,Feature Request,false,Deferred,Done,2021-09-17 06:59:43,2021-10-11 17:07:19
+RFE-2133,14252092,RFE,Feature Request,false,Accepted,Done,2021-09-16 12:47:59,2021-09-22 14:40:15
+RFE-2129,14248123,RFE,Feature Request,false,Accepted,Done,2021-09-14 12:58:24,2021-11-15 09:55:49
+RFE-2127,14245687,RFE,Feature Request,false,Backlog,,2021-09-13 10:12:39,
+RFE-2125,14244634,RFE,Feature Request,false,Under Review,,2021-09-10 14:12:12,
+RFE-2121,14240430,RFE,Feature Request,false,Backlog,,2021-09-09 11:07:53,
+RFE-2120,14238789,RFE,Feature Request,false,Backlog,,2021-09-08 14:01:34,
+RFE-2119,14238188,RFE,Feature Request,false,Backlog,,2021-09-08 09:32:43,
+RFE-2118,14237840,RFE,Feature Request,false,Backlog,,2021-09-08 06:07:51,
+RFE-2116,14237171,RFE,Feature Request,false,Accepted,Done,2021-09-07 15:28:46,2021-12-16 16:19:57
+RFE-2113,14234766,RFE,Feature Request,false,Backlog,,2021-09-06 07:00:01,
+RFE-2112,14234442,RFE,Feature Request,false,Backlog,,2021-09-04 18:24:38,
+RFE-2111,14234314,RFE,Feature Request,false,Accepted,Done,2021-09-04 08:32:24,2021-09-28 17:02:06
+RFE-2110,14233121,RFE,Feature Request,false,Under Review,,2021-09-03 13:41:29,
+RFE-2108,14230271,RFE,Feature Request,false,Backlog,,2021-09-01 21:38:30,
+RFE-2107,14223325,RFE,Feature Request,false,Under Review,,2021-08-27 19:54:31,
+RFE-2106,14222566,RFE,Feature Request,false,Under Review,,2021-08-27 11:32:31,
+RFE-2105,14222627,RFE,Feature Request,false,Backlog,,2021-08-27 09:52:09,
+RFE-2103,14220340,RFE,Feature Request,false,Under Review,,2021-08-26 09:37:58,
+RFE-2102,14220121,RFE,Feature Request,false,Accepted,Done,2021-08-26 06:40:29,2021-12-16 20:20:35
+RFE-2101,14219910,RFE,Feature Request,false,Backlog,,2021-08-25 23:27:47,
+RFE-2100,14218446,RFE,Feature Request,false,Backlog,,2021-08-25 09:15:45,
+RFE-2099,14217544,RFE,Feature Request,false,Deferred,Done,2021-08-24 18:16:36,2021-08-27 13:49:52
+RFE-2098,14215130,RFE,Feature Request,false,Backlog,,2021-08-23 14:45:41,
+RFE-2096,14213724,RFE,Feature Request,false,Backlog,,2021-08-20 20:32:42,
+RFE-2095,14213295,RFE,Feature Request,false,Backlog,,2021-08-20 15:23:19,
+RFE-2094,14213281,RFE,Feature Request,false,Backlog,,2021-08-20 15:03:35,
+RFE-2093,14213206,RFE,Feature Request,false,Backlog,,2021-08-20 14:54:13,
+RFE-2092,14212946,RFE,Feature Request,false,Backlog,,2021-08-20 13:25:56,
+RFE-2091,14212929,RFE,Feature Request,false,Under Review,,2021-08-20 12:44:11,
+RFE-2090,14212928,RFE,Feature Request,false,Under Review,,2021-08-20 12:37:14,
+RFE-2089,14212926,RFE,Feature Request,false,Backlog,,2021-08-20 12:33:02,
+RFE-2088,14212924,RFE,Feature Request,false,Rejected,Done,2021-08-20 12:27:35,2021-09-30 06:31:05
+RFE-2087,14210810,RFE,Feature Request,false,Deferred,Done,2021-08-19 12:12:17,2021-09-13 17:07:25
+RFE-2086,14209609,RFE,Feature Request,false,Accepted,Done,2021-08-18 16:36:56,2021-10-05 10:11:50
+RFE-2085,14209521,RFE,Feature Request,false,Backlog,,2021-08-18 14:42:46,
+RFE-2084,14209520,RFE,Feature Request,false,Accepted,Done,2021-08-18 14:41:18,2021-08-27 08:53:48
+RFE-2081,14206926,RFE,Feature Request,false,Backlog,,2021-08-17 10:38:24,
+RFE-2078,14205591,RFE,Feature Request,false,Backlog,,2021-08-16 15:10:34,
+RFE-2075,14203950,RFE,Feature Request,false,Accepted,Done,2021-08-12 19:45:46,2021-11-08 10:38:17
+RFE-2074,14202996,RFE,Feature Request,false,Accepted,Done,2021-08-12 13:12:53,2021-09-17 18:14:59
+RFE-2073,14202950,RFE,Feature Request,false,Backlog,,2021-08-12 12:14:39,
+RFE-2071,14201092,RFE,Feature Request,false,Rejected,Done,2021-08-11 11:13:22,2021-08-11 11:41:13
+RFE-2070,14200816,RFE,Feature Request,false,Backlog,,2021-08-11 08:15:07,
+RFE-2069,14200312,RFE,Feature Request,false,Backlog,,2021-08-10 19:40:21,
+RFE-2066,14198621,RFE,Feature Request,false,Backlog,,2021-08-10 04:29:08,
+RFE-2063,13434934,RFE,Feature Request,false,Rejected,Done,2021-08-06 12:12:47,2021-08-06 13:43:19
+RFE-2062,13434354,RFE,Feature Request,false,Backlog,,2021-08-06 05:30:48,
+RFE-2061,13434158,RFE,Feature Request,false,Backlog,,2021-08-05 18:33:54,
+RFE-2059,13433660,RFE,Feature Request,false,Backlog,,2021-08-05 13:41:50,
+RFE-2057,13432803,RFE,Feature Request,false,Rejected,Done,2021-08-05 00:49:25,2021-10-04 14:06:36
+RFE-2054,13432342,RFE,Feature Request,false,Under Review,,2021-08-04 15:09:38,
+RFE-2053,13432441,RFE,Feature Request,false,Accepted,Done,2021-08-04 14:34:57,2021-08-04 14:38:26
+RFE-2052,13431762,RFE,Feature Request,false,Deferred,Done,2021-08-04 05:44:13,2021-11-15 18:25:22
+RFE-2051,13431751,RFE,Feature Request,false,Under Review,,2021-08-04 03:56:22,
+RFE-2050,13431748,RFE,Feature Request,false,Rejected,Done,2021-08-04 03:46:13,2021-11-18 10:42:56
+RFE-2049,13431741,RFE,Feature Request,false,Rejected,Done,2021-08-04 03:13:31,2021-11-15 15:09:13
+RFE-2047,13431408,RFE,Feature Request,false,Backlog,,2021-08-03 16:59:23,
+RFE-2046,13431403,RFE,Feature Request,false,Backlog,,2021-08-03 16:51:24,
+RFE-2045,13431391,RFE,Feature Request,false,Rejected,Done,2021-08-03 16:42:50,2021-12-15 10:04:56
+RFE-2044,13431264,RFE,Feature Request,false,Accepted,Done,2021-08-03 16:04:10,2021-10-08 17:23:24
+RFE-2043,13431205,RFE,Feature Request,false,Backlog,,2021-08-03 15:04:27,
+RFE-2042,13431201,RFE,Feature Request,false,Accepted,Done,2021-08-03 14:51:19,2021-10-06 09:17:46
+RFE-2040,13429509,RFE,Feature Request,false,Backlog,,2021-08-02 07:10:06,
+RFE-2039,13429164,RFE,Feature Request,false,Under Review,,2021-07-31 11:35:27,
+RFE-2036,13428854,RFE,Feature Request,false,Rejected,Done,2021-07-30 14:35:41,2021-11-15 18:06:14
+RFE-2035,13428679,RFE,Feature Request,false,Deferred,Done,2021-07-30 13:11:30,2021-08-02 17:08:15
+RFE-2034,13428372,RFE,Feature Request,false,Backlog,,2021-07-30 10:22:12,
+RFE-2033,13428360,RFE,Feature Request,false,Backlog,,2021-07-30 09:35:02,
+RFE-2032,13428356,RFE,Feature Request,false,Backlog,,2021-07-30 09:25:09,
+RFE-2030,13427997,RFE,Feature Request,false,Backlog,,2021-07-29 19:09:59,
+RFE-2029,13427899,RFE,Feature Request,false,Accepted,Done,2021-07-29 15:54:05,2021-07-29 15:59:29
+RFE-2027,13426885,RFE,Feature Request,false,Backlog,,2021-07-29 06:51:53,
+RFE-2026,13426871,RFE,Feature Request,false,Backlog,,2021-07-29 06:13:09,
+RFE-2025,13426738,RFE,Feature Request,false,Backlog,,2021-07-28 18:12:16,
+RFE-2023,13425622,RFE,Feature Request,false,Rejected,Done,2021-07-27 20:01:39,2021-08-25 17:50:00
+RFE-2021,13424811,RFE,Feature Request,false,Accepted,Done,2021-07-27 10:19:05,2021-10-14 15:10:40
+RFE-2020,13423262,RFE,Feature Request,false,Backlog,,2021-07-26 09:43:15,
+RFE-2019,13422129,RFE,Feature Request,false,Backlog,,2021-07-23 15:27:22,
+RFE-2018,13421948,RFE,Feature Request,false,Backlog,,2021-07-23 13:14:00,
+RFE-2016,13421179,RFE,Feature Request,false,Backlog,,2021-07-22 18:10:47,
+RFE-2015,13420029,RFE,Feature Request,false,Backlog,,2021-07-21 21:50:54,
+RFE-2014,13419946,RFE,Feature Request,false,Backlog,,2021-07-21 17:27:18,
+RFE-2013,13419939,RFE,Feature Request,false,Backlog,,2021-07-21 17:11:01,
+RFE-2011,13416370,RFE,Feature Request,false,Rejected,Done,2021-07-19 03:17:36,2021-07-29 15:10:58
+RFE-2008,13415277,RFE,Feature Request,false,Accepted,Done,2021-07-16 05:28:59,2021-10-06 09:11:30
+RFE-2007,13414402,RFE,Feature Request,false,Backlog,,2021-07-15 12:30:55,
+RFE-2004,13413462,RFE,Feature Request,false,Accepted,Done,2021-07-14 17:09:21,2021-11-26 15:45:23
+RFE-2001,13412806,RFE,Feature Request,false,Backlog,,2021-07-14 10:08:06,
+RFE-2000,13412241,RFE,Feature Request,false,Backlog,,2021-07-13 17:54:09,
+RFE-1999,13412001,RFE,Feature Request,false,Backlog,,2021-07-13 13:55:04,
+RFE-1998,13411422,RFE,Feature Request,false,Rejected,Done,2021-07-13 06:47:04,2021-10-14 11:14:46
+RFE-1997,13411313,RFE,Feature Request,false,Backlog,,2021-07-12 20:46:06,
+RFE-1996,13410943,RFE,Feature Request,false,Backlog,,2021-07-12 15:29:31,
+RFE-1994,13409537,RFE,Feature Request,false,Backlog,,2021-07-09 17:27:36,
+RFE-1993,13409357,RFE,Feature Request,false,Backlog,,2021-07-09 13:57:33,
+RFE-1992,13409178,RFE,Feature Request,false,Rejected,Done,2021-07-09 10:19:20,2021-07-12 15:21:15
+RFE-1988,13408917,RFE,Feature Request,false,Backlog,,2021-07-08 19:46:28,
+RFE-1987,13407206,RFE,Feature Request,false,Under Review,,2021-07-07 19:27:59,
+RFE-1986,13406651,RFE,Feature Request,false,Backlog,,2021-07-07 13:32:34,
+RFE-1983,13406490,RFE,Feature Request,false,Accepted,Done,2021-07-07 10:28:32,2021-11-26 15:33:00
+RFE-1981,13406329,RFE,Feature Request,false,Backlog,,2021-07-07 09:08:25,
+RFE-1980,13406109,RFE,Feature Request,false,Rejected,Done,2021-07-07 06:42:49,2021-08-17 21:15:56
+RFE-1974,13404230,RFE,Feature Request,false,Backlog,,2021-07-05 08:21:23,
+RFE-1973,13404040,RFE,Feature Request,false,Backlog,,2021-07-05 01:33:36,
+RFE-1972,13404007,RFE,Feature Request,false,Accepted,Done,2021-07-05 01:29:56,2021-11-26 15:04:27
+RFE-1971,13403308,RFE,Feature Request,false,Backlog,,2021-07-02 14:24:09,
+RFE-1970,13402973,RFE,Feature Request,false,Backlog,,2021-07-02 09:25:14,
+RFE-1969,13403029,RFE,Feature Request,false,Backlog,,2021-07-02 08:49:16,
+RFE-1964,13399830,RFE,Feature Request,false,Backlog,,2021-06-30 07:30:30,
+RFE-1963,13398822,RFE,Feature Request,false,Rejected,Done,2021-06-29 11:26:35,2021-11-10 13:34:21
+RFE-1962,13398093,RFE,Feature Request,false,Backlog,,2021-06-28 16:49:43,
+RFE-1957,13397020,RFE,Feature Request,false,Rejected,Done,2021-06-26 07:13:20,2021-09-28 18:35:54
+RFE-1956,13396466,RFE,Feature Request,false,Under Review,,2021-06-25 14:23:31,
+RFE-1951,13393661,RFE,Feature Request,false,Accepted,Done,2021-06-24 12:52:10,2021-06-25 09:38:12
+RFE-1950,13393417,RFE,Feature Request,false,Backlog,,2021-06-24 10:18:17,
+RFE-1947,13391834,RFE,Feature Request,false,Deferred,Done,2021-06-23 15:22:32,2021-12-09 10:22:29
+RFE-1946,13391628,RFE,Feature Request,false,Under Review,,2021-06-23 13:22:10,
+RFE-1945,13391179,RFE,Feature Request,false,Backlog,,2021-06-23 07:03:01,
+RFE-1943,13390785,RFE,Feature Request,false,Backlog,,2021-06-22 18:44:27,
+RFE-1942,13387373,RFE,Feature Request,false,Rejected,Done,2021-06-18 12:42:51,2021-06-22 13:44:09
+RFE-1941,13390298,RFE,Feature Request,false,Rejected,Done,2021-06-22 13:30:47,2021-06-30 16:47:00
+RFE-1939,13389236,RFE,Feature Request,false,Under Review,,2021-06-21 15:22:01,
+RFE-1936,13387141,RFE,Feature Request,false,Backlog,,2021-06-18 09:27:44,
+RFE-1935,13386975,RFE,Feature Request,false,Accepted,Done,2021-06-18 07:21:37,2021-09-16 14:41:50
+RFE-1933,13386403,RFE,Feature Request,false,Backlog,,2021-06-17 15:03:30,
+RFE-1931,13384899,RFE,Feature Request,false,Backlog,,2021-06-16 14:59:34,
+RFE-1930,13384812,RFE,Feature Request,false,Deferred,Done,2021-06-16 13:00:47,2021-11-08 09:16:47
+RFE-1929,13383627,RFE,Feature Request,false,Under Review,,2021-06-15 14:23:54,
+RFE-1927,13381770,RFE,Feature Request,false,Accepted,Done,2021-06-14 15:29:44,2021-11-01 17:31:45
+RFE-1926,13381662,RFE,Feature Request,false,Rejected,Done,2021-06-14 13:22:49,2021-09-21 12:28:37
+RFE-1924,13381497,RFE,Feature Request,false,Backlog,,2021-06-14 12:01:33,
+RFE-1923,13380660,RFE,Feature Request,false,Rejected,Done,2021-06-11 16:47:22,2021-07-14 09:14:15
+RFE-1922,13380263,RFE,Feature Request,false,Accepted,Done,2021-06-11 11:51:16,2021-09-03 10:20:08
+RFE-1921,13379771,RFE,Feature Request,false,Rejected,Done,2021-06-11 06:38:17,2021-06-11 06:43:09
+RFE-1920,13379569,RFE,Feature Request,false,Under Review,,2021-06-10 22:05:58,
+RFE-1919,13379268,RFE,Feature Request,false,Backlog,,2021-06-10 17:50:47,
+RFE-1918,13378805,RFE,Feature Request,false,Backlog,,2021-06-10 15:34:06,
+RFE-1917,13378368,RFE,Feature Request,false,Backlog,,2021-06-10 14:39:26,
+RFE-1915,13376435,RFE,Feature Request,false,Rejected,Done,2021-06-09 16:08:36,2021-09-09 12:38:59
+RFE-1914,13375665,RFE,Feature Request,false,Backlog,,2021-06-09 08:16:17,
+RFE-1911,13375433,RFE,Feature Request,false,Backlog,,2021-06-08 20:28:31,
+RFE-1910,13375010,RFE,Feature Request,false,Accepted,Done,2021-06-08 14:08:13,2021-06-11 06:43:57
+RFE-1909,13374798,RFE,Feature Request,false,Rejected,Done,2021-06-08 13:29:39,2021-07-23 07:39:44
+RFE-1908,13374330,RFE,Feature Request,false,Rejected,Done,2021-06-08 00:46:09,2021-06-08 01:20:25
+RFE-1907,13374022,RFE,Feature Request,false,Rejected,Done,2021-06-07 18:17:48,2021-06-11 13:46:54
+RFE-1906,13373179,RFE,Feature Request,false,Backlog,,2021-06-07 07:44:16,
+RFE-1905,13372063,RFE,Feature Request,false,Deferred,Done,2021-06-04 04:37:16,2021-12-08 13:31:46
+RFE-1903,13370164,RFE,Feature Request,false,Backlog,,2021-06-02 15:41:57,
+RFE-1902,13368796,RFE,Feature Request,false,Rejected,Done,2021-06-01 15:08:07,2021-11-26 15:02:24
+RFE-1901,13367780,RFE,Feature Request,false,Under Review,,2021-05-31 14:34:28,
+RFE-1900,13367779,RFE,Feature Request,false,Under Review,,2021-05-31 14:33:15,
+RFE-1899,13367422,RFE,Feature Request,false,Rejected,Done,2021-05-31 09:53:14,2021-08-30 17:00:38
+RFE-1894,13366843,RFE,Feature Request,false,Backlog,,2021-05-28 20:36:17,
+RFE-1892,13365116,RFE,Feature Request,false,Backlog,,2021-05-26 14:48:54,
+RFE-1890,13364382,RFE,Feature Request,false,Under Review,,2021-05-26 06:16:00,
+RFE-1888,13363897,RFE,Feature Request,false,Backlog,,2021-05-25 16:40:25,
+RFE-1887,13363835,RFE,Feature Request,false,Backlog,,2021-05-25 15:27:06,
+RFE-1883,13362761,RFE,Feature Request,false,Deferred,Done,2021-05-24 19:42:00,2021-06-07 15:43:00
+RFE-1879,13358921,RFE,Feature Request,false,Backlog,,2021-05-20 07:59:55,
+RFE-1878,13358268,RFE,Feature Request,false,Rejected,Done,2021-05-19 15:24:45,2021-05-20 19:45:41
+RFE-1877,13357521,RFE,Feature Request,false,Backlog,,2021-05-19 06:35:51,
+RFE-1875,13357101,RFE,Feature Request,false,Backlog,,2021-05-18 18:57:48,
+RFE-1874,13354326,RFE,Feature Request,false,Under Review,,2021-05-17 18:22:44,
+RFE-1871,13354051,RFE,Feature Request,false,Backlog,,2021-05-17 14:25:26,
+RFE-1870,13354020,RFE,Feature Request,false,Backlog,,2021-05-17 13:32:40,
+RFE-1868,13353454,RFE,Feature Request,false,Backlog,,2021-05-16 12:27:35,
+RFE-1866,13352489,RFE,Feature Request,false,Backlog,,2021-05-13 20:15:16,
+RFE-1865,13350973,RFE,Feature Request,false,Backlog,,2021-05-13 11:39:36,
+RFE-1864,13350211,RFE,Feature Request,false,Backlog,,2021-05-12 15:53:44,
+RFE-1863,13349714,RFE,Feature Request,false,Accepted,Done,2021-05-12 09:37:44,2021-11-26 14:58:37
+RFE-1861,13348776,RFE,Feature Request,false,Rejected,Done,2021-05-11 13:29:36,2021-05-11 17:35:46
+RFE-1860,13348768,RFE,Feature Request,false,Rejected,Done,2021-05-11 13:26:35,2021-05-11 17:34:59
+RFE-1859,13348425,RFE,Feature Request,false,Rejected,Done,2021-05-11 09:19:49,2021-09-22 14:40:09
+RFE-1858,13348143,RFE,Feature Request,false,Backlog,,2021-05-11 06:00:03,
+RFE-1857,13347595,RFE,Feature Request,false,Rejected,Done,2021-05-10 14:54:27,2021-06-07 15:52:48
+RFE-1856,13347648,RFE,Feature Request,false,Rejected,Done,2021-05-10 14:39:38,2021-06-15 00:27:07
+RFE-1855,13346974,RFE,Feature Request,false,Backlog,,2021-05-10 07:22:09,
+RFE-1854,13345618,RFE,Feature Request,false,Accepted,Done,2021-05-07 16:05:11,2021-06-15 17:21:43
+RFE-1853,13345225,RFE,Feature Request,false,Backlog,,2021-05-07 10:57:06,
+RFE-1852,13344446,RFE,Feature Request,false,Backlog,,2021-05-06 17:17:44,
+RFE-1851,13272000,RFE,Feature Request,false,Backlog,,2021-02-25 03:04:59,
+RFE-1849,13343664,RFE,Feature Request,false,Under Review,,2021-05-06 08:18:19,
+RFE-1848,13342879,RFE,Feature Request,false,Rejected,Done,2021-05-05 13:56:17,2021-09-27 15:11:41
+RFE-1843,13341998,RFE,Feature Request,false,Accepted,Done,2021-05-04 18:33:50,2021-11-26 14:56:00
+RFE-1842,13341624,RFE,Feature Request,false,Backlog,,2021-05-04 14:20:30,
+RFE-1841,13341437,RFE,Feature Request,false,Backlog,,2021-05-04 12:57:15,
+RFE-1840,13341425,RFE,Feature Request,false,Backlog,,2021-05-04 12:08:33,
+RFE-1839,13340654,RFE,Feature Request,false,Accepted,Done,2021-05-03 17:18:29,2021-06-22 17:00:04
+RFE-1838,13339611,RFE,Feature Request,false,Accepted,Done,2021-05-03 04:51:45,2021-05-03 04:52:33
+RFE-1837,13339413,RFE,Feature Request,false,Backlog,,2021-05-03 04:15:03,
+RFE-1836,13339412,RFE,Feature Request,false,Backlog,,2021-05-03 04:14:46,
+RFE-1835,13339411,RFE,Feature Request,false,Backlog,,2021-05-03 04:14:43,
+RFE-1834,13339410,RFE,Feature Request,false,Backlog,,2021-05-03 04:14:36,
+RFE-1833,13337925,RFE,Feature Request,false,Rejected,Done,2021-04-30 15:59:21,2021-09-30 06:14:29
+RFE-1832,13337363,RFE,Feature Request,false,Under Review,,2021-04-30 07:14:51,
+RFE-1831,13337138,RFE,Feature Request,false,Rejected,Done,2021-04-29 19:58:42,2021-12-08 15:25:58
+RFE-1829,13335896,RFE,Feature Request,false,Accepted,Done,2021-04-28 17:56:07,2021-04-29 08:43:31
+RFE-1828,13335843,RFE,Feature Request,false,Backlog,,2021-04-28 15:36:45,
+RFE-1826,13334514,RFE,Feature Request,false,Backlog,,2021-04-27 14:03:01,
+RFE-1824,13333328,RFE,Feature Request,false,Backlog,,2021-04-26 12:44:50,
+RFE-1823,13333071,RFE,Feature Request,false,Rejected,Done,2021-04-26 11:01:45,2021-05-10 16:40:01
+RFE-1822,13333060,RFE,Feature Request,false,Backlog,,2021-04-26 10:45:24,
+RFE-1821,13332095,RFE,Feature Request,false,Backlog,,2021-04-23 18:26:21,
+RFE-1820,13331872,RFE,Feature Request,false,Under Review,,2021-04-23 16:27:47,
+RFE-1819,13331513,RFE,Feature Request,false,Rejected,Done,2021-04-23 10:29:16,2021-04-23 14:07:55
+RFE-1815,13330183,RFE,Feature Request,false,Accepted,Done,2021-04-22 08:51:02,2021-09-03 11:06:10
+RFE-1812,13328340,RFE,Feature Request,false,Backlog,,2021-04-21 06:58:24,
+RFE-1811,13308043,RFE,Feature Request,false,Accepted,Done,2021-04-01 07:15:01,2021-11-17 18:17:16
+RFE-1810,13327724,RFE,Feature Request,false,Rejected,Done,2021-04-20 15:50:03,2021-11-15 15:46:16
+RFE-1809,13327540,RFE,Feature Request,false,Backlog,,2021-04-20 14:44:06,
+RFE-1803,13325226,RFE,Feature Request,false,Accepted,Done,2021-04-19 10:23:43,2021-08-05 20:37:33
+RFE-1802,13325193,RFE,Feature Request,false,Rejected,Done,2021-04-19 09:47:59,2021-12-17 07:18:10
+RFE-1801,13325011,RFE,Feature Request,false,Deferred,Done,2021-04-19 08:04:06,2021-06-14 17:16:34
+RFE-1800,13324803,RFE,Feature Request,false,Under Review,,2021-04-19 07:53:42,
+RFE-1799,13324443,RFE,Feature Request,false,Backlog,,2021-04-16 21:26:54,
+RFE-1798,13324091,RFE,Feature Request,false,Under Review,,2021-04-16 14:36:34,
+RFE-1793,13323461,RFE,Feature Request,false,Backlog,,2021-04-15 22:28:56,
+RFE-1791,13322907,RFE,Feature Request,false,Deferred,Done,2021-04-15 12:54:28,2021-08-11 13:52:38
+RFE-1790,13322443,RFE,Feature Request,false,Backlog,,2021-04-15 01:43:03,
+RFE-1788,13316705,RFE,Feature Request,false,Under Review,,2021-04-12 14:20:48,
+RFE-1786,13316443,RFE,Feature Request,false,Backlog,,2021-04-12 04:05:31,
+RFE-1784,13315612,RFE,Feature Request,false,Backlog,,2021-04-10 18:50:54,
+RFE-1782,13314361,RFE,Feature Request,false,Deferred,Done,2021-04-09 09:57:21,2021-06-21 17:08:47
+RFE-1781,13309698,RFE,Feature Request,false,Accepted,Done,2021-04-06 03:50:58,2021-06-09 01:29:44
+RFE-1780,13312515,RFE,Feature Request,false,Under Review,,2021-04-08 01:32:25,
+RFE-1779,13312503,RFE,Feature Request,false,Backlog,,2021-04-08 00:49:32,
+RFE-1776,13310345,RFE,Feature Request,false,Backlog,,2021-04-06 11:38:23,
+RFE-1775,13309730,RFE,Feature Request,false,Accepted,Done,2021-04-06 04:37:45,2021-04-13 10:45:50
+RFE-1774,13310095,RFE,Feature Request,false,Under Review,,2021-04-06 08:51:18,
+RFE-1773,13310041,RFE,Feature Request,false,Backlog,,2021-04-06 08:11:28,
+RFE-1772,13309968,RFE,Feature Request,false,Backlog,,2021-04-06 07:06:25,
+RFE-1770,13309517,RFE,Feature Request,false,Deferred,Done,2021-04-05 16:42:22,2021-04-20 08:59:32
+RFE-1769,13309501,RFE,Feature Request,false,Backlog,,2021-04-05 16:25:54,
+RFE-1767,13309070,RFE,Feature Request,false,Backlog,,2021-04-05 08:24:36,
+RFE-1766,13309026,RFE,Feature Request,false,Backlog,,2021-04-05 05:56:30,
+RFE-1764,13308670,RFE,Feature Request,false,Under Review,,2021-04-01 16:59:56,
+RFE-1763,13308632,RFE,Feature Request,false,Under Review,,2021-04-01 16:02:05,
+RFE-1760,13306412,RFE,Feature Request,false,Deferred,Done,2021-03-31 02:23:20,2021-05-13 18:58:10
+RFE-1759,13306122,RFE,Feature Request,false,Accepted,Done,2021-03-30 14:08:53,2021-04-26 12:05:59
+RFE-1757,13305714,RFE,Feature Request,false,Backlog,,2021-03-30 10:08:49,
+RFE-1756,13305520,RFE,Feature Request,false,Rejected,Done,2021-03-30 08:55:55,2021-06-28 12:06:33
+RFE-1755,13305209,RFE,Feature Request,false,Backlog,,2021-03-30 03:30:24,
+RFE-1750,13300502,RFE,Feature Request,false,Backlog,,2021-03-24 10:17:04,
+RFE-1744,13302041,RFE,Feature Request,false,Accepted,Done,2021-03-25 14:21:21,2021-04-19 14:59:24
+RFE-1743,13301385,RFE,Feature Request,false,Rejected,Done,2021-03-25 06:12:31,2021-03-25 09:34:17
+RFE-1741,13300535,RFE,Feature Request,false,Accepted,Done,2021-03-24 10:32:42,2021-09-16 07:42:16
+RFE-1740,13300516,RFE,Feature Request,false,Backlog,,2021-03-24 10:23:14,
+RFE-1739,13300105,RFE,Feature Request,false,Backlog,,2021-03-24 06:21:12,
+RFE-1738,13300042,RFE,Feature Request,false,Backlog,,2021-03-24 05:46:57,
+RFE-1737,13299765,RFE,Feature Request,false,Backlog,,2021-03-23 21:36:48,
+RFE-1736,13298175,RFE,Feature Request,false,Backlog,,2021-03-23 09:54:59,
+RFE-1735,13297750,RFE,Feature Request,false,Backlog,,2021-03-23 06:15:38,
+RFE-1734,13292804,RFE,Feature Request,false,Backlog,,2021-03-18 01:08:59,
+RFE-1733,13296141,RFE,Feature Request,false,Accepted,Done,2021-03-22 10:10:50,2021-08-30 14:22:58
+RFE-1731,13295782,RFE,Feature Request,false,Deferred,Done,2021-03-22 08:34:55,2021-09-29 00:00:06
+RFE-1727,13294622,RFE,Feature Request,false,Rejected,Done,2021-03-19 09:54:27,2021-12-09 13:17:03
+RFE-1726,13294515,RFE,Feature Request,false,Rejected,Done,2021-03-19 07:32:45,2021-04-26 12:33:27
+RFE-1724,13293901,RFE,Feature Request,false,Rejected,Done,2021-03-18 16:33:43,2021-03-29 11:37:08
+RFE-1723,13293053,RFE,Feature Request,false,Backlog,,2021-03-18 07:18:43,
+RFE-1722,13293050,RFE,Feature Request,false,Backlog,,2021-03-18 07:10:46,
+RFE-1721,13292954,RFE,Feature Request,false,Accepted,Done,2021-03-18 05:40:27,2021-03-18 06:00:44
+RFE-1720,13292773,RFE,Feature Request,false,Under Review,,2021-03-17 22:58:38,
+RFE-1719,13291039,RFE,Feature Request,false,Accepted,Done,2021-03-16 12:40:32,2021-04-01 22:12:44
+RFE-1717,13292131,RFE,Feature Request,false,Accepted,Done,2021-03-17 11:37:51,2021-10-14 11:15:06
+RFE-1714,13291449,RFE,Feature Request,false,Rejected,Done,2021-03-16 20:26:25,2021-03-24 01:41:45
+RFE-1711,13291017,RFE,Feature Request,false,Accepted,Done,2021-03-16 12:18:35,2021-04-26 12:11:37
+RFE-1710,13290792,RFE,Feature Request,false,Backlog,,2021-03-16 09:58:05,
+RFE-1705,13289545,RFE,Feature Request,false,Under Review,,2021-03-15 09:38:11,
+RFE-1704,13288203,RFE,Feature Request,false,Under Review,,2021-03-12 09:25:34,
+RFE-1702,13288009,RFE,Feature Request,false,Backlog,,2021-03-12 05:14:11,
+RFE-1698,13285549,RFE,Feature Request,false,Backlog,,2021-03-10 06:16:55,
+RFE-1696,13285038,RFE,Feature Request,false,Under Review,,2021-03-09 12:59:33,
+RFE-1695,13284551,RFE,Feature Request,false,Backlog,,2021-03-09 07:38:31,
+RFE-1693,13284408,RFE,Feature Request,false,Rejected,Done,2021-03-09 05:52:52,2021-12-09 08:30:01
+RFE-1692,13284398,RFE,Feature Request,false,Rejected,Done,2021-03-09 05:42:32,2021-04-14 23:42:11
+RFE-1691,13284135,RFE,Feature Request,false,Under Review,,2021-03-08 17:26:08,
+RFE-1690,13283968,RFE,Feature Request,false,Accepted,Done,2021-03-08 14:23:31,2021-11-26 11:51:06
+RFE-1689,13283932,RFE,Feature Request,false,Under Review,,2021-03-08 13:44:50,
+RFE-1688,13283764,RFE,Feature Request,false,Backlog,,2021-03-08 10:47:20,
+RFE-1687,13283223,RFE,Feature Request,false,Backlog,,2021-03-08 03:39:55,
+RFE-1685,13283195,RFE,Feature Request,false,Accepted,Done,2021-03-08 02:44:51,2021-03-08 06:31:31
+RFE-1684,13282311,RFE,Feature Request,false,Backlog,,2021-03-05 11:46:16,
+RFE-1683,13282108,RFE,Feature Request,false,Deferred,Done,2021-03-05 08:45:08,2021-05-06 20:48:29
+RFE-1681,13281812,RFE,Feature Request,false,Backlog,,2021-03-05 01:27:22,
+RFE-1680,13281307,RFE,Feature Request,false,Backlog,,2021-03-04 11:05:49,
+RFE-1679,13281224,RFE,Feature Request,false,Backlog,,2021-03-04 10:17:26,
+RFE-1676,13280124,RFE,Feature Request,false,Backlog,,2021-03-03 11:34:50,
+RFE-1671,13278656,RFE,Feature Request,false,Accepted,Done,2021-03-02 13:08:47,2021-03-02 13:15:39
+RFE-1670,13277993,RFE,Feature Request,false,Deferred,Done,2021-03-02 03:35:12,2021-04-30 15:48:44
+RFE-1669,13277715,RFE,Feature Request,false,Rejected,Done,2021-03-01 13:44:58,2021-06-17 18:18:31
+RFE-1667,13277072,RFE,Feature Request,false,Backlog,,2021-03-01 07:26:03,
+RFE-1666,13273041,RFE,Feature Request,false,Rejected,Done,2021-02-26 16:43:41,2021-08-24 21:02:51
+RFE-1660,13272663,RFE,Feature Request,false,Rejected,Done,2021-02-25 11:27:35,2021-04-21 13:04:30
+RFE-1659,13272525,RFE,Feature Request,false,Backlog,,2021-02-25 10:33:33,
+RFE-1658,13272337,RFE,Feature Request,false,Under Review,,2021-02-25 08:23:34,
+RFE-1657,13271885,RFE,Feature Request,false,Deferred,Done,2021-02-24 19:33:57,2021-02-25 15:23:47
+RFE-1656,13271702,RFE,Feature Request,false,Backlog,,2021-02-24 14:43:50,
+RFE-1653,13271450,RFE,Feature Request,false,Backlog,,2021-02-24 10:38:44,
+RFE-1650,13270457,RFE,Feature Request,false,Accepted,Done,2021-02-23 12:13:35,2021-05-19 09:06:43
+RFE-1649,13270335,RFE,Feature Request,false,Accepted,Done,2021-02-23 10:53:41,2021-04-14 01:32:39
+RFE-1648,13269787,RFE,Feature Request,false,Backlog,,2021-02-23 04:07:54,
+RFE-1647,13269724,RFE,Feature Request,false,Under Review,,2021-02-23 02:05:38,
+RFE-1646,13269492,RFE,Feature Request,false,Rejected,Done,2021-02-22 14:47:13,2021-04-20 14:41:13
+RFE-1645,13269404,RFE,Feature Request,false,Deferred,Done,2021-02-22 12:57:50,2021-03-04 14:37:18
+RFE-1641,13268820,RFE,Feature Request,false,Backlog,,2021-02-22 05:39:45,
+RFE-1639,13267935,RFE,Feature Request,false,Deferred,Done,2021-02-19 11:03:12,2021-03-29 12:37:26
+RFE-1638,13267433,RFE,Feature Request,false,Backlog,,2021-02-19 03:24:48,
+RFE-1637,13267344,RFE,Feature Request,false,Rejected,Done,2021-02-18 22:17:26,2021-06-15 00:30:11
+RFE-1636,13267280,RFE,Feature Request,false,Backlog,,2021-02-18 17:11:40,
+RFE-1635,13266977,RFE,Feature Request,false,Backlog,,2021-02-18 11:16:54,
+RFE-1634,13266937,RFE,Feature Request,false,Accepted,Done,2021-02-18 10:40:19,2021-02-18 12:42:05
+RFE-1632,13266508,RFE,Feature Request,false,Deferred,Done,2021-02-18 05:37:50,2021-05-10 12:39:37
+RFE-1630,13265544,RFE,Feature Request,false,Backlog,,2021-02-17 06:18:38,
+RFE-1629,13264758,RFE,Feature Request,false,Accepted,Done,2021-02-16 09:11:12,2021-06-11 11:11:25
+RFE-1627,13264455,RFE,Feature Request,false,Rejected,Done,2021-02-16 04:16:45,2021-11-26 11:44:35
+RFE-1626,13263933,RFE,Feature Request,false,Backlog,,2021-02-15 11:23:15,
+RFE-1625,13263853,RFE,Feature Request,false,Backlog,,2021-02-15 10:32:57,
+RFE-1624,13263573,RFE,Feature Request,false,Deferred,Done,2021-02-15 06:58:58,2021-02-18 04:53:25
+RFE-1622,13263482,RFE,Feature Request,false,Backlog,,2021-02-15 05:39:58,
+RFE-1621,13262644,RFE,Feature Request,false,Backlog,,2021-02-12 08:14:21,
+RFE-1620,13262389,RFE,Feature Request,false,Backlog,,2021-02-12 02:38:05,
+RFE-1619,13262363,RFE,Feature Request,false,Backlog,,2021-02-11 23:56:39,
+RFE-1618,13262014,RFE,Feature Request,false,Backlog,,2021-02-11 12:08:11,
+RFE-1617,13262005,RFE,Feature Request,false,Rejected,Done,2021-02-11 12:04:18,2021-12-17 15:59:22
+RFE-1611,13259956,RFE,Feature Request,false,Backlog,,2021-02-09 16:49:22,
+RFE-1608,13259280,RFE,Feature Request,false,Accepted,Done,2021-02-09 10:45:03,2021-12-16 16:19:42
+RFE-1607,13259228,RFE,Feature Request,false,Backlog,,2021-02-09 10:20:29,
+RFE-1606,13258995,RFE,Feature Request,false,Backlog,,2021-02-09 07:49:31,
+RFE-1605,13258988,RFE,Feature Request,false,Backlog,,2021-02-09 07:44:50,
+RFE-1604,13258907,RFE,Feature Request,false,Rejected,Done,2021-02-09 06:52:44,2021-06-14 17:48:39
+RFE-1603,13258840,RFE,Feature Request,false,Backlog,,2021-02-09 05:59:11,
+RFE-1602,13258531,RFE,Feature Request,false,Backlog,,2021-02-08 18:55:55,
+RFE-1601,13258265,RFE,Feature Request,false,Deferred,Done,2021-02-08 13:40:53,2021-08-02 18:51:42
+RFE-1599,13257349,RFE,Feature Request,false,Rejected,Done,2021-02-08 05:59:47,2021-12-08 13:40:09
+RFE-1596,13255811,RFE,Feature Request,false,Backlog,,2021-02-05 02:44:42,
+RFE-1595,13255331,RFE,Feature Request,false,Rejected,Done,2021-02-04 12:38:10,2021-08-23 18:09:59
+RFE-1594,13255102,RFE,Feature Request,false,Backlog,,2021-02-04 11:45:00,
+RFE-1593,13254866,RFE,Feature Request,false,Backlog,,2021-02-04 09:39:09,
+RFE-1592,13254538,RFE,Feature Request,false,Rejected,Done,2021-02-04 05:22:39,2021-03-09 05:38:08
+RFE-1590,13253765,RFE,Feature Request,false,Accepted,Done,2021-02-03 10:29:11,2021-11-26 11:25:59
+RFE-1589,13253610,RFE,Feature Request,false,Backlog,,2021-02-03 08:23:34,
+RFE-1588,13253351,RFE,Feature Request,false,Accepted,Done,2021-02-03 04:43:20,2021-07-30 19:20:59
+RFE-1586,13252353,RFE,Feature Request,false,Under Review,,2021-02-02 12:25:11,
+RFE-1585,13252018,RFE,Feature Request,false,Under Review,,2021-02-02 09:12:55,
+RFE-1584,13251529,RFE,Feature Request,false,Backlog,,2021-02-02 05:28:40,
+RFE-1583,13251392,RFE,Feature Request,false,Backlog,,2021-02-02 04:13:05,
+RFE-1581,13248565,RFE,Feature Request,false,Under Review,,2021-01-30 09:14:21,
+RFE-1580,13248564,RFE,Feature Request,false,Under Review,,2021-01-30 08:56:13,
+RFE-1576,13246811,RFE,Feature Request,false,Accepted,Done,2021-01-28 11:12:56,2021-02-04 10:51:07
+RFE-1575,13246653,RFE,Feature Request,false,Under Review,,2021-01-28 09:19:13,
+RFE-1574,13246452,RFE,Feature Request,false,Under Review,,2021-01-28 06:37:34,
+RFE-1573,13246309,RFE,Feature Request,false,Backlog,,2021-01-28 04:45:45,
+RFE-1572,13245213,RFE,Feature Request,false,Accepted,Done,2021-01-27 07:52:05,2021-08-03 20:47:43
+RFE-1571,13244812,RFE,Feature Request,false,Backlog,,2021-01-27 05:38:10,
+RFE-1570,13244554,RFE,Feature Request,false,Under Review,,2021-01-27 04:22:05,
+RFE-1567,13242878,RFE,Feature Request,false,Backlog,,2021-01-26 04:10:03,
+RFE-1566,13242613,RFE,Feature Request,false,Accepted,Done,2021-01-25 15:20:01,2021-03-24 01:19:26
+RFE-1564,13242432,RFE,Feature Request,false,Backlog,,2021-01-25 12:31:20,
+RFE-1562,13240403,RFE,Feature Request,false,Accepted,Done,2021-01-24 22:04:17,2021-09-22 10:54:48
+RFE-1561,13240030,RFE,Feature Request,false,Backlog,,2021-01-23 18:48:40,
+RFE-1560,13239631,RFE,Feature Request,false,Rejected,Done,2021-01-22 16:16:44,2021-02-18 12:46:03
+RFE-1559,13239350,RFE,Feature Request,false,Accepted,Done,2021-01-22 10:23:03,2021-04-26 16:46:48
+RFE-1557,13238644,RFE,Feature Request,false,Accepted,Done,2021-01-22 02:41:36,2021-02-11 14:03:44
+RFE-1556,13237984,RFE,Feature Request,false,Rejected,Done,2021-01-21 11:29:26,2021-04-20 14:46:07
+RFE-1554,13237484,RFE,Feature Request,false,Backlog,,2021-01-21 04:42:02,
+RFE-1553,13237265,RFE,Feature Request,false,Backlog,,2021-01-20 18:58:21,
+RFE-1552,13236891,RFE,Feature Request,false,Accepted,Done,2021-01-20 11:05:58,2021-11-26 11:22:17
+RFE-1550,13234796,RFE,Feature Request,false,Deferred,Done,2021-01-18 23:06:57,2021-05-24 14:11:51
+RFE-1548,13234586,RFE,Feature Request,false,Accepted,Done,2021-01-18 13:41:11,2021-01-18 13:44:01
+RFE-1547,13233995,RFE,Feature Request,false,Rejected,Done,2021-01-18 06:45:13,2021-03-18 13:05:34
+RFE-1546,13233301,RFE,Feature Request,false,Rejected,Done,2021-01-15 16:39:55,2021-07-12 19:18:19
+RFE-1545,13233298,RFE,Feature Request,false,Rejected,Done,2021-01-15 16:31:25,2021-01-19 01:09:30
+RFE-1544,13233220,RFE,Feature Request,false,Backlog,,2021-01-15 13:52:35,
+RFE-1543,13232990,RFE,Feature Request,false,Rejected,Done,2021-01-15 09:44:25,2021-04-19 22:49:31
+RFE-1542,13232950,RFE,Feature Request,false,Backlog,,2021-01-15 09:18:58,
+RFE-1540,12978676,RFE,Feature Request,false,Accepted,Done,2020-07-23 05:20:40,2021-03-26 13:14:27
+RFE-1538,13227944,RFE,Feature Request,false,Under Review,,2021-01-08 18:03:33,
+RFE-1535,13231279,RFE,Feature Request,false,Backlog,,2021-01-13 14:26:34,
+RFE-1534,13230658,RFE,Feature Request,false,Backlog,,2021-01-13 04:36:11,
+RFE-1533,13230620,RFE,Feature Request,false,Rejected,Done,2021-01-13 03:54:13,2021-04-15 00:09:07
+RFE-1529,12988853,RFE,Feature Request,false,Accepted,Done,2020-08-03 21:09:21,2021-01-18 13:45:00
+RFE-1528,13228377,RFE,Feature Request,false,Accepted,Done,2021-01-11 05:32:36,2021-11-15 17:52:22
+RFE-1527,13228197,RFE,Feature Request,false,Rejected,Done,2021-01-11 00:57:19,2021-01-26 11:03:05
+RFE-1525,13227776,RFE,Feature Request,false,Rejected,Done,2021-01-08 12:09:19,2021-01-15 11:06:19
+RFE-1524,13227771,RFE,Feature Request,false,Deferred,Done,2021-01-08 11:54:03,2021-10-19 15:57:51
+RFE-1523,13227663,RFE,Feature Request,false,Deferred,Done,2021-01-08 10:04:02,2021-03-01 19:25:04
+RFE-1522,13227008,RFE,Feature Request,false,Accepted,Done,2021-01-07 12:37:03,2021-01-11 11:01:16
+RFE-1521,13226944,RFE,Feature Request,false,Accepted,Done,2021-01-07 11:30:08,2021-06-21 12:24:02
+RFE-1519,13225853,RFE,Feature Request,false,Backlog,,2021-01-06 09:24:40,
+RFE-1517,13224893,RFE,Feature Request,false,Backlog,,2021-01-05 10:13:32,
+RFE-1516,13224907,RFE,Feature Request,false,Under Review,,2021-01-05 10:29:21,
+RFE-1515,13224665,RFE,Feature Request,false,Backlog,,2021-01-05 07:25:50,
+RFE-1514,13224388,RFE,Feature Request,false,Under Review,,2021-01-04 17:36:55,
+RFE-1512,13223757,RFE,Feature Request,false,Rejected,Done,2021-01-04 03:45:25,2021-06-22 12:05:11
+RFE-1511,13223707,RFE,Feature Request,false,Rejected,Done,2021-01-04 02:08:44,2021-05-18 18:02:50
+RFE-1509,13223519,RFE,Feature Request,false,Accepted,Done,2021-01-01 05:08:44,2021-11-01 15:46:01
+RFE-1508,13223518,RFE,Feature Request,false,Backlog,,2021-01-01 04:37:37,
+RFE-1507,13223517,RFE,Feature Request,false,Backlog,,2021-01-01 04:23:39,
+RFE-1506,13223427,RFE,Feature Request,false,Backlog,,2020-12-31 02:18:42,
+RFE-1503,13223325,RFE,Feature Request,false,Rejected,Done,2020-12-30 06:27:09,2021-02-19 18:41:42
+RFE-1502,13223213,RFE,Feature Request,false,Accepted,Done,2020-12-29 07:37:25,2021-02-22 13:42:55
+RFE-1501,13223092,RFE,Feature Request,false,Deferred,Done,2020-12-28 06:45:17,2021-01-18 10:49:17
+RFE-1500,13222733,RFE,Feature Request,false,Accepted,Done,2020-12-25 10:43:35,2021-02-23 17:51:35
+RFE-1498,13222723,RFE,Feature Request,false,Under Review,,2020-12-25 08:54:51,
+RFE-1496,13222542,RFE,Feature Request,false,Accepted,Done,2020-12-24 05:56:56,2021-01-08 11:57:57
+RFE-1495,13222175,RFE,Feature Request,false,Backlog,,2020-12-23 10:37:39,
+RFE-1494,13221955,RFE,Feature Request,false,Deferred,Done,2020-12-22 23:22:20,2021-04-20 15:01:58
+RFE-1493,13221923,RFE,Feature Request,false,Backlog,,2020-12-22 16:28:46,
+RFE-1492,13221807,RFE,Feature Request,false,Backlog,,2020-12-22 08:50:44,
+RFE-1491,13221740,RFE,Feature Request,false,Rejected,Done,2020-12-22 06:15:18,2020-12-23 17:26:00
+RFE-1489,13221324,RFE,Feature Request,false,Backlog,,2020-12-21 07:08:07,
+RFE-1488,13221177,RFE,Feature Request,false,Accepted,Done,2020-12-21 00:39:35,2021-11-26 11:17:50
+RFE-1487,13220848,RFE,Feature Request,false,Deferred,Done,2020-12-18 12:18:00,2021-04-15 13:22:21
+RFE-1486,13220671,RFE,Feature Request,false,Rejected,Done,2020-12-18 08:01:29,2021-01-05 07:18:32
+RFE-1485,13219844,RFE,Feature Request,false,Accepted,Done,2020-12-17 05:40:35,2021-03-01 14:30:21
+RFE-1483,13219555,RFE,Feature Request,false,Accepted,Done,2020-12-16 16:35:42,2021-11-26 11:15:25
+RFE-1482,13218974,RFE,Feature Request,false,Backlog,,2020-12-16 04:50:42,
+RFE-1481,13218456,RFE,Feature Request,false,Backlog,,2020-12-15 11:03:46,
+RFE-1480,13218454,RFE,Feature Request,false,Under Review,,2020-12-15 11:02:59,
+RFE-1479,13218044,RFE,Feature Request,false,Rejected,Done,2020-12-15 04:43:45,2021-01-29 17:08:20
+RFE-1477,13217963,RFE,Feature Request,false,Under Review,,2020-12-15 02:42:41,
+RFE-1476,13217524,RFE,Feature Request,false,Backlog,,2020-12-14 11:52:17,
+RFE-1471,13214289,RFE,Feature Request,false,Under Review,,2020-12-09 09:30:27,
+RFE-1468,13213791,RFE,Feature Request,false,Rejected,Done,2020-12-08 19:40:25,2020-12-08 19:41:27
+RFE-1467,13213542,RFE,Feature Request,false,Under Review,,2020-12-08 12:01:09,
+RFE-1464,13212959,RFE,Feature Request,false,Deferred,Done,2020-12-08 04:32:47,2021-10-15 21:49:49
+RFE-1463,13212892,RFE,Feature Request,false,Under Review,,2020-12-08 03:09:51,
+RFE-1462,13212575,RFE,Feature Request,false,Accepted,Done,2020-12-07 15:19:04,2021-04-23 01:03:36
+RFE-1461,13212536,RFE,Feature Request,false,Rejected,Done,2020-12-07 14:32:53,2021-12-15 09:16:57
+RFE-1460,13212462,RFE,Feature Request,false,Backlog,,2020-12-07 12:50:11,
+RFE-1459,13212457,RFE,Feature Request,false,Rejected,Done,2020-12-07 12:43:07,2021-03-17 10:51:08
+RFE-1458,13212225,RFE,Feature Request,false,Accepted,Done,2020-12-07 10:14:57,2021-05-24 14:33:21
+RFE-1457,13211802,RFE,Feature Request,false,Accepted,Done,2020-12-07 03:17:19,2021-04-15 00:06:29
+RFE-1456,13211676,RFE,Feature Request,false,Rejected,Done,2020-12-06 23:42:33,2020-12-07 15:56:56
+RFE-1454,13211401,RFE,Feature Request,false,Backlog,,2020-12-05 08:37:39,
+RFE-1451,13211105,RFE,Feature Request,false,Backlog,,2020-12-04 11:58:16,
+RFE-1450,13211092,RFE,Feature Request,false,Accepted,Done,2020-12-04 11:40:06,2021-01-14 10:32:56
+RFE-1448,13211004,RFE,Feature Request,false,Rejected,Done,2020-12-04 10:24:58,2021-04-19 05:25:30
+RFE-1447,13210600,RFE,Feature Request,false,Backlog,,2020-12-03 21:21:12,
+RFE-1445,13210476,RFE,Feature Request,false,Deferred,Done,2020-12-03 14:32:20,2021-05-13 00:32:30
+RFE-1442,13209448,RFE,Feature Request,false,Rejected,Done,2020-12-02 15:29:58,2021-06-28 14:21:10
+RFE-1441,13209254,RFE,Feature Request,false,Backlog,,2020-12-02 11:43:00,
+RFE-1440,13209131,RFE,Feature Request,false,Under Review,,2020-12-02 10:00:23,
+RFE-1439,13209118,RFE,Feature Request,false,Rejected,Done,2020-12-02 09:53:12,2021-04-19 22:32:23
+RFE-1438,13208760,RFE,Feature Request,false,Backlog,,2020-12-02 06:14:58,
+RFE-1437,13208533,RFE,Feature Request,false,Backlog,,2020-12-02 03:42:38,
+RFE-1436,13208531,RFE,Feature Request,false,Under Review,,2020-12-02 03:37:57,
+RFE-1435,13208398,RFE,Feature Request,false,Accepted,Done,2020-12-02 01:27:05,2021-05-12 03:02:42
+RFE-1434,13207566,RFE,Feature Request,false,Rejected,Done,2020-12-01 04:40:13,2020-12-03 00:41:18
+RFE-1431,13206223,RFE,Feature Request,false,Rejected,Done,2020-11-27 11:45:46,2021-08-25 09:23:56
+RFE-1430,13206148,RFE,Feature Request,false,Backlog,,2020-11-27 10:08:43,
+RFE-1429,13163125,RFE,Feature Request,false,Under Review,,2020-09-30 07:20:17,
+RFE-1427,13204653,RFE,Feature Request,false,Backlog,,2020-11-25 07:42:45,
+RFE-1426,13204452,RFE,Feature Request,false,Backlog,,2020-11-25 03:05:17,
+RFE-1425,13203863,RFE,Feature Request,false,Backlog,,2020-11-24 11:45:10,
+RFE-1424,13203675,RFE,Feature Request,false,Backlog,,2020-11-24 09:14:24,
+RFE-1423,13203181,RFE,Feature Request,false,Accepted,,2020-11-23 16:50:46,2020-11-23 16:54:03
+RFE-1420,13202524,RFE,Feature Request,false,Under Review,,2020-11-23 05:20:18,
+RFE-1418,13201818,RFE,Feature Request,false,Accepted,Done,2020-11-20 09:45:11,2021-01-18 13:34:53
+RFE-1417,13201785,RFE,Feature Request,false,Accepted,Done,2020-11-20 09:08:27,2021-03-18 09:41:22
+RFE-1416,13201653,RFE,Feature Request,false,Backlog,,2020-11-20 07:27:31,
+RFE-1413,13201352,RFE,Feature Request,false,Backlog,,2020-11-19 17:49:09,
+RFE-1412,13201213,RFE,Feature Request,false,Rejected,Done,2020-11-19 13:49:11,2020-11-20 14:29:46
+RFE-1411,13201121,RFE,Feature Request,false,Rejected,Done,2020-11-19 12:28:27,2021-03-24 02:24:46
+RFE-1405,13200273,RFE,Feature Request,false,Rejected,Done,2020-11-18 13:29:40,2021-03-08 12:57:23
+RFE-1403,13200011,RFE,Feature Request,false,Deferred,Done,2020-11-18 09:33:45,2021-11-26 11:04:35
+RFE-1402,13199805,RFE,Feature Request,false,Backlog,,2020-11-18 07:40:51,
+RFE-1400,13198844,RFE,Feature Request,false,Rejected,Done,2020-11-17 04:29:04,2020-12-16 01:11:11
+RFE-1399,13198829,RFE,Feature Request,false,Rejected,Done,2020-11-17 04:09:36,2021-02-23 10:10:29
+RFE-1397,13196968,RFE,Feature Request,false,Accepted,Done,2020-11-13 09:21:42,2021-03-22 11:27:38
+RFE-1393,13196683,RFE,Feature Request,false,Backlog,,2020-11-13 02:28:43,
+RFE-1390,13196464,RFE,Feature Request,false,Backlog,,2020-11-12 16:04:12,
+RFE-1389,13196362,RFE,Feature Request,false,Rejected,Done,2020-11-12 13:15:45,2021-11-24 08:03:21
+RFE-1388,13196069,RFE,Feature Request,false,Under Review,,2020-11-12 09:06:26,
+RFE-1386,13195604,RFE,Feature Request,false,Rejected,Done,2020-11-11 21:16:07,2021-11-15 07:02:49
+RFE-1384,13195529,RFE,Feature Request,false,Rejected,Done,2020-11-11 16:30:43,2021-05-20 14:28:42
+RFE-1382,13195161,RFE,Feature Request,false,Accepted,Done,2020-11-11 11:02:15,2021-02-15 10:43:44
+RFE-1381,13195058,RFE,Feature Request,false,Accepted,,2020-11-11 09:29:04,2020-11-13 10:27:59
+RFE-1380,13194546,RFE,Feature Request,false,Backlog,,2020-11-10 16:23:35,
+RFE-1379,13194368,RFE,Feature Request,false,Under Review,,2020-11-10 11:56:23,
+RFE-1377,13194172,RFE,Feature Request,false,Under Review,,2020-11-10 09:15:44,
+RFE-1374,13193090,RFE,Feature Request,false,Accepted,,2020-11-09 10:12:01,2020-11-09 10:16:42
+RFE-1373,13192964,RFE,Feature Request,false,Accepted,Done,2020-11-09 08:17:07,2021-11-26 10:55:27
+RFE-1371,13192726,RFE,Feature Request,false,Accepted,Done,2020-11-09 02:33:05,2021-03-24 10:01:38
+RFE-1370,13192569,RFE,Feature Request,false,Backlog,,2020-11-07 05:35:31,
+RFE-1368,13192450,RFE,Feature Request,false,Rejected,Done,2020-11-06 12:22:28,2020-11-06 12:22:51
+RFE-1367,13192234,RFE,Feature Request,false,Rejected,Done,2020-11-06 07:02:14,2021-06-14 14:30:43
+RFE-1363,13191756,RFE,Feature Request,false,Accepted,,2020-11-05 14:17:33,2020-11-17 12:24:24
+RFE-1362,13191386,RFE,Feature Request,false,Rejected,Done,2020-11-05 07:51:37,2020-11-11 11:09:41
+RFE-1361,13190840,RFE,Feature Request,false,Backlog,,2020-11-04 14:59:36,
+RFE-1360,13190153,RFE,Feature Request,false,Accepted,Done,2020-11-04 04:15:02,2021-11-26 10:51:33
+RFE-1356,13189775,RFE,Feature Request,false,Backlog,,2020-11-03 12:03:11,
+RFE-1355,12958769,RFE,Feature Request,false,Accepted,,2020-06-25 03:17:01,2020-11-12 04:32:15
+RFE-1354,13151001,RFE,Feature Request,false,Accepted,,2020-09-14 09:39:09,2020-11-05 17:35:28
+RFE-1351,13188713,RFE,Feature Request,false,Accepted,,2020-11-02 10:21:52,2020-11-02 14:12:00
+RFE-1350,13187898,RFE,Feature Request,false,Rejected,Done,2020-10-30 14:22:03,2020-11-02 04:56:58
+RFE-1347,13187262,RFE,Feature Request,false,Accepted,Done,2020-10-29 16:20:41,2021-03-17 10:47:20
+RFE-1344,13186764,RFE,Feature Request,false,Rejected,Done,2020-10-29 07:14:18,2021-09-29 15:45:52
+RFE-1341,13186287,RFE,Feature Request,false,Rejected,Done,2020-10-28 13:44:12,2021-11-25 17:12:45
+RFE-1339,13185857,RFE,Feature Request,false,Rejected,Done,2020-10-28 08:02:05,2021-04-07 08:57:07
+RFE-1338,13185763,RFE,Feature Request,false,Backlog,,2020-10-28 05:44:02,
+RFE-1337,13185247,RFE,Feature Request,false,Rejected,Done,2020-10-27 12:21:27,2020-10-27 13:38:03
+RFE-1336,13184289,RFE,Feature Request,false,Accepted,Done,2020-10-26 13:08:59,2021-03-11 14:53:57
+RFE-1333,13184085,RFE,Feature Request,false,Backlog,,2020-10-26 10:47:00,
+RFE-1329,13182790,RFE,Feature Request,false,Deferred,,2020-10-23 09:52:11,2020-11-02 09:36:14
+RFE-1328,13182770,RFE,Feature Request,false,Rejected,Done,2020-10-23 09:39:41,2021-03-16 15:17:25
+RFE-1327,13182698,RFE,Feature Request,false,Rejected,Done,2020-10-23 08:20:49,2020-10-26 05:35:56
+RFE-1325,13182488,RFE,Feature Request,false,Accepted,,2020-10-23 02:48:39,2020-11-02 09:46:58
+RFE-1324,13182470,RFE,Feature Request,false,Accepted,Done,2020-10-23 00:59:50,2021-11-25 17:11:06
+RFE-1323,13182279,RFE,Feature Request,false,Rejected,Done,2020-10-22 15:09:05,2020-11-06 04:34:17
+RFE-1320,13181237,RFE,Feature Request,false,Rejected,Done,2020-10-21 12:57:44,2021-02-12 12:37:09
+RFE-1319,13181014,RFE,Feature Request,false,Under Review,,2020-10-21 10:49:14,
+RFE-1317,13180906,RFE,Feature Request,false,Backlog,,2020-10-21 09:22:40,
+RFE-1316,13180896,RFE,Feature Request,false,Backlog,,2020-10-21 09:14:24,
+RFE-1315,13180822,RFE,Feature Request,false,Accepted,Done,2020-10-21 08:00:10,2021-02-22 11:48:27
+RFE-1311,13179966,RFE,Feature Request,false,Rejected,Done,2020-10-20 10:41:23,2021-10-27 14:32:19
+RFE-1310,13179960,RFE,Feature Request,false,Rejected,Done,2020-10-20 10:39:01,2021-05-18 19:36:38
+RFE-1308,13179641,RFE,Feature Request,false,Backlog,,2020-10-20 07:52:50,
+RFE-1307,13179514,RFE,Feature Request,false,Accepted,Done,2020-10-20 06:06:42,2021-04-23 01:03:09
+RFE-1306,12894588,RFE,Feature Request,false,Rejected,Done,2019-12-19 12:04:07,2020-09-03 00:42:01
+RFE-1304,13178980,RFE,Feature Request,false,Rejected,Done,2020-10-19 11:21:16,2021-05-24 14:33:09
+RFE-1303,13178691,RFE,Feature Request,false,Backlog,,2020-10-19 07:17:47,
+RFE-1302,13178035,RFE,Feature Request,false,Backlog,,2020-10-16 13:17:12,
+RFE-1298,13177117,RFE,Feature Request,false,Rejected,Done,2020-10-15 06:32:29,2021-03-24 02:24:28
+RFE-1297,13176941,RFE,Feature Request,false,Accepted,,2020-10-15 02:20:50,2020-11-09 14:14:14
+RFE-1296,13176385,RFE,Feature Request,false,Under Review,,2020-10-14 10:28:25,
+RFE-1294,13176201,RFE,Feature Request,false,Under Review,,2020-10-14 07:56:52,
+RFE-1293,13175542,RFE,Feature Request,false,Deferred,Done,2020-10-13 17:28:47,2021-11-30 21:31:10
+RFE-1292,13175444,RFE,Feature Request,false,Under Review,,2020-10-13 14:30:59,
+RFE-1291,13174865,RFE,Feature Request,false,Backlog,,2020-10-13 02:19:05,
+RFE-1290,13174686,RFE,Feature Request,false,Backlog,,2020-10-12 16:29:32,
+RFE-1289,13174623,RFE,Feature Request,false,Accepted,,2020-10-12 14:02:05,2020-10-13 04:55:18
+RFE-1288,13173613,RFE,Feature Request,false,Under Review,,2020-10-10 01:25:03,
+RFE-1287,13173436,RFE,Feature Request,false,Rejected,Done,2020-10-09 17:45:32,2021-03-12 15:15:25
+RFE-1284,13172832,RFE,Feature Request,false,Under Review,,2020-10-09 06:24:05,
+RFE-1283,13172759,RFE,Feature Request,false,Accepted,Done,2020-10-09 04:12:38,2021-09-30 13:20:33
+RFE-1282,13172657,RFE,Feature Request,false,Rejected,Done,2020-10-08 20:48:18,2020-10-23 17:23:01
+RFE-1281,13172544,RFE,Feature Request,false,Rejected,Done,2020-10-08 14:14:16,2021-10-21 01:40:38
+RFE-1280,13172414,RFE,Feature Request,false,Rejected,Done,2020-10-08 11:18:07,2021-08-05 14:56:56
+RFE-1279,13172349,RFE,Feature Request,false,Backlog,,2020-10-08 09:54:46,
+RFE-1278,13171520,RFE,Feature Request,false,Accepted,Done,2020-10-07 16:13:03,2021-11-25 16:58:14
+RFE-1274,13169794,RFE,Feature Request,false,Accepted,Done,2020-10-06 09:40:52,2021-11-25 16:54:34
+RFE-1273,13169626,RFE,Feature Request,false,Rejected,Done,2020-10-06 07:20:26,2021-11-22 16:47:14
+RFE-1272,13169438,RFE,Feature Request,false,Accepted,Done,2020-10-06 05:43:29,2021-09-07 14:02:27
+RFE-1269,13169027,RFE,Feature Request,false,Accepted,Done,2020-10-05 13:25:39,2021-05-03 18:38:09
+RFE-1268,13168859,RFE,Feature Request,false,Backlog,,2020-10-05 11:04:47,
+RFE-1266,13168658,RFE,Feature Request,false,Under Review,,2020-10-05 09:12:23,
+RFE-1265,13168638,RFE,Feature Request,false,Deferred,,2020-10-05 09:02:34,2020-10-22 05:40:44
+RFE-1264,13168137,RFE,Feature Request,false,Rejected,Done,2020-10-05 00:40:14,2020-10-21 14:11:09
+RFE-1262,13165775,RFE,Feature Request,false,Under Review,,2020-10-02 13:10:25,
+RFE-1261,13165647,RFE,Feature Request,false,Backlog,,2020-10-02 10:59:47,
+RFE-1260,13165642,RFE,Feature Request,false,Backlog,,2020-10-02 10:56:57,
+RFE-1259,13164609,RFE,Feature Request,false,Rejected,Done,2020-10-01 11:09:45,2021-03-24 13:24:38
+RFE-1258,13164527,RFE,Feature Request,false,Deferred,Done,2020-10-01 09:52:59,2021-11-25 16:53:03
+RFE-1256,13163160,RFE,Feature Request,false,Backlog,,2020-09-30 07:50:49,
+RFE-1255,13163016,RFE,Feature Request,false,Accepted,Done,2020-09-30 04:53:03,2021-08-23 16:50:30
+RFE-1254,13162983,RFE,Feature Request,false,Accepted,Done,2020-09-30 04:25:37,2021-11-12 18:30:46
+RFE-1252,13162653,RFE,Feature Request,false,Deferred,,2020-09-29 16:09:50,2020-11-06 08:11:36
+RFE-1214,13151926,RFE,Feature Request,false,Rejected,Done,2020-09-15 04:05:14,2020-12-03 13:02:44
+RFE-1203,13007426,RFE,Feature Request,false,Deferred,Done,2020-09-10 17:06:23,2021-12-01 10:08:10
+RFE-1202,13007424,RFE,Feature Request,false,Backlog,,2020-09-10 17:02:55,
+RFE-1188,13005616,RFE,Feature Request,false,Rejected,Done,2020-09-08 21:37:06,2021-02-15 17:14:48
+RFE-1162,12996901,RFE,Feature Request,false,Accepted,Done,2020-08-19 14:34:45,2021-12-01 07:37:31
+RFE-1115,12994311,RFE,Feature Request,false,Accepted,Done,2020-08-12 07:46:37,2021-03-24 01:50:32
+RFE-1103,12991265,RFE,Feature Request,false,Accepted,Done,2020-08-06 15:25:30,2021-07-09 13:50:34
+RFE-959,12952020,RFE,Feature Request,false,Accepted,,2020-06-08 10:52:28,2020-11-09 15:54:56
+RFE-952,12950948,RFE,Feature Request,false,Accepted,,2020-06-04 16:04:39,2020-12-15 09:50:39
+RFE-810,12934298,RFE,Feature Request,false,Deferred,Done,2020-04-23 07:49:46,2021-01-18 08:25:34
+RFE-793,12931822,RFE,Feature Request,false,Accepted,Done,2020-04-17 11:32:08,2021-10-05 12:06:04
+RFE-719,12925260,RFE,Feature Request,false,Accepted,,2020-03-31 08:10:11,2020-10-12 08:37:15
+RFE-717,12924998,RFE,Feature Request,false,Rejected,Done,2020-03-30 16:13:28,2021-06-15 00:42:23
+RFE-538,12901916,RFE,Feature Request,false,Accepted,,2020-01-27 00:25:48,2020-12-15 09:48:32
+RFE-490,12894594,RFE,Feature Request,false,Accepted,Done,2019-12-19 12:31:18,2021-08-03 15:12:07
+RFE-106,12885613,RFE,Feature Request,false,Under Review,,2019-04-23 18:14:17,
+RFE-64,12885582,RFE,Feature Request,false,Accepted,,2019-03-26 15:10:19,2020-11-19 17:22:33

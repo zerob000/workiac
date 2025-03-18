@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2009-01-28 23:47:15 End date: 2022-01-04 11:45:47
+System: {'OSSRH': 74900}
+Types: {'New Project': 65487, 'Publishing Support': 9413}
+Resolutions: {'': 2767, 'Fixed': 57895, 'Duplicate': 6746, 'Not A Bug': 366, "Won't Do": 441, 'Done': 287, "Won't Fix": 666, 'Incomplete': 717, 'Out of scope': 246, 'Automatically Closed': 4659, 'Parked': 31, 'Cannot Reproduce': 79}
+Statuses: {'Open': 16, 'Waiting for Response': 30, 'Resolved': 76, 'Closed': 74747, 'Inactive - Pending Closure': 30, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 22.8 days
+Average Lead Time (New Project): 8.6 days
+Average Lead Time (Publishing Support): 117.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 11:45:47 End date: 2022-01-04 11:45:47
+System: {'OSSRH': 3396}
+Types: {'New Project': 2733, 'Publishing Support': 663}
+Resolutions: {'': 73, 'Fixed': 2229, 'Duplicate': 348, 'Not A Bug': 51, "Won't Do": 60, 'Done': 110, "Won't Fix": 44, 'Incomplete': 57, 'Out of scope': 12, 'Automatically Closed': 399, 'Parked': 6, 'Cannot Reproduce': 7}
+Statuses: {'Open': 13, 'Waiting for Response': 30, 'Resolved': 76, 'Closed': 3247, 'Inactive - Pending Closure': 30}
+
+Average Lead Time (all PBIs): 3.0 days
+Average Lead Time (New Project): 2.8 days
+Average Lead Time (Publishing Support): 3.7 days

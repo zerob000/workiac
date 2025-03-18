@@ -1,0 +1,33 @@
+All PBIS - Unfiltered 
+Start date: 2006-07-03 08:53:53 End date: 2022-01-04 15:07:12
+System: {'DROOLS': 5799}
+Types: {'Task': 1100, 'Bug': 3177, 'Enhancement': 924, 'Feature Request': 490, 'Component Upgrade': 11, 'Story': 88, 'Quality Risk': 5, 'Patch': 2, 'Release': 2}
+Resolutions: {'': 887, 'Done': 3966, 'Explained': 68, 'Not a Bug': 7, 'Rejected': 177, "Won't Do": 124, 'Cannot Reproduce': 139, 'Duplicate Issue': 118, 'Out of Date': 199, "Won't Fix": 75, 'Duplicate': 12, 'Obsolete': 5, 'Fixed': 2, 'Incomplete Description': 5, 'Incomplete': 1, 'Partially Completed': 5, 'Migrated to another ITS': 3, 'Deferred': 5, 'Resolved at Apache': 1}
+Statuses: {'Pull Request Sent': 47, 'Resolved': 4043, 'Open': 814, 'Coding In Progress': 14, 'Closed': 869, 'Reopened': 12}
+
+Average Lead Time (all PBIs): 147.0 days
+Average Lead Time (Task): 90.1 days
+Average Lead Time (Bug): 119.3 days
+Average Lead Time (Enhancement): 195.3 days
+Average Lead Time (Feature Request): 425.8 days
+Average Lead Time (Component Upgrade): 115.4 days
+Average Lead Time (Story): 102.1 days
+Average Lead Time (Quality Risk): 314.0 days
+Average Lead Time (Patch): 1.5 days
+Average Lead Time (Release): 18.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 15:07:12 End date: 2022-01-04 15:07:12
+System: {'DROOLS': 183}
+Types: {'Task': 60, 'Bug': 83, 'Enhancement': 30, 'Feature Request': 9, 'Quality Risk': 1}
+Resolutions: {'': 55, 'Done': 100, 'Explained': 7, 'Not a Bug': 2, 'Rejected': 1, "Won't Do": 5, 'Cannot Reproduce': 2, 'Duplicate Issue': 2, "Won't Fix": 1, 'Out of Date': 5, 'Incomplete': 1, 'Obsolete': 2}
+Statuses: {'Pull Request Sent': 10, 'Resolved': 105, 'Open': 43, 'Coding In Progress': 2, 'Closed': 23}
+
+Average Lead Time (all PBIs): 142.6 days
+Average Lead Time (Task): 89.6 days
+Average Lead Time (Bug): 130.4 days
+Average Lead Time (Enhancement): 248.1 days
+Average Lead Time (Feature Request): 142.0 days
+Average Lead Time (Quality Risk): 616.0 days

@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2011-09-21 14:09:26 End date: 2021-01-08 06:41:40
+System: {'REMJMX': 167}
+Types: {'Task': 71, 'Component Upgrade': 14, 'Bug': 48, 'Release': 22, 'Enhancement': 4, 'Feature Request': 8}
+Resolutions: {'': 20, 'Done': 136, 'Duplicate Issue': 3, 'Out of Date': 4, 'Rejected': 4}
+Statuses: {'Open': 17, 'Coding In Progress': 3, 'Resolved': 145, 'Closed': 2}
+
+Average Lead Time (all PBIs): 45.5 days
+Average Lead Time (Release): 0.3 days
+Average Lead Time (Bug): 142.6 days
+Average Lead Time (Task): 13.0 days
+Average Lead Time (Component Upgrade): 0.0 days
+Average Lead Time (Enhancement): 82.5 days
+Average Lead Time (Feature Request): 13.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-09-30 06:41:40 End date: 2021-01-08 06:41:40
+System: {'REMJMX': 2}
+Types: {'Task': 1, 'Component Upgrade': 1}
+Resolutions: {'': 2}
+Statuses: {'Open': 1, 'Coding In Progress': 1}
+
+No PBIs resolved in last 100 days.

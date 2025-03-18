@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2001-02-09 08:44:45 End date: 2021-12-27 12:39:06
+System: {'XERCESJ': 1725}
+Types: {'Bug': 1501, 'Improvement': 147, 'Task': 7, 'Test': 2, 'New Feature': 58, 'Wish': 10}
+Resolutions: {'Invalid': 83, '': 265, 'Fixed': 821, 'Not A Problem': 17, 'Cannot Reproduce': 62, 'Workaround': 1, 'Later': 5, 'Duplicate': 114, 'Not A Bug': 1, "Won't Fix": 56, 'Incomplete': 299, 'Implemented': 1}
+Statuses: {'Closed': 192, 'Open': 247, 'Resolved': 1268, 'Reopened': 12, 'In Progress': 6}
+
+Average Lead Time (all PBIs): 399.2 days
+Average Lead Time (Bug): 433.8 days
+Average Lead Time (Improvement): 128.2 days
+Average Lead Time (Task): 60.4 days
+Average Lead Time (Test): 0.0 days
+Average Lead Time (Wish): 264.0 days
+Average Lead Time (New Feature): 189.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-18 12:39:06 End date: 2021-12-27 12:39:06
+System: {'XERCESJ': 8}
+Types: {'Bug': 6, 'Improvement': 2}
+Resolutions: {'Invalid': 1, '': 1, 'Fixed': 3, 'Not A Problem': 1, 'Cannot Reproduce': 1, 'Workaround': 1}
+Statuses: {'Closed': 1, 'Open': 1, 'Resolved': 6}
+
+Average Lead Time (all PBIs): 290.7 days
+Average Lead Time (Bug): 258.2 days
+Average Lead Time (Improvement): 372.0 days

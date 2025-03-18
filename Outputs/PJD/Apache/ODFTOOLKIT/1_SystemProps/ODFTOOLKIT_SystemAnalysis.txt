@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2009-03-30 18:57:18 End date: 2018-10-02 11:30:44
+System: {'ODFTOOLKIT': 479}
+Types: {'Wish': 3, 'Bug': 289, 'Improvement': 169, 'New Feature': 13, 'Task': 4, 'Test': 1}
+Resolutions: {'': 137, 'Fixed': 289, 'Not A Problem': 3, 'Invalid': 4, 'Implemented': 3, 'Workaround': 1, 'Duplicate': 32, 'Cannot Reproduce': 2, 'Incomplete': 5, "Won't Fix": 3}
+Statuses: {'Open': 130, 'Resolved': 61, 'Closed': 281, 'In Progress': 4, 'Reopened': 3}
+
+Average Lead Time (all PBIs): 202.2 days
+Average Lead Time (Bug): 211.1 days
+Average Lead Time (Improvement): 192.0 days
+Average Lead Time (New Feature): 220.5 days
+Average Lead Time (Task): 115.0 days
+Average Lead Time (Wish): 2.0 days
+Average Lead Time (Test): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2018-06-24 11:30:44 End date: 2018-10-02 11:30:44
+System: {'ODFTOOLKIT': 4}
+Types: {'Wish': 1, 'Bug': 2, 'Improvement': 1}
+Resolutions: {'': 3, 'Fixed': 1}
+Statuses: {'Open': 3, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 0.0 days
+Average Lead Time (Bug): 0.0 days

@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 2010-09-03 13:57:32 End date: 2020-12-29 08:57:29
+System: {'DATAJDBC': 609}
+Types: {'Bug': 167, 'Improvement': 197, 'Task': 126, 'New Feature': 104, 'Support': 6, 'Defect': 3, 'Refactoring': 6}
+Resolutions: {'': 117, 'Done': 24, "Won't Do": 10, 'Complete': 284, 'Works as Designed': 26, 'Fixed': 73, "Won't Fix": 12, 'Invalid': 13, 'Duplicate': 28, 'Cannot Reproduce': 1, 'Incomplete': 20, 'Deferred': 1}
+Statuses: {'Open': 98, 'Waiting for Review': 5, 'Resolved': 38, 'Closed': 454, 'Waiting for Feedback': 5, 'Reopened': 2, 'Investigating': 3, 'In Progress': 4}
+
+Average Lead Time (all PBIs): 163.9 days
+Average Lead Time (Bug): 143.2 days
+Average Lead Time (New Feature): 304.3 days
+Average Lead Time (Improvement): 180.4 days
+Average Lead Time (Task): 59.9 days
+Average Lead Time (Support): 248.4 days
+Average Lead Time (Defect): 536.0 days
+Average Lead Time (Refactoring): 42.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-09-20 08:57:29 End date: 2020-12-29 08:57:29
+System: {'DATAJDBC': 60}
+Types: {'Bug': 21, 'Improvement': 15, 'Task': 19, 'New Feature': 5}
+Resolutions: {'': 20, 'Done': 8, "Won't Do": 2, 'Complete': 18, 'Works as Designed': 4, 'Fixed': 2, "Won't Fix": 3, 'Invalid': 1, 'Duplicate': 2}
+Statuses: {'Open': 14, 'Waiting for Review': 2, 'Resolved': 2, 'Closed': 38, 'Waiting for Feedback': 4}
+
+Average Lead Time (all PBIs): 66.0 days
+Average Lead Time (Bug): 76.2 days
+Average Lead Time (New Feature): 79.2 days
+Average Lead Time (Improvement): 84.9 days
+Average Lead Time (Task): 37.1 days

@@ -1,0 +1,46 @@
+All PBIS - Unfiltered 
+Start date: 2012-10-19 21:28:15 End date: 2022-01-05 11:37:21
+System: {'SPARK': 31075}
+Types: {'Documentation': 670, 'Task': 424, 'Umbrella': 256, 'Test': 628, 'Improvement': 11257, 'Bug': 15076, 'New Feature': 1986, 'Question': 405, 'Dependency upgrade': 51, 'Wish': 124, 'Story': 110, 'Brainstorming': 49, 'Blog - New Blog Request': 1, 'Request': 15, 'IT Help': 15, 'Planned Work': 4, 'New JIRA Project': 3, 'Github Integration': 1}
+Resolutions: {'': 1957, 'Fixed': 17632, "Won't Fix": 1959, 'Invalid': 1212, 'Not A Problem': 1773, 'Duplicate': 2131, 'Cannot Reproduce': 500, "Won't Do": 65, 'Incomplete': 3159, 'Done': 233, 'Resolved': 68, 'Not A Bug': 101, 'Later': 132, 'Abandoned': 25, 'Implemented': 31, 'Workaround': 19, 'Information Provided': 18, 'Auto Closed': 53, 'Feedback Received': 3, 'Works for Me': 4}
+Statuses: {'In Progress': 779, 'Resolved': 26607, 'Open': 1137, 'Closed': 2511, 'Reopened': 41}
+
+Average Lead Time (all PBIs): 7422.8 days
+Average Lead Time (Task): 111.8 days
+Average Lead Time (Umbrella): 468.4 days
+Average Lead Time (Test): 93.4 days
+Average Lead Time (New Feature): 7525.8 days
+Average Lead Time (Bug): 12557.2 days
+Average Lead Time (Improvement): 2024.8 days
+Average Lead Time (Question): 47.1 days
+Average Lead Time (Documentation): 76.1 days
+Average Lead Time (Story): 193.7 days
+Average Lead Time (Wish): 340.0 days
+Average Lead Time (Dependency upgrade): 79.6 days
+Average Lead Time (Blog - New Blog Request): 0.0 days
+Average Lead Time (IT Help): 1.2 days
+Average Lead Time (Brainstorming): 659.2 days
+Average Lead Time (Planned Work): 80.8 days
+Average Lead Time (Request): 160.6 days
+Average Lead Time (New JIRA Project): 161.7 days
+Average Lead Time (Github Integration): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-27 11:37:21 End date: 2022-01-05 11:37:21
+System: {'SPARK': 716}
+Types: {'Documentation': 8, 'Task': 32, 'Umbrella': 17, 'Test': 15, 'Improvement': 318, 'Bug': 271, 'New Feature': 44, 'Question': 9, 'Dependency upgrade': 2}
+Resolutions: {'': 244, 'Fixed': 377, "Won't Fix": 9, 'Invalid': 24, 'Not A Problem': 15, 'Duplicate': 26, 'Cannot Reproduce': 2, "Won't Do": 5, 'Incomplete': 2, 'Done': 10, 'Resolved': 1, 'Not A Bug': 1}
+Statuses: {'In Progress': 112, 'Resolved': 462, 'Open': 131, 'Closed': 10, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 48.7 days
+Average Lead Time (Task): 18.9 days
+Average Lead Time (Umbrella): 74.2 days
+Average Lead Time (Test): 81.4 days
+Average Lead Time (New Feature): 201.0 days
+Average Lead Time (Bug): 63.5 days
+Average Lead Time (Improvement): 24.0 days
+Average Lead Time (Question): 16.3 days
+Average Lead Time (Documentation): 0.2 days
+Average Lead Time (Dependency upgrade): 293.0 days

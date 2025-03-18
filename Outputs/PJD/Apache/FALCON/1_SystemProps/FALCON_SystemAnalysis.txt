@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2013-04-29 06:26:31 End date: 2019-07-25 20:14:36
+System: {'FALCON': 1786}
+Types: {'Bug': 1169, 'Task': 92, 'Improvement': 374, 'New Feature': 101, 'Test': 44, 'Wish': 6}
+Resolutions: {'': 453, 'Fixed': 1154, 'Duplicate': 67, 'Invalid': 41, 'Not A Problem': 20, 'Done': 2, 'Information Provided': 1, 'Not A Bug': 2, 'Cannot Reproduce': 14, "Won't Fix": 13, 'Resolved': 1, 'Later': 8, 'Pending Closed': 4, 'Implemented': 5, 'Incomplete': 1}
+Statuses: {'Open': 431, 'Resolved': 1081, 'Closed': 251, 'Patch Available': 4, 'In Progress': 15, 'Reopened': 4}
+
+Average Lead Time (all PBIs): 45.6 days
+Average Lead Time (Bug): 31.1 days
+Average Lead Time (Task): 82.3 days
+Average Lead Time (Improvement): 63.9 days
+Average Lead Time (New Feature): 195.1 days
+Average Lead Time (Test): 17.0 days
+Average Lead Time (Wish): 19.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2019-04-16 20:14:36 End date: 2019-07-25 20:14:36
+System: {'FALCON': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

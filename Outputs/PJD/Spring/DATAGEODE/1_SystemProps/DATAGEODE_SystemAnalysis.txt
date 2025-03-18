@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2017-04-17 16:59:34 End date: 2020-12-10 21:53:37
+System: {'DATAGEODE': 392}
+Types: {'Task': 152, 'Improvement': 185, 'Bug': 45, 'New Feature': 10}
+Resolutions: {'': 62, 'Complete': 274, 'Works as Designed': 4, 'Duplicate': 4, 'Fixed': 40, 'Invalid': 2, "Won't Do": 3, "Won't Fix": 3}
+Statuses: {'In Progress': 9, 'Resolved': 4, 'Open': 50, 'Closed': 326, 'Waiting for Feedback': 1, 'Waiting for Review': 2}
+
+Average Lead Time (all PBIs): 25.7 days
+Average Lead Time (Task): 26.0 days
+Average Lead Time (Improvement): 26.0 days
+Average Lead Time (Bug): 15.0 days
+Average Lead Time (New Feature): 72.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-09-01 21:53:37 End date: 2020-12-10 21:53:37
+System: {'DATAGEODE': 40}
+Types: {'Task': 25, 'Improvement': 11, 'Bug': 2, 'New Feature': 2}
+Resolutions: {'': 8, 'Complete': 29, 'Works as Designed': 2, 'Duplicate': 1}
+Statuses: {'In Progress': 1, 'Resolved': 2, 'Open': 7, 'Closed': 30}
+
+Average Lead Time (all PBIs): 43.3 days
+Average Lead Time (Task): 27.6 days
+Average Lead Time (Improvement): 70.8 days
+Average Lead Time (Bug): 6.5 days
+Average Lead Time (New Feature): 84.5 days

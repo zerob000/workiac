@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2016-05-28 16:47:19 End date: 2017-11-13 16:21:16
+System: {'GOSSIP': 96}
+Types: {'New Feature': 39, 'Improvement': 24, 'Bug': 22, 'Task': 9, 'Wish': 2}
+Resolutions: {'': 22, 'Fixed': 68, 'Duplicate': 3, "Won't Fix": 2, 'Not A Problem': 1}
+Statuses: {'Open': 22, 'Resolved': 72, 'Closed': 2}
+
+Average Lead Time (all PBIs): 40.5 days
+Average Lead Time (Bug): 28.2 days
+Average Lead Time (Improvement): 23.9 days
+Average Lead Time (New Feature): 60.0 days
+Average Lead Time (Task): 20.1 days
+Average Lead Time (Wish): 151.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2017-08-05 16:21:16 End date: 2017-11-13 16:21:16
+System: {'GOSSIP': 8}
+Types: {'New Feature': 3, 'Improvement': 2, 'Bug': 3}
+Resolutions: {'': 4, 'Fixed': 4}
+Statuses: {'Open': 4, 'Resolved': 4}
+
+Average Lead Time (all PBIs): 172.5 days
+Average Lead Time (Bug): 60.0 days
+Average Lead Time (New Feature): 197.0 days
+Average Lead Time (Improvement): 236.0 days

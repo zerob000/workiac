@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2008-12-14 06:09:34 End date: 2021-02-16 09:48:16
+System: {'SNOWDROP': 118}
+Types: {'Feature Request': 28, 'Bug': 77, 'Task': 7, 'Enhancement': 5, 'Patch': 1}
+Resolutions: {'': 11, 'Done': 95, 'Rejected': 3, 'Partially Completed': 1, 'Out of Date': 5, "Won't Fix": 1, 'Duplicate Issue': 2}
+Statuses: {'Open': 11, 'Closed': 72, 'Resolved': 35}
+
+Average Lead Time (all PBIs): 100.7 days
+Average Lead Time (Bug): 48.7 days
+Average Lead Time (Feature Request): 229.2 days
+Average Lead Time (Task): 146.0 days
+Average Lead Time (Enhancement): 169.8 days
+Average Lead Time (Patch): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-11-08 09:48:16 End date: 2021-02-16 09:48:16
+System: {'SNOWDROP': 1}
+Types: {'Feature Request': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

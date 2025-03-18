@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2012-10-24 12:41:14 End date: 2022-01-03 18:42:14
+System: {'HELIX': 709}
+Types: {'Bug': 337, 'New Feature': 52, 'Improvement': 187, 'Task': 124, 'Test': 7, 'Wish': 2}
+Resolutions: {'Abandoned': 8, 'Invalid': 28, "Won't Fix": 16, '': 275, 'Fixed': 353, 'Done': 1, 'Duplicate': 23, 'Not A Problem': 4, 'Incomplete': 1}
+Statuses: {'Closed': 200, 'Open': 270, 'Resolved': 234, 'In Progress': 1, 'Reopened': 4}
+
+Average Lead Time (all PBIs): 192.6 days
+Average Lead Time (Bug): 151.6 days
+Average Lead Time (New Feature): 117.1 days
+Average Lead Time (Improvement): 181.9 days
+Average Lead Time (Task): 352.2 days
+Average Lead Time (Test): 506.5 days
+Average Lead Time (Wish): 6.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-25 18:42:14 End date: 2022-01-03 18:42:14
+System: {'HELIX': 9}
+Types: {'Bug': 6, 'New Feature': 2, 'Improvement': 1}
+Resolutions: {'Abandoned': 8, "Won't Fix": 1}
+Statuses: {'Closed': 9}
+
+Average Lead Time (all PBIs): 98.7 days
+Average Lead Time (Bug): 18.0 days
+Average Lead Time (New Feature): 36.0 days
+Average Lead Time (Improvement): 708.0 days

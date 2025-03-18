@@ -1,0 +1,40 @@
+All PBIS - Unfiltered 
+Start date: 2009-04-28 15:00:25 End date: 2022-01-03 17:12:02
+System: {'KARAF': 7101}
+Types: {'Bug': 3133, 'Dependency upgrade': 1524, 'Improvement': 1487, 'Proposal': 3, 'Task': 287, 'Question': 46, 'New Feature': 503, 'Documentation': 42, 'Wish': 26, 'Test': 44, 'Story': 1, 'Dependency': 1, 'Project': 1, 'Request': 1, 'Brainstorming': 2}
+Resolutions: {'': 600, 'Fixed': 5551, 'Not A Problem': 243, 'Duplicate': 197, 'Not A Bug': 12, 'Invalid': 35, 'Cannot Reproduce': 165, "Won't Fix": 260, 'Information Provided': 8, 'Works for Me': 2, 'Implemented': 9, 'Done': 3, 'Feedback Received': 1, 'Resolved': 3, 'Incomplete': 6, 'Later': 2, 'Pending Closed': 3, 'Abandoned': 1}
+Statuses: {'Open': 580, 'Resolved': 5436, 'Closed': 1065, 'In Progress': 8, 'Reopened': 12}
+
+Average Lead Time (all PBIs): 104.4 days
+Average Lead Time (Dependency upgrade): 25.1 days
+Average Lead Time (Bug): 111.4 days
+Average Lead Time (Improvement): 144.7 days
+Average Lead Time (Task): 73.2 days
+Average Lead Time (Question): 129.2 days
+Average Lead Time (New Feature): 242.2 days
+Average Lead Time (Documentation): 83.7 days
+Average Lead Time (Test): 48.0 days
+Average Lead Time (Wish): 180.2 days
+Average Lead Time (Story): 0.0 days
+Average Lead Time (Proposal): 88.0 days
+Average Lead Time (Dependency): 0.0 days
+Average Lead Time (Project): 18.0 days
+Average Lead Time (Request): 19.0 days
+Average Lead Time (Brainstorming): 1118.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-25 17:12:02 End date: 2022-01-03 17:12:02
+System: {'KARAF': 66}
+Types: {'Bug': 20, 'Dependency upgrade': 30, 'Improvement': 8, 'Proposal': 1, 'Task': 3, 'Question': 2, 'New Feature': 2}
+Resolutions: {'': 17, 'Fixed': 40, 'Not A Problem': 1, 'Duplicate': 1, 'Not A Bug': 1, 'Invalid': 2, 'Cannot Reproduce': 2, "Won't Fix": 2}
+Statuses: {'Open': 16, 'Resolved': 47, 'Closed': 2, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 46.0 days
+Average Lead Time (Dependency upgrade): 46.6 days
+Average Lead Time (Bug): 46.4 days
+Average Lead Time (Improvement): 11.6 days
+Average Lead Time (Task): 0.5 days
+Average Lead Time (Question): 74.0 days
+Average Lead Time (New Feature): 140.0 days

@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2019-01-08 10:43:52 End date: 2021-08-20 12:44:08
+System: {'APPDUX': 742}
+Types: {'Task': 601, 'Initiative': 13, 'Enhancement': 18, 'Bug': 38, 'Feature Request': 72}
+Resolutions: {'Done': 546, 'Out of Date': 48, 'Duplicate Issue': 21, "Won't Do": 24, 'Duplicate': 2, 'Migrated to another ITS': 22, 'Explained': 2, 'Obsolete': 1, 'Partially Completed': 5, 'Deferred': 70, 'Rejected': 1}
+Statuses: {'Resolved': 572, 'Closed': 157, 'Completed': 13}
+
+Average Lead Time (all PBIs): 94.5 days
+Average Lead Time (Task): 74.1 days
+Average Lead Time (Initiative): 204.3 days
+Average Lead Time (Enhancement): 248.9 days
+Average Lead Time (Bug): 121.0 days
+Average Lead Time (Feature Request): 192.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-05-12 12:44:08 End date: 2021-08-20 12:44:08
+System: {'APPDUX': 161}
+Types: {'Task': 142, 'Initiative': 9, 'Enhancement': 1, 'Bug': 6, 'Feature Request': 3}
+Resolutions: {'Done': 118, 'Out of Date': 14, 'Duplicate Issue': 1, "Won't Do": 4, 'Duplicate': 1, 'Migrated to another ITS': 21, 'Obsolete': 1, 'Partially Completed': 1}
+Statuses: {'Resolved': 138, 'Closed': 14, 'Completed': 9}
+
+Average Lead Time (all PBIs): 163.5 days
+Average Lead Time (Task): 144.1 days
+Average Lead Time (Initiative): 231.9 days
+Average Lead Time (Enhancement): 100.0 days
+Average Lead Time (Bug): 367.7 days
+Average Lead Time (Feature Request): 493.7 days

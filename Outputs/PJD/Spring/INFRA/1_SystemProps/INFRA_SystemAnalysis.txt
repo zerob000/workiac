@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2018-03-06 18:25:00 End date: 2021-09-28 16:52:28
+System: {'INFRA': 49}
+Types: {'Defect': 31, 'Improvement': 11, 'Task': 6, 'New Feature': 1}
+Resolutions: {'Invalid': 38, 'Complete': 3, "Won't Fix": 6, 'Fixed': 2}
+Statuses: {'Closed': 35, 'Resolved': 14}
+
+Average Lead Time (all PBIs): 49.6 days
+Average Lead Time (Defect): 35.2 days
+Average Lead Time (Improvement): 41.9 days
+Average Lead Time (Task): 93.7 days
+Average Lead Time (New Feature): 318.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-06-20 16:52:28 End date: 2021-09-28 16:52:28
+System: {'INFRA': 6}
+Types: {'Defect': 5, 'Improvement': 1}
+Resolutions: {'Invalid': 6}
+Statuses: {'Closed': 5, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 21.2 days
+Average Lead Time (Defect): 23.4 days
+Average Lead Time (Improvement): 10.0 days

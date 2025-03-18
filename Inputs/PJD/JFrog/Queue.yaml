@@ -1,0 +1,13 @@
+---
+# Add a queue of system names and data files for the manager to run
+System_Names:
+    ## "CSV name": "Yaml name"
+    "TCAP": "JFrog.yaml"
+    "RTFACT": "JFrog.yaml"
+    "NMAP": "JFrog.yaml"
+    "MAP": "JFrog.yaml"
+    "JUX": "JFrog.yaml"
+    "HAP": "JFrog.yaml"
+    "GAP": "JFrog.yaml"
+    "BI": "JFrog.yaml"
+    "BAP": "JFrog.yaml"

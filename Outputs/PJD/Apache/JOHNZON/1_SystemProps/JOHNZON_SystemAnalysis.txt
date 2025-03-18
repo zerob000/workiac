@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2014-06-27 12:24:10 End date: 2021-12-15 19:37:02
+System: {'JOHNZON': 352}
+Types: {'Improvement': 69, 'Bug': 212, 'Task': 33, 'New Feature': 34, 'Wish': 3, 'Test': 1}
+Resolutions: {'': 31, 'Fixed': 304, 'Duplicate': 2, 'Abandoned': 1, 'Auto Closed': 1, "Won't Fix": 5, 'Not A Problem': 6, "Won't Do": 1, 'Done': 1}
+Statuses: {'Open': 29, 'Resolved': 169, 'Closed': 152, 'Reopened': 1, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 33.0 days
+Average Lead Time (Bug): 24.1 days
+Average Lead Time (Task): 30.6 days
+Average Lead Time (Improvement): 34.9 days
+Average Lead Time (New Feature): 67.8 days
+Average Lead Time (Wish): 191.0 days
+Average Lead Time (Test): 4.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-06 19:37:02 End date: 2021-12-15 19:37:02
+System: {'JOHNZON': 6}
+Types: {'Improvement': 1, 'Bug': 2, 'Task': 3}
+Resolutions: {'': 2, 'Fixed': 4}
+Statuses: {'Open': 2, 'Resolved': 4}
+
+Average Lead Time (all PBIs): 0.0 days
+Average Lead Time (Bug): 0.0 days
+Average Lead Time (Task): 0.0 days

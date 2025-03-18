@@ -1,0 +1,35 @@
+All PBIS - Unfiltered 
+Start date: 2010-09-23 01:37:53 End date: 2021-12-27 16:04:28
+System: {'ISIS': 2858}
+Types: {'Bug': 811, 'Improvement': 1351, 'New Feature': 529, 'Task': 93, 'Dependency upgrade': 20, 'Documentation': 13, 'Wish': 21, 'Test': 4, 'Question': 7, 'Proposal': 2, 'Umbrella': 6, 'Brainstorming': 1}
+Resolutions: {'Fixed': 2105, 'Resolved': 113, "Won't Do": 3, '': 257, 'Not A Problem': 32, 'Not A Bug': 2, 'Duplicate': 62, 'Invalid': 29, "Won't Fix": 197, 'Implemented': 19, 'Cannot Reproduce': 21, 'Done': 8, 'Incomplete': 3, 'Workaround': 1, 'Works for Me': 1, 'Later': 5}
+Statuses: {'Closed': 2403, 'Resolved': 198, 'Open': 240, 'In Progress': 12, 'Reopened': 5}
+
+Average Lead Time (all PBIs): 179.1 days
+Average Lead Time (Bug): 91.7 days
+Average Lead Time (Improvement): 168.9 days
+Average Lead Time (New Feature): 320.4 days
+Average Lead Time (Task): 150.8 days
+Average Lead Time (Dependency upgrade): 118.1 days
+Average Lead Time (Documentation): 247.8 days
+Average Lead Time (Test): 191.0 days
+Average Lead Time (Question): 930.1 days
+Average Lead Time (Wish): 681.2 days
+Average Lead Time (Umbrella): 880.5 days
+Average Lead Time (Brainstorming): 868.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-18 16:04:28 End date: 2021-12-27 16:04:28
+System: {'ISIS': 81}
+Types: {'Bug': 32, 'Improvement': 32, 'New Feature': 15, 'Task': 1, 'Dependency upgrade': 1}
+Resolutions: {'Fixed': 26, 'Resolved': 21, "Won't Do": 1, '': 26, 'Not A Problem': 2, 'Not A Bug': 1, 'Duplicate': 2, "Won't Fix": 2}
+Statuses: {'Closed': 25, 'Resolved': 30, 'Open': 22, 'In Progress': 4}
+
+Average Lead Time (all PBIs): 72.1 days
+Average Lead Time (Bug): 60.9 days
+Average Lead Time (Improvement): 56.0 days
+Average Lead Time (New Feature): 314.0 days
+Average Lead Time (Task): 68.0 days
+Average Lead Time (Dependency upgrade): 5.0 days

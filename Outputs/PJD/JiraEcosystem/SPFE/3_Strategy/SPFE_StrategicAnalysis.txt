@@ -1,0 +1,73 @@
+
+System Name: SPFE
+System Duration (Captured): 1024 days
+
+Calculated Final System Size: 167 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 167 PBIs
+
+Model Final System Size: 153 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 153 PBIs
+
+% Error, Final backlog, model vs actual: 8.0%
+Error, Final backlog, model vs actual: -14 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 578 PBIs
+Total Unplanned Arrivals: 69 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 92 PBIs
+Total Net Arrivals: 555 PBIs
+Total Services: 388 PBIs
+
+Rates:
+Planned Arrival Rate: 0.626 PBIs/day
+Unplanned Arrival Rate: 0.122 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.195 PBIs/day
+Net Arrival Rate: 0.553 PBIs/day
+Service Rate: 0.41 PBIs/day
+
+
+Metrics:
+Stability: 0.741
+Quality: 0.837
+Control: 0.739
+Inventory Days: 407.317 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 98 days
+
+Calculated Final System Size: 167 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 167 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 99 PBIs
+Unplanned Arrivals in this period: 5 PBIs
+Cancelled/Rejected/Won't Do  in this period: 7 PBIs
+System size change in this period: 2 PBIs
+Net Arrivals in this period: 97 PBIs
+Services in this period: 96 PBIs
+
+Rates:
+Planned Arrival Rate: 1.111 PBIs/day
+Unplanned Arrival Rate: 0.054 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.141 PBIs/day
+Net Arrival Rate: 1.045 PBIs/day
+Service Rate: 1.148 PBIs/day
+
+Metrics:
+Stability: 1.121
+Quality: 0.954
+Control: 0.879
+Inventory Days: 145.47 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

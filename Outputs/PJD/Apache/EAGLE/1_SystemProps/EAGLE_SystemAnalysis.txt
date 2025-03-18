@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2015-11-03 02:26:59 End date: 2020-11-20 08:08:31
+System: {'EAGLE': 1003}
+Types: {'Bug': 407, 'New Feature': 146, 'Improvement': 371, 'Task': 69, 'Test': 10}
+Resolutions: {'': 259, 'Fixed': 607, 'Cannot Reproduce': 3, 'Not A Problem': 12, 'Not A Bug': 3, 'Done': 25, 'Resolved': 59, "Won't Fix": 24, 'Invalid': 1, 'Duplicate': 8, 'Implemented': 2}
+Statuses: {'Open': 242, 'Resolved': 409, 'In Progress': 11, 'Closed': 335, 'Reopened': 6}
+
+Average Lead Time (all PBIs): 64.0 days
+Average Lead Time (Improvement): 63.7 days
+Average Lead Time (Bug): 51.6 days
+Average Lead Time (Task): 54.5 days
+Average Lead Time (New Feature): 109.6 days
+Average Lead Time (Test): 75.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-08-12 08:08:31 End date: 2020-11-20 08:08:31
+System: {'EAGLE': 3}
+Types: {'Bug': 3}
+Resolutions: {'': 3}
+Statuses: {'Open': 3}
+
+No PBIs resolved in last 100 days.

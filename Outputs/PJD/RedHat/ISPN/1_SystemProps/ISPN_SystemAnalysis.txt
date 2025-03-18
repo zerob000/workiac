@@ -1,0 +1,33 @@
+All PBIS - Unfiltered 
+Start date: 2009-03-03 10:56:12 End date: 2022-01-04 17:23:41
+System: {'ISPN': 12284}
+Types: {'Component Upgrade': 557, 'Bug': 6406, 'Enhancement': 2489, 'Task': 1318, 'Feature Request': 1500, 'Quality Risk': 7, 'Patch': 6, 'Release': 1}
+Resolutions: {'': 1744, 'Done': 8746, 'Duplicate Issue': 435, 'Explained': 25, 'Fixed': 2, 'Not a Bug': 4, 'Duplicate': 7, 'Rejected': 303, 'Out of Date': 667, "Won't Do": 62, 'Cannot Reproduce': 83, 'Incomplete': 1, "Won't Fix": 168, 'Deferred': 18, 'Incomplete Description': 9, 'Partially Completed': 6, 'Migrated to another ITS': 4}
+Statuses: {'New': 1185, 'Pull Request Sent': 37, 'Resolved': 810, 'Closed': 9730, 'Open': 475, 'Coding In Progress': 21, 'Reopened': 26}
+
+Average Lead Time (all PBIs): 164.9 days
+Average Lead Time (Bug): 150.6 days
+Average Lead Time (Component Upgrade): 28.5 days
+Average Lead Time (Enhancement): 143.2 days
+Average Lead Time (Task): 165.4 days
+Average Lead Time (Quality Risk): 321.0 days
+Average Lead Time (Feature Request): 333.7 days
+Average Lead Time (Patch): 84.8 days
+Average Lead Time (Release): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 17:23:41 End date: 2022-01-04 17:23:41
+System: {'ISPN': 319}
+Types: {'Component Upgrade': 11, 'Bug': 159, 'Enhancement': 109, 'Task': 17, 'Feature Request': 22, 'Quality Risk': 1}
+Resolutions: {'': 113, 'Done': 186, 'Duplicate Issue': 5, 'Explained': 2, 'Fixed': 2, 'Not a Bug': 1, 'Duplicate': 1, 'Rejected': 2, "Won't Do": 1, 'Incomplete': 1, 'Out of Date': 5}
+Statuses: {'New': 85, 'Pull Request Sent': 14, 'Resolved': 103, 'Closed': 103, 'Open': 11, 'Coding In Progress': 3}
+
+Average Lead Time (all PBIs): 119.5 days
+Average Lead Time (Bug): 153.7 days
+Average Lead Time (Component Upgrade): 11.2 days
+Average Lead Time (Enhancement): 71.9 days
+Average Lead Time (Task): 142.1 days
+Average Lead Time (Quality Risk): 0.0 days
+Average Lead Time (Feature Request): 134.8 days

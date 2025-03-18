@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2011-07-18 06:15:49 End date: 2021-11-29 09:20:53
+System: {'HAL': 1519}
+Types: {'Bug': 927, 'Feature Request': 271, 'Task': 76, 'Enhancement': 245}
+Resolutions: {'Done': 1132, '': 99, 'Cannot Reproduce': 49, 'Duplicate Issue': 52, 'Out of Date': 74, 'Rejected': 40, 'Deferred': 6, 'Duplicate': 1, 'Partially Completed': 4, 'Explained': 4, "Won't Do": 8, "Won't Fix": 49, 'Migrated to another ITS': 1}
+Statuses: {'Resolved': 1263, 'Pull Request Sent': 9, 'Open': 82, 'Closed': 157, 'Coding In Progress': 6, 'Reopened': 2}
+
+Average Lead Time (all PBIs): 180.6 days
+Average Lead Time (Bug): 109.2 days
+Average Lead Time (Enhancement): 311.6 days
+Average Lead Time (Task): 214.2 days
+Average Lead Time (Feature Request): 332.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-08-21 09:20:53 End date: 2021-11-29 09:20:53
+System: {'HAL': 15}
+Types: {'Bug': 6, 'Feature Request': 7, 'Task': 1, 'Enhancement': 1}
+Resolutions: {'Done': 10, '': 3, 'Cannot Reproduce': 1, 'Duplicate': 1}
+Statuses: {'Resolved': 12, 'Pull Request Sent': 1, 'Open': 2}
+
+Average Lead Time (all PBIs): 394.8 days
+Average Lead Time (Bug): 4.0 days
+Average Lead Time (Enhancement): 209.0 days
+Average Lead Time (Feature Request): 751.3 days

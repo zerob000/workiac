@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2005-03-03 19:04:50 End date: 2015-12-25 11:49:10
+System: {'MECLIPSE': 721}
+Types: {'Task': 10, 'Bug': 471, 'New Feature': 71, 'Improvement': 155, 'Wish': 11, 'Test': 3}
+Resolutions: {"Won't Fix": 277, 'Fixed': 229, 'Not A Problem': 29, 'Auto Closed': 110, 'Incomplete': 6, 'Duplicate': 62, 'Cannot Reproduce': 8}
+Statuses: {'Closed': 721}
+
+Average Lead Time (all PBIs): 1172.4 days
+Average Lead Time (Task): 1087.7 days
+Average Lead Time (Bug): 1020.4 days
+Average Lead Time (New Feature): 1392.1 days
+Average Lead Time (Improvement): 1478.0 days
+Average Lead Time (Wish): 1841.3 days
+Average Lead Time (Test): 1878.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2015-09-16 11:49:10 End date: 2015-12-25 11:49:10
+System: {'MECLIPSE': 59}
+Types: {'Task': 3, 'Bug': 31, 'New Feature': 10, 'Improvement': 15}
+Resolutions: {"Won't Fix": 59}
+Statuses: {'Closed': 59}
+
+Average Lead Time (all PBIs): 1784.6 days
+Average Lead Time (Task): 877.3 days
+Average Lead Time (Bug): 1608.1 days
+Average Lead Time (New Feature): 1961.6 days
+Average Lead Time (Improvement): 2213.0 days

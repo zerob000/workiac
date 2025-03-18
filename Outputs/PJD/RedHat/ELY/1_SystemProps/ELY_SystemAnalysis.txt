@@ -1,0 +1,34 @@
+All PBIS - Unfiltered 
+Start date: 2011-09-02 11:18:52 End date: 2022-01-04 19:36:33
+System: {'ELY': 2037}
+Types: {'Release': 212, 'Task': 419, 'Component Upgrade': 52, 'Bug': 840, 'Enhancement': 288, 'Feature Request': 220, 'Clarification': 4, 'Requirement': 1, 'Tracker': 1}
+Resolutions: {'Done': 1549, '': 238, "Won't Do": 6, 'Migrated to another ITS': 7, 'Obsolete': 1, 'Not a Bug': 3, 'Duplicate Issue': 39, 'Explained': 4, 'Rejected': 74, 'Out of Date': 91, 'Cannot Reproduce': 5, "Won't Fix": 15, 'Deferred': 3, 'Resolved at Apache': 1, 'Partially Completed': 1}
+Statuses: {'Resolved': 1722, 'Pull Request Sent': 14, 'Open': 218, 'Closed': 77, 'Coding In Progress': 3, 'Reopened': 3}
+
+Average Lead Time (all PBIs): 99.7 days
+Average Lead Time (Release): 3.4 days
+Average Lead Time (Component Upgrade): 7.8 days
+Average Lead Time (Task): 142.3 days
+Average Lead Time (Bug): 95.4 days
+Average Lead Time (Feature Request): 197.6 days
+Average Lead Time (Enhancement): 91.0 days
+Average Lead Time (Clarification): 0.0 days
+Average Lead Time (Requirement): 588.0 days
+Average Lead Time (Tracker): 586.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 19:36:33 End date: 2022-01-04 19:36:33
+System: {'ELY': 82}
+Types: {'Release': 7, 'Task': 33, 'Component Upgrade': 10, 'Bug': 24, 'Enhancement': 4, 'Feature Request': 4}
+Resolutions: {'Done': 64, '': 16, "Won't Do": 1, 'Migrated to another ITS': 1}
+Statuses: {'Resolved': 64, 'Pull Request Sent': 3, 'Open': 11, 'Closed': 2, 'Coding In Progress': 2}
+
+Average Lead Time (all PBIs): 46.2 days
+Average Lead Time (Release): 0.0 days
+Average Lead Time (Component Upgrade): 5.2 days
+Average Lead Time (Task): 37.5 days
+Average Lead Time (Bug): 96.7 days
+Average Lead Time (Feature Request): 12.5 days
+Average Lead Time (Enhancement): 55.3 days

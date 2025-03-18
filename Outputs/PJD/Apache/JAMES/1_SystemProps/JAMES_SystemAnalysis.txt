@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2001-06-03 11:06:50 End date: 2022-01-04 04:58:28
+System: {'JAMES': 3316}
+Types: {'Improvement': 1125, 'Bug': 1348, 'Wish': 34, 'New Feature': 470, 'Task': 302, 'Test': 37}
+Resolutions: {'': 306, 'Fixed': 2586, 'Duplicate': 58, 'Done': 65, 'Not A Problem': 23, 'Invalid': 55, 'Resolved': 1, 'Not A Bug': 7, 'Feedback Received': 1, 'Later': 1, 'Abandoned': 49, "Won't Fix": 95, 'Incomplete': 25, 'Works for Me': 1, 'Cannot Reproduce': 39, 'Workaround': 1, 'Delivered': 1, "Won't Do": 2}
+Statuses: {'Open': 300, 'Resolved': 796, 'Closed': 2214, 'Reopened': 5, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 252.0 days
+Average Lead Time (Improvement): 190.6 days
+Average Lead Time (Bug): 292.0 days
+Average Lead Time (New Feature): 269.1 days
+Average Lead Time (Task): 261.7 days
+Average Lead Time (Wish): 542.1 days
+Average Lead Time (Test): 92.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 04:58:28 End date: 2022-01-04 04:58:28
+System: {'JAMES': 43}
+Types: {'Improvement': 31, 'Bug': 11, 'New Feature': 1}
+Resolutions: {'': 10, 'Fixed': 27, 'Duplicate': 1, 'Done': 4, "Won't Fix": 1}
+Statuses: {'Open': 10, 'Resolved': 8, 'Closed': 25}
+
+Average Lead Time (all PBIs): 578.2 days
+Average Lead Time (Improvement): 311.7 days
+Average Lead Time (Bug): 776.5 days
+Average Lead Time (New Feature): 5386.0 days

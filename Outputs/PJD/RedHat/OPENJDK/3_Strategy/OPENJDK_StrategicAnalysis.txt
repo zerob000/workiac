@@ -1,0 +1,73 @@
+
+System Name: OPENJDK
+System Duration (Captured): 1771 days
+
+Calculated Final System Size: 82 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 82 PBIs
+
+Model Final System Size: 81 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 81 PBIs
+
+% Error, Final backlog, model vs actual: 1.0%
+Error, Final backlog, model vs actual: -1 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 196 PBIs
+Total Unplanned Arrivals: 119 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 17 PBIs
+Total Net Arrivals: 298 PBIs
+Total Services: 216 PBIs
+
+Rates:
+Planned Arrival Rate: 0.202 PBIs/day
+Unplanned Arrival Rate: 0.079 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.018 PBIs/day
+Net Arrival Rate: 0.263 PBIs/day
+Service Rate: 0.257 PBIs/day
+
+
+Metrics:
+Stability: 0.977
+Quality: 0.719
+Control: 0.936
+Inventory Days: 319.066 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 97 days
+
+Calculated Final System Size: 82 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 82 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 15 PBIs
+Unplanned Arrivals in this period: 13 PBIs
+Cancelled/Rejected/Won't Do  in this period: 4 PBIs
+System size change in this period: -12 PBIs
+Net Arrivals in this period: 24 PBIs
+Services in this period: 35 PBIs
+
+Rates:
+Planned Arrival Rate: 0.223 PBIs/day
+Unplanned Arrival Rate: 0.179 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.169 PBIs/day
+Net Arrival Rate: 0.336 PBIs/day
+Service Rate: 0.471 PBIs/day
+
+Metrics:
+Stability: 2.021
+Quality: 0.555
+Control: 0.58
+Inventory Days: 174.098 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

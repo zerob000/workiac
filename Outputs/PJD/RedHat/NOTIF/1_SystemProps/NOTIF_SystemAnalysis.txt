@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2020-05-11 12:37:52 End date: 2022-01-04 13:43:44
+System: {'NOTIF': 395}
+Types: {'Task': 196, 'Bug': 115, 'Story': 62, 'QE Task': 22}
+Resolutions: {'Done': 269, '': 96, 'Duplicate Issue': 4, 'Incomplete': 1, 'Rejected': 4, 'Out of Date': 6, 'Upstream': 1, 'Duplicate': 3, 'Not a Bug': 3, "Won't Do": 4, 'Cannot Reproduce': 1, 'Obsolete': 1, "Won't Fix": 1, 'Fixed': 1}
+Statuses: {'Done': 268, 'Backlog': 76, 'In Review': 3, 'In Progress': 6, 'Selected for Development': 11, 'Rejected': 31}
+
+Average Lead Time (all PBIs): 46.5 days
+Average Lead Time (Task): 41.4 days
+Average Lead Time (QE Task): 39.8 days
+Average Lead Time (Story): 66.7 days
+Average Lead Time (Bug): 43.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 13:43:44 End date: 2022-01-04 13:43:44
+System: {'NOTIF': 135}
+Types: {'Task': 84, 'Bug': 29, 'Story': 14, 'QE Task': 8}
+Resolutions: {'Done': 68, '': 56, 'Duplicate Issue': 2, 'Incomplete': 1, 'Rejected': 1, 'Out of Date': 1, 'Duplicate': 1, "Won't Do": 3, 'Not a Bug': 1, "Won't Fix": 1}
+Statuses: {'Done': 67, 'Backlog': 48, 'In Review': 1, 'In Progress': 3, 'Selected for Development': 4, 'Rejected': 12}
+
+Average Lead Time (all PBIs): 64.6 days
+Average Lead Time (Task): 46.1 days
+Average Lead Time (QE Task): 17.5 days
+Average Lead Time (Story): 104.6 days
+Average Lead Time (Bug): 97.5 days

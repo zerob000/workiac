@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2016-01-27 17:07:31 End date: 2019-11-20 16:34:16
+System: {'ERT': 681}
+Types: {'Task': 602, 'Feature Request': 8, 'Bug': 45, 'Enhancement': 26}
+Resolutions: {'': 150, 'Done': 507, "Won't Fix": 1, 'Duplicate Issue': 12, 'Deferred': 2, "Won't Do": 1, 'Out of Date': 1, 'Rejected': 2, 'Cannot Reproduce': 4, 'Migrated to another ITS': 1}
+Statuses: {'Open': 137, 'Resolved': 469, 'Closed': 62, 'Coding In Progress': 11, 'Pull Request Sent': 1, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 43.2 days
+Average Lead Time (Task): 42.9 days
+Average Lead Time (Enhancement): 44.8 days
+Average Lead Time (Bug): 39.6 days
+Average Lead Time (Feature Request): 83.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2019-08-12 16:34:16 End date: 2019-11-20 16:34:16
+System: {'ERT': 22}
+Types: {'Task': 22}
+Resolutions: {'': 2, 'Done': 20}
+Statuses: {'Open': 2, 'Resolved': 20}
+
+Average Lead Time (all PBIs): 2.7 days
+Average Lead Time (Task): 2.7 days

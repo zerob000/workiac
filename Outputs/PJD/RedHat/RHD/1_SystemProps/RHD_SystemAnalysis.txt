@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2015-02-23 05:23:46 End date: 2021-06-22 21:07:58
+System: {'RHD': 410}
+Types: {'Story': 300, 'Bug': 98, 'Initiative': 12}
+Resolutions: {'Done': 237, 'Migrated to another ITS': 2, '': 95, 'Out of Date': 39, 'Rejected': 5, 'Duplicate Issue': 20, 'Cannot Reproduce': 3, 'Deferred': 3, "Won't Do": 2, "Won't Fix": 1, 'Partially Completed': 2, 'Incomplete Description': 1}
+Statuses: {'Done': 315, 'In Review': 4, 'To Do': 87, 'In Progress': 3, 'Undefined': 1}
+
+Average Lead Time (all PBIs): 164.4 days
+Average Lead Time (Story): 169.5 days
+Average Lead Time (Bug): 144.8 days
+Average Lead Time (Initiative): 173.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-03-14 21:07:58 End date: 2021-06-22 21:07:58
+System: {'RHD': 4}
+Types: {'Story': 4}
+Resolutions: {'Done': 4}
+Statuses: {'Done': 4}
+
+Average Lead Time (all PBIs): 1833.5 days
+Average Lead Time (Story): 1833.5 days

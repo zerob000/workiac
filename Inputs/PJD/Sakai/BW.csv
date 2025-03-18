@@ -1,0 +1,168 @@
+Key,ID,Project,IssueType,IsSubtask,Status,Resolution,Created Date,Resolved Date
+BW-177,63447,BW,Bug,false,Open,,2021-10-19 11:16:50,
+BW-176,11188,BW,Bug,false,Resolved,Fixed,2020-07-24 05:33:58,2021-03-27 19:35:24
+BW-175,11133,BW,Feature Request,false,Open,,2020-05-27 02:58:57,
+BW-174,11075,BW,Bug,false,Open,,2020-05-11 20:15:09,
+BW-173,11036,BW,Bug,false,In Progress,,2020-05-11 19:33:53,
+BW-172,11031,BW,Bug,false,Resolved,Fixed,2020-01-25 23:09:01,2020-02-14 06:10:16
+BW-171,11193,BW,Bug,false,Resolved,Fixed,2018-06-30 22:35:36,2018-11-14 17:55:55
+BW-170,11123,BW,Bug,false,Resolved,Fixed,2018-01-26 21:07:17,2018-11-14 17:53:04
+BW-169,11070,BW,Bug,false,Resolved,Fixed,2017-11-13 02:15:55,2018-01-23 05:21:49
+BW-168,11130,BW,Bug,false,Resolved,Duplicate,2017-08-02 08:56:45,2018-01-26 21:36:35
+BW-158,11076,BW,Bug,false,Resolved,Fixed,2016-12-27 08:00:11,2018-01-25 22:48:37
+BW-157,11072,BW,Bug,false,Resolved,Fixed,2015-09-22 04:17:13,2016-09-19 20:23:35
+BW-156,11174,BW,Bug,false,Resolved,Fixed,2015-02-26 05:55:43,2015-02-26 05:57:37
+BW-155,11170,BW,Task,false,Resolved,Fixed,2014-05-15 02:47:53,2014-05-18 00:31:45
+BW-154,11190,BW,Bug,false,Resolved,Fixed,2014-04-09 21:40:21,2014-05-17 23:09:39
+BW-153,11068,BW,Bug,false,Open,,2013-09-18 10:47:37,
+BW-152,11065,BW,Bug,false,Open,,2013-09-18 10:46:38,
+BW-151,11081,BW,Bug,false,Open,,2013-09-18 10:45:43,
+BW-150,11184,BW,Bug,false,Open,,2013-09-18 10:44:37,
+BW-149,11186,BW,Bug,false,Open,,2013-09-18 10:41:57,
+BW-148,11165,BW,Bug,false,Open,,2013-09-18 10:39:08,
+BW-147,11120,BW,Bug,false,Open,,2013-09-18 10:37:33,
+BW-146,11118,BW,Bug,false,Open,,2013-09-18 10:34:42,
+BW-145,11063,BW,Feature Request,false,Open,,2013-07-30 04:45:31,
+BW-144,11060,BW,Bug,false,Resolved,Fixed,2013-05-22 04:41:27,2013-05-22 04:43:47
+BW-143,11126,BW,Bug,false,Resolved,Fixed,2013-04-25 03:54:01,2013-04-25 03:54:24
+BW-142,11058,BW,Bug,false,Resolved,Fixed,2013-02-26 21:11:48,2013-08-08 05:41:44
+BW-141,11181,BW,Bug,false,Resolved,Fixed,2012-12-18 03:28:18,2013-06-27 04:54:42
+BW-140,11054,BW,(Deprecated) Contributed Patch,false,Resolved,Fixed,2012-12-12 01:31:15,2013-03-18 07:58:20
+BW-139,11049,BW,Bug,false,Open,,2012-11-30 06:52:35,
+BW-138,11112,BW,Bug,false,Resolved,Fixed,2012-10-18 08:43:24,2012-10-18 08:44:47
+BW-137,11113,BW,Bug,false,Closed,Non-Issue,2012-08-13 20:57:19,2016-09-20 04:04:59
+BW-136,11109,BW,Bug,false,Resolved,Fixed,2012-08-13 20:50:06,2012-08-13 20:53:24
+BW-135,11161,BW,Feature Request,false,Open,,2012-07-05 03:40:58,
+BW-134,11180,BW,Feature Request,false,Resolved,Fixed,2012-05-30 09:43:45,2012-05-30 09:58:38
+BW-133,11056,BW,Feature Request,false,Resolved,Fixed,2012-05-28 04:36:27,2012-10-18 06:25:10
+BW-132,11110,BW,Task,false,Resolved,Fixed,2012-05-28 01:26:41,2012-05-28 01:29:15
+BW-131,11106,BW,Bug,false,Resolved,Fixed,2012-05-15 02:38:32,2012-10-18 06:25:44
+BW-130,11176,BW,Feature Request,false,Resolved,Fixed,2012-04-30 05:56:06,2012-05-27 23:05:04
+BW-129,11177,BW,Feature Request,false,Resolved,Fixed,2012-04-30 05:55:19,2012-05-15 04:48:17
+BW-128,11173,BW,Task,false,Closed,Duplicate,2012-03-28 11:17:14,2012-05-28 01:45:50
+BW-127,11171,BW,Feature Request,false,Open,,2012-03-14 02:04:02,
+BW-126,11044,BW,Task,false,Resolved,Fixed,2012-02-20 10:52:52,2012-02-20 10:53:32
+BW-125,11077,BW,Task,false,Resolved,Fixed,2012-02-20 10:33:02,2012-02-20 10:38:14
+BW-124,11115,BW,Bug,false,Resolved,Fixed,2011-12-15 10:05:04,2011-12-15 10:05:40
+BW-123,11167,BW,Branch,false,Resolved,Fixed,2011-07-16 11:27:05,2011-07-16 11:27:20
+BW-122,11169,BW,Task,false,Resolved,Fixed,2011-07-16 10:55:50,2011-07-16 10:56:11
+BW-121,11157,BW,Bug,false,Resolved,Fixed,2011-07-16 09:19:48,2011-07-16 09:20:22
+BW-120,11111,BW,Bug,false,Resolved,Fixed,2011-07-16 07:06:28,2011-07-16 07:06:48
+BW-119,11101,BW,Bug,false,Resolved,Fixed,2011-07-16 05:21:11,2011-07-16 05:21:51
+BW-118,11038,BW,Bug,false,Open,,2011-05-18 07:38:36,
+BW-117,11096,BW,Bug,false,Resolved,Cannot Reproduce,2011-05-09 03:32:37,2012-02-20 10:44:40
+BW-116,11105,BW,Task,false,Resolved,Fixed,2011-05-09 03:14:30,2011-05-09 03:15:36
+BW-115,11093,BW,Bug,false,Resolved,Fixed,2011-05-02 22:00:41,2011-05-09 03:20:03
+BW-114,11163,BW,Feature Request,false,Open,,2011-04-18 20:49:34,
+BW-113,11137,BW,Bug,false,Resolved,Fixed,2011-03-30 11:45:04,2011-07-16 07:55:50
+BW-112,11166,BW,Task,false,Resolved,Won't Fix,2011-01-03 10:16:52,2011-07-16 08:22:15
+BW-111,11034,BW,Bug,false,Resolved,Fixed,2010-11-10 07:16:52,2010-11-10 07:17:29
+BW-110,11084,BW,Bug,false,Closed,Duplicate,2010-09-20 00:22:00,2010-09-20 00:49:36
+BW-109,11122,BW,(Deprecated) Contributed Patch,false,Resolved,Fixed,2010-08-30 14:30:11,2011-07-16 06:21:29
+BW-108,11107,BW,Bug,false,Resolved,Fixed,2010-07-14 12:39:07,2010-08-30 13:51:17
+BW-107,11073,BW,Bug,false,Closed,Won't Fix,2010-06-27 20:58:06,2013-11-25 22:13:43
+BW-106,11080,BW,Bug,false,Resolved,Fixed,2010-06-23 04:38:20,2010-07-16 03:31:16
+BW-105,11069,BW,Bug,false,Closed,Won't Fix,2010-06-22 21:07:24,2013-11-25 22:12:57
+BW-104,11160,BW,Bug,false,Resolved,Fixed,2010-06-22 20:33:19,2010-07-14 14:14:57
+BW-103,11078,BW,Feature Request,false,Open,,2010-03-16 10:57:04,
+BW-102,11156,BW,Bug,false,Resolved,Duplicate,2010-03-16 10:49:27,2010-03-17 03:56:59
+BW-101,11162,BW,Feature Request,false,Open,,2010-03-16 10:38:46,
+BW-100,11102,BW,Bug,false,Closed,Fixed,2010-02-22 12:22:50,2010-02-23 03:49:53
+BW-99,11117,BW,Feature Request,false,Resolved,Won't Fix,2010-02-22 12:00:55,2015-03-19 09:22:39
+BW-98,11052,BW,Bug,false,Resolved,Fixed,2010-02-22 11:59:47,2011-07-16 08:07:27
+BW-97,11134,BW,Bug,false,Closed,Fixed,2009-11-05 03:07:14,2009-11-05 03:30:11
+BW-96,11048,BW,Bug,false,Resolved,Fixed,2009-07-27 23:50:49,2009-07-28 04:20:36
+BW-95,11153,BW,Bug,false,Resolved,Fixed,2009-07-10 03:51:27,2011-07-16 10:36:17
+BW-94,11131,BW,Bug,false,Closed,Duplicate,2009-07-10 03:07:59,2010-02-17 01:55:45
+BW-93,11150,BW,Feature Request,false,Open,,2009-04-29 06:14:35,
+BW-92,11074,BW,Bug,false,Closed,Duplicate,2009-04-07 09:16:27,2010-02-17 01:54:53
+BW-91,11066,BW,Bug,false,Closed,Fixed,2009-04-07 08:54:45,2009-04-07 09:54:28
+BW-90,11045,BW,Bug,false,Resolved,Cannot Reproduce,2009-04-01 15:39:59,2010-02-22 11:55:46
+BW-89,11149,BW,Bug,false,Closed,Fixed,2009-03-20 11:04:42,2009-04-16 07:11:54
+BW-88,11062,BW,Bug,false,Resolved,Fixed,2009-03-16 21:00:51,2011-07-16 08:36:19
+BW-87,11146,BW,Bug,false,Open,,2009-03-16 10:07:22,
+BW-86,11114,BW,Bug,false,Open,,2009-03-01 22:26:46,
+BW-85,11152,BW,Bug,false,Resolved,Cannot Reproduce,2009-02-02 21:59:00,2010-02-22 12:13:02
+BW-84,11103,BW,Bug,false,Resolved,Fixed,2009-01-30 21:50:01,2009-01-30 22:08:44
+BW-83,11098,BW,Task,false,Closed,Won't Fix,2009-01-19 05:17:13,2016-09-20 04:05:49
+BW-82,11158,BW,Task,false,Resolved,Fixed,2009-01-08 09:16:39,2009-01-09 06:47:11
+BW-81,11154,BW,Feature Request,false,Open,,2008-12-02 00:16:24,
+BW-80,11059,BW,Feature Request,false,Resolved,Won't Fix,2008-12-08 19:41:22,2011-07-16 05:14:57
+BW-79,11057,BW,Feature Request,false,Open,,2008-11-17 05:23:16,
+BW-78,11192,BW,Feature Request,false,Closed,Duplicate,2008-11-17 05:01:49,2008-11-17 05:17:52
+BW-77,11094,BW,Feature Request,false,Open,,2008-11-17 04:27:32,
+BW-76,11148,BW,Bug,false,Closed,Fixed,2008-10-30 04:58:19,2009-09-17 04:50:22
+BW-75,11071,BW,Bug,false,Closed,Fixed,2008-09-28 23:44:20,2009-01-19 21:54:41
+BW-74,11196,BW,Bug,false,Resolved,Fixed,2008-09-11 20:51:18,2010-02-17 01:51:40
+BW-73,11108,BW,Bug,false,Closed,Non-Issue,2008-09-10 20:54:08,2008-09-11 21:27:33
+BW-72,11128,BW,Bug,false,Closed,Fixed,2008-08-27 03:50:59,2009-02-03 00:07:02
+BW-71,11099,BW,Bug,false,Closed,Fixed,2008-08-27 03:39:01,2008-08-27 04:42:41
+BW-70,11041,BW,Bug,false,Resolved,Fixed,2008-08-27 01:54:34,2009-01-19 21:58:25
+BW-69,11143,BW,Bug,false,Closed,Fixed,2008-08-26 23:51:34,2012-05-28 01:39:54
+BW-68,11095,BW,Bug,false,Closed,Fixed,2008-08-26 22:33:46,2012-05-28 01:40:22
+BW-67,11145,BW,Feature Request,false,Resolved,Fixed,2008-08-19 21:28:45,2008-08-19 22:03:27
+BW-66,11091,BW,Bug,false,Resolved,Fixed,2008-07-31 12:47:34,2011-07-16 11:12:36
+BW-65,11142,BW,Bug,false,Closed,Fixed,2008-07-21 05:27:31,2012-05-28 01:40:47
+BW-64,11104,BW,Bug,false,Resolved,Fixed,2008-07-18 01:49:38,2008-07-18 02:20:18
+BW-63,11189,BW,Bug,false,Resolved,Fixed,2008-07-18 00:48:40,2009-01-20 04:56:34
+BW-62,11140,BW,Bug,false,Resolved,Fixed,2008-07-17 22:42:56,2009-01-19 22:43:08
+BW-61,11100,BW,Feature Request,false,Resolved,Won't Fix,2008-07-10 02:40:26,2010-10-31 06:36:11
+BW-60,11185,BW,Bug,false,Closed,Fixed,2008-07-09 21:52:09,2008-07-16 02:41:08
+BW-59,11053,BW,Bug,false,Closed,Fixed,2008-06-22 01:03:36,2008-07-16 02:50:09
+BW-58,11182,BW,Bug,false,Closed,Fixed,2008-06-22 00:51:50,2008-07-20 06:56:09
+BW-57,11125,BW,Feature Request,false,Resolved,Incorporated,2008-06-21 04:38:57,2011-07-16 09:10:36
+BW-56,11178,BW,Feature Request,false,Open,,2008-06-19 03:15:25,
+BW-55,11067,BW,Feature Request,false,Resolved,Fixed,2008-06-18 02:20:08,2008-07-17 23:43:29
+BW-54,11175,BW,Bug,false,Closed,Fixed,2008-06-18 02:15:05,2008-07-20 06:53:35
+BW-53,11194,BW,Task,false,Resolved,Fixed,2008-06-18 01:47:13,2008-06-18 02:09:43
+BW-52,11136,BW,Bug,false,Resolved,Fixed,2008-05-20 13:25:29,2008-05-20 23:37:06
+BW-51,11097,BW,Bug,false,Resolved,Fixed,2008-05-19 17:00:08,2008-08-27 03:32:55
+BW-50,11037,BW,Bug,false,Closed,Fixed,2008-05-19 15:01:40,2008-05-19 21:23:11
+BW-49,11033,BW,Bug,false,Resolved,Non-Issue,2008-05-18 14:56:26,2008-05-18 20:07:42
+BW-48,11147,BW,Feature Request,false,Resolved,Incorporated,2008-03-04 17:40:31,2010-02-22 12:20:39
+BW-47,11144,BW,Feature Request,false,Open,,2008-02-27 09:41:26,
+BW-46,11050,BW,Feature Request,false,Resolved,Fixed,2008-02-26 07:40:21,2009-01-08 03:25:32
+BW-45,11172,BW,Feature Request,false,Resolved,Won't Fix,2008-02-26 07:35:49,2010-10-31 06:36:51
+BW-44,11168,BW,Bug,false,Resolved,Fixed,2008-02-25 17:27:05,2011-07-16 09:55:32
+BW-43,11191,BW,Bug,false,Closed,Fixed,2008-02-25 17:23:32,2008-07-17 23:34:56
+BW-42,11090,BW,Bug,false,Closed,Fixed,2008-02-18 14:18:57,2010-02-17 01:43:12
+BW-41,11092,BW,Bug,false,Open,,2008-02-14 15:20:21,
+BW-40,11086,BW,Bug,false,Closed,Fixed,2008-01-14 05:38:15,2012-05-28 01:41:18
+BW-39,11064,BW,Bug,false,Closed,Fixed,2008-01-14 05:35:16,2008-01-24 08:48:20
+BW-38,11083,BW,Bug,false,Closed,Fixed,2008-01-02 00:19:43,2008-08-01 04:36:27
+BW-37,11089,BW,Task,false,Resolved,Fixed,2008-01-01 23:07:39,2009-01-19 22:40:49
+BW-36,11061,BW,Bug,false,Closed,Fixed,2008-01-01 22:34:34,2008-01-02 02:13:22
+BW-35,11046,BW,Bug,false,Resolved,Fixed,2008-01-01 22:33:10,2008-01-02 09:35:10
+BW-34,11139,BW,Bug,false,Closed,Fixed,2007-12-12 03:35:44,2007-12-12 03:40:51
+BW-33,11042,BW,Bug,false,Closed,Fixed,2007-11-29 15:50:24,2008-01-18 04:21:38
+BW-32,11164,BW,Bug,false,Closed,Fixed,2007-11-21 01:59:46,2008-04-17 01:42:31
+BW-31,11135,BW,Bug,false,Closed,Fixed,2007-11-17 20:35:28,2007-11-19 07:44:33
+BW-30,11121,BW,Bug,false,Closed,Fixed,2007-11-17 20:33:24,2007-11-19 07:42:47
+BW-29,11159,BW,Task,false,Closed,Fixed,2007-11-15 07:32:24,2008-09-24 08:41:14
+BW-27,11088,BW,Feature Request,false,Open,,2007-10-07 16:01:50,
+BW-26,11055,BW,Bug,false,Closed,Fixed,2007-10-07 15:54:31,2007-11-15 07:26:33
+BW-25,11051,BW,Feature Request,false,Open,,2007-09-26 08:09:42,
+BW-24,11119,BW,Bug,false,Closed,Fixed,2007-09-07 07:06:37,2007-10-22 04:10:25
+BW-23,11039,BW,Task,false,Resolved,Fixed,2007-07-23 04:51:52,2007-08-23 07:50:06
+BW-22,11116,BW,Feature Request,false,Resolved,Fixed,2007-07-18 07:53:15,2007-10-18 02:23:50
+BW-21,11129,BW,Bug,false,Resolved,Fixed,2007-07-16 03:20:37,2010-02-22 12:35:47
+BW-20,11132,BW,Feature Request,false,Open,,2007-07-16 02:41:58,
+BW-19,11141,BW,Feature Request,false,Resolved,Fixed,2007-07-16 02:04:44,2008-02-01 07:44:19
+BW-18,11079,BW,Bug,false,Resolved,Fixed,2007-07-16 01:57:18,2007-10-18 03:18:30
+BW-17,11087,BW,Bug,false,Resolved,Fixed,2007-07-16 01:46:01,2007-09-10 02:02:26
+BW-16,11047,BW,Bug,false,Open,,2007-07-16 01:35:23,
+BW-15,11155,BW,Bug,false,Closed,Fixed,2007-07-16 01:26:40,2007-11-01 07:35:38
+BW-14,11187,BW,Bug,false,Reopened,,2007-07-15 23:37:27,
+BW-13,11151,BW,Feature Request,false,Open,,2007-07-14 01:13:56,
+BW-12,11183,BW,Feature Request,false,Resolved,Fixed,2007-07-14 01:10:44,2008-02-01 07:35:53
+BW-11,11085,BW,Task,false,Resolved,Fixed,2007-07-13 08:19:15,2007-09-10 03:20:43
+BW-10,11043,BW,Task,false,Closed,Fixed,2007-07-13 08:13:59,2007-10-18 07:25:16
+BW-9,11035,BW,Bug,false,Resolved,Fixed,2007-07-13 08:11:57,2007-07-18 05:51:26
+BW-8,11195,BW,Bug,false,Closed,Fixed,2007-07-13 08:05:41,2008-01-24 10:22:39
+BW-7,11127,BW,Task,false,Closed,Fixed,2007-07-13 05:49:38,2007-11-05 10:07:12
+BW-6,11138,BW,Task,false,Open,,2007-07-13 05:46:29,
+BW-5,11082,BW,Feature Request,false,Open,,2007-07-13 05:11:05,
+BW-4,11040,BW,Task,false,Resolved,Fixed,2007-07-13 04:58:14,2007-07-18 04:14:24
+BW-3,11032,BW,Task,false,Resolved,Fixed,2007-07-13 04:58:03,2007-07-27 02:49:19
+BW-2,11124,BW,Bug,false,Closed,Fixed,2007-07-13 02:33:28,2007-11-02 03:29:30
+BW-1,11179,BW,Feature Request,false,Resolved,Fixed,2007-07-11 07:34:32,2007-11-05 10:07:54

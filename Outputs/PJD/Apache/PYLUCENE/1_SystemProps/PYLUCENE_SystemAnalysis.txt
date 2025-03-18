@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2009-03-13 18:01:21 End date: 2021-12-12 03:10:11
+System: {'PYLUCENE': 61}
+Types: {'Bug': 46, 'Blog - New Blog Request': 1, 'Improvement': 9, 'Task': 2, 'Question': 2, 'Wish': 1}
+Resolutions: {'Fixed': 31, 'Invalid': 5, 'Workaround': 1, '': 15, 'Not A Bug': 1, 'Cannot Reproduce': 4, 'Not A Problem': 2, 'Implemented': 1, "Won't Fix": 1}
+Statuses: {'Resolved': 40, 'Closed': 6, 'Open': 15}
+
+Average Lead Time (all PBIs): 104.7 days
+Average Lead Time (Bug): 128.6 days
+Average Lead Time (Blog - New Blog Request): 0.0 days
+Average Lead Time (Improvement): 6.2 days
+Average Lead Time (Task): 10.0 days
+Average Lead Time (Question): 9.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-03 03:10:11 End date: 2021-12-12 03:10:11
+System: {'PYLUCENE': 3}
+Types: {'Bug': 2, 'Blog - New Blog Request': 1}
+Resolutions: {'Fixed': 2, 'Invalid': 1}
+Statuses: {'Resolved': 2, 'Closed': 1}
+
+Average Lead Time (all PBIs): 285.7 days
+Average Lead Time (Bug): 428.5 days
+Average Lead Time (Blog - New Blog Request): 0.0 days

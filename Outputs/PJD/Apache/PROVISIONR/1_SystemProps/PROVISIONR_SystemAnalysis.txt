@@ -1,0 +1,34 @@
+All PBIS - Unfiltered 
+Start date: 2013-03-20 10:29:00 End date: 2013-08-28 23:14:27
+System: {'PROVISIONR': 40}
+Types: {'Bug': 9, 'Dependency upgrade': 3, 'Improvement': 14, 'Task': 3, 'Documentation': 3, 'New Feature': 5, 'Umbrella': 2, 'Test': 1}
+Resolutions: {'Fixed': 22, '': 17, 'Not A Problem': 1}
+Statuses: {'Resolved': 10, 'Open': 17, 'Closed': 13}
+
+Average Lead Time (all PBIs): 29.7 days
+Average Lead Time (Bug): 6.4 days
+Average Lead Time (Improvement): 15.8 days
+Average Lead Time (Task): 0.0 days
+Average Lead Time (Documentation): 74.0 days
+Average Lead Time (New Feature): 0.0 days
+Average Lead Time (Dependency upgrade): 91.0 days
+Average Lead Time (Test): 115.0 days
+Average Lead Time (Umbrella): 85.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-05-20 23:14:27 End date: 2013-08-28 23:14:27
+System: {'PROVISIONR': 23}
+Types: {'Bug': 6, 'Dependency upgrade': 3, 'Improvement': 7, 'Task': 3, 'Documentation': 2, 'Test': 1, 'Umbrella': 1}
+Resolutions: {'Fixed': 15, '': 8}
+Statuses: {'Resolved': 10, 'Open': 8, 'Closed': 5}
+
+Average Lead Time (all PBIs): 43.6 days
+Average Lead Time (Bug): 9.0 days
+Average Lead Time (Improvement): 24.0 days
+Average Lead Time (Task): 0.0 days
+Average Lead Time (Documentation): 111.0 days
+Average Lead Time (Dependency upgrade): 91.0 days
+Average Lead Time (Test): 115.0 days
+Average Lead Time (Umbrella): 85.0 days

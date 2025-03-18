@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2021-02-12 09:48:32 End date: 2021-12-20 15:34:55
+System: {'RUN': 160}
+Types: {'Story': 159, 'Task': 1}
+Resolutions: {'': 61, 'Done': 99}
+Statuses: {'To Do': 46, 'Done': 96, 'In Progress': 10, 'Code Review': 5, 'Obsolete': 3}
+
+Average Lead Time (all PBIs): 32.7 days
+Average Lead Time (Story): 32.6 days
+Average Lead Time (Task): 34.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-11 15:34:55 End date: 2021-12-20 15:34:55
+System: {'RUN': 58}
+Types: {'Story': 57, 'Task': 1}
+Resolutions: {'': 27, 'Done': 31}
+Statuses: {'To Do': 16, 'Done': 31, 'In Progress': 7, 'Code Review': 4}
+
+Average Lead Time (all PBIs): 39.4 days
+Average Lead Time (Story): 39.6 days
+Average Lead Time (Task): 34.0 days

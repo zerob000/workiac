@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2015-08-13 15:21:00 End date: 2021-04-22 15:20:24
+System: {'ICS': 1847}
+Types: {'Bug': 744, 'New Feature': 1103}
+Resolutions: {'Done': 457, '': 1329, "Won't Do": 15, 'Answered': 20, 'Duplicate': 17, 'Canceled': 1, 'Cannot Reproduce': 5, 'Declined': 3}
+Statuses: {'Resolved': 405, 'Open': 1316, 'Closed': 113, 'Reopened': 6, 'In Progress': 7}
+
+Average Lead Time (all PBIs): 111.4 days
+Average Lead Time (Bug): 49.1 days
+Average Lead Time (New Feature): 359.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-01-12 15:20:24 End date: 2021-04-22 15:20:24
+System: {'ICS': 51}
+Types: {'Bug': 37, 'New Feature': 14}
+Resolutions: {'Done': 24, '': 23, "Won't Do": 4}
+Statuses: {'Resolved': 20, 'Open': 23, 'Closed': 8}
+
+Average Lead Time (all PBIs): 79.3 days
+Average Lead Time (Bug): 80.4 days
+Average Lead Time (New Feature): 48.0 days

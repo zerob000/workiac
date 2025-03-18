@@ -1,0 +1,73 @@
+
+System Name: ARTEMIS
+System Duration (Captured): 2629 days
+
+Calculated Final System Size: 360 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 360 PBIs
+
+Model Final System Size: 435 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 435 PBIs
+
+% Error, Final backlog, model vs actual: 21.0%
+Error, Final backlog, model vs actual: 75 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 1305 PBIs
+Total Unplanned Arrivals: 2193 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 461 PBIs
+Total Net Arrivals: 3037 PBIs
+Total Services: 2677 PBIs
+
+Rates:
+Planned Arrival Rate: 0.515 PBIs/day
+Unplanned Arrival Rate: 0.928 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.189 PBIs/day
+Net Arrival Rate: 1.254 PBIs/day
+Service Rate: 1.117 PBIs/day
+
+
+Metrics:
+Stability: 0.891
+Quality: 0.357
+Control: 0.869
+Inventory Days: 322.292 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 98 days
+
+Calculated Final System Size: 360 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 360 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 42 PBIs
+Unplanned Arrivals in this period: 73 PBIs
+Cancelled/Rejected/Won't Do  in this period: 36 PBIs
+System size change in this period: -32 PBIs
+Net Arrivals in this period: 79 PBIs
+Services in this period: 110 PBIs
+
+Rates:
+Planned Arrival Rate: 0.498 PBIs/day
+Unplanned Arrival Rate: 0.74 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.406 PBIs/day
+Net Arrival Rate: 0.812 PBIs/day
+Service Rate: 1.064 PBIs/day
+
+Metrics:
+Stability: 1.279
+Quality: 0.402
+Control: 0.672
+Inventory Days: 338.346 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

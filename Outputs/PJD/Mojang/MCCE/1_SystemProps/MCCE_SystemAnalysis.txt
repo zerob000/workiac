@@ -1,0 +1,21 @@
+All PBIS - Unfiltered 
+Start date: 2015-03-09 15:27:00 End date: 2020-04-20 16:38:31
+System: {'MCCE': 11774}
+Types: {'Bug': 11774}
+Resolutions: {'Invalid': 5780, 'Incomplete': 381, 'Duplicate': 2143, 'Awaiting Response': 327, 'Done': 116, "Won't Fix": 49, 'Works As Intended': 972, 'Fixed': 997, 'Cannot Reproduce': 1009}
+Statuses: {'Resolved': 11774}
+
+Average Lead Time (all PBIs): 145.5 days
+Average Lead Time (Bug): 145.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-01-11 16:38:31 End date: 2020-04-20 16:38:31
+System: {'MCCE': 3255}
+Types: {'Bug': 3255}
+Resolutions: {'Invalid': 3216, 'Incomplete': 5, 'Duplicate': 28, 'Awaiting Response': 6}
+Statuses: {'Resolved': 3255}
+
+Average Lead Time (all PBIs): 363.1 days
+Average Lead Time (Bug): 363.1 days

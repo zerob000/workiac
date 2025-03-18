@@ -1,0 +1,52 @@
+---
+Locations:
+    id_loc: 0
+    sysm_loc: 2
+    issue_loc: 3
+    resol_loc: 6
+    status_loc: 5
+    arr_loc: 7
+    ser_loc: 8
+spacer: ''
+#date_format = '%d/%m/%Y'
+#date_format = '%d/%b/%y %H:%M'
+#date_format: "%d/%m/%Y %H:%M" 
+date_format: "%Y-%m-%d %H:%M:%S"
+Filters:
+    EpicsSubtasks:
+    - "Epic"
+    FeedbackBugs:
+    - "Bug"
+    - "Defect"
+    - "Meta Issue"
+    #- "Question"
+    #- "Clarification"
+    #- "Support Request"
+    #- "Patch"
+    #- "Support Patch"
+    #- "Issue"
+    #- "Incident"
+    StatusNoFurtherWorkRequired:
+    - "Closed"
+    #- "Done"
+    #- "Resolved"
+    #- "Dropped"
+    #- "Rejected"
+    #- "Verified"
+    ResosNotDoneByTeam:
+    - "Won't Finish"
+    - "Incomplete"
+    - "Expected Behavior"
+    - "Duplicate"
+    #- "Obsolete"
+    - "Cannot Reproduce"
+    - "Not Applicable"
+    - "Unactionable"
+    #- "Won't Do"
+    #- "Can't Do"
+    #- "Not a Bug"
+    #- "MirrorOrphan"
+    #- "Declined"
+    #- "Canceled"
+    
+

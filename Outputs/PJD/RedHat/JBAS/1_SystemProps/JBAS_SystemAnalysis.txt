@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2001-04-06 03:49:30 End date: 2020-03-24 01:38:51
+System: {'JBAS': 6837}
+Types: {'Bug': 4213, 'Task': 1342, 'Feature Request': 1092, 'Patch': 104, 'Enhancement': 8, 'Support Patch': 1, 'Release': 5, 'Component Upgrade': 66, 'Quality Risk': 4, 'CTS Challenge': 2}
+Resolutions: {'': 284, 'Duplicate Issue': 268, 'Rejected': 725, 'Migrated to another ITS': 1, 'Incomplete Description': 68, 'Done': 3999, 'Out of Date': 1174, 'Cannot Reproduce': 66, "Won't Fix": 188, "Won't Do": 1, 'Partially Completed': 7, 'Deferred': 56}
+Statuses: {'Open': 114, 'Closed': 6462, 'Resolved': 91, 'Reopened': 170}
+
+Average Lead Time (all PBIs): 348.5 days
+Average Lead Time (Bug): 307.5 days
+Average Lead Time (Feature Request): 602.2 days
+Average Lead Time (Task): 246.6 days
+Average Lead Time (Support Patch): 18.0 days
+Average Lead Time (Enhancement): 25.2 days
+Average Lead Time (Release): 30.0 days
+Average Lead Time (Component Upgrade): 123.2 days
+Average Lead Time (Patch): 813.1 days
+Average Lead Time (Quality Risk): 324.7 days
+Average Lead Time (CTS Challenge): 16.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2019-12-15 01:38:51 End date: 2020-03-24 01:38:51
+System: {'JBAS': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

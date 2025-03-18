@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2009-07-08 06:28:58 End date: 2021-11-25 13:28:30
+System: {'BYTEMAN': 412}
+Types: {'Component Upgrade': 3, 'Enhancement': 40, 'Task': 13, 'Feature Request': 127, 'Bug': 229}
+Resolutions: {'Done': 347, '': 22, "Won't Fix": 11, 'Rejected': 22, 'Not a Bug': 1, 'Duplicate Issue': 5, 'Cannot Reproduce': 3, 'Out of Date': 1}
+Statuses: {'Closed': 374, 'Open': 21, 'Resolved': 16, 'Coding In Progress': 1}
+
+Average Lead Time (all PBIs): 55.5 days
+Average Lead Time (Component Upgrade): 22.0 days
+Average Lead Time (Enhancement): 50.9 days
+Average Lead Time (Task): 23.9 days
+Average Lead Time (Feature Request): 88.0 days
+Average Lead Time (Bug): 41.4 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-08-17 13:28:30 End date: 2021-11-25 13:28:30
+System: {'BYTEMAN': 4}
+Types: {'Component Upgrade': 1, 'Enhancement': 2, 'Feature Request': 1}
+Resolutions: {'Done': 3, '': 1}
+Statuses: {'Closed': 3, 'Open': 1}
+
+Average Lead Time (all PBIs): 639.7 days
+Average Lead Time (Component Upgrade): 43.0 days
+Average Lead Time (Enhancement): 0.0 days
+Average Lead Time (Feature Request): 1876.0 days

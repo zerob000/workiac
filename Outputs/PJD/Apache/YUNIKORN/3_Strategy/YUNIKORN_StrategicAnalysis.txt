@@ -1,0 +1,73 @@
+
+System Name: YUNIKORN
+System Duration (Captured): 699 days
+
+Calculated Final System Size: 138 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 138 PBIs
+
+Model Final System Size: 156 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 156 PBIs
+
+% Error, Final backlog, model vs actual: 13.0%
+Error, Final backlog, model vs actual: 18 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 370 PBIs
+Total Unplanned Arrivals: 250 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 58 PBIs
+Total Net Arrivals: 562 PBIs
+Total Services: 424 PBIs
+
+Rates:
+Planned Arrival Rate: 0.485 PBIs/day
+Unplanned Arrival Rate: 0.349 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.081 PBIs/day
+Net Arrival Rate: 0.753 PBIs/day
+Service Rate: 0.576 PBIs/day
+
+
+Metrics:
+Stability: 0.765
+Quality: 0.582
+Control: 0.903
+Inventory Days: 239.583 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 138 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 138 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 47 PBIs
+Unplanned Arrivals in this period: 20 PBIs
+Cancelled/Rejected/Won't Do  in this period: 8 PBIs
+System size change in this period: 8 PBIs
+Net Arrivals in this period: 59 PBIs
+Services in this period: 52 PBIs
+
+Rates:
+Planned Arrival Rate: 0.489 PBIs/day
+Unplanned Arrival Rate: 0.244 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.085 PBIs/day
+Net Arrival Rate: 0.643 PBIs/day
+Service Rate: 0.594 PBIs/day
+
+Metrics:
+Stability: 0.917
+Quality: 0.667
+Control: 0.884
+Inventory Days: 232.323 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

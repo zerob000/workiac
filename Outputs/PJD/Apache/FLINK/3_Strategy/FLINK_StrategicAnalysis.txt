@@ -1,0 +1,73 @@
+
+System Name: FLINK
+System Duration (Captured): 2767 days
+
+Calculated Final System Size: 3407 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 3407 PBIs
+
+Model Final System Size: 3234 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 3234 PBIs
+
+% Error, Final backlog, model vs actual: 5.0%
+Error, Final backlog, model vs actual: -173 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 10045 PBIs
+Total Unplanned Arrivals: 10126 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 4339 PBIs
+Total Net Arrivals: 15832 PBIs
+Total Services: 12425 PBIs
+
+Rates:
+Planned Arrival Rate: 3.705 PBIs/day
+Unplanned Arrival Rate: 3.433 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 1.8 PBIs/day
+Net Arrival Rate: 5.338 PBIs/day
+Service Rate: 4.241 PBIs/day
+
+
+Metrics:
+Stability: 0.794
+Quality: 0.519
+Control: 0.748
+Inventory Days: 803.348 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 3407 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 3407 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 412 PBIs
+Unplanned Arrivals in this period: 446 PBIs
+Cancelled/Rejected/Won't Do  in this period: 194 PBIs
+System size change in this period: 193 PBIs
+Net Arrivals in this period: 664 PBIs
+Services in this period: 470 PBIs
+
+Rates:
+Planned Arrival Rate: 4.548 PBIs/day
+Unplanned Arrival Rate: 4.665 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 1.869 PBIs/day
+Net Arrival Rate: 7.228 PBIs/day
+Service Rate: 5.008 PBIs/day
+
+Metrics:
+Stability: 0.682
+Quality: 0.494
+Control: 0.797
+Inventory Days: 680.312 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

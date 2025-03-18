@@ -1,0 +1,33 @@
+All PBIS - Unfiltered 
+Start date: 2009-05-26 15:52:37 End date: 2022-01-04 16:05:24
+System: {'DOCS': 13288}
+Types: {'Improvement': 2749, 'Bug': 4519, 'Task': 5944, 'Typo': 35, 'Feedback': 9, 'Backport': 2, 'Doc UI': 1, 'Doc Removal': 1, 'Doc API': 4, 'Design Request': 3, 'Tracking': 21}
+Resolutions: {'': 1346, "Won't Fix": 944, 'Fixed': 7999, 'Duplicate': 918, 'Gone away': 439, 'Works as Designed': 452, 'Done': 379, "Won't Do": 36, 'Cannot Reproduce': 226, 'Incomplete': 485, 'Declined': 13, 'Community Answered': 51}
+Statuses: {'Open': 983, 'Needs Triage': 309, 'Closed': 11522, 'Internal Review': 12, 'In Progress': 22, 'Resolved': 420, 'External Review': 9, 'Blocked': 11}
+
+Average Lead Time (all PBIs): 110.4 days
+Average Lead Time (Task): 105.4 days
+Average Lead Time (Bug): 100.8 days
+Average Lead Time (Improvement): 139.8 days
+Average Lead Time (Typo): 28.0 days
+Average Lead Time (Feedback): 19.3 days
+Average Lead Time (Backport): 4.0 days
+Average Lead Time (Doc UI): 0.0 days
+Average Lead Time (Doc API): 40.5 days
+Average Lead Time (Design Request): 11.0 days
+Average Lead Time (Tracking): 112.9 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 16:05:24 End date: 2022-01-04 16:05:24
+System: {'DOCS': 244}
+Types: {'Improvement': 35, 'Bug': 26, 'Task': 179, 'Typo': 4}
+Resolutions: {'': 83, "Won't Fix": 6, 'Fixed': 82, 'Duplicate': 7, 'Gone away': 10, 'Works as Designed': 3, 'Done': 43, "Won't Do": 9, 'Cannot Reproduce': 1}
+Statuses: {'Open': 69, 'Needs Triage': 3, 'Closed': 142, 'Internal Review': 3, 'In Progress': 4, 'Resolved': 19, 'External Review': 4}
+
+Average Lead Time (all PBIs): 104.3 days
+Average Lead Time (Task): 86.4 days
+Average Lead Time (Bug): 99.3 days
+Average Lead Time (Improvement): 209.5 days
+Average Lead Time (Typo): 25.3 days

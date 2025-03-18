@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2013-02-10 17:10:59 End date: 2020-05-12 21:43:43
+System: {'PRETTY': 30}
+Types: {'Task': 10, 'Bug': 11, 'New Feature': 2, 'Improvement': 6, 'Story': 1}
+Resolutions: {'Fixed': 22, 'Duplicate': 2, 'Obsolete': 5, "Won't Fix": 1}
+Statuses: {'Resolved': 30}
+
+Average Lead Time (all PBIs): 158.7 days
+Average Lead Time (Task): 88.5 days
+Average Lead Time (Bug): 151.4 days
+Average Lead Time (New Feature): 89.5 days
+Average Lead Time (Improvement): 275.8 days
+Average Lead Time (Story): 376.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-02-02 21:43:43 End date: 2020-05-12 21:43:43
+System: {'PRETTY': 2}
+Types: {'Task': 2}
+Resolutions: {'Fixed': 2}
+Statuses: {'Resolved': 2}
+
+Average Lead Time (all PBIs): 157.5 days
+Average Lead Time (Task): 157.5 days

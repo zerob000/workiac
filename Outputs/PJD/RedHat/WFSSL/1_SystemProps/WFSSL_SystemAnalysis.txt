@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2017-05-24 05:51:03 End date: 2021-12-15 13:30:37
+System: {'WFSSL': 81}
+Types: {'Bug': 35, 'Task': 40, 'Improvement': 3, 'New Feature': 3}
+Resolutions: {'': 13, 'Done': 66, 'Out of Date': 1, 'Rejected': 1}
+Statuses: {'Open': 8, 'Pull Request Sent': 3, 'Coding In Progress': 1, 'Resolved': 66, 'Reopened': 1, 'Closed': 2}
+
+Average Lead Time (all PBIs): 29.4 days
+Average Lead Time (Task): 21.2 days
+Average Lead Time (Bug): 31.3 days
+Average Lead Time (Improvement): 157.5 days
+Average Lead Time (New Feature): 3.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-06 13:30:37 End date: 2021-12-15 13:30:37
+System: {'WFSSL': 10}
+Types: {'Bug': 3, 'Task': 5, 'Improvement': 1, 'New Feature': 1}
+Resolutions: {'': 7, 'Done': 3}
+Statuses: {'Open': 3, 'Pull Request Sent': 3, 'Coding In Progress': 1, 'Resolved': 3}
+
+Average Lead Time (all PBIs): 39.0 days
+Average Lead Time (Task): 46.5 days
+Average Lead Time (Bug): 24.0 days

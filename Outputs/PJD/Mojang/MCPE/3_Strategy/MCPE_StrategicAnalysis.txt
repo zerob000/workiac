@@ -1,0 +1,73 @@
+
+System Name: MCPE
+System Duration (Captured): 3407 days
+
+Calculated Final System Size: 4461 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 4461 PBIs
+
+Model Final System Size: 7042 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 7042 PBIs
+
+% Error, Final backlog, model vs actual: 58.0%
+Error, Final backlog, model vs actual: 2581 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 0 PBIs
+Total Unplanned Arrivals: 144778 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 130084 PBIs
+Total Net Arrivals: 14694 PBIs
+Total Services: 10233 PBIs
+
+Rates:
+Planned Arrival Rate: 0 PBIs/day
+Unplanned Arrival Rate: 49.634 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 45.421 PBIs/day
+Net Arrival Rate: 4.213 PBIs/day
+Service Rate: 3.005 PBIs/day
+
+
+Metrics:
+Stability: 0.713
+Quality: 0.0
+Control: 0.085
+Inventory Days: 1484.526 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 4461 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 4461 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 0 PBIs
+Unplanned Arrivals in this period: 8426 PBIs
+Cancelled/Rejected/Won't Do  in this period: 8436 PBIs
+System size change in this period: -2460 PBIs
+Net Arrivals in this period: -10 PBIs
+Services in this period: 2448 PBIs
+
+Rates:
+Planned Arrival Rate: 0 PBIs/day
+Unplanned Arrival Rate: 93.349 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 88.542 PBIs/day
+Net Arrival Rate: 5.6 PBIs/day
+Service Rate: 24.917 PBIs/day
+
+Metrics:
+Stability: 5.183
+Quality: 0.0
+Control: 0.051
+Inventory Days: 179.034 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

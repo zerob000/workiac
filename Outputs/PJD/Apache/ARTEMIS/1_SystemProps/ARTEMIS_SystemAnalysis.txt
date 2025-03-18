@@ -1,0 +1,33 @@
+All PBIS - Unfiltered 
+Start date: 2014-10-23 14:22:56 End date: 2022-01-04 02:29:49
+System: {'ARTEMIS': 3498}
+Types: {'Bug': 2172, 'Improvement': 750, 'Task': 213, 'Dependency upgrade': 33, 'Test': 51, 'New Feature': 258, 'Wish': 21}
+Resolutions: {'': 360, 'Duplicate': 115, 'Not A Bug': 33, 'Information Provided': 38, 'Fixed': 2574, 'Invalid': 65, 'Not A Problem': 91, 'Cannot Reproduce': 55, 'Abandoned': 38, "Won't Fix": 58, 'Workaround': 4, "Won't Do": 15, 'Works for Me': 5, 'Done': 21, 'Resolved': 1, 'Incomplete': 15, 'Implemented': 8, 'Staged': 1, 'Delivered': 1}
+Statuses: {'Open': 341, 'In Progress': 6, 'Closed': 2471, 'Resolved': 667, 'Reopened': 13}
+
+Average Lead Time (all PBIs): 104.7 days
+Average Lead Time (Bug): 85.0 days
+Average Lead Time (Dependency upgrade): 30.5 days
+Average Lead Time (Improvement): 103.3 days
+Average Lead Time (Test): 125.2 days
+Average Lead Time (Task): 100.7 days
+Average Lead Time (New Feature): 281.0 days
+Average Lead Time (Wish): 402.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 02:29:49 End date: 2022-01-04 02:29:49
+System: {'ARTEMIS': 190}
+Types: {'Bug': 120, 'Improvement': 40, 'Task': 11, 'Dependency upgrade': 5, 'Test': 4, 'New Feature': 7, 'Wish': 3}
+Resolutions: {'': 42, 'Duplicate': 6, 'Not A Bug': 5, 'Information Provided': 10, 'Fixed': 96, 'Invalid': 2, 'Not A Problem': 5, 'Cannot Reproduce': 12, 'Abandoned': 5, "Won't Do": 2, 'Works for Me': 1, "Won't Fix": 4}
+Statuses: {'Open': 38, 'In Progress': 3, 'Closed': 92, 'Resolved': 56, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 280.1 days
+Average Lead Time (Bug): 289.0 days
+Average Lead Time (Dependency upgrade): 1.4 days
+Average Lead Time (Improvement): 274.2 days
+Average Lead Time (Test): 34.5 days
+Average Lead Time (Task): 232.6 days
+Average Lead Time (New Feature): 602.3 days
+Average Lead Time (Wish): 470.0 days

@@ -1,0 +1,73 @@
+
+System Name: SOLR
+System Duration (Captured): 5823 days
+
+Calculated Final System Size: 3691 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 3691 PBIs
+
+Model Final System Size: 4252 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 4252 PBIs
+
+% Error, Final backlog, model vs actual: 15.0%
+Error, Final backlog, model vs actual: 561 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 7476 PBIs
+Total Unplanned Arrivals: 7274 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 2967 PBIs
+Total Net Arrivals: 11783 PBIs
+Total Services: 8092 PBIs
+
+Rates:
+Planned Arrival Rate: 1.497 PBIs/day
+Unplanned Arrival Rate: 1.661 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.653 PBIs/day
+Net Arrival Rate: 2.505 PBIs/day
+Service Rate: 1.664 PBIs/day
+
+
+Metrics:
+Stability: 0.664
+Quality: 0.474
+Control: 0.793
+Inventory Days: 2218.149 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 100 days
+
+Calculated Final System Size: 3691 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 3691 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 107 PBIs
+Unplanned Arrivals in this period: 61 PBIs
+Cancelled/Rejected/Won't Do  in this period: 29 PBIs
+System size change in this period: 2 PBIs
+Net Arrivals in this period: 139 PBIs
+Services in this period: 136 PBIs
+
+Rates:
+Planned Arrival Rate: 1.317 PBIs/day
+Unplanned Arrival Rate: 0.766 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.393 PBIs/day
+Net Arrival Rate: 1.695 PBIs/day
+Service Rate: 1.392 PBIs/day
+
+Metrics:
+Stability: 0.824
+Quality: 0.632
+Control: 0.811
+Inventory Days: 2651.58 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

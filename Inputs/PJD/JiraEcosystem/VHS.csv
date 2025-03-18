@@ -1,0 +1,34 @@
+Key,ID,Project,IssueType,IsSubtask,Status,Resolution,Created Date,Resolved Date
+VHS-34,298005,VHS,Improvement,false,Closed,Fixed,2020-05-08 08:40:10,2020-05-10 23:39:42
+VHS-33,280781,VHS,Improvement,false,Closed,Fixed,2019-07-25 20:43:46,2019-07-25 23:41:18
+VHS-32,153891,VHS,Bug,false,Not Being Considered,,2016-06-29 01:43:46,
+VHS-31,153500,VHS,Bug,false,Closed,Won't Fix,2016-06-27 01:46:29,2021-09-22 01:34:21
+VHS-30,152994,VHS,Task,false,Not Being Considered,,2016-06-22 05:07:25,
+VHS-29,145070,VHS,Improvement,false,Not Being Considered,,2016-05-25 08:56:52,
+VHS-28,143907,VHS,Task,false,Closed,Fixed,2016-05-24 08:19:03,2016-06-19 21:05:02
+VHS-27,139751,VHS,Task,false,Closed,Fixed,2016-05-18 05:05:26,2016-05-31 01:23:53
+VHS-26,138080,VHS,Task,false,Closed,Fixed,2016-05-04 01:50:54,2016-05-04 22:45:41
+VHS-25,130807,VHS,Improvement,false,Closed,Won't Fix,2015-11-25 02:29:01,2015-12-15 23:09:30
+VHS-24,130149,VHS,Improvement,false,Closed,Fixed,2015-11-10 02:33:10,2016-02-04 23:33:09
+VHS-23,130031,VHS,Improvement,false,Closed,Fixed,2015-11-08 22:44:12,2015-11-10 02:49:20
+VHS-22,129659,VHS,Task,false,Closed,Fixed,2015-10-29 18:41:38,2015-10-30 00:51:46
+VHS-21,129658,VHS,Improvement,false,Closed,Fixed,2015-10-29 18:18:48,2015-11-01 16:45:52
+VHS-20,119336,VHS,Bug,false,Closed,Won't Fix,2015-05-21 18:23:58,2015-05-21 19:35:44
+VHS-19,76220,VHS,Task,false,Closed,Won't Fix,2013-05-15 20:33:06,2021-09-22 01:34:07
+VHS-17,73688,VHS,Improvement,false,Closed,Fixed,2013-02-26 22:21:15,2013-02-28 19:31:37
+VHS-16,61406,VHS,Bug,false,Closed,Fixed,2012-11-11 22:05:15,2012-11-12 15:39:21
+VHS-15,61404,VHS,New Feature,false,Closed,Fixed,2012-07-20 00:56:55,2015-11-08 22:43:31
+VHS-14,61403,VHS,Improvement,false,Closed,Fixed,2012-04-01 18:04:35,2012-04-01 18:07:55
+VHS-13,61401,VHS,Improvement,false,Closed,Fixed,2012-04-01 18:03:36,2016-03-03 23:01:37
+VHS-12,61400,VHS,Improvement,false,Closed,Fixed,2012-04-01 18:03:20,2015-11-10 02:23:36
+VHS-11,61399,VHS,Bug,false,Closed,Fixed,2012-01-17 18:41:35,2012-01-17 18:43:51
+VHS-10,61397,VHS,Bug,false,Closed,Fixed,2011-06-24 01:15:19,2016-06-22 05:37:09
+VHS-9,61398,VHS,Bug,false,Closed,Fixed,2011-02-23 20:37:12,2011-08-29 00:00:33
+VHS-8,61408,VHS,Task,false,Closed,Timed out,2009-11-09 11:20:37,2019-09-11 09:16:16
+VHS-7,61405,VHS,Improvement,false,Closed,Fixed,2009-11-04 15:21:17,2009-11-05 12:38:21
+VHS-6,61412,VHS,Task,false,Closed,Fixed,2009-10-30 14:21:48,2009-11-05 12:38:09
+VHS-5,61409,VHS,Task,false,Not Being Considered,,2009-09-14 11:08:46,
+VHS-4,61402,VHS,Task,false,Closed,Fixed,2009-09-11 16:13:34,2009-09-11 16:18:22
+VHS-3,61411,VHS,Task,false,Closed,Fixed,2009-09-08 15:39:10,2009-09-11 16:19:42
+VHS-2,61407,VHS,New Feature,false,Not Being Considered,,2009-09-01 15:54:28,
+VHS-1,61410,VHS,Task,false,Closed,Fixed,2009-06-22 17:36:47,2009-09-08 14:55:57

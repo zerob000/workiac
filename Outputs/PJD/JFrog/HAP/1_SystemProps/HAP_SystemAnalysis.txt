@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 2008-10-26 03:07:09 End date: 2021-11-12 14:18:36
+System: {'HAP': 1267}
+Types: {'Bug': 777, 'Production Issue': 4, 'Support Ticket': 15, 'Improvement': 193, 'Feature Request': 19, 'New Feature': 172, 'Task': 67, 'Documentation': 10, 'Change Request': 3, 'Story': 1, 'Design': 1, 'Cosmetic': 5}
+Resolutions: {'': 527, 'Done': 652, 'Duplicate': 28, 'Deferred': 7, 'Not a Bug': 49, 'Cannot Reproduce': 4}
+Statuses: {'Open': 516, 'Resolved': 733, 'Ready for Code Review': 2, 'Will Not Implement': 10, 'Reopened': 4, 'Closed': 1, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 70.3 days
+Average Lead Time (Bug): 62.9 days
+Average Lead Time (Feature Request): 129.8 days
+Average Lead Time (Task): 24.2 days
+Average Lead Time (Improvement): 86.1 days
+Average Lead Time (New Feature): 118.3 days
+Average Lead Time (Documentation): 19.3 days
+Average Lead Time (Support Ticket): 22.0 days
+Average Lead Time (Production Issue): 0.0 days
+Average Lead Time (Cosmetic): 25.2 days
+Average Lead Time (Change Request): 16.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-08-04 14:18:36 End date: 2021-11-12 14:18:36
+System: {'HAP': 9}
+Types: {'Bug': 7, 'Production Issue': 1, 'Feature Request': 1}
+Resolutions: {'': 8, 'Done': 1}
+Statuses: {'Open': 8, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 97.0 days
+Average Lead Time (Feature Request): 97.0 days

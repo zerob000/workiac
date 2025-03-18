@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2012-07-24 23:19:52 End date: 2022-01-03 15:47:48
+System: {'CXFXJC': 40}
+Types: {'New Feature': 3, 'Bug': 29, 'Improvement': 6, 'Task': 2}
+Resolutions: {'': 6, 'Duplicate': 2, 'Fixed': 28, "Won't Fix": 2, 'Not A Bug': 1, 'Implemented': 1}
+Statuses: {'In Progress': 1, 'Closed': 10, 'Open': 5, 'Resolved': 24}
+
+Average Lead Time (all PBIs): 115.2 days
+Average Lead Time (Bug): 84.7 days
+Average Lead Time (Improvement): 95.6 days
+Average Lead Time (Task): 354.5 days
+Average Lead Time (New Feature): 306.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-25 15:47:48 End date: 2022-01-03 15:47:48
+System: {'CXFXJC': 1}
+Types: {'New Feature': 1}
+Resolutions: {'': 1}
+Statuses: {'In Progress': 1}
+
+No PBIs resolved in last 100 days.

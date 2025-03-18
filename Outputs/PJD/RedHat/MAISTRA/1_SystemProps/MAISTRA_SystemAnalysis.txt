@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2018-08-15 12:51:47 End date: 2021-12-21 19:43:11
+System: {'MAISTRA': 2008}
+Types: {'Bug': 805, 'Task': 1105, 'Story': 61, 'Simple Task': 31, 'Feature': 5, 'Market Problem': 1}
+Resolutions: {'': 250, 'Done': 1478, 'Rejected': 147, 'Duplicate Issue': 28, 'Not a Bug': 9, "Won't Fix": 9, 'Duplicate': 1, 'Out of Date': 65, "Won't Do": 9, 'Deferred': 3, 'Explained': 3, 'Cannot Reproduce': 5, 'Fixed': 1}
+Statuses: {'New': 87, 'Closed': 1733, 'Needs Info': 3, 'Review in Progress': 3, 'Accepted': 121, 'In Progress': 3, 'Quality Review': 3, 'Done': 25, 'In Triage': 29, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 62.8 days
+Average Lead Time (Task): 58.2 days
+Average Lead Time (Bug): 67.2 days
+Average Lead Time (Story): 117.2 days
+Average Lead Time (Simple Task): 39.6 days
+Average Lead Time (Feature): 26.0 days
+Average Lead Time (Market Problem): 1.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-12 19:43:11 End date: 2021-12-21 19:43:11
+System: {'MAISTRA': 114}
+Types: {'Bug': 56, 'Task': 44, 'Story': 12, 'Simple Task': 2}
+Resolutions: {'': 29, 'Done': 63, 'Rejected': 5, 'Duplicate Issue': 4, "Won't Fix": 2, 'Out of Date': 11}
+Statuses: {'New': 23, 'Closed': 84, 'Needs Info': 1, 'Review in Progress': 1, 'Accepted': 2, 'In Progress': 1, 'Quality Review': 1, 'Done': 1}
+
+Average Lead Time (all PBIs): 163.9 days
+Average Lead Time (Task): 195.7 days
+Average Lead Time (Bug): 132.6 days
+Average Lead Time (Story): 163.6 days
+Average Lead Time (Simple Task): 117.0 days

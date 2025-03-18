@@ -1,0 +1,73 @@
+
+System Name: CRAIL
+System Duration (Captured): 1352 days
+
+Calculated Final System Size: 39 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 39 PBIs
+
+Model Final System Size: 19 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 19 PBIs
+
+% Error, Final backlog, model vs actual: 51.0%
+Error, Final backlog, model vs actual: -20 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 59 PBIs
+Total Unplanned Arrivals: 54 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 2 PBIs
+Total Net Arrivals: 111 PBIs
+Total Services: 72 PBIs
+
+Rates:
+Planned Arrival Rate: 0.088 PBIs/day
+Unplanned Arrival Rate: 0.048 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.001 PBIs/day
+Net Arrival Rate: 0.135 PBIs/day
+Service Rate: 0.134 PBIs/day
+
+
+Metrics:
+Stability: 0.993
+Quality: 0.647
+Control: 0.993
+Inventory Days: 291.045 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 23 days
+
+Calculated Final System Size: 39 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 39 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 0 PBIs
+Unplanned Arrivals in this period: 1 PBIs
+Cancelled/Rejected/Won't Do  in this period: 0 PBIs
+System size change in this period: 0 PBIs
+Net Arrivals in this period: 1 PBIs
+Services in this period: 0 PBIs
+
+Rates:
+Planned Arrival Rate: NaN PBIs/day
+Unplanned Arrival Rate: 0.042 PBIs/day
+Cancelled/Rejected/Won't Do Rate: NaN PBIs/day
+Net Arrival Rate: 0.021 PBIs/day
+Service Rate: NaN PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

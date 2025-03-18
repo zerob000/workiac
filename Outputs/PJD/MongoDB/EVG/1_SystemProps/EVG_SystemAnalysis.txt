@@ -1,0 +1,35 @@
+All PBIS - Unfiltered 
+Start date: 2013-04-10 15:09:14 End date: 2022-01-04 15:56:43
+System: {'EVG': 12477}
+Types: {'Improvement': 2470, 'Bug': 3045, 'New Feature': 1904, 'Task': 3016, 'Question': 59, 'Build Failure': 1791, 'Problem Ticket': 159, 'Incident': 33}
+Resolutions: {'': 1162, 'Duplicate': 851, 'Fixed': 7009, 'Declined': 67, 'Done': 499, 'Works as Designed': 213, "Won't Fix": 1875, 'Gone away': 503, "Won't Do": 167, 'Incomplete': 66, 'Cannot Reproduce': 64, 'Community Answered': 1}
+Statuses: {'Open': 1085, 'In Progress': 13, 'Closed': 9765, 'Debugging': 4, 'In Code Review': 20, 'Needs Design': 8, 'Waiting (Blocked)': 32, 'Resolved': 1550}
+
+Average Lead Time (all PBIs): 89.3 days
+Average Lead Time (New Feature): 169.1 days
+Average Lead Time (Task): 58.3 days
+Average Lead Time (Build Failure): 3.3 days
+Average Lead Time (Improvement): 163.1 days
+Average Lead Time (Bug): 75.0 days
+Average Lead Time (Problem Ticket): 36.1 days
+Average Lead Time (Incident): 15.7 days
+Average Lead Time (Question): 62.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 15:56:43 End date: 2022-01-04 15:56:43
+System: {'EVG': 748}
+Types: {'Improvement': 189, 'Bug': 147, 'New Feature': 28, 'Task': 330, 'Question': 14, 'Build Failure': 21, 'Problem Ticket': 15, 'Incident': 4}
+Resolutions: {'': 231, 'Duplicate': 51, 'Fixed': 236, 'Declined': 2, 'Done': 150, 'Works as Designed': 7, "Won't Fix": 25, 'Gone away': 29, "Won't Do": 16, 'Incomplete': 1}
+Statuses: {'Open': 205, 'In Progress': 9, 'Closed': 517, 'Debugging': 3, 'In Code Review': 9, 'Needs Design': 2, 'Waiting (Blocked)': 3}
+
+Average Lead Time (all PBIs): 102.4 days
+Average Lead Time (New Feature): 391.1 days
+Average Lead Time (Task): 71.8 days
+Average Lead Time (Build Failure): 33.0 days
+Average Lead Time (Improvement): 109.7 days
+Average Lead Time (Bug): 103.5 days
+Average Lead Time (Problem Ticket): 257.4 days
+Average Lead Time (Incident): 69.5 days
+Average Lead Time (Question): 204.0 days

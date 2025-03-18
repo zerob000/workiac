@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2014-04-24 06:20:00 End date: 2022-01-04 12:54:17
+System: {'BXMSDOC': 2123}
+Types: {'Enhancement': 142, 'Task': 1630, 'Bug': 310, 'Feature Request': 34, 'Patch': 2, 'Component Upgrade': 2, 'Story': 3}
+Resolutions: {'': 155, 'Done': 1957, 'Duplicate Issue': 5, 'Deferred': 4, "Won't Do": 2}
+Statuses: {'New': 39, 'Resolved': 187, 'Open': 93, 'SME Review': 1, 'Coding In Progress': 19, 'Pull Request Sent': 3, 'Closed': 1781}
+
+Average Lead Time (all PBIs): 71.1 days
+Average Lead Time (Task): 46.1 days
+Average Lead Time (Bug): 143.4 days
+Average Lead Time (Enhancement): 176.0 days
+Average Lead Time (Feature Request): 209.4 days
+Average Lead Time (Patch): 0.5 days
+Average Lead Time (Component Upgrade): 180.0 days
+Average Lead Time (Story): 9.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 12:54:17 End date: 2022-01-04 12:54:17
+System: {'BXMSDOC': 133}
+Types: {'Enhancement': 5, 'Task': 121, 'Bug': 7}
+Resolutions: {'': 38, 'Done': 91, 'Duplicate Issue': 4}
+Statuses: {'New': 18, 'Resolved': 90, 'Open': 9, 'SME Review': 1, 'Coding In Progress': 8, 'Pull Request Sent': 2, 'Closed': 5}
+
+Average Lead Time (all PBIs): 58.9 days
+Average Lead Time (Task): 59.8 days
+Average Lead Time (Bug): 18.0 days

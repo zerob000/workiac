@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2019-08-28 09:18:07 End date: 2021-12-24 14:54:03
+System: {'OSSMDOC': 394}
+Types: {'New Feature': 7, 'Task': 238, 'Story': 45, 'Bug': 66, 'Improvement': 38}
+Resolutions: {'': 142, "Won't Fix": 22, 'Done': 230}
+Statuses: {'New': 124, 'In Progress': 6, 'SME Review': 2, 'WONTFIX': 25, 'Closed': 205, 'Resolved': 22, 'Open': 6, 'Ready For Release': 2, 'Peer Review': 1, 'Ready for QA': 1}
+
+Average Lead Time (all PBIs): 93.6 days
+Average Lead Time (Task): 101.8 days
+Average Lead Time (Story): 23.4 days
+Average Lead Time (Bug): 62.8 days
+Average Lead Time (Improvement): 202.0 days
+Average Lead Time (New Feature): 239.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-15 14:54:03 End date: 2021-12-24 14:54:03
+System: {'OSSMDOC': 83}
+Types: {'New Feature': 2, 'Task': 38, 'Story': 22, 'Bug': 10, 'Improvement': 11}
+Resolutions: {'': 40, "Won't Fix": 3, 'Done': 40}
+Statuses: {'New': 35, 'In Progress': 3, 'SME Review': 1, 'WONTFIX': 3, 'Closed': 27, 'Resolved': 13, 'Open': 1}
+
+Average Lead Time (all PBIs): 110.5 days
+Average Lead Time (Task): 139.9 days
+Average Lead Time (Story): 10.3 days
+Average Lead Time (Bug): 88.1 days
+Average Lead Time (Improvement): 256.0 days
+Average Lead Time (New Feature): 239.0 days

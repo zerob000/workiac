@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2009-04-09 09:38:38 End date: 2022-01-04 12:00:16
+System: {'PYTHON': 2804}
+Types: {'Improvement': 633, 'Task': 978, 'Bug': 889, 'Question': 1, 'New Feature': 285, 'Spec Change': 18}
+Resolutions: {'': 235, 'Fixed': 1827, 'Works as Designed': 184, 'Cannot Reproduce': 63, 'Gone away': 60, 'Done': 41, 'Duplicate': 145, "Won't Fix": 194, 'Community Answered': 21, "Won't Do": 30, 'Declined': 2, 'Incomplete': 2}
+Statuses: {'In Progress': 3, 'Closed': 2569, 'Open': 197, 'Scheduled': 10, 'Waiting (Blocked)': 23, 'Needs Triage': 1, 'Investigating': 1}
+
+Average Lead Time (all PBIs): 98.4 days
+Average Lead Time (Improvement): 151.1 days
+Average Lead Time (Task): 107.2 days
+Average Lead Time (Bug): 30.4 days
+Average Lead Time (Question): 0.0 days
+Average Lead Time (New Feature): 183.7 days
+Average Lead Time (Spec Change): 50.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 12:00:16 End date: 2022-01-04 12:00:16
+System: {'PYTHON': 175}
+Types: {'Improvement': 34, 'Task': 100, 'Bug': 23, 'Question': 1, 'New Feature': 6, 'Spec Change': 11}
+Resolutions: {'': 36, 'Fixed': 95, 'Works as Designed': 9, 'Cannot Reproduce': 1, 'Gone away': 5, 'Done': 4, 'Duplicate': 19, "Won't Fix": 2, 'Community Answered': 1, "Won't Do": 3}
+Statuses: {'In Progress': 2, 'Closed': 139, 'Open': 16, 'Scheduled': 6, 'Waiting (Blocked)': 10, 'Needs Triage': 1, 'Investigating': 1}
+
+Average Lead Time (all PBIs): 173.5 days
+Average Lead Time (Improvement): 368.1 days
+Average Lead Time (Task): 130.5 days
+Average Lead Time (Bug): 90.2 days
+Average Lead Time (Question): 0.0 days
+Average Lead Time (New Feature): 463.7 days
+Average Lead Time (Spec Change): 66.6 days

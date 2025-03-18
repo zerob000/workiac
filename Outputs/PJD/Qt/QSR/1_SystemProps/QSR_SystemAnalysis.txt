@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2017-04-07 10:06:29 End date: 2022-01-04 08:32:54
+System: {'QSR': 1035}
+Types: {'Bug': 360, 'Task': 296, 'User Story': 219, 'Suggestion': 160}
+Resolutions: {'': 281, 'Done': 540, 'Duplicate': 43, 'Fixed': 76, "Won't Do": 20, 'Out of scope': 42, 'Cannot Reproduce': 15, 'Incomplete': 3, 'Invalid': 15}
+Statuses: {'Reported': 207, 'Open': 63, 'Closed': 718, 'In Progress': 10, 'Withdrawn': 35, 'Need More Info': 1, 'Blocked': 1}
+
+Average Lead Time (all PBIs): 93.1 days
+Average Lead Time (Task): 97.9 days
+Average Lead Time (Bug): 58.5 days
+Average Lead Time (User Story): 143.2 days
+Average Lead Time (Suggestion): 113.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 08:32:54 End date: 2022-01-04 08:32:54
+System: {'QSR': 42}
+Types: {'Bug': 28, 'Task': 10, 'User Story': 4}
+Resolutions: {'': 15, 'Done': 20, 'Duplicate': 2, 'Fixed': 3, "Won't Do": 1, 'Cannot Reproduce': 1}
+Statuses: {'Reported': 9, 'Open': 2, 'Closed': 27, 'In Progress': 4}
+
+Average Lead Time (all PBIs): 117.3 days
+Average Lead Time (Task): 68.3 days
+Average Lead Time (Bug): 117.1 days
+Average Lead Time (User Story): 216.7 days

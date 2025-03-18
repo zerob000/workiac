@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2017-09-06 19:42:13 End date: 2021-02-08 11:24:05
+System: {'MJLINK': 64}
+Types: {'Bug': 12, 'Dependency upgrade': 27, 'Improvement': 19, 'Task': 1, 'New Feature': 5}
+Resolutions: {'': 2, 'Fixed': 25, "Won't Fix": 3, 'Implemented': 3, 'Done': 29, 'Duplicate': 1, 'Not A Problem': 1}
+Statuses: {'Open': 2, 'Resolved': 3, 'Closed': 59}
+
+Average Lead Time (all PBIs): 91.0 days
+Average Lead Time (Dependency upgrade): 27.9 days
+Average Lead Time (Bug): 78.7 days
+Average Lead Time (Improvement): 108.2 days
+Average Lead Time (Task): 12.0 days
+Average Lead Time (New Feature): 488.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-10-31 11:24:05 End date: 2021-02-08 11:24:05
+System: {'MJLINK': 22}
+Types: {'Bug': 6, 'Dependency upgrade': 2, 'Improvement': 10, 'Task': 1, 'New Feature': 3}
+Resolutions: {'': 1, 'Fixed': 12, "Won't Fix": 2, 'Implemented': 1, 'Done': 5, 'Duplicate': 1}
+Statuses: {'Open': 1, 'Resolved': 3, 'Closed': 18}
+
+Average Lead Time (all PBIs): 167.6 days
+Average Lead Time (Dependency upgrade): 94.5 days
+Average Lead Time (Bug): 95.2 days
+Average Lead Time (Improvement): 88.8 days
+Average Lead Time (Task): 12.0 days
+Average Lead Time (New Feature): 651.3 days

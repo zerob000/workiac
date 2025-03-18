@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2009-02-16 22:43:43 End date: 2021-12-28 07:06:35
+System: {'AF': 2485}
+Types: {'Task': 970, 'Bug': 1144, 'New Feature': 335, 'Story': 36}
+Resolutions: {'': 689, 'Done': 1463, 'Duplicate Issue': 58, 'Explained': 10, 'Out of Date': 96, 'Cannot Reproduce': 26, "Won't Do": 76, "Won't Fix": 32, 'Not a Bug': 1, 'Rejected': 19, 'Deferred': 12, 'Duplicate': 1, 'Incomplete Description': 1, 'Partially Completed': 1}
+Statuses: {'Coding In Progress': 21, 'Open': 644, 'Resolved': 1396, 'Closed': 400, 'Pull Request Sent': 13, 'Reopened': 11}
+
+Average Lead Time (all PBIs): 132.4 days
+Average Lead Time (Task): 107.2 days
+Average Lead Time (Bug): 125.0 days
+Average Lead Time (New Feature): 263.5 days
+Average Lead Time (Story): 203.4 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-19 07:06:35 End date: 2021-12-28 07:06:35
+System: {'AF': 40}
+Types: {'Task': 19, 'Bug': 20, 'New Feature': 1}
+Resolutions: {'': 10, 'Done': 20, 'Duplicate Issue': 1, 'Explained': 2, 'Out of Date': 3, 'Cannot Reproduce': 1, "Won't Do": 3}
+Statuses: {'Coding In Progress': 2, 'Open': 5, 'Resolved': 19, 'Closed': 11, 'Pull Request Sent': 3}
+
+Average Lead Time (all PBIs): 291.3 days
+Average Lead Time (Task): 301.2 days
+Average Lead Time (Bug): 296.9 days
+Average Lead Time (New Feature): 68.0 days

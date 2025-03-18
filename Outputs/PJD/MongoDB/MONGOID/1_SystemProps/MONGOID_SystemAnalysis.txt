@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2009-11-17 06:22:01 End date: 2022-01-03 16:42:34
+System: {'MONGOID': 5060}
+Types: {'Improvement': 328, 'Bug': 507, 'Task': 4166, 'New Feature': 59}
+Resolutions: {'': 186, 'Fixed': 1419, "Won't Do": 4, 'Gone away': 131, 'Duplicate': 74, 'Done': 2958, "Won't Fix": 87, 'Works as Designed': 140, 'Declined': 1, 'Incomplete': 18, 'Community Answered': 15, 'Cannot Reproduce': 27}
+Statuses: {'Needs Triage': 4, 'Closed': 4874, 'In Progress': 2, 'Scheduled': 5, 'Investigating': 1, 'Open': 173, 'Waiting (Blocked)': 1}
+
+Average Lead Time (all PBIs): 915.8 days
+Average Lead Time (Bug): 164.0 days
+Average Lead Time (Improvement): 175.5 days
+Average Lead Time (Task): 1044.0 days
+Average Lead Time (New Feature): 362.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-25 16:42:34 End date: 2022-01-03 16:42:34
+System: {'MONGOID': 39}
+Types: {'Improvement': 17, 'Bug': 14, 'Task': 5, 'New Feature': 3}
+Resolutions: {'': 11, 'Fixed': 15, "Won't Do": 1, 'Gone away': 4, 'Duplicate': 6, 'Done': 2}
+Statuses: {'Needs Triage': 4, 'Closed': 28, 'In Progress': 1, 'Scheduled': 4, 'Investigating': 1, 'Open': 1}
+
+Average Lead Time (all PBIs): 219.6 days
+Average Lead Time (Bug): 40.0 days
+Average Lead Time (Improvement): 369.2 days
+Average Lead Time (Task): 15.0 days
+Average Lead Time (New Feature): 416.7 days

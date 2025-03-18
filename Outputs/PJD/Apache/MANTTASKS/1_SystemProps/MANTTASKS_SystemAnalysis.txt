@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2005-04-30 22:26:31 End date: 2018-02-02 12:00:15
+System: {'MANTTASKS': 245}
+Types: {'Bug': 167, 'Task': 4, 'Wish': 8, 'New Feature': 20, 'Improvement': 46}
+Resolutions: {"Won't Fix": 68, 'Done': 1, 'Not A Problem': 4, 'Fixed': 120, 'Auto Closed': 16, 'Cannot Reproduce': 10, 'Duplicate': 24, 'Incomplete': 2}
+Statuses: {'Closed': 245}
+
+Average Lead Time (all PBIs): 593.7 days
+Average Lead Time (Bug): 630.3 days
+Average Lead Time (Task): 162.2 days
+Average Lead Time (Wish): 385.4 days
+Average Lead Time (New Feature): 704.6 days
+Average Lead Time (Improvement): 486.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2017-10-25 12:00:15 End date: 2018-02-02 12:00:15
+System: {'MANTTASKS': 1}
+Types: {'Bug': 1}
+Resolutions: {"Won't Fix": 1}
+Statuses: {'Closed': 1}
+
+Average Lead Time (all PBIs): 272.0 days
+Average Lead Time (Bug): 272.0 days

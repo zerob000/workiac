@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2013-08-08 19:53:48 End date: 2017-11-08 15:03:18
+System: {'MAVIBOT': 49}
+Types: {'New Feature': 4, 'Bug': 15, 'Improvement': 27, 'Task': 3}
+Resolutions: {'': 7, 'Fixed': 39, "Won't Fix": 1, 'Invalid': 2}
+Statuses: {'Open': 7, 'Resolved': 20, 'Closed': 22}
+
+Average Lead Time (all PBIs): 96.9 days
+Average Lead Time (Bug): 25.8 days
+Average Lead Time (Improvement): 144.1 days
+Average Lead Time (Task): 35.0 days
+Average Lead Time (New Feature): 104.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2017-07-31 15:03:18 End date: 2017-11-08 15:03:18
+System: {'MAVIBOT': 2}
+Types: {'Improvement': 2}
+Resolutions: {"Won't Fix": 1, 'Fixed': 1}
+Statuses: {'Resolved': 2}
+
+Average Lead Time (all PBIs): 1322.5 days
+Average Lead Time (Improvement): 1322.5 days

@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 2014-06-13 06:34:00 End date: 2021-12-16 17:47:53
+System: {'RHDM': 1260}
+Types: {'Bug': 1013, 'Task': 77, 'Support Patch': 2, 'Enhancement': 131, 'Feature Request': 26, 'Requirement': 7, 'Component Upgrade': 4}
+Resolutions: {'': 95, 'Duplicate Issue': 49, 'Done': 861, 'Not a Bug': 5, 'Out of Date': 108, 'Explained': 18, 'Duplicate': 5, 'Cannot Reproduce': 17, "Won't Fix": 24, 'Fixed': 1, 'Deferred': 3, 'Incomplete Description': 1, "Won't Do": 44, 'Rejected': 26, 'Partially Completed': 3}
+Statuses: {'Open': 21, 'Closed': 446, 'New': 66, 'Pull Request Sent': 2, 'Resolved': 17, 'Verified': 699, 'Coding In Progress': 3, 'Ready for QA': 3, 'Awaiting Docs': 1, 'Reopened': 2}
+
+Average Lead Time (all PBIs): 162.5 days
+Average Lead Time (Task): 46.5 days
+Average Lead Time (Bug): 146.7 days
+Average Lead Time (Support Patch): 11.0 days
+Average Lead Time (Enhancement): 315.1 days
+Average Lead Time (Requirement): 524.5 days
+Average Lead Time (Feature Request): 404.8 days
+Average Lead Time (Component Upgrade): 45.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-07 17:47:53 End date: 2021-12-16 17:47:53
+System: {'RHDM': 53}
+Types: {'Bug': 40, 'Task': 8, 'Enhancement': 4, 'Requirement': 1}
+Resolutions: {'': 12, 'Duplicate Issue': 3, 'Done': 24, 'Not a Bug': 1, 'Out of Date': 8, 'Duplicate': 1, 'Cannot Reproduce': 1, "Won't Do": 3}
+Statuses: {'Open': 3, 'Closed': 20, 'New': 6, 'Pull Request Sent': 2, 'Resolved': 10, 'Verified': 9, 'Coding In Progress': 1, 'Ready for QA': 2}
+
+Average Lead Time (all PBIs): 230.4 days
+Average Lead Time (Task): 29.8 days
+Average Lead Time (Bug): 213.8 days
+Average Lead Time (Enhancement): 515.2 days
+Average Lead Time (Requirement): 791.0 days

@@ -1,0 +1,31 @@
+Key,ID,Project,IssueType,IsSubtask,Status,Resolution,Created Date,Resolved Date
+ABD-35,384750,ABD,Task,false,Needs Triage,,2021-12-13 18:18:07,
+ABD-34,383382,ABD,Bug,false,Closed,Fixed,2021-12-01 01:29:12,2021-12-09 01:24:42
+ABD-33,383354,ABD,Bug,false,Closed,Fixed,2021-11-30 22:09:03,2021-12-01 01:26:23
+ABD-32,378469,ABD,Task,false,Short Term Backlog,,2021-11-07 22:45:14,
+ABD-31,360485,ABD,Task,false,Short Term Backlog,,2021-07-20 21:02:27,
+ABD-29,375970,ABD,Task,false,Closed,Done,2021-10-19 03:56:31,2021-10-19 04:25:32
+ABD-28,375969,ABD,Task,false,Closed,Done,2021-10-19 03:51:14,2021-10-19 03:56:17
+ABD-26,365498,ABD,Task,false,Closed,Done,2021-08-31 18:40:26,2021-10-21 00:05:37
+ABD-25,365495,ABD,Task,false,Closed,Done,2021-08-31 18:36:42,2021-10-14 18:35:21
+ABD-24,365512,ABD,Task,false,Closed,Done,2021-08-31 19:15:14,2021-10-12 20:57:34
+ABD-23,365514,ABD,Task,false,Closed,Done,2021-08-31 19:16:50,2021-09-29 22:09:11
+ABD-22,365503,ABD,Task,false,Closed,Done,2021-08-31 19:06:03,2021-09-29 20:14:24
+ABD-21,365505,ABD,Task,false,Closed,Done,2021-08-31 19:06:15,2021-09-29 20:13:59
+ABD-20,365506,ABD,Task,false,Short Term Backlog,,2021-08-31 19:10:04,
+ABD-19,365507,ABD,Task,false,Short Term Backlog,,2021-08-31 19:10:23,
+ABD-18,365496,ABD,Task,false,Short Term Backlog,,2021-08-31 18:37:52,
+ABD-17,365493,ABD,Task,false,Closed,Done,2021-08-31 18:28:19,2021-08-31 18:36:11
+ABD-16,365494,ABD,Task,false,Closed,Done,2021-08-31 18:32:27,2021-10-25 17:35:18
+ABD-15,365497,ABD,Task,false,Closed,Done,2021-08-31 18:39:38,2021-10-25 17:35:03
+ABD-14,365501,ABD,Task,false,Short Term Backlog,,2021-08-31 18:44:59,
+ABD-13,365499,ABD,Task,false,Closed,Done,2021-08-31 18:42:14,2021-10-29 00:48:58
+ABD-12,365500,ABD,Task,false,Short Term Backlog,,2021-08-31 18:43:06,
+ABD-10,327227,ABD,Task,false,Short Term Backlog,,2020-12-08 22:00:11,
+ABD-9,327226,ABD,Task,false,Short Term Backlog,,2020-12-08 21:58:32,
+ABD-8,325809,ABD,Task,false,Short Term Backlog,,2020-11-24 16:57:31,
+ABD-7,363663,ABD,Task,false,Closed,Done,2021-08-17 00:01:03,2021-08-31 18:22:21
+ABD-6,362402,ABD,Task,false,Short Term Backlog,,2021-08-04 17:51:01,
+ABD-5,362405,ABD,Task,false,Long Term Backlog,,2021-08-04 17:57:26,
+ABD-4,362404,ABD,Task,false,Long Term Backlog,,2021-08-04 17:57:22,
+ABD-3,331455,ABD,Task,false,Closed,Done,2021-01-28 16:48:20,2021-10-18 23:37:59

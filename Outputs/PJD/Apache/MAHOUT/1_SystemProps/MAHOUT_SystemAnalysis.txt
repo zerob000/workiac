@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2008-01-30 18:10:17 End date: 2021-12-14 00:17:13
+System: {'MAHOUT': 2079}
+Types: {'Bug': 827, 'Improvement': 718, 'Task': 136, 'Question': 35, 'Story': 2, 'Wish': 24, 'New Feature': 267, 'Documentation': 37, 'Planned Work': 1, 'Proposal': 1, 'Test': 19, 'Dependency upgrade': 7, 'Blog - New Blog Request': 3, 'New JIRA Project': 2}
+Resolutions: {'': 103, 'Fixed': 1421, 'Not A Problem': 99, 'Invalid': 44, "Won't Fix": 241, 'Abandoned': 1, 'Done': 12, 'Duplicate': 69, 'Later': 29, 'Implemented': 37, 'Not A Bug': 1, 'Incomplete': 6, 'Workaround': 2, 'Cannot Reproduce': 14}
+Statuses: {'Open': 88, 'Resolved': 175, 'Reopened': 3, 'Closed': 1801, 'In Progress': 9, 'Patch Available': 3}
+
+Average Lead Time (all PBIs): 103.2 days
+Average Lead Time (Improvement): 101.1 days
+Average Lead Time (Task): 137.8 days
+Average Lead Time (Bug): 69.0 days
+Average Lead Time (Story): 72.5 days
+Average Lead Time (New Feature): 193.8 days
+Average Lead Time (Documentation): 184.2 days
+Average Lead Time (Wish): 126.3 days
+Average Lead Time (Test): 73.9 days
+Average Lead Time (Dependency upgrade): 23.3 days
+Average Lead Time (Question): 69.0 days
+Average Lead Time (Blog - New Blog Request): 22.3 days
+Average Lead Time (New JIRA Project): 741.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-05 00:17:13 End date: 2021-12-14 00:17:13
+System: {'MAHOUT': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

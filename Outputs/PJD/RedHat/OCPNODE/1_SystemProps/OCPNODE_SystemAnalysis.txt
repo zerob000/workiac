@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2021-01-14 11:14:59 End date: 2022-01-04 16:52:21
+System: {'OCPNODE': 173}
+Types: {'Story': 161, 'Task': 11, 'Bug': 1}
+Resolutions: {'': 87, 'Done': 86}
+Statuses: {'In Progress': 9, 'Done': 73, 'To Do': 73, 'Code Review': 4, 'Obsolete': 13, 'QE Review': 1}
+
+Average Lead Time (all PBIs): 58.9 days
+Average Lead Time (Task): 8.7 days
+Average Lead Time (Story): 63.4 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 16:52:21 End date: 2022-01-04 16:52:21
+System: {'OCPNODE': 85}
+Types: {'Story': 74, 'Task': 10, 'Bug': 1}
+Resolutions: {'': 43, 'Done': 42}
+Statuses: {'In Progress': 7, 'Done': 37, 'To Do': 34, 'Code Review': 2, 'Obsolete': 5}
+
+Average Lead Time (all PBIs): 68.2 days
+Average Lead Time (Task): 10.2 days
+Average Lead Time (Story): 77.9 days

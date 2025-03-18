@@ -1,0 +1,73 @@
+
+System Name: JENA
+System Duration (Captured): 4045 days
+
+Calculated Final System Size: 146 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 146 PBIs
+
+Model Final System Size: 127 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 127 PBIs
+
+% Error, Final backlog, model vs actual: 13.0%
+Error, Final backlog, model vs actual: -19 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 1066 PBIs
+Total Unplanned Arrivals: 1159 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 252 PBIs
+Total Net Arrivals: 1973 PBIs
+Total Services: 1827 PBIs
+
+Rates:
+Planned Arrival Rate: 0.265 PBIs/day
+Unplanned Arrival Rate: 0.298 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.067 PBIs/day
+Net Arrival Rate: 0.496 PBIs/day
+Service Rate: 0.527 PBIs/day
+
+
+Metrics:
+Stability: 1.063
+Quality: 0.471
+Control: 0.881
+Inventory Days: 277.04 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 146 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 146 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 41 PBIs
+Unplanned Arrivals in this period: 28 PBIs
+Cancelled/Rejected/Won't Do  in this period: 5 PBIs
+System size change in this period: 4 PBIs
+Net Arrivals in this period: 64 PBIs
+Services in this period: 59 PBIs
+
+Rates:
+Planned Arrival Rate: 0.369 PBIs/day
+Unplanned Arrival Rate: 0.259 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.076 PBIs/day
+Net Arrival Rate: 0.562 PBIs/day
+Service Rate: 0.522 PBIs/day
+
+Metrics:
+Stability: 0.946
+Quality: 0.588
+Control: 0.879
+Inventory Days: 279.693 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

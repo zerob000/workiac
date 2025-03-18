@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2015-10-08 21:29:31 End date: 2022-01-03 13:26:04
+System: {'FREEMARKER': 202}
+Types: {'Bug': 95, 'Task': 34, 'Improvement': 43, 'New Feature': 21, 'Wish': 9}
+Resolutions: {'': 59, 'Invalid': 18, 'Fixed': 81, 'Not A Bug': 7, 'Not A Problem': 5, 'Abandoned': 2, 'Works for Me': 2, 'Information Provided': 9, 'Implemented': 7, 'Duplicate': 4, 'Workaround': 2, 'Resolved': 1, "Won't Fix": 2, "Won't Do": 2, 'Incomplete': 1}
+Statuses: {'Open': 56, 'Closed': 107, 'In Progress': 3, 'Resolved': 36}
+
+Average Lead Time (all PBIs): 48.9 days
+Average Lead Time (Bug): 31.8 days
+Average Lead Time (New Feature): 139.6 days
+Average Lead Time (Improvement): 82.3 days
+Average Lead Time (Wish): 79.2 days
+Average Lead Time (Task): 23.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-25 13:26:04 End date: 2022-01-03 13:26:04
+System: {'FREEMARKER': 13}
+Types: {'Bug': 5, 'Task': 1, 'Improvement': 5, 'New Feature': 1, 'Wish': 1}
+Resolutions: {'': 5, 'Invalid': 3, 'Fixed': 5}
+Statuses: {'Open': 3, 'Closed': 3, 'In Progress': 2, 'Resolved': 5}
+
+Average Lead Time (all PBIs): 16.2 days
+Average Lead Time (Bug): 25.5 days
+Average Lead Time (New Feature): 6.0 days
+Average Lead Time (Improvement): 6.8 days
+Average Lead Time (Wish): 46.0 days

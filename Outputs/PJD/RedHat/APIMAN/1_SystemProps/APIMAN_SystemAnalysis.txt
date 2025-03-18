@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2014-04-24 13:31:10 End date: 2020-11-17 21:40:29
+System: {'APIMAN': 1196}
+Types: {'Feature Request': 205, 'Task': 201, 'Bug': 523, 'Enhancement': 267}
+Resolutions: {'': 399, 'Migrated to another ITS': 1, 'Done': 699, 'Rejected': 32, 'Cannot Reproduce': 16, "Won't Fix": 9, 'Out of Date': 12, 'Duplicate Issue': 24, 'Incomplete Description': 1, "Won't Do": 3}
+Statuses: {'Open': 381, 'Closed': 290, 'Resolved': 507, 'Coding In Progress': 18}
+
+Average Lead Time (all PBIs): 47.6 days
+Average Lead Time (Bug): 43.4 days
+Average Lead Time (Enhancement): 34.6 days
+Average Lead Time (Task): 59.7 days
+Average Lead Time (Feature Request): 71.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-08-09 21:40:29 End date: 2020-11-17 21:40:29
+System: {'APIMAN': 4}
+Types: {'Feature Request': 1, 'Task': 1, 'Bug': 2}
+Resolutions: {'': 3, 'Migrated to another ITS': 1}
+Statuses: {'Open': 3, 'Closed': 1}
+
+Average Lead Time (all PBIs): 0.0 days
+Average Lead Time (Bug): 0.0 days

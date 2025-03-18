@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 1982-11-26 02:23:00 End date: 2022-01-04 05:30:08
+System: {'CLOUD': 6793}
+Types: {'Bug': 3030, 'Suggestion': 3763}
+Resolutions: {'Invalid': 149, '': 786, 'Duplicate': 607, 'Not a bug': 113, 'Fixed': 2181, 'Cannot Reproduce': 121, "Won't Do": 6, "Won't Fix": 1806, 'Timed out': 56, 'Done': 8, 'Answered': 35, 'Handled by Support': 98, 'Spam': 15, 'Tracked Elsewhere': 45, 'Obsolete': 574, 'Incorrectly Filed': 4, 'Support Request': 158, 'Incomplete': 16, 'Deployed': 6, 'Resolved Locally': 9}
+Statuses: {'Closed': 5948, 'Long Term Backlog': 5, 'Gathering Interest': 339, 'In Progress': 9, 'Needs Triage': 417, 'Gathering Impact': 9, 'Waiting for Release': 60, 'Under Consideration': 3, 'Future Consideration': 3}
+
+Average Lead Time (all PBIs): 492.2 days
+Average Lead Time (Bug): 224.6 days
+Average Lead Time (Suggestion): 695.9 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 05:30:08 End date: 2022-01-04 05:30:08
+System: {'CLOUD': 92}
+Types: {'Bug': 34, 'Suggestion': 58}
+Resolutions: {'Invalid': 3, '': 35, 'Duplicate': 3, 'Not a bug': 1, 'Fixed': 12, 'Cannot Reproduce': 1, "Won't Do": 1, 'Done': 2, "Won't Fix": 22, 'Spam': 10, 'Obsolete': 2}
+Statuses: {'Closed': 57, 'Long Term Backlog': 3, 'Gathering Interest': 28, 'In Progress': 1, 'Needs Triage': 2, 'Gathering Impact': 1}
+
+Average Lead Time (all PBIs): 932.9 days
+Average Lead Time (Bug): 1001.3 days
+Average Lead Time (Suggestion): 871.3 days

@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2021-02-04 05:43:33 End date: 2021-12-16 18:34:41
+System: {'GRPA': 191}
+Types: {'Task': 22, 'Bug': 6, 'Story': 163}
+Resolutions: {'': 15, 'Done': 176}
+Statuses: {'Backlog': 11, 'Obsolete': 27, 'Done': 149, 'In Progress': 2, 'Pending': 1, 'ON_DEV': 1}
+
+Average Lead Time (all PBIs): 30.5 days
+Average Lead Time (Bug): 2.0 days
+Average Lead Time (Story): 32.8 days
+Average Lead Time (Task): 20.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-07 18:34:41 End date: 2021-12-16 18:34:41
+System: {'GRPA': 65}
+Types: {'Task': 6, 'Bug': 2, 'Story': 57}
+Resolutions: {'': 6, 'Done': 59}
+Statuses: {'Backlog': 6, 'Obsolete': 9, 'Done': 50}
+
+Average Lead Time (all PBIs): 41.6 days
+Average Lead Time (Bug): 3.0 days
+Average Lead Time (Story): 42.4 days
+Average Lead Time (Task): 50.5 days

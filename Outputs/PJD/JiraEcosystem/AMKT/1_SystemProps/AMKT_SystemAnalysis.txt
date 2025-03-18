@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2011-11-09 22:17:15 End date: 2021-12-17 12:24:00
+System: {'AMKT': 4106}
+Types: {'Bug': 2473, 'Improvement': 902, 'New Feature': 160, 'Support Request': 7, 'Task': 420, 'A/B Test': 12, 'Story': 132}
+Resolutions: {'Fixed': 2021, '': 97, 'Not a bug': 80, 'Resolved Locally': 5, "Won't Fix": 672, 'Done': 21, 'Obsolete': 421, 'Answered': 108, 'Invalid': 70, 'Duplicate': 381, 'Tracked Elsewhere': 21, "Won't Do": 4, 'Rejected': 1, 'Handled by Support': 69, 'Cannot Reproduce': 97, 'Roadmap Candidate': 20, 'Timed out': 9, 'Incomplete': 6, 'Unresolved': 3}
+Statuses: {'Closed': 4009, 'Triage': 54, 'New': 38, 'To Do': 1, 'Staging': 1, 'Ready for development': 1, 'Blocked Externally': 2}
+
+Average Lead Time (all PBIs): 106.9 days
+Average Lead Time (Bug): 79.4 days
+Average Lead Time (Task): 73.7 days
+Average Lead Time (Improvement): 175.6 days
+Average Lead Time (Story): 191.4 days
+Average Lead Time (Support Request): 66.2 days
+Average Lead Time (New Feature): 156.3 days
+Average Lead Time (A/B Test): 589.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-08 12:24:00 End date: 2021-12-17 12:24:00
+System: {'AMKT': 2}
+Types: {'Bug': 1, 'Improvement': 1}
+Resolutions: {'Fixed': 1, '': 1}
+Statuses: {'Closed': 1, 'Triage': 1}
+
+Average Lead Time (all PBIs): 0.0 days
+Average Lead Time (Bug): 0.0 days

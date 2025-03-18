@@ -1,0 +1,44 @@
+All PBIS - Unfiltered 
+Start date: 2003-09-25 17:39:46 End date: 2022-01-05 20:41:40
+System: {'GROOVY': 9948}
+Types: {'Bug': 6749, 'Dependency upgrade': 350, 'Task': 193, 'Improvement': 1880, 'Technical Debt': 3, 'Question': 22, 'New Feature': 565, 'Proposal': 3, 'Wish': 122, 'Documentation': 40, 'Request': 1, 'Project': 1, 'Test': 15, 'Planned Work': 1, 'Temp': 1, 'Brainstorming': 1, 'Story': 1}
+Resolutions: {'': 1213, 'Fixed': 6958, 'Not A Problem': 306, 'Information Provided': 23, 'Duplicate': 358, "Won't Fix": 769, 'Not A Bug': 25, 'Works for Me': 4, 'Incomplete': 79, 'Invalid': 21, 'Cannot Reproduce': 165, 'Done': 3, 'Implemented': 6, 'Resolved': 4, "Won't Do": 4, 'Workaround': 1, 'Auto Closed': 1, 'Abandoned': 8}
+Statuses: {'Open': 1178, 'Resolved': 390, 'Closed': 8345, 'In Progress': 14, 'Reopened': 21}
+
+Average Lead Time (all PBIs): 242.3 days
+Average Lead Time (Dependency upgrade): 9.2 days
+Average Lead Time (Bug): 226.8 days
+Average Lead Time (Task): 345.2 days
+Average Lead Time (Improvement): 274.2 days
+Average Lead Time (Question): 125.2 days
+Average Lead Time (Technical Debt): 68.0 days
+Average Lead Time (New Feature): 447.6 days
+Average Lead Time (Proposal): 44.5 days
+Average Lead Time (Documentation): 57.9 days
+Average Lead Time (Request): 60.0 days
+Average Lead Time (Project): 0.0 days
+Average Lead Time (Test): 295.2 days
+Average Lead Time (Wish): 401.6 days
+Average Lead Time (Planned Work): 440.0 days
+Average Lead Time (Temp): 0.0 days
+Average Lead Time (Brainstorming): 1.0 days
+Average Lead Time (Story): 518.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-27 20:41:40 End date: 2022-01-05 20:41:40
+System: {'GROOVY': 277}
+Types: {'Bug': 186, 'Dependency upgrade': 38, 'Task': 6, 'Improvement': 38, 'Technical Debt': 2, 'Question': 2, 'New Feature': 4, 'Proposal': 1}
+Resolutions: {'': 42, 'Fixed': 205, 'Not A Problem': 2, 'Information Provided': 15, 'Duplicate': 5, "Won't Fix": 3, "Won't Do": 2, 'Cannot Reproduce': 1, 'Done': 1, 'Abandoned': 1}
+Statuses: {'Open': 41, 'Resolved': 213, 'Closed': 22, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 874.8 days
+Average Lead Time (Dependency upgrade): 0.3 days
+Average Lead Time (Bug): 1145.3 days
+Average Lead Time (Task): 1503.0 days
+Average Lead Time (Improvement): 575.7 days
+Average Lead Time (Question): 63.0 days
+Average Lead Time (Technical Debt): 68.0 days
+Average Lead Time (New Feature): 1080.8 days
+Average Lead Time (Proposal): 89.0 days

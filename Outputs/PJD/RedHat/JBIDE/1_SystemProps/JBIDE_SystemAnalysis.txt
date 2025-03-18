@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2003-01-31 10:45:12 End date: 2021-12-30 12:28:31
+System: {'JBIDE': 23261}
+Types: {'Bug': 14582, 'Task': 3237, 'Enhancement': 1479, 'Feature Request': 3874, 'Story': 1, 'Component Upgrade': 67, 'Patch': 10, 'Release': 2, 'Quality Risk': 9}
+Resolutions: {'': 1180, 'Done': 17349, 'Not a Bug': 4, 'Duplicate Issue': 973, 'Cannot Reproduce': 729, 'Out of Date': 1034, "Won't Do": 76, 'Duplicate': 4, "Won't Fix": 832, 'Explained': 5, 'Incomplete Description': 58, 'Partially Completed': 127, 'Rejected': 838, 'Deferred': 29, 'Migrated to another ITS': 16, 'Fixed': 6, 'Upstream': 1}
+Statuses: {'Open': 1037, 'Resolved': 269, 'Pull Request Sent': 55, 'Closed': 21812, 'Coding In Progress': 12, 'Reopened': 76}
+
+Average Lead Time (all PBIs): 178.5 days
+Average Lead Time (Task): 79.6 days
+Average Lead Time (Bug): 156.6 days
+Average Lead Time (Enhancement): 169.7 days
+Average Lead Time (Feature Request): 352.3 days
+Average Lead Time (Component Upgrade): 25.0 days
+Average Lead Time (Patch): 454.2 days
+Average Lead Time (Release): 808.5 days
+Average Lead Time (Quality Risk): 545.9 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-21 12:28:31 End date: 2021-12-30 12:28:31
+System: {'JBIDE': 204}
+Types: {'Bug': 82, 'Task': 111, 'Enhancement': 7, 'Feature Request': 3, 'Story': 1}
+Resolutions: {'': 57, 'Done': 130, 'Not a Bug': 2, 'Duplicate Issue': 1, 'Cannot Reproduce': 1, 'Out of Date': 5, "Won't Do": 7, 'Incomplete Description': 1}
+Statuses: {'Open': 42, 'Resolved': 26, 'Pull Request Sent': 13, 'Closed': 121, 'Coding In Progress': 1, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 102.9 days
+Average Lead Time (Task): 79.6 days
+Average Lead Time (Bug): 116.0 days
+Average Lead Time (Enhancement): 422.4 days
+Average Lead Time (Feature Request): 62.5 days

@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 2017-04-20 18:44:44 End date: 2022-01-05 20:03:29
+System: {'HDDS': 4139}
+Types: {'Improvement': 1407, 'Bug': 2277, 'Task': 246, 'Test': 54, 'New Feature': 151, 'Wish': 4}
+Resolutions: {'': 807, 'Done': 99, 'Fixed': 2683, 'Resolved': 39, 'Implemented': 84, 'Duplicate': 196, 'Information Provided': 3, 'Workaround': 3, 'Later': 4, 'Not A Problem': 77, 'Invalid': 25, 'Not A Bug': 16, "Won't Do": 16, "Won't Fix": 36, 'Auto Closed': 1, 'Cannot Reproduce': 35, 'Abandoned': 14, 'Incomplete': 1}
+Statuses: {'Open': 759, 'Resolved': 3321, 'Patch Available': 14, 'In Progress': 21, 'Closed': 11, 'Reopened': 13}
+
+Average Lead Time (all PBIs): 39.0 days
+Average Lead Time (Task): 37.7 days
+Average Lead Time (Bug): 38.4 days
+Average Lead Time (Improvement): 34.1 days
+Average Lead Time (Test): 60.7 days
+Average Lead Time (New Feature): 112.4 days
+Average Lead Time (Wish): 1.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-27 20:03:29 End date: 2022-01-05 20:03:29
+System: {'HDDS': 227}
+Types: {'Improvement': 76, 'Bug': 109, 'Task': 31, 'Test': 2, 'New Feature': 9}
+Resolutions: {'': 75, 'Done': 23, 'Fixed': 93, 'Resolved': 8, 'Implemented': 8, 'Duplicate': 13, 'Information Provided': 1, 'Workaround': 2, 'Later': 1, 'Not A Problem': 2, "Won't Do": 1}
+Statuses: {'Open': 62, 'Resolved': 151, 'Patch Available': 9, 'In Progress': 4, 'Closed': 1}
+
+Average Lead Time (all PBIs): 39.7 days
+Average Lead Time (Task): 29.3 days
+Average Lead Time (Bug): 44.1 days
+Average Lead Time (Improvement): 31.9 days
+Average Lead Time (Test): 0.0 days
+Average Lead Time (New Feature): 127.8 days

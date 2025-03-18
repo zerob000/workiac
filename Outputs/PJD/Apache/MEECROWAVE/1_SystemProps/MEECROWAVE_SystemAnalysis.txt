@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2017-01-08 19:26:07 End date: 2021-12-18 18:56:11
+System: {'MEECROWAVE': 306}
+Types: {'Improvement': 60, 'Task': 136, 'Bug': 84, 'New Feature': 26}
+Resolutions: {'Fixed': 296, '': 3, 'Not A Problem': 4, 'Cannot Reproduce': 1, 'Feedback Received': 1, 'Invalid': 1}
+Statuses: {'Resolved': 157, 'Open': 3, 'Closed': 146}
+
+Average Lead Time (all PBIs): 12.5 days
+Average Lead Time (Improvement): 18.5 days
+Average Lead Time (Task): 4.0 days
+Average Lead Time (Bug): 21.2 days
+Average Lead Time (New Feature): 15.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-09 18:56:11 End date: 2021-12-18 18:56:11
+System: {'MEECROWAVE': 10}
+Types: {'Improvement': 2, 'Task': 7, 'Bug': 1}
+Resolutions: {'Fixed': 10}
+Statuses: {'Resolved': 10}
+
+Average Lead Time (all PBIs): 42.3 days
+Average Lead Time (Improvement): 0.0 days
+Average Lead Time (Task): 60.4 days
+Average Lead Time (Bug): 0.0 days

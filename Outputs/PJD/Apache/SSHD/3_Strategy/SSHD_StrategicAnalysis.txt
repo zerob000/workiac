@@ -1,0 +1,73 @@
+
+System Name: SSHD
+System Duration (Captured): 4772 days
+
+Calculated Final System Size: 83 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 83 PBIs
+
+Model Final System Size: 73 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 73 PBIs
+
+% Error, Final backlog, model vs actual: 12.0%
+Error, Final backlog, model vs actual: -10 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 626 PBIs
+Total Unplanned Arrivals: 608 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 197 PBIs
+Total Net Arrivals: 1037 PBIs
+Total Services: 954 PBIs
+
+Rates:
+Planned Arrival Rate: 0.152 PBIs/day
+Unplanned Arrival Rate: 0.129 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.046 PBIs/day
+Net Arrival Rate: 0.235 PBIs/day
+Service Rate: 0.222 PBIs/day
+
+
+Metrics:
+Stability: 0.945
+Quality: 0.541
+Control: 0.836
+Inventory Days: 373.874 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 96 days
+
+Calculated Final System Size: 83 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 83 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 9 PBIs
+Unplanned Arrivals in this period: 9 PBIs
+Cancelled/Rejected/Won't Do  in this period: 5 PBIs
+System size change in this period: -6 PBIs
+Net Arrivals in this period: 13 PBIs
+Services in this period: 18 PBIs
+
+Rates:
+Planned Arrival Rate: 0.107 PBIs/day
+Unplanned Arrival Rate: 0.151 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.071 PBIs/day
+Net Arrival Rate: 0.155 PBIs/day
+Service Rate: 0.271 PBIs/day
+
+Metrics:
+Stability: 1.449
+Quality: 0.415
+Control: 0.725
+Inventory Days: 306.273 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

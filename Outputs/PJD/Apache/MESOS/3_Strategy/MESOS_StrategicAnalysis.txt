@@ -1,0 +1,73 @@
+
+System Name: MESOS
+System Duration (Captured): 3962 days
+
+Calculated Final System Size: 2885 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 2885 PBIs
+
+Model Final System Size: 5203 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 5203 PBIs
+
+% Error, Final backlog, model vs actual: 80.0%
+Error, Final backlog, model vs actual: 2318 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 4912 PBIs
+Total Unplanned Arrivals: 5002 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 1415 PBIs
+Total Net Arrivals: 8499 PBIs
+Total Services: 5614 PBIs
+
+Rates:
+Planned Arrival Rate: 2.208 PBIs/day
+Unplanned Arrival Rate: 2.129 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.566 PBIs/day
+Net Arrival Rate: 3.771 PBIs/day
+Service Rate: 2.226 PBIs/day
+
+
+Metrics:
+Stability: 0.59
+Quality: 0.509
+Control: 0.869
+Inventory Days: 1296.047 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 97 days
+
+Calculated Final System Size: 2885 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 2885 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 0 PBIs
+Unplanned Arrivals in this period: 3 PBIs
+Cancelled/Rejected/Won't Do  in this period: 4 PBIs
+System size change in this period: -6 PBIs
+Net Arrivals in this period: -1 PBIs
+Services in this period: 4 PBIs
+
+Rates:
+Planned Arrival Rate: NaN PBIs/day
+Unplanned Arrival Rate: 0.03 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.278 PBIs/day
+Net Arrival Rate: 0.009 PBIs/day
+Service Rate: 0.112 PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2010-05-18 10:55:52 End date: 2021-11-26 12:28:38
+System: {'NEXUS': 321}
+Types: {'Story': 170, 'Bug': 130, 'Release': 21}
+Resolutions: {'': 20, 'Done': 272, 'Out of Date': 8, "Won't Fix": 10, 'Duplicate Issue': 3, 'Partially Completed': 2, 'Cannot Reproduce': 1, 'Rejected': 3, "Won't Do": 2}
+Statuses: {'To Do': 20, 'Done': 300, 'In Review': 1}
+
+Average Lead Time (all PBIs): 110.0 days
+Average Lead Time (Story): 175.4 days
+Average Lead Time (Bug): 49.3 days
+Average Lead Time (Release): 12.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-08-18 12:28:38 End date: 2021-11-26 12:28:38
+System: {'NEXUS': 14}
+Types: {'Story': 11, 'Bug': 3}
+Resolutions: {'': 7, 'Done': 6, 'Out of Date': 1}
+Statuses: {'To Do': 7, 'Done': 6, 'In Review': 1}
+
+Average Lead Time (all PBIs): 229.0 days
+Average Lead Time (Story): 184.5 days
+Average Lead Time (Bug): 288.3 days

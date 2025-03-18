@@ -1,0 +1,27 @@
+Type,Count
+,34390
+Done,223855
+Won't Do,4333
+Explained,1930
+Rejected,12108
+Won't Fix,7827
+Deferred,1533
+Out of Date,17719
+Duplicate Issue,10080
+Cannot Reproduce,4581
+Fixed,206
+Partially Completed,633
+Incomplete Description,667
+Errata,3
+Duplicate,258
+Not a Bug,340
+Obsolete,130
+Migrated to another ITS,633
+Resolved at Apache,127
+Next Release,8
+Current Release,19
+Incomplete,12
+Upstream,19
+BugzillaOrphan,5
+EOL,2
+Invalid Ticket,3

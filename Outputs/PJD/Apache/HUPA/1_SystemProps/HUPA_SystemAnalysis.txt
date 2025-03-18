@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2009-07-24 13:46:08 End date: 2018-02-25 09:42:17
+System: {'HUPA': 116}
+Types: {'Bug': 48, 'Story': 2, 'Improvement': 36, 'Documentation': 1, 'Dependency upgrade': 1, 'New Feature': 19, 'Task': 8, 'Wish': 1}
+Resolutions: {'': 36, 'Invalid': 3, 'Not A Problem': 4, 'Fixed': 70, "Won't Fix": 1, 'Duplicate': 2}
+Statuses: {'Open': 36, 'Closed': 19, 'Resolved': 61}
+
+Average Lead Time (all PBIs): 84.8 days
+Average Lead Time (Story): 0.0 days
+Average Lead Time (Bug): 26.3 days
+Average Lead Time (Documentation): 1095.0 days
+Average Lead Time (Improvement): 29.5 days
+Average Lead Time (New Feature): 141.0 days
+Average Lead Time (Task): 451.5 days
+Average Lead Time (Wish): 963.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2017-11-17 09:42:17 End date: 2018-02-25 09:42:17
+System: {'HUPA': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2005-01-03 00:18:41 End date: 2021-11-23 11:45:31
+System: {'FLEX': 35123}
+Types: {'Task': 1393, 'Bug': 30691, 'Improvement': 2403, 'Question': 18, 'New Feature': 577, 'Story': 4, 'Wish': 17, 'Documentation': 13, 'Dependency upgrade': 2, 'Test': 4, 'Brainstorming': 1}
+Resolutions: {'Fixed': 16938, '': 3817, 'Duplicate': 1979, 'Cannot Reproduce': 2346, 'Invalid': 298, 'Workaround': 5, 'Not A Problem': 4304, 'Resolved': 2, 'Done': 40, "Won't Fix": 798, 'Not A Bug': 6, 'Delivered': 1, 'Implemented': 23, 'Pending Closed': 1, 'Incomplete': 233, 'Later': 4332}
+Statuses: {'Resolved': 1824, 'Open': 3747, 'Closed': 29482, 'In Progress': 20, 'Reopened': 50}
+
+Average Lead Time (all PBIs): 261.6 days
+Average Lead Time (Task): 270.2 days
+Average Lead Time (Bug): 250.8 days
+Average Lead Time (Improvement): 261.8 days
+Average Lead Time (New Feature): 1029.6 days
+Average Lead Time (Question): 151.0 days
+Average Lead Time (Dependency upgrade): 6.0 days
+Average Lead Time (Wish): 150.8 days
+Average Lead Time (Test): 67.5 days
+Average Lead Time (Story): 163.0 days
+Average Lead Time (Documentation): 3.0 days
+Average Lead Time (Brainstorming): 4.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-08-15 11:45:31 End date: 2021-11-23 11:45:31
+System: {'FLEX': 2}
+Types: {'Task': 2}
+Resolutions: {'Fixed': 1, '': 1}
+Statuses: {'Resolved': 1, 'Open': 1}
+
+Average Lead Time (all PBIs): 0.0 days
+Average Lead Time (Task): 0.0 days

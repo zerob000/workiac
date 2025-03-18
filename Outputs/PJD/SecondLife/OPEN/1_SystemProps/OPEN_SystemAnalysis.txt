@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2008-10-05 08:35:38 End date: 2021-11-16 13:12:42
+System: {'OPEN': 247}
+Types: {'Bug': 195, 'New Feature': 48, 'Meta Issue': 4}
+Resolutions: {'': 103, 'Incomplete': 14, 'Done': 2, 'Released': 16, 'Fixed': 63, 'Duplicate': 5, 'Accepted': 1, "Won't Finish": 30, 'Expected Behavior': 5, 'Not Applicable': 8}
+Statuses: {'Open': 88, 'Needs More Info': 13, 'Closed': 120, 'Reviewing': 8, 'Pending Release': 11, 'In QA': 5, 'In Progress': 1, 'Product Review': 1}
+
+Average Lead Time (all PBIs): 485.2 days
+Average Lead Time (Bug): 533.2 days
+Average Lead Time (New Feature): 328.1 days
+Average Lead Time (Meta Issue): 381.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-08-08 13:12:42 End date: 2021-11-16 13:12:42
+System: {'OPEN': 2}
+Types: {'Bug': 2}
+Resolutions: {'': 1, 'Incomplete': 1}
+Statuses: {'Open': 1, 'Needs More Info': 1}
+
+Average Lead Time (all PBIs): 3.0 days
+Average Lead Time (Bug): 3.0 days

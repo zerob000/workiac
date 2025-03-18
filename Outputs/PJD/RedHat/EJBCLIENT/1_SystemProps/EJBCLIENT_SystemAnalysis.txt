@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2011-09-28 11:20:00 End date: 2021-12-18 15:12:01
+System: {'EJBCLIENT': 380}
+Types: {'Component Upgrade': 17, 'Enhancement': 58, 'Task': 31, 'Bug': 231, 'Feature Request': 38, 'Requirement': 2, 'Documentation': 1, 'Patch': 2}
+Resolutions: {'Done': 308, 'Explained': 2, '': 45, 'Rejected': 8, 'Duplicate Issue': 6, 'Duplicate': 1, 'Out of Date': 4, 'Migrated to another ITS': 1, 'Cannot Reproduce': 2, "Won't Fix": 3}
+Statuses: {'Resolved': 309, 'Closed': 26, 'Open': 29, 'Pull Request Sent': 12, 'Coding In Progress': 2, 'Reopened': 2}
+
+Average Lead Time (all PBIs): 132.7 days
+Average Lead Time (Component Upgrade): 64.2 days
+Average Lead Time (Enhancement): 107.5 days
+Average Lead Time (Task): 138.6 days
+Average Lead Time (Bug): 130.5 days
+Average Lead Time (Requirement): 536.0 days
+Average Lead Time (Feature Request): 228.1 days
+Average Lead Time (Documentation): 0.0 days
+Average Lead Time (Patch): 3.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-09 15:12:01 End date: 2021-12-18 15:12:01
+System: {'EJBCLIENT': 8}
+Types: {'Component Upgrade': 3, 'Enhancement': 1, 'Task': 3, 'Bug': 1}
+Resolutions: {'Done': 7, 'Explained': 1}
+Statuses: {'Resolved': 7, 'Closed': 1}
+
+Average Lead Time (all PBIs): 117.4 days
+Average Lead Time (Component Upgrade): 104.7 days
+Average Lead Time (Enhancement): 229.0 days
+Average Lead Time (Task): 80.0 days
+Average Lead Time (Bug): 156.0 days

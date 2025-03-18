@@ -1,0 +1,73 @@
+
+System Name: MEECROWAVE
+System Duration (Captured): 1804 days
+
+Calculated Final System Size: 3 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 3 PBIs
+
+Model Final System Size: 16 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 16 PBIs
+
+% Error, Final backlog, model vs actual: 433.0%
+Error, Final backlog, model vs actual: 13 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 222 PBIs
+Total Unplanned Arrivals: 84 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 6 PBIs
+Total Net Arrivals: 300 PBIs
+Total Services: 297 PBIs
+
+Rates:
+Planned Arrival Rate: 0.123 PBIs/day
+Unplanned Arrival Rate: 0.059 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.003 PBIs/day
+Net Arrival Rate: 0.179 PBIs/day
+Service Rate: 0.169 PBIs/day
+
+
+Metrics:
+Stability: 0.944
+Quality: 0.676
+Control: 0.984
+Inventory Days: 17.751 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Start-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 76 days
+
+Calculated Final System Size: 3 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 3 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 7 PBIs
+Unplanned Arrivals in this period: 0 PBIs
+Cancelled/Rejected/Won't Do  in this period: 0 PBIs
+System size change in this period: -2 PBIs
+Net Arrivals in this period: 7 PBIs
+Services in this period: 9 PBIs
+
+Rates:
+Planned Arrival Rate: 0.059 PBIs/day
+Unplanned Arrival Rate: NaN PBIs/day
+Cancelled/Rejected/Won't Do Rate: NaN PBIs/day
+Net Arrival Rate: 0.067 PBIs/day
+Service Rate: 0.074 PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Start-up
+

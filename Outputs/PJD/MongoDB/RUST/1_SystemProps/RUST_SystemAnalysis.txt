@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2018-05-10 19:05:26 End date: 2021-12-21 18:59:19
+System: {'RUST': 983}
+Types: {'Task': 254, 'Improvement': 298, 'Bug': 121, 'New Feature': 291, 'Spec Change': 19}
+Resolutions: {'': 203, 'Duplicate': 78, 'Fixed': 481, 'Done': 57, 'Works as Designed': 55, "Won't Do": 20, 'Gone away': 14, "Won't Fix": 59, 'Community Answered': 13, 'Declined': 3}
+Statuses: {'Needs Triage': 7, 'In Progress': 4, 'Scheduled': 4, 'Closed': 780, 'Open': 159, 'In Code Review': 3, 'Waiting (Blocked)': 21, 'Investigating': 5}
+
+Average Lead Time (all PBIs): 85.2 days
+Average Lead Time (Task): 74.6 days
+Average Lead Time (Bug): 41.4 days
+Average Lead Time (New Feature): 154.5 days
+Average Lead Time (Improvement): 40.8 days
+Average Lead Time (Spec Change): 35.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-12 18:59:19 End date: 2021-12-21 18:59:19
+System: {'RUST': 145}
+Types: {'Task': 53, 'Improvement': 31, 'Bug': 18, 'New Feature': 31, 'Spec Change': 12}
+Resolutions: {'': 53, 'Duplicate': 8, 'Fixed': 66, 'Done': 9, 'Works as Designed': 7, "Won't Do": 1, "Won't Fix": 1}
+Statuses: {'Needs Triage': 7, 'In Progress': 3, 'Scheduled': 2, 'Closed': 92, 'Open': 30, 'In Code Review': 1, 'Waiting (Blocked)': 10}
+
+Average Lead Time (all PBIs): 121.9 days
+Average Lead Time (Task): 67.5 days
+Average Lead Time (Bug): 43.8 days
+Average Lead Time (New Feature): 271.6 days
+Average Lead Time (Improvement): 94.1 days
+Average Lead Time (Spec Change): 41.0 days

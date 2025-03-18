@@ -1,0 +1,33 @@
+All PBIS - Unfiltered 
+Start date: 2011-01-21 22:00:31 End date: 2022-01-04 17:28:30
+System: {'ENTESB': 12739}
+Types: {'Bug': 8868, 'Task': 1472, 'Feature Request': 740, 'Enhancement': 1371, 'Documentation': 158, 'Clarification': 61, 'Component Upgrade': 67, 'Risk': 2}
+Resolutions: {'': 406, 'Done': 9028, 'Not a Bug': 14, "Won't Fix": 623, 'Duplicate Issue': 530, "Won't Do": 338, 'Rejected': 358, 'Explained': 289, 'Fixed': 42, 'Cannot Reproduce': 246, 'Partially Completed': 64, 'Migrated to another ITS': 20, 'Duplicate': 6, 'Out of Date': 660, 'Obsolete': 4, 'Next Release': 1, 'Current Release': 3, 'Incomplete Description': 25, 'Resolved at Apache': 53, 'Deferred': 21, 'Upstream': 8}
+Statuses: {'Inbox': 17, 'Open': 54, 'Closed': 10266, 'Productization Backlog': 21, 'Release Backlog': 39, 'Resolved': 287, 'Product Backlog': 227, 'In Clarification': 6, 'In Development': 11, 'Done': 1780, 'Development Next': 15, 'Validation Backlog': 8, 'Coding In Progress': 1, 'In Review': 4, 'Validation Failed': 3}
+
+Average Lead Time (all PBIs): 111.3 days
+Average Lead Time (Bug): 88.5 days
+Average Lead Time (Task): 120.4 days
+Average Lead Time (Clarification): 92.3 days
+Average Lead Time (Enhancement): 190.4 days
+Average Lead Time (Feature Request): 221.8 days
+Average Lead Time (Component Upgrade): 52.2 days
+Average Lead Time (Risk): 121.0 days
+Average Lead Time (Documentation): 236.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 17:28:30 End date: 2022-01-04 17:28:30
+System: {'ENTESB': 448}
+Types: {'Bug': 259, 'Task': 34, 'Feature Request': 28, 'Enhancement': 99, 'Documentation': 1, 'Clarification': 10, 'Component Upgrade': 17}
+Resolutions: {'': 156, 'Done': 226, 'Not a Bug': 4, "Won't Fix": 5, 'Duplicate Issue': 9, "Won't Do": 13, 'Rejected': 3, 'Explained': 8, 'Fixed': 12, 'Cannot Reproduce': 4, 'Duplicate': 1, 'Out of Date': 3, 'Obsolete': 3, 'Partially Completed': 1}
+Statuses: {'Inbox': 17, 'Open': 12, 'Closed': 92, 'Productization Backlog': 15, 'Release Backlog': 21, 'Resolved': 12, 'Product Backlog': 62, 'In Clarification': 6, 'In Development': 6, 'Done': 188, 'Development Next': 10, 'Validation Backlog': 5, 'Coding In Progress': 1, 'In Review': 1}
+
+Average Lead Time (all PBIs): 129.1 days
+Average Lead Time (Bug): 96.4 days
+Average Lead Time (Task): 294.7 days
+Average Lead Time (Clarification): 25.1 days
+Average Lead Time (Enhancement): 173.3 days
+Average Lead Time (Feature Request): 230.0 days
+Average Lead Time (Component Upgrade): 36.7 days

@@ -1,0 +1,33 @@
+All PBIS - Unfiltered 
+Start date: 2009-07-30 03:20:44 End date: 2021-12-30 08:27:47
+System: {'TOOLS': 2327}
+Types: {'Bug': 890, 'Task': 772, 'Investigation': 64, 'Question': 117, 'Backport': 47, 'Release': 10, 'New Feature': 377, 'Build Failure': 50}
+Resolutions: {'': 291, 'Incomplete': 31, 'Works as Designed': 102, 'Duplicate': 231, 'Done': 166, 'Gone away': 150, 'Fixed': 1104, 'Declined': 18, 'Community Answered': 12, "Won't Do": 10, "Won't Fix": 197, 'Cannot Reproduce': 15}
+Statuses: {'Needs Triage': 5, 'Closed': 2036, 'Waiting for Reporter': 7, 'Scheduled': 9, 'Accepted': 258, 'In Progress': 2, 'Waiting (Blocked)': 9, 'In Code Review': 1}
+
+Average Lead Time (all PBIs): 225.9 days
+Average Lead Time (Bug): 200.0 days
+Average Lead Time (Task): 300.7 days
+Average Lead Time (Investigation): 71.6 days
+Average Lead Time (Backport): 30.1 days
+Average Lead Time (Question): 30.6 days
+Average Lead Time (Release): 40.3 days
+Average Lead Time (New Feature): 269.7 days
+Average Lead Time (Build Failure): 38.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-21 08:27:47 End date: 2021-12-30 08:27:47
+System: {'TOOLS': 36}
+Types: {'Bug': 6, 'Task': 7, 'Investigation': 18, 'Question': 3, 'Backport': 1, 'Release': 1}
+Resolutions: {'': 20, 'Incomplete': 1, 'Works as Designed': 2, 'Duplicate': 2, 'Done': 4, 'Gone away': 3, 'Fixed': 2, 'Declined': 2}
+Statuses: {'Needs Triage': 5, 'Closed': 16, 'Waiting for Reporter': 4, 'Scheduled': 4, 'Accepted': 5, 'In Progress': 2}
+
+Average Lead Time (all PBIs): 24.6 days
+Average Lead Time (Bug): 18.0 days
+Average Lead Time (Task): 8.0 days
+Average Lead Time (Investigation): 1.0 days
+Average Lead Time (Backport): 0.0 days
+Average Lead Time (Question): 139.5 days
+Average Lead Time (Release): 6.0 days

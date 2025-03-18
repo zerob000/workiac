@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2016-08-10 17:47:14 End date: 2021-08-20 10:18:15
+System: {'FABC': 806}
+Types: {'Bug': 332, 'Story': 238, 'Task': 225, 'Documentation': 9, 'Test Task': 2}
+Resolutions: {'': 101, 'Invalid: Works as Expected': 4, 'Done': 574, 'Invalid': 34, 'Duplicate': 20, 'Invalid: Environment Issue': 3, "Won't Do": 70}
+Statuses: {'Unverified': 12, 'Closed': 705, 'Backlog': 26, 'Returned': 1, 'In CR Review': 6, 'To Do': 54, 'In Progress': 2}
+
+Average Lead Time (all PBIs): 154.7 days
+Average Lead Time (Bug): 86.1 days
+Average Lead Time (Story): 281.1 days
+Average Lead Time (Task): 154.6 days
+Average Lead Time (Documentation): 51.4 days
+Average Lead Time (Test Task): 71.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-05-12 10:18:15 End date: 2021-08-20 10:18:15
+System: {'FABC': 3}
+Types: {'Bug': 2, 'Story': 1}
+Resolutions: {'': 1, 'Invalid: Works as Expected': 1, 'Done': 1}
+Statuses: {'Unverified': 1, 'Closed': 2}
+
+Average Lead Time (all PBIs): 25.5 days
+Average Lead Time (Bug): 13.0 days
+Average Lead Time (Story): 38.0 days

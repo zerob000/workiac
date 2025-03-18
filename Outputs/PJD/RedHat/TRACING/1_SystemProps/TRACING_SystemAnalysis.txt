@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2018-01-26 03:49:25 End date: 2021-12-21 16:29:46
+System: {'TRACING': 1340}
+Types: {'Task': 305, 'Bug': 162, 'QE Task': 183, 'Dev Task': 627, 'Docs Task': 29, 'Story': 33, 'Business Requirement': 1}
+Resolutions: {'': 89, 'Done': 949, 'Rejected': 302}
+Statuses: {'New': 28, 'Backlog': 51, 'Awaiting Release': 659, 'Done': 229, 'Review in Progress': 1, 'Rejected': 302, 'In Progress': 9, 'Released': 61}
+
+Average Lead Time (all PBIs): 85.8 days
+Average Lead Time (Dev Task): 72.4 days
+Average Lead Time (QE Task): 138.6 days
+Average Lead Time (Task): 99.2 days
+Average Lead Time (Bug): 32.4 days
+Average Lead Time (Story): 167.6 days
+Average Lead Time (Docs Task): 161.5 days
+Average Lead Time (Business Requirement): 83.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-12 16:29:46 End date: 2021-12-21 16:29:46
+System: {'TRACING': 124}
+Types: {'Task': 33, 'Bug': 12, 'QE Task': 27, 'Dev Task': 36, 'Docs Task': 1, 'Story': 15}
+Resolutions: {'': 42, 'Done': 51, 'Rejected': 31}
+Statuses: {'New': 28, 'Backlog': 11, 'Awaiting Release': 33, 'Done': 18, 'Review in Progress': 1, 'Rejected': 31, 'In Progress': 2}
+
+Average Lead Time (all PBIs): 169.1 days
+Average Lead Time (Dev Task): 123.9 days
+Average Lead Time (QE Task): 677.1 days
+Average Lead Time (Task): 64.3 days
+Average Lead Time (Bug): 59.2 days
+Average Lead Time (Story): 6.5 days

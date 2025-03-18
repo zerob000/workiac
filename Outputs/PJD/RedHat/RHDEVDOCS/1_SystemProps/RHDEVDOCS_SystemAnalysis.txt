@@ -1,0 +1,32 @@
+All PBIS - Unfiltered 
+Start date: 2012-06-22 07:15:26 End date: 2022-01-04 19:24:13
+System: {'RHDEVDOCS': 2222}
+Types: {'Task': 1170, 'Story': 168, 'Bug': 417, 'Enhancement': 282, 'Feature Request': 170, 'Patch': 1, 'Component Upgrade': 4, 'Release': 9, 'Quality Risk': 1}
+Resolutions: {'': 348, 'Done': 1662, "Won't Do": 34, 'Duplicate Issue': 57, 'Not a Bug': 12, 'Explained': 7, 'Deferred': 3, 'Duplicate': 16, "Won't Fix": 16, 'Out of Date': 24, 'Fixed': 1, 'Incomplete': 1, 'Current Release': 1, 'Rejected': 34, 'Cannot Reproduce': 3, 'Migrated to another ITS': 1, 'Partially Completed': 2}
+Statuses: {'Open': 311, 'Closed': 1874, 'Coding In Progress': 27, 'QA In Progress': 2, 'Pull Request Sent': 4, 'Reopened': 2, 'Blocked': 2}
+
+Average Lead Time (all PBIs): 88.6 days
+Average Lead Time (Bug): 74.2 days
+Average Lead Time (Task): 76.7 days
+Average Lead Time (Enhancement): 120.7 days
+Average Lead Time (Story): 122.9 days
+Average Lead Time (Feature Request): 129.3 days
+Average Lead Time (Component Upgrade): 60.5 days
+Average Lead Time (Release): 71.1 days
+Average Lead Time (Quality Risk): 14.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 19:24:13 End date: 2022-01-04 19:24:13
+System: {'RHDEVDOCS': 269}
+Types: {'Task': 141, 'Story': 75, 'Bug': 28, 'Enhancement': 16, 'Feature Request': 9}
+Resolutions: {'': 99, 'Done': 144, "Won't Do": 7, 'Duplicate Issue': 11, 'Not a Bug': 3, 'Explained': 2, 'Deferred': 1, "Won't Fix": 2}
+Statuses: {'Open': 83, 'Closed': 170, 'Coding In Progress': 13, 'QA In Progress': 1, 'Pull Request Sent': 2}
+
+Average Lead Time (all PBIs): 94.0 days
+Average Lead Time (Bug): 106.4 days
+Average Lead Time (Task): 77.9 days
+Average Lead Time (Enhancement): 103.6 days
+Average Lead Time (Story): 133.9 days
+Average Lead Time (Feature Request): 60.1 days

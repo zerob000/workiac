@@ -1,0 +1,21 @@
+All PBIS - Unfiltered 
+Start date: 2018-02-24 08:32:37 End date: 2021-02-21 17:49:54
+System: {'DUBBO': 75}
+Types: {'Task': 18, 'Improvement': 46, 'Bug': 3, 'Test': 1, 'New Feature': 7}
+Resolutions: {'': 60, 'Invalid': 3, 'Fixed': 9, 'Not A Problem': 1, 'Duplicate': 1, 'Done': 1}
+Statuses: {'Open': 60, 'Closed': 14, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 94.7 days
+Average Lead Time (Task): 54.5 days
+Average Lead Time (Improvement): 205.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-11-13 17:49:54 End date: 2021-02-21 17:49:54
+System: {'DUBBO': 34}
+Types: {'Task': 1, 'Improvement': 30, 'Bug': 2, 'Test': 1}
+Resolutions: {'': 34}
+Statuses: {'Open': 34}
+
+No PBIs resolved in last 100 days.

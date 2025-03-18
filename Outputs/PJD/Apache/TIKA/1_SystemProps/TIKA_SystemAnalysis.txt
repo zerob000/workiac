@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 2007-03-31 06:54:09 End date: 2022-01-05 12:50:18
+System: {'TIKA': 3568}
+Types: {'Task': 395, 'Bug': 1726, 'Improvement': 1142, 'New Feature': 236, 'Wish': 57, 'Test': 12}
+Resolutions: {'': 926, 'Fixed': 2177, 'Duplicate': 125, 'Not A Bug': 12, "Won't Fix": 103, 'Not A Problem': 117, 'Information Provided': 3, "Won't Do": 1, 'Works for Me': 1, 'Implemented': 5, 'Invalid': 41, 'Incomplete': 6, 'Workaround': 5, 'Resolved': 1, 'Cannot Reproduce': 31, 'Later': 6, 'Pending Closed': 1, 'Done': 7}
+Statuses: {'Open': 886, 'Resolved': 1902, 'Closed': 740, 'In Progress': 14, 'Reopened': 26}
+
+Average Lead Time (all PBIs): 127.3 days
+Average Lead Time (Bug): 121.0 days
+Average Lead Time (New Feature): 325.7 days
+Average Lead Time (Improvement): 131.0 days
+Average Lead Time (Task): 23.7 days
+Average Lead Time (Wish): 145.6 days
+Average Lead Time (Test): 72.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-27 12:50:18 End date: 2022-01-05 12:50:18
+System: {'TIKA': 94}
+Types: {'Task': 22, 'Bug': 39, 'Improvement': 24, 'New Feature': 5, 'Wish': 4}
+Resolutions: {'': 34, 'Fixed': 50, 'Duplicate': 2, 'Not A Bug': 4, "Won't Fix": 3, 'Not A Problem': 1}
+Statuses: {'Open': 32, 'Resolved': 52, 'Closed': 8, 'In Progress': 2}
+
+Average Lead Time (all PBIs): 226.4 days
+Average Lead Time (Bug): 43.4 days
+Average Lead Time (New Feature): 2066.5 days
+Average Lead Time (Improvement): 450.4 days
+Average Lead Time (Task): 55.4 days
+Average Lead Time (Wish): 0.0 days

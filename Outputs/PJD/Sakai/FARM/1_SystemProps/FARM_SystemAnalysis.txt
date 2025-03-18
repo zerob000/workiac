@@ -1,0 +1,21 @@
+All PBIS - Unfiltered 
+Start date: 2018-06-21 10:01:25 End date: 2020-02-26 00:03:13
+System: {'FARM': 39}
+Types: {'Feature Request': 39}
+Resolutions: {'': 36, 'Done': 3}
+Statuses: {'In Progress': 3, 'Backlog': 30, 'Done': 3, 'Selected for Development': 3}
+
+Average Lead Time (all PBIs): 184.3 days
+Average Lead Time (Feature Request): 184.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2019-11-18 00:03:13 End date: 2020-02-26 00:03:13
+System: {'FARM': 1}
+Types: {'Feature Request': 1}
+Resolutions: {'Done': 1}
+Statuses: {'Done': 1}
+
+Average Lead Time (all PBIs): 553.0 days
+Average Lead Time (Feature Request): 553.0 days

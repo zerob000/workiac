@@ -1,0 +1,73 @@
+
+System Name: GORA
+System Duration (Captured): 4046 days
+
+Calculated Final System Size: 126 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 126 PBIs
+
+Model Final System Size: 165 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 165 PBIs
+
+% Error, Final backlog, model vs actual: 31.0%
+Error, Final backlog, model vs actual: 39 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 401 PBIs
+Total Unplanned Arrivals: 210 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 70 PBIs
+Total Net Arrivals: 541 PBIs
+Total Services: 415 PBIs
+
+Rates:
+Planned Arrival Rate: 0.1 PBIs/day
+Unplanned Arrival Rate: 0.067 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.02 PBIs/day
+Net Arrival Rate: 0.147 PBIs/day
+Service Rate: 0.115 PBIs/day
+
+
+Metrics:
+Stability: 0.782
+Quality: 0.599
+Control: 0.88
+Inventory Days: 1095.652 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 87 days
+
+Calculated Final System Size: 126 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 126 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 5 PBIs
+Unplanned Arrivals in this period: 0 PBIs
+Cancelled/Rejected/Won't Do  in this period: 0 PBIs
+System size change in this period: 4 PBIs
+Net Arrivals in this period: 5 PBIs
+Services in this period: 0 PBIs
+
+Rates:
+Planned Arrival Rate: 0.035 PBIs/day
+Unplanned Arrival Rate: NaN PBIs/day
+Cancelled/Rejected/Won't Do Rate: NaN PBIs/day
+Net Arrival Rate: 0.035 PBIs/day
+Service Rate: NaN PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

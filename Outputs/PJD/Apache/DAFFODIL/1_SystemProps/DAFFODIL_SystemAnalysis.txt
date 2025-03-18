@@ -1,0 +1,34 @@
+All PBIS - Unfiltered 
+Start date: 2010-11-17 16:18:33 End date: 2022-01-05 17:46:34
+System: {'DAFFODIL': 2457}
+Types: {'Improvement': 469, 'Bug': 1454, 'New Feature': 331, 'Brainstorming': 1, 'Documentation': 2, 'Task': 176, 'Question': 2, 'Test': 3, 'Wish': 16, 'Comment': 2, 'Requirement': 1}
+Resolutions: {'': 401, 'Fixed': 1616, 'Cannot Reproduce': 18, 'Duplicate': 159, "Won't Do": 14, 'Not A Problem': 48, 'Information Provided': 1, "Won't Fix": 144, 'Implemented': 2, 'Not A Bug': 17, 'Resolved': 5, 'Incomplete': 2, 'Done': 27, 'Abandoned': 3}
+Statuses: {'Open': 383, 'Closed': 2056, 'In Progress': 1, 'Reopened': 17}
+
+Average Lead Time (all PBIs): 338.1 days
+Average Lead Time (Bug): 251.8 days
+Average Lead Time (New Feature): 574.7 days
+Average Lead Time (Improvement): 519.9 days
+Average Lead Time (Task): 135.3 days
+Average Lead Time (Question): 7.5 days
+Average Lead Time (Test): 81.7 days
+Average Lead Time (Documentation): 845.0 days
+Average Lead Time (Wish): 1720.8 days
+Average Lead Time (Comment): 12.5 days
+Average Lead Time (Requirement): 7.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-27 17:46:34 End date: 2022-01-05 17:46:34
+System: {'DAFFODIL': 66}
+Types: {'Improvement': 16, 'Bug': 38, 'New Feature': 8, 'Brainstorming': 1, 'Documentation': 2, 'Task': 1}
+Resolutions: {'': 27, 'Fixed': 34, 'Cannot Reproduce': 2, 'Duplicate': 2, "Won't Do": 1}
+Statuses: {'Open': 27, 'Closed': 39}
+
+Average Lead Time (all PBIs): 202.8 days
+Average Lead Time (Bug): 81.2 days
+Average Lead Time (New Feature): 401.2 days
+Average Lead Time (Improvement): 325.0 days
+Average Lead Time (Task): 23.0 days
+Average Lead Time (Documentation): 845.0 days

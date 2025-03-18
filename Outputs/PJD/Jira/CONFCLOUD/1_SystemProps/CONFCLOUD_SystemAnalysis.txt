@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2003-09-19 17:35:18 End date: 2022-01-05 11:56:30
+System: {'CONFCLOUD': 25045}
+Types: {'Bug': 11087, 'Suggestion': 13958}
+Resolutions: {'': 4944, 'Fixed': 4487, 'Cannot Reproduce': 277, 'Tracked Elsewhere': 414, 'Duplicate': 1676, "Won't Do": 826, 'Done': 124, 'Not a bug': 218, "Won't Fix": 5911, 'Incorrectly Filed': 15, 'Deployed': 17, 'Invalid': 241, 'Obsolete': 486, 'Handled by Support': 13, 'Answered': 1470, 'Resolved Locally': 33, 'Timed out': 3240, 'Incomplete': 34, 'Support Request': 601, 'Unsolved Mysteries': 18}
+Statuses: {'Needs Triage': 23, 'Gathering Interest': 3263, 'Gathering Impact': 1032, 'Waiting for Release': 17, 'Closed': 20101, 'In Progress': 68, 'Short Term Backlog': 193, 'Long Term Backlog': 299, 'In Review': 8, 'Under Consideration': 20, 'Future Consideration': 12, 'Reviewing': 6, 'Not Being Considered': 3}
+
+Average Lead Time (all PBIs): 798.4 days
+Average Lead Time (Bug): 506.1 days
+Average Lead Time (Suggestion): 1058.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-27 11:56:30 End date: 2022-01-05 11:56:30
+System: {'CONFCLOUD': 774}
+Types: {'Bug': 472, 'Suggestion': 302}
+Resolutions: {'': 326, 'Fixed': 74, 'Cannot Reproduce': 4, 'Tracked Elsewhere': 7, 'Duplicate': 11, "Won't Do": 1, 'Done': 5, "Won't Fix": 137, 'Timed out': 208, 'Not a bug': 1}
+Statuses: {'Needs Triage': 7, 'Gathering Interest': 148, 'Gathering Impact': 115, 'Waiting for Release': 1, 'Closed': 448, 'In Progress': 5, 'Short Term Backlog': 19, 'Long Term Backlog': 30, 'In Review': 1}
+
+Average Lead Time (all PBIs): 829.4 days
+Average Lead Time (Bug): 768.9 days
+Average Lead Time (Suggestion): 944.9 days

@@ -1,0 +1,32 @@
+All PBIS - Unfiltered 
+Start date: 2008-11-17 14:16:03 End date: 2021-12-13 13:29:15
+System: {'OWB': 1363}
+Types: {'Bug': 817, 'Task': 174, 'Improvement': 282, 'New Feature': 63, 'Question': 4, 'Wish': 3, 'Dependency upgrade': 3, 'Test': 12, 'Documentation': 1, 'TCK Challenge': 4}
+Resolutions: {'': 31, 'Fixed': 1233, 'Invalid': 17, "Won't Fix": 35, 'Not A Problem': 26, 'Incomplete': 1, 'Duplicate': 11, 'Cannot Reproduce': 6, 'Later': 3}
+Statuses: {'Open': 28, 'Resolved': 134, 'Closed': 1198, 'Reopened': 3}
+
+Average Lead Time (all PBIs): 89.5 days
+Average Lead Time (Bug): 82.9 days
+Average Lead Time (Task): 99.2 days
+Average Lead Time (Improvement): 92.9 days
+Average Lead Time (New Feature): 126.7 days
+Average Lead Time (Wish): 424.0 days
+Average Lead Time (Dependency upgrade): 9.7 days
+Average Lead Time (Test): 79.9 days
+Average Lead Time (Question): 103.0 days
+Average Lead Time (Documentation): 259.0 days
+Average Lead Time (TCK Challenge): 1.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-04 13:29:15 End date: 2021-12-13 13:29:15
+System: {'OWB': 15}
+Types: {'Bug': 7, 'Task': 4, 'Improvement': 4}
+Resolutions: {'': 2, 'Fixed': 11, 'Incomplete': 1, 'Duplicate': 1}
+Statuses: {'Open': 2, 'Resolved': 10, 'Closed': 3}
+
+Average Lead Time (all PBIs): 282.8 days
+Average Lead Time (Bug): 443.7 days
+Average Lead Time (Task): 0.0 days
+Average Lead Time (Improvement): 253.5 days

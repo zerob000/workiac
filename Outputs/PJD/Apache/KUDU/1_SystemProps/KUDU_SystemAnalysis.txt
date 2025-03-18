@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2013-08-27 18:28:07 End date: 2022-01-05 06:56:37
+System: {'KUDU': 2969}
+Types: {'Bug': 1716, 'Improvement': 872, 'New Feature': 181, 'Task': 159, 'Test': 31, 'Wish': 10}
+Resolutions: {'Fixed': 1624, '': 757, 'Not A Bug': 25, 'Information Provided': 20, 'Duplicate': 174, 'Works for Me': 4, 'Cannot Reproduce': 162, 'Invalid': 46, 'Not A Problem': 26, "Won't Fix": 87, 'Done': 13, 'Incomplete': 12, 'Resolved': 1, "Won't Do": 7, 'Abandoned': 1, 'Later': 1, 'Workaround': 3, 'Implemented': 2, 'Staged': 2, 'Delivered': 2}
+Statuses: {'Resolved': 2150, 'Open': 739, 'Closed': 60, 'In Progress': 7, 'Reopened': 9, 'In Review': 4}
+
+Average Lead Time (all PBIs): 229.8 days
+Average Lead Time (Bug): 181.6 days
+Average Lead Time (Improvement): 294.1 days
+Average Lead Time (Task): 315.9 days
+Average Lead Time (New Feature): 463.1 days
+Average Lead Time (Test): 232.9 days
+Average Lead Time (Wish): 734.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-27 06:56:37 End date: 2022-01-05 06:56:37
+System: {'KUDU': 31}
+Types: {'Bug': 10, 'Improvement': 14, 'New Feature': 4, 'Task': 1, 'Test': 2}
+Resolutions: {'Fixed': 14, '': 14, 'Not A Bug': 2, 'Duplicate': 1}
+Statuses: {'Resolved': 15, 'Open': 14, 'Closed': 2}
+
+Average Lead Time (all PBIs): 669.5 days
+Average Lead Time (Bug): 589.1 days
+Average Lead Time (Improvement): 718.7 days
+Average Lead Time (Task): 0.0 days
+Average Lead Time (Test): 1637.0 days

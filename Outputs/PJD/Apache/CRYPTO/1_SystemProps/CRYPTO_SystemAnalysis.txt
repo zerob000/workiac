@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2016-04-15 03:23:47 End date: 2021-05-10 07:13:15
+System: {'CRYPTO': 127}
+Types: {'Bug': 77, 'Improvement': 36, 'Task': 6, 'Wish': 1, 'New Feature': 7}
+Resolutions: {'': 17, 'Fixed': 104, 'Duplicate': 3, "Won't Fix": 3}
+Statuses: {'Open': 17, 'Closed': 6, 'Resolved': 104}
+
+Average Lead Time (all PBIs): 58.9 days
+Average Lead Time (Improvement): 59.2 days
+Average Lead Time (Bug): 54.4 days
+Average Lead Time (Task): 38.2 days
+Average Lead Time (New Feature): 122.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-01-30 07:13:15 End date: 2021-05-10 07:13:15
+System: {'CRYPTO': 3}
+Types: {'Bug': 3}
+Resolutions: {'': 3}
+Statuses: {'Open': 3}
+
+No PBIs resolved in last 100 days.

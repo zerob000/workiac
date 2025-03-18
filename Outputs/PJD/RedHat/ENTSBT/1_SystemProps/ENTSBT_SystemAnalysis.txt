@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2018-01-04 08:14:43 End date: 2022-01-04 10:43:19
+System: {'ENTSBT': 156}
+Types: {'Bug': 64, 'Task': 77, 'Requirement': 10, 'Initiative': 1, 'Component Upgrade': 4}
+Resolutions: {'': 36, 'Done': 96, 'Not a Bug': 4, 'Explained': 2, "Won't Do": 3, 'Duplicate': 1, 'Duplicate Issue': 1, 'Rejected': 3, 'Out of Date': 9, "Won't Fix": 1}
+Statuses: {'New': 27, 'Coding In Progress': 5, 'Verified': 26, 'Open': 3, 'Closed': 66, 'Resolved': 28, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 91.4 days
+Average Lead Time (Bug): 49.9 days
+Average Lead Time (Task): 124.3 days
+Average Lead Time (Requirement): 123.9 days
+Average Lead Time (Component Upgrade): 137.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 10:43:19 End date: 2022-01-04 10:43:19
+System: {'ENTSBT': 16}
+Types: {'Bug': 11, 'Task': 4, 'Requirement': 1}
+Resolutions: {'': 9, 'Done': 7}
+Statuses: {'New': 7, 'Coding In Progress': 1, 'Verified': 4, 'Open': 1, 'Closed': 3}
+
+Average Lead Time (all PBIs): 149.3 days
+Average Lead Time (Bug): 72.5 days
+Average Lead Time (Task): 610.0 days

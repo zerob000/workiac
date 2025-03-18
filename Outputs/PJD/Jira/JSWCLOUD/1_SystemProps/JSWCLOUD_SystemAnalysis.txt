@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2007-06-14 06:25:23 End date: 2022-01-04 19:50:34
+System: {'JSWCLOUD': 11936}
+Types: {'Suggestion': 8079, 'Bug': 3857}
+Resolutions: {'': 2704, 'Duplicate': 1098, "Won't Fix": 2448, 'Cannot Reproduce': 152, 'Fixed': 2548, 'Not a bug': 166, 'Tracked Elsewhere': 202, 'Invalid': 150, 'Done': 39, 'Timed out': 543, 'Answered': 1145, "Won't Do": 28, 'Deployed': 9, 'Obsolete': 395, 'Incorrectly Filed': 3, 'Handled by Support': 54, 'Incomplete': 15, 'Support Request': 206, 'Spam': 1, 'Resolved Locally': 18, 'Unsolved Mysteries': 12}
+Statuses: {'Gathering Interest': 2297, 'Gathering Impact': 161, 'Short Term Backlog': 49, 'Closed': 9231, 'Under Consideration': 19, 'Long Term Backlog': 99, 'In Progress': 40, 'Waiting for Release': 2, 'Future Consideration': 34, 'Needs Triage': 2, 'Not Being Considered': 2}
+
+Average Lead Time (all PBIs): 526.3 days
+Average Lead Time (Suggestion): 675.2 days
+Average Lead Time (Bug): 284.4 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-26 19:50:34 End date: 2022-01-04 19:50:34
+System: {'JSWCLOUD': 380}
+Types: {'Suggestion': 261, 'Bug': 119}
+Resolutions: {'': 209, 'Duplicate': 8, "Won't Fix": 85, 'Cannot Reproduce': 3, 'Fixed': 27, 'Done': 7, 'Not a bug': 1, 'Timed out': 37, "Won't Do": 1, 'Obsolete': 1, 'Tracked Elsewhere': 1}
+Statuses: {'Gathering Interest': 155, 'Gathering Impact': 17, 'Short Term Backlog': 10, 'Closed': 171, 'Under Consideration': 1, 'Long Term Backlog': 20, 'In Progress': 6}
+
+Average Lead Time (all PBIs): 731.5 days
+Average Lead Time (Suggestion): 978.0 days
+Average Lead Time (Bug): 349.0 days

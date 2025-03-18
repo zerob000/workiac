@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2012-10-26 02:25:19 End date: 2021-12-19 17:49:03
+System: {'WEBHOOKS': 125}
+Types: {'Bug': 61, 'Task': 22, 'Improvement': 26, 'Story': 12, 'New Feature': 4}
+Resolutions: {'': 40, 'Invalid': 3, 'Fixed': 71, 'Rejected': 1, 'Duplicate': 5, 'Answered': 1, "Won't Fix": 1, 'Obsolete': 3}
+Statuses: {'Needs Triage': 1, 'Closed': 84, 'Short Term Backlog': 1, 'Long Term Backlog': 35, 'Not Being Considered': 1, 'In Progress': 2, 'In Review': 1}
+
+Average Lead Time (all PBIs): 122.3 days
+Average Lead Time (Task): 262.8 days
+Average Lead Time (Bug): 45.3 days
+Average Lead Time (Improvement): 175.2 days
+Average Lead Time (New Feature): 3.5 days
+Average Lead Time (Story): 41.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-10 17:49:03 End date: 2021-12-19 17:49:03
+System: {'WEBHOOKS': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'Needs Triage': 1}
+
+No PBIs resolved in last 100 days.

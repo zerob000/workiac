@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2015-02-17 16:35:37 End date: 2021-12-21 15:55:47
+System: {'JBCS': 524}
+Types: {'Task': 33, 'Bug': 480, 'Requirement': 5, 'Story': 2, 'Support Patch': 4}
+Resolutions: {'': 52, 'Done': 342, 'Duplicate Issue': 14, 'Duplicate': 1, 'Not a Bug': 3, "Won't Fix": 23, 'Rejected': 60, 'Explained': 3, 'Out of Date': 19, 'Deferred': 1, 'Cannot Reproduce': 3, 'Resolved at Apache': 2, "Won't Do": 1}
+Statuses: {'New': 42, 'Reopened': 4, 'Verified': 76, 'Closed': 383, 'Open': 6, 'Resolved': 13}
+
+Average Lead Time (all PBIs): 266.8 days
+Average Lead Time (Requirement): 364.4 days
+Average Lead Time (Bug): 265.3 days
+Average Lead Time (Task): 250.9 days
+Average Lead Time (Story): 42.0 days
+Average Lead Time (Support Patch): 497.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-12 15:55:47 End date: 2021-12-21 15:55:47
+System: {'JBCS': 38}
+Types: {'Task': 26, 'Bug': 11, 'Requirement': 1}
+Resolutions: {'': 15, 'Done': 17, 'Duplicate Issue': 5, 'Duplicate': 1}
+Statuses: {'New': 10, 'Reopened': 4, 'Verified': 8, 'Closed': 7, 'Open': 1, 'Resolved': 8}
+
+Average Lead Time (all PBIs): 238.5 days
+Average Lead Time (Requirement): 0.0 days
+Average Lead Time (Bug): 179.2 days
+Average Lead Time (Task): 289.4 days

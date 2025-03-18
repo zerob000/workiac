@@ -1,0 +1,33 @@
+All PBIS - Unfiltered 
+Start date: 2007-04-18 16:06:05 End date: 2022-01-05 12:00:00
+System: {'CAMEL': 16782}
+Types: {'Bug': 5595, 'Task': 2142, 'Improvement': 6529, 'New Feature': 2064, 'Wish': 99, 'Dependency upgrade': 66, 'Test': 287}
+Resolutions: {'': 642, 'Fixed': 13674, "Won't Fix": 775, "Won't Do": 10, 'Not A Bug': 67, 'Implemented': 128, 'Not A Problem': 372, 'Information Provided': 80, 'Invalid': 324, 'Duplicate': 295, 'Delivered': 1, 'Abandoned': 77, 'Cannot Reproduce': 143, 'Incomplete': 47, 'Resolved': 10, 'Done': 35, 'Later': 81, 'Works for Me': 3, 'Auto Closed': 2, 'Workaround': 8, 'Pending Closed': 8}
+Statuses: {'Open': 627, 'Resolved': 11962, 'Closed': 4178, 'Reopened': 9, 'In Progress': 6}
+
+Average Lead Time (all PBIs): 79.8 days
+Average Lead Time (Bug): 31.6 days
+Average Lead Time (Task): 56.9 days
+Average Lead Time (Improvement): 90.1 days
+Average Lead Time (New Feature): 215.8 days
+Average Lead Time (Dependency upgrade): 8.5 days
+Average Lead Time (Test): 69.2 days
+Average Lead Time (Wish): 163.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-27 12:00:00 End date: 2022-01-05 12:00:00
+System: {'CAMEL': 471}
+Types: {'Bug': 117, 'Task': 56, 'Improvement': 177, 'New Feature': 79, 'Wish': 3, 'Dependency upgrade': 30, 'Test': 9}
+Resolutions: {'': 113, 'Fixed': 307, "Won't Fix": 13, "Won't Do": 1, 'Not A Bug': 6, 'Implemented': 2, 'Not A Problem': 6, 'Information Provided': 8, 'Invalid': 6, 'Duplicate': 3, 'Delivered': 1, 'Cannot Reproduce': 2, 'Auto Closed': 1, 'Abandoned': 2}
+Statuses: {'Open': 108, 'Resolved': 338, 'Closed': 20, 'Reopened': 2, 'In Progress': 3}
+
+Average Lead Time (all PBIs): 72.4 days
+Average Lead Time (Bug): 31.7 days
+Average Lead Time (Task): 65.0 days
+Average Lead Time (Improvement): 91.4 days
+Average Lead Time (New Feature): 135.7 days
+Average Lead Time (Dependency upgrade): 2.2 days
+Average Lead Time (Test): 39.4 days
+Average Lead Time (Wish): 417.0 days

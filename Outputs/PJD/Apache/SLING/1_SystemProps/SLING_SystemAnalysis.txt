@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2007-09-11 07:28:01 End date: 2022-01-05 12:33:47
+System: {'SLING': 10607}
+Types: {'New Feature': 878, 'Bug': 4244, 'Improvement': 4476, 'Task': 891, 'Wish': 39, 'Test': 79}
+Resolutions: {'': 1047, 'Fixed': 8042, 'Done': 665, 'Duplicate': 167, 'Invalid': 127, "Won't Fix": 348, 'Not A Problem': 80, "Won't Do": 13, 'Not A Bug': 16, 'Resolved': 6, 'Implemented': 28, 'Cannot Reproduce': 44, 'Abandoned': 1, 'Incomplete': 10, 'Later': 10, 'Feedback Received': 2, 'Pending Closed': 1}
+Statuses: {'Open': 989, 'Resolved': 1990, 'In Progress': 40, 'Closed': 7577, 'Reopened': 11}
+
+Average Lead Time (all PBIs): 74.2 days
+Average Lead Time (Improvement): 72.0 days
+Average Lead Time (Bug): 64.4 days
+Average Lead Time (Task): 62.4 days
+Average Lead Time (New Feature): 136.1 days
+Average Lead Time (Wish): 299.4 days
+Average Lead Time (Test): 117.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-09-27 12:33:47 End date: 2022-01-05 12:33:47
+System: {'SLING': 238}
+Types: {'New Feature': 22, 'Bug': 64, 'Improvement': 118, 'Task': 34}
+Resolutions: {'': 55, 'Fixed': 146, 'Done': 16, 'Duplicate': 5, 'Invalid': 2, "Won't Fix": 9, 'Cannot Reproduce': 1, "Won't Do": 1, 'Not A Problem': 3}
+Statuses: {'Open': 47, 'Resolved': 80, 'In Progress': 8, 'Closed': 103}
+
+Average Lead Time (all PBIs): 260.1 days
+Average Lead Time (Improvement): 206.7 days
+Average Lead Time (Bug): 439.9 days
+Average Lead Time (Task): 15.0 days
+Average Lead Time (New Feature): 367.9 days

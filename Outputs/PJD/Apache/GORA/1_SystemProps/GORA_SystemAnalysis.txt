@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2010-10-08 21:27:22 End date: 2021-11-06 14:41:35
+System: {'GORA': 611}
+Types: {'Improvement': 259, 'New Feature': 78, 'Task': 52, 'Bug': 207, 'Test': 12, 'Wish': 3}
+Resolutions: {'': 126, 'Fixed': 412, 'Invalid': 5, 'Duplicate': 18, 'Incomplete': 1, 'Not A Problem': 17, 'Not A Bug': 1, "Won't Fix": 23, 'Pending Closed': 1, 'Done': 1, 'Later': 5, 'Cannot Reproduce': 1}
+Statuses: {'Open': 119, 'Resolved': 287, 'In Progress': 5, 'Closed': 198, 'Patch Available': 2}
+
+Average Lead Time (all PBIs): 271.0 days
+Average Lead Time (Improvement): 285.5 days
+Average Lead Time (Task): 188.1 days
+Average Lead Time (Bug): 202.6 days
+Average Lead Time (New Feature): 549.5 days
+Average Lead Time (Test): 162.1 days
+Average Lead Time (Wish): 109.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2021-07-29 14:41:35 End date: 2021-11-06 14:41:35
+System: {'GORA': 7}
+Types: {'Improvement': 5, 'New Feature': 2}
+Resolutions: {'': 6, 'Fixed': 1}
+Statuses: {'Open': 6, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 380.0 days
+Average Lead Time (New Feature): 380.0 days

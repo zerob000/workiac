@@ -1,0 +1,73 @@
+
+System Name: BEAM
+System Duration (Captured): 2164 days
+
+Calculated Final System Size: 3793 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 3793 PBIs
+
+Model Final System Size: 4237 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 4237 PBIs
+
+% Error, Final backlog, model vs actual: 12.0%
+Error, Final backlog, model vs actual: 444 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 5745 PBIs
+Total Unplanned Arrivals: 5806 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 1179 PBIs
+Total Net Arrivals: 10372 PBIs
+Total Services: 6579 PBIs
+
+Rates:
+Planned Arrival Rate: 2.838 PBIs/day
+Unplanned Arrival Rate: 2.919 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.605 PBIs/day
+Net Arrival Rate: 5.152 PBIs/day
+Service Rate: 3.158 PBIs/day
+
+
+Metrics:
+Stability: 0.613
+Quality: 0.493
+Control: 0.895
+Inventory Days: 1201.077 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 3793 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 3793 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 257 PBIs
+Unplanned Arrivals in this period: 249 PBIs
+Cancelled/Rejected/Won't Do  in this period: 25 PBIs
+System size change in this period: 128 PBIs
+Net Arrivals in this period: 481 PBIs
+Services in this period: 352 PBIs
+
+Rates:
+Planned Arrival Rate: 2.616 PBIs/day
+Unplanned Arrival Rate: 2.733 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.259 PBIs/day
+Net Arrival Rate: 5.07 PBIs/day
+Service Rate: 3.376 PBIs/day
+
+Metrics:
+Stability: 0.663
+Quality: 0.489
+Control: 0.952
+Inventory Days: 1123.519 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
