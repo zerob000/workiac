@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2013-03-26 11:40:00 End date: 2019-04-08 09:29:00
+System: {'DEVELOPER': 2988}
+Types: {'Story': 2977, 'Initiative': 11}
+Resolutions: {'Done': 2268, 'Out of Date': 222, 'Rejected': 19, 'Duplicate Issue': 194, 'Deferred': 67, "Won't Do": 21, "Won't Fix": 33, 'Cannot Reproduce': 12, 'Migrated to another ITS': 11, 'Incomplete Description': 8, 'Partially Completed': 24, 'Explained': 3, '': 104, 'Duplicate': 2}
+Statuses: {'Done': 2884, 'To Do': 77, 'In Progress': 17, 'In Review': 6, 'Blocked': 4}
+
+Average Lead Time (all PBIs): 85.4 days
+Average Lead Time (Story): 85.3 days
+Average Lead Time (Initiative): 200.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2018-12-29 09:29:00 End date: 2019-04-08 09:29:00
+System: {'DEVELOPER': 142}
+Types: {'Story': 138, 'Initiative': 4}
+Resolutions: {'Duplicate Issue': 8, 'Incomplete Description': 2, 'Out of Date': 4, 'Done': 77, 'Deferred': 3, "Won't Fix": 1, '': 46, 'Migrated to another ITS': 1}
+Statuses: {'Done': 96, 'To Do': 32, 'In Progress': 9, 'Blocked': 2, 'In Review': 3}
+
+Average Lead Time (all PBIs): 128.4 days
+Average Lead Time (Story): 126.9 days
+Average Lead Time (Initiative): 200.0 days

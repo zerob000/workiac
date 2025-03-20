@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2012-01-03 00:39:00 End date: 2018-06-12 20:53:00
+System: {'DNN': 9723}
+Types: {'Bug': 7319, 'Improvement': 1717, 'New Feature': 73, 'Sub-task': 212, 'Story': 402}
+Resolutions: {'Cannot Reproduce': 1456, 'Complete': 4067, "Won't Fix": 2442, 'Duplicate': 543, 'Unresolved': 539, '': 416, "Won't Do": 201, 'Done': 59}
+Statuses: {'Closed': 8950, 'Planned Development': 303, 'In Progress': 6, 'Resolved': 31, 'Open': 395, 'Reopened': 25, 'Pull Request Submitted': 7, 'In Review': 4, 'Automation': 2}
+
+Average Lead Time (all PBIs): 188.0 days
+Average Lead Time (Bug): 173.6 days
+Average Lead Time (Improvement): 297.4 days
+Average Lead Time (New Feature): 115.5 days
+Average Lead Time (Story): 75.3 days
+Average Lead Time (Sub-task): 20.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2018-03-04 20:53:00 End date: 2018-06-12 20:53:00
+System: {'DNN': 54}
+Types: {'Bug': 36, 'Improvement': 13, 'New Feature': 4, 'Sub-task': 1}
+Resolutions: {'': 49, "Won't Do": 2, 'Unresolved': 1, 'Complete': 1, "Won't Fix": 1}
+Statuses: {'Planned Development': 48, 'In Progress': 1, 'Closed': 5}
+
+Average Lead Time (all PBIs): 191.6 days
+Average Lead Time (Bug): 222.2 days
+Average Lead Time (Sub-task): 69.0 days

@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2003-09-19 08:15:00 End date: 2020-10-23 03:08:00
+System: {'CONFSERVER': 42324}
+Types: {'Bug': 25477, 'Suggestion': 16846, 'Support Request': 1}
+Resolutions: {'': 5875, 'Incorrectly Filed': 3, 'Fixed': 11712, 'Duplicate': 4210, 'Invalid': 511, 'Tracked Elsewhere': 519, "Won't Fix": 6219, 'Spam': 1, 'Cannot Reproduce': 835, 'Answered': 1812, 'Done': 83, "Won't Do": 3179, 'Not a bug': 754, 'Resolved Locally': 168, 'Support Request': 1997, 'Obsolete': 2092, 'Timed out': 2240, 'Handled by Support': 12, 'Incomplete': 51, 'Unsolved Mysteries': 46, 'Deployed': 5}
+Statuses: {'Needs Triage': 26, 'Gathering Interest': 2697, 'Gathering Impact': 2206, 'Closed': 36449, 'Short Term Backlog': 113, 'Long Term Backlog': 647, 'Waiting for Release': 8, 'In Progress': 16, 'Under Consideration': 10, 'Awaiting Merge': 2, 'Future Consideration': 67, 'Not Being Considered': 78, 'Reviewing': 4, 'Ready for Development': 1}
+
+Average Lead Time (all PBIs): 656.9 days
+Average Lead Time (Bug): 553.5 days
+Average Lead Time (Suggestion): 823.0 days
+Average Lead Time (Support Request): 6.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-07-15 03:08:00 End date: 2020-10-23 03:08:00
+System: {'CONFSERVER': 510}
+Types: {'Bug': 342, 'Suggestion': 168}
+Resolutions: {'': 277, 'Incorrectly Filed': 1, 'Fixed': 128, 'Duplicate': 21, 'Invalid': 2, 'Tracked Elsewhere': 4, "Won't Fix": 9, 'Spam': 1, 'Cannot Reproduce': 11, 'Answered': 1, 'Done': 10, "Won't Do": 5, 'Not a bug': 5, 'Obsolete': 13, 'Timed out': 21, 'Support Request': 1}
+Statuses: {'Needs Triage': 17, 'Gathering Interest': 135, 'Gathering Impact': 85, 'Closed': 233, 'Short Term Backlog': 18, 'Long Term Backlog': 18, 'Waiting for Release': 3, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 1185.6 days
+Average Lead Time (Bug): 1178.3 days
+Average Lead Time (Suggestion): 1231.7 days

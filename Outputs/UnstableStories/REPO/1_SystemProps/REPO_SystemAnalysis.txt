@@ -1,0 +1,21 @@
+All PBIS - Unfiltered 
+Start date: 2012-05-22 04:06:00 End date: 2019-04-08 18:05:00
+System: {'REPO': 1211}
+Types: {'Story': 1211}
+Resolutions: {'Deferred': 38, "Won't Do": 91, 'Done': 757, 'Fixed': 1, "Won't Fix": 13, '': 257, 'Duplicate': 45, 'Incomplete': 9}
+Statuses: {'Closed': 954, 'Idea': 140, 'Prepared': 47, 'Open': 60, 'Design': 2, 'Validate': 2, 'In Progress': 6}
+
+Average Lead Time (all PBIs): 185.6 days
+Average Lead Time (Story): 185.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2018-12-29 18:05:00 End date: 2019-04-08 18:05:00
+System: {'REPO': 114}
+Types: {'Story': 114}
+Resolutions: {"Won't Do": 26, 'Deferred': 15, "Won't Fix": 1, 'Done': 41, '': 30, 'Duplicate': 1}
+Statuses: {'Closed': 84, 'Idea': 15, 'Open': 9, 'In Progress': 6}
+
+Average Lead Time (all PBIs): 600.7 days
+Average Lead Time (Story): 600.7 days

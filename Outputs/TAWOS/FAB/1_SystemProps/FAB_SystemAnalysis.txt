@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2016-07-28 06:40:00 End date: 2020-10-20 08:33:00
+System: {'FAB': 10795}
+Types: {'Story': 2748, 'Sub-task': 3767, 'Bug': 3562, 'Documentation': 382, 'Test Task': 336}
+Resolutions: {'': 593, 'Done': 8230, 'Duplicate': 386, 'Invalid': 201, 'Invalid: Works as Expected': 204, 'Invalid: Environment Issue': 59, "Won't Do": 1073, 'Invalid: Test Error': 35, 'Invalid: Not Supported': 14}
+Statuses: {'Backlog': 238, 'To Do': 184, 'Unverified': 56, 'Closed': 10202, 'In CR Review': 44, 'In Progress': 54, 'Returned': 17}
+
+Average Lead Time (all PBIs): 108.0 days
+Average Lead Time (Bug): 40.7 days
+Average Lead Time (Sub-task): 86.3 days
+Average Lead Time (Story): 236.1 days
+Average Lead Time (Documentation): 83.6 days
+Average Lead Time (Test Task): 117.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-07-12 08:33:00 End date: 2020-10-20 08:33:00
+System: {'FAB': 192}
+Types: {'Story': 57, 'Sub-task': 67, 'Bug': 57, 'Documentation': 9, 'Test Task': 2}
+Resolutions: {'': 64, 'Done': 96, 'Duplicate': 7, 'Invalid': 4, 'Invalid: Works as Expected': 5, 'Invalid: Environment Issue': 2, "Won't Do": 11, 'Invalid: Test Error': 2, 'Invalid: Not Supported': 1}
+Statuses: {'Backlog': 21, 'To Do': 20, 'Unverified': 15, 'Closed': 128, 'In CR Review': 6, 'In Progress': 2}
+
+Average Lead Time (all PBIs): 66.7 days
+Average Lead Time (Bug): 13.1 days
+Average Lead Time (Sub-task): 68.5 days
+Average Lead Time (Story): 135.3 days
+Average Lead Time (Documentation): 37.6 days

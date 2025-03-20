@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2006-01-11 07:21:00 End date: 2020-10-22 18:12:00
+System: {'FE': 5533}
+Types: {'Suggestion': 2575, 'Bug': 2896, 'Support Request': 62}
+Resolutions: {'': 918, 'Duplicate': 269, 'Fixed': 2580, 'Incorrectly Filed': 1, 'Answered': 360, 'Timed out': 424, 'Invalid': 70, "Won't Fix": 240, 'Cannot Reproduce': 74, 'Incomplete': 14, 'Tracked Elsewhere': 34, 'Not a bug': 88, 'Handled by Support': 122, 'Resolved Locally': 15, "Won't Do": 6, 'Done': 3, 'Support Request': 35, 'Obsolete': 271, 'Unsolved Mysteries': 9}
+Statuses: {'Gathering Interest': 92, 'Closed': 4613, 'Gathering Impact': 90, 'Short Term Backlog': 4, 'Long Term Backlog': 30, 'Under Consideration': 7, 'Future Consideration': 10, 'Not Being Considered': 669, 'Reviewing': 18}
+
+Average Lead Time (all PBIs): 484.4 days
+Average Lead Time (Bug): 600.3 days
+Average Lead Time (Suggestion): 319.9 days
+Average Lead Time (Support Request): 22.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-07-14 18:12:00 End date: 2020-10-22 18:12:00
+System: {'FE': 19}
+Types: {'Suggestion': 9, 'Bug': 10}
+Resolutions: {'': 11, 'Duplicate': 2, 'Fixed': 4, 'Timed out': 2}
+Statuses: {'Gathering Interest': 6, 'Closed': 8, 'Gathering Impact': 3, 'Short Term Backlog': 1, 'Long Term Backlog': 1}
+
+Average Lead Time (all PBIs): 1346.6 days
+Average Lead Time (Bug): 1101.8 days
+Average Lead Time (Suggestion): 1754.7 days

@@ -1,0 +1,73 @@
+
+System Name: MULE
+System Duration (Captured): 6001 days
+
+Calculated Final System Size: 246 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 246 PBIs
+
+Model Final System Size: 963 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 963 PBIs
+
+% Error, Final backlog, model vs actual: 291.0%
+Error, Final backlog, model vs actual: 717 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 98 PBIs
+Total Unplanned Arrivals: 8547 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 2152 PBIs
+Total Net Arrivals: 6493 PBIs
+Total Services: 6247 PBIs
+
+Rates:
+Planned Arrival Rate: 0.047 PBIs/day
+Unplanned Arrival Rate: 1.625 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.427 PBIs/day
+Net Arrival Rate: 1.245 PBIs/day
+Service Rate: 1.122 PBIs/day
+
+
+Metrics:
+Stability: 0.901
+Quality: 0.028
+Control: 0.745
+Inventory Days: 219.251 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 31 days
+
+Calculated Final System Size: 246 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 246 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 0 PBIs
+Unplanned Arrivals in this period: 0 PBIs
+Cancelled/Rejected/Won't Do  in this period: 16 PBIs
+System size change in this period: -17 PBIs
+Net Arrivals in this period: -16 PBIs
+Services in this period: 0 PBIs
+
+Rates:
+Planned Arrival Rate: NaN PBIs/day
+Unplanned Arrival Rate: NaN PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.296 PBIs/day
+Net Arrival Rate: -0.296 PBIs/day
+Service Rate: NaN PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

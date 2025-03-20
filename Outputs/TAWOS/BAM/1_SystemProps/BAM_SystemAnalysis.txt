@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2006-04-07 00:43:00 End date: 2020-10-23 22:13:00
+System: {'BAM': 14252}
+Types: {'Suggestion': 8202, 'Bug': 6050}
+Resolutions: {'': 2030, 'Fixed': 6148, 'Duplicate': 1011, 'Answered': 504, 'Done': 356, 'Not a bug': 127, 'Invalid': 132, 'Tracked Elsewhere': 90, 'Timed out': 2124, "Won't Fix": 322, 'Cannot Reproduce': 132, 'Incomplete': 31, 'Support Request': 29, "Won't Do": 217, 'Handled by Support': 233, 'Obsolete': 634, 'Resolved Locally': 91, 'Unsolved Mysteries': 38, 'Deployed': 3}
+Statuses: {'Gathering Interest': 1541, 'Waiting for Release': 15, 'Gathering Impact': 213, 'Closed': 12240, 'Long Term Backlog': 122, 'Needs Triage': 1, 'Short Term Backlog': 26, 'In Review': 2, 'In Progress': 6, 'Not Being Considered': 62, 'Future Consideration': 20, 'Under Consideration': 3, 'Reviewing': 1}
+
+Average Lead Time (all PBIs): 765.2 days
+Average Lead Time (Bug): 437.1 days
+Average Lead Time (Suggestion): 1048.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-07-15 22:13:00 End date: 2020-10-23 22:13:00
+System: {'BAM': 173}
+Types: {'Suggestion': 97, 'Bug': 76}
+Resolutions: {'': 79, 'Fixed': 72, 'Duplicate': 11, 'Answered': 3, 'Done': 4, 'Not a bug': 1, 'Timed out': 1, 'Incomplete': 1, 'Obsolete': 1}
+Statuses: {'Gathering Interest': 48, 'Waiting for Release': 5, 'Gathering Impact': 5, 'Closed': 94, 'Long Term Backlog': 12, 'Needs Triage': 1, 'Short Term Backlog': 7, 'In Review': 1}
+
+Average Lead Time (all PBIs): 649.0 days
+Average Lead Time (Bug): 276.9 days
+Average Lead Time (Suggestion): 1037.3 days

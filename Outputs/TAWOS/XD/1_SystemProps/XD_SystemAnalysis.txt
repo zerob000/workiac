@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2013-04-12 06:37:00 End date: 2018-11-16 15:57:00
+System: {'XD': 3598}
+Types: {'Bug': 610, 'Story': 2593, 'Improvement': 309, 'Technical task': 86}
+Resolutions: {'': 598, 'Complete': 2393, 'Invalid': 125, 'Works as Designed': 46, 'Deferred': 110, "Won't Fix": 127, 'Cannot Reproduce': 20, 'Incomplete': 9, 'Duplicate': 132, 'Fixed': 38}
+Statuses: {'To Do': 574, 'Done': 3000, 'In PR': 4, 'In Progress': 20}
+
+Average Lead Time (all PBIs): 55.3 days
+Average Lead Time (Story): 60.1 days
+Average Lead Time (Bug): 25.1 days
+Average Lead Time (Improvement): 60.5 days
+Average Lead Time (Technical task): 90.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2018-08-08 15:57:00 End date: 2018-11-16 15:57:00
+System: {'XD': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'To Do': 1}
+
+No PBIs resolved in last 100 days.

@@ -1,0 +1,56 @@
+Type,Count
+,73030
+Complete,6668
+Invalid,6639
+Works as Designed,2844
+Deferred,1023
+Won't Fix,39451
+Cannot Reproduce,10853
+Incomplete,2257
+Duplicate,31808
+Fixed,146734
+Done,36079
+Not A Bug,339
+Automatically Closed,50
+Parked,79
+Out of scope,152
+Won't Do,14960
+Not A Problem,164
+Resolved,30
+Implemented,75
+Information Provided,4
+Later,10
+Abandoned,8
+Workaround,8
+Works for Me,1
+Pending Closed,2
+Feedback Received,1
+Not Our Bug,395
+Needs more info,452
+Hold,288
+Tracked Elsewhere,2283
+Handled by Support,1493
+Obsolete,7145
+Not a bug,6760
+Support Request,4230
+Answered,9290
+Timed out,11648
+Resolved Locally,707
+Unsolved Mysteries,172
+Incorrectly Filed,44
+Deployed,102
+Spam,9
+Invalid: Works as Expected,211
+Invalid: Environment Issue,61
+Invalid: Test Error,35
+Invalid: Not Supported,14
+Ready for Test,2
+Ready for Release,1
+Community Answered,91
+Declined,67
+Gone away,2156
+Inactive,1864
+Completed,537
+Won't Fix or Usage Issue,1863
+Rejected,9
+Unresolved,539

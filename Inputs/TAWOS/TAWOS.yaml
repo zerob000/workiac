@@ -1,0 +1,75 @@
+---
+Locations:
+    id_loc: 0
+    sysm_loc: 2
+    issue_loc: 3
+    resol_loc: 5
+    status_loc: 4
+    arr_loc: 6
+    ser_loc: 7
+spacer: ''
+#date_format = '%d/%m/%Y'
+#date_format = '%d/%b/%y %H:%M'
+date_format: "%d/%m/%Y %H:%M" 
+Filters:
+    EpicsSubtasks:
+    - "Epic"
+    - "Sub-task"
+    FeedbackBugs:
+    - "Bug"
+    - "Suggestion"
+    - "Wish"
+    - "Build Failure"
+    - "Support Request"
+    - "Question"
+    - "Enhancement Request"
+    - "Problem Ticket"
+    - "Incident"
+    - "Public Security Vulnerability"
+    StatusNoFurtherWorkRequired:
+    - "Closed"
+    - "Complete"
+    - "Done"
+    - "Invalid"
+    - "Not Being Considered"
+    - "Published"
+    - "Resolved"
+    - "Won't Fix"
+    ResosNotDoneByTeam:
+    - "Abandoned"
+    - "Automatically Closed"
+    - "Cannot Reproduce"
+    - "Community Answered"
+    - "Declined"
+    - "Deferred"
+    - "Gone away"
+    - "Handled by Support"
+    - "Inactive"
+    - "Incorrectly Filed"
+    - "Invalid"
+    - "Invalid: Environment Issue"
+    - "Invalid: Not Supported"
+    - "Invalid: Test Error"
+    - "Invalid: Works as Expected"
+    - "Needs more info"
+    - "Not A Bug"
+    - "Not A Problem"
+    - "Not Our Bug"
+    - "Obsolete"
+    - "Out of scope"
+    - "Rejected"
+    - "Spam"
+    - "Support Request"
+    - "Timed out"
+    - "Tracked Elsewhere"
+    - "Unresolved"
+    - "Unsolved Mysteries"
+    - "Won't Do"
+    - "Won't Fix"
+    - "Won't Fix or Usage Issue"
+    - "Workaround"
+    - "Works as Designed"
+    - "Works for Me"
+
+    
+

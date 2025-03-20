@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2007-06-14 07:25:00 End date: 2020-10-23 00:46:00
+System: {'JSWCLOUD': 11702}
+Types: {'Suggestion': 7213, 'Sub-task': 984, 'Bug': 3505}
+Resolutions: {'': 3946, 'Fixed': 3089, 'Duplicate': 1067, 'Tracked Elsewhere': 194, 'Not a bug': 163, "Won't Fix": 605, 'Deployed': 7, 'Invalid': 151, 'Cannot Reproduce': 143, 'Timed out': 413, 'Obsolete': 401, 'Done': 45, 'Answered': 1144, 'Incorrectly Filed': 3, 'Handled by Support': 54, "Won't Do": 25, 'Incomplete': 15, 'Support Request': 206, 'Spam': 1, 'Resolved Locally': 18, 'Unsolved Mysteries': 12}
+Statuses: {'Gathering Interest': 3425, 'Open': 184, 'Needs Triage': 29, 'Closed': 7755, 'Gathering Impact': 143, 'Long Term Backlog': 79, 'In Progress': 23, 'Short Term Backlog': 27, 'Future Consideration': 25, 'Waiting for Release': 5, 'Not Being Considered': 2, 'Under Consideration': 2, 'Reviewing': 1, 'Awaiting Release': 2}
+
+Average Lead Time (all PBIs): 246.2 days
+Average Lead Time (Bug): 278.0 days
+Average Lead Time (Sub-task): 72.0 days
+Average Lead Time (Suggestion): 256.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-07-15 00:46:00 End date: 2020-10-23 00:46:00
+System: {'JSWCLOUD': 452}
+Types: {'Suggestion': 213, 'Sub-task': 40, 'Bug': 199}
+Resolutions: {'': 269, 'Fixed': 93, 'Duplicate': 23, 'Tracked Elsewhere': 2, "Won't Fix": 6, 'Deployed': 1, 'Not a bug': 1, 'Invalid': 1, 'Cannot Reproduce': 6, 'Done': 7, 'Timed out': 40, 'Answered': 1, 'Obsolete': 1, 'Spam': 1}
+Statuses: {'Gathering Interest': 175, 'Open': 7, 'Needs Triage': 21, 'Closed': 183, 'Gathering Impact': 33, 'Long Term Backlog': 12, 'In Progress': 6, 'Short Term Backlog': 9, 'Future Consideration': 3, 'Waiting for Release': 2, 'Not Being Considered': 1}
+
+Average Lead Time (all PBIs): 449.1 days
+Average Lead Time (Bug): 403.4 days
+Average Lead Time (Sub-task): 536.0 days
+Average Lead Time (Suggestion): 520.5 days

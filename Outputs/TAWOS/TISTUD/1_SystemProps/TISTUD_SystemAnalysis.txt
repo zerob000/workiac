@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2011-03-01 11:50:00 End date: 2020-10-21 15:05:00
+System: {'TISTUD': 5944}
+Types: {'Bug': 3455, 'Improvement': 1164, 'New Feature': 110, 'Story': 914, 'Sub-task': 37, 'Technical task': 264}
+Resolutions: {'': 812, 'Fixed': 3408, 'Not Our Bug': 72, 'Cannot Reproduce': 304, 'Invalid': 369, 'Duplicate': 562, 'Needs more info': 87, "Won't Fix": 276, 'Done': 7, 'Hold': 46, "Won't Do": 1}
+Statuses: {'Open': 761, 'In Review': 4, 'Closed': 5044, 'Reopened': 38, 'Resolved': 88, 'In Progress': 9}
+
+Average Lead Time (all PBIs): 119.2 days
+Average Lead Time (Bug): 76.0 days
+Average Lead Time (Story): 189.3 days
+Average Lead Time (Improvement): 208.0 days
+Average Lead Time (New Feature): 227.4 days
+Average Lead Time (Sub-task): 20.8 days
+Average Lead Time (Technical task): 118.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-07-13 15:05:00 End date: 2020-10-21 15:05:00
+System: {'TISTUD': 5}
+Types: {'Bug': 4, 'Improvement': 1}
+Resolutions: {'': 5}
+Statuses: {'Open': 4, 'In Review': 1}
+
+No PBIs resolved in last 100 days.

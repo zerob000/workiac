@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2011-02-16 23:12:00 End date: 2020-10-19 16:53:00
+System: {'MESOS': 7874}
+Types: {'Bug': 4891, 'Documentation': 311, 'Improvement': 2437, 'Wish': 84, 'Story': 151}
+Resolutions: {'': 2467, 'Fixed': 4046, 'Invalid': 99, 'Duplicate': 445, 'Not A Problem': 141, 'Resolved': 29, 'Done': 78, 'Implemented': 62, 'Cannot Reproduce': 137, 'Not A Bug': 15, "Won't Fix": 290, 'Information Provided': 2, "Won't Do": 24, 'Later': 8, 'Abandoned': 6, 'Incomplete': 16, 'Workaround': 6, 'Works for Me': 1, 'Pending Closed': 2}
+Statuses: {'Open': 1638, 'Resolved': 5405, 'Accepted': 668, 'Reviewable': 130, 'In Progress': 33}
+
+Average Lead Time (all PBIs): 253.4 days
+Average Lead Time (Bug): 213.8 days
+Average Lead Time (Improvement): 305.8 days
+Average Lead Time (Documentation): 458.0 days
+Average Lead Time (Wish): 339.6 days
+Average Lead Time (Story): 507.9 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-07-11 16:53:00 End date: 2020-10-19 16:53:00
+System: {'MESOS': 22}
+Types: {'Bug': 16, 'Documentation': 2, 'Improvement': 4}
+Resolutions: {'': 12, 'Fixed': 5, 'Invalid': 2, 'Duplicate': 1, 'Not A Problem': 1, 'Resolved': 1}
+Statuses: {'Open': 11, 'Resolved': 10, 'Accepted': 1}
+
+Average Lead Time (all PBIs): 94.8 days
+Average Lead Time (Bug): 94.8 days

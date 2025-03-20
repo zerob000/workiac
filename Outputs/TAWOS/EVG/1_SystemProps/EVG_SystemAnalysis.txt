@@ -1,0 +1,35 @@
+All PBIS - Unfiltered 
+Start date: 2013-04-10 16:09:00 End date: 2020-10-21 21:39:00
+System: {'EVG': 8293}
+Types: {'Question': 37, 'Improvement': 1877, 'Sub-task': 33, 'Build Failure': 1715, 'Bug': 2636, 'Problem Ticket': 113, 'New Feature': 1864, 'Incident': 18}
+Resolutions: {'': 883, 'Fixed': 4280, 'Duplicate': 580, "Won't Do": 87, "Won't Fix": 1678, 'Declined': 46, 'Works as Designed': 156, 'Done': 107, 'Incomplete': 57, 'Gone away': 365, 'Cannot Reproduce': 53, 'Community Answered': 1}
+Statuses: {'Needs Triage': 13, 'Open': 826, 'In Code Review': 15, 'Closed': 6138, 'Needs Design': 9, 'In Progress': 9, 'Debugging': 2, 'Waiting (Blocked)': 7, 'Resolved': 1274}
+
+Average Lead Time (all PBIs): 97.8 days
+Average Lead Time (Improvement): 182.5 days
+Average Lead Time (Problem Ticket): 30.9 days
+Average Lead Time (Bug): 72.5 days
+Average Lead Time (Build Failure): 2.3 days
+Average Lead Time (New Feature): 162.1 days
+Average Lead Time (Question): 24.2 days
+Average Lead Time (Incident): 11.1 days
+Average Lead Time (Sub-task): 21.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-07-13 21:39:00 End date: 2020-10-21 21:39:00
+System: {'EVG': 687}
+Types: {'Question': 11, 'Improvement': 273, 'Sub-task': 10, 'Build Failure': 64, 'Bug': 220, 'Problem Ticket': 19, 'New Feature': 82, 'Incident': 8}
+Resolutions: {'': 235, 'Fixed': 252, 'Duplicate': 60, "Won't Do": 17, "Won't Fix": 27, 'Declined': 44, 'Works as Designed': 12, 'Done': 9, 'Incomplete': 1, 'Gone away': 24, 'Cannot Reproduce': 6}
+Statuses: {'Needs Triage': 10, 'Open': 195, 'In Code Review': 13, 'Closed': 452, 'Needs Design': 6, 'In Progress': 8, 'Debugging': 2, 'Waiting (Blocked)': 1}
+
+Average Lead Time (all PBIs): 70.0 days
+Average Lead Time (Improvement): 66.9 days
+Average Lead Time (Problem Ticket): 56.5 days
+Average Lead Time (Bug): 65.7 days
+Average Lead Time (Build Failure): 4.2 days
+Average Lead Time (New Feature): 153.2 days
+Average Lead Time (Question): 20.3 days
+Average Lead Time (Incident): 18.9 days
+Average Lead Time (Sub-task): 46.0 days

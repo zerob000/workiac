@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2011-03-29 16:48:00 End date: 2020-10-23 10:17:00
+System: {'TIMOB': 21954}
+Types: {'Bug': 15742, 'Improvement': 1275, 'New Feature': 2436, 'Story': 1225, 'Technical task': 44, 'Sub-task': 1232}
+Resolutions: {'': 2451, 'Fixed': 12082, "Won't Fix": 1105, 'Duplicate': 1338, 'Not Our Bug': 300, 'Done': 241, 'Invalid': 2642, 'Cannot Reproduce': 1191, 'Needs more info': 179, "Won't Do": 231, 'Hold': 194}
+Statuses: {'Resolved': 247, 'Open': 2174, 'In QE Test': 5, 'Closed': 19294, 'In Review': 22, 'In Progress': 29, 'Reopened': 183}
+
+Average Lead Time (all PBIs): 327.2 days
+Average Lead Time (Bug): 337.7 days
+Average Lead Time (Improvement): 205.2 days
+Average Lead Time (New Feature): 542.4 days
+Average Lead Time (Story): 235.7 days
+Average Lead Time (Technical task): 30.4 days
+Average Lead Time (Sub-task): 62.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-07-15 10:17:00 End date: 2020-10-23 10:17:00
+System: {'TIMOB': 226}
+Types: {'Bug': 123, 'Improvement': 61, 'New Feature': 29, 'Story': 13}
+Resolutions: {'': 80, 'Fixed': 126, "Won't Fix": 1, 'Duplicate': 7, 'Not Our Bug': 3, 'Done': 4, 'Invalid': 4, 'Cannot Reproduce': 1}
+Statuses: {'Resolved': 27, 'Open': 41, 'In QE Test': 5, 'Closed': 142, 'In Review': 3, 'In Progress': 8}
+
+Average Lead Time (all PBIs): 217.8 days
+Average Lead Time (Bug): 221.1 days
+Average Lead Time (Improvement): 295.8 days
+Average Lead Time (New Feature): 146.7 days
+Average Lead Time (Story): 122.6 days

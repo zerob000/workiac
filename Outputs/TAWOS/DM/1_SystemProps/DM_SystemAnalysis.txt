@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2014-03-04 09:41:00 End date: 2020-10-22 16:40:00
+System: {'DM': 24099}
+Types: {'Story': 19578, 'Bug': 2551, 'Technical task': 418, 'Improvement': 1508, 'Milestone': 44}
+Resolutions: {'': 3590, 'Done': 20509}
+Statuses: {'To Do': 3138, 'Done': 17939, 'Reviewed': 39, 'Invalid': 921, 'In Progress': 367, 'In Review': 47, "Won't Fix": 1648}
+
+Average Lead Time (all PBIs): 118.2 days
+Average Lead Time (Bug): 118.7 days
+Average Lead Time (Story): 112.6 days
+Average Lead Time (Technical task): 116.9 days
+Average Lead Time (Improvement): 196.6 days
+Average Lead Time (Milestone): 184.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-07-14 16:40:00 End date: 2020-10-22 16:40:00
+System: {'DM': 1694}
+Types: {'Story': 1447, 'Bug': 136, 'Technical task': 22, 'Improvement': 89}
+Resolutions: {'': 503, 'Done': 1191}
+Statuses: {'To Do': 383, 'Done': 1030, 'Reviewed': 11, 'Invalid': 71, 'In Progress': 85, 'In Review': 24, "Won't Fix": 90}
+
+Average Lead Time (all PBIs): 152.1 days
+Average Lead Time (Bug): 220.9 days
+Average Lead Time (Story): 141.0 days
+Average Lead Time (Technical task): 41.3 days
+Average Lead Time (Improvement): 243.2 days

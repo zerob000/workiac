@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2014-03-04 09:41:00 End date: 2019-04-08 08:50:00
+System: {'DM': 14508}
+Types: {'Story': 13107, 'Improvement': 1079, 'Technical task': 322}
+Resolutions: {'Done': 11636, '': 2872}
+Statuses: {"Won't Fix": 724, 'Done': 10505, 'To Do': 2570, 'Invalid': 405, 'In Progress': 217, 'Reviewed': 36, 'In Review': 51}
+
+Average Lead Time (all PBIs): 93.5 days
+Average Lead Time (Story): 88.7 days
+Average Lead Time (Improvement): 156.3 days
+Average Lead Time (Technical task): 118.4 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2018-12-29 08:50:00 End date: 2019-04-08 08:50:00
+System: {'DM': 1784}
+Types: {'Story': 1575, 'Improvement': 160, 'Technical task': 49}
+Resolutions: {'Done': 1151, '': 633}
+Statuses: {"Won't Fix": 129, 'Invalid': 47, 'Done': 973, 'In Progress': 102, 'To Do': 492, 'Reviewed': 12, 'In Review': 29}
+
+Average Lead Time (all PBIs): 201.2 days
+Average Lead Time (Story): 176.5 days
+Average Lead Time (Improvement): 328.7 days
+Average Lead Time (Technical task): 450.7 days

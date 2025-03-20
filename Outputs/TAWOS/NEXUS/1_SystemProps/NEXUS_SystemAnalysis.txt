@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2008-04-03 15:47:00 End date: 2020-10-20 16:23:00
+System: {'NEXUS': 9809}
+Types: {'Bug': 5975, 'Improvement': 2286, 'Story': 243, 'Technical Debt': 30, 'Sub-task': 1269, 'Technical task': 6}
+Resolutions: {'': 879, 'Fixed': 5482, 'Not A Bug': 322, "Won't Fix": 1673, 'Done': 172, 'Duplicate': 450, 'Automatically Closed': 50, 'Parked': 79, 'Out of scope': 152, 'Cannot Reproduce': 267, 'Incomplete': 258, "Won't Do": 25}
+Statuses: {'New': 496, 'Closed': 8759, 'Open': 299, 'In Development': 8, 'Waiting for Review': 2, 'To Be Tested': 2, 'Done': 197, 'Testing In Progress': 1, 'Raw': 25, 'Ready for Development': 4, 'Refine': 10, 'Ready to Groom': 6}
+
+Average Lead Time (all PBIs): 229.5 days
+Average Lead Time (Bug): 205.4 days
+Average Lead Time (Improvement): 375.0 days
+Average Lead Time (Story): 221.8 days
+Average Lead Time (Technical Debt): 384.8 days
+Average Lead Time (Sub-task): 118.3 days
+Average Lead Time (Technical task): 379.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-07-12 16:23:00 End date: 2020-10-20 16:23:00
+System: {'NEXUS': 255}
+Types: {'Bug': 167, 'Improvement': 71, 'Story': 17}
+Resolutions: {'': 117, 'Fixed': 87, 'Not A Bug': 6, "Won't Fix": 6, 'Done': 19, 'Duplicate': 6, 'Automatically Closed': 6, 'Parked': 1, 'Out of scope': 2, 'Cannot Reproduce': 3, "Won't Do": 2}
+Statuses: {'New': 88, 'Closed': 127, 'Open': 12, 'In Development': 6, 'Waiting for Review': 2, 'To Be Tested': 2, 'Done': 11, 'Testing In Progress': 1, 'Raw': 6}
+
+Average Lead Time (all PBIs): 215.9 days
+Average Lead Time (Bug): 139.9 days
+Average Lead Time (Improvement): 449.7 days
+Average Lead Time (Story): 248.4 days

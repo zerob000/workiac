@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2002-03-21 01:22:00 End date: 2020-10-22 17:50:00
+System: {'JRACLOUD': 25669}
+Types: {'Bug': 8339, 'Suggestion': 16151, 'Sub-task': 372, 'Support Request': 807}
+Resolutions: {'': 10281, 'Fixed': 3473, 'Timed out': 152, 'Cannot Reproduce': 307, 'Duplicate': 1679, 'Not a bug': 263, 'Invalid': 402, "Won't Fix": 3278, 'Answered': 810, 'Done': 123, 'Tracked Elsewhere': 238, 'Resolved Locally': 42, "Won't Do": 2298, 'Spam': 5, 'Handled by Support': 292, 'Obsolete': 1463, 'Incorrectly Filed': 5, 'Incomplete': 54, 'Deployed': 26, 'Support Request': 476, 'Unsolved Mysteries': 2}
+Statuses: {'Needs Triage': 41, 'Gathering Interest': 8333, 'Gathering Impact': 1194, 'Open': 146, 'Long Term Backlog': 173, 'Closed': 15388, 'Short Term Backlog': 118, 'In Progress': 72, 'Future Consideration': 28, 'Waiting for Release': 6, 'Not Being Considered': 9, 'In Review': 4, 'Under Consideration': 156, 'Reviewing': 1}
+
+Average Lead Time (all PBIs): 764.3 days
+Average Lead Time (Bug): 760.2 days
+Average Lead Time (Sub-task): 425.9 days
+Average Lead Time (Suggestion): 830.4 days
+Average Lead Time (Support Request): 1353.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-07-14 17:50:00 End date: 2020-10-22 17:50:00
+System: {'JRACLOUD': 650}
+Types: {'Bug': 330, 'Suggestion': 269, 'Sub-task': 51}
+Resolutions: {'': 430, 'Fixed': 134, 'Timed out': 11, 'Duplicate': 37, 'Cannot Reproduce': 9, 'Not a bug': 9, 'Invalid': 5, "Won't Fix": 9, 'Done': 4, "Won't Do": 1, 'Obsolete': 1}
+Statuses: {'Needs Triage': 24, 'Gathering Interest': 227, 'Gathering Impact': 101, 'Open': 12, 'Long Term Backlog': 35, 'Closed': 220, 'Short Term Backlog': 15, 'In Progress': 7, 'Future Consideration': 9}
+
+Average Lead Time (all PBIs): 387.6 days
+Average Lead Time (Bug): 251.0 days
+Average Lead Time (Sub-task): 428.9 days
+Average Lead Time (Suggestion): 951.2 days

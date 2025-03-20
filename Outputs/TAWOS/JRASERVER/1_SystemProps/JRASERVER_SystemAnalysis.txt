@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2002-02-08 04:45:00 End date: 2020-10-23 20:38:00
+System: {'JRASERVER': 44165}
+Types: {'Bug': 20630, 'Suggestion': 22065, 'Public Security Vulnerability': 1, 'Support Request': 1469}
+Resolutions: {'': 8072, 'Duplicate': 4362, 'Fixed': 10751, "Won't Fix": 5872, 'Tracked Elsewhere': 517, 'Invalid': 559, 'Incorrectly Filed': 7, 'Not a bug': 588, 'Obsolete': 1001, 'Answered': 1846, 'Timed out': 3109, 'Done': 144, 'Handled by Support': 550, 'Incomplete': 101, 'Cannot Reproduce': 495, "Won't Do": 5348, 'Unsolved Mysteries': 17, 'Resolved Locally': 290, 'Deployed': 42, 'Spam': 2, 'Support Request': 492}
+Statuses: {'Needs Triage': 1005, 'Gathering Interest': 4208, 'Closed': 36089, 'Gathering Impact': 2743, 'Published': 1, 'Waiting for Release': 10, 'In Progress': 15, 'Long Term Backlog': 9, 'Short Term Backlog': 8, 'Not Being Considered': 33, 'Under Consideration': 5, 'Reviewing': 2, 'Future Consideration': 37}
+
+Average Lead Time (all PBIs): 664.4 days
+Average Lead Time (Suggestion): 836.6 days
+Average Lead Time (Bug): 528.6 days
+Average Lead Time (Public Security Vulnerability): 0.0 days
+Average Lead Time (Support Request): 107.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-07-15 20:38:00 End date: 2020-10-23 20:38:00
+System: {'JRASERVER': 419}
+Types: {'Bug': 181, 'Suggestion': 237, 'Public Security Vulnerability': 1}
+Resolutions: {'': 336, 'Duplicate': 13, 'Fixed': 55, "Won't Fix": 2, 'Tracked Elsewhere': 3, 'Invalid': 2, 'Incorrectly Filed': 1, 'Not a bug': 1, 'Answered': 3, 'Timed out': 1, 'Done': 2}
+Statuses: {'Needs Triage': 73, 'Gathering Interest': 219, 'Closed': 82, 'Gathering Impact': 31, 'Published': 1, 'Waiting for Release': 3, 'In Progress': 6, 'Long Term Backlog': 2, 'Short Term Backlog': 2}
+
+Average Lead Time (all PBIs): 313.4 days
+Average Lead Time (Suggestion): 625.9 days
+Average Lead Time (Bug): 230.5 days
+Average Lead Time (Public Security Vulnerability): 0.0 days

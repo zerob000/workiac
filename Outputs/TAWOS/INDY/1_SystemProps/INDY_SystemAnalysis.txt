@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2017-04-19 01:41:00 End date: 2020-01-28 14:20:00
+System: {'INDY': 1236}
+Types: {'Bug': 826, 'Story': 349, 'Sub-task': 61}
+Resolutions: {'': 118, "Won't Do": 130, 'Done': 712, 'Invalid: Environment Issue': 1, 'Duplicate': 5, 'Deferred': 18, 'Cannot Reproduce': 2, 'Invalid': 248, 'Invalid: Works as Expected': 2}
+Statuses: {'New': 106, 'Complete': 1118, 'To Develop': 9, 'Code Review': 1, 'In Progress': 2}
+
+Average Lead Time (all PBIs): 475.5 days
+Average Lead Time (Bug): 435.7 days
+Average Lead Time (Story): 547.2 days
+Average Lead Time (Sub-task): 651.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2019-10-20 14:20:00 End date: 2020-01-28 14:20:00
+System: {'INDY': 44}
+Types: {'Bug': 34, 'Story': 9, 'Sub-task': 1}
+Resolutions: {'': 7, "Won't Do": 7, 'Done': 19, 'Deferred': 9, 'Invalid: Works as Expected': 1, 'Invalid': 1}
+Statuses: {'New': 7, 'Complete': 37}
+
+Average Lead Time (all PBIs): 401.8 days
+Average Lead Time (Bug): 273.4 days
+Average Lead Time (Story): 733.8 days
+Average Lead Time (Sub-task): 880.0 days

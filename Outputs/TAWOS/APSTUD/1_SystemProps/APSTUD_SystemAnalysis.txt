@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2003-12-12 19:00:00 End date: 2020-09-04 12:47:00
+System: {'APSTUD': 8125}
+Types: {'Bug': 6152, 'Story': 531, 'Improvement': 1317, 'New Feature': 9, 'Sub-task': 1, 'Technical task': 115}
+Resolutions: {'': 2001, 'Fixed': 3715, 'Invalid': 395, 'Duplicate': 431, "Won't Fix": 1026, "Won't Do": 1, 'Cannot Reproduce': 346, 'Needs more info': 165, 'Not Our Bug': 10, 'Hold': 35}
+Statuses: {'Open': 1908, 'Resolved': 793, 'Closed': 5331, 'In Review': 1, 'Reopened': 92}
+
+Average Lead Time (all PBIs): 671.1 days
+Average Lead Time (Bug): 558.1 days
+Average Lead Time (Improvement): 1554.9 days
+Average Lead Time (Story): 150.3 days
+Average Lead Time (Sub-task): 397.0 days
+Average Lead Time (New Feature): 0.7 days
+Average Lead Time (Technical task): 99.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-05-27 12:47:00 End date: 2020-09-04 12:47:00
+System: {'APSTUD': 1}
+Types: {'Bug': 1}
+Resolutions: {'Invalid': 1}
+Statuses: {'Closed': 1}
+
+Average Lead Time (all PBIs): 2731.0 days
+Average Lead Time (Bug): 2731.0 days

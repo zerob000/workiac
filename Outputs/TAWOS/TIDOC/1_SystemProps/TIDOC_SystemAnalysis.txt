@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2011-04-15 03:34:00 End date: 2020-10-01 10:26:00
+System: {'TIDOC': 3044}
+Types: {'Improvement': 513, 'Bug': 1344, 'Story': 454, 'Sub-task': 125, 'New Feature': 589, 'Technical task': 19}
+Resolutions: {'': 283, 'Fixed': 2349, 'Done': 38, "Won't Do": 37, 'Duplicate': 129, "Won't Fix": 82, 'Invalid': 66, 'Hold': 6, 'Cannot Reproduce': 41, 'Needs more info': 12, 'Not Our Bug': 1}
+Statuses: {'Open': 257, 'Closed': 2677, 'Resolved': 84, 'Reopened': 5, 'In Progress': 18, 'In Review': 3}
+
+Average Lead Time (all PBIs): 150.0 days
+Average Lead Time (Bug): 181.8 days
+Average Lead Time (Story): 135.8 days
+Average Lead Time (Sub-task): 123.4 days
+Average Lead Time (New Feature): 110.9 days
+Average Lead Time (Improvement): 132.1 days
+Average Lead Time (Technical task): 34.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-06-23 10:26:00 End date: 2020-10-01 10:26:00
+System: {'TIDOC': 4}
+Types: {'Improvement': 1, 'Bug': 1, 'Story': 1, 'New Feature': 1}
+Resolutions: {'': 1, 'Fixed': 2, 'Done': 1}
+Statuses: {'Open': 1, 'Closed': 3}
+
+Average Lead Time (all PBIs): 307.0 days
+Average Lead Time (Bug): 0.0 days
+Average Lead Time (Story): 51.0 days
+Average Lead Time (New Feature): 870.0 days

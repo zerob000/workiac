@@ -1,0 +1,76 @@
+Type,Count
+To Do,4493
+Done,22158
+In PR,4
+In Progress,903
+Open,22469
+Closed,315089
+Resolved,9523
+Waiting for Feedback,1
+New,669
+In Development,8
+Waiting for Review,2
+To Be Tested,2
+Testing In Progress,1
+Raw,25
+Ready for Development,5
+Refine,10
+Ready to Groom,6
+Accepted,668
+Reviewable,130
+Patch Available,6
+Reopened,863
+In Review,141
+Gathering Interest,27238
+Needs Triage,1451
+Long Term Backlog,1452
+Short Term Backlog,497
+Gathering Impact,8303
+Under Consideration,339
+Future Consideration,231
+Waiting for Release,75
+Not Being Considered,862
+Reviewing,31
+Published,1
+Awaiting Release,2
+Awaiting Merge,2
+Backlog,666
+Complete,3422
+Planning,1
+To Test,2
+Code Review,5
+To Develop,82
+Unverified,56
+In CR Review,44
+Returned,17
+Reviewed,39
+Invalid,921
+Won't Fix,1648
+Selected for Development,4
+Debugging With Submitter,7
+Ready for Work,17
+In Code Review,63
+Investigating,59
+Waiting (Blocked),22
+Waiting for Reporter,2
+Scheduled,6
+Needs Design,9
+Debugging,2
+Waiting for peer review,65
+Development in progress,380
+Tested,14
+Waiting for integration review,8
+Peer review in progress,21
+Integration review in progress,10
+Testing in progress,2
+Waiting for testing,1
+Triaged,1
+In QE Test,5
+Planned Development,303
+Pull Request Submitted,7
+Automation,2
+Needs Scheduling,105
+Needs Verification,9
+Needs Merge,12
+Waiting For User Input,19
+Blocked,19

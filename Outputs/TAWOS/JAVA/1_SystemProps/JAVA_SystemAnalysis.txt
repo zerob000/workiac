@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2009-04-17 21:00:00 End date: 2020-10-21 17:17:00
+System: {'JAVA': 2984}
+Types: {'New Feature': 489, 'Improvement': 1380, 'Bug': 1028, 'Story': 1, 'Sub-task': 86}
+Resolutions: {'': 102, 'Done': 55, 'Fixed': 1996, "Won't Fix": 286, 'Duplicate': 199, 'Works as Designed': 228, 'Gone away': 33, 'Cannot Reproduce': 51, 'Community Answered': 5, 'Declined': 2, "Won't Do": 8, 'Incomplete': 19}
+Statuses: {'Waiting (Blocked)': 7, 'Needs Triage': 1, 'Waiting for Reporter': 2, 'Closed': 2882, 'Scheduled': 6, 'Open': 84, 'In Progress': 2}
+
+Average Lead Time (all PBIs): 149.8 days
+Average Lead Time (Bug): 79.6 days
+Average Lead Time (Improvement): 182.1 days
+Average Lead Time (New Feature): 237.8 days
+Average Lead Time (Story): 0.0 days
+Average Lead Time (Sub-task): 23.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-07-13 17:17:00 End date: 2020-10-21 17:17:00
+System: {'JAVA': 90}
+Types: {'Improvement': 52, 'Bug': 23, 'New Feature': 15}
+Resolutions: {'': 21, 'Done': 11, 'Fixed': 36, "Won't Fix": 10, 'Duplicate': 5, 'Works as Designed': 3, 'Gone away': 3, 'Cannot Reproduce': 1}
+Statuses: {'Waiting (Blocked)': 3, 'Needs Triage': 1, 'Waiting for Reporter': 2, 'Closed': 69, 'Scheduled': 6, 'Open': 8, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 196.7 days
+Average Lead Time (Bug): 34.5 days
+Average Lead Time (Improvement): 216.1 days
+Average Lead Time (New Feature): 375.3 days

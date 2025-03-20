@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2013-05-03 18:25:00 End date: 2020-04-13 20:20:00
+System: {'APIKIT': 682}
+Types: {'Sub-task': 14, 'Story': 88, 'Enhancement Request': 113, 'Bug': 467}
+Resolutions: {'Duplicate': 48, 'Completed': 175, "Won't Do": 13, '': 24, 'Fixed': 246, 'Done': 56, "Won't Fix or Usage Issue": 78, 'Cannot Reproduce': 27, 'Works as Designed': 2, 'Rejected': 5, 'Incomplete': 8}
+Statuses: {'Done': 99, 'New': 3, 'Resolved': 26, 'Open': 20, 'Closed': 533, 'Triaged': 1}
+
+Average Lead Time (all PBIs): 125.8 days
+Average Lead Time (Sub-task): 39.9 days
+Average Lead Time (Story): 46.2 days
+Average Lead Time (Enhancement Request): 274.6 days
+Average Lead Time (Bug): 109.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2020-01-04 20:20:00 End date: 2020-04-13 20:20:00
+System: {'APIKIT': 1}
+Types: {'Bug': 1}
+Resolutions: {'Done': 1}
+Statuses: {'Closed': 1}
+
+Average Lead Time (all PBIs): 158.0 days
+Average Lead Time (Bug): 158.0 days

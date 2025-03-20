@@ -1,0 +1,42 @@
+---
+Locations:
+    id_loc: 1
+    sysm_loc: 2
+    issue_loc: 3
+    resol_loc: 5
+    status_loc: 4
+    arr_loc: 6
+    ser_loc: 7
+spacer: ''
+#date_format = '%d/%m/%Y'
+#date_format = '%d/%b/%y %H:%M'
+date_format: "%d/%m/%Y %H:%M" 
+Filters:
+    EpicsSubtasks:
+    - "Epic"
+    - "Sub-task"
+    FeedbackBugs:
+    - "Wish"
+    StatusNoFurtherWorkRequired:
+    - "Closed"
+    - "Done"
+    - "Invalid"
+    - "Validate"
+    - "Won't Fix"
+    ResosNotDoneByTeam:
+    - "Cannot Reproduce"
+    - "Deferred"
+    - "Duplicate"
+    - "Duplicate Issue"
+    - "Explained"
+    - "Incomplete Description"
+    - "Invalid"
+    - "Migrated to another ITS"
+    - "Not A Problem"
+    - "Out of Date"
+    - "Rejected"
+    - "Won't Do"
+    - "Won't Fix"
+    - "Works as Designed"
+    
+

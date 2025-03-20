@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2013-11-18 14:42:00 End date: 2019-05-31 07:13:00
+System: {'USERGRID': 1265}
+Types: {'Improvement': 81, 'Bug': 349, 'Story': 805, 'Wish': 4, 'Technical task': 26}
+Resolutions: {'Fixed': 576, '': 462, 'Done': 77, 'Duplicate': 39, "Won't Fix": 52, 'Cannot Reproduce': 21, 'Incomplete': 3, 'Not A Problem': 20, 'Implemented': 8, 'Abandoned': 2, 'Invalid': 4, 'Later': 1}
+Statuses: {'Resolved': 31, 'Open': 448, 'Closed': 772, 'In Progress': 7, 'Patch Available': 6, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 90.6 days
+Average Lead Time (Improvement): 155.0 days
+Average Lead Time (Bug): 98.9 days
+Average Lead Time (Story): 82.3 days
+Average Lead Time (Technical task): 43.9 days
+Average Lead Time (Wish): 245.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2019-02-20 07:13:00 End date: 2019-05-31 07:13:00
+System: {'USERGRID': 3}
+Types: {'Improvement': 3}
+Resolutions: {'Fixed': 1, '': 2}
+Statuses: {'Resolved': 1, 'Open': 2}
+
+Average Lead Time (all PBIs): 4.0 days
+Average Lead Time (Improvement): 4.0 days
