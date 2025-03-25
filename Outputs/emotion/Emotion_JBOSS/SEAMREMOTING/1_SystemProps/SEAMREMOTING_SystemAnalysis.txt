@@ -1,0 +1,22 @@
+All PBIS - Unfiltered 
+Start date: 2006-03-06 06:27:00 End date: 2013-02-24 11:55:00
+System: {'SEAMREMOTING': 54}
+Types: {'Task': 12, 'Bug': 28, 'Feature Request': 14}
+Resolutions: {"Won't Fix": 2, '': 17, 'Done': 30, 'Out of Date': 3, 'Duplicate Issue': 1, 'Cannot Reproduce Bug': 1}
+Statuses: {'Resolved': 33, 'Open': 17, 'Closed': 4}
+
+Average Lead Time (all PBIs): 87.2 days
+Average Lead Time (Task): 140.2 days
+Average Lead Time (Bug): 26.3 days
+Average Lead Time (Feature Request): 226.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2012-11-16 11:55:00 End date: 2013-02-24 11:55:00
+System: {'SEAMREMOTING': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

@@ -1,0 +1,73 @@
+
+System Name: TOOLSDOC
+System Duration (Captured): 2105 days
+
+Calculated Final System Size: 29 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 29 PBIs
+
+Model Final System Size: 28 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 28 PBIs
+
+% Error, Final backlog, model vs actual: 3.0%
+Error, Final backlog, model vs actual: -1 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 214 PBIs
+Total Unplanned Arrivals: 156 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 58 PBIs
+Total Net Arrivals: 312 PBIs
+Total Services: 283 PBIs
+
+Rates:
+Planned Arrival Rate: 0.108 PBIs/day
+Unplanned Arrival Rate: 0.099 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.043 PBIs/day
+Net Arrival Rate: 0.164 PBIs/day
+Service Rate: 0.183 PBIs/day
+
+
+Metrics:
+Stability: 1.116
+Quality: 0.522
+Control: 0.792
+Inventory Days: 158.47 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 29 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 29 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 19 PBIs
+Unplanned Arrivals in this period: 19 PBIs
+Cancelled/Rejected/Won't Do  in this period: 7 PBIs
+System size change in this period: 5 PBIs
+Net Arrivals in this period: 31 PBIs
+Services in this period: 27 PBIs
+
+Rates:
+Planned Arrival Rate: 0.222 PBIs/day
+Unplanned Arrival Rate: 0.215 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.121 PBIs/day
+Net Arrival Rate: 0.297 PBIs/day
+Service Rate: 0.282 PBIs/day
+
+Metrics:
+Stability: 0.892
+Quality: 0.508
+Control: 0.723
+Inventory Days: 102.837 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

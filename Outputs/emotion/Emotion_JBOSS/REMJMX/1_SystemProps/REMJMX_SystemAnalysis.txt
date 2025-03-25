@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2011-09-22 02:09:00 End date: 2013-12-20 14:20:00
+System: {'REMJMX': 74}
+Types: {'Task': 55, 'Bug': 12, 'Feature Request': 7}
+Resolutions: {'Done': 67, '': 6, 'Rejected': 1}
+Statuses: {'Resolved': 68, 'Open': 5, 'Coding In Progress': 1}
+
+Average Lead Time (all PBIs): 14.7 days
+Average Lead Time (Task): 14.5 days
+Average Lead Time (Bug): 15.4 days
+Average Lead Time (Feature Request): 15.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-11 14:20:00 End date: 2013-12-20 14:20:00
+System: {'REMJMX': 12}
+Types: {'Bug': 2, 'Feature Request': 4, 'Task': 6}
+Resolutions: {'': 2, 'Done': 9, 'Rejected': 1}
+Statuses: {'Open': 2, 'Resolved': 10}
+
+Average Lead Time (all PBIs): 9.5 days
+Average Lead Time (Task): 0.0 days
+Average Lead Time (Bug): 0.0 days
+Average Lead Time (Feature Request): 31.7 days

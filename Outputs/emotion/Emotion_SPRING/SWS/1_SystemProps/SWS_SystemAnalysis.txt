@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2006-02-07 11:14:00 End date: 2013-12-06 21:11:00
+System: {'SWS': 803}
+Types: {'Improvement': 278, 'Bug': 348, 'New Feature': 112, 'Task': 46, 'Defect': 9, 'Support': 4, 'Refactoring': 5, 'Story': 1}
+Resolutions: {'': 88, 'Cannot Reproduce': 28, 'Fixed': 496, 'Complete': 64, 'Deferred': 9, 'Works as Designed': 6, "Won't Fix": 58, 'Invalid': 32, 'Incomplete': 1, 'Duplicate': 21}
+Statuses: {'Open': 85, 'Closed': 636, 'Resolved': 79, 'Reopened': 2, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 71.1 days
+Average Lead Time (Bug): 52.8 days
+Average Lead Time (New Feature): 158.3 days
+Average Lead Time (Task): 43.9 days
+Average Lead Time (Improvement): 73.1 days
+Average Lead Time (Support): 11.7 days
+Average Lead Time (Defect): 14.9 days
+Average Lead Time (Refactoring): 81.0 days
+Average Lead Time (Story): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-08-28 21:11:00 End date: 2013-12-06 21:11:00
+System: {'SWS': 8}
+Types: {'Defect': 1, 'Support': 1, 'Improvement': 3, 'Bug': 3}
+Resolutions: {'': 8}
+Statuses: {'Open': 8}
+
+No PBIs resolved in last 100 days.

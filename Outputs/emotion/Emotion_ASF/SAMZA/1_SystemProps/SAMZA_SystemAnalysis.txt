@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2013-08-06 05:47:00 End date: 2013-12-12 10:16:00
+System: {'SAMZA': 105}
+Types: {'Bug': 87, 'Improvement': 12, 'Wish': 4, 'New Feature': 1, 'Task': 1}
+Resolutions: {'Fixed': 39, '': 62, 'Duplicate': 3, 'Invalid': 1}
+Statuses: {'Resolved': 43, 'Open': 57, 'In Progress': 4, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 13.6 days
+Average Lead Time (Bug): 14.0 days
+Average Lead Time (Improvement): 12.0 days
+Average Lead Time (Task): 6.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-03 10:16:00 End date: 2013-12-12 10:16:00
+System: {'SAMZA': 64}
+Types: {'Bug': 48, 'Improvement': 12, 'Wish': 3, 'New Feature': 1}
+Resolutions: {'Fixed': 31, '': 31, 'Duplicate': 2}
+Statuses: {'Resolved': 33, 'Open': 27, 'In Progress': 3, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 16.0 days
+Average Lead Time (Bug): 16.7 days
+Average Lead Time (Improvement): 12.0 days

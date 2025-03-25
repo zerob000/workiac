@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2004-11-09 04:30:00 End date: 2013-12-18 22:30:00
+System: {'JBREM': 1078}
+Types: {'Task': 412, 'Bug': 422, 'Release': 49, 'Feature Request': 174, 'Enhancement': 13, 'Quality Risk': 3, 'Support Patch': 2, 'Patch': 3}
+Resolutions: {'Done': 910, '': 8, 'Rejected': 35, "Won't Fix": 58, 'Out of Date': 25, 'Duplicate Issue': 25, 'Partially Completed': 4, 'Cannot Reproduce Bug': 6, 'Deferred': 7}
+Statuses: {'Closed': 998, 'Open': 8, 'Resolved': 72}
+
+Average Lead Time (all PBIs): 152.7 days
+Average Lead Time (Task): 196.2 days
+Average Lead Time (Bug): 84.4 days
+Average Lead Time (Feature Request): 241.2 days
+Average Lead Time (Enhancement): 51.5 days
+Average Lead Time (Release): 40.1 days
+Average Lead Time (Quality Risk): 23.0 days
+Average Lead Time (Support Patch): 537.5 days
+Average Lead Time (Patch): 727.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-09 22:30:00 End date: 2013-12-18 22:30:00
+System: {'JBREM': 7}
+Types: {'Bug': 5, 'Release': 1, 'Enhancement': 1}
+Resolutions: {'': 2, 'Rejected': 2, 'Done': 3}
+Statuses: {'Open': 2, 'Closed': 4, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 321.0 days
+Average Lead Time (Bug): 302.8 days
+Average Lead Time (Enhancement): 394.0 days

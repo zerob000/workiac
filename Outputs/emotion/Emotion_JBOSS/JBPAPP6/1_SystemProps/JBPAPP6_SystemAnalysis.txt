@@ -1,0 +1,32 @@
+All PBIS - Unfiltered 
+Start date: 2005-04-19 07:46:00 End date: 2013-03-02 09:54:00
+System: {'JBPAPP6': 1373}
+Types: {'Bug': 1067, 'Task': 108, 'Feature Request': 100, 'Component  Upgrade': 24, 'Quality Risk': 7, 'Enhancement': 66, 'Release': 1}
+Resolutions: {'Done': 908, 'Migrated to another ITS': 363, 'Rejected': 32, 'Cannot Reproduce Bug': 6, "Won't Fix": 34, 'Duplicate Issue': 15, 'Deferred': 4, 'Out of Date': 8, '': 1, 'Partially Completed': 2}
+Statuses: {'Closed': 1372, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 121.9 days
+Average Lead Time (Bug): 111.8 days
+Average Lead Time (Task): 129.6 days
+Average Lead Time (Feature Request): 225.8 days
+Average Lead Time (Component  Upgrade): 79.8 days
+Average Lead Time (Quality Risk): 158.4 days
+Average Lead Time (Enhancement): 129.2 days
+Average Lead Time (Release): 3.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2012-11-22 09:54:00 End date: 2013-03-02 09:54:00
+System: {'JBPAPP6': 415}
+Types: {'Bug': 333, 'Task': 18, 'Feature Request': 42, 'Component  Upgrade': 6, 'Quality Risk': 4, 'Enhancement': 12}
+Resolutions: {'Migrated to another ITS': 361, 'Done': 49, 'Rejected': 2, 'Cannot Reproduce Bug': 2, "Won't Fix": 1}
+Statuses: {'Closed': 415}
+
+Average Lead Time (all PBIs): 160.8 days
+Average Lead Time (Bug): 149.3 days
+Average Lead Time (Task): 166.6 days
+Average Lead Time (Feature Request): 256.2 days
+Average Lead Time (Component  Upgrade): 157.7 days
+Average Lead Time (Quality Risk): 178.5 days
+Average Lead Time (Enhancement): 134.0 days

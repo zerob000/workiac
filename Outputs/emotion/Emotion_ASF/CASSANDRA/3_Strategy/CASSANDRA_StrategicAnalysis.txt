@@ -1,0 +1,73 @@
+
+System Name: CASSANDRA
+System Duration (Captured): 1746 days
+
+Calculated Final System Size: 428 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 428 PBIs
+
+Model Final System Size: 445 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 445 PBIs
+
+% Error, Final backlog, model vs actual: 4.0%
+Error, Final backlog, model vs actual: 17 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 740 PBIs
+Total Unplanned Arrivals: 5560 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 1755 PBIs
+Total Net Arrivals: 4545 PBIs
+Total Services: 4117 PBIs
+
+Rates:
+Planned Arrival Rate: 0.413 PBIs/day
+Unplanned Arrival Rate: 3.443 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 1.132 PBIs/day
+Net Arrival Rate: 2.724 PBIs/day
+Service Rate: 2.502 PBIs/day
+
+
+Metrics:
+Stability: 0.919
+Quality: 0.107
+Control: 0.706
+Inventory Days: 171.063 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 428 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 428 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 57 PBIs
+Unplanned Arrivals in this period: 454 PBIs
+Cancelled/Rejected/Won't Do  in this period: 205 PBIs
+System size change in this period: 15 PBIs
+Net Arrivals in this period: 306 PBIs
+Services in this period: 290 PBIs
+
+Rates:
+Planned Arrival Rate: 0.619 PBIs/day
+Unplanned Arrival Rate: 4.465 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 2.062 PBIs/day
+Net Arrival Rate: 3.004 PBIs/day
+Service Rate: 3.005 PBIs/day
+
+Metrics:
+Stability: 0.994
+Quality: 0.122
+Control: 0.594
+Inventory Days: 142.429 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

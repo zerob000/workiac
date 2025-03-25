@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2006-07-23 00:29:00 End date: 2013-01-08 20:10:00
+System: {'MDOAP': 32}
+Types: {'Improvement': 10, 'Bug': 13, 'New Feature': 4, 'Task': 4, 'Wish': 1}
+Resolutions: {'Fixed': 29, '': 2, "Won't Fix": 1}
+Statuses: {'Closed': 30, 'Open': 2}
+
+Average Lead Time (all PBIs): 81.7 days
+Average Lead Time (Improvement): 92.0 days
+Average Lead Time (Bug): 82.3 days
+Average Lead Time (New Feature): 150.2 days
+Average Lead Time (Task): 8.5 days
+Average Lead Time (Wish): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2012-09-30 20:10:00 End date: 2013-01-08 20:10:00
+System: {'MDOAP': 1}
+Types: {'Bug': 1}
+Resolutions: {'Fixed': 1}
+Statuses: {'Closed': 1}
+
+Average Lead Time (all PBIs): 0.0 days
+Average Lead Time (Bug): 0.0 days

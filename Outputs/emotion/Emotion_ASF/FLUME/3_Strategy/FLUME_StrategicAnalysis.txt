@@ -1,0 +1,73 @@
+
+System Name: FLUME
+System Duration (Captured): 1266 days
+
+Calculated Final System Size: 800 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 800 PBIs
+
+Model Final System Size: 844 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 844 PBIs
+
+% Error, Final backlog, model vs actual: 6.0%
+Error, Final backlog, model vs actual: 44 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 438 PBIs
+Total Unplanned Arrivals: 1675 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 233 PBIs
+Total Net Arrivals: 1880 PBIs
+Total Services: 1080 PBIs
+
+Rates:
+Planned Arrival Rate: 0.339 PBIs/day
+Unplanned Arrival Rate: 1.403 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.205 PBIs/day
+Net Arrival Rate: 1.537 PBIs/day
+Service Rate: 0.91 PBIs/day
+
+
+Metrics:
+Stability: 0.592
+Quality: 0.195
+Control: 0.882
+Inventory Days: 879.121 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 800 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 800 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 12 PBIs
+Unplanned Arrivals in this period: 73 PBIs
+Cancelled/Rejected/Won't Do  in this period: 10 PBIs
+System size change in this period: 31 PBIs
+Net Arrivals in this period: 75 PBIs
+Services in this period: 43 PBIs
+
+Rates:
+Planned Arrival Rate: 0.119 PBIs/day
+Unplanned Arrival Rate: 0.702 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.127 PBIs/day
+Net Arrival Rate: 0.745 PBIs/day
+Service Rate: 0.386 PBIs/day
+
+Metrics:
+Stability: 0.556
+Quality: 0.145
+Control: 0.845
+Inventory Days: 2072.539 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

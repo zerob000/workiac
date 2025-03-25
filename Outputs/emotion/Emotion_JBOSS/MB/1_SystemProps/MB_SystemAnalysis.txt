@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2007-07-19 20:16:00 End date: 2013-08-02 06:44:00
+System: {'MB': 1138}
+Types: {'Bug': 731, 'Enhancement': 233, 'Task': 72, 'Feature Request': 53, 'Documentation': 49}
+Resolutions: {'': 120, 'Done': 783, "Won't Fix": 22, 'Duplicate Issue': 13, 'Cannot Reproduce Bug': 8, 'Unresolved': 3, 'Resolved at Apache': 188, 'Incomplete Description': 1}
+Statuses: {'Open': 119, 'Resolved': 922, 'Closed': 96, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 67.4 days
+Average Lead Time (Bug): 38.8 days
+Average Lead Time (Enhancement): 81.6 days
+Average Lead Time (Task): 93.5 days
+Average Lead Time (Feature Request): 61.8 days
+Average Lead Time (Documentation): 401.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-04-24 06:44:00 End date: 2013-08-02 06:44:00
+System: {'MB': 4}
+Types: {'Bug': 3, 'Feature Request': 1}
+Resolutions: {'Unresolved': 2, 'Done': 2}
+Statuses: {'Closed': 3, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 569.0 days
+Average Lead Time (Bug): 349.7 days
+Average Lead Time (Feature Request): 1227.0 days

@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2005-04-20 18:56:00 End date: 2013-11-19 00:56:00
+System: {'REM3': 154}
+Types: {'Bug': 62, 'Enhancement': 2, 'Feature Request': 51, 'Task': 37, 'Quality Risk': 2}
+Resolutions: {'Done': 116, '': 9, 'Duplicate Issue': 3, 'Rejected': 9, 'Out of Date': 11, 'Cannot Reproduce Bug': 1, "Won't Fix": 5}
+Statuses: {'Resolved': 68, 'Open': 9, 'Closed': 77}
+
+Average Lead Time (all PBIs): 216.1 days
+Average Lead Time (Bug): 79.3 days
+Average Lead Time (Enhancement): 24.0 days
+Average Lead Time (Task): 562.8 days
+Average Lead Time (Quality Risk): 1.0 days
+Average Lead Time (Feature Request): 145.9 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-08-11 00:56:00 End date: 2013-11-19 00:56:00
+System: {'REM3': 11}
+Types: {'Bug': 6, 'Enhancement': 1, 'Feature Request': 1, 'Task': 3}
+Resolutions: {'': 3, 'Done': 6, 'Duplicate Issue': 1, 'Rejected': 1}
+Statuses: {'Open': 3, 'Resolved': 7, 'Closed': 1}
+
+Average Lead Time (all PBIs): 777.5 days
+Average Lead Time (Bug): 288.8 days
+Average Lead Time (Task): 1592.0 days

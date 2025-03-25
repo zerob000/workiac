@@ -1,0 +1,73 @@
+
+System Name: SMX4
+System Duration (Captured): 2269 days
+
+Calculated Final System Size: 109 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 109 PBIs
+
+Model Final System Size: 166 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 166 PBIs
+
+% Error, Final backlog, model vs actual: 52.0%
+Error, Final backlog, model vs actual: 57 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 723 PBIs
+Total Unplanned Arrivals: 794 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 118 PBIs
+Total Net Arrivals: 1399 PBIs
+Total Services: 1290 PBIs
+
+Rates:
+Planned Arrival Rate: 0.371 PBIs/day
+Unplanned Arrival Rate: 0.413 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.058 PBIs/day
+Net Arrival Rate: 0.726 PBIs/day
+Service Rate: 0.633 PBIs/day
+
+
+Metrics:
+Stability: 0.872
+Quality: 0.473
+Control: 0.926
+Inventory Days: 172.196 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 109 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 109 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 68 PBIs
+Unplanned Arrivals in this period: 15 PBIs
+Cancelled/Rejected/Won't Do  in this period: 7 PBIs
+System size change in this period: 7 PBIs
+Net Arrivals in this period: 76 PBIs
+Services in this period: 68 PBIs
+
+Rates:
+Planned Arrival Rate: 0.736 PBIs/day
+Unplanned Arrival Rate: 0.216 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.097 PBIs/day
+Net Arrival Rate: 0.865 PBIs/day
+Service Rate: 0.719 PBIs/day
+
+Metrics:
+Stability: 0.841
+Quality: 0.773
+Control: 0.898
+Inventory Days: 151.599 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

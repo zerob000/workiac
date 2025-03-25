@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2002-01-21 23:17:00 End date: 2013-11-27 18:24:00
+System: {'SANTUARIO': 373}
+Types: {'Bug': 300, 'Improvement': 63, 'Task': 2, 'New Feature': 6, 'Test': 2}
+Resolutions: {'Fixed': 280, '': 23, 'Duplicate': 13, "Won't Fix": 20, 'Not A Problem': 6, 'Invalid': 2, 'Cannot Reproduce': 8, 'Incomplete': 21}
+Statuses: {'Resolved': 43, 'Closed': 307, 'Open': 23}
+
+Average Lead Time (all PBIs): 892.5 days
+Average Lead Time (Bug): 985.8 days
+Average Lead Time (Improvement): 516.6 days
+Average Lead Time (New Feature): 8.2 days
+Average Lead Time (Test): 1.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-08-19 18:24:00 End date: 2013-11-27 18:24:00
+System: {'SANTUARIO': 9}
+Types: {'Bug': 7, 'Improvement': 2}
+Resolutions: {'Fixed': 6, '': 1, "Won't Fix": 2}
+Statuses: {'Resolved': 6, 'Closed': 2, 'Open': 1}
+
+Average Lead Time (all PBIs): 760.5 days
+Average Lead Time (Bug): 0.7 days
+Average Lead Time (Improvement): 3040.0 days

@@ -1,0 +1,35 @@
+All PBIS - Unfiltered 
+Start date: 2010-11-23 17:39:00 End date: 2013-12-13 22:41:00
+System: {'STANBOL': 1063}
+Types: {'Task': 65, 'Improvement': 366, 'Bug': 452, 'New Feature': 134, 'Documentation': 2, 'Question': 6, 'Dependency upgrade': 3, 'Test': 23, 'Story': 3, 'Wish': 8, 'Suitable Name Search': 1}
+Resolutions: {'Fixed': 819, 'Later': 6, '': 186, 'Invalid': 7, 'Duplicate': 9, 'Implemented': 12, "Won't Fix": 12, 'Not A Problem': 11, 'Cannot Reproduce': 1}
+Statuses: {'Closed': 677, 'Open': 180, 'Resolved': 200, 'Reopened': 5, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 58.7 days
+Average Lead Time (Task): 67.2 days
+Average Lead Time (Improvement): 78.2 days
+Average Lead Time (Bug): 34.5 days
+Average Lead Time (New Feature): 88.8 days
+Average Lead Time (Question): 45.3 days
+Average Lead Time (Dependency upgrade): 25.3 days
+Average Lead Time (Test): 74.5 days
+Average Lead Time (Documentation): 178.0 days
+Average Lead Time (Wish): 73.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-04 22:41:00 End date: 2013-12-13 22:41:00
+System: {'STANBOL': 79}
+Types: {'Improvement': 23, 'Question': 1, 'New Feature': 10, 'Bug': 34, 'Dependency upgrade': 1, 'Test': 6, 'Task': 2, 'Story': 1, 'Documentation': 1}
+Resolutions: {'': 25, 'Fixed': 48, 'Invalid': 1, 'Duplicate': 2, 'Implemented': 1, 'Not A Problem': 1, "Won't Fix": 1}
+Statuses: {'Open': 24, 'Closed': 6, 'Resolved': 48, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 89.4 days
+Average Lead Time (Question): 100.0 days
+Average Lead Time (New Feature): 284.3 days
+Average Lead Time (Bug): 59.9 days
+Average Lead Time (Improvement): 61.1 days
+Average Lead Time (Dependency upgrade): 0.0 days
+Average Lead Time (Test): 12.0 days
+Average Lead Time (Documentation): 178.0 days

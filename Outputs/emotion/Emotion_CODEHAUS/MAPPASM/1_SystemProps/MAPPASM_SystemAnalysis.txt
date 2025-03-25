@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2005-12-08 09:31:00 End date: 2013-12-14 04:36:00
+System: {'MAPPASM': 213}
+Types: {'Improvement': 57, 'New Feature': 38, 'Task': 14, 'Bug': 100, 'Wish': 3, 'Test': 1}
+Resolutions: {'': 28, 'Fixed': 141, 'Not A Bug': 13, 'Incomplete': 4, 'Cannot Reproduce': 10, 'Duplicate': 7, "Won't Fix": 10}
+Statuses: {'Open': 28, 'Closed': 185}
+
+Average Lead Time (all PBIs): 269.6 days
+Average Lead Time (Improvement): 319.1 days
+Average Lead Time (New Feature): 371.5 days
+Average Lead Time (Task): 125.6 days
+Average Lead Time (Bug): 231.2 days
+Average Lead Time (Wish): 2.7 days
+Average Lead Time (Test): 1123.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-05 04:36:00 End date: 2013-12-14 04:36:00
+System: {'MAPPASM': 21}
+Types: {'Improvement': 9, 'Bug': 7, 'New Feature': 5}
+Resolutions: {'Fixed': 14, '': 4, 'Not A Bug': 2, 'Duplicate': 1}
+Statuses: {'Closed': 17, 'Open': 4}
+
+Average Lead Time (all PBIs): 291.3 days
+Average Lead Time (Improvement): 153.0 days
+Average Lead Time (Bug): 59.5 days
+Average Lead Time (New Feature): 881.0 days

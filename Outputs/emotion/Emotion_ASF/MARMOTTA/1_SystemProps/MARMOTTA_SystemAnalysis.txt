@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2012-12-14 19:33:00 End date: 2013-12-13 01:03:00
+System: {'MARMOTTA': 367}
+Types: {'Wish': 11, 'Bug': 178, 'Improvement': 86, 'Task': 67, 'New Feature': 22, 'Test': 3}
+Resolutions: {'Invalid': 2, "Won't Fix": 15, '': 96, 'Fixed': 223, 'Duplicate': 3, 'Later': 2, 'Done': 1, 'Implemented': 14, 'Cannot Reproduce': 6, 'Not A Problem': 5}
+Statuses: {'Resolved': 107, 'Closed': 164, 'Open': 94, 'Reopened': 2}
+
+Average Lead Time (all PBIs): 38.4 days
+Average Lead Time (Wish): 81.4 days
+Average Lead Time (Bug): 30.4 days
+Average Lead Time (Improvement): 42.4 days
+Average Lead Time (Task): 45.5 days
+Average Lead Time (New Feature): 69.6 days
+Average Lead Time (Test): 53.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-04 01:03:00 End date: 2013-12-13 01:03:00
+System: {'MARMOTTA': 138}
+Types: {'Wish': 7, 'Improvement': 40, 'Bug': 65, 'Task': 17, 'New Feature': 6, 'Test': 3}
+Resolutions: {'Invalid': 1, '': 50, 'Fixed': 72, "Won't Fix": 1, 'Duplicate': 1, 'Later': 1, 'Done': 1, 'Implemented': 6, 'Cannot Reproduce': 4, 'Not A Problem': 1}
+Statuses: {'Resolved': 58, 'Open': 50, 'Closed': 30}
+
+Average Lead Time (all PBIs): 58.0 days
+Average Lead Time (Wish): 101.8 days
+Average Lead Time (Bug): 51.3 days
+Average Lead Time (Task): 95.6 days
+Average Lead Time (New Feature): 54.0 days
+Average Lead Time (Improvement): 46.8 days
+Average Lead Time (Test): 53.7 days

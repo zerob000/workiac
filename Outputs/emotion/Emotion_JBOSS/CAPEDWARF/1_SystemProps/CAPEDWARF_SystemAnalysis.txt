@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2012-01-11 05:31:00 End date: 2013-12-25 21:23:00
+System: {'CAPEDWARF': 201}
+Types: {'Feature Request': 61, 'Task': 67, 'Bug': 57, 'Enhancement': 15, 'Documentation': 1}
+Resolutions: {'Done': 166, 'Out of Date': 2, '': 26, 'Partially Completed': 1, "Won't Fix": 1, 'Duplicate Issue': 1, 'Rejected': 4}
+Statuses: {'Resolved': 173, 'Open': 26, 'Closed': 2}
+
+Average Lead Time (all PBIs): 36.9 days
+Average Lead Time (Feature Request): 47.9 days
+Average Lead Time (Task): 46.6 days
+Average Lead Time (Bug): 7.3 days
+Average Lead Time (Enhancement): 81.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-16 21:23:00 End date: 2013-12-25 21:23:00
+System: {'CAPEDWARF': 27}
+Types: {'Task': 14, 'Bug': 4, 'Documentation': 1, 'Feature Request': 7, 'Enhancement': 1}
+Resolutions: {'Done': 21, "Won't Fix": 1, '': 4, 'Out of Date': 1}
+Statuses: {'Resolved': 23, 'Open': 4}
+
+Average Lead Time (all PBIs): 86.0 days
+Average Lead Time (Task): 54.9 days
+Average Lead Time (Bug): 17.5 days
+Average Lead Time (Feature Request): 104.2 days
+Average Lead Time (Enhancement): 624.0 days

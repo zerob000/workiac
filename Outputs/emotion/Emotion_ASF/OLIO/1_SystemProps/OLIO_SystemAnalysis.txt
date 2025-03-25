@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2008-10-15 01:40:00 End date: 2011-12-09 14:53:00
+System: {'OLIO': 153}
+Types: {'Improvement': 31, 'Bug': 108, 'Task': 6, 'Suitable Name Search': 1, 'New JIRA Project': 1, 'New Feature': 6}
+Resolutions: {'Fixed': 119, '': 28, 'Duplicate': 2, 'Invalid': 1, "Won't Fix": 2, 'Cannot Reproduce': 1}
+Statuses: {'Closed': 112, 'Open': 24, 'Resolved': 13, 'In Progress': 2, 'Reopened': 2}
+
+Average Lead Time (all PBIs): 38.8 days
+Average Lead Time (Improvement): 48.1 days
+Average Lead Time (Task): 8.5 days
+Average Lead Time (Bug): 34.4 days
+Average Lead Time (New Feature): 139.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2011-08-31 14:53:00 End date: 2011-12-09 14:53:00
+System: {'OLIO': 1}
+Types: {'Suitable Name Search': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

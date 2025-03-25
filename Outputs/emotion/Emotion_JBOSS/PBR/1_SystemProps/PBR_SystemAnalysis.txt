@@ -1,0 +1,34 @@
+All PBIS - Unfiltered 
+Start date: 2008-02-15 12:10:00 End date: 2013-12-07 02:24:00
+System: {'PBR': 538}
+Types: {'Release': 32, 'Task': 117, 'Bug': 302, 'Component Upgrade': 5, 'Enhancement': 18, 'Feature Request': 41, 'Component  Upgrade': 12, 'Patch': 9, 'Support Patch': 2}
+Resolutions: {'Done': 397, "Won't Fix": 46, 'Rejected': 38, 'Duplicate Issue': 17, 'Out of Date': 15, 'Cannot Reproduce Bug': 22, 'Incomplete Description': 1, 'Partially Completed': 1, 'Deferred': 1}
+Statuses: {'Closed': 537, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 114.2 days
+Average Lead Time (Release): 0.0 days
+Average Lead Time (Task): 100.7 days
+Average Lead Time (Bug): 121.3 days
+Average Lead Time (Component Upgrade): 72.6 days
+Average Lead Time (Enhancement): 148.9 days
+Average Lead Time (Feature Request): 205.1 days
+Average Lead Time (Component  Upgrade): 20.9 days
+Average Lead Time (Patch): 149.6 days
+Average Lead Time (Support Patch): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-08-29 02:24:00 End date: 2013-12-07 02:24:00
+System: {'PBR': 41}
+Types: {'Task': 9, 'Bug': 15, 'Feature Request': 5, 'Release': 7, 'Component  Upgrade': 2, 'Enhancement': 3}
+Resolutions: {'Rejected': 7, 'Done': 28, 'Out of Date': 2, 'Incomplete Description': 1, 'Duplicate Issue': 1, "Won't Fix": 2}
+Statuses: {'Closed': 41}
+
+Average Lead Time (all PBIs): 123.9 days
+Average Lead Time (Task): 240.0 days
+Average Lead Time (Bug): 41.7 days
+Average Lead Time (Feature Request): 282.0 days
+Average Lead Time (Release): 0.0 days
+Average Lead Time (Component  Upgrade): 14.0 days
+Average Lead Time (Enhancement): 285.0 days

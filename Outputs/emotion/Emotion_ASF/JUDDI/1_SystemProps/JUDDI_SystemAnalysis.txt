@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2004-01-18 06:54:00 End date: 2013-12-14 22:29:00
+System: {'JUDDI': 723}
+Types: {'New Feature': 62, 'Bug': 437, 'Improvement': 78, 'Task': 142, 'Wish': 2, 'Test': 2}
+Resolutions: {'Fixed': 578, 'Implemented': 2, '': 44, 'Duplicate': 15, 'Not A Problem': 17, 'Done': 8, 'Later': 1, 'Cannot Reproduce': 20, "Won't Fix": 17, 'Unresolved': 2, 'Invalid': 14, 'Incomplete': 5}
+Statuses: {'Resolved': 63, 'Closed': 616, 'Open': 41, 'Reopened': 3}
+
+Average Lead Time (all PBIs): 101.6 days
+Average Lead Time (New Feature): 162.9 days
+Average Lead Time (Bug): 74.9 days
+Average Lead Time (Improvement): 242.0 days
+Average Lead Time (Task): 77.9 days
+Average Lead Time (Test): 213.0 days
+Average Lead Time (Wish): 841.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-05 22:29:00 End date: 2013-12-14 22:29:00
+System: {'JUDDI': 112}
+Types: {'New Feature': 22, 'Bug': 54, 'Task': 21, 'Improvement': 14, 'Wish': 1}
+Resolutions: {'Fixed': 69, 'Implemented': 2, '': 28, 'Not A Problem': 2, 'Done': 8, 'Later': 1, "Won't Fix": 2}
+Statuses: {'Resolved': 60, 'Open': 28, 'Closed': 24}
+
+Average Lead Time (all PBIs): 41.8 days
+Average Lead Time (New Feature): 92.8 days
+Average Lead Time (Bug): 39.6 days
+Average Lead Time (Improvement): 33.0 days
+Average Lead Time (Task): 4.6 days

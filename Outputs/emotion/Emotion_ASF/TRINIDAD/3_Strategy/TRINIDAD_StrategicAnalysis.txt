@@ -1,0 +1,73 @@
+
+System Name: TRINIDAD
+System Duration (Captured): 2794 days
+
+Calculated Final System Size: 661 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 661 PBIs
+
+Model Final System Size: 883 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 883 PBIs
+
+% Error, Final backlog, model vs actual: 34.0%
+Error, Final backlog, model vs actual: 222 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 195 PBIs
+Total Unplanned Arrivals: 2218 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 252 PBIs
+Total Net Arrivals: 2161 PBIs
+Total Services: 1500 PBIs
+
+Rates:
+Planned Arrival Rate: 0.093 PBIs/day
+Unplanned Arrival Rate: 0.894 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.106 PBIs/day
+Net Arrival Rate: 0.881 PBIs/day
+Service Rate: 0.587 PBIs/day
+
+
+Metrics:
+Stability: 0.666
+Quality: 0.094
+Control: 0.893
+Inventory Days: 1126.065 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 661 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 661 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 0 PBIs
+Unplanned Arrivals in this period: 19 PBIs
+Cancelled/Rejected/Won't Do  in this period: 2 PBIs
+System size change in this period: -26 PBIs
+Net Arrivals in this period: 17 PBIs
+Services in this period: 41 PBIs
+
+Rates:
+Planned Arrival Rate: NaN PBIs/day
+Unplanned Arrival Rate: 0.191 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.188 PBIs/day
+Net Arrival Rate: 0.148 PBIs/day
+Service Rate: 0.659 PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

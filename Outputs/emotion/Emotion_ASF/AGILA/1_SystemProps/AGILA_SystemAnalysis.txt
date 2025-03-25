@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2005-05-03 06:37:00 End date: 2006-03-28 06:20:00
+System: {'AGILA': 44}
+Types: {'Improvement': 15, 'Bug': 8, 'New Feature': 20, 'Task': 1}
+Resolutions: {'': 30, 'Fixed': 11, 'Invalid': 2, "Won't Fix": 1}
+Statuses: {'Open': 29, 'Closed': 12, 'Resolved': 2, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 30.3 days
+Average Lead Time (Bug): 30.3 days
+Average Lead Time (Improvement): 24.0 days
+Average Lead Time (New Feature): 37.7 days
+Average Lead Time (Task): 27.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2005-12-18 06:20:00 End date: 2006-03-28 06:20:00
+System: {'AGILA': 7}
+Types: {'New Feature': 2, 'Bug': 1, 'Improvement': 4}
+Resolutions: {'': 5, 'Fixed': 2}
+Statuses: {'Open': 5, 'Closed': 2}
+
+Average Lead Time (all PBIs): 33.0 days
+Average Lead Time (Bug): 0.0 days
+Average Lead Time (Improvement): 66.0 days

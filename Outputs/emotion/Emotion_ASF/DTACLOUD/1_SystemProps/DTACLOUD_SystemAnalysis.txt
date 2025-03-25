@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2010-07-08 15:53:00 End date: 2013-10-28 19:59:00
+System: {'DTACLOUD': 580}
+Types: {'Bug': 477, 'Improvement': 56, 'New Feature': 15, 'Question': 11, 'Task': 12, 'Wish': 2, 'Test': 6, 'Dependency upgrade': 1}
+Resolutions: {'': 150, 'Cannot Reproduce': 13, 'Fixed': 363, "Won't Fix": 18, 'Not A Problem': 26, 'Duplicate': 6, 'Invalid': 2, 'Later': 1, 'Implemented': 1}
+Statuses: {'Open': 142, 'Closed': 423, 'Resolved': 7, 'Reopened': 7, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 51.5 days
+Average Lead Time (Bug): 53.1 days
+Average Lead Time (Improvement): 29.6 days
+Average Lead Time (New Feature): 66.0 days
+Average Lead Time (Question): 66.2 days
+Average Lead Time (Wish): 0.0 days
+Average Lead Time (Task): 39.4 days
+Average Lead Time (Test): 67.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-07-20 19:59:00 End date: 2013-10-28 19:59:00
+System: {'DTACLOUD': 3}
+Types: {'Question': 1, 'Bug': 2}
+Resolutions: {'Fixed': 1, '': 2}
+Statuses: {'Resolved': 1, 'Open': 2}
+
+Average Lead Time (all PBIs): 16.0 days
+Average Lead Time (Question): 16.0 days

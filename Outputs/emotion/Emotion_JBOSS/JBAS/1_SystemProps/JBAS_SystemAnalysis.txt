@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2001-04-06 15:49:00 End date: 2013-12-07 05:03:00
+System: {'JBAS': 7036}
+Types: {'Task': 1341, 'Component Upgrade': 222, 'Patch': 103, 'Bug': 4198, 'Feature Request': 1086, 'Enhancement': 8, 'Support Patch': 1, 'Release': 5, 'Component  Upgrade': 66, 'Quality Risk': 4, 'CTS Challenge': 2}
+Resolutions: {'Done': 4207, 'Out of Date': 1171, '': 277, 'Cannot Reproduce Bug': 66, 'Rejected': 724, "Won't Fix": 190, 'Duplicate Issue': 269, 'Incomplete Description': 67, 'Partially Completed': 7, 'Deferred': 58}
+Statuses: {'Closed': 6664, 'Resolved': 95, 'Open': 103, 'Reopened': 174}
+
+Average Lead Time (all PBIs): 337.8 days
+Average Lead Time (Task): 246.6 days
+Average Lead Time (Component Upgrade): 56.8 days
+Average Lead Time (Patch): 813.1 days
+Average Lead Time (Bug): 306.1 days
+Average Lead Time (Feature Request): 601.4 days
+Average Lead Time (Support Patch): 18.0 days
+Average Lead Time (Enhancement): 25.2 days
+Average Lead Time (Release): 30.0 days
+Average Lead Time (Component  Upgrade): 123.2 days
+Average Lead Time (Quality Risk): 324.7 days
+Average Lead Time (CTS Challenge): 16.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-08-29 05:03:00 End date: 2013-12-07 05:03:00
+System: {'JBAS': 6}
+Types: {'Task': 1, 'Bug': 4, 'Feature Request': 1}
+Resolutions: {'': 5, 'Cannot Reproduce Bug': 1}
+Statuses: {'Open': 5, 'Closed': 1}
+
+Average Lead Time (all PBIs): 149.0 days
+Average Lead Time (Bug): 149.0 days

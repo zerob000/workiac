@@ -1,0 +1,73 @@
+
+System Name: PLINK
+System Duration (Captured): 1737 days
+
+Calculated Final System Size: 80 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 80 PBIs
+
+Model Final System Size: 49 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 49 PBIs
+
+% Error, Final backlog, model vs actual: 39.0%
+Error, Final backlog, model vs actual: -31 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 157 PBIs
+Total Unplanned Arrivals: 135 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 14 PBIs
+Total Net Arrivals: 278 PBIs
+Total Services: 198 PBIs
+
+Rates:
+Planned Arrival Rate: 0.147 PBIs/day
+Unplanned Arrival Rate: 0.077 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.061 PBIs/day
+Net Arrival Rate: 0.163 PBIs/day
+Service Rate: 0.172 PBIs/day
+
+
+Metrics:
+Stability: 1.055
+Quality: 0.656
+Control: 0.728
+Inventory Days: 465.116 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 80 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 80 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 43 PBIs
+Unplanned Arrivals in this period: 35 PBIs
+Cancelled/Rejected/Won't Do  in this period: 3 PBIs
+System size change in this period: 22 PBIs
+Net Arrivals in this period: 75 PBIs
+Services in this period: 52 PBIs
+
+Rates:
+Planned Arrival Rate: 0.441 PBIs/day
+Unplanned Arrival Rate: 0.417 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.04 PBIs/day
+Net Arrival Rate: 0.823 PBIs/day
+Service Rate: 0.613 PBIs/day
+
+Metrics:
+Stability: 0.749
+Quality: 0.514
+Control: 0.953
+Inventory Days: 130.506 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

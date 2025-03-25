@@ -1,0 +1,73 @@
+
+System Name: GRAILS
+System Duration (Captured): 2049 days
+
+Calculated Final System Size: 1656 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 1656 PBIs
+
+Model Final System Size: 1714 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 1714 PBIs
+
+% Error, Final backlog, model vs actual: 4.0%
+Error, Final backlog, model vs actual: 58 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 556 PBIs
+Total Unplanned Arrivals: 5979 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 1683 PBIs
+Total Net Arrivals: 4852 PBIs
+Total Services: 3196 PBIs
+
+Rates:
+Planned Arrival Rate: 0.293 PBIs/day
+Unplanned Arrival Rate: 3.657 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 1.19 PBIs/day
+Net Arrival Rate: 2.76 PBIs/day
+Service Rate: 1.846 PBIs/day
+
+
+Metrics:
+Stability: 0.669
+Quality: 0.074
+Control: 0.699
+Inventory Days: 897.075 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 100 days
+
+Calculated Final System Size: 1656 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 1656 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 13 PBIs
+Unplanned Arrivals in this period: 300 PBIs
+Cancelled/Rejected/Won't Do  in this period: 69 PBIs
+System size change in this period: 152 PBIs
+Net Arrivals in this period: 244 PBIs
+Services in this period: 91 PBIs
+
+Rates:
+Planned Arrival Rate: 0.127 PBIs/day
+Unplanned Arrival Rate: 2.959 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.747 PBIs/day
+Net Arrival Rate: 2.35 PBIs/day
+Service Rate: 0.936 PBIs/day
+
+Metrics:
+Stability: 0.4
+Quality: 0.041
+Control: 0.758
+Inventory Days: 1769.231 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2009-11-30 09:57:00 End date: 2013-07-11 08:07:00
+System: {'COMDEV': 98}
+Types: {'Bug': 17, 'New Feature': 47, 'Improvement': 20, 'Task': 7, 'Question': 5, 'New JIRA Project': 1, 'Test': 1}
+Resolutions: {'': 61, 'Not A Problem': 4, 'Fixed': 15, 'Incomplete': 2, 'Invalid': 15, "Won't Fix": 1}
+Statuses: {'Open': 61, 'Closed': 27, 'Resolved': 10}
+
+Average Lead Time (all PBIs): 22.9 days
+Average Lead Time (New Feature): 40.7 days
+Average Lead Time (Bug): 5.2 days
+Average Lead Time (Improvement): 5.4 days
+Average Lead Time (Task): 136.0 days
+Average Lead Time (Question): 42.0 days
+Average Lead Time (New JIRA Project): 0.0 days
+Average Lead Time (Test): 5.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-04-02 08:07:00 End date: 2013-07-11 08:07:00
+System: {'COMDEV': 11}
+Types: {'Bug': 2, 'Improvement': 4, 'New Feature': 5}
+Resolutions: {'': 8, 'Fixed': 3}
+Statuses: {'Open': 8, 'Resolved': 3}
+
+Average Lead Time (all PBIs): 59.0 days
+Average Lead Time (Bug): 11.0 days
+Average Lead Time (New Feature): 83.0 days

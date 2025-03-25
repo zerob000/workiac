@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2006-06-26 15:57:00 End date: 2011-06-16 16:46:00
+System: {'OSGI': 758}
+Types: {'Improvement': 261, 'Bug': 329, 'Task': 100, 'New Feature': 66, 'Defect': 1, 'Refactoring': 1}
+Resolutions: {'Duplicate': 17, 'Cannot Reproduce': 32, 'Fixed': 527, '': 78, "Won't Fix": 63, 'Invalid': 29, 'Incomplete': 12}
+Statuses: {'Resolved': 622, 'Open': 78, 'Closed': 58}
+
+Average Lead Time (all PBIs): 86.5 days
+Average Lead Time (Improvement): 81.8 days
+Average Lead Time (Bug): 60.6 days
+Average Lead Time (Task): 160.5 days
+Average Lead Time (New Feature): 119.7 days
+Average Lead Time (Refactoring): 6.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2011-03-08 16:46:00 End date: 2011-06-16 16:46:00
+System: {'OSGI': 4}
+Types: {'Bug': 4}
+Resolutions: {'': 2, 'Invalid': 1, 'Fixed': 1}
+Statuses: {'Open': 2, 'Resolved': 2}
+
+Average Lead Time (all PBIs): 212.5 days
+Average Lead Time (Bug): 212.5 days

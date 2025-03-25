@@ -1,0 +1,73 @@
+
+System Name: ARQGRA
+System Duration (Captured): 1264 days
+
+Calculated Final System Size: 83 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 83 PBIs
+
+Model Final System Size: 79 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 79 PBIs
+
+% Error, Final backlog, model vs actual: 5.0%
+Error, Final backlog, model vs actual: -4 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 224 PBIs
+Total Unplanned Arrivals: 134 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 61 PBIs
+Total Net Arrivals: 297 PBIs
+Total Services: 214 PBIs
+
+Rates:
+Planned Arrival Rate: 0.205 PBIs/day
+Unplanned Arrival Rate: 0.115 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.058 PBIs/day
+Net Arrival Rate: 0.262 PBIs/day
+Service Rate: 0.197 PBIs/day
+
+
+Metrics:
+Stability: 0.752
+Quality: 0.641
+Control: 0.819
+Inventory Days: 421.32 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 83 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 83 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 10 PBIs
+Unplanned Arrivals in this period: 28 PBIs
+Cancelled/Rejected/Won't Do  in this period: 4 PBIs
+System size change in this period: 11 PBIs
+Net Arrivals in this period: 34 PBIs
+Services in this period: 22 PBIs
+
+Rates:
+Planned Arrival Rate: 0.121 PBIs/day
+Unplanned Arrival Rate: 0.292 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.118 PBIs/day
+Net Arrival Rate: 0.371 PBIs/day
+Service Rate: 0.236 PBIs/day
+
+Metrics:
+Stability: 0.8
+Quality: 0.293
+Control: 0.714
+Inventory Days: 351.695 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

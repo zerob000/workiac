@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2010-04-10 04:33:00 End date: 2013-01-09 17:56:00
+System: {'SEAM': 129}
+Types: {'Bug': 84, 'Library Upgrade': 4, 'Task': 25, 'Feature Request': 11, 'Enhancement': 5}
+Resolutions: {'': 47, 'Done': 59, 'Rejected': 3, 'Migrated to another ITS': 1, 'Duplicate Issue': 3, "Won't Fix": 7, 'Cannot Reproduce Bug': 2, 'Out of Date': 7}
+Statuses: {'Open': 44, 'Resolved': 71, 'Closed': 11, 'Pull Request Sent': 2, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 60.4 days
+Average Lead Time (Library Upgrade): 101.3 days
+Average Lead Time (Bug): 54.8 days
+Average Lead Time (Task): 71.1 days
+Average Lead Time (Feature Request): 89.8 days
+Average Lead Time (Enhancement): 21.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2012-10-01 17:56:00 End date: 2013-01-09 17:56:00
+System: {'SEAM': 3}
+Types: {'Library Upgrade': 1, 'Feature Request': 1, 'Bug': 1}
+Resolutions: {'': 3}
+Statuses: {'Open': 3}
+
+No PBIs resolved in last 100 days.

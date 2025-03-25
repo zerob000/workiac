@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2004-04-10 18:28:00 End date: 2011-07-25 12:24:00
+System: {'MEVENIDE': 648}
+Types: {'Bug': 451, 'Improvement': 89, 'New Feature': 74, 'Wish': 15, 'Task': 19}
+Resolutions: {'Fixed': 378, "Won't Fix": 87, '': 93, 'Duplicate': 69, 'Incomplete': 2, 'Not A Bug': 1, 'Cannot Reproduce': 18}
+Statuses: {'Closed': 266, 'Resolved': 289, 'Open': 91, 'Reopened': 1, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 147.4 days
+Average Lead Time (Bug): 117.4 days
+Average Lead Time (Improvement): 176.2 days
+Average Lead Time (New Feature): 297.8 days
+Average Lead Time (Wish): 190.0 days
+Average Lead Time (Task): 253.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2011-04-16 12:24:00 End date: 2011-07-25 12:24:00
+System: {'MEVENIDE': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

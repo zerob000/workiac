@@ -1,0 +1,73 @@
+
+System Name: QDOX
+System Duration (Captured): 3548 days
+
+Calculated Final System Size: 4 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 4 PBIs
+
+Model Final System Size: 15 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 15 PBIs
+
+% Error, Final backlog, model vs actual: 275.0%
+Error, Final backlog, model vs actual: 11 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 31 PBIs
+Total Unplanned Arrivals: 162 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 31 PBIs
+Total Net Arrivals: 162 PBIs
+Total Services: 158 PBIs
+
+Rates:
+Planned Arrival Rate: 0.009 PBIs/day
+Unplanned Arrival Rate: 0.052 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.01 PBIs/day
+Net Arrival Rate: 0.051 PBIs/day
+Service Rate: 0.053 PBIs/day
+
+
+Metrics:
+Stability: 1.039
+Quality: 0.148
+Control: 0.836
+Inventory Days: 75.472 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 97 days
+
+Calculated Final System Size: 4 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 4 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 0 PBIs
+Unplanned Arrivals in this period: 1 PBIs
+Cancelled/Rejected/Won't Do  in this period: 1 PBIs
+System size change in this period: -1 PBIs
+Net Arrivals in this period: 0 PBIs
+Services in this period: 0 PBIs
+
+Rates:
+Planned Arrival Rate: NaN PBIs/day
+Unplanned Arrival Rate: 0.01 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.01 PBIs/day
+Net Arrival Rate: -0.0 PBIs/day
+Service Rate: NaN PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

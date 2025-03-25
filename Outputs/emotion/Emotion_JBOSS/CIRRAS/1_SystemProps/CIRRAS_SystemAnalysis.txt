@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2009-11-13 16:29:00 End date: 2010-10-19 20:18:00
+System: {'CIRRAS': 49}
+Types: {'Bug': 11, 'Task': 32, 'Feature Request': 6}
+Resolutions: {'Done': 31, '': 13, 'Cannot Reproduce Bug': 3, 'Out of Date': 1, 'Duplicate Issue': 1}
+Statuses: {'Resolved': 33, 'Open': 13, 'Closed': 3}
+
+Average Lead Time (all PBIs): 31.1 days
+Average Lead Time (Bug): 22.8 days
+Average Lead Time (Task): 33.8 days
+Average Lead Time (Feature Request): 34.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2010-07-11 20:18:00 End date: 2010-10-19 20:18:00
+System: {'CIRRAS': 7}
+Types: {'Bug': 2, 'Task': 2, 'Feature Request': 3}
+Resolutions: {'': 4, 'Done': 3}
+Statuses: {'Open': 4, 'Resolved': 3}
+
+Average Lead Time (all PBIs): 120.3 days
+Average Lead Time (Task): 142.5 days
+Average Lead Time (Bug): 76.0 days

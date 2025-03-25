@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2005-06-19 11:40:00 End date: 2011-10-30 15:56:00
+System: {'HARMONY': 6383}
+Types: {'Improvement': 1378, 'Bug': 4305, 'New Feature': 426, 'Task': 68, 'Test': 187, 'Wish': 19}
+Resolutions: {'Fixed': 4846, '': 952, "Won't Fix": 214, 'Not A Problem': 1, 'Invalid': 71, 'Duplicate': 147, 'Cannot Reproduce': 138, 'Incomplete': 5, 'Later': 9}
+Statuses: {'Closed': 4766, 'Open': 919, 'Resolved': 665, 'Reopened': 26, 'In Progress': 7}
+
+Average Lead Time (all PBIs): 43.3 days
+Average Lead Time (Improvement): 34.0 days
+Average Lead Time (Bug): 46.0 days
+Average Lead Time (New Feature): 39.9 days
+Average Lead Time (Test): 42.7 days
+Average Lead Time (Task): 94.9 days
+Average Lead Time (Wish): 108.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2011-07-22 15:56:00 End date: 2011-10-30 15:56:00
+System: {'HARMONY': 5}
+Types: {'Bug': 5}
+Resolutions: {'': 5}
+Statuses: {'Open': 5}
+
+No PBIs resolved in last 100 days.

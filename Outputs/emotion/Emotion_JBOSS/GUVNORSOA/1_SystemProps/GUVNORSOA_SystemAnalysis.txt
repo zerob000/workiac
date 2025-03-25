@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2009-02-04 15:18:00 End date: 2013-09-18 14:51:00
+System: {'GUVNORSOA': 52}
+Types: {'Bug': 7, 'Feature Request': 43, 'Task': 2}
+Resolutions: {'Rejected': 2, 'Done': 13, 'Duplicate Issue': 1, '': 5, 'Out of Date': 31}
+Statuses: {'Closed': 35, 'Resolved': 12, 'Open': 5}
+
+Average Lead Time (all PBIs): 665.2 days
+Average Lead Time (Bug): 250.2 days
+Average Lead Time (Feature Request): 711.3 days
+Average Lead Time (Task): 550.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-06-10 14:51:00 End date: 2013-09-18 14:51:00
+System: {'GUVNORSOA': 1}
+Types: {'Bug': 1}
+Resolutions: {'Duplicate Issue': 1}
+Statuses: {'Closed': 1}
+
+Average Lead Time (all PBIs): 1.0 days
+Average Lead Time (Bug): 1.0 days

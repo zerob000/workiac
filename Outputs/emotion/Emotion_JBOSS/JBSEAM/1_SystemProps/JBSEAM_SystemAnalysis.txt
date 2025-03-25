@@ -1,0 +1,32 @@
+All PBIS - Unfiltered 
+Start date: 2004-11-27 01:21:00 End date: 2013-12-02 19:47:00
+System: {'JBSEAM': 4996}
+Types: {'Bug': 2615, 'Feature Request': 1635, 'Task': 588, 'Patch': 135, 'Enhancement': 14, 'Release': 2, 'Quality Risk': 3, 'Component  Upgrade': 3, 'Support Patch': 1}
+Resolutions: {'Done': 2854, "Won't Fix": 229, 'Out of Date': 299, 'Cannot Reproduce Bug': 109, '': 938, 'Rejected': 333, 'Incomplete Description': 20, 'Duplicate Issue': 177, 'Deferred': 6, 'Partially Completed': 31}
+Statuses: {'Closed': 4049, 'Open': 916, 'Resolved': 9, 'Reopened': 22}
+
+Average Lead Time (all PBIs): 135.3 days
+Average Lead Time (Bug): 78.0 days
+Average Lead Time (Feature Request): 220.8 days
+Average Lead Time (Task): 178.8 days
+Average Lead Time (Patch): 104.8 days
+Average Lead Time (Enhancement): 42.2 days
+Average Lead Time (Release): 97.0 days
+Average Lead Time (Quality Risk): 307.7 days
+Average Lead Time (Component  Upgrade): 1121.7 days
+Average Lead Time (Support Patch): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-08-24 19:47:00 End date: 2013-12-02 19:47:00
+System: {'JBSEAM': 23}
+Types: {'Task': 7, 'Feature Request': 5, 'Bug': 10, 'Enhancement': 1}
+Resolutions: {'Done': 7, 'Out of Date': 9, '': 3, 'Rejected': 2, "Won't Fix": 1, 'Duplicate Issue': 1}
+Statuses: {'Closed': 15, 'Resolved': 5, 'Open': 3}
+
+Average Lead Time (all PBIs): 1031.0 days
+Average Lead Time (Task): 1374.8 days
+Average Lead Time (Feature Request): 1716.8 days
+Average Lead Time (Bug): 453.9 days
+Average Lead Time (Enhancement): 155.0 days

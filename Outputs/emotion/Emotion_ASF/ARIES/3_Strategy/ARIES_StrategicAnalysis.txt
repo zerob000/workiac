@@ -1,0 +1,73 @@
+
+System Name: ARIES
+System Duration (Captured): 1535 days
+
+Calculated Final System Size: 246 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 246 PBIs
+
+Model Final System Size: 170 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 170 PBIs
+
+% Error, Final backlog, model vs actual: 31.0%
+Error, Final backlog, model vs actual: -76 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 152 PBIs
+Total Unplanned Arrivals: 969 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 51 PBIs
+Total Net Arrivals: 1070 PBIs
+Total Services: 824 PBIs
+
+Rates:
+Planned Arrival Rate: 0.09 PBIs/day
+Unplanned Arrival Rate: 0.655 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.033 PBIs/day
+Net Arrival Rate: 0.712 PBIs/day
+Service Rate: 0.619 PBIs/day
+
+
+Metrics:
+Stability: 0.869
+Quality: 0.121
+Control: 0.956
+Inventory Days: 397.415 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 246 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 246 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 2 PBIs
+Unplanned Arrivals in this period: 24 PBIs
+Cancelled/Rejected/Won't Do  in this period: 1 PBIs
+System size change in this period: 20 PBIs
+Net Arrivals in this period: 25 PBIs
+Services in this period: 4 PBIs
+
+Rates:
+Planned Arrival Rate: 0.05 PBIs/day
+Unplanned Arrival Rate: 0.228 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.01 PBIs/day
+Net Arrival Rate: 0.256 PBIs/day
+Service Rate: 0.225 PBIs/day
+
+Metrics:
+Stability: 0.84
+Quality: 0.18
+Control: 0.964
+Inventory Days: 1093.333 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

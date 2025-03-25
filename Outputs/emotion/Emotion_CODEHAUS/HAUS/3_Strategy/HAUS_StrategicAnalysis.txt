@@ -1,0 +1,73 @@
+
+System Name: HAUS
+System Duration (Captured): 3802 days
+
+Calculated Final System Size: 176 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 176 PBIs
+
+Model Final System Size: 165 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 165 PBIs
+
+% Error, Final backlog, model vs actual: 6.0%
+Error, Final backlog, model vs actual: -11 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 1106 PBIs
+Total Unplanned Arrivals: 757 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 168 PBIs
+Total Net Arrivals: 1695 PBIs
+Total Services: 1519 PBIs
+
+Rates:
+Planned Arrival Rate: 0.35 PBIs/day
+Unplanned Arrival Rate: 0.213 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.05 PBIs/day
+Net Arrival Rate: 0.513 PBIs/day
+Service Rate: 0.472 PBIs/day
+
+
+Metrics:
+Stability: 0.92
+Quality: 0.622
+Control: 0.911
+Inventory Days: 372.881 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 98 days
+
+Calculated Final System Size: 176 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 176 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 2 PBIs
+Unplanned Arrivals in this period: 16 PBIs
+Cancelled/Rejected/Won't Do  in this period: 4 PBIs
+System size change in this period: 7 PBIs
+Net Arrivals in this period: 14 PBIs
+Services in this period: 6 PBIs
+
+Rates:
+Planned Arrival Rate: 0.19 PBIs/day
+Unplanned Arrival Rate: 0.169 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.072 PBIs/day
+Net Arrival Rate: 0.157 PBIs/day
+Service Rate: 0.088 PBIs/day
+
+Metrics:
+Stability: 0.307
+Quality: 0.529
+Control: 0.799
+Inventory Days: 2000.0 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

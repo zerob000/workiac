@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2008-09-04 06:48:00 End date: 2013-12-14 02:24:00
+System: {'HIVE': 5583}
+Types: {'Bug': 3306, 'Improvement': 1378, 'Test': 88, 'New Feature': 615, 'Task': 160, 'Wish': 36}
+Resolutions: {'Fixed': 3029, '': 1887, 'Duplicate': 351, "Won't Fix": 103, 'Not A Problem': 90, 'Done': 1, 'Cannot Reproduce': 40, 'Invalid': 75, 'Implemented': 2, 'Incomplete': 4, 'Later': 1}
+Statuses: {'Closed': 2679, 'Open': 1666, 'Resolved': 1017, 'Patch Available': 201, 'In Progress': 7, 'Reopened': 13}
+
+Average Lead Time (all PBIs): 76.7 days
+Average Lead Time (Bug): 57.4 days
+Average Lead Time (Test): 22.9 days
+Average Lead Time (New Feature): 185.4 days
+Average Lead Time (Task): 57.8 days
+Average Lead Time (Improvement): 84.2 days
+Average Lead Time (Wish): 376.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-05 02:24:00 End date: 2013-12-14 02:24:00
+System: {'HIVE': 813}
+Types: {'Bug': 567, 'Task': 30, 'New Feature': 36, 'Improvement': 169, 'Test': 10, 'Wish': 1}
+Resolutions: {'Fixed': 443, "Won't Fix": 18, '': 286, 'Duplicate': 38, 'Not A Problem': 13, 'Done': 1, 'Cannot Reproduce': 8, 'Invalid': 4, 'Implemented': 2}
+Statuses: {'Resolved': 442, 'Open': 210, 'Patch Available': 75, 'Closed': 85, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 47.1 days
+Average Lead Time (Bug): 34.3 days
+Average Lead Time (Task): 31.2 days
+Average Lead Time (New Feature): 217.6 days
+Average Lead Time (Improvement): 79.4 days
+Average Lead Time (Test): 0.7 days
+Average Lead Time (Wish): 0.0 days

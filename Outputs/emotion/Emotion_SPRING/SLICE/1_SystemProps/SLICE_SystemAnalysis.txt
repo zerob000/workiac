@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2010-02-09 14:56:00 End date: 2010-06-22 14:39:00
+System: {'SLICE': 51}
+Types: {'Story': 24, 'Task': 15, 'Defect': 12}
+Resolutions: {'': 23, 'Complete': 28}
+Statuses: {'To Do': 22, 'Done': 28, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 4.0 days
+Average Lead Time (Task): 2.3 days
+Average Lead Time (Story): 5.5 days
+Average Lead Time (Defect): 1.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2010-03-14 14:39:00 End date: 2010-06-22 14:39:00
+System: {'SLICE': 24}
+Types: {'Defect': 11, 'Story': 6, 'Task': 7}
+Resolutions: {'': 16, 'Complete': 8}
+Statuses: {'To Do': 15, 'Done': 8, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 4.2 days
+Average Lead Time (Story): 6.2 days
+Average Lead Time (Task): 2.2 days

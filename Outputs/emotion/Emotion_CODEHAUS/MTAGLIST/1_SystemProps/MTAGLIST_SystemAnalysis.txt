@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2005-09-22 17:26:00 End date: 2011-06-21 21:29:00
+System: {'MTAGLIST': 56}
+Types: {'Improvement': 13, 'Bug': 28, 'Wish': 5, 'New Feature': 8, 'Task': 2}
+Resolutions: {'': 16, 'Fixed': 34, 'Duplicate': 5, "Won't Fix": 1}
+Statuses: {'Open': 15, 'Closed': 40, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 133.3 days
+Average Lead Time (Task): 0.0 days
+Average Lead Time (Improvement): 50.6 days
+Average Lead Time (Bug): 114.3 days
+Average Lead Time (New Feature): 307.6 days
+Average Lead Time (Wish): 291.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2011-03-13 21:29:00 End date: 2011-06-21 21:29:00
+System: {'MTAGLIST': 2}
+Types: {'Improvement': 1, 'Bug': 1}
+Resolutions: {'': 2}
+Statuses: {'Open': 2}
+
+No PBIs resolved in last 100 days.

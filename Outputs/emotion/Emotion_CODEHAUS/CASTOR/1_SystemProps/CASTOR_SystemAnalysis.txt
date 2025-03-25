@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2000-05-26 02:32:00 End date: 2013-12-18 00:52:00
+System: {'CASTOR': 2655}
+Types: {'Task': 124, 'Improvement': 646, 'Bug': 1726, 'New Feature': 105, 'Technical task': 3, 'Story': 1, 'Test': 17, 'Wish': 33}
+Resolutions: {'Fixed': 1393, 'Not A Bug': 38, 'Duplicate': 166, '': 595, "Won't Fix": 242, 'Incomplete': 131, 'Cannot Reproduce': 90}
+Statuses: {'Closed': 1927, 'Resolved': 133, 'Open': 581, 'In Progress': 3, 'Reopened': 11}
+
+Average Lead Time (all PBIs): 390.9 days
+Average Lead Time (Task): 142.8 days
+Average Lead Time (Improvement): 271.1 days
+Average Lead Time (Bug): 479.6 days
+Average Lead Time (Technical task): 0.5 days
+Average Lead Time (Story): 243.0 days
+Average Lead Time (New Feature): 208.0 days
+Average Lead Time (Test): 182.3 days
+Average Lead Time (Wish): 111.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-09 00:52:00 End date: 2013-12-18 00:52:00
+System: {'CASTOR': 9}
+Types: {'Bug': 4, 'Improvement': 4, 'Task': 1}
+Resolutions: {'': 8, 'Fixed': 1}
+Statuses: {'Open': 6, 'In Progress': 2, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 0.0 days
+Average Lead Time (Improvement): 0.0 days

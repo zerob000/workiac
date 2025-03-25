@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2013-07-23 18:40:00 End date: 2013-12-13 19:05:00
+System: {'OLINGO': 78}
+Types: {'Task': 10, 'New Feature': 11, 'Bug': 31, 'Improvement': 20, 'Wish': 6}
+Resolutions: {'': 19, 'Fixed': 48, "Won't Fix": 3, 'Not A Problem': 1, 'Implemented': 4, 'Done': 1, 'Duplicate': 2}
+Statuses: {'Open': 19, 'Resolved': 24, 'Closed': 35}
+
+Average Lead Time (all PBIs): 12.6 days
+Average Lead Time (New Feature): 5.2 days
+Average Lead Time (Bug): 9.0 days
+Average Lead Time (Improvement): 6.0 days
+Average Lead Time (Wish): 56.3 days
+Average Lead Time (Task): 8.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-04 19:05:00 End date: 2013-12-13 19:05:00
+System: {'OLINGO': 72}
+Types: {'Task': 9, 'New Feature': 10, 'Bug': 29, 'Improvement': 18, 'Wish': 6}
+Resolutions: {'': 19, 'Fixed': 45, "Won't Fix": 3, 'Not A Problem': 1, 'Implemented': 2, 'Done': 1, 'Duplicate': 1}
+Statuses: {'Open': 19, 'Resolved': 24, 'Closed': 29}
+
+Average Lead Time (all PBIs): 13.9 days
+Average Lead Time (New Feature): 7.0 days
+Average Lead Time (Bug): 9.8 days
+Average Lead Time (Improvement): 6.7 days
+Average Lead Time (Wish): 56.3 days
+Average Lead Time (Task): 9.0 days

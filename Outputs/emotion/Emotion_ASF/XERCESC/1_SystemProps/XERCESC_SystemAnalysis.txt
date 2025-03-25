@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2001-02-22 23:17:00 End date: 2013-11-08 17:23:00
+System: {'XERCESC': 2019}
+Types: {'Bug': 1895, 'Improvement': 79, 'Task': 13, 'Wish': 12, 'Test': 6, 'New Feature': 14}
+Resolutions: {'Fixed': 1085, "Won't Fix": 152, 'Incomplete': 231, '': 129, 'Duplicate': 201, 'Invalid': 145, 'Not A Problem': 5, 'Cannot Reproduce': 71}
+Statuses: {'Closed': 841, 'Resolved': 1049, 'Open': 123, 'Reopened': 4, 'In Progress': 2}
+
+Average Lead Time (all PBIs): 567.8 days
+Average Lead Time (Bug): 578.9 days
+Average Lead Time (Improvement): 345.6 days
+Average Lead Time (Test): 120.0 days
+Average Lead Time (Task): 407.6 days
+Average Lead Time (Wish): 110.8 days
+Average Lead Time (New Feature): 647.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-07-31 17:23:00 End date: 2013-11-08 17:23:00
+System: {'XERCESC': 9}
+Types: {'Bug': 6, 'Improvement': 3}
+Resolutions: {'Fixed': 6, 'Not A Problem': 1, "Won't Fix": 1, 'Duplicate': 1}
+Statuses: {'Resolved': 8, 'Closed': 1}
+
+Average Lead Time (all PBIs): 100.4 days
+Average Lead Time (Bug): 108.0 days
+Average Lead Time (Improvement): 85.3 days

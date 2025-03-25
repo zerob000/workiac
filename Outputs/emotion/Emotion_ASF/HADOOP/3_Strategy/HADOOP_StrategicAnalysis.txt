@@ -1,0 +1,73 @@
+
+System Name: HADOOP
+System Duration (Captured): 3066 days
+
+Calculated Final System Size: 1491 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 1491 PBIs
+
+Model Final System Size: 1289 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 1289 PBIs
+
+% Error, Final backlog, model vs actual: 14.0%
+Error, Final backlog, model vs actual: -202 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 891 PBIs
+Total Unplanned Arrivals: 7106 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 1483 PBIs
+Total Net Arrivals: 6514 PBIs
+Total Services: 5023 PBIs
+
+Rates:
+Planned Arrival Rate: 0.325 PBIs/day
+Unplanned Arrival Rate: 2.475 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.558 PBIs/day
+Net Arrival Rate: 2.242 PBIs/day
+Service Rate: 1.808 PBIs/day
+
+
+Metrics:
+Stability: 0.806
+Quality: 0.116
+Control: 0.801
+Inventory Days: 824.668 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 97 days
+
+Calculated Final System Size: 1491 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 1491 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 14 PBIs
+Unplanned Arrivals in this period: 168 PBIs
+Cancelled/Rejected/Won't Do  in this period: 26 PBIs
+System size change in this period: 76 PBIs
+Net Arrivals in this period: 156 PBIs
+Services in this period: 79 PBIs
+
+Rates:
+Planned Arrival Rate: 0.176 PBIs/day
+Unplanned Arrival Rate: 1.657 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.242 PBIs/day
+Net Arrival Rate: 1.558 PBIs/day
+Service Rate: 0.808 PBIs/day
+
+Metrics:
+Stability: 0.508
+Quality: 0.096
+Control: 0.868
+Inventory Days: 1845.297 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

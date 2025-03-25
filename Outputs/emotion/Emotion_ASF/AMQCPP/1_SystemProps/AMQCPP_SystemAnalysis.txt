@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2006-06-30 03:38:00 End date: 2013-12-12 02:42:00
+System: {'AMQCPP': 518}
+Types: {'Bug': 358, 'Improvement': 116, 'New Feature': 26, 'Task': 11, 'Wish': 6, 'Test': 1}
+Resolutions: {'Fixed': 421, 'Invalid': 3, "Won't Fix": 20, 'Not A Problem': 18, 'Duplicate': 20, 'Incomplete': 14, '': 2, 'Unresolved': 1, 'Cannot Reproduce': 19}
+Statuses: {'Resolved': 374, 'Closed': 142, 'Open': 2}
+
+Average Lead Time (all PBIs): 41.9 days
+Average Lead Time (Bug): 21.1 days
+Average Lead Time (Improvement): 62.5 days
+Average Lead Time (New Feature): 258.3 days
+Average Lead Time (Task): 23.3 days
+Average Lead Time (Wish): 28.7 days
+Average Lead Time (Test): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-03 02:42:00 End date: 2013-12-12 02:42:00
+System: {'AMQCPP': 21}
+Types: {'Bug': 14, 'New Feature': 4, 'Task': 1, 'Improvement': 2}
+Resolutions: {'Fixed': 14, 'Invalid': 1, 'Not A Problem': 2, 'Duplicate': 1, 'Incomplete': 2, '': 1}
+Statuses: {'Resolved': 14, 'Closed': 6, 'Open': 1}
+
+Average Lead Time (all PBIs): 5.5 days
+Average Lead Time (Bug): 1.9 days
+Average Lead Time (New Feature): 27.0 days
+Average Lead Time (Task): 0.0 days
+Average Lead Time (Improvement): 1.0 days

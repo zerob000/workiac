@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2006-09-06 01:15:00 End date: 2013-12-19 20:39:00
+System: {'SECURITY': 668}
+Types: {'Task': 238, 'Bug': 180, 'Component  Upgrade': 1, 'Feature Request': 182, 'Release': 48, 'Enhancement': 14, 'Patch': 5}
+Resolutions: {'Done': 528, '': 96, "Won't Fix": 7, 'Cannot Reproduce Bug': 1, 'Out of Date': 12, 'Rejected': 20, 'Duplicate Issue': 3, 'Deferred': 1}
+Statuses: {'Closed': 397, 'Resolved': 175, 'Open': 94, 'Reopened': 2}
+
+Average Lead Time (all PBIs): 74.8 days
+Average Lead Time (Task): 113.6 days
+Average Lead Time (Bug): 50.3 days
+Average Lead Time (Component  Upgrade): 0.0 days
+Average Lead Time (Feature Request): 74.3 days
+Average Lead Time (Release): 1.8 days
+Average Lead Time (Enhancement): 0.8 days
+Average Lead Time (Patch): 137.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-10 20:39:00 End date: 2013-12-19 20:39:00
+System: {'SECURITY': 28}
+Types: {'Bug': 10, 'Task': 8, 'Patch': 1, 'Feature Request': 6, 'Enhancement': 2, 'Release': 1}
+Resolutions: {'Done': 20, '': 5, "Won't Fix": 1, 'Out of Date': 2}
+Statuses: {'Resolved': 19, 'Open': 5, 'Closed': 4}
+
+Average Lead Time (all PBIs): 170.4 days
+Average Lead Time (Bug): 89.6 days
+Average Lead Time (Task): 246.6 days
+Average Lead Time (Feature Request): 241.7 days
+Average Lead Time (Enhancement): 0.0 days
+Average Lead Time (Release): 27.0 days

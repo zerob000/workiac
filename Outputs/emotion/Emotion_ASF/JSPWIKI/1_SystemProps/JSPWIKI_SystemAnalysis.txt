@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2007-10-14 05:55:00 End date: 2013-12-13 19:59:00
+System: {'JSPWIKI': 774}
+Types: {'Bug': 445, 'Task': 75, 'Improvement': 191, 'New Feature': 38, 'Wish': 22, 'Test': 3}
+Resolutions: {'Fixed': 450, 'Invalid': 59, 'Incomplete': 5, '': 158, 'Not A Problem': 7, 'Cannot Reproduce': 14, 'Later': 1, "Won't Fix": 55, 'Duplicate': 24, 'Unresolved': 1}
+Statuses: {'Closed': 434, 'Resolved': 182, 'Open': 145, 'Reopened': 10, 'In Progress': 3}
+
+Average Lead Time (all PBIs): 135.6 days
+Average Lead Time (Bug): 88.7 days
+Average Lead Time (Task): 323.0 days
+Average Lead Time (Improvement): 145.7 days
+Average Lead Time (New Feature): 186.1 days
+Average Lead Time (Test): 434.0 days
+Average Lead Time (Wish): 324.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-04 19:59:00 End date: 2013-12-13 19:59:00
+System: {'JSPWIKI': 12}
+Types: {'Task': 2, 'Improvement': 5, 'Bug': 3, 'New Feature': 2}
+Resolutions: {'Fixed': 9, '': 2, 'Not A Problem': 1}
+Statuses: {'Resolved': 9, 'Open': 2, 'Closed': 1}
+
+Average Lead Time (all PBIs): 376.0 days
+Average Lead Time (Task): 1563.5 days
+Average Lead Time (Improvement): 34.3 days
+Average Lead Time (Bug): 20.3 days
+Average Lead Time (New Feature): 234.5 days

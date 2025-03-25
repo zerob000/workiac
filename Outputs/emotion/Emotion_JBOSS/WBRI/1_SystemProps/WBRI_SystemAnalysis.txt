@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2008-06-02 21:25:00 End date: 2009-10-06 20:58:00
+System: {'WBRI': 182}
+Types: {'Bug': 84, 'Feature Request': 45, 'Task': 45, 'Patch': 4, 'Component Upgrade': 4}
+Resolutions: {'Done': 138, 'Cannot Reproduce Bug': 3, 'Out of Date': 15, 'Duplicate Issue': 7, "Won't Fix": 4, 'Rejected': 12, 'Partially Completed': 3}
+Statuses: {'Closed': 182}
+
+Average Lead Time (all PBIs): 38.5 days
+Average Lead Time (Bug): 20.0 days
+Average Lead Time (Feature Request): 38.0 days
+Average Lead Time (Task): 79.0 days
+Average Lead Time (Patch): 2.2 days
+Average Lead Time (Component Upgrade): 15.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2009-06-28 20:58:00 End date: 2009-10-06 20:58:00
+System: {'WBRI': 18}
+Types: {'Task': 3, 'Feature Request': 5, 'Bug': 10}
+Resolutions: {'Out of Date': 8, 'Duplicate Issue': 2, "Won't Fix": 2, 'Done': 4, 'Rejected': 2}
+Statuses: {'Closed': 18}
+
+Average Lead Time (all PBIs): 115.6 days
+Average Lead Time (Task): 203.0 days
+Average Lead Time (Feature Request): 98.6 days
+Average Lead Time (Bug): 97.9 days

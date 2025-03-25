@@ -1,0 +1,73 @@
+
+System Name: THRIFT
+System Duration (Captured): 2044 days
+
+Calculated Final System Size: 442 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 442 PBIs
+
+Model Final System Size: 451 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 451 PBIs
+
+% Error, Final backlog, model vs actual: 2.0%
+Error, Final backlog, model vs actual: 9 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 238 PBIs
+Total Unplanned Arrivals: 1951 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 245 PBIs
+Total Net Arrivals: 1944 PBIs
+Total Services: 1502 PBIs
+
+Rates:
+Planned Arrival Rate: 0.112 PBIs/day
+Unplanned Arrival Rate: 0.927 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.126 PBIs/day
+Net Arrival Rate: 0.913 PBIs/day
+Service Rate: 0.722 PBIs/day
+
+
+Metrics:
+Stability: 0.791
+Quality: 0.108
+Control: 0.879
+Inventory Days: 612.188 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 442 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 442 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 8 PBIs
+Unplanned Arrivals in this period: 106 PBIs
+Cancelled/Rejected/Won't Do  in this period: 12 PBIs
+System size change in this period: 25 PBIs
+Net Arrivals in this period: 102 PBIs
+Services in this period: 76 PBIs
+
+Rates:
+Planned Arrival Rate: 0.123 PBIs/day
+Unplanned Arrival Rate: 1.025 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.145 PBIs/day
+Net Arrival Rate: 1.007 PBIs/day
+Service Rate: 0.697 PBIs/day
+
+Metrics:
+Stability: 0.695
+Quality: 0.107
+Control: 0.874
+Inventory Days: 634.146 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

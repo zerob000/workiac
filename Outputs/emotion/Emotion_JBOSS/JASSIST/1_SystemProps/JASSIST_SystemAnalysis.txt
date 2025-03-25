@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2008-03-11 02:55:00 End date: 2013-12-02 11:26:00
+System: {'JASSIST': 165}
+Types: {'Bug': 124, 'Feature Request': 31, 'Enhancement': 4, 'Quality Risk': 1, 'Task': 4, 'Patch': 1}
+Resolutions: {'Done': 110, 'Rejected': 11, '': 34, 'Unresolved': 1, 'Out of Date': 1, 'Duplicate Issue': 3, 'Deferred': 1, "Won't Fix": 4}
+Statuses: {'Closed': 121, 'Open': 32, 'Resolved': 10, 'Coding In Progress': 2}
+
+Average Lead Time (all PBIs): 85.0 days
+Average Lead Time (Bug): 80.2 days
+Average Lead Time (Feature Request): 46.0 days
+Average Lead Time (Quality Risk): 0.0 days
+Average Lead Time (Task): 794.0 days
+Average Lead Time (Enhancement): 42.5 days
+Average Lead Time (Patch): 116.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-08-24 11:26:00 End date: 2013-12-02 11:26:00
+System: {'JASSIST': 9}
+Types: {'Bug': 9}
+Resolutions: {'Done': 5, '': 3, 'Unresolved': 1}
+Statuses: {'Closed': 1, 'Open': 3, 'Resolved': 5}
+
+Average Lead Time (all PBIs): 31.5 days
+Average Lead Time (Bug): 31.5 days

@@ -1,0 +1,21 @@
+All PBIS - Unfiltered 
+Start date: 2009-10-22 23:24:00 End date: 2012-06-06 05:39:00
+System: {'ANDIAMO': 33}
+Types: {'Task': 24, 'Feature Request': 9}
+Resolutions: {'Rejected': 2, '': 19, 'Done': 12}
+Statuses: {'Closed': 3, 'Open': 19, 'Resolved': 11}
+
+Average Lead Time (all PBIs): 508.4 days
+Average Lead Time (Task): 508.4 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2012-02-27 05:39:00 End date: 2012-06-06 05:39:00
+System: {'ANDIAMO': 1}
+Types: {'Task': 1}
+Resolutions: {'Rejected': 1}
+Statuses: {'Closed': 1}
+
+Average Lead Time (all PBIs): 0.0 days
+Average Lead Time (Task): 0.0 days

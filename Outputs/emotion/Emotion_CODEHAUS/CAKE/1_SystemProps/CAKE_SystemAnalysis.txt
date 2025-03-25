@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2008-04-28 17:21:00 End date: 2011-06-23 04:58:00
+System: {'CAKE': 33}
+Types: {'New Feature': 12, 'Improvement': 18, 'Task': 3}
+Resolutions: {'Fixed': 10, '': 22, "Won't Fix": 1}
+Statuses: {'Closed': 9, 'Open': 21, 'Resolved': 2, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 234.1 days
+Average Lead Time (New Feature): 109.5 days
+Average Lead Time (Improvement): 175.6 days
+Average Lead Time (Task): 951.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2011-03-15 04:58:00 End date: 2011-06-23 04:58:00
+System: {'CAKE': 2}
+Types: {'Improvement': 1, 'Task': 1}
+Resolutions: {'Fixed': 2}
+Statuses: {'Resolved': 2}
+
+Average Lead Time (all PBIs): 932.5 days
+Average Lead Time (Improvement): 914.0 days
+Average Lead Time (Task): 951.0 days

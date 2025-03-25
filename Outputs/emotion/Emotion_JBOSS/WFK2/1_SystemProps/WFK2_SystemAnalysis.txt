@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2013-07-08 23:27:00 End date: 2013-12-10 14:01:00
+System: {'WFK2': 242}
+Types: {'Bug': 213, 'Requirement': 15, 'Task': 6, 'Requirement ': 8}
+Resolutions: {'Done': 133, '': 80, 'Duplicate Issue': 8, 'Cannot Reproduce Bug': 3, "Won't Fix": 9, 'Rejected': 3, 'Out of Date': 6}
+Statuses: {'Verified': 119, 'New': 63, 'Closed': 34, 'Open': 17, 'Ready for QA': 1, 'Resolved': 8}
+
+Average Lead Time (all PBIs): 27.4 days
+Average Lead Time (Bug): 26.9 days
+Average Lead Time (Requirement): 62.4 days
+Average Lead Time (Task): 3.7 days
+Average Lead Time (Requirement ): 1.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-01 14:01:00 End date: 2013-12-10 14:01:00
+System: {'WFK2': 191}
+Types: {'Bug': 181, 'Requirement': 5, 'Task': 5}
+Resolutions: {'Done': 128, '': 43, 'Duplicate Issue': 5, 'Cannot Reproduce Bug': 3, "Won't Fix": 6, 'Rejected': 2, 'Out of Date': 4}
+Statuses: {'Verified': 115, 'New': 30, 'Closed': 24, 'Open': 13, 'Ready for QA': 1, 'Resolved': 8}
+
+Average Lead Time (all PBIs): 28.8 days
+Average Lead Time (Bug): 28.0 days
+Average Lead Time (Requirement): 76.0 days
+Average Lead Time (Task): 3.7 days

@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2004-05-12 20:58:00 End date: 2013-08-15 01:17:00
+System: {'JBCACHE': 1405}
+Types: {'Task': 347, 'Feature Request': 358, 'Bug': 673, 'Patch': 18, 'Component  Upgrade': 1, 'Quality Risk': 2, 'Release': 5, 'CTS Challenge': 1}
+Resolutions: {'Done': 1040, "Won't Fix": 73, '': 109, 'Rejected': 95, 'Deferred': 4, 'Cannot Reproduce Bug': 9, 'Out of Date': 32, 'Duplicate Issue': 37, 'Partially Completed': 5, 'Incomplete Description': 1}
+Statuses: {'Resolved': 770, 'Closed': 526, 'Open': 105, 'Reopened': 4}
+
+Average Lead Time (all PBIs): 121.8 days
+Average Lead Time (Task): 147.2 days
+Average Lead Time (Feature Request): 233.3 days
+Average Lead Time (Bug): 48.1 days
+Average Lead Time (Patch): 20.5 days
+Average Lead Time (Component  Upgrade): 36.0 days
+Average Lead Time (Release): 84.2 days
+Average Lead Time (CTS Challenge): 67.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-05-07 01:17:00 End date: 2013-08-15 01:17:00
+System: {'JBCACHE': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

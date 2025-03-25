@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2007-08-11 08:11:00 End date: 2013-05-23 02:54:00
+System: {'ORCHESTRA': 61}
+Types: {'Bug': 40, 'Improvement': 14, 'Wish': 2, 'Task': 2, 'New Feature': 3}
+Resolutions: {'': 15, 'Not A Problem': 1, 'Fixed': 38, 'Duplicate': 1, "Won't Fix": 2, 'Invalid': 3, 'Cannot Reproduce': 1}
+Statuses: {'Open': 12, 'Resolved': 16, 'Closed': 30, 'Patch Available': 2, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 87.8 days
+Average Lead Time (Bug): 94.4 days
+Average Lead Time (Improvement): 91.9 days
+Average Lead Time (Task): 20.5 days
+Average Lead Time (New Feature): 0.0 days
+Average Lead Time (Wish): 60.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-02-12 02:54:00 End date: 2013-05-23 02:54:00
+System: {'ORCHESTRA': 2}
+Types: {'Bug': 1, 'Improvement': 1}
+Resolutions: {'': 2}
+Statuses: {'Open': 2}
+
+No PBIs resolved in last 100 days.

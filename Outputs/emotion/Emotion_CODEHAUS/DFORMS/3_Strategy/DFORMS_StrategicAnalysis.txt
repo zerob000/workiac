@@ -1,0 +1,73 @@
+
+System Name: DFORMS
+System Duration (Captured): 168 days
+
+Calculated Final System Size: 17 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 17 PBIs
+
+Model Final System Size: 31 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 31 PBIs
+
+% Error, Final backlog, model vs actual: 82.0%
+Error, Final backlog, model vs actual: 14 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 13 PBIs
+Total Unplanned Arrivals: 39 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 0 PBIs
+Total Net Arrivals: 52 PBIs
+Total Services: 35 PBIs
+
+Rates:
+Planned Arrival Rate: 0.118 PBIs/day
+Unplanned Arrival Rate: 0.218 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0 PBIs/day
+Net Arrival Rate: 0.336 PBIs/day
+Service Rate: 0.218 PBIs/day
+
+
+Metrics:
+Stability: 0.649
+Quality: 0.351
+Control: 1.0
+Inventory Days: 77.982 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 95 days
+
+Calculated Final System Size: 17 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 17 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 0 PBIs
+Unplanned Arrivals in this period: 9 PBIs
+Cancelled/Rejected/Won't Do  in this period: 0 PBIs
+System size change in this period: -8 PBIs
+Net Arrivals in this period: 9 PBIs
+Services in this period: 17 PBIs
+
+Rates:
+Planned Arrival Rate: NaN PBIs/day
+Unplanned Arrival Rate: 0.084 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0 PBIs/day
+Net Arrival Rate: 0.09 PBIs/day
+Service Rate: 0.114 PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

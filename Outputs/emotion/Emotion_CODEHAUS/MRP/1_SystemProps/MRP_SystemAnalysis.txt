@@ -1,0 +1,22 @@
+All PBIS - Unfiltered 
+Start date: 2009-03-30 22:54:00 End date: 2012-04-07 07:25:00
+System: {'MRP': 128}
+Types: {'Bug': 102, 'New Feature': 8, 'Improvement': 18}
+Resolutions: {'': 106, 'Fixed': 22}
+Statuses: {'Open': 106, 'Closed': 22}
+
+Average Lead Time (all PBIs): 11.0 days
+Average Lead Time (Bug): 20.7 days
+Average Lead Time (Improvement): 2.4 days
+Average Lead Time (New Feature): 4.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2011-12-29 07:25:00 End date: 2012-04-07 07:25:00
+System: {'MRP': 11}
+Types: {'Bug': 9, 'Improvement': 2}
+Resolutions: {'': 11}
+Statuses: {'Open': 11}
+
+No PBIs resolved in last 100 days.

@@ -1,0 +1,21 @@
+All PBIS - Unfiltered 
+Start date: 2011-11-18 01:15:00 End date: 2013-12-10 18:11:00
+System: {'PODLINGNAMESEARCH': 43}
+Types: {'Suitable Name Search': 43}
+Resolutions: {'Fixed': 39, '': 2, 'Implemented': 1, 'Not A Problem': 1}
+Statuses: {'Resolved': 29, 'Open': 2, 'Closed': 12}
+
+Average Lead Time (all PBIs): 115.1 days
+Average Lead Time (Suitable Name Search): 115.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-01 18:11:00 End date: 2013-12-10 18:11:00
+System: {'PODLINGNAMESEARCH': 21}
+Types: {'Suitable Name Search': 21}
+Resolutions: {'Fixed': 19, '': 1, 'Implemented': 1}
+Statuses: {'Resolved': 19, 'Open': 1, 'Closed': 1}
+
+Average Lead Time (all PBIs): 178.3 days
+Average Lead Time (Suitable Name Search): 178.3 days

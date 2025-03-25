@@ -1,0 +1,21 @@
+All PBIS - Unfiltered 
+Start date: 2013-12-07 04:56:00 End date: 2013-12-14 01:23:00
+System: {'STORM': 50}
+Types: {'Improvement': 41, 'New Feature': 3, 'Bug': 3, 'Wish': 2, 'Documentation': 1}
+Resolutions: {'': 49, 'Fixed': 1}
+Statuses: {'Open': 49, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 3.0 days
+Average Lead Time (Improvement): 3.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-05 01:23:00 End date: 2013-12-14 01:23:00
+System: {'STORM': 50}
+Types: {'Improvement': 41, 'New Feature': 3, 'Bug': 3, 'Wish': 2, 'Documentation': 1}
+Resolutions: {'': 49, 'Fixed': 1}
+Statuses: {'Open': 49, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 3.0 days
+Average Lead Time (Improvement): 3.0 days

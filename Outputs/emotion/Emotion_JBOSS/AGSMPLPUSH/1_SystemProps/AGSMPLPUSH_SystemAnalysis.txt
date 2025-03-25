@@ -1,0 +1,21 @@
+All PBIS - Unfiltered 
+Start date: 2013-05-16 19:19:00 End date: 2013-12-19 14:24:00
+System: {'AGSMPLPUSH': 33}
+Types: {'Task': 24, 'Feature Request': 8, 'Bug': 1}
+Resolutions: {'': 32, 'Done': 1}
+Statuses: {'Open': 27, 'Pull Request Sent': 4, 'Resolved': 1, 'Coding In Progress': 1}
+
+Average Lead Time (all PBIs): 14.0 days
+Average Lead Time (Task): 14.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-10 14:24:00 End date: 2013-12-19 14:24:00
+System: {'AGSMPLPUSH': 12}
+Types: {'Task': 10, 'Feature Request': 2}
+Resolutions: {'': 11, 'Done': 1}
+Statuses: {'Open': 10, 'Pull Request Sent': 1, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 14.0 days
+Average Lead Time (Task): 14.0 days

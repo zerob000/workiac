@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2006-08-04 04:05:00 End date: 2013-08-08 17:45:00
+System: {'JBBLOG': 79}
+Types: {'Bug': 11, 'Feature Request': 59, 'Task': 8, 'Patch': 1}
+Resolutions: {'Done': 48, 'Out of Date': 11, '': 17, 'Partially Completed': 2, "Won't Fix": 1}
+Statuses: {'Resolved': 60, 'Open': 17, 'Closed': 2}
+
+Average Lead Time (all PBIs): 88.9 days
+Average Lead Time (Bug): 35.5 days
+Average Lead Time (Feature Request): 106.8 days
+Average Lead Time (Patch): 14.0 days
+Average Lead Time (Task): 67.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-04-30 17:45:00 End date: 2013-08-08 17:45:00
+System: {'JBBLOG': 1}
+Types: {'Feature Request': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

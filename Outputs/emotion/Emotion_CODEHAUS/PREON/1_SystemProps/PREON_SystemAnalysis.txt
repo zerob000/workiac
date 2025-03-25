@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2010-03-27 15:07:00 End date: 2013-01-15 01:22:00
+System: {'PREON': 56}
+Types: {'New Feature': 7, 'Task': 13, 'Bug': 28, 'Story': 1, 'Improvement': 6, 'Wish': 1}
+Resolutions: {'': 24, 'Fixed': 28, "Won't Fix": 2, 'Incomplete': 1, 'Not A Bug': 1}
+Statuses: {'Open': 23, 'Closed': 30, 'Resolved': 2, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 61.8 days
+Average Lead Time (Task): 40.4 days
+Average Lead Time (Bug): 106.0 days
+Average Lead Time (Improvement): 2.3 days
+Average Lead Time (Wish): 0.0 days
+Average Lead Time (New Feature): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2012-10-07 01:22:00 End date: 2013-01-15 01:22:00
+System: {'PREON': 2}
+Types: {'Bug': 2}
+Resolutions: {'': 2}
+Statuses: {'Open': 2}
+
+No PBIs resolved in last 100 days.

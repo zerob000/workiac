@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 2006-03-17 20:26:00 End date: 2013-12-15 02:29:00
+System: {'MAPREDUCE': 5116}
+Types: {'Bug': 3349, 'Improvement': 1247, 'New Feature': 299, 'Test': 92, 'Task': 112, 'Wish': 17}
+Resolutions: {'Fixed': 2290, 'Duplicate': 446, '': 1910, "Won't Fix": 124, 'Not A Problem': 156, 'Invalid': 143, 'Later': 4, 'Cannot Reproduce': 39, 'Incomplete': 2, 'Implemented': 2}
+Statuses: {'Closed': 1960, 'Resolved': 1246, 'Open': 1716, 'Patch Available': 157, 'Reopened': 31, 'In Progress': 6}
+
+Average Lead Time (all PBIs): 136.4 days
+Average Lead Time (Bug): 128.2 days
+Average Lead Time (Improvement): 149.2 days
+Average Lead Time (Task): 76.2 days
+Average Lead Time (Test): 49.7 days
+Average Lead Time (New Feature): 270.8 days
+Average Lead Time (Wish): 166.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-06 02:29:00 End date: 2013-12-15 02:29:00
+System: {'MAPREDUCE': 189}
+Types: {'Improvement': 40, 'Bug': 134, 'New Feature': 5, 'Test': 7, 'Task': 3}
+Resolutions: {'': 99, 'Duplicate': 13, 'Not A Problem': 2, 'Fixed': 67, 'Invalid': 5, "Won't Fix": 2, 'Later': 1}
+Statuses: {'Open': 72, 'Resolved': 83, 'Patch Available': 25, 'Reopened': 2, 'Closed': 7}
+
+Average Lead Time (all PBIs): 69.3 days
+Average Lead Time (Bug): 39.8 days
+Average Lead Time (Improvement): 148.5 days
+Average Lead Time (Task): 29.5 days
+Average Lead Time (Test): 37.8 days
+Average Lead Time (New Feature): 785.5 days

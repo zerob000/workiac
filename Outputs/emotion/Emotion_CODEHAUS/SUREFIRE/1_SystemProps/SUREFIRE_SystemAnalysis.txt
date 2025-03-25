@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2004-09-01 06:29:00 End date: 2013-12-19 11:58:00
+System: {'SUREFIRE': 1026}
+Types: {'Bug': 692, 'Improvement': 204, 'Task': 32, 'Wish': 19, 'New Feature': 76, 'Story': 1, 'Test': 2}
+Resolutions: {'Fixed': 570, '': 155, 'Cannot Reproduce': 97, 'Duplicate': 95, 'Not A Bug': 30, "Won't Fix": 61, 'Incomplete': 18}
+Statuses: {'Closed': 871, 'Open': 153, 'Reopened': 2}
+
+Average Lead Time (all PBIs): 161.0 days
+Average Lead Time (Bug): 146.5 days
+Average Lead Time (Improvement): 159.4 days
+Average Lead Time (Task): 170.3 days
+Average Lead Time (New Feature): 264.4 days
+Average Lead Time (Wish): 520.8 days
+Average Lead Time (Story): 23.0 days
+Average Lead Time (Test): 313.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-10 11:58:00 End date: 2013-12-19 11:58:00
+System: {'SUREFIRE': 16}
+Types: {'Improvement': 4, 'Bug': 12}
+Resolutions: {'': 10, 'Fixed': 4, 'Duplicate': 1, 'Not A Bug': 1}
+Statuses: {'Open': 9, 'Closed': 6, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 9.3 days
+Average Lead Time (Bug): 2.0 days
+Average Lead Time (Improvement): 46.0 days

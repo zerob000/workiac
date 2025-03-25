@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 2005-07-25 07:46:00 End date: 2013-12-16 07:32:00
+System: {'HADOOP': 7997}
+Types: {'New Feature': 593, 'Test': 150, 'Bug': 4811, 'Task': 148, 'Improvement': 2257, 'Wish': 38}
+Resolutions: {'Fixed': 5022, 'Invalid': 204, '': 1491, 'Duplicate': 700, 'Not A Problem': 96, 'Implemented': 1, "Won't Fix": 385, 'Incomplete': 10, 'Cannot Reproduce': 74, 'Later': 14}
+Statuses: {'Closed': 5131, 'Resolved': 1375, 'Patch Available': 217, 'Open': 1249, 'Reopened': 22, 'In Progress': 3}
+
+Average Lead Time (all PBIs): 97.5 days
+Average Lead Time (New Feature): 171.6 days
+Average Lead Time (Test): 72.7 days
+Average Lead Time (Task): 96.8 days
+Average Lead Time (Bug): 75.5 days
+Average Lead Time (Improvement): 129.2 days
+Average Lead Time (Wish): 224.4 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-07 07:32:00 End date: 2013-12-16 07:32:00
+System: {'HADOOP': 223}
+Types: {'Bug': 130, 'Improvement': 68, 'Test': 11, 'New Feature': 9, 'Task': 4, 'Wish': 1}
+Resolutions: {'Fixed': 79, '': 116, 'Duplicate': 19, 'Invalid': 4, 'Implemented': 1, "Won't Fix": 2, 'Not A Problem': 2}
+Statuses: {'Resolved': 96, 'Open': 77, 'Patch Available': 38, 'Reopened': 1, 'Closed': 11}
+
+Average Lead Time (all PBIs): 103.0 days
+Average Lead Time (Bug): 67.8 days
+Average Lead Time (Improvement): 96.6 days
+Average Lead Time (New Feature): 682.3 days
+Average Lead Time (Task): 0.0 days
+Average Lead Time (Test): 230.4 days

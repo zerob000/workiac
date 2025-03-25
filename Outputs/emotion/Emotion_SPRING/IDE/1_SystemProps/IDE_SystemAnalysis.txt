@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 2005-04-01 18:35:00 End date: 2013-12-18 17:20:00
+System: {'IDE': 1297}
+Types: {'Improvement': 110, 'New Feature': 337, 'Bug': 811, 'Task': 32, 'Story': 1, 'Support': 1, 'Defect': 2, 'Refactoring': 3}
+Resolutions: {'Fixed': 772, 'Incomplete': 35, '': 173, 'Cannot Reproduce': 89, 'Duplicate': 104, 'Invalid': 7, "Won't Fix": 74, 'Complete': 36, 'Works as Designed': 7}
+Statuses: {'Closed': 686, 'Resolved': 438, 'Open': 170, 'Reopened': 2, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 102.8 days
+Average Lead Time (Improvement): 117.4 days
+Average Lead Time (New Feature): 166.8 days
+Average Lead Time (Bug): 75.0 days
+Average Lead Time (Task): 84.8 days
+Average Lead Time (Story): 56.0 days
+Average Lead Time (Support): 3.0 days
+Average Lead Time (Defect): 573.0 days
+Average Lead Time (Refactoring): 80.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-09 17:20:00 End date: 2013-12-18 17:20:00
+System: {'IDE': 15}
+Types: {'Bug': 13, 'New Feature': 1, 'Story': 1}
+Resolutions: {'': 5, 'Invalid': 1, 'Fixed': 5, 'Cannot Reproduce': 2, 'Complete': 2}
+Statuses: {'Open': 5, 'Resolved': 10}
+
+Average Lead Time (all PBIs): 156.8 days
+Average Lead Time (New Feature): 24.0 days
+Average Lead Time (Bug): 186.0 days
+Average Lead Time (Story): 56.0 days

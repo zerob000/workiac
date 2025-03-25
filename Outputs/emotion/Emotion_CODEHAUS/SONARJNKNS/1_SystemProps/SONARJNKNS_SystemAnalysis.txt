@@ -1,0 +1,20 @@
+All PBIS - Unfiltered 
+Start date: 2008-03-15 15:15:00 End date: 2013-08-26 16:15:00
+System: {'SONARJNKNS': 200}
+Types: {'Bug': 185, 'Task': 3, 'Improvement': 8, 'New Feature': 4}
+Resolutions: {'Fixed': 104, "Won't Fix": 30, '': 17, 'Not A Bug': 13, 'Duplicate': 28, 'Cannot Reproduce': 6, 'Incomplete': 2}
+Statuses: {'Closed': 183, 'Open': 17}
+
+Average Lead Time (all PBIs): 120.8 days
+Average Lead Time (Bug): 120.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-05-18 16:15:00 End date: 2013-08-26 16:15:00
+System: {'SONARJNKNS': 5}
+Types: {'Task': 3, 'Bug': 1, 'Improvement': 1}
+Resolutions: {'': 5}
+Statuses: {'Open': 5}
+
+No PBIs resolved in last 100 days.

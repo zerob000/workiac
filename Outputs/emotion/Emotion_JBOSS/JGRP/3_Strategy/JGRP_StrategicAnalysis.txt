@@ -1,0 +1,73 @@
+
+System Name: JGRP
+System Duration (Captured): 3283 days
+
+Calculated Final System Size: 80 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 80 PBIs
+
+Model Final System Size: 101 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 101 PBIs
+
+% Error, Final backlog, model vs actual: 26.0%
+Error, Final backlog, model vs actual: 21 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 790 PBIs
+Total Unplanned Arrivals: 863 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 275 PBIs
+Total Net Arrivals: 1378 PBIs
+Total Services: 1298 PBIs
+
+Rates:
+Planned Arrival Rate: 0.258 PBIs/day
+Unplanned Arrival Rate: 0.257 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.09 PBIs/day
+Net Arrival Rate: 0.425 PBIs/day
+Service Rate: 0.407 PBIs/day
+
+
+Metrics:
+Stability: 0.958
+Quality: 0.501
+Control: 0.825
+Inventory Days: 196.56 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 100 days
+
+Calculated Final System Size: 80 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 80 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 17 PBIs
+Unplanned Arrivals in this period: 52 PBIs
+Cancelled/Rejected/Won't Do  in this period: 6 PBIs
+System size change in this period: 13 PBIs
+Net Arrivals in this period: 63 PBIs
+Services in this period: 49 PBIs
+
+Rates:
+Planned Arrival Rate: 0.145 PBIs/day
+Unplanned Arrival Rate: 0.524 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.062 PBIs/day
+Net Arrival Rate: 0.605 PBIs/day
+Service Rate: 0.412 PBIs/day
+
+Metrics:
+Stability: 0.679
+Quality: 0.217
+Control: 0.907
+Inventory Days: 194.175 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

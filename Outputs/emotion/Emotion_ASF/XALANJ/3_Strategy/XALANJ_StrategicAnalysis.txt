@@ -1,0 +1,73 @@
+
+System Name: XALANJ
+System Duration (Captured): 4592 days
+
+Calculated Final System Size: 637 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 637 PBIs
+
+Model Final System Size: 0 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 0 PBIs
+
+% Error, Final backlog, model vs actual: 100.0%
+Error, Final backlog, model vs actual: -637 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 63 PBIs
+Total Unplanned Arrivals: 2508 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 727 PBIs
+Total Net Arrivals: 1844 PBIs
+Total Services: 1207 PBIs
+
+Rates:
+Planned Arrival Rate: 0.016 PBIs/day
+Unplanned Arrival Rate: 0.774 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.382 PBIs/day
+Net Arrival Rate: 0.408 PBIs/day
+Service Rate: 0.67 PBIs/day
+
+
+Metrics:
+Stability: 1.642
+Quality: 0.02
+Control: 0.516
+Inventory Days: 950.746 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 62 days
+
+Calculated Final System Size: 637 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 637 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 0 PBIs
+Unplanned Arrivals in this period: 3 PBIs
+Cancelled/Rejected/Won't Do  in this period: 0 PBIs
+System size change in this period: 2 PBIs
+Net Arrivals in this period: 3 PBIs
+Services in this period: 0 PBIs
+
+Rates:
+Planned Arrival Rate: NaN PBIs/day
+Unplanned Arrival Rate: 0.045 PBIs/day
+Cancelled/Rejected/Won't Do Rate: NaN PBIs/day
+Net Arrival Rate: 0.027 PBIs/day
+Service Rate: NaN PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

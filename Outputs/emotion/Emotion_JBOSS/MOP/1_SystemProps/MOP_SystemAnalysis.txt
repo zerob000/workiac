@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2009-07-30 21:45:00 End date: 2010-08-04 09:11:00
+System: {'MOP': 44}
+Types: {'Bug': 12, 'Feature Request': 10, 'Task': 5, 'Enhancement': 17}
+Resolutions: {'Done': 15, '': 27, 'Cannot Reproduce Bug': 1, 'Duplicate Issue': 1}
+Statuses: {'Resolved': 15, 'Closed': 2, 'Open': 27}
+
+Average Lead Time (all PBIs): 6.2 days
+Average Lead Time (Bug): 8.0 days
+Average Lead Time (Feature Request): 1.0 days
+Average Lead Time (Task): 0.0 days
+Average Lead Time (Enhancement): 6.4 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2010-04-26 09:11:00 End date: 2010-08-04 09:11:00
+System: {'MOP': 1}
+Types: {'Feature Request': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

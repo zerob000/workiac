@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2005-08-26 07:08:00 End date: 2013-12-20 02:36:00
+System: {'HORNETQ': 1196}
+Types: {'Task': 205, 'Bug': 671, 'Feature Request': 265, 'Enhancement': 43, 'Component  Upgrade': 1, 'Patch': 4, 'Quality Risk': 5, 'Release': 2}
+Resolutions: {'Done': 638, '': 287, 'Rejected': 98, 'Out of Date': 83, 'Duplicate Issue': 45, 'Partially Completed': 1, "Won't Fix": 31, 'Cannot Reproduce Bug': 7, 'Incomplete Description': 5, 'Migrated to another ITS': 1}
+Statuses: {'Resolved': 153, 'Closed': 756, 'Open': 274, 'Reopened': 11, 'Coding In Progress': 2}
+
+Average Lead Time (all PBIs): 166.8 days
+Average Lead Time (Task): 299.8 days
+Average Lead Time (Bug): 106.9 days
+Average Lead Time (Feature Request): 243.8 days
+Average Lead Time (Enhancement): 62.2 days
+Average Lead Time (Patch): 83.0 days
+Average Lead Time (Quality Risk): 28.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-11 02:36:00 End date: 2013-12-20 02:36:00
+System: {'HORNETQ': 71}
+Types: {'Bug': 39, 'Enhancement': 6, 'Feature Request': 16, 'Component  Upgrade': 1, 'Task': 9}
+Resolutions: {'Done': 29, '': 21, 'Rejected': 5, 'Out of Date': 9, 'Duplicate Issue': 1, "Won't Fix": 4, 'Incomplete Description': 1, 'Migrated to another ITS': 1}
+Statuses: {'Closed': 39, 'Open': 19, 'Resolved': 11, 'Reopened': 2}
+
+Average Lead Time (all PBIs): 489.0 days
+Average Lead Time (Bug): 398.6 days
+Average Lead Time (Feature Request): 673.0 days
+Average Lead Time (Enhancement): 25.8 days
+Average Lead Time (Task): 761.6 days

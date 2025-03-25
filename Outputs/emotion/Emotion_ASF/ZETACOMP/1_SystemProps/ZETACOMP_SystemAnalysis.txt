@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2010-07-19 16:20:00 End date: 2013-07-17 15:07:00
+System: {'ZETACOMP': 114}
+Types: {'Question': 1, 'Bug': 68, 'Improvement': 26, 'Task': 5, 'Wish': 2, 'New Feature': 12}
+Resolutions: {'': 88, 'Duplicate': 1, 'Fixed': 22, 'Not A Problem': 2, "Won't Fix": 1}
+Statuses: {'Open': 88, 'Resolved': 11, 'Closed': 15}
+
+Average Lead Time (all PBIs): 76.7 days
+Average Lead Time (Bug): 58.5 days
+Average Lead Time (Task): 65.0 days
+Average Lead Time (Improvement): 125.0 days
+Average Lead Time (New Feature): 193.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-04-08 15:07:00 End date: 2013-07-17 15:07:00
+System: {'ZETACOMP': 2}
+Types: {'Question': 1, 'Bug': 1}
+Resolutions: {'': 2}
+Statuses: {'Open': 2}
+
+No PBIs resolved in last 100 days.

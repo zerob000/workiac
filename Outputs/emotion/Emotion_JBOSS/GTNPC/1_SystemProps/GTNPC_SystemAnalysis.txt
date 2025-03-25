@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2009-08-26 05:08:00 End date: 2013-08-12 21:35:00
+System: {'GTNPC': 106}
+Types: {'Enhancement': 8, 'Task': 38, 'Feature Request': 21, 'Bug': 36, 'Quality Risk': 2, 'Patch': 1}
+Resolutions: {'Done': 86, '': 6, 'Duplicate Issue': 2, "Won't Fix": 2, 'Rejected': 3, 'Out of Date': 6, 'Cannot Reproduce Bug': 1}
+Statuses: {'Resolved': 99, 'Open': 6, 'Closed': 1}
+
+Average Lead Time (all PBIs): 128.0 days
+Average Lead Time (Enhancement): 11.3 days
+Average Lead Time (Task): 48.9 days
+Average Lead Time (Feature Request): 75.3 days
+Average Lead Time (Bug): 259.0 days
+Average Lead Time (Quality Risk): 234.5 days
+Average Lead Time (Patch): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-05-04 21:35:00 End date: 2013-08-12 21:35:00
+System: {'GTNPC': 4}
+Types: {'Enhancement': 1, 'Bug': 1, 'Feature Request': 2}
+Resolutions: {'Done': 3, '': 1}
+Statuses: {'Resolved': 3, 'Open': 1}
+
+Average Lead Time (all PBIs): 4.0 days
+Average Lead Time (Enhancement): 6.0 days
+Average Lead Time (Bug): 6.0 days
+Average Lead Time (Feature Request): 0.0 days

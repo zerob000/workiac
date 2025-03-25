@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2002-08-22 15:11:00 End date: 2012-03-27 14:34:00
+System: {'JELLY': 209}
+Types: {'Bug': 118, 'Test': 2, 'Improvement': 59, 'Task': 3, 'New Feature': 24, 'Wish': 3}
+Resolutions: {'Fixed': 93, '': 87, "Won't Fix": 18, 'Incomplete': 5, 'Duplicate': 4, 'Invalid': 1, 'Cannot Reproduce': 1}
+Statuses: {'Closed': 59, 'Open': 85, 'Resolved': 63, 'Reopened': 2}
+
+Average Lead Time (all PBIs): 367.4 days
+Average Lead Time (Bug): 431.0 days
+Average Lead Time (Test): 8.5 days
+Average Lead Time (Improvement): 349.9 days
+Average Lead Time (Task): 10.0 days
+Average Lead Time (New Feature): 52.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2011-12-18 14:34:00 End date: 2012-03-27 14:34:00
+System: {'JELLY': 1}
+Types: {'Improvement': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2007-07-24 16:05:00 End date: 2013-12-14 23:57:00
+System: {'LOG4PHP': 214}
+Types: {'Improvement': 71, 'Task': 13, 'Bug': 100, 'Wish': 3, 'New Feature': 22, 'Question': 2, 'Dependency upgrade': 1, 'Test': 2}
+Resolutions: {'Fixed': 163, '': 31, 'Duplicate': 4, 'Cannot Reproduce': 2, 'Not A Problem': 10, 'Invalid': 2, "Won't Fix": 2}
+Statuses: {'Closed': 180, 'Open': 31, 'Resolved': 3}
+
+Average Lead Time (all PBIs): 130.0 days
+Average Lead Time (Improvement): 97.3 days
+Average Lead Time (Task): 140.9 days
+Average Lead Time (Bug): 136.6 days
+Average Lead Time (New Feature): 262.5 days
+Average Lead Time (Wish): 25.0 days
+Average Lead Time (Dependency upgrade): 170.0 days
+Average Lead Time (Test): 65.0 days
+Average Lead Time (Question): 139.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-05 23:57:00 End date: 2013-12-14 23:57:00
+System: {'LOG4PHP': 7}
+Types: {'Bug': 3, 'Improvement': 3, 'Question': 1}
+Resolutions: {'Fixed': 3, '': 2, 'Duplicate': 2}
+Statuses: {'Resolved': 3, 'Open': 2, 'Closed': 2}
+
+Average Lead Time (all PBIs): 232.8 days
+Average Lead Time (Bug): 212.7 days
+Average Lead Time (Improvement): 263.0 days

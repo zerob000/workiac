@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2009-02-04 19:01:00 End date: 2013-12-06 14:57:00
+System: {'BOOKKEEPER': 570}
+Types: {'Bug': 389, 'Improvement': 131, 'Wish': 5, 'Task': 6, 'Question': 1, 'New Feature': 34, 'Test': 4}
+Resolutions: {'': 122, 'Fixed': 375, 'Duplicate': 37, 'Invalid': 5, 'Not A Problem': 15, "Won't Fix": 9, 'Cannot Reproduce': 2, 'Implemented': 5}
+Statuses: {'Patch Available': 10, 'Closed': 286, 'Resolved': 162, 'Open': 110, 'Reopened': 1, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 59.6 days
+Average Lead Time (Bug): 51.1 days
+Average Lead Time (Improvement): 72.6 days
+Average Lead Time (Question): 3.0 days
+Average Lead Time (Wish): 19.0 days
+Average Lead Time (Test): 21.2 days
+Average Lead Time (New Feature): 153.9 days
+Average Lead Time (Task): 184.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-08-28 14:57:00 End date: 2013-12-06 14:57:00
+System: {'BOOKKEEPER': 44}
+Types: {'Bug': 29, 'Improvement': 11, 'Task': 1, 'Question': 1, 'Wish': 1, 'New Feature': 1}
+Resolutions: {'': 8, 'Fixed': 26, 'Invalid': 1, 'Not A Problem': 1, "Won't Fix": 2, 'Duplicate': 6}
+Statuses: {'Patch Available': 5, 'Resolved': 36, 'Open': 3}
+
+Average Lead Time (all PBIs): 154.8 days
+Average Lead Time (Bug): 147.2 days
+Average Lead Time (Improvement): 164.7 days
+Average Lead Time (Question): 3.0 days
+Average Lead Time (Wish): 19.0 days
+Average Lead Time (New Feature): 533.0 days

@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2005-10-26 02:56:00 End date: 2009-03-12 21:27:00
+System: {'MNGECLIPSE': 1195}
+Types: {'Bug': 850, 'Improvement': 203, 'Wish': 25, 'New Feature': 107, 'Task': 10}
+Resolutions: {'Fixed': 480, "Won't Fix": 60, 'Cannot Reproduce': 60, 'Duplicate': 161, '': 352, 'Not A Bug': 45, 'Incomplete': 37}
+Statuses: {'Closed': 827, 'Open': 338, 'Resolved': 16, 'In Progress': 1, 'Reopened': 13}
+
+Average Lead Time (all PBIs): 83.6 days
+Average Lead Time (Bug): 70.7 days
+Average Lead Time (New Feature): 155.1 days
+Average Lead Time (Improvement): 93.5 days
+Average Lead Time (Task): 205.4 days
+Average Lead Time (Wish): 107.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2008-12-02 21:27:00 End date: 2009-03-12 21:27:00
+System: {'MNGECLIPSE': 173}
+Types: {'Bug': 128, 'Improvement': 31, 'Wish': 1, 'New Feature': 11, 'Task': 2}
+Resolutions: {'': 104, 'Cannot Reproduce': 4, 'Fixed': 44, 'Duplicate': 12, 'Not A Bug': 6, 'Incomplete': 1, "Won't Fix": 2}
+Statuses: {'Open': 104, 'Closed': 53, 'Resolved': 16}
+
+Average Lead Time (all PBIs): 48.0 days
+Average Lead Time (Bug): 44.8 days
+Average Lead Time (New Feature): 92.7 days
+Average Lead Time (Improvement): 33.7 days
+Average Lead Time (Task): 137.5 days

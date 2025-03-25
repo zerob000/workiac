@@ -1,0 +1,73 @@
+
+System Name: NUTCH
+System Duration (Captured): 3227 days
+
+Calculated Final System Size: 267 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 267 PBIs
+
+Model Final System Size: 255 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 255 PBIs
+
+% Error, Final backlog, model vs actual: 4.0%
+Error, Final backlog, model vs actual: -12 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 264 PBIs
+Total Unplanned Arrivals: 1345 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 393 PBIs
+Total Net Arrivals: 1216 PBIs
+Total Services: 949 PBIs
+
+Rates:
+Planned Arrival Rate: 0.081 PBIs/day
+Unplanned Arrival Rate: 0.384 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.134 PBIs/day
+Net Arrival Rate: 0.331 PBIs/day
+Service Rate: 0.287 PBIs/day
+
+
+Metrics:
+Stability: 0.867
+Quality: 0.174
+Control: 0.712
+Inventory Days: 930.314 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 98 days
+
+Calculated Final System Size: 267 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 267 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 3 PBIs
+Unplanned Arrivals in this period: 42 PBIs
+Cancelled/Rejected/Won't Do  in this period: 12 PBIs
+System size change in this period: 13 PBIs
+Net Arrivals in this period: 33 PBIs
+Services in this period: 19 PBIs
+
+Rates:
+Planned Arrival Rate: 0.05 PBIs/day
+Unplanned Arrival Rate: 0.381 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.154 PBIs/day
+Net Arrival Rate: 0.273 PBIs/day
+Service Rate: 0.237 PBIs/day
+
+Metrics:
+Stability: 0.856
+Quality: 0.116
+Control: 0.643
+Inventory Days: 1126.582 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

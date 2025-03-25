@@ -1,0 +1,73 @@
+
+System Name: XERCESC
+System Duration (Captured): 4641 days
+
+Calculated Final System Size: 129 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 129 PBIs
+
+Model Final System Size: 303 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 303 PBIs
+
+% Error, Final backlog, model vs actual: 135.0%
+Error, Final backlog, model vs actual: 174 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 33 PBIs
+Total Unplanned Arrivals: 1986 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 805 PBIs
+Total Net Arrivals: 1214 PBIs
+Total Services: 1085 PBIs
+
+Rates:
+Planned Arrival Rate: 0.01 PBIs/day
+Unplanned Arrival Rate: 0.529 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.237 PBIs/day
+Net Arrival Rate: 0.302 PBIs/day
+Service Rate: 0.308 PBIs/day
+
+
+Metrics:
+Stability: 1.02
+Quality: 0.019
+Control: 0.56
+Inventory Days: 418.831 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 98 days
+
+Calculated Final System Size: 129 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 129 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 0 PBIs
+Unplanned Arrivals in this period: 3 PBIs
+Cancelled/Rejected/Won't Do  in this period: 2 PBIs
+System size change in this period: -6 PBIs
+Net Arrivals in this period: 1 PBIs
+Services in this period: 5 PBIs
+
+Rates:
+Planned Arrival Rate: NaN PBIs/day
+Unplanned Arrival Rate: 0.028 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.044 PBIs/day
+Net Arrival Rate: 0.011 PBIs/day
+Service Rate: 0.046 PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

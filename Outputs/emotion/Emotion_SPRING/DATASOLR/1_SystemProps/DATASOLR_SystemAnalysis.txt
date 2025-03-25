@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2012-09-12 14:46:00 End date: 2013-12-16 17:23:00
+System: {'DATASOLR': 133}
+Types: {'Task': 42, 'New Feature': 35, 'Improvement': 28, 'Bug': 28}
+Resolutions: {'Fixed': 90, 'Complete': 6, 'Duplicate': 2, '': 27, 'Works as Designed': 3, "Won't Fix": 1, 'Invalid': 4}
+Statuses: {'Resolved': 101, 'Open': 23, 'Closed': 5, 'In Progress': 2, 'Investigating': 2}
+
+Average Lead Time (all PBIs): 20.5 days
+Average Lead Time (Task): 13.0 days
+Average Lead Time (New Feature): 35.8 days
+Average Lead Time (Improvement): 26.8 days
+Average Lead Time (Bug): 10.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-07 17:23:00 End date: 2013-12-16 17:23:00
+System: {'DATASOLR': 23}
+Types: {'Task': 5, 'Improvement': 6, 'Bug': 8, 'New Feature': 4}
+Resolutions: {'Duplicate': 1, '': 11, 'Fixed': 10, 'Works as Designed': 1}
+Statuses: {'Resolved': 7, 'Open': 10, 'Closed': 5, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 39.1 days
+Average Lead Time (Task): 29.2 days
+Average Lead Time (Bug): 7.5 days
+Average Lead Time (New Feature): 85.0 days
+Average Lead Time (Improvement): 123.0 days

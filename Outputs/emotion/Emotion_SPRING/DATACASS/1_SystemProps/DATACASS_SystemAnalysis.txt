@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2013-05-30 02:23:00 End date: 2013-12-17 12:04:00
+System: {'DATACASS': 47}
+Types: {'Story': 32, 'Technical task': 10, 'Improvement': 5}
+Resolutions: {'Complete': 30, '': 15, 'Fixed': 2}
+Statuses: {'Done': 32, 'In Progress': 6, 'To Do': 9}
+
+Average Lead Time (all PBIs): 26.6 days
+Average Lead Time (Story): 31.3 days
+Average Lead Time (Technical task): 23.5 days
+Average Lead Time (Improvement): 7.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-08 12:04:00 End date: 2013-12-17 12:04:00
+System: {'DATACASS': 37}
+Types: {'Story': 28, 'Technical task': 4, 'Improvement': 5}
+Resolutions: {'Complete': 23, '': 14}
+Statuses: {'Done': 23, 'In Progress': 5, 'To Do': 9}
+
+Average Lead Time (all PBIs): 36.2 days
+Average Lead Time (Story): 37.1 days
+Average Lead Time (Technical task): 54.2 days
+Average Lead Time (Improvement): 7.7 days

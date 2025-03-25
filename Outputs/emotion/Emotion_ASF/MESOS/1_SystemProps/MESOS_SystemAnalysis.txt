@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2011-02-17 07:12:00 End date: 2013-12-14 09:27:00
+System: {'MESOS': 836}
+Types: {'Documentation': 10, 'Bug': 506, 'Improvement': 194, 'Story': 71, 'Task': 55}
+Resolutions: {'': 282, 'Fixed': 460, 'Duplicate': 25, 'Cannot Reproduce': 15, 'Not A Problem': 16, "Won't Fix": 25, 'Done': 1, 'Implemented': 2, 'Later': 1, 'Invalid': 7, 'Incomplete': 2}
+Statuses: {'Open': 270, 'Resolved': 473, 'Closed': 81, 'Ready To Review': 4, 'In Progress': 2, 'Reopened': 6}
+
+Average Lead Time (all PBIs): 119.5 days
+Average Lead Time (Bug): 95.0 days
+Average Lead Time (Improvement): 166.9 days
+Average Lead Time (Story): 174.2 days
+Average Lead Time (Documentation): 69.0 days
+Average Lead Time (Task): 201.9 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-05 09:27:00 End date: 2013-12-14 09:27:00
+System: {'MESOS': 250}
+Types: {'Bug': 158, 'Improvement': 65, 'Documentation': 5, 'Task': 11, 'Story': 11}
+Resolutions: {'Fixed': 108, '': 108, 'Cannot Reproduce': 10, 'Not A Problem': 7, 'Duplicate': 10, "Won't Fix": 5, 'Done': 1, 'Implemented': 1}
+Statuses: {'Resolved': 116, 'Open': 103, 'Closed': 26, 'Ready To Review': 3, 'In Progress': 1, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 84.4 days
+Average Lead Time (Bug): 54.6 days
+Average Lead Time (Improvement): 120.9 days
+Average Lead Time (Documentation): 69.0 days
+Average Lead Time (Task): 346.6 days
+Average Lead Time (Story): 189.2 days

@@ -1,0 +1,73 @@
+
+System Name: OOZIE
+System Duration (Captured): 878 days
+
+Calculated Final System Size: 364 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 364 PBIs
+
+Model Final System Size: 343 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 343 PBIs
+
+% Error, Final backlog, model vs actual: 6.0%
+Error, Final backlog, model vs actual: -21 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 182 PBIs
+Total Unplanned Arrivals: 1321 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 105 PBIs
+Total Net Arrivals: 1398 PBIs
+Total Services: 1034 PBIs
+
+Rates:
+Planned Arrival Rate: 0.203 PBIs/day
+Unplanned Arrival Rate: 1.351 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.128 PBIs/day
+Net Arrival Rate: 1.426 PBIs/day
+Service Rate: 1.279 PBIs/day
+
+
+Metrics:
+Stability: 0.897
+Quality: 0.131
+Control: 0.918
+Inventory Days: 284.597 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 364 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 364 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 5 PBIs
+Unplanned Arrivals in this period: 96 PBIs
+Cancelled/Rejected/Won't Do  in this period: 13 PBIs
+System size change in this period: 22 PBIs
+Net Arrivals in this period: 88 PBIs
+Services in this period: 67 PBIs
+
+Rates:
+Planned Arrival Rate: 0.053 PBIs/day
+Unplanned Arrival Rate: 0.943 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.134 PBIs/day
+Net Arrival Rate: 0.877 PBIs/day
+Service Rate: 0.691 PBIs/day
+
+Metrics:
+Stability: 0.802
+Quality: 0.053
+Control: 0.865
+Inventory Days: 526.773 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

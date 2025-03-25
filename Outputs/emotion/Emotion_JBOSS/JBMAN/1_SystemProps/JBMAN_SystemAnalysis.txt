@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2007-11-08 21:06:00 End date: 2012-04-03 15:03:00
+System: {'JBMAN': 95}
+Types: {'Feature Request': 52, 'Task': 12, 'Bug': 24, 'Component  Upgrade': 3, 'Component Upgrade': 3, 'Release': 1}
+Resolutions: {'Done': 86, 'Rejected': 3, '': 5, "Won't Fix": 1}
+Statuses: {'Resolved': 73, 'Closed': 17, 'Open': 5}
+
+Average Lead Time (all PBIs): 11.7 days
+Average Lead Time (Feature Request): 11.1 days
+Average Lead Time (Task): 40.0 days
+Average Lead Time (Bug): 2.6 days
+Average Lead Time (Component  Upgrade): 4.7 days
+Average Lead Time (Component Upgrade): 1.0 days
+Average Lead Time (Release): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2011-12-25 15:03:00 End date: 2012-04-03 15:03:00
+System: {'JBMAN': 1}
+Types: {'Bug': 1}
+Resolutions: {'Rejected': 1}
+Statuses: {'Closed': 1}
+
+Average Lead Time (all PBIs): 0.0 days
+Average Lead Time (Bug): 0.0 days

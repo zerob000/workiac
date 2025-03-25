@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2004-10-06 18:04:00 End date: 2013-12-18 01:01:00
+System: {'JBWS': 3005}
+Types: {'Task': 1012, 'Bug': 1453, 'Feature Request': 488, 'Enhancement': 37, 'Patch': 10, 'Quality Risk': 1, 'Support Patch': 2, 'CTS Challenge': 2}
+Resolutions: {'Done': 2122, 'Out of Date': 348, 'Rejected': 102, 'Partially Completed': 5, '': 73, "Won't Fix": 133, 'Duplicate Issue': 113, 'Cannot Reproduce Bug': 73, 'Incomplete Description': 9, 'Deferred': 27}
+Statuses: {'Closed': 2904, 'Resolved': 28, 'Open': 70, 'Coding In Progress': 1, 'Reopened': 2}
+
+Average Lead Time (all PBIs): 155.2 days
+Average Lead Time (Task): 154.2 days
+Average Lead Time (Bug): 105.8 days
+Average Lead Time (Feature Request): 313.9 days
+Average Lead Time (Enhancement): 166.7 days
+Average Lead Time (Patch): 116.9 days
+Average Lead Time (Quality Risk): 1.0 days
+Average Lead Time (Support Patch): 4.5 days
+Average Lead Time (CTS Challenge): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-09 01:01:00 End date: 2013-12-18 01:01:00
+System: {'JBWS': 64}
+Types: {'Task': 24, 'Enhancement': 9, 'Feature Request': 14, 'Bug': 17}
+Resolutions: {'Done': 50, '': 11, 'Rejected': 3}
+Statuses: {'Resolved': 17, 'Open': 10, 'Coding In Progress': 1, 'Closed': 36}
+
+Average Lead Time (all PBIs): 260.2 days
+Average Lead Time (Task): 62.7 days
+Average Lead Time (Enhancement): 45.0 days
+Average Lead Time (Feature Request): 911.2 days
+Average Lead Time (Bug): 24.8 days

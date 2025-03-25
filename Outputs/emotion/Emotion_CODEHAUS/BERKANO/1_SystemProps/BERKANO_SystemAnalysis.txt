@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2005-05-29 04:37:00 End date: 2007-04-23 20:51:00
+System: {'BERKANO': 38}
+Types: {'New Feature': 9, 'Improvement': 13, 'Task': 9, 'Bug': 7}
+Resolutions: {'': 26, 'Fixed': 11, "Won't Fix": 1}
+Statuses: {'Open': 23, 'Resolved': 11, 'Closed': 1, 'In Progress': 3}
+
+Average Lead Time (all PBIs): 30.2 days
+Average Lead Time (Bug): 16.7 days
+Average Lead Time (Improvement): 13.0 days
+Average Lead Time (Task): 39.3 days
+Average Lead Time (New Feature): 71.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2007-01-13 20:51:00 End date: 2007-04-23 20:51:00
+System: {'BERKANO': 1}
+Types: {'New Feature': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

@@ -1,0 +1,16 @@
+Unfiltered All PBIs between  Start Date: 2008-03-08 04:00:00 and  End Date: 2013-12-12 23:28:00
+
+Arrival Days: {'Mon': 55, 'Tue': 51, 'Wed': 105, 'Thu': 80, 'Fri': 67, 'Sat': 10, 'Sun': 2}
+Total Arrivals: 370
+Service Days: {'Mon': 53, 'Tue': 109, 'Wed': 64, 'Thu': 64, 'Fri': 46, 'Sat': 5, 'Sun': 0}
+Total Services: 341
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+Unfiltered PBIs between  Start Date: 2013-09-03 23:28:00 and  End Date: 2013-12-12 23:28:00
+
+Arrival Days: {'Mon': 10, 'Tue': 6, 'Wed': 4, 'Thu': 12, 'Fri': 6, 'Sat': 2, 'Sun': 0}
+Total Arrivals: 40
+Service Days: {'Mon': 4, 'Tue': 15, 'Wed': 7, 'Thu': 4, 'Fri': 5, 'Sat': 1, 'Sun': 0}
+Total Services: 36

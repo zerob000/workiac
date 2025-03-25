@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 2007-07-23 20:27:00 End date: 2013-12-06 02:02:00
+System: {'TOMEE': 908}
+Types: {'Bug': 361, 'Task': 49, 'Dependency upgrade': 61, 'Improvement': 310, 'New Feature': 116, 'Test': 7, 'Documentation': 3, 'Wish': 1}
+Resolutions: {'Fixed': 781, 'Duplicate': 5, '': 98, "Won't Fix": 5, 'Invalid': 4, 'Not A Problem': 12, 'Cannot Reproduce': 3}
+Statuses: {'Resolved': 307, 'Closed': 503, 'Open': 96, 'In Progress': 2}
+
+Average Lead Time (all PBIs): 38.0 days
+Average Lead Time (Bug): 18.5 days
+Average Lead Time (Task): 36.1 days
+Average Lead Time (Dependency upgrade): 26.2 days
+Average Lead Time (Improvement): 56.4 days
+Average Lead Time (New Feature): 50.9 days
+Average Lead Time (Test): 56.5 days
+Average Lead Time (Documentation): 3.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-08-28 02:02:00 End date: 2013-12-06 02:02:00
+System: {'TOMEE': 84}
+Types: {'Dependency upgrade': 2, 'Bug': 47, 'New Feature': 13, 'Improvement': 22}
+Resolutions: {'Fixed': 67, "Won't Fix": 3, 'Invalid': 1, 'Not A Problem': 1, '': 9, 'Duplicate': 1, 'Cannot Reproduce': 2}
+Statuses: {'Closed': 12, 'Resolved': 63, 'Open': 8, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 50.3 days
+Average Lead Time (Dependency upgrade): 128.0 days
+Average Lead Time (Bug): 20.4 days
+Average Lead Time (New Feature): 24.8 days
+Average Lead Time (Improvement): 118.8 days

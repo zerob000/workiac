@@ -1,0 +1,73 @@
+
+System Name: TUSCANY
+System Duration (Captured): 2855 days
+
+Calculated Final System Size: 576 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 576 PBIs
+
+Model Final System Size: 868 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 868 PBIs
+
+% Error, Final backlog, model vs actual: 51.0%
+Error, Final backlog, model vs actual: 292 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 467 PBIs
+Total Unplanned Arrivals: 3547 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 384 PBIs
+Total Net Arrivals: 3630 PBIs
+Total Services: 3054 PBIs
+
+Rates:
+Planned Arrival Rate: 0.247 PBIs/day
+Unplanned Arrival Rate: 1.722 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.168 PBIs/day
+Net Arrival Rate: 1.801 PBIs/day
+Service Rate: 1.534 PBIs/day
+
+
+Metrics:
+Stability: 0.852
+Quality: 0.125
+Control: 0.915
+Inventory Days: 375.489 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 48 days
+
+Calculated Final System Size: 576 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 576 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 0 PBIs
+Unplanned Arrivals in this period: 2 PBIs
+Cancelled/Rejected/Won't Do  in this period: 0 PBIs
+System size change in this period: 2 PBIs
+Net Arrivals in this period: 2 PBIs
+Services in this period: 0 PBIs
+
+Rates:
+Planned Arrival Rate: NaN PBIs/day
+Unplanned Arrival Rate: 0.042 PBIs/day
+Cancelled/Rejected/Won't Do Rate: NaN PBIs/day
+Net Arrival Rate: 0.033 PBIs/day
+Service Rate: NaN PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

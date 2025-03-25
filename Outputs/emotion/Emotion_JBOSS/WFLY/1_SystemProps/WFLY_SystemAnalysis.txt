@@ -1,0 +1,37 @@
+All PBIS - Unfiltered 
+Start date: 2008-12-18 18:22:00 End date: 2013-12-19 19:59:00
+System: {'WFLY': 2145}
+Types: {'Task': 241, 'Component  Upgrade': 77, 'Bug': 1117, 'Feature Request': 546, 'Quality Risk': 3, 'Enhancement': 147, 'Patch': 2, 'Documentation': 1, 'Library Upgrade': 3, 'Clarification': 8}
+Resolutions: {'': 854, 'Done': 1054, "Won't Fix": 25, 'Rejected': 63, 'Duplicate Issue': 51, 'Out of Date': 77, 'Partially Completed': 4, 'Cannot Reproduce Bug': 16, 'Incomplete Description': 1}
+Statuses: {'Pull Request Sent': 25, 'Resolved': 1100, 'Open': 776, 'Closed': 191, 'Coding In Progress': 12, 'Reopened': 41}
+
+Average Lead Time (all PBIs): 77.7 days
+Average Lead Time (Component  Upgrade): 14.3 days
+Average Lead Time (Bug): 67.2 days
+Average Lead Time (Feature Request): 98.4 days
+Average Lead Time (Task): 139.5 days
+Average Lead Time (Enhancement): 65.0 days
+Average Lead Time (Documentation): 0.0 days
+Average Lead Time (Library Upgrade): 21.0 days
+Average Lead Time (Clarification): 17.5 days
+Average Lead Time (Patch): 2.0 days
+Average Lead Time (Quality Risk): 667.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-10 19:59:00 End date: 2013-12-19 19:59:00
+System: {'WFLY': 708}
+Types: {'Task': 63, 'Component  Upgrade': 36, 'Bug': 426, 'Feature Request': 130, 'Enhancement': 46, 'Patch': 1, 'Documentation': 1, 'Library Upgrade': 2, 'Clarification': 3}
+Resolutions: {'': 168, 'Done': 428, 'Rejected': 32, 'Duplicate Issue': 28, 'Out of Date': 31, "Won't Fix": 12, 'Partially Completed': 1, 'Cannot Reproduce Bug': 7, 'Incomplete Description': 1}
+Statuses: {'Pull Request Sent': 13, 'Resolved': 459, 'Closed': 81, 'Open': 145, 'Coding In Progress': 4, 'Reopened': 6}
+
+Average Lead Time (all PBIs): 82.1 days
+Average Lead Time (Component  Upgrade): 16.2 days
+Average Lead Time (Bug): 72.7 days
+Average Lead Time (Task): 198.0 days
+Average Lead Time (Feature Request): 99.2 days
+Average Lead Time (Enhancement): 30.7 days
+Average Lead Time (Documentation): 0.0 days
+Average Lead Time (Library Upgrade): 24.5 days
+Average Lead Time (Clarification): 35.0 days

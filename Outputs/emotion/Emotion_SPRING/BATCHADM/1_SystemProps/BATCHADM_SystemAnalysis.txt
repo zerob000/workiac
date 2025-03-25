@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2009-07-08 09:42:00 End date: 2013-12-15 11:10:00
+System: {'BATCHADM': 175}
+Types: {'New Feature': 40, 'Task': 31, 'Refactoring': 10, 'Bug': 60, 'Improvement': 29, 'Defect': 4, 'Support': 1}
+Resolutions: {'Fixed': 30, 'Complete': 75, '': 48, "Won't Fix": 8, 'Duplicate': 5, 'Invalid': 7, 'Cannot Reproduce': 2}
+Statuses: {'Resolved': 126, 'Open': 47, 'Closed': 1, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 35.0 days
+Average Lead Time (New Feature): 28.2 days
+Average Lead Time (Task): 57.3 days
+Average Lead Time (Refactoring): 5.3 days
+Average Lead Time (Improvement): 31.1 days
+Average Lead Time (Bug): 30.7 days
+Average Lead Time (Support): 107.0 days
+Average Lead Time (Defect): 13.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-06 11:10:00 End date: 2013-12-15 11:10:00
+System: {'BATCHADM': 5}
+Types: {'New Feature': 1, 'Bug': 3, 'Improvement': 1}
+Resolutions: {'': 4, 'Complete': 1}
+Statuses: {'Open': 4, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 6.0 days
+Average Lead Time (Improvement): 6.0 days

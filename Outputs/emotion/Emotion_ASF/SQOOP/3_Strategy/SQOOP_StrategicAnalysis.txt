@@ -1,0 +1,73 @@
+
+System Name: SQOOP
+System Duration (Captured): 874 days
+
+Calculated Final System Size: 181 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 181 PBIs
+
+Model Final System Size: 173 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 173 PBIs
+
+% Error, Final backlog, model vs actual: 4.0%
+Error, Final backlog, model vs actual: -8 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 161 PBIs
+Total Unplanned Arrivals: 656 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 60 PBIs
+Total Net Arrivals: 757 PBIs
+Total Services: 576 PBIs
+
+Rates:
+Planned Arrival Rate: 0.203 PBIs/day
+Unplanned Arrival Rate: 0.846 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.075 PBIs/day
+Net Arrival Rate: 0.974 PBIs/day
+Service Rate: 0.771 PBIs/day
+
+
+Metrics:
+Stability: 0.792
+Quality: 0.194
+Control: 0.929
+Inventory Days: 234.76 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 181 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 181 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 8 PBIs
+Unplanned Arrivals in this period: 49 PBIs
+Cancelled/Rejected/Won't Do  in this period: 2 PBIs
+System size change in this period: 19 PBIs
+Net Arrivals in this period: 55 PBIs
+Services in this period: 35 PBIs
+
+Rates:
+Planned Arrival Rate: 0.092 PBIs/day
+Unplanned Arrival Rate: 0.455 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.022 PBIs/day
+Net Arrival Rate: 0.527 PBIs/day
+Service Rate: 0.384 PBIs/day
+
+Metrics:
+Stability: 0.731
+Quality: 0.168
+Control: 0.96
+Inventory Days: 471.354 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

@@ -1,0 +1,73 @@
+
+System Name: TOMEE
+System Duration (Captured): 2327 days
+
+Calculated Final System Size: 98 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 98 PBIs
+
+Model Final System Size: 0 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 0 PBIs
+
+% Error, Final backlog, model vs actual: 100.0%
+Error, Final backlog, model vs actual: -98 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 236 PBIs
+Total Unplanned Arrivals: 672 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 29 PBIs
+Total Net Arrivals: 879 PBIs
+Total Services: 781 PBIs
+
+Rates:
+Planned Arrival Rate: 0.232 PBIs/day
+Unplanned Arrival Rate: 0.739 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.035 PBIs/day
+Net Arrival Rate: 0.936 PBIs/day
+Service Rate: 1.181 PBIs/day
+
+
+Metrics:
+Stability: 1.262
+Quality: 0.239
+Control: 0.964
+Inventory Days: 82.981 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 98 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 98 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 12 PBIs
+Unplanned Arrivals in this period: 57 PBIs
+Cancelled/Rejected/Won't Do  in this period: 7 PBIs
+System size change in this period: -5 PBIs
+Net Arrivals in this period: 62 PBIs
+Services in this period: 66 PBIs
+
+Rates:
+Planned Arrival Rate: 0.133 PBIs/day
+Unplanned Arrival Rate: 0.573 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.071 PBIs/day
+Net Arrival Rate: 0.65 PBIs/day
+Service Rate: 0.654 PBIs/day
+
+Metrics:
+Stability: 1.03
+Quality: 0.188
+Control: 0.899
+Inventory Days: 149.847 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

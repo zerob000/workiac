@@ -1,0 +1,73 @@
+
+System Name: DATACOUCH
+System Duration (Captured): 195 days
+
+Calculated Final System Size: 15 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 15 PBIs
+
+Model Final System Size: 14 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 14 PBIs
+
+% Error, Final backlog, model vs actual: 7.0%
+Error, Final backlog, model vs actual: -1 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 31 PBIs
+Total Unplanned Arrivals: 27 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 5 PBIs
+Total Net Arrivals: 53 PBIs
+Total Services: 38 PBIs
+
+Rates:
+Planned Arrival Rate: 0.133 PBIs/day
+Unplanned Arrival Rate: 0.148 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.021 PBIs/day
+Net Arrival Rate: 0.26 PBIs/day
+Service Rate: 0.177 PBIs/day
+
+
+Metrics:
+Stability: 0.681
+Quality: 0.473
+Control: 0.925
+Inventory Days: 84.746 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 92 days
+
+Calculated Final System Size: 15 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 15 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 8 PBIs
+Unplanned Arrivals in this period: 22 PBIs
+Cancelled/Rejected/Won't Do  in this period: 3 PBIs
+System size change in this period: 10 PBIs
+Net Arrivals in this period: 27 PBIs
+Services in this period: 18 PBIs
+
+Rates:
+Planned Arrival Rate: 0.102 PBIs/day
+Unplanned Arrival Rate: 0.222 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.036 PBIs/day
+Net Arrival Rate: 0.297 PBIs/day
+Service Rate: 0.234 PBIs/day
+
+Metrics:
+Stability: 0.812
+Quality: 0.315
+Control: 0.889
+Inventory Days: 64.103 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

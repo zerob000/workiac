@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 2006-01-25 21:45:00 End date: 2013-12-14 05:16:00
+System: {'SOLR': 5403}
+Types: {'Improvement': 1828, 'Bug': 2584, 'New Feature': 698, 'Task': 153, 'Test': 70, 'Wish': 70}
+Resolutions: {'Duplicate': 233, 'Fixed': 2920, '': 1578, 'Invalid': 182, "Won't Fix": 238, 'Not A Problem': 150, 'Done': 1, 'Implemented': 31, 'Cannot Reproduce': 53, 'Unresolved': 2, 'Later': 4, 'Incomplete': 11}
+Statuses: {'Closed': 2997, 'Open': 1495, 'Resolved': 828, 'Reopened': 74, 'In Progress': 9}
+
+Average Lead Time (all PBIs): 158.1 days
+Average Lead Time (Improvement): 193.6 days
+Average Lead Time (Bug): 95.1 days
+Average Lead Time (Task): 110.1 days
+Average Lead Time (New Feature): 324.1 days
+Average Lead Time (Test): 56.5 days
+Average Lead Time (Wish): 443.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-05 05:16:00 End date: 2013-12-14 05:16:00
+System: {'SOLR': 387}
+Types: {'Bug': 205, 'Test': 15, 'New Feature': 42, 'Improvement': 115, 'Task': 6, 'Wish': 4}
+Resolutions: {'Fixed': 173, '': 152, 'Invalid': 11, 'Duplicate': 18, 'Not A Problem': 12, 'Done': 1, 'Implemented': 6, "Won't Fix": 7, 'Cannot Reproduce': 6, 'Incomplete': 1}
+Statuses: {'Resolved': 197, 'Open': 150, 'Closed': 38, 'Reopened': 1, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 116.3 days
+Average Lead Time (Bug): 90.0 days
+Average Lead Time (Test): 6.9 days
+Average Lead Time (Improvement): 158.1 days
+Average Lead Time (Task): 15.0 days
+Average Lead Time (New Feature): 245.3 days

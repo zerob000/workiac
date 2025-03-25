@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2011-03-01 00:22:00 End date: 2013-09-17 20:08:00
+System: {'GTNMGMT': 59}
+Types: {'Bug': 41, 'Enhancement': 3, 'Feature Request': 15}
+Resolutions: {'Duplicate Issue': 3, 'Done': 40, '': 9, 'Cannot Reproduce Bug': 2, 'Out of Date': 1, "Won't Fix": 2, 'Deferred': 2}
+Statuses: {'Resolved': 33, 'Open': 7, 'Closed': 17, 'Coding In Progress': 2}
+
+Average Lead Time (all PBIs): 51.1 days
+Average Lead Time (Bug): 19.9 days
+Average Lead Time (Feature Request): 144.5 days
+Average Lead Time (Enhancement): 83.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-06-09 20:08:00 End date: 2013-09-17 20:08:00
+System: {'GTNMGMT': 2}
+Types: {'Bug': 2}
+Resolutions: {'Duplicate Issue': 1, 'Done': 1}
+Statuses: {'Resolved': 2}
+
+Average Lead Time (all PBIs): 5.5 days
+Average Lead Time (Bug): 5.5 days

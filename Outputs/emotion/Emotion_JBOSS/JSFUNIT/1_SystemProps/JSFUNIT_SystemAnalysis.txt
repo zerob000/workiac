@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2007-05-15 07:27:00 End date: 2013-03-06 03:45:00
+System: {'JSFUNIT': 263}
+Types: {'Task': 66, 'Feature Request': 80, 'Bug': 110, 'Patch': 1, 'Enhancement': 5, 'Quality Risk': 1}
+Resolutions: {'Done': 170, '': 45, 'Out of Date': 13, 'Duplicate Issue': 1, 'Cannot Reproduce Bug': 5, 'Deferred': 11, "Won't Fix": 15, 'Rejected': 3}
+Statuses: {'Resolved': 189, 'Closed': 29, 'Open': 42, 'Reopened': 3}
+
+Average Lead Time (all PBIs): 104.2 days
+Average Lead Time (Task): 87.0 days
+Average Lead Time (Feature Request): 163.9 days
+Average Lead Time (Bug): 67.7 days
+Average Lead Time (Patch): 0.0 days
+Average Lead Time (Enhancement): 244.0 days
+Average Lead Time (Quality Risk): 1.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2012-11-26 03:45:00 End date: 2013-03-06 03:45:00
+System: {'JSFUNIT': 1}
+Types: {'Feature Request': 1}
+Resolutions: {'Out of Date': 1}
+Statuses: {'Resolved': 1}
+
+Average Lead Time (all PBIs): 459.0 days
+Average Lead Time (Feature Request): 459.0 days

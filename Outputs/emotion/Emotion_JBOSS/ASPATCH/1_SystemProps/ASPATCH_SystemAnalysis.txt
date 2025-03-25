@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2006-08-31 09:47:00 End date: 2012-08-04 13:13:00
+System: {'ASPATCH': 266}
+Types: {'Task': 92, 'Bug': 57, 'Patch': 3, 'Support Patch': 97, 'Release': 13, 'Feature Request': 4}
+Resolutions: {'Done': 204, 'Rejected': 17, "Won't Fix": 26, '': 3, 'Out of Date': 1, 'Duplicate Issue': 14, 'Incomplete Description': 1}
+Statuses: {'Resolved': 182, 'Closed': 81, 'Open': 1, 'Reopened': 1, 'Pending Upload to Patch Repository': 1}
+
+Average Lead Time (all PBIs): 66.1 days
+Average Lead Time (Task): 19.0 days
+Average Lead Time (Bug): 200.8 days
+Average Lead Time (Patch): 7.0 days
+Average Lead Time (Support Patch): 35.6 days
+Average Lead Time (Release): 17.2 days
+Average Lead Time (Feature Request): 243.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2012-04-26 13:13:00 End date: 2012-08-04 13:13:00
+System: {'ASPATCH': 1}
+Types: {'Support Patch': 1}
+Resolutions: {'Done': 1}
+Statuses: {'Resolved': 1}
+
+Average Lead Time (all PBIs): 2089.0 days
+Average Lead Time (Support Patch): 2089.0 days

@@ -1,0 +1,32 @@
+All PBIS - Unfiltered 
+Start date: 2009-09-04 00:37:00 End date: 2013-12-22 01:31:00
+System: {'GTNPORTAL': 2991}
+Types: {'Bug': 1885, 'Task': 550, 'Feature Request': 348, 'Enhancement': 185, 'Component  Upgrade': 16, 'Quality Risk': 4, 'Patch': 2, 'Release': 1}
+Resolutions: {'Done': 2238, 'Out of Date': 202, "Won't Fix": 66, '': 222, 'Rejected': 52, 'Cannot Reproduce Bug': 125, 'Duplicate Issue': 71, 'Partially Completed': 8, 'Deferred': 3, 'Incomplete Description': 4}
+Statuses: {'Resolved': 1902, 'Closed': 867, 'Open': 187, 'Pull Request Sent': 25, 'Coding In Progress': 4, 'Reopened': 6}
+
+Average Lead Time (all PBIs): 87.3 days
+Average Lead Time (Bug): 77.0 days
+Average Lead Time (Task): 75.9 days
+Average Lead Time (Feature Request): 202.3 days
+Average Lead Time (Enhancement): 26.8 days
+Average Lead Time (Component  Upgrade): 12.3 days
+Average Lead Time (Quality Risk): 35.0 days
+Average Lead Time (Patch): 760.5 days
+Average Lead Time (Release): 125.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-13 01:31:00 End date: 2013-12-22 01:31:00
+System: {'GTNPORTAL': 134}
+Types: {'Bug': 89, 'Task': 24, 'Enhancement': 9, 'Feature Request': 11, 'Component  Upgrade': 1}
+Resolutions: {'Done': 88, '': 32, 'Out of Date': 1, "Won't Fix": 5, 'Cannot Reproduce Bug': 7, 'Duplicate Issue': 1}
+Statuses: {'Resolved': 100, 'Open': 15, 'Pull Request Sent': 12, 'Coding In Progress': 4, 'Reopened': 1, 'Closed': 2}
+
+Average Lead Time (all PBIs): 129.3 days
+Average Lead Time (Bug): 147.8 days
+Average Lead Time (Task): 53.0 days
+Average Lead Time (Feature Request): 66.7 days
+Average Lead Time (Enhancement): 236.6 days
+Average Lead Time (Component  Upgrade): 0.0 days

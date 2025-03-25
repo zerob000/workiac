@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2009-08-25 20:49:00 End date: 2013-07-22 20:49:00
+System: {'GTNWCI': 49}
+Types: {'Bug': 13, 'Task': 20, 'Feature Request': 11, 'Enhancement': 5}
+Resolutions: {'Done': 34, '': 3, 'Out of Date': 10, 'Duplicate Issue': 1, "Won't Fix": 1}
+Statuses: {'Closed': 45, 'Open': 3, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 163.6 days
+Average Lead Time (Bug): 235.8 days
+Average Lead Time (Task): 163.7 days
+Average Lead Time (Enhancement): 54.0 days
+Average Lead Time (Feature Request): 128.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-04-13 20:49:00 End date: 2013-07-22 20:49:00
+System: {'GTNWCI': 4}
+Types: {'Feature Request': 2, 'Bug': 1, 'Enhancement': 1}
+Resolutions: {'': 3, 'Done': 1}
+Statuses: {'Open': 3, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 1.0 days
+Average Lead Time (Enhancement): 1.0 days

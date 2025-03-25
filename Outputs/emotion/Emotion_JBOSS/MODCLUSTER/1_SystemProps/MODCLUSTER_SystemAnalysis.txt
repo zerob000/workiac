@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2008-06-24 02:24:00 End date: 2013-12-17 15:32:00
+System: {'MODCLUSTER': 354}
+Types: {'Bug': 215, 'Task': 13, 'Feature Request': 112, 'Enhancement': 13, 'Support Patch': 1}
+Resolutions: {'': 63, 'Done': 239, 'Duplicate Issue': 12, 'Rejected': 21, 'Out of Date': 4, 'Migrated to another ITS': 1, 'Cannot Reproduce Bug': 8, "Won't Fix": 3, 'Incomplete Description': 1, 'Partially Completed': 2}
+Statuses: {'Open': 59, 'Resolved': 220, 'Reopened': 4, 'Closed': 71}
+
+Average Lead Time (all PBIs): 87.1 days
+Average Lead Time (Task): 87.0 days
+Average Lead Time (Bug): 72.8 days
+Average Lead Time (Feature Request): 120.6 days
+Average Lead Time (Enhancement): 63.1 days
+Average Lead Time (Support Patch): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-08 15:32:00 End date: 2013-12-17 15:32:00
+System: {'MODCLUSTER': 23}
+Types: {'Task': 5, 'Bug': 13, 'Feature Request': 4, 'Enhancement': 1}
+Resolutions: {'Done': 7, '': 14, 'Rejected': 1, 'Cannot Reproduce Bug': 1}
+Statuses: {'Resolved': 7, 'Open': 14, 'Closed': 2}
+
+Average Lead Time (all PBIs): 189.0 days
+Average Lead Time (Task): 28.3 days
+Average Lead Time (Bug): 277.6 days
+Average Lead Time (Feature Request): 228.0 days

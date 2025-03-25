@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2011-03-20 08:24:00 End date: 2012-01-10 03:52:00
+System: {'SEAMCRON': 43}
+Types: {'Feature Request': 12, 'Bug': 10, 'Enhancement': 6, 'Task': 15}
+Resolutions: {'': 23, 'Done': 19, 'Out of Date': 1}
+Statuses: {'Pull Request Sent': 1, 'Resolved': 19, 'Open': 20, 'Closed': 1, 'Reopened': 2}
+
+Average Lead Time (all PBIs): 30.8 days
+Average Lead Time (Bug): 30.6 days
+Average Lead Time (Enhancement): 1.0 days
+Average Lead Time (Task): 43.1 days
+Average Lead Time (Feature Request): 10.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2011-10-02 03:52:00 End date: 2012-01-10 03:52:00
+System: {'SEAMCRON': 6}
+Types: {'Bug': 3, 'Enhancement': 1, 'Task': 2}
+Resolutions: {'': 2, 'Done': 3, 'Out of Date': 1}
+Statuses: {'Open': 2, 'Resolved': 3, 'Closed': 1}
+
+Average Lead Time (all PBIs): 120.8 days
+Average Lead Time (Enhancement): 0.0 days
+Average Lead Time (Task): 137.0 days
+Average Lead Time (Bug): 209.0 days

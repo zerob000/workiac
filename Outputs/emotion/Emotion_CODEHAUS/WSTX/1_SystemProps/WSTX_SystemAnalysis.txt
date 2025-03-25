@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2004-10-30 13:27:00 End date: 2013-10-17 05:42:00
+System: {'WSTX': 290}
+Types: {'Improvement': 65, 'Bug': 175, 'New Feature': 36, 'Wish': 7, 'Task': 6, 'Test': 1}
+Resolutions: {'': 45, 'Fixed': 214, 'UNRESOLVED': 1, 'Not A Bug': 11, 'Duplicate': 3, 'Cannot Reproduce': 6, "Won't Fix": 9, 'Incomplete': 1}
+Statuses: {'Open': 24, 'Resolved': 48, 'Reopened': 2, 'Closed': 197, 'In Progress': 19}
+
+Average Lead Time (all PBIs): 90.5 days
+Average Lead Time (Bug): 78.8 days
+Average Lead Time (Improvement): 118.2 days
+Average Lead Time (New Feature): 101.9 days
+Average Lead Time (Task): 64.0 days
+Average Lead Time (Test): 49.0 days
+Average Lead Time (Wish): 182.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-07-09 05:42:00 End date: 2013-10-17 05:42:00
+System: {'WSTX': 1}
+Types: {'Improvement': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

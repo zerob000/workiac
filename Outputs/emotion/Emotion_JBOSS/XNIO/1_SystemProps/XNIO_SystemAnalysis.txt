@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2008-06-05 01:48:00 End date: 2013-11-22 01:33:00
+System: {'XNIO': 207}
+Types: {'Bug': 109, 'Feature Request': 40, 'Enhancement': 19, 'Task': 37, 'Quality Risk': 1, 'Patch': 1}
+Resolutions: {'': 21, 'Done': 160, 'Duplicate Issue': 3, 'Rejected': 11, 'Cannot Reproduce Bug': 1, "Won't Fix": 7, 'Out of Date': 4}
+Statuses: {'Open': 16, 'Resolved': 95, 'Coding In Progress': 4, 'Reopened': 1, 'Closed': 91}
+
+Average Lead Time (all PBIs): 71.4 days
+Average Lead Time (Feature Request): 116.0 days
+Average Lead Time (Enhancement): 3.3 days
+Average Lead Time (Bug): 26.1 days
+Average Lead Time (Task): 160.8 days
+Average Lead Time (Quality Risk): 1.0 days
+Average Lead Time (Patch): 1249.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-08-14 01:33:00 End date: 2013-11-22 01:33:00
+System: {'XNIO': 18}
+Types: {'Bug': 9, 'Task': 3, 'Feature Request': 6}
+Resolutions: {'Done': 8, '': 7, 'Duplicate Issue': 1, "Won't Fix": 2}
+Statuses: {'Resolved': 10, 'Open': 3, 'Coding In Progress': 3, 'Reopened': 1, 'Closed': 1}
+
+Average Lead Time (all PBIs): 247.9 days
+Average Lead Time (Bug): 86.4 days
+Average Lead Time (Task): 762.3 days
+Average Lead Time (Feature Request): 2.7 days

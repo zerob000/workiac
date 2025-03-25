@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2003-12-06 20:25:00 End date: 2007-05-17 23:16:00
+System: {'MPCHANGELOG': 54}
+Types: {'Improvement': 11, 'Bug': 34, 'Wish': 1, 'New Feature': 8}
+Resolutions: {'Duplicate': 5, 'Fixed': 29, 'Cannot Reproduce': 2, '': 11, "Won't Fix": 5, 'Incomplete': 2}
+Statuses: {'Closed': 43, 'Open': 11}
+
+Average Lead Time (all PBIs): 100.3 days
+Average Lead Time (Improvement): 62.6 days
+Average Lead Time (Bug): 95.5 days
+Average Lead Time (New Feature): 173.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2007-02-06 23:16:00 End date: 2007-05-17 23:16:00
+System: {'MPCHANGELOG': 2}
+Types: {'Bug': 2}
+Resolutions: {'Cannot Reproduce': 1, '': 1}
+Statuses: {'Closed': 1, 'Open': 1}
+
+Average Lead Time (all PBIs): 3.0 days
+Average Lead Time (Bug): 3.0 days

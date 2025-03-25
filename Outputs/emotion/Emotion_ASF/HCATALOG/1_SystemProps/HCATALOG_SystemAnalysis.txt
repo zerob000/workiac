@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2011-03-29 08:55:00 End date: 2013-10-24 12:14:00
+System: {'HCATALOG': 593}
+Types: {'Improvement': 136, 'Test': 7, 'New Feature': 43, 'Bug': 379, 'Task': 24, 'Documentation': 4}
+Resolutions: {"Won't Fix": 26, 'Fixed': 374, '': 142, 'Duplicate': 30, 'Invalid': 8, 'Cannot Reproduce': 3, 'Not A Problem': 10}
+Statuses: {'Resolved': 127, 'Closed': 324, 'Open': 137, 'Patch Available': 2, 'Reopened': 3}
+
+Average Lead Time (all PBIs): 39.6 days
+Average Lead Time (Improvement): 61.4 days
+Average Lead Time (Test): 22.0 days
+Average Lead Time (New Feature): 72.4 days
+Average Lead Time (Bug): 29.9 days
+Average Lead Time (Task): 26.8 days
+Average Lead Time (Documentation): 24.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-07-16 12:14:00 End date: 2013-10-24 12:14:00
+System: {'HCATALOG': 5}
+Types: {'Bug': 4, 'Improvement': 1}
+Resolutions: {'Fixed': 4, 'Duplicate': 1}
+Statuses: {'Resolved': 5}
+
+Average Lead Time (all PBIs): 407.2 days
+Average Lead Time (Bug): 409.0 days
+Average Lead Time (Improvement): 400.0 days

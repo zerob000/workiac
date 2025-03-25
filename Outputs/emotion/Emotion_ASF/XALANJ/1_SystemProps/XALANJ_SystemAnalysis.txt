@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2001-02-15 03:48:00 End date: 2013-09-12 22:05:00
+System: {'XALANJ': 2571}
+Types: {'Bug': 2392, 'Wish': 6, 'Task': 21, 'Improvement': 110, 'New Feature': 39, 'Test': 3}
+Resolutions: {'Fixed': 1207, 'Duplicate': 240, '': 637, 'Invalid': 46, 'Not A Problem': 1, "Won't Fix": 62, 'Cannot Reproduce': 98, 'Later': 1, 'Incomplete': 279}
+Statuses: {'Closed': 310, 'Resolved': 1627, 'Open': 610, 'Reopened': 23, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 762.0 days
+Average Lead Time (Bug): 778.4 days
+Average Lead Time (Improvement): 217.6 days
+Average Lead Time (Task): 101.6 days
+Average Lead Time (Wish): 159.0 days
+Average Lead Time (New Feature): 365.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-06-04 22:05:00 End date: 2013-09-12 22:05:00
+System: {'XALANJ': 5}
+Types: {'Bug': 4, 'Wish': 1}
+Resolutions: {'': 4, 'Invalid': 1}
+Statuses: {'Open': 4, 'Closed': 1}
+
+Average Lead Time (all PBIs): 333.0 days
+Average Lead Time (Bug): 333.0 days

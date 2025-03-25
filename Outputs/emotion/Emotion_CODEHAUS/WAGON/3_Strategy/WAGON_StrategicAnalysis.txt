@@ -1,0 +1,73 @@
+
+System Name: WAGON
+System Duration (Captured): 3526 days
+
+Calculated Final System Size: 81 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 81 PBIs
+
+Model Final System Size: 75 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 75 PBIs
+
+% Error, Final backlog, model vs actual: 7.0%
+Error, Final backlog, model vs actual: -6 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 34 PBIs
+Total Unplanned Arrivals: 335 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 84 PBIs
+Total Net Arrivals: 285 PBIs
+Total Services: 204 PBIs
+
+Rates:
+Planned Arrival Rate: 0.01 PBIs/day
+Unplanned Arrival Rate: 0.105 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.034 PBIs/day
+Net Arrival Rate: 0.081 PBIs/day
+Service Rate: 0.066 PBIs/day
+
+
+Metrics:
+Stability: 0.815
+Quality: 0.087
+Control: 0.704
+Inventory Days: 1227.273 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 95 days
+
+Calculated Final System Size: 81 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 81 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 0 PBIs
+Unplanned Arrivals in this period: 4 PBIs
+Cancelled/Rejected/Won't Do  in this period: 0 PBIs
+System size change in this period: 3 PBIs
+Net Arrivals in this period: 4 PBIs
+Services in this period: 3 PBIs
+
+Rates:
+Planned Arrival Rate: NaN PBIs/day
+Unplanned Arrival Rate: 0.039 PBIs/day
+Cancelled/Rejected/Won't Do Rate: NaN PBIs/day
+Net Arrival Rate: 0.052 PBIs/day
+Service Rate: 0.051 PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

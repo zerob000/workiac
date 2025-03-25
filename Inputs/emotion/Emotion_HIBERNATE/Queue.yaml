@@ -1,0 +1,21 @@
+---
+# Add a queue of system names and data files for the manager to run
+System_Names:
+    ## "CSV name": "Yaml name"
+    "HV": "Emotion.yaml"
+    "HSEARCH": "Emotion.yaml"
+    "HHH": "Emotion.yaml"
+    "HBX": "Emotion.yaml"
+    "HB": "Emotion.yaml"
+    "EJB": "Emotion.yaml"
+    "BVAL": "Emotion.yaml"
+    "ANN": "Emotion.yaml"
+    "WEBSITE": "Emotion.yaml"
+    "METAGEN": "Emotion.yaml"
+    "OGM": "Emotion.yaml"
+    "JPA": "Emotion.yaml"
+    "HVAL": "Emotion.yaml"
+    "HSHARDS": "Emotion.yaml"
+    "HCANN": "Emotion.yaml"
+    "HQLPARSER": "Emotion.yaml"
+    "BVTCK": "Emotion.yaml"

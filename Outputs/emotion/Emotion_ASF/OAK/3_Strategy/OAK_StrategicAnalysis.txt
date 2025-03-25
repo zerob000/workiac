@@ -1,0 +1,73 @@
+
+System Name: OAK
+System Duration (Captured): 647 days
+
+Calculated Final System Size: 146 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 146 PBIs
+
+Model Final System Size: 180 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 180 PBIs
+
+% Error, Final backlog, model vs actual: 23.0%
+Error, Final backlog, model vs actual: 34 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 140 PBIs
+Total Unplanned Arrivals: 954 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 101 PBIs
+Total Net Arrivals: 993 PBIs
+Total Services: 847 PBIs
+
+Rates:
+Planned Arrival Rate: 0.178 PBIs/day
+Unplanned Arrival Rate: 1.468 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.185 PBIs/day
+Net Arrival Rate: 1.461 PBIs/day
+Service Rate: 1.275 PBIs/day
+
+
+Metrics:
+Stability: 0.873
+Quality: 0.108
+Control: 0.888
+Inventory Days: 114.51 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 146 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 146 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 22 PBIs
+Unplanned Arrivals in this period: 232 PBIs
+Cancelled/Rejected/Won't Do  in this period: 45 PBIs
+System size change in this period: -27 PBIs
+Net Arrivals in this period: 209 PBIs
+Services in this period: 235 PBIs
+
+Rates:
+Planned Arrival Rate: 0.344 PBIs/day
+Unplanned Arrival Rate: 2.342 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.532 PBIs/day
+Net Arrival Rate: 2.065 PBIs/day
+Service Rate: 2.379 PBIs/day
+
+Metrics:
+Stability: 1.104
+Quality: 0.128
+Control: 0.802
+Inventory Days: 61.37 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

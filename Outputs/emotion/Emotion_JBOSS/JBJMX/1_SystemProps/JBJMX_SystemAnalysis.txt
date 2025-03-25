@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2002-02-12 20:15:00 End date: 2013-07-08 20:56:00
+System: {'JBJMX': 90}
+Types: {'Task': 1, 'Bug': 83, 'Feature Request': 6}
+Resolutions: {'Rejected': 21, 'Out of Date': 8, '': 4, 'Done': 48, 'Duplicate Issue': 5, "Won't Fix": 2, 'Incomplete Description': 1, 'Deferred': 1}
+Statuses: {'Closed': 83, 'Open': 3, 'Resolved': 3, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 447.6 days
+Average Lead Time (Task): 0.0 days
+Average Lead Time (Bug): 451.7 days
+Average Lead Time (Feature Request): 472.4 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-03-30 20:56:00 End date: 2013-07-08 20:56:00
+System: {'JBJMX': 1}
+Types: {'Bug': 1}
+Resolutions: {'Rejected': 1}
+Statuses: {'Resolved': 1}
+
+Average Lead Time (all PBIs): 0.0 days
+Average Lead Time (Bug): 0.0 days

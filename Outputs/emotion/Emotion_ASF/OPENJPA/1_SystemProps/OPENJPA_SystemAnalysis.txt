@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2006-05-09 16:37:00 End date: 2013-12-13 01:42:00
+System: {'OPENJPA': 2236}
+Types: {'New Feature': 152, 'Bug': 1567, 'Task': 30, 'Test': 47, 'Improvement': 393, 'Question': 29, 'Dependency upgrade': 2, 'Documentation': 2, 'Wish': 14}
+Resolutions: {'Fixed': 1379, '': 627, 'Not A Problem': 45, 'Duplicate': 50, 'Invalid': 58, 'Cannot Reproduce': 34, "Won't Fix": 39, 'Unresolved': 1, 'Incomplete': 2, 'Later': 1}
+Statuses: {'Closed': 1483, 'Open': 610, 'Resolved': 126, 'In Progress': 6, 'Reopened': 11}
+
+Average Lead Time (all PBIs): 126.4 days
+Average Lead Time (New Feature): 158.9 days
+Average Lead Time (Bug): 119.1 days
+Average Lead Time (Task): 155.5 days
+Average Lead Time (Test): 114.9 days
+Average Lead Time (Improvement): 138.0 days
+Average Lead Time (Question): 180.0 days
+Average Lead Time (Documentation): 9.0 days
+Average Lead Time (Wish): 480.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-04 01:42:00 End date: 2013-12-13 01:42:00
+System: {'OPENJPA': 65}
+Types: {'Bug': 49, 'Improvement': 10, 'New Feature': 3, 'Question': 2, 'Dependency upgrade': 1}
+Resolutions: {'Fixed': 29, '': 28, 'Not A Problem': 4, 'Duplicate': 2, 'Invalid': 1, "Won't Fix": 1}
+Statuses: {'Resolved': 28, 'Open': 27, 'Closed': 9, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 347.1 days
+Average Lead Time (Bug): 350.2 days
+Average Lead Time (Improvement): 386.0 days
+Average Lead Time (Question): 0.0 days
+Average Lead Time (New Feature): 371.0 days

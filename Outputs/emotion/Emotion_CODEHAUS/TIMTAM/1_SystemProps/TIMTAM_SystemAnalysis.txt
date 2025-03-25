@@ -1,0 +1,22 @@
+All PBIS - Unfiltered 
+Start date: 2004-03-21 21:37:00 End date: 2006-03-20 16:16:00
+System: {'TIMTAM': 41}
+Types: {'Improvement': 12, 'Bug': 15, 'New Feature': 14}
+Resolutions: {'': 31, "Won't Fix": 1, 'Fixed': 8, 'Duplicate': 1}
+Statuses: {'Open': 31, 'Closed': 10}
+
+Average Lead Time (all PBIs): 34.1 days
+Average Lead Time (Bug): 23.2 days
+Average Lead Time (New Feature): 52.0 days
+Average Lead Time (Improvement): 40.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2005-12-10 16:16:00 End date: 2006-03-20 16:16:00
+System: {'TIMTAM': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

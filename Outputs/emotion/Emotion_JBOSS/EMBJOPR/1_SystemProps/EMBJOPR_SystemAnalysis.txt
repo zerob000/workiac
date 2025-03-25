@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2007-07-19 04:23:00 End date: 2012-07-21 06:07:00
+System: {'EMBJOPR': 292}
+Types: {'Bug': 225, 'Release': 3, 'Feature Request': 38, 'Task': 25, 'Enhancement': 1}
+Resolutions: {'Out of Date': 8, 'Cannot Reproduce Bug': 4, 'Done': 137, '': 113, 'Rejected': 6, "Won't Fix": 4, 'Duplicate Issue': 19, 'Partially Completed': 1}
+Statuses: {'Closed': 136, 'Resolved': 43, 'Open': 105, 'Coding In Progress': 4, 'Reopened': 4}
+
+Average Lead Time (all PBIs): 113.8 days
+Average Lead Time (Bug): 114.8 days
+Average Lead Time (Release): 31.0 days
+Average Lead Time (Task): 100.9 days
+Average Lead Time (Feature Request): 147.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2012-04-12 06:07:00 End date: 2012-07-21 06:07:00
+System: {'EMBJOPR': 14}
+Types: {'Bug': 14}
+Resolutions: {'Out of Date': 1, 'Done': 9, 'Cannot Reproduce Bug': 1, '': 1, 'Rejected': 1, "Won't Fix": 1}
+Statuses: {'Closed': 6, 'Resolved': 7, 'Open': 1}
+
+Average Lead Time (all PBIs): 224.2 days
+Average Lead Time (Bug): 224.2 days

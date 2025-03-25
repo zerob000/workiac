@@ -1,0 +1,73 @@
+
+System Name: AGDROID
+System Duration (Captured): 413 days
+
+Calculated Final System Size: 36 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 36 PBIs
+
+Model Final System Size: 26 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 26 PBIs
+
+% Error, Final backlog, model vs actual: 28.0%
+Error, Final backlog, model vs actual: -10 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 105 PBIs
+Total Unplanned Arrivals: 27 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 16 PBIs
+Total Net Arrivals: 116 PBIs
+Total Services: 80 PBIs
+
+Rates:
+Planned Arrival Rate: 0.373 PBIs/day
+Unplanned Arrival Rate: 0.088 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.06 PBIs/day
+Net Arrival Rate: 0.401 PBIs/day
+Service Rate: 0.378 PBIs/day
+
+
+Metrics:
+Stability: 0.943
+Quality: 0.809
+Control: 0.87
+Inventory Days: 95.238 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 36 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 36 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 22 PBIs
+Unplanned Arrivals in this period: 12 PBIs
+Cancelled/Rejected/Won't Do  in this period: 4 PBIs
+System size change in this period: 10 PBIs
+Net Arrivals in this period: 30 PBIs
+Services in this period: 19 PBIs
+
+Rates:
+Planned Arrival Rate: 0.273 PBIs/day
+Unplanned Arrival Rate: 0.116 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.05 PBIs/day
+Net Arrival Rate: 0.35 PBIs/day
+Service Rate: 0.222 PBIs/day
+
+Metrics:
+Stability: 0.655
+Quality: 0.702
+Control: 0.871
+Inventory Days: 162.162 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

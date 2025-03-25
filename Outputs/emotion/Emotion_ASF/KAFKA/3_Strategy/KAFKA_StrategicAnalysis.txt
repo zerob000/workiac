@@ -1,0 +1,73 @@
+
+System Name: KAFKA
+System Duration (Captured): 877 days
+
+Calculated Final System Size: 392 PBIs
+Minimum System Size: -48 PBIs
+Corrected Final System Size (prevent below 0 backlog): 440 PBIs
+
+Model Final System Size: 334 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 334 PBIs
+
+% Error, Final backlog, model vs actual: 24.0%
+Error, Final backlog, model vs actual: -10 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 135 PBIs
+Total Unplanned Arrivals: 966 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 96 PBIs
+Total Net Arrivals: 1005 PBIs
+Total Services: 661 PBIs
+
+Rates:
+Planned Arrival Rate: 0.151 PBIs/day
+Unplanned Arrival Rate: 1.039 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.119 PBIs/day
+Net Arrival Rate: 1.071 PBIs/day
+Service Rate: 0.723 PBIs/day
+
+
+Metrics:
+Stability: 0.675
+Quality: 0.127
+Control: 0.9
+Inventory Days: 542.185 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 392 PBIs
+Minimum System Size: -48 PBIs
+Corrected Final System Size (prevent below 0 backlog): 440 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 9 PBIs
+Unplanned Arrivals in this period: 133 PBIs
+Cancelled/Rejected/Won't Do  in this period: 14 PBIs
+System size change in this period: 51 PBIs
+Net Arrivals in this period: 128 PBIs
+Services in this period: 76 PBIs
+
+Rates:
+Planned Arrival Rate: 0.086 PBIs/day
+Unplanned Arrival Rate: 1.291 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.135 PBIs/day
+Net Arrival Rate: 1.248 PBIs/day
+Service Rate: 0.799 PBIs/day
+
+Metrics:
+Stability: 0.643
+Quality: 0.062
+Control: 0.902
+Inventory Days: 490.613 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

@@ -1,0 +1,73 @@
+
+System Name: FELIX
+System Duration (Captured): 3067 days
+
+Calculated Final System Size: 603 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 603 PBIs
+
+Model Final System Size: 609 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 609 PBIs
+
+% Error, Final backlog, model vs actual: 1.0%
+Error, Final backlog, model vs actual: 6 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 588 PBIs
+Total Unplanned Arrivals: 3594 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 374 PBIs
+Total Net Arrivals: 3808 PBIs
+Total Services: 3205 PBIs
+
+Rates:
+Planned Arrival Rate: 0.201 PBIs/day
+Unplanned Arrival Rate: 1.546 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.174 PBIs/day
+Net Arrival Rate: 1.573 PBIs/day
+Service Rate: 1.354 PBIs/day
+
+
+Metrics:
+Stability: 0.861
+Quality: 0.115
+Control: 0.9
+Inventory Days: 445.347 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 97 days
+
+Calculated Final System Size: 603 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 603 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 10 PBIs
+Unplanned Arrivals in this period: 112 PBIs
+Cancelled/Rejected/Won't Do  in this period: 9 PBIs
+System size change in this period: -4 PBIs
+Net Arrivals in this period: 113 PBIs
+Services in this period: 116 PBIs
+
+Rates:
+Planned Arrival Rate: 0.129 PBIs/day
+Unplanned Arrival Rate: 1.123 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.106 PBIs/day
+Net Arrival Rate: 1.118 PBIs/day
+Service Rate: 1.191 PBIs/day
+
+Metrics:
+Stability: 1.039
+Quality: 0.103
+Control: 0.915
+Inventory Days: 506.297 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

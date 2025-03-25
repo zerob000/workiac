@@ -1,0 +1,73 @@
+
+System Name: AMBARI
+System Duration (Captured): 817 days
+
+Calculated Final System Size: 240 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 240 PBIs
+
+Model Final System Size: 193 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 193 PBIs
+
+% Error, Final backlog, model vs actual: 20.0%
+Error, Final backlog, model vs actual: -47 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 647 PBIs
+Total Unplanned Arrivals: 2971 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 189 PBIs
+Total Net Arrivals: 3429 PBIs
+Total Services: 3189 PBIs
+
+Rates:
+Planned Arrival Rate: 0.928 PBIs/day
+Unplanned Arrival Rate: 4.005 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.252 PBIs/day
+Net Arrival Rate: 4.681 PBIs/day
+Service Rate: 4.566 PBIs/day
+
+
+Metrics:
+Stability: 0.975
+Quality: 0.188
+Control: 0.949
+Inventory Days: 52.562 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 100 days
+
+Calculated Final System Size: 240 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 240 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 315 PBIs
+Unplanned Arrivals in this period: 635 PBIs
+Cancelled/Rejected/Won't Do  in this period: 38 PBIs
+System size change in this period: 15 PBIs
+Net Arrivals in this period: 912 PBIs
+Services in this period: 898 PBIs
+
+Rates:
+Planned Arrival Rate: 2.864 PBIs/day
+Unplanned Arrival Rate: 6.128 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.352 PBIs/day
+Net Arrival Rate: 8.609 PBIs/day
+Service Rate: 8.456 PBIs/day
+
+Metrics:
+Stability: 0.979
+Quality: 0.319
+Control: 0.961
+Inventory Days: 28.382 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Start-up
+

@@ -1,0 +1,73 @@
+
+System Name: CAMEL
+System Duration (Captured): 2434 days
+
+Calculated Final System Size: 422 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 422 PBIs
+
+Model Final System Size: 373 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 373 PBIs
+
+% Error, Final backlog, model vs actual: 12.0%
+Error, Final backlog, model vs actual: -49 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 1755 PBIs
+Total Unplanned Arrivals: 4998 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 766 PBIs
+Total Net Arrivals: 5987 PBIs
+Total Services: 5565 PBIs
+
+Rates:
+Planned Arrival Rate: 0.787 PBIs/day
+Unplanned Arrival Rate: 2.25 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.376 PBIs/day
+Net Arrival Rate: 2.661 PBIs/day
+Service Rate: 2.524 PBIs/day
+
+
+Metrics:
+Stability: 0.949
+Quality: 0.259
+Control: 0.876
+Inventory Days: 167.195 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 100 days
+
+Calculated Final System Size: 422 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 422 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 66 PBIs
+Unplanned Arrivals in this period: 293 PBIs
+Cancelled/Rejected/Won't Do  in this period: 44 PBIs
+System size change in this period: 37 PBIs
+Net Arrivals in this period: 315 PBIs
+Services in this period: 279 PBIs
+
+Rates:
+Planned Arrival Rate: 0.716 PBIs/day
+Unplanned Arrival Rate: 2.855 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.457 PBIs/day
+Net Arrival Rate: 3.103 PBIs/day
+Service Rate: 2.844 PBIs/day
+
+Metrics:
+Stability: 0.913
+Quality: 0.201
+Control: 0.872
+Inventory Days: 148.383 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

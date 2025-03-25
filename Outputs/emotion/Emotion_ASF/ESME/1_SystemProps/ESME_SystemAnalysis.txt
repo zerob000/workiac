@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2008-12-09 20:19:00 End date: 2012-01-26 04:58:00
+System: {'ESME': 328}
+Types: {'New Feature': 53, 'Improvement': 94, 'Task': 39, 'Bug': 139, 'Test': 2, 'Wish': 1}
+Resolutions: {'Later': 6, 'Fixed': 230, '': 65, 'Invalid': 4, 'Incomplete': 1, 'Duplicate': 2, "Won't Fix": 6, 'Not A Problem': 4, 'Cannot Reproduce': 10}
+Statuses: {'Closed': 147, 'Resolved': 116, 'Open': 63, 'In Progress': 2}
+
+Average Lead Time (all PBIs): 79.6 days
+Average Lead Time (New Feature): 165.8 days
+Average Lead Time (Improvement): 88.0 days
+Average Lead Time (Task): 100.6 days
+Average Lead Time (Bug): 48.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2011-10-18 04:58:00 End date: 2012-01-26 04:58:00
+System: {'ESME': 6}
+Types: {'Task': 5, 'Improvement': 1}
+Resolutions: {'': 1, 'Fixed': 5}
+Statuses: {'Open': 1, 'Resolved': 4, 'Closed': 1}
+
+Average Lead Time (all PBIs): 10.0 days
+Average Lead Time (Task): 12.5 days
+Average Lead Time (Improvement): 0.0 days

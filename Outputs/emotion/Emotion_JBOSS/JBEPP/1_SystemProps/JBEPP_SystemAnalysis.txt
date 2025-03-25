@@ -1,0 +1,34 @@
+All PBIS - Unfiltered 
+Start date: 2008-11-03 23:45:00 End date: 2012-02-17 06:47:00
+System: {'JBEPP': 1076}
+Types: {'Task': 287, 'Bug': 631, 'Feature Request': 116, 'Enhancement': 32, 'Component  Upgrade': 2, 'Support Patch': 5, 'Patch': 1, 'Quality Risk': 1, 'Release': 1}
+Resolutions: {'Done': 780, 'Duplicate Issue': 20, 'Migrated to another ITS': 164, 'Rejected': 18, "Won't Fix": 34, 'Out of Date': 24, 'Cannot Reproduce Bug': 26, 'Partially Completed': 4, 'Deferred': 6}
+Statuses: {'Closed': 1071, 'Resolved': 5}
+
+Average Lead Time (all PBIs): 109.1 days
+Average Lead Time (Task): 107.8 days
+Average Lead Time (Bug): 98.3 days
+Average Lead Time (Feature Request): 186.1 days
+Average Lead Time (Enhancement): 44.2 days
+Average Lead Time (Component  Upgrade): 83.0 days
+Average Lead Time (Support Patch): 19.2 days
+Average Lead Time (Patch): 0.0 days
+Average Lead Time (Quality Risk): 411.0 days
+Average Lead Time (Release): 817.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2011-11-09 06:47:00 End date: 2012-02-17 06:47:00
+System: {'JBEPP': 347}
+Types: {'Enhancement': 23, 'Bug': 211, 'Task': 50, 'Feature Request': 61, 'Quality Risk': 1, 'Release': 1}
+Resolutions: {'Migrated to another ITS': 164, 'Rejected': 10, 'Done': 118, "Won't Fix": 21, 'Out of Date': 21, 'Duplicate Issue': 3, 'Cannot Reproduce Bug': 5, 'Partially Completed': 3, 'Deferred': 2}
+Statuses: {'Closed': 347}
+
+Average Lead Time (all PBIs): 257.2 days
+Average Lead Time (Enhancement): 48.4 days
+Average Lead Time (Bug): 226.6 days
+Average Lead Time (Task): 392.9 days
+Average Lead Time (Feature Request): 318.9 days
+Average Lead Time (Quality Risk): 411.0 days
+Average Lead Time (Release): 817.0 days

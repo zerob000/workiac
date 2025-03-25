@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 2007-10-11 06:29:00 End date: 2013-12-13 22:53:00
+System: {'PIG': 3440}
+Types: {'Task': 81, 'Bug': 2203, 'Improvement': 816, 'New Feature': 285, 'Test': 33, 'Wish': 22}
+Resolutions: {'Fixed': 2244, '': 709, 'Not A Problem': 46, 'Duplicate': 181, "Won't Fix": 151, 'Cannot Reproduce': 25, 'Invalid': 79, 'Implemented': 3, 'Incomplete': 2}
+Statuses: {'Closed': 2184, 'Open': 688, 'Resolved': 547, 'Patch Available': 10, 'Reopened': 8, 'In Progress': 3}
+
+Average Lead Time (all PBIs): 95.7 days
+Average Lead Time (Task): 73.1 days
+Average Lead Time (Bug): 79.6 days
+Average Lead Time (Improvement): 128.3 days
+Average Lead Time (New Feature): 145.6 days
+Average Lead Time (Test): 43.3 days
+Average Lead Time (Wish): 285.4 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-04 22:53:00 End date: 2013-12-13 22:53:00
+System: {'PIG': 178}
+Types: {'Task': 10, 'Improvement': 35, 'Bug': 122, 'New Feature': 9, 'Test': 1, 'Wish': 1}
+Resolutions: {'Fixed': 93, '': 64, 'Not A Problem': 2, 'Duplicate': 13, "Won't Fix": 4, 'Cannot Reproduce': 1, 'Invalid': 1}
+Statuses: {'Closed': 33, 'Open': 54, 'Resolved': 81, 'Patch Available': 8, 'Reopened': 2}
+
+Average Lead Time (all PBIs): 129.8 days
+Average Lead Time (Task): 58.5 days
+Average Lead Time (Improvement): 112.6 days
+Average Lead Time (Bug): 139.9 days
+Average Lead Time (New Feature): 114.0 days
+Average Lead Time (Wish): 284.0 days

@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2004-08-03 12:53:00 End date: 2013-03-29 20:38:00
+System: {'GEO': 177}
+Types: {'New Feature': 10, 'Improvement': 64, 'Bug': 53, 'Task': 42, 'Wish': 7, 'Test': 1}
+Resolutions: {'Fixed': 115, '': 44, "Won't Fix": 17, 'Not A Bug': 1}
+Statuses: {'Closed': 126, 'In Progress': 2, 'Open': 39, 'Resolved': 7, 'Reopened': 3}
+
+Average Lead Time (all PBIs): 326.9 days
+Average Lead Time (New Feature): 523.1 days
+Average Lead Time (Improvement): 330.2 days
+Average Lead Time (Bug): 253.2 days
+Average Lead Time (Task): 372.1 days
+Average Lead Time (Wish): 308.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2012-12-19 20:38:00 End date: 2013-03-29 20:38:00
+System: {'GEO': 4}
+Types: {'Task': 1, 'Bug': 1, 'Wish': 1, 'Improvement': 1}
+Resolutions: {'': 3, 'Fixed': 1}
+Statuses: {'Open': 3, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 0.0 days
+Average Lead Time (Improvement): 0.0 days

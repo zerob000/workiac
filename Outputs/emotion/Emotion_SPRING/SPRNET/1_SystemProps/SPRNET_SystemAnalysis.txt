@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2004-08-25 16:35:00 End date: 2013-12-06 18:26:00
+System: {'SPRNET': 1511}
+Types: {'Bug': 575, 'Task': 260, 'Improvement': 439, 'New Feature': 223, 'Defect': 2, 'Refactoring': 12}
+Resolutions: {'Fixed': 1047, '': 238, 'Complete': 108, "Won't Fix": 75, 'Duplicate': 19, 'Invalid': 12, 'Cannot Reproduce': 12}
+Statuses: {'Resolved': 1070, 'Open': 230, 'Closed': 203, 'Reopened': 6, 'In Progress': 2}
+
+Average Lead Time (all PBIs): 129.8 days
+Average Lead Time (Bug): 106.1 days
+Average Lead Time (Improvement): 131.6 days
+Average Lead Time (Task): 144.0 days
+Average Lead Time (New Feature): 179.9 days
+Average Lead Time (Defect): 299.0 days
+Average Lead Time (Refactoring): 95.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-08-28 18:26:00 End date: 2013-12-06 18:26:00
+System: {'SPRNET': 21}
+Types: {'Improvement': 3, 'Bug': 13, 'Task': 2, 'New Feature': 3}
+Resolutions: {'Complete': 10, 'Fixed': 1, '': 10}
+Statuses: {'Resolved': 11, 'Open': 10}
+
+Average Lead Time (all PBIs): 261.5 days
+Average Lead Time (Improvement): 160.5 days
+Average Lead Time (Bug): 170.8 days
+Average Lead Time (New Feature): 567.0 days
+Average Lead Time (Task): 0.0 days

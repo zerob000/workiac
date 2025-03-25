@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2010-12-09 17:24:00 End date: 2013-12-17 15:25:00
+System: {'CELIX': 102}
+Types: {'Improvement': 34, 'Bug': 50, 'Wish': 1, 'New Feature': 8, 'Task': 9}
+Resolutions: {'': 16, 'Fixed': 75, "Won't Fix": 5, 'Duplicate': 1, 'Implemented': 5}
+Statuses: {'Open': 16, 'Closed': 77, 'Resolved': 9}
+
+Average Lead Time (all PBIs): 185.2 days
+Average Lead Time (Bug): 141.3 days
+Average Lead Time (Wish): 47.0 days
+Average Lead Time (Improvement): 161.5 days
+Average Lead Time (Task): 477.8 days
+Average Lead Time (New Feature): 352.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-08 15:25:00 End date: 2013-12-17 15:25:00
+System: {'CELIX': 61}
+Types: {'Improvement': 19, 'Bug': 31, 'New Feature': 4, 'Task': 7}
+Resolutions: {'': 8, 'Fixed': 46, "Won't Fix": 5, 'Duplicate': 1, 'Implemented': 1}
+Statuses: {'Open': 8, 'Closed': 44, 'Resolved': 9}
+
+Average Lead Time (all PBIs): 254.1 days
+Average Lead Time (Bug): 178.3 days
+Average Lead Time (Improvement): 250.2 days
+Average Lead Time (Task): 518.4 days
+Average Lead Time (New Feature): 458.5 days

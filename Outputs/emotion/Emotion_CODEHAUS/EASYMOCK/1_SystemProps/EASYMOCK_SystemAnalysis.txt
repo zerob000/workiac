@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2010-11-08 06:03:00 End date: 2013-10-29 06:11:00
+System: {'EASYMOCK': 130}
+Types: {'New Feature': 53, 'Improvement': 11, 'Bug': 64, 'Task': 2}
+Resolutions: {'Fixed': 81, '': 38, 'Not A Bug': 5, "Won't Fix": 6}
+Statuses: {'Closed': 92, 'Open': 38}
+
+Average Lead Time (all PBIs): 38.8 days
+Average Lead Time (New Feature): 35.9 days
+Average Lead Time (Improvement): 62.4 days
+Average Lead Time (Bug): 32.4 days
+Average Lead Time (Task): 162.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-07-21 06:11:00 End date: 2013-10-29 06:11:00
+System: {'EASYMOCK': 4}
+Types: {'Improvement': 4}
+Resolutions: {'Fixed': 2, '': 2}
+Statuses: {'Closed': 2, 'Open': 2}
+
+Average Lead Time (all PBIs): 6.0 days
+Average Lead Time (Improvement): 6.0 days

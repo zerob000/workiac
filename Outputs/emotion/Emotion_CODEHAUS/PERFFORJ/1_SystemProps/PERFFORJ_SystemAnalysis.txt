@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2009-01-01 11:27:00 End date: 2012-10-12 02:49:00
+System: {'PERFFORJ': 64}
+Types: {'New Feature': 30, 'Improvement': 7, 'Bug': 22, 'Test': 3, 'Task': 1, 'Wish': 1}
+Resolutions: {'Fixed': 35, '': 25, 'Not A Bug': 3, 'Duplicate': 1}
+Statuses: {'Resolved': 38, 'Open': 25, 'Closed': 1}
+
+Average Lead Time (all PBIs): 64.9 days
+Average Lead Time (New Feature): 92.4 days
+Average Lead Time (Improvement): 36.5 days
+Average Lead Time (Test): 24.5 days
+Average Lead Time (Bug): 46.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2012-07-04 02:49:00 End date: 2012-10-12 02:49:00
+System: {'PERFFORJ': 2}
+Types: {'Improvement': 1, 'Bug': 1}
+Resolutions: {'': 2}
+Statuses: {'Open': 2}
+
+No PBIs resolved in last 100 days.

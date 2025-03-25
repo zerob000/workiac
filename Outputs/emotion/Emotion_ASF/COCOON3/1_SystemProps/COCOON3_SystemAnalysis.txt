@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2008-09-29 22:08:00 End date: 2013-10-08 22:23:00
+System: {'COCOON3': 127}
+Types: {'Improvement': 48, 'Bug': 43, 'New Feature': 28, 'Task': 5, 'Wish': 2, 'Dependency upgrade': 1}
+Resolutions: {'Fixed': 94, '': 24, 'Invalid': 2, 'Not A Problem': 2, 'Duplicate': 2, 'Cannot Reproduce': 1, "Won't Fix": 2}
+Statuses: {'Closed': 103, 'Reopened': 1, 'Open': 23}
+
+Average Lead Time (all PBIs): 114.5 days
+Average Lead Time (Improvement): 206.9 days
+Average Lead Time (New Feature): 105.9 days
+Average Lead Time (Bug): 30.0 days
+Average Lead Time (Task): 155.5 days
+Average Lead Time (Wish): 97.0 days
+Average Lead Time (Dependency upgrade): 1.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-06-30 22:23:00 End date: 2013-10-08 22:23:00
+System: {'COCOON3': 4}
+Types: {'Improvement': 1, 'New Feature': 2, 'Bug': 1}
+Resolutions: {'': 1, 'Fixed': 3}
+Statuses: {'Open': 1, 'Closed': 3}
+
+Average Lead Time (all PBIs): 2.3 days
+Average Lead Time (New Feature): 3.5 days
+Average Lead Time (Bug): 0.0 days

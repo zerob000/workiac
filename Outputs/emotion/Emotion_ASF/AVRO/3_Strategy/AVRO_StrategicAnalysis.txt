@@ -1,0 +1,73 @@
+
+System Name: AVRO
+System Duration (Captured): 1712 days
+
+Calculated Final System Size: 312 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 312 PBIs
+
+Model Final System Size: 309 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 309 PBIs
+
+% Error, Final backlog, model vs actual: 1.0%
+Error, Final backlog, model vs actual: -3 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 254 PBIs
+Total Unplanned Arrivals: 1127 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 119 PBIs
+Total Net Arrivals: 1262 PBIs
+Total Services: 950 PBIs
+
+Rates:
+Planned Arrival Rate: 0.157 PBIs/day
+Unplanned Arrival Rate: 0.67 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.072 PBIs/day
+Net Arrival Rate: 0.755 PBIs/day
+Service Rate: 0.587 PBIs/day
+
+
+Metrics:
+Stability: 0.777
+Quality: 0.19
+Control: 0.913
+Inventory Days: 531.516 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 97 days
+
+Calculated Final System Size: 312 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 312 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 6 PBIs
+Unplanned Arrivals in this period: 34 PBIs
+Cancelled/Rejected/Won't Do  in this period: 4 PBIs
+System size change in this period: 17 PBIs
+Net Arrivals in this period: 36 PBIs
+Services in this period: 18 PBIs
+
+Rates:
+Planned Arrival Rate: 0.094 PBIs/day
+Unplanned Arrival Rate: 0.327 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.06 PBIs/day
+Net Arrival Rate: 0.358 PBIs/day
+Service Rate: 0.159 PBIs/day
+
+Metrics:
+Stability: 0.44
+Quality: 0.223
+Control: 0.857
+Inventory Days: 1962.264 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

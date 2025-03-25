@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2003-10-27 22:11:00 End date: 2010-12-28 02:40:00
+System: {'NANO': 101}
+Types: {'New Feature': 17, 'Task': 9, 'Improvement': 24, 'Bug': 40, 'Test': 2, 'Wish': 9}
+Resolutions: {'': 15, 'Fixed': 80, "Won't Fix": 6}
+Statuses: {'Open': 15, 'Closed': 67, 'Resolved': 19}
+
+Average Lead Time (all PBIs): 74.7 days
+Average Lead Time (Task): 77.1 days
+Average Lead Time (Improvement): 15.4 days
+Average Lead Time (Bug): 50.2 days
+Average Lead Time (New Feature): 100.7 days
+Average Lead Time (Wish): 426.2 days
+Average Lead Time (Test): 4.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2010-09-19 02:40:00 End date: 2010-12-28 02:40:00
+System: {'NANO': 1}
+Types: {'Wish': 1}
+Resolutions: {'Fixed': 1}
+Statuses: {'Resolved': 1}
+
+Average Lead Time (all PBIs): 1839.0 days
+Average Lead Time (Wish): 1839.0 days

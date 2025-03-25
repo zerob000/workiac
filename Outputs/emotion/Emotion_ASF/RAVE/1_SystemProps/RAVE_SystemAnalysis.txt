@@ -1,0 +1,34 @@
+All PBIS - Unfiltered 
+Start date: 2011-04-01 20:04:00 End date: 2013-12-10 05:24:00
+System: {'RAVE': 683}
+Types: {'Umbrella': 7, 'Improvement': 170, 'Bug': 246, 'Story': 121, 'New Feature': 37, 'Task': 50, 'Technical task': 46, 'Dependency upgrade': 4, 'Test': 1, 'Question': 1}
+Resolutions: {'Fixed': 463, '': 186, 'Duplicate': 8, 'Invalid': 1, 'Not A Problem': 13, "Won't Fix": 5, 'Cannot Reproduce': 4, 'Incomplete': 1, 'Implemented': 1, 'Later': 1}
+Statuses: {'Closed': 433, 'Resolved': 64, 'Open': 176, 'Reopened': 3, 'In Progress': 7}
+
+Average Lead Time (all PBIs): 33.6 days
+Average Lead Time (Umbrella): 146.2 days
+Average Lead Time (Improvement): 26.2 days
+Average Lead Time (Bug): 18.8 days
+Average Lead Time (Story): 91.8 days
+Average Lead Time (New Feature): 40.4 days
+Average Lead Time (Technical task): 30.4 days
+Average Lead Time (Task): 17.7 days
+Average Lead Time (Dependency upgrade): 0.0 days
+Average Lead Time (Test): 24.0 days
+Average Lead Time (Question): 148.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-01 05:24:00 End date: 2013-12-10 05:24:00
+System: {'RAVE': 22}
+Types: {'Improvement': 3, 'Story': 6, 'Bug': 11, 'Task': 1, 'Technical task': 1}
+Resolutions: {'Fixed': 8, '': 12, 'Duplicate': 2}
+Statuses: {'Resolved': 8, 'Open': 10, 'Reopened': 1, 'Closed': 2, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 28.9 days
+Average Lead Time (Improvement): 111.0 days
+Average Lead Time (Story): 4.5 days
+Average Lead Time (Task): 10.0 days
+Average Lead Time (Bug): 11.5 days
+Average Lead Time (Technical task): 2.0 days

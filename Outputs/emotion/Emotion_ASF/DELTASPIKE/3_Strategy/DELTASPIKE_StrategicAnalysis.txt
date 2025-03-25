@@ -1,0 +1,73 @@
+
+System Name: DELTASPIKE
+System Duration (Captured): 734 days
+
+Calculated Final System Size: 52 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 52 PBIs
+
+Model Final System Size: 56 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 56 PBIs
+
+% Error, Final backlog, model vs actual: 8.0%
+Error, Final backlog, model vs actual: 4 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 181 PBIs
+Total Unplanned Arrivals: 200 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 46 PBIs
+Total Net Arrivals: 335 PBIs
+Total Services: 283 PBIs
+
+Rates:
+Planned Arrival Rate: 0.223 PBIs/day
+Unplanned Arrival Rate: 0.266 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.065 PBIs/day
+Net Arrival Rate: 0.424 PBIs/day
+Service Rate: 0.364 PBIs/day
+
+
+Metrics:
+Stability: 0.858
+Quality: 0.456
+Control: 0.867
+Inventory Days: 142.857 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 96 days
+
+Calculated Final System Size: 52 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 52 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 20 PBIs
+Unplanned Arrivals in this period: 39 PBIs
+Cancelled/Rejected/Won't Do  in this period: 11 PBIs
+System size change in this period: 2 PBIs
+Net Arrivals in this period: 48 PBIs
+Services in this period: 47 PBIs
+
+Rates:
+Planned Arrival Rate: 0.257 PBIs/day
+Unplanned Arrival Rate: 0.379 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.156 PBIs/day
+Net Arrival Rate: 0.475 PBIs/day
+Service Rate: 0.413 PBIs/day
+
+Metrics:
+Stability: 0.86
+Quality: 0.404
+Control: 0.755
+Inventory Days: 125.908 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

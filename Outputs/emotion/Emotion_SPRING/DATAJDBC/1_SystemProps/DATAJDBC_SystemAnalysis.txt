@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2010-09-04 04:57:00 End date: 2013-11-01 16:33:00
+System: {'DATAJDBC': 44}
+Types: {'Bug': 13, 'Improvement': 15, 'Support': 2, 'New Feature': 12, 'Defect': 1, 'Task': 1}
+Resolutions: {'Fixed': 1, 'Complete': 12, 'Works as Designed': 2, '': 25, 'Duplicate': 2, 'Invalid': 1, "Won't Fix": 1}
+Statuses: {'Resolved': 19, 'Open': 25}
+
+Average Lead Time (all PBIs): 67.6 days
+Average Lead Time (Bug): 55.5 days
+Average Lead Time (Improvement): 32.3 days
+Average Lead Time (New Feature): 135.2 days
+Average Lead Time (Task): 82.0 days
+Average Lead Time (Support): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-07-24 16:33:00 End date: 2013-11-01 16:33:00
+System: {'DATAJDBC': 4}
+Types: {'Support': 1, 'Improvement': 2, 'Bug': 1}
+Resolutions: {'': 4}
+Statuses: {'Open': 4}
+
+No PBIs resolved in last 100 days.

@@ -1,0 +1,73 @@
+
+System Name: CXF
+System Duration (Captured): 2729 days
+
+Calculated Final System Size: 222 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 222 PBIs
+
+Model Final System Size: 189 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 189 PBIs
+
+% Error, Final backlog, model vs actual: 15.0%
+Error, Final backlog, model vs actual: -33 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 548 PBIs
+Total Unplanned Arrivals: 4471 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 791 PBIs
+Total Net Arrivals: 4228 PBIs
+Total Services: 4006 PBIs
+
+Rates:
+Planned Arrival Rate: 0.179 PBIs/day
+Unplanned Arrival Rate: 1.659 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.342 PBIs/day
+Net Arrival Rate: 1.496 PBIs/day
+Service Rate: 1.498 PBIs/day
+
+
+Metrics:
+Stability: 1.001
+Quality: 0.097
+Control: 0.814
+Inventory Days: 148.198 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 98 days
+
+Calculated Final System Size: 222 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 222 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 10 PBIs
+Unplanned Arrivals in this period: 192 PBIs
+Cancelled/Rejected/Won't Do  in this period: 34 PBIs
+System size change in this period: 12 PBIs
+Net Arrivals in this period: 168 PBIs
+Services in this period: 155 PBIs
+
+Rates:
+Planned Arrival Rate: 0.12 PBIs/day
+Unplanned Arrival Rate: 1.814 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.397 PBIs/day
+Net Arrival Rate: 1.538 PBIs/day
+Service Rate: 1.464 PBIs/day
+
+Metrics:
+Stability: 0.953
+Quality: 0.062
+Control: 0.795
+Inventory Days: 151.639 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

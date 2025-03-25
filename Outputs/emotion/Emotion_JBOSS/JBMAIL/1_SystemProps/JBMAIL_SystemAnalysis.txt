@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2005-01-02 04:05:00 End date: 2006-12-14 08:26:00
+System: {'JBMAIL': 146}
+Types: {'Bug': 47, 'Task': 27, 'Feature Request': 68, 'Patch': 4}
+Resolutions: {"Won't Fix": 60, 'Done': 74, 'Cannot Reproduce Bug': 3, 'Duplicate Issue': 3, 'Out of Date': 4, 'Rejected': 2}
+Statuses: {'Closed': 83, 'Resolved': 63}
+
+Average Lead Time (all PBIs): 192.3 days
+Average Lead Time (Bug): 80.9 days
+Average Lead Time (Task): 163.7 days
+Average Lead Time (Feature Request): 285.8 days
+Average Lead Time (Patch): 105.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2006-09-05 08:26:00 End date: 2006-12-14 08:26:00
+System: {'JBMAIL': 60}
+Types: {'Bug': 12, 'Feature Request': 35, 'Task': 9, 'Patch': 4}
+Resolutions: {"Won't Fix": 60}
+Statuses: {'Closed': 60}
+
+Average Lead Time (all PBIs): 347.2 days
+Average Lead Time (Bug): 189.8 days
+Average Lead Time (Feature Request): 437.6 days
+Average Lead Time (Task): 313.1 days
+Average Lead Time (Patch): 105.5 days

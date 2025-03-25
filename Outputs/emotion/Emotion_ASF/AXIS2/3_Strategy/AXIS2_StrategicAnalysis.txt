@@ -1,0 +1,73 @@
+
+System Name: AXIS2
+System Duration (Captured): 3460 days
+
+Calculated Final System Size: 641 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 641 PBIs
+
+Model Final System Size: 796 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 796 PBIs
+
+% Error, Final backlog, model vs actual: 24.0%
+Error, Final backlog, model vs actual: 155 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 339 PBIs
+Total Unplanned Arrivals: 5165 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 825 PBIs
+Total Net Arrivals: 4679 PBIs
+Total Services: 4038 PBIs
+
+Rates:
+Planned Arrival Rate: 0.13 PBIs/day
+Unplanned Arrival Rate: 1.976 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.301 PBIs/day
+Net Arrival Rate: 1.805 PBIs/day
+Service Rate: 1.601 PBIs/day
+
+
+Metrics:
+Stability: 0.887
+Quality: 0.062
+Control: 0.857
+Inventory Days: 400.375 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 95 days
+
+Calculated Final System Size: 641 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 641 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 0 PBIs
+Unplanned Arrivals in this period: 17 PBIs
+Cancelled/Rejected/Won't Do  in this period: 7 PBIs
+System size change in this period: 5 PBIs
+Net Arrivals in this period: 10 PBIs
+Services in this period: 3 PBIs
+
+Rates:
+Planned Arrival Rate: NaN PBIs/day
+Unplanned Arrival Rate: 0.174 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.096 PBIs/day
+Net Arrival Rate: 0.08 PBIs/day
+Service Rate: 0.097 PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

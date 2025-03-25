@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2006-05-09 05:39:00 End date: 2009-03-09 05:17:00
+System: {'JBSSO': 54}
+Types: {'Bug': 18, 'Feature Request': 23, 'Task': 13}
+Resolutions: {'Cannot Reproduce Bug': 1, '': 25, 'Done': 26, "Won't Fix": 1, 'Duplicate Issue': 1}
+Statuses: {'Closed': 5, 'Open': 25, 'Resolved': 24}
+
+Average Lead Time (all PBIs): 134.0 days
+Average Lead Time (Bug): 137.8 days
+Average Lead Time (Task): 156.2 days
+Average Lead Time (Feature Request): 103.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2008-11-29 05:17:00 End date: 2009-03-09 05:17:00
+System: {'JBSSO': 11}
+Types: {'Bug': 6, 'Feature Request': 4, 'Task': 1}
+Resolutions: {'Cannot Reproduce Bug': 1, '': 7, 'Done': 3}
+Statuses: {'Closed': 1, 'Open': 7, 'Resolved': 3}
+
+Average Lead Time (all PBIs): 152.2 days
+Average Lead Time (Bug): 152.2 days

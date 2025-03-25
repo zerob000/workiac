@@ -1,0 +1,73 @@
+
+System Name: MULTIVERSE
+System Duration (Captured): 100 days
+
+Calculated Final System Size: 27 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 27 PBIs
+
+Model Final System Size: 22 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 22 PBIs
+
+% Error, Final backlog, model vs actual: 19.0%
+Error, Final backlog, model vs actual: -5 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 33 PBIs
+Total Unplanned Arrivals: 13 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 2 PBIs
+Total Net Arrivals: 44 PBIs
+Total Services: 17 PBIs
+
+Rates:
+Planned Arrival Rate: 0.199 PBIs/day
+Unplanned Arrival Rate: 0.091 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.5 PBIs/day
+Net Arrival Rate: -0.21 PBIs/day
+Service Rate: 0.137 PBIs/day
+
+
+Metrics:
+Stability: -0.652
+Quality: 0.686
+Control: -0.724
+Inventory Days: 197.08 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 96 days
+
+Calculated Final System Size: 27 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 27 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 17 PBIs
+Unplanned Arrivals in this period: 11 PBIs
+Cancelled/Rejected/Won't Do  in this period: 1 PBIs
+System size change in this period: 10 PBIs
+Net Arrivals in this period: 27 PBIs
+Services in this period: 16 PBIs
+
+Rates:
+Planned Arrival Rate: 0.147 PBIs/day
+Unplanned Arrival Rate: 0.088 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.333 PBIs/day
+Net Arrival Rate: 0.225 PBIs/day
+Service Rate: 0.136 PBIs/day
+
+Metrics:
+Stability: -1.388
+Quality: 0.626
+Control: -0.417
+Inventory Days: 198.529 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

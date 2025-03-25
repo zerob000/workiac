@@ -1,0 +1,34 @@
+All PBIS - Unfiltered 
+Start date: 2007-11-21 02:35:00 End date: 2013-12-19 04:51:00
+System: {'INT': 2991}
+Types: {'Refactoring': 163, 'Bug': 912, 'Task': 488, 'Improvement': 842, 'New Feature': 519, 'Defect': 51, 'Support': 8, 'Story': 8}
+Resolutions: {'Complete': 1656, 'Fixed': 758, '': 310, 'Duplicate': 66, "Won't Fix": 95, 'Invalid': 70, 'Works as Designed': 16, 'Cannot Reproduce': 14, 'Deferred': 6}
+Statuses: {'Closed': 2283, 'Open': 304, 'Resolved': 398, 'In Progress': 5, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 63.7 days
+Average Lead Time (Refactoring): 78.0 days
+Average Lead Time (Bug): 47.7 days
+Average Lead Time (Task): 30.9 days
+Average Lead Time (Improvement): 76.1 days
+Average Lead Time (New Feature): 109.6 days
+Average Lead Time (Defect): 27.5 days
+Average Lead Time (Support): 153.8 days
+Average Lead Time (Story): 44.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-10 04:51:00 End date: 2013-12-19 04:51:00
+System: {'INT': 184}
+Types: {'Improvement': 43, 'Bug': 53, 'Task': 34, 'New Feature': 29, 'Defect': 11, 'Refactoring': 13, 'Support': 1}
+Resolutions: {'': 19, 'Complete': 146, 'Invalid': 12, "Won't Fix": 4, 'Duplicate': 3}
+Statuses: {'Open': 19, 'Closed': 161, 'Resolved': 4}
+
+Average Lead Time (all PBIs): 182.0 days
+Average Lead Time (Bug): 151.8 days
+Average Lead Time (Task): 78.1 days
+Average Lead Time (New Feature): 209.0 days
+Average Lead Time (Defect): 21.7 days
+Average Lead Time (Refactoring): 366.9 days
+Average Lead Time (Improvement): 251.7 days
+Average Lead Time (Support): 765.0 days

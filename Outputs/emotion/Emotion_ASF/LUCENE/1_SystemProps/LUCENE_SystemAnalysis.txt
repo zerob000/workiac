@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 2001-10-10 00:19:00 End date: 2013-12-14 05:49:00
+System: {'LUCENE': 5259}
+Types: {'Test': 101, 'Improvement': 2002, 'Bug': 2316, 'New Feature': 404, 'Wish': 62, 'Task': 374}
+Resolutions: {'Fixed': 3573, 'Implemented': 5, '': 811, "Won't Fix": 325, 'Invalid': 142, 'Not A Problem': 95, 'Duplicate': 174, 'Done': 1, 'Cannot Reproduce': 25, 'Incomplete': 96, 'Later': 11, 'Unresolved': 1}
+Statuses: {'Closed': 3677, 'Resolved': 771, 'Open': 772, 'Reopened': 38, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 211.2 days
+Average Lead Time (Test): 70.5 days
+Average Lead Time (Improvement): 221.0 days
+Average Lead Time (Bug): 216.8 days
+Average Lead Time (New Feature): 304.2 days
+Average Lead Time (Task): 64.4 days
+Average Lead Time (Wish): 258.4 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-05 05:49:00 End date: 2013-12-14 05:49:00
+System: {'LUCENE': 200}
+Types: {'New Feature': 23, 'Improvement': 87, 'Bug': 79, 'Wish': 4, 'Task': 6, 'Test': 1}
+Resolutions: {'Implemented': 1, 'Fixed': 119, '': 56, "Won't Fix": 17, 'Invalid': 2, 'Not A Problem': 3, 'Duplicate': 1, 'Done': 1}
+Statuses: {'Resolved': 126, 'Closed': 18, 'Open': 56}
+
+Average Lead Time (all PBIs): 169.3 days
+Average Lead Time (New Feature): 80.8 days
+Average Lead Time (Improvement): 178.8 days
+Average Lead Time (Bug): 177.9 days
+Average Lead Time (Task): 262.6 days
+Average Lead Time (Wish): 46.5 days

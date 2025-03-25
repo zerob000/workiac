@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2005-11-21 05:55:00 End date: 2013-12-11 19:41:00
+System: {'MCOBERTURA': 179}
+Types: {'Bug': 117, 'Improvement': 45, 'New Feature': 10, 'Wish': 3, 'Task': 3, 'Test': 1}
+Resolutions: {'': 48, 'Not A Bug': 14, 'Duplicate': 20, 'Fixed': 73, 'Incomplete': 4, "Won't Fix": 13, 'Cannot Reproduce': 7}
+Statuses: {'Open': 45, 'Closed': 131, 'Reopened': 2, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 339.6 days
+Average Lead Time (Improvement): 274.2 days
+Average Lead Time (New Feature): 571.2 days
+Average Lead Time (Bug): 352.6 days
+Average Lead Time (Wish): 179.0 days
+Average Lead Time (Task): 0.0 days
+Average Lead Time (Test): 3.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-02 19:41:00 End date: 2013-12-11 19:41:00
+System: {'MCOBERTURA': 5}
+Types: {'Improvement': 1, 'Bug': 4}
+Resolutions: {'': 5}
+Statuses: {'Open': 5}
+
+No PBIs resolved in last 100 days.

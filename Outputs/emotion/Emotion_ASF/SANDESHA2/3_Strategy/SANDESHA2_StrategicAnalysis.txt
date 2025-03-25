@@ -1,0 +1,73 @@
+
+System Name: SANDESHA2
+System Duration (Captured): 2676 days
+
+Calculated Final System Size: 51 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 51 PBIs
+
+Model Final System Size: 23 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 23 PBIs
+
+% Error, Final backlog, model vs actual: 55.0%
+Error, Final backlog, model vs actual: -28 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 11 PBIs
+Total Unplanned Arrivals: 204 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 9 PBIs
+Total Net Arrivals: 206 PBIs
+Total Services: 155 PBIs
+
+Rates:
+Planned Arrival Rate: 0.004 PBIs/day
+Unplanned Arrival Rate: 0.101 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.008 PBIs/day
+Net Arrival Rate: 0.097 PBIs/day
+Service Rate: 0.097 PBIs/day
+
+
+Metrics:
+Stability: 1.0
+Quality: 0.038
+Control: 0.924
+Inventory Days: 525.773 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 0 days
+
+Calculated Final System Size: 51 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 51 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 0 PBIs
+Unplanned Arrivals in this period: 0 PBIs
+Cancelled/Rejected/Won't Do  in this period: 0 PBIs
+System size change in this period: 0 PBIs
+Net Arrivals in this period: 0 PBIs
+Services in this period: 0 PBIs
+
+Rates:
+Planned Arrival Rate: NaN PBIs/day
+Unplanned Arrival Rate: NaN PBIs/day
+Cancelled/Rejected/Won't Do Rate: NaN PBIs/day
+Net Arrival Rate: NaN PBIs/day
+Service Rate: NaN PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Catch-up
+

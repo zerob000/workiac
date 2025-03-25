@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2013-10-08 14:37:00 End date: 2013-12-21 22:19:00
+System: {'HRCPP': 86}
+Types: {'Bug': 41, 'Task': 42, 'Enhancement': 2, 'Feature Request': 1}
+Resolutions: {'Done': 75, '': 6, "Won't Fix": 2, 'Rejected': 1, 'Duplicate Issue': 1, 'Out of Date': 1}
+Statuses: {'Resolved': 54, 'Pull Request Sent': 2, 'Closed': 26, 'Open': 4}
+
+Average Lead Time (all PBIs): 5.6 days
+Average Lead Time (Bug): 7.2 days
+Average Lead Time (Task): 4.2 days
+Average Lead Time (Enhancement): 1.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-12 22:19:00 End date: 2013-12-21 22:19:00
+System: {'HRCPP': 86}
+Types: {'Bug': 41, 'Task': 42, 'Enhancement': 2, 'Feature Request': 1}
+Resolutions: {'Done': 75, '': 6, "Won't Fix": 2, 'Rejected': 1, 'Duplicate Issue': 1, 'Out of Date': 1}
+Statuses: {'Resolved': 54, 'Pull Request Sent': 2, 'Closed': 26, 'Open': 4}
+
+Average Lead Time (all PBIs): 5.6 days
+Average Lead Time (Bug): 7.2 days
+Average Lead Time (Task): 4.2 days
+Average Lead Time (Enhancement): 1.0 days

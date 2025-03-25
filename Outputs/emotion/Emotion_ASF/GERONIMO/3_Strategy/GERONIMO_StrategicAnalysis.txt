@@ -1,0 +1,73 @@
+
+System Name: GERONIMO
+System Duration (Captured): 3537 days
+
+Calculated Final System Size: 822 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 822 PBIs
+
+Model Final System Size: 1092 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 1092 PBIs
+
+% Error, Final backlog, model vs actual: 33.0%
+Error, Final backlog, model vs actual: 270 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 788 PBIs
+Total Unplanned Arrivals: 5043 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 752 PBIs
+Total Net Arrivals: 5079 PBIs
+Total Services: 4257 PBIs
+
+Rates:
+Planned Arrival Rate: 0.268 PBIs/day
+Unplanned Arrival Rate: 1.802 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.254 PBIs/day
+Net Arrival Rate: 1.816 PBIs/day
+Service Rate: 1.535 PBIs/day
+
+
+Metrics:
+Stability: 0.845
+Quality: 0.129
+Control: 0.877
+Inventory Days: 535.505 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 92 days
+
+Calculated Final System Size: 822 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 822 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 1 PBIs
+Unplanned Arrivals in this period: 21 PBIs
+Cancelled/Rejected/Won't Do  in this period: 13 PBIs
+System size change in this period: 4 PBIs
+Net Arrivals in this period: 9 PBIs
+Services in this period: 4 PBIs
+
+Rates:
+Planned Arrival Rate: 0.012 PBIs/day
+Unplanned Arrival Rate: 0.225 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.104 PBIs/day
+Net Arrival Rate: 0.025 PBIs/day
+Service Rate: 0.053 PBIs/day
+
+Metrics:
+Stability: 0.398
+Quality: 0.051
+Control: 0.561
+Inventory Days: 15509.434 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

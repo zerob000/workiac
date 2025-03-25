@@ -1,0 +1,73 @@
+
+System Name: PROTON
+System Duration (Captured): 486 days
+
+Calculated Final System Size: 132 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 132 PBIs
+
+Model Final System Size: 162 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 162 PBIs
+
+% Error, Final backlog, model vs actual: 23.0%
+Error, Final backlog, model vs actual: 30 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 62 PBIs
+Total Unplanned Arrivals: 408 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 32 PBIs
+Total Net Arrivals: 438 PBIs
+Total Services: 306 PBIs
+
+Rates:
+Planned Arrival Rate: 0.119 PBIs/day
+Unplanned Arrival Rate: 0.86 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.076 PBIs/day
+Net Arrival Rate: 0.903 PBIs/day
+Service Rate: 0.62 PBIs/day
+
+
+Metrics:
+Stability: 0.687
+Quality: 0.122
+Control: 0.922
+Inventory Days: 212.903 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 132 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 132 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 9 PBIs
+Unplanned Arrivals in this period: 49 PBIs
+Cancelled/Rejected/Won't Do  in this period: 10 PBIs
+System size change in this period: 9 PBIs
+Net Arrivals in this period: 48 PBIs
+Services in this period: 40 PBIs
+
+Rates:
+Planned Arrival Rate: 0.091 PBIs/day
+Unplanned Arrival Rate: 0.491 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.129 PBIs/day
+Net Arrival Rate: 0.456 PBIs/day
+Service Rate: 0.39 PBIs/day
+
+Metrics:
+Stability: 0.861
+Quality: 0.156
+Control: 0.778
+Inventory Days: 338.462 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

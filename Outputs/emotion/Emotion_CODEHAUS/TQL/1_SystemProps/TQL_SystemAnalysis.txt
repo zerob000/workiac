@@ -1,0 +1,22 @@
+All PBIS - Unfiltered 
+Start date: 2004-04-20 18:32:00 End date: 2013-05-07 17:09:00
+System: {'TQL': 31}
+Types: {'Bug': 13, 'Improvement': 10, 'New Feature': 8}
+Resolutions: {'': 19, 'Fixed': 12}
+Statuses: {'Open': 19, 'Resolved': 1, 'Closed': 11}
+
+Average Lead Time (all PBIs): 142.3 days
+Average Lead Time (New Feature): 170.2 days
+Average Lead Time (Bug): 206.5 days
+Average Lead Time (Improvement): 10.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-01-27 17:09:00 End date: 2013-05-07 17:09:00
+System: {'TQL': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

@@ -1,0 +1,21 @@
+All PBIS - Unfiltered 
+Start date: 2010-04-08 13:58:00 End date: 2010-09-12 14:53:00
+System: {'EUREKAJ': 43}
+Types: {'New Feature': 42, 'Improvement': 1}
+Resolutions: {'Fixed': 24, '': 19}
+Statuses: {'Resolved': 24, 'Open': 15, 'In Progress': 4}
+
+Average Lead Time (all PBIs): 15.3 days
+Average Lead Time (New Feature): 15.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2010-06-04 14:53:00 End date: 2010-09-12 14:53:00
+System: {'EUREKAJ': 3}
+Types: {'New Feature': 3}
+Resolutions: {'Fixed': 2, '': 1}
+Statuses: {'Resolved': 2, 'Open': 1}
+
+Average Lead Time (all PBIs): 133.5 days
+Average Lead Time (New Feature): 133.5 days

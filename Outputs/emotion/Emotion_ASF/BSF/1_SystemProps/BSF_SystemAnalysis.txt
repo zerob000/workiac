@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2007-02-16 03:01:00 End date: 2013-09-19 20:37:00
+System: {'BSF': 39}
+Types: {'Improvement': 10, 'Bug': 22, 'Task': 4, 'New Feature': 2, 'Wish': 1}
+Resolutions: {'Fixed': 25, '': 12, 'Not A Problem': 2}
+Statuses: {'Closed': 2, 'Open': 12, 'Resolved': 25}
+
+Average Lead Time (all PBIs): 302.3 days
+Average Lead Time (Improvement): 454.2 days
+Average Lead Time (Bug): 220.9 days
+Average Lead Time (Task): 259.5 days
+Average Lead Time (Wish): 942.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-06-11 20:37:00 End date: 2013-09-19 20:37:00
+System: {'BSF': 1}
+Types: {'Task': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

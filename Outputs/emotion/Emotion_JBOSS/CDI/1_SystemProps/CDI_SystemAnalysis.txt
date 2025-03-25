@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2009-11-28 12:34:00 End date: 2014-01-05 04:16:00
+System: {'CDI': 407}
+Types: {'Feature Request': 135, 'Clarification': 124, 'Bug': 130, 'Tracker': 18}
+Resolutions: {'': 129, 'Done': 208, 'Out of Date': 7, 'Rejected': 35, 'Duplicate Issue': 21, 'Cannot Reproduce Bug': 2, "Won't Fix": 4, 'Deferred': 1}
+Statuses: {'Open': 125, 'Closed': 65, 'Resolved': 213, 'Reopened': 3, 'Coding In Progress': 1}
+
+Average Lead Time (all PBIs): 205.9 days
+Average Lead Time (Clarification): 219.0 days
+Average Lead Time (Feature Request): 272.4 days
+Average Lead Time (Bug): 121.6 days
+Average Lead Time (Tracker): 456.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-27 04:16:00 End date: 2014-01-05 04:16:00
+System: {'CDI': 12}
+Types: {'Bug': 4, 'Clarification': 7, 'Feature Request': 1}
+Resolutions: {'': 9, 'Rejected': 3}
+Statuses: {'Open': 9, 'Resolved': 1, 'Closed': 2}
+
+Average Lead Time (all PBIs): 450.7 days
+Average Lead Time (Clarification): 450.7 days

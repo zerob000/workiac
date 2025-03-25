@@ -1,0 +1,34 @@
+All PBIS - Unfiltered 
+Start date: 2008-04-25 00:20:00 End date: 2013-12-14 08:11:00
+System: {'LOG4J2': 467}
+Types: {'Wish': 30, 'Improvement': 95, 'Documentation': 7, 'Bug': 272, 'Question': 16, 'New Feature': 35, 'Test': 5, 'Dependency upgrade': 2, 'Task': 5}
+Resolutions: {'Fixed': 301, '': 110, 'Duplicate': 10, 'Done': 1, 'Not A Problem': 15, 'Unresolved': 2, 'Invalid': 12, "Won't Fix": 9, 'Cannot Reproduce': 3, 'Later': 1, 'Implemented': 2, 'Incomplete': 1}
+Statuses: {'Closed': 208, 'Resolved': 149, 'Open': 104, 'Reopened': 5, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 131.8 days
+Average Lead Time (Wish): 1047.5 days
+Average Lead Time (Improvement): 132.5 days
+Average Lead Time (Bug): 11.3 days
+Average Lead Time (Question): 12.7 days
+Average Lead Time (New Feature): 242.6 days
+Average Lead Time (Documentation): 8.7 days
+Average Lead Time (Test): 352.0 days
+Average Lead Time (Dependency upgrade): 8.5 days
+Average Lead Time (Task): 729.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-05 08:11:00 End date: 2013-12-14 08:11:00
+System: {'LOG4J2': 86}
+Types: {'Documentation': 3, 'Bug': 54, 'Question': 5, 'Improvement': 15, 'New Feature': 6, 'Wish': 2, 'Dependency upgrade': 1}
+Resolutions: {'': 53, 'Fixed': 23, 'Duplicate': 3, 'Done': 1, 'Not A Problem': 3, 'Unresolved': 1, "Won't Fix": 2}
+Statuses: {'Open': 50, 'Resolved': 21, 'Reopened': 2, 'Closed': 12, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 19.0 days
+Average Lead Time (Bug): 22.9 days
+Average Lead Time (Question): 0.0 days
+Average Lead Time (New Feature): 9.3 days
+Average Lead Time (Improvement): 7.0 days
+Average Lead Time (Documentation): 26.0 days
+Average Lead Time (Dependency upgrade): 17.0 days

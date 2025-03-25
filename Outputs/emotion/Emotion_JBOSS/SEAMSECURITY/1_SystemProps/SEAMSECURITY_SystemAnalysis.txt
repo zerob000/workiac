@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2007-11-12 18:42:00 End date: 2013-01-08 04:24:00
+System: {'SEAMSECURITY': 149}
+Types: {'Task': 16, 'Feature Request': 27, 'Bug': 103, 'Enhancement': 3}
+Resolutions: {'': 56, 'Done': 77, 'Cannot Reproduce Bug': 2, 'Out of Date': 8, "Won't Fix": 3, 'Rejected': 2, 'Duplicate Issue': 1}
+Statuses: {'Open': 55, 'Resolved': 85, 'Closed': 8, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 90.2 days
+Average Lead Time (Feature Request): 318.4 days
+Average Lead Time (Bug): 53.7 days
+Average Lead Time (Task): 33.6 days
+Average Lead Time (Enhancement): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2012-09-30 04:24:00 End date: 2013-01-08 04:24:00
+System: {'SEAMSECURITY': 3}
+Types: {'Bug': 3}
+Resolutions: {'': 2, 'Done': 1}
+Statuses: {'Open': 2, 'Closed': 1}
+
+Average Lead Time (all PBIs): 481.0 days
+Average Lead Time (Bug): 481.0 days

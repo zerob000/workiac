@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2004-12-15 05:48:00 End date: 2013-12-18 21:04:00
+System: {'JBJCA': 1091}
+Types: {'Task': 494, 'Component Upgrade': 310, 'Bug': 187, 'Release': 59, 'Feature Request': 36, 'Enhancement': 1, 'Patch': 4}
+Resolutions: {'Done': 1017, "Won't Fix": 14, '': 10, 'Rejected': 20, 'Duplicate Issue': 2, 'Incomplete Description': 1, 'Out of Date': 27}
+Statuses: {'Closed': 1063, 'Resolved': 18, 'Open': 10}
+
+Average Lead Time (all PBIs): 69.7 days
+Average Lead Time (Task): 109.3 days
+Average Lead Time (Component Upgrade): 32.3 days
+Average Lead Time (Bug): 20.0 days
+Average Lead Time (Release): 0.0 days
+Average Lead Time (Feature Request): 220.9 days
+Average Lead Time (Enhancement): 761.0 days
+Average Lead Time (Patch): 8.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-09 21:04:00 End date: 2013-12-18 21:04:00
+System: {'JBJCA': 54}
+Types: {'Component Upgrade': 17, 'Bug': 19, 'Task': 11, 'Feature Request': 3, 'Release': 4}
+Resolutions: {'Done': 47, '': 2, 'Rejected': 5}
+Statuses: {'Closed': 40, 'Resolved': 12, 'Open': 2}
+
+Average Lead Time (all PBIs): 15.9 days
+Average Lead Time (Component Upgrade): 8.2 days
+Average Lead Time (Bug): 20.5 days
+Average Lead Time (Task): 31.1 days
+Average Lead Time (Feature Request): 3.0 days
+Average Lead Time (Release): 0.0 days

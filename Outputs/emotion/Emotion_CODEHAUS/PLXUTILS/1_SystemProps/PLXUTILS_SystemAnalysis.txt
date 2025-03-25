@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2004-08-03 09:13:00 End date: 2013-11-20 18:26:00
+System: {'PLXUTILS': 157}
+Types: {'New Feature': 14, 'Bug': 101, 'Improvement': 35, 'Task': 7}
+Resolutions: {'Fixed': 106, '': 35, 'Not A Bug': 4, 'Duplicate': 5, 'Cannot Reproduce': 3, "Won't Fix": 4}
+Statuses: {'Closed': 122, 'Open': 33, 'Reopened': 2}
+
+Average Lead Time (all PBIs): 134.5 days
+Average Lead Time (New Feature): 115.0 days
+Average Lead Time (Bug): 174.2 days
+Average Lead Time (Improvement): 36.9 days
+Average Lead Time (Task): 97.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-08-12 18:26:00 End date: 2013-11-20 18:26:00
+System: {'PLXUTILS': 2}
+Types: {'Bug': 2}
+Resolutions: {'': 1, 'Fixed': 1}
+Statuses: {'Open': 1, 'Closed': 1}
+
+Average Lead Time (all PBIs): 26.0 days
+Average Lead Time (Bug): 26.0 days

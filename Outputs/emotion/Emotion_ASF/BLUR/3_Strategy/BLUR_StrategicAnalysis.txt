@@ -1,0 +1,73 @@
+
+System Name: BLUR
+System Duration (Captured): 496 days
+
+Calculated Final System Size: 75 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 75 PBIs
+
+Model Final System Size: 66 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 66 PBIs
+
+% Error, Final backlog, model vs actual: 12.0%
+Error, Final backlog, model vs actual: -9 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 41 PBIs
+Total Unplanned Arrivals: 247 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 11 PBIs
+Total Net Arrivals: 277 PBIs
+Total Services: 202 PBIs
+
+Rates:
+Planned Arrival Rate: 0.081 PBIs/day
+Unplanned Arrival Rate: 0.525 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.019 PBIs/day
+Net Arrival Rate: 0.587 PBIs/day
+Service Rate: 0.491 PBIs/day
+
+
+Metrics:
+Stability: 0.836
+Quality: 0.134
+Control: 0.969
+Inventory Days: 152.749 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 95 days
+
+Calculated Final System Size: 75 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 75 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 13 PBIs
+Unplanned Arrivals in this period: 68 PBIs
+Cancelled/Rejected/Won't Do  in this period: 3 PBIs
+System size change in this period: 19 PBIs
+Net Arrivals in this period: 78 PBIs
+Services in this period: 58 PBIs
+
+Rates:
+Planned Arrival Rate: 0.158 PBIs/day
+Unplanned Arrival Rate: 0.696 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.084 PBIs/day
+Net Arrival Rate: 0.815 PBIs/day
+Service Rate: 0.652 PBIs/day
+
+Metrics:
+Stability: 0.847
+Quality: 0.185
+Control: 0.902
+Inventory Days: 115.031 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

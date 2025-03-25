@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2009-08-27 14:26:00 End date: 2013-12-12 23:12:00
+System: {'SAVARA': 342}
+Types: {'Feature Request': 106, 'Task': 141, 'Bug': 75, 'Enhancement': 20}
+Resolutions: {'': 66, 'Duplicate Issue': 8, 'Done': 214, 'Rejected': 13, "Won't Fix": 19, 'Out of Date': 16, 'Deferred': 4, 'Cannot Reproduce Bug': 2}
+Statuses: {'Open': 66, 'Closed': 207, 'Resolved': 69}
+
+Average Lead Time (all PBIs): 101.5 days
+Average Lead Time (Task): 111.8 days
+Average Lead Time (Bug): 26.1 days
+Average Lead Time (Feature Request): 162.5 days
+Average Lead Time (Enhancement): 29.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-03 23:12:00 End date: 2013-12-12 23:12:00
+System: {'SAVARA': 10}
+Types: {'Feature Request': 2, 'Bug': 6, 'Task': 2}
+Resolutions: {'': 4, 'Done': 5, 'Rejected': 1}
+Statuses: {'Open': 4, 'Resolved': 6}
+
+Average Lead Time (all PBIs): 3.7 days
+Average Lead Time (Bug): 4.8 days
+Average Lead Time (Feature Request): 0.0 days
+Average Lead Time (Task): 3.0 days

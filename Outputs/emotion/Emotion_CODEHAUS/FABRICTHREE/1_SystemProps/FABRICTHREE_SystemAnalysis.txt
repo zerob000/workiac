@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2007-05-16 11:23:00 End date: 2013-11-25 21:16:00
+System: {'FABRICTHREE': 680}
+Types: {'Bug': 303, 'Improvement': 162, 'New Feature': 198, 'Task': 12, 'Test': 5}
+Resolutions: {'Fixed': 578, "Won't Fix": 53, 'Duplicate': 4, '': 38, 'Not A Bug': 3, 'Cannot Reproduce': 3, 'Incomplete': 1}
+Statuses: {'Closed': 642, 'Open': 37, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 126.1 days
+Average Lead Time (Bug): 114.6 days
+Average Lead Time (Improvement): 164.8 days
+Average Lead Time (New Feature): 112.1 days
+Average Lead Time (Task): 95.2 days
+Average Lead Time (Test): 207.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-08-17 21:16:00 End date: 2013-11-25 21:16:00
+System: {'FABRICTHREE': 3}
+Types: {'Bug': 3}
+Resolutions: {'': 1, 'Fixed': 2}
+Statuses: {'Open': 1, 'Closed': 2}
+
+Average Lead Time (all PBIs): 0.0 days
+Average Lead Time (Bug): 0.0 days

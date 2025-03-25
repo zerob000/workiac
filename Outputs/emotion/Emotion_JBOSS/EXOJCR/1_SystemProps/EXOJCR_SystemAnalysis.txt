@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2009-08-27 22:23:00 End date: 2012-09-17 17:50:00
+System: {'EXOJCR': 1426}
+Types: {'Bug': 539, 'Task': 495, 'Release': 37, 'Feature Request': 179, 'Enhancement': 157, 'Component  Upgrade': 11, 'Quality Risk': 6, 'Patch': 2}
+Resolutions: {'Done': 1154, "Won't Fix": 104, 'Rejected': 32, 'Duplicate Issue': 47, 'Cannot Reproduce Bug': 37, 'Partially Completed': 1, 'Out of Date': 49, 'Incomplete Description': 2}
+Statuses: {'Resolved': 1377, 'Closed': 49}
+
+Average Lead Time (all PBIs): 58.7 days
+Average Lead Time (Bug): 38.8 days
+Average Lead Time (Task): 64.5 days
+Average Lead Time (Release): 24.5 days
+Average Lead Time (Feature Request): 110.9 days
+Average Lead Time (Enhancement): 54.0 days
+Average Lead Time (Component  Upgrade): 63.9 days
+Average Lead Time (Quality Risk): 141.5 days
+Average Lead Time (Patch): 11.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2012-06-09 17:50:00 End date: 2012-09-17 17:50:00
+System: {'EXOJCR': 5}
+Types: {'Bug': 1, 'Enhancement': 4}
+Resolutions: {'Done': 5}
+Statuses: {'Resolved': 4, 'Closed': 1}
+
+Average Lead Time (all PBIs): 163.0 days
+Average Lead Time (Bug): 99.0 days
+Average Lead Time (Enhancement): 179.0 days

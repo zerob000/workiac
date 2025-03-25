@@ -1,0 +1,33 @@
+All PBIS - Unfiltered 
+Start date: 2010-12-09 00:40:00 End date: 2013-12-13 02:56:00
+System: {'JENA': 597}
+Types: {'Improvement': 147, 'Bug': 365, 'Dependency upgrade': 4, 'New Feature': 33, 'Task': 22, 'Brainstorming': 5, 'Documentation': 7, 'Question': 7, 'Test': 2, 'Umbrella': 1, 'Wish': 4}
+Resolutions: {'': 125, 'Fixed': 390, 'Not A Problem': 38, 'Invalid': 11, 'Duplicate': 7, 'Cannot Reproduce': 4, "Won't Fix": 16, 'Implemented': 5, 'Later': 1}
+Statuses: {'Open': 121, 'Closed': 468, 'Resolved': 4, 'Reopened': 2, 'In Progress': 2}
+
+Average Lead Time (all PBIs): 46.7 days
+Average Lead Time (Improvement): 54.8 days
+Average Lead Time (Bug): 29.7 days
+Average Lead Time (New Feature): 225.1 days
+Average Lead Time (Brainstorming): 7.0 days
+Average Lead Time (Documentation): 16.0 days
+Average Lead Time (Task): 44.0 days
+Average Lead Time (Test): 25.0 days
+Average Lead Time (Question): 44.0 days
+Average Lead Time (Wish): 226.5 days
+Average Lead Time (Dependency upgrade): 1.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-04 02:56:00 End date: 2013-12-13 02:56:00
+System: {'JENA': 89}
+Types: {'Improvement': 20, 'Bug': 62, 'Dependency upgrade': 1, 'New Feature': 5, 'Documentation': 1}
+Resolutions: {'': 22, 'Fixed': 49, 'Not A Problem': 7, 'Invalid': 5, 'Duplicate': 3, 'Cannot Reproduce': 2, 'Implemented': 1}
+Statuses: {'Open': 22, 'Closed': 64, 'Resolved': 3}
+
+Average Lead Time (all PBIs): 44.1 days
+Average Lead Time (Bug): 14.6 days
+Average Lead Time (Improvement): 4.1 days
+Average Lead Time (New Feature): 516.8 days
+Average Lead Time (Documentation): 89.0 days

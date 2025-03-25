@@ -1,0 +1,73 @@
+
+System Name: GTNPORTAL
+System Duration (Captured): 1570 days
+
+Calculated Final System Size: 222 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 222 PBIs
+
+Model Final System Size: 314 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 314 PBIs
+
+% Error, Final backlog, model vs actual: 41.0%
+Error, Final backlog, model vs actual: 92 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 919 PBIs
+Total Unplanned Arrivals: 2072 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 531 PBIs
+Total Net Arrivals: 2460 PBIs
+Total Services: 2238 PBIs
+
+Rates:
+Planned Arrival Rate: 0.542 PBIs/day
+Unplanned Arrival Rate: 1.221 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.344 PBIs/day
+Net Arrival Rate: 1.419 PBIs/day
+Service Rate: 1.307 PBIs/day
+
+
+Metrics:
+Stability: 0.921
+Quality: 0.307
+Control: 0.805
+Inventory Days: 169.855 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 222 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 222 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 26 PBIs
+Unplanned Arrivals in this period: 58 PBIs
+Cancelled/Rejected/Won't Do  in this period: 13 PBIs
+System size change in this period: -17 PBIs
+Net Arrivals in this period: 71 PBIs
+Services in this period: 87 PBIs
+
+Rates:
+Planned Arrival Rate: 0.318 PBIs/day
+Unplanned Arrival Rate: 0.615 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.173 PBIs/day
+Net Arrival Rate: 0.708 PBIs/day
+Service Rate: 0.73 PBIs/day
+
+Metrics:
+Stability: 0.961
+Quality: 0.341
+Control: 0.815
+Inventory Days: 304.11 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

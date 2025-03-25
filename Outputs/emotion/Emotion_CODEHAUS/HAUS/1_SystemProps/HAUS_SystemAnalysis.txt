@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2003-07-22 13:22:00 End date: 2013-12-18 22:15:00
+System: {'HAUS': 1863}
+Types: {'Improvement': 98, 'Bug': 659, 'Task': 877, 'New Feature': 69, 'Wish': 158, 'Test': 2}
+Resolutions: {'': 176, 'Fixed': 1519, 'Not A Bug': 24, 'Cannot Reproduce': 15, "Won't Fix": 89, 'Incomplete': 8, 'Duplicate': 32}
+Statuses: {'Open': 161, 'With Customer': 5, 'Closed': 1529, 'Resolved': 158, 'Reopened': 5, 'In Progress': 5}
+
+Average Lead Time (all PBIs): 52.3 days
+Average Lead Time (Task): 37.2 days
+Average Lead Time (Bug): 48.0 days
+Average Lead Time (Wish): 104.8 days
+Average Lead Time (Improvement): 108.7 days
+Average Lead Time (New Feature): 116.5 days
+Average Lead Time (Test): 4.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-09 22:15:00 End date: 2013-12-18 22:15:00
+System: {'HAUS': 21}
+Types: {'Improvement': 2, 'Bug': 16, 'Task': 2, 'Wish': 1}
+Resolutions: {'': 9, 'Fixed': 7, 'Cannot Reproduce': 1, 'Not A Bug': 2, "Won't Fix": 1, 'Incomplete': 1}
+Statuses: {'Open': 8, 'With Customer': 1, 'Closed': 6, 'Resolved': 6}
+
+Average Lead Time (all PBIs): 17.6 days
+Average Lead Time (Wish): 0.0 days
+Average Lead Time (Bug): 20.7 days
+Average Lead Time (Task): 4.0 days

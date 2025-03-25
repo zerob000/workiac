@@ -1,0 +1,73 @@
+
+System Name: DATAJPA
+System Duration (Captured): 1116 days
+
+Calculated Final System Size: 80 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 80 PBIs
+
+Model Final System Size: 81 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 81 PBIs
+
+% Error, Final backlog, model vs actual: 1.0%
+Error, Final backlog, model vs actual: 1 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 224 PBIs
+Total Unplanned Arrivals: 178 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 65 PBIs
+Total Net Arrivals: 337 PBIs
+Total Services: 257 PBIs
+
+Rates:
+Planned Arrival Rate: 0.202 PBIs/day
+Unplanned Arrival Rate: 0.166 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.068 PBIs/day
+Net Arrival Rate: 0.3 PBIs/day
+Service Rate: 0.234 PBIs/day
+
+
+Metrics:
+Stability: 0.78
+Quality: 0.549
+Control: 0.815
+Inventory Days: 341.88 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 80 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 80 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 19 PBIs
+Unplanned Arrivals in this period: 19 PBIs
+Cancelled/Rejected/Won't Do  in this period: 3 PBIs
+System size change in this period: 6 PBIs
+Net Arrivals in this period: 35 PBIs
+Services in this period: 28 PBIs
+
+Rates:
+Planned Arrival Rate: 0.203 PBIs/day
+Unplanned Arrival Rate: 0.19 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.037 PBIs/day
+Net Arrival Rate: 0.353 PBIs/day
+Service Rate: 0.27 PBIs/day
+
+Metrics:
+Stability: 0.758
+Quality: 0.517
+Control: 0.906
+Inventory Days: 296.296 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

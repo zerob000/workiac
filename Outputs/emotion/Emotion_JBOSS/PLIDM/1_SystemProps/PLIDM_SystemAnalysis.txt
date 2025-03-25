@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2009-05-11 19:16:00 End date: 2013-11-22 23:09:00
+System: {'PLIDM': 45}
+Types: {'Bug': 21, 'Enhancement': 2, 'Feature Request': 19, 'Task': 3}
+Resolutions: {'Done': 16, '': 27, 'Rejected': 2}
+Statuses: {'Resolved': 17, 'Open': 27, 'Closed': 1}
+
+Average Lead Time (all PBIs): 47.7 days
+Average Lead Time (Bug): 38.1 days
+Average Lead Time (Feature Request): 0.0 days
+Average Lead Time (Enhancement): 251.0 days
+Average Lead Time (Task): 35.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-08-14 23:09:00 End date: 2013-11-22 23:09:00
+System: {'PLIDM': 3}
+Types: {'Enhancement': 1, 'Bug': 2}
+Resolutions: {'': 1, 'Done': 2}
+Statuses: {'Open': 1, 'Resolved': 2}
+
+Average Lead Time (all PBIs): 2.5 days
+Average Lead Time (Bug): 2.5 days

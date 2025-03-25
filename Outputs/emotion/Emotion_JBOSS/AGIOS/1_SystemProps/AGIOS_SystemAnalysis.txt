@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2012-09-19 15:34:00 End date: 2013-12-23 19:15:00
+System: {'AGIOS': 110}
+Types: {'Feature Request': 75, 'Task': 5, 'Bug': 25, 'Enhancement': 5}
+Resolutions: {'Done': 70, '': 34, 'Rejected': 2, 'Duplicate Issue': 2, "Won't Fix": 1, 'Out of Date': 1}
+Statuses: {'Resolved': 48, 'Open': 31, 'Pull Request Sent': 3, 'Closed': 28}
+
+Average Lead Time (all PBIs): 28.7 days
+Average Lead Time (Feature Request): 35.6 days
+Average Lead Time (Bug): 16.3 days
+Average Lead Time (Enhancement): 28.8 days
+Average Lead Time (Task): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-14 19:15:00 End date: 2013-12-23 19:15:00
+System: {'AGIOS': 69}
+Types: {'Feature Request': 47, 'Task': 1, 'Bug': 17, 'Enhancement': 4}
+Resolutions: {'Done': 41, '': 24, 'Rejected': 2, 'Duplicate Issue': 1, 'Out of Date': 1}
+Statuses: {'Resolved': 41, 'Open': 21, 'Pull Request Sent': 3, 'Closed': 4}
+
+Average Lead Time (all PBIs): 33.1 days
+Average Lead Time (Feature Request): 44.0 days
+Average Lead Time (Bug): 16.7 days
+Average Lead Time (Enhancement): 34.7 days

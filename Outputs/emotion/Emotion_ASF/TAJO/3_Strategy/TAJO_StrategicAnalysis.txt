@@ -1,0 +1,73 @@
+
+System Name: TAJO
+System Duration (Captured): 267 days
+
+Calculated Final System Size: 88 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 88 PBIs
+
+Model Final System Size: 76 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 76 PBIs
+
+% Error, Final backlog, model vs actual: 14.0%
+Error, Final backlog, model vs actual: -12 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 98 PBIs
+Total Unplanned Arrivals: 239 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 27 PBIs
+Total Net Arrivals: 310 PBIs
+Total Services: 222 PBIs
+
+Rates:
+Planned Arrival Rate: 0.318 PBIs/day
+Unplanned Arrival Rate: 0.851 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.13 PBIs/day
+Net Arrival Rate: 1.039 PBIs/day
+Service Rate: 0.827 PBIs/day
+
+
+Metrics:
+Stability: 0.796
+Quality: 0.272
+Control: 0.889
+Inventory Days: 106.409 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 100 days
+
+Calculated Final System Size: 88 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 88 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 52 PBIs
+Unplanned Arrivals in this period: 164 PBIs
+Cancelled/Rejected/Won't Do  in this period: 19 PBIs
+System size change in this period: 49 PBIs
+Net Arrivals in this period: 197 PBIs
+Services in this period: 149 PBIs
+
+Rates:
+Planned Arrival Rate: 0.507 PBIs/day
+Unplanned Arrival Rate: 1.429 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.186 PBIs/day
+Net Arrival Rate: 1.772 PBIs/day
+Service Rate: 1.28 PBIs/day
+
+Metrics:
+Stability: 0.731
+Quality: 0.262
+Control: 0.904
+Inventory Days: 68.75 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

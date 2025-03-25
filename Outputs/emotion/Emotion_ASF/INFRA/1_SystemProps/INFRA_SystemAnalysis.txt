@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2004-02-28 00:57:00 End date: 2013-12-15 08:43:00
+System: {'INFRA': 6195}
+Types: {'New JIRA Project': 81, 'Task': 3083, 'Bug': 1572, 'New Feature': 436, 'Wish': 481, 'Improvement': 542}
+Resolutions: {'Fixed': 5200, 'Invalid': 215, 'Cannot Reproduce': 47, "Won't Fix": 376, 'Done': 1, 'Duplicate': 111, '': 81, 'Not A Problem': 78, 'Implemented': 2, 'Later': 46, 'Unresolved': 8, 'Incomplete': 30}
+Statuses: {'Closed': 6114, 'Waiting for Infra': 73, 'Waiting for user': 3, 'Reopened': 5}
+
+Average Lead Time (all PBIs): 39.4 days
+Average Lead Time (New JIRA Project): 16.2 days
+Average Lead Time (Task): 30.7 days
+Average Lead Time (Bug): 35.9 days
+Average Lead Time (New Feature): 77.4 days
+Average Lead Time (Wish): 44.6 days
+Average Lead Time (Improvement): 66.6 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-06 08:43:00 End date: 2013-12-15 08:43:00
+System: {'INFRA': 409}
+Types: {'Bug': 173, 'Task': 160, 'Wish': 27, 'New JIRA Project': 5, 'Improvement': 23, 'New Feature': 21}
+Resolutions: {'Cannot Reproduce': 5, 'Fixed': 314, 'Done': 1, '': 32, "Won't Fix": 30, 'Invalid': 7, 'Not A Problem': 8, 'Duplicate': 10, 'Unresolved': 1, 'Later': 1}
+Statuses: {'Closed': 377, 'Waiting for Infra': 29, 'Waiting for user': 2, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 52.9 days
+Average Lead Time (Bug): 43.6 days
+Average Lead Time (Task): 59.2 days
+Average Lead Time (New JIRA Project): 17.8 days
+Average Lead Time (Improvement): 100.3 days
+Average Lead Time (Wish): 45.1 days
+Average Lead Time (New Feature): 55.0 days

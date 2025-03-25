@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2007-01-26 23:15:00 End date: 2011-03-25 04:19:00
+System: {'GRAILSPLUGINS': 2864}
+Types: {'Improvement': 749, 'Bug': 1616, 'New Feature': 356, 'Task': 99, 'Test': 7, 'Wish': 37}
+Resolutions: {"Won't Fix": 154, 'Fixed': 1390, '': 1047, 'Not A Bug': 122, 'Incomplete': 8, 'Cannot Reproduce': 68, 'Duplicate': 75}
+Statuses: {'Closed': 824, 'Resolved': 993, 'Open': 980, 'In Progress': 25, 'Reopened': 42}
+
+Average Lead Time (all PBIs): 98.3 days
+Average Lead Time (Improvement): 94.9 days
+Average Lead Time (Bug): 97.6 days
+Average Lead Time (Task): 80.0 days
+Average Lead Time (Test): 0.0 days
+Average Lead Time (New Feature): 116.7 days
+Average Lead Time (Wish): 111.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2010-12-15 04:19:00 End date: 2011-03-25 04:19:00
+System: {'GRAILSPLUGINS': 408}
+Types: {'Bug': 259, 'Improvement': 100, 'New Feature': 39, 'Task': 10}
+Resolutions: {"Won't Fix": 25, 'Fixed': 199, '': 131, 'Not A Bug': 24, 'Incomplete': 4, 'Cannot Reproduce': 15, 'Duplicate': 10}
+Statuses: {'Closed': 170, 'Open': 128, 'Resolved': 107, 'In Progress': 3}
+
+Average Lead Time (all PBIs): 171.6 days
+Average Lead Time (Bug): 200.1 days
+Average Lead Time (Improvement): 118.0 days
+Average Lead Time (New Feature): 124.6 days
+Average Lead Time (Task): 171.5 days

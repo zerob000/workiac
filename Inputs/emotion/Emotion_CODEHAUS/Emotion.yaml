@@ -1,0 +1,35 @@
+---
+Locations:
+    id_loc: 0
+    sysm_loc: 2
+    issue_loc: 3
+    resol_loc: 5
+    status_loc: 4
+    arr_loc: 6
+    ser_loc: 7
+spacer: ''
+#date_format = '%d/%m/%Y'
+#date_format = '%d/%b/%y %H:%M'
+date_format: "%d/%m/%Y %H:%M" 
+#date_format: "%Y-%m-%d %H:%M:%S"
+Filters:
+    EpicsSubtasks:
+    - "Epic"
+    - "Sub-task"
+    FeedbackBugs:
+    - "Bug"
+    - "Improvement"
+    - "Remove Feature"
+    StatusNoFurtherWorkRequired:
+    - "Closed"
+    - "Resolved"
+    ResosNotDoneByTeam:
+    - "Cannot Reproduce"
+    - "Duplicate"
+    - "Incomplete"
+    - "Not A Bug"
+    - "Unresolved"
+    - "Won't Fix"
+
+    
+

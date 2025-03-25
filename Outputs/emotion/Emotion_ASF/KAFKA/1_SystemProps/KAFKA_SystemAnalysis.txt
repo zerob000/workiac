@@ -1,0 +1,28 @@
+All PBIS - Unfiltered 
+Start date: 2011-07-20 05:32:00 End date: 2013-12-13 22:26:00
+System: {'KAFKA': 1101}
+Types: {'Bug': 720, 'Task': 57, 'Improvement': 246, 'New Feature': 73, 'Test': 5}
+Resolutions: {'Fixed': 657, '': 334, 'Invalid': 7, 'Duplicate': 42, 'Not A Problem': 17, 'Incomplete': 1, "Won't Fix": 20, 'Implemented': 4, 'Cannot Reproduce': 7, 'Later': 1, 'Unresolved': 11}
+Statuses: {'Resolved': 410, 'Closed': 347, 'Patch Available': 35, 'Open': 302, 'In Progress': 3, 'Reopened': 4}
+
+Average Lead Time (all PBIs): 55.0 days
+Average Lead Time (Bug): 43.3 days
+Average Lead Time (Task): 33.4 days
+Average Lead Time (Improvement): 74.3 days
+Average Lead Time (New Feature): 136.7 days
+Average Lead Time (Test): 136.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-04 22:26:00 End date: 2013-12-13 22:26:00
+System: {'KAFKA': 172}
+Types: {'Bug': 127, 'New Feature': 8, 'Improvement': 33, 'Task': 3, 'Test': 1}
+Resolutions: {'Fixed': 75, '': 80, 'Invalid': 3, 'Duplicate': 7, 'Not A Problem': 4, 'Incomplete': 1, 'Implemented': 2}
+Statuses: {'Resolved': 52, 'Open': 76, 'Closed': 40, 'Patch Available': 4}
+
+Average Lead Time (all PBIs): 42.0 days
+Average Lead Time (Bug): 36.9 days
+Average Lead Time (New Feature): 102.2 days
+Average Lead Time (Improvement): 49.6 days
+Average Lead Time (Task): 0.0 days

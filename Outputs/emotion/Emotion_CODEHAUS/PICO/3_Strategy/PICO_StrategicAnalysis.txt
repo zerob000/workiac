@@ -1,0 +1,73 @@
+
+System Name: PICO
+System Duration (Captured): 3464 days
+
+Calculated Final System Size: 41 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 41 PBIs
+
+Model Final System Size: 68 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 68 PBIs
+
+% Error, Final backlog, model vs actual: 66.0%
+Error, Final backlog, model vs actual: 27 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 59 PBIs
+Total Unplanned Arrivals: 158 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 19 PBIs
+Total Net Arrivals: 198 PBIs
+Total Services: 157 PBIs
+
+Rates:
+Planned Arrival Rate: 0.026 PBIs/day
+Unplanned Arrival Rate: 0.044 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.005 PBIs/day
+Net Arrival Rate: 0.065 PBIs/day
+Service Rate: 0.046 PBIs/day
+
+
+Metrics:
+Stability: 0.708
+Quality: 0.371
+Control: 0.929
+Inventory Days: 891.304 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 84 days
+
+Calculated Final System Size: 41 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 41 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 0 PBIs
+Unplanned Arrivals in this period: 5 PBIs
+Cancelled/Rejected/Won't Do  in this period: 1 PBIs
+System size change in this period: -4 PBIs
+Net Arrivals in this period: 4 PBIs
+Services in this period: 6 PBIs
+
+Rates:
+Planned Arrival Rate: NaN PBIs/day
+Unplanned Arrival Rate: 0.091 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.029 PBIs/day
+Net Arrival Rate: 0.041 PBIs/day
+Service Rate: 0.1 PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2008-09-26 08:05:00 End date: 2013-01-25 07:32:00
+System: {'SEDBFO': 33}
+Types: {'Improvement': 8, 'New Feature': 4, 'Task': 15, 'Defect': 1, 'Refactoring': 1, 'Bug': 4}
+Resolutions: {'Complete': 13, '': 12, 'Fixed': 5, "Won't Fix": 2, 'Invalid': 1}
+Statuses: {'Resolved': 20, 'Open': 12, 'Closed': 1}
+
+Average Lead Time (all PBIs): 182.5 days
+Average Lead Time (Improvement): 94.4 days
+Average Lead Time (New Feature): 69.0 days
+Average Lead Time (Task): 269.5 days
+Average Lead Time (Defect): 685.0 days
+Average Lead Time (Refactoring): 0.0 days
+Average Lead Time (Bug): 95.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2012-10-17 07:32:00 End date: 2013-01-25 07:32:00
+System: {'SEDBFO': 1}
+Types: {'Defect': 1}
+Resolutions: {'Fixed': 1}
+Statuses: {'Closed': 1}
+
+Average Lead Time (all PBIs): 685.0 days
+Average Lead Time (Defect): 685.0 days

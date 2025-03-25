@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2007-09-11 15:28:00 End date: 2013-12-14 10:29:00
+System: {'SLING': 3239}
+Types: {'Improvement': 1292, 'Bug': 1445, 'New Feature': 347, 'Test': 19, 'Task': 119, 'Wish': 17}
+Resolutions: {'Fixed': 2588, 'Duplicate': 49, '': 390, "Won't Fix": 121, 'Invalid': 44, 'Implemented': 2, 'Cannot Reproduce': 19, 'Not A Problem': 24, 'Later': 1, 'Incomplete': 1}
+Statuses: {'Resolved': 711, 'Closed': 2139, 'Open': 376, 'In Progress': 6, 'Reopened': 7}
+
+Average Lead Time (all PBIs): 52.8 days
+Average Lead Time (Improvement): 56.9 days
+Average Lead Time (Bug): 41.7 days
+Average Lead Time (New Feature): 73.9 days
+Average Lead Time (Task): 63.7 days
+Average Lead Time (Test): 135.6 days
+Average Lead Time (Wish): 168.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-05 10:29:00 End date: 2013-12-14 10:29:00
+System: {'SLING': 268}
+Types: {'Task': 15, 'Bug': 137, 'Improvement': 87, 'New Feature': 28, 'Wish': 1}
+Resolutions: {'': 89, 'Fixed': 166, 'Invalid': 4, "Won't Fix": 5, 'Duplicate': 2, 'Implemented': 1, 'Cannot Reproduce': 1}
+Statuses: {'Open': 86, 'Resolved': 142, 'In Progress': 2, 'Closed': 37, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 29.0 days
+Average Lead Time (Bug): 5.9 days
+Average Lead Time (Improvement): 49.1 days
+Average Lead Time (New Feature): 71.6 days
+Average Lead Time (Task): 21.2 days

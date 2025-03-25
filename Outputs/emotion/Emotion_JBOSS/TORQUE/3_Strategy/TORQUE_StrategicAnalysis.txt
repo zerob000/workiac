@@ -1,0 +1,73 @@
+
+System Name: TORQUE
+System Duration (Captured): 1669 days
+
+Calculated Final System Size: 163 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 163 PBIs
+
+Model Final System Size: 147 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 147 PBIs
+
+% Error, Final backlog, model vs actual: 10.0%
+Error, Final backlog, model vs actual: -16 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 467 PBIs
+Total Unplanned Arrivals: 713 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 116 PBIs
+Total Net Arrivals: 1064 PBIs
+Total Services: 901 PBIs
+
+Rates:
+Planned Arrival Rate: 0.344 PBIs/day
+Unplanned Arrival Rate: 0.553 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.115 PBIs/day
+Net Arrival Rate: 0.782 PBIs/day
+Service Rate: 0.7 PBIs/day
+
+
+Metrics:
+Stability: 0.895
+Quality: 0.384
+Control: 0.872
+Inventory Days: 232.857 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 163 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 163 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 12 PBIs
+Unplanned Arrivals in this period: 29 PBIs
+Cancelled/Rejected/Won't Do  in this period: 0 PBIs
+System size change in this period: 24 PBIs
+Net Arrivals in this period: 41 PBIs
+Services in this period: 16 PBIs
+
+Rates:
+Planned Arrival Rate: 0.185 PBIs/day
+Unplanned Arrival Rate: 0.284 PBIs/day
+Cancelled/Rejected/Won't Do Rate: NaN PBIs/day
+Net Arrival Rate: 0.432 PBIs/day
+Service Rate: 0.379 PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

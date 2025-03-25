@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2003-03-28 00:09:00 End date: 2013-08-02 07:15:00
+System: {'JBPORTAL': 2124}
+Types: {'Bug': 965, 'Task': 683, 'Feature Request': 427, 'Patch': 41, 'Quality Risk': 3, 'Release': 2, 'Support Patch': 3}
+Resolutions: {'Done': 1442, "Won't Fix": 384, 'Out of Date': 57, 'Partially Completed': 19, '': 3, 'Incomplete Description': 4, 'Rejected': 120, 'Duplicate Issue': 48, 'Cannot Reproduce Bug': 35, 'Deferred': 12}
+Statuses: {'Resolved': 1914, 'Closed': 207, 'Open': 3}
+
+Average Lead Time (all PBIs): 289.5 days
+Average Lead Time (Bug): 204.3 days
+Average Lead Time (Task): 234.0 days
+Average Lead Time (Feature Request): 575.1 days
+Average Lead Time (Patch): 216.1 days
+Average Lead Time (Quality Risk): 1164.7 days
+Average Lead Time (Release): 63.5 days
+Average Lead Time (Support Patch): 3.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-04-24 07:15:00 End date: 2013-08-02 07:15:00
+System: {'JBPORTAL': 2}
+Types: {'Bug': 1, 'Feature Request': 1}
+Resolutions: {'': 1, 'Incomplete Description': 1}
+Statuses: {'Open': 1, 'Closed': 1}
+
+Average Lead Time (all PBIs): 0.0 days
+Average Lead Time (Feature Request): 0.0 days

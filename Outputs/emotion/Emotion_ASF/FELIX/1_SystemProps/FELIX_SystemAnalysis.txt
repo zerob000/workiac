@@ -1,0 +1,30 @@
+All PBIS - Unfiltered 
+Start date: 2005-07-24 09:33:00 End date: 2013-12-17 00:41:00
+System: {'FELIX': 4182}
+Types: {'Test': 5, 'Task': 218, 'Bug': 2341, 'New Feature': 365, 'Improvement': 1222, 'Wish': 31}
+Resolutions: {'Invalid': 74, 'Fixed': 3205, '': 603, 'Duplicate': 94, 'Not A Problem': 47, "Won't Fix": 105, 'Cannot Reproduce': 41, 'Incomplete': 10, 'Later': 1, 'Unresolved': 2}
+Statuses: {'Closed': 2649, 'Open': 589, 'Resolved': 930, 'In Progress': 9, 'Reopened': 5}
+
+Average Lead Time (all PBIs): 68.5 days
+Average Lead Time (Test): 1.5 days
+Average Lead Time (Task): 84.7 days
+Average Lead Time (Bug): 50.5 days
+Average Lead Time (New Feature): 174.4 days
+Average Lead Time (Improvement): 68.7 days
+Average Lead Time (Wish): 216.1 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-08 00:41:00 End date: 2013-12-17 00:41:00
+System: {'FELIX': 171}
+Types: {'Task': 14, 'Bug': 108, 'Improvement': 39, 'New Feature': 8, 'Test': 1, 'Wish': 1}
+Resolutions: {'Fixed': 117, '': 44, 'Incomplete': 1, 'Cannot Reproduce': 2, 'Invalid': 3, "Won't Fix": 2, 'Not A Problem': 1, 'Duplicate': 1}
+Statuses: {'Closed': 52, 'Resolved': 75, 'Open': 41, 'In Progress': 3}
+
+Average Lead Time (all PBIs): 117.0 days
+Average Lead Time (Task): 159.8 days
+Average Lead Time (Bug): 76.5 days
+Average Lead Time (Improvement): 155.8 days
+Average Lead Time (New Feature): 396.0 days
+Average Lead Time (Wish): 320.0 days

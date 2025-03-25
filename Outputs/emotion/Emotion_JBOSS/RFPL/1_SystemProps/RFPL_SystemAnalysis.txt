@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2007-10-09 03:30:00 End date: 2013-12-11 22:37:00
+System: {'RFPL': 1203}
+Types: {'Task': 918, 'Bug': 174, 'Feature Request': 81, 'Enhancement': 29, 'Component  Upgrade': 1}
+Resolutions: {'Done': 825, '': 146, 'Duplicate Issue': 39, 'Out of Date': 98, "Won't Fix": 36, 'Cannot Reproduce Bug': 6, 'Rejected': 39, 'Deferred': 4, 'Partially Completed': 9, 'Incomplete Description': 1}
+Statuses: {'Resolved': 901, 'Closed': 156, 'Open': 143, 'Pull Request Sent': 1, 'Coding In Progress': 2}
+
+Average Lead Time (all PBIs): 142.1 days
+Average Lead Time (Task): 148.2 days
+Average Lead Time (Bug): 83.4 days
+Average Lead Time (Feature Request): 175.7 days
+Average Lead Time (Enhancement): 208.8 days
+Average Lead Time (Component  Upgrade): 15.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-02 22:37:00 End date: 2013-12-11 22:37:00
+System: {'RFPL': 47}
+Types: {'Bug': 13, 'Feature Request': 6, 'Task': 27, 'Enhancement': 1}
+Resolutions: {'Done': 26, '': 15, 'Duplicate Issue': 1, 'Out of Date': 4, 'Rejected': 1}
+Statuses: {'Resolved': 30, 'Open': 14, 'Pull Request Sent': 1, 'Closed': 2}
+
+Average Lead Time (all PBIs): 125.4 days
+Average Lead Time (Bug): 0.8 days
+Average Lead Time (Task): 190.3 days
+Average Lead Time (Feature Request): 97.5 days

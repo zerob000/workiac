@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2010-03-18 05:08:00 End date: 2012-03-14 20:41:00
+System: {'SEAMINTL': 74}
+Types: {'Feature Request': 27, 'Task': 15, 'Enhancement': 7, 'Bug': 25}
+Resolutions: {'Done': 37, '': 30, 'Rejected': 4, 'Out of Date': 1, 'Cannot Reproduce Bug': 1, 'Duplicate Issue': 1}
+Statuses: {'Closed': 43, 'Open': 28, 'Resolved': 1, 'Coding In Progress': 1, 'Pull Request Sent': 1}
+
+Average Lead Time (all PBIs): 45.0 days
+Average Lead Time (Feature Request): 92.7 days
+Average Lead Time (Task): 38.5 days
+Average Lead Time (Bug): 28.4 days
+Average Lead Time (Enhancement): 50.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2011-12-05 20:41:00 End date: 2012-03-14 20:41:00
+System: {'SEAMINTL': 3}
+Types: {'Bug': 3}
+Resolutions: {'': 2, 'Done': 1}
+Statuses: {'Open': 2, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 98.0 days
+Average Lead Time (Bug): 98.0 days

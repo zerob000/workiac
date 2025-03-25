@@ -1,0 +1,31 @@
+All PBIS - Unfiltered 
+Start date: 2013-01-30 21:42:00 End date: 2013-12-04 20:21:00
+System: {'BUILDTRK': 52}
+Types: {'Task': 18, 'Feature Request': 21, 'Enhancement': 5, 'Bug': 1, 'Quality Risk': 5, 'Release': 1, 'Documentation': 1}
+Resolutions: {'': 22, 'Done': 30}
+Statuses: {'Open': 21, 'Resolved': 30, 'Coding In Progress': 1}
+
+Average Lead Time (all PBIs): 20.4 days
+Average Lead Time (Task): 17.9 days
+Average Lead Time (Feature Request): 25.0 days
+Average Lead Time (Bug): 8.0 days
+Average Lead Time (Quality Risk): 16.2 days
+Average Lead Time (Documentation): 6.0 days
+Average Lead Time (Enhancement): 27.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-08-26 20:21:00 End date: 2013-12-04 20:21:00
+System: {'BUILDTRK': 36}
+Types: {'Feature Request': 18, 'Task': 5, 'Enhancement': 5, 'Bug': 1, 'Quality Risk': 5, 'Release': 1, 'Documentation': 1}
+Resolutions: {'': 15, 'Done': 21}
+Statuses: {'Coding In Progress': 1, 'Open': 14, 'Resolved': 21}
+
+Average Lead Time (all PBIs): 19.0 days
+Average Lead Time (Task): 27.0 days
+Average Lead Time (Feature Request): 16.2 days
+Average Lead Time (Bug): 8.0 days
+Average Lead Time (Quality Risk): 16.2 days
+Average Lead Time (Documentation): 6.0 days
+Average Lead Time (Enhancement): 27.5 days

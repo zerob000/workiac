@@ -1,0 +1,22 @@
+All PBIS - Unfiltered 
+Start date: 2008-06-10 08:28:00 End date: 2013-12-03 08:28:00
+System: {'LEGAL': 183}
+Types: {'Question': 164, 'Task': 19}
+Resolutions: {'Fixed': 78, '': 76, "Won't Fix": 9, 'Not A Problem': 9, 'Duplicate': 2, 'Implemented': 1, 'Incomplete': 2, 'Later': 3, 'Unresolved': 1, 'Invalid': 2}
+Statuses: {'Closed': 85, 'Open': 72, 'Resolved': 22, 'Reopened': 4}
+
+Average Lead Time (all PBIs): 110.0 days
+Average Lead Time (Question): 103.2 days
+Average Lead Time (Task): 169.4 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-08-25 08:28:00 End date: 2013-12-03 08:28:00
+System: {'LEGAL': 11}
+Types: {'Question': 11}
+Resolutions: {'': 6, 'Fixed': 3, 'Not A Problem': 2}
+Statuses: {'Open': 6, 'Closed': 4, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 76.0 days
+Average Lead Time (Question): 76.0 days

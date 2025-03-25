@@ -1,0 +1,29 @@
+All PBIS - Unfiltered 
+Start date: 2006-07-04 08:05:00 End date: 2013-12-17 07:51:00
+System: {'ESPER': 763}
+Types: {'New Feature': 93, 'Improvement': 233, 'Bug': 402, 'Test': 9, 'Story': 1, 'Task': 8, 'Wish': 17}
+Resolutions: {"Won't Fix": 68, 'Fixed': 611, '': 24, 'Not A Bug': 18, 'Duplicate': 22, 'Incomplete': 1, 'Cannot Reproduce': 19}
+Statuses: {'Closed': 725, 'Open': 22, 'Resolved': 14, 'Reopened': 2}
+
+Average Lead Time (all PBIs): 109.8 days
+Average Lead Time (New Feature): 364.5 days
+Average Lead Time (Improvement): 144.4 days
+Average Lead Time (Bug): 28.2 days
+Average Lead Time (Test): 27.5 days
+Average Lead Time (Story): 3.0 days
+Average Lead Time (Task): 157.4 days
+Average Lead Time (Wish): 239.8 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-08 07:51:00 End date: 2013-12-17 07:51:00
+System: {'ESPER': 21}
+Types: {'Improvement': 11, 'Bug': 8, 'Test': 2}
+Resolutions: {"Won't Fix": 3, '': 4, 'Fixed': 13, 'Duplicate': 1}
+Statuses: {'Closed': 3, 'Open': 4, 'Resolved': 14}
+
+Average Lead Time (all PBIs): 146.9 days
+Average Lead Time (Improvement): 260.8 days
+Average Lead Time (Bug): 39.1 days
+Average Lead Time (Test): 98.0 days

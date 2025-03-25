@@ -1,0 +1,73 @@
+
+System Name: AIRAVATA
+System Duration (Captured): 949 days
+
+Calculated Final System Size: 226 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 226 PBIs
+
+Model Final System Size: 288 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 288 PBIs
+
+% Error, Final backlog, model vs actual: 27.0%
+Error, Final backlog, model vs actual: 62 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 204 PBIs
+Total Unplanned Arrivals: 667 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 61 PBIs
+Total Net Arrivals: 810 PBIs
+Total Services: 584 PBIs
+
+Rates:
+Planned Arrival Rate: 0.22 PBIs/day
+Unplanned Arrival Rate: 0.846 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.078 PBIs/day
+Net Arrival Rate: 0.988 PBIs/day
+Service Rate: 0.66 PBIs/day
+
+
+Metrics:
+Stability: 0.668
+Quality: 0.206
+Control: 0.927
+Inventory Days: 342.424 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 99 days
+
+Calculated Final System Size: 226 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 226 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 12 PBIs
+Unplanned Arrivals in this period: 26 PBIs
+Cancelled/Rejected/Won't Do  in this period: 2 PBIs
+System size change in this period: 9 PBIs
+Net Arrivals in this period: 36 PBIs
+Services in this period: 28 PBIs
+
+Rates:
+Planned Arrival Rate: 0.146 PBIs/day
+Unplanned Arrival Rate: 0.277 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.047 PBIs/day
+Net Arrival Rate: 0.39 PBIs/day
+Service Rate: 0.26 PBIs/day
+
+Metrics:
+Stability: 0.691
+Quality: 0.345
+Control: 0.889
+Inventory Days: 869.231 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

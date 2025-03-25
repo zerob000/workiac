@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2003-08-12 00:38:00 End date: 2013-11-28 21:16:00
+System: {'DAEMON': 310}
+Types: {'Bug': 217, 'Improvement': 71, 'New Feature': 19, 'Task': 2, 'Wish': 1}
+Resolutions: {'Fixed': 215, "Won't Fix": 27, '': 21, 'Cannot Reproduce': 6, 'Invalid': 16, 'Duplicate': 9, 'Not A Problem': 8, 'Implemented': 1, 'Incomplete': 6, 'Later': 1}
+Statuses: {'Closed': 104, 'Resolved': 185, 'Open': 20, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 444.0 days
+Average Lead Time (Bug): 470.3 days
+Average Lead Time (Improvement): 431.3 days
+Average Lead Time (New Feature): 195.1 days
+Average Lead Time (Task): 190.0 days
+Average Lead Time (Wish): 270.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-08-20 21:16:00 End date: 2013-11-28 21:16:00
+System: {'DAEMON': 9}
+Types: {'Bug': 7, 'Improvement': 2}
+Resolutions: {'': 4, 'Fixed': 2, 'Cannot Reproduce': 1, 'Invalid': 1, 'Duplicate': 1}
+Statuses: {'Open': 4, 'Resolved': 4, 'Closed': 1}
+
+Average Lead Time (all PBIs): 82.4 days
+Average Lead Time (Improvement): 63.0 days
+Average Lead Time (Bug): 95.3 days

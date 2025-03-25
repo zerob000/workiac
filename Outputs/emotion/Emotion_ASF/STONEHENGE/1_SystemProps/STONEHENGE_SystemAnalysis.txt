@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2009-02-02 12:20:00 End date: 2011-08-22 00:59:00
+System: {'STONEHENGE': 130}
+Types: {'Bug': 52, 'Improvement': 40, 'Task': 15, 'New Feature': 17, 'Test': 1, 'Wish': 5}
+Resolutions: {'Fixed': 103, 'Duplicate': 4, '': 16, 'Invalid': 3, "Won't Fix": 4}
+Statuses: {'Resolved': 79, 'Closed': 35, 'Open': 16}
+
+Average Lead Time (all PBIs): 50.0 days
+Average Lead Time (Bug): 36.2 days
+Average Lead Time (Improvement): 48.8 days
+Average Lead Time (Task): 14.2 days
+Average Lead Time (New Feature): 114.8 days
+Average Lead Time (Test): 52.0 days
+Average Lead Time (Wish): 150.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2011-05-14 00:59:00 End date: 2011-08-22 00:59:00
+System: {'STONEHENGE': 1}
+Types: {'Bug': 1}
+Resolutions: {'': 1}
+Statuses: {'Open': 1}
+
+No PBIs resolved in last 100 days.

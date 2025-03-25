@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2005-02-01 18:06:00 End date: 2013-11-29 09:34:00
+System: {'DIRMINA': 937}
+Types: {'Improvement': 214, 'Bug': 498, 'Task': 59, 'New Feature': 140, 'Test': 6, 'Wish': 20}
+Resolutions: {'Fixed': 642, '': 149, 'Invalid': 55, 'Not A Problem': 10, 'Incomplete': 7, 'Cannot Reproduce': 13, "Won't Fix": 37, 'Duplicate': 23, 'Later': 1}
+Statuses: {'Resolved': 64, 'Closed': 724, 'Reopened': 6, 'Open': 142, 'In Progress': 1}
+
+Average Lead Time (all PBIs): 98.9 days
+Average Lead Time (Improvement): 91.1 days
+Average Lead Time (Bug): 55.5 days
+Average Lead Time (Task): 170.0 days
+Average Lead Time (New Feature): 221.9 days
+Average Lead Time (Test): 289.0 days
+Average Lead Time (Wish): 186.3 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-08-21 09:34:00 End date: 2013-11-29 09:34:00
+System: {'DIRMINA': 15}
+Types: {'Bug': 11, 'New Feature': 3, 'Improvement': 1}
+Resolutions: {'': 11, 'Fixed': 2, 'Invalid': 2}
+Statuses: {'Open': 11, 'Closed': 3, 'Resolved': 1}
+
+Average Lead Time (all PBIs): 22.2 days
+Average Lead Time (Bug): 44.5 days
+Average Lead Time (New Feature): 0.0 days

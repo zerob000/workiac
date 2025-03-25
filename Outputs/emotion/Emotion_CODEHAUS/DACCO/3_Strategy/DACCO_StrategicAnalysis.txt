@@ -1,0 +1,73 @@
+
+System Name: DACCO
+System Duration (Captured): 2687 days
+
+Calculated Final System Size: 226 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 226 PBIs
+
+Model Final System Size: 269 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 269 PBIs
+
+% Error, Final backlog, model vs actual: 19.0%
+Error, Final backlog, model vs actual: 43 PBIs
+
+WHOLE SYSTEM
+Totals:
+Total Planned Arrivals: 18 PBIs
+Total Unplanned Arrivals: 5232 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 25 PBIs
+Total Net Arrivals: 5225 PBIs
+Total Services: 4999 PBIs
+
+Rates:
+Planned Arrival Rate: 0.006 PBIs/day
+Unplanned Arrival Rate: 2.322 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.015 PBIs/day
+Net Arrival Rate: 2.313 PBIs/day
+Service Rate: 2.238 PBIs/day
+
+
+Metrics:
+Stability: 0.968
+Quality: 0.003
+Control: 0.994
+Inventory Days: 100.983 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only
+System Duration (Captured): 97 days
+
+Calculated Final System Size: 226 PBIs
+Minimum System Size: 0 PBIs
+Corrected Final System Size (prevent below 0 backlog): 226 PBIs
+
+LAST 100 DAYS
+Totals:
+Planned Arrivals in this period: 0 PBIs
+Unplanned Arrivals in this period: 43 PBIs
+Cancelled/Rejected/Won't Do  in this period: 0 PBIs
+System size change in this period: 32 PBIs
+Net Arrivals in this period: 43 PBIs
+Services in this period: 12 PBIs
+
+Rates:
+Planned Arrival Rate: NaN PBIs/day
+Unplanned Arrival Rate: 0.283 PBIs/day
+Cancelled/Rejected/Won't Do Rate: NaN PBIs/day
+Net Arrival Rate: 0.283 PBIs/day
+Service Rate: 0.252 PBIs/day
+
+Metrics:
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+
+Recommended High-Level Strategy: Scale-up
+

@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2013-05-08 09:03:00 End date: 2013-12-13 17:01:00
+System: {'JCLOUDS': 362}
+Types: {'Bug': 173, 'Task': 17, 'Improvement': 137, 'New Feature': 33, 'Test': 1, 'Wish': 1}
+Resolutions: {'': 143, 'Fixed': 182, 'Duplicate': 22, 'Not A Problem': 9, "Won't Fix": 4, 'Invalid': 2}
+Statuses: {'Open': 136, 'Resolved': 159, 'Closed': 60, 'In Progress': 3, 'Reopened': 4}
+
+Average Lead Time (all PBIs): 15.9 days
+Average Lead Time (Improvement): 18.0 days
+Average Lead Time (Task): 6.0 days
+Average Lead Time (Bug): 13.8 days
+Average Lead Time (New Feature): 23.0 days
+Average Lead Time (Wish): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-09-04 17:01:00 End date: 2013-12-13 17:01:00
+System: {'JCLOUDS': 159}
+Types: {'Improvement': 70, 'New Feature': 17, 'Bug': 71, 'Test': 1}
+Resolutions: {'Fixed': 73, '': 59, 'Duplicate': 20, 'Not A Problem': 5, "Won't Fix": 2}
+Statuses: {'Resolved': 72, 'Open': 56, 'Closed': 28, 'In Progress': 2, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 26.2 days
+Average Lead Time (Improvement): 26.3 days
+Average Lead Time (Bug): 23.8 days
+Average Lead Time (New Feature): 34.2 days

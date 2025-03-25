@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2003-09-17 17:23:00 End date: 2013-11-29 12:16:00
+System: {'JBESB': 3742}
+Types: {'Bug': 1958, 'Task': 1120, 'Feature Request': 639, 'Enhancement': 9, 'Component  Upgrade': 2, 'Patch': 14}
+Resolutions: {'Done': 2836, '': 474, 'Duplicate Issue': 80, 'Rejected': 173, 'Deferred': 2, "Won't Fix": 55, 'Out of Date': 109, 'Cannot Reproduce Bug': 8, 'Incomplete Description': 2, 'Partially Completed': 3}
+Statuses: {'Resolved': 23, 'Closed': 3242, 'Open': 461, 'Reopened': 11, 'Coding In Progress': 5}
+
+Average Lead Time (all PBIs): 51.2 days
+Average Lead Time (Bug): 34.6 days
+Average Lead Time (Task): 44.6 days
+Average Lead Time (Feature Request): 127.4 days
+Average Lead Time (Enhancement): 170.6 days
+Average Lead Time (Patch): 60.2 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-08-21 12:16:00 End date: 2013-11-29 12:16:00
+System: {'JBESB': 14}
+Types: {'Bug': 9, 'Feature Request': 3, 'Task': 2}
+Resolutions: {'': 4, 'Done': 10}
+Statuses: {'Open': 4, 'Closed': 10}
+
+Average Lead Time (all PBIs): 14.6 days
+Average Lead Time (Feature Request): 19.5 days
+Average Lead Time (Task): 0.0 days
+Average Lead Time (Bug): 17.8 days
