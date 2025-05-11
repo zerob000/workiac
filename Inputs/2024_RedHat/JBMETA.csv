@@ -1,0 +1,424 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+JBMETA-457,Bug,Coding In Progress,JBMETA,JBoss Metadata,software,,18/07/2024 16:47,
+JBMETA-456,Bug,Open,JBMETA,JBoss Metadata,software,,20/03/2024 18:33,
+JBMETA-455,Task,Open,JBMETA,JBoss Metadata,software,,26/06/2023 20:19,
+JBMETA-453,Task,Coding In Progress,JBMETA,JBoss Metadata,software,,03/01/2023 07:19,
+JBMETA-452,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,03/01/2023 07:12,31/01/2023 13:21
+JBMETA-451,Task,Resolved,JBMETA,JBoss Metadata,software,Done,04/11/2022 21:33,17/11/2022 09:40
+JBMETA-450,Task,Resolved,JBMETA,JBoss Metadata,software,Done,04/11/2022 15:20,16/06/2023 07:24
+JBMETA-448,Task,Resolved,JBMETA,JBoss Metadata,software,Done,04/11/2022 14:57,17/11/2022 09:40
+JBMETA-447,Task,Resolved,JBMETA,JBoss Metadata,software,Done,04/11/2022 14:45,17/11/2022 09:40
+JBMETA-446,Task,Resolved,JBMETA,JBoss Metadata,software,Done,04/11/2022 14:39,17/11/2022 09:40
+JBMETA-445,Component Upgrade,Resolved,JBMETA,JBoss Metadata,software,Done,26/10/2022 01:09,13/12/2022 13:25
+JBMETA-444,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,25/10/2022 22:14,13/12/2022 13:22
+JBMETA-443,Component Upgrade,Resolved,JBMETA,JBoss Metadata,software,Done,25/10/2022 21:17,13/12/2022 13:21
+JBMETA-442,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,18/10/2022 06:27,09/12/2022 13:03
+JBMETA-441,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,16/09/2022 13:32,17/11/2022 09:16
+JBMETA-440,Enhancement,Resolved,JBMETA,JBoss Metadata,software,Done,13/09/2022 09:18,16/11/2022 16:25
+JBMETA-439,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,12/09/2022 16:01,16/11/2022 16:25
+JBMETA-438,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,09/09/2022 15:49,16/11/2022 16:26
+JBMETA-437,Enhancement,Resolved,JBMETA,JBoss Metadata,software,Done,06/09/2022 12:53,16/11/2022 17:24
+JBMETA-436,Enhancement,Resolved,JBMETA,JBoss Metadata,software,Done,20/06/2022 09:53,07/07/2022 20:46
+JBMETA-435,Enhancement,Resolved,JBMETA,JBoss Metadata,software,Done,20/06/2022 09:47,07/07/2022 20:45
+JBMETA-434,Task,Resolved,JBMETA,JBoss Metadata,software,Done,20/06/2022 09:13,08/07/2022 08:43
+JBMETA-433,Enhancement,Resolved,JBMETA,JBoss Metadata,software,Done,20/06/2022 09:09,07/07/2022 20:44
+JBMETA-432,Enhancement,Resolved,JBMETA,JBoss Metadata,software,Done,20/06/2022 09:01,25/08/2022 20:06
+JBMETA-431,Enhancement,Resolved,JBMETA,JBoss Metadata,software,Done,15/06/2022 23:03,07/07/2022 20:43
+JBMETA-430,Enhancement,Resolved,JBMETA,JBoss Metadata,software,Done,28/02/2022 12:31,20/06/2022 18:13
+JBMETA-429,Enhancement,Resolved,JBMETA,JBoss Metadata,software,Done,28/02/2022 12:30,20/06/2022 18:12
+JBMETA-428,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,17/05/2022 12:49,25/05/2022 14:59
+JBMETA-427,Task,Resolved,JBMETA,JBoss Metadata,software,Done,24/03/2022 16:01,01/05/2022 14:18
+JBMETA-426,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,22/02/2022 20:35,30/08/2022 21:20
+JBMETA-425,Enhancement,Resolved,JBMETA,JBoss Metadata,software,Done,07/02/2022 22:12,22/02/2022 20:48
+JBMETA-424,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,20/08/2021 08:46,20/08/2021 09:06
+JBMETA-423,Enhancement,Resolved,JBMETA,JBoss Metadata,software,Done,19/08/2021 16:55,19/08/2021 20:32
+JBMETA-422,Task,Resolved,JBMETA,JBoss Metadata,software,Done,15/07/2021 21:55,19/08/2021 20:30
+JBMETA-421,Enhancement,Resolved,JBMETA,JBoss Metadata,software,Won't Do,11/02/2021 14:24,13/02/2021 13:34
+JBMETA-420,Enhancement,Resolved,JBMETA,JBoss Metadata,software,Done,31/08/2020 17:39,18/02/2021 20:35
+JBMETA-419,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,26/08/2020 22:47,11/02/2021 16:14
+JBMETA-418,Bug,Closed,JBMETA,JBoss Metadata,software,Done,09/01/2020 15:28,25/12/2023 10:42
+JBMETA-417,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,20/12/2019 03:22,31/08/2020 14:06
+JBMETA-416,Task,Closed,JBMETA,JBoss Metadata,software,Done,15/03/2019 06:17,19/03/2019 04:05
+JBMETA-415,Enhancement,Resolved,JBMETA,JBoss Metadata,software,Done,08/02/2019 04:44,31/08/2020 14:04
+JBMETA-414,Enhancement,Resolved,JBMETA,JBoss Metadata,software,Done,01/10/2018 08:19,16/11/2022 17:29
+JBMETA-413,Enhancement,Resolved,JBMETA,JBoss Metadata,software,Done,27/09/2018 10:20,27/09/2018 15:27
+JBMETA-412,Bug,Closed,JBMETA,JBoss Metadata,software,Done,25/09/2018 11:22,26/09/2018 10:37
+JBMETA-411,Bug,Closed,JBMETA,JBoss Metadata,software,Done,21/09/2018 11:11,24/09/2018 10:47
+JBMETA-410,Bug,Closed,JBMETA,JBoss Metadata,software,Done,29/08/2018 14:18,20/09/2018 12:18
+JBMETA-409,Bug,Closed,JBMETA,JBoss Metadata,software,Not a Bug,04/08/2018 01:33,17/11/2022 08:03
+JBMETA-408,Bug,Closed,JBMETA,JBoss Metadata,software,Done,30/07/2018 18:00,24/09/2018 10:46
+JBMETA-407,Bug,Closed,JBMETA,JBoss Metadata,software,Done,28/07/2018 21:14,24/09/2018 04:41
+JBMETA-406,Task,Coding In Progress,JBMETA,JBoss Metadata,software,,25/07/2018 18:00,
+JBMETA-405,Bug,Closed,JBMETA,JBoss Metadata,software,Done,19/02/2018 09:41,20/02/2018 09:57
+JBMETA-404,Bug,Closed,JBMETA,JBoss Metadata,software,Done,09/01/2018 03:25,24/09/2018 11:04
+JBMETA-403,Bug,Closed,JBMETA,JBoss Metadata,software,Done,09/10/2017 16:57,02/10/2018 11:42
+JBMETA-401,Task,Resolved,JBMETA,JBoss Metadata,software,Done,13/04/2017 07:17,13/04/2017 07:19
+JBMETA-400,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,23/03/2017 14:05,24/03/2017 08:20
+JBMETA-399,Task,Resolved,JBMETA,JBoss Metadata,software,Won't Do,21/03/2017 17:10,23/03/2017 10:16
+JBMETA-398,Bug,Closed,JBMETA,JBoss Metadata,software,Done,09/12/2016 11:48,26/09/2018 10:45
+JBMETA-397,Bug,Closed,JBMETA,JBoss Metadata,software,Done,23/11/2016 06:51,24/09/2018 04:42
+JBMETA-396,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,18/05/2016 04:33,24/09/2018 11:04
+JBMETA-395,Bug,Closed,JBMETA,JBoss Metadata,software,Done,21/04/2016 14:29,24/09/2018 10:51
+JBMETA-394,Bug,Closed,JBMETA,JBoss Metadata,software,Done,21/04/2016 11:45,24/09/2018 11:04
+JBMETA-393,Bug,Closed,JBMETA,JBoss Metadata,software,Done,19/04/2016 06:39,24/09/2018 10:46
+JBMETA-392,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,10/03/2016 09:08,13/04/2017 07:21
+JBMETA-391,Task,Closed,JBMETA,JBoss Metadata,software,Won't Do,25/11/2015 02:12,03/12/2015 23:15
+JBMETA-390,Feature Request,Open,JBMETA,JBoss Metadata,software,,02/11/2015 10:32,
+JBMETA-389,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,25/09/2015 08:46,09/01/2018 03:21
+JBMETA-388,Bug,Closed,JBMETA,JBoss Metadata,software,Obsolete,25/08/2015 09:42,17/11/2022 10:04
+JBMETA-387,Bug,Reopened,JBMETA,JBoss Metadata,software,,02/06/2015 16:34,
+JBMETA-386,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,02/06/2015 09:42,03/06/2015 09:00
+JBMETA-385,Enhancement,Closed,JBMETA,JBoss Metadata,software,Done,25/02/2015 18:36,04/05/2015 04:55
+JBMETA-384,Bug,Open,JBMETA,JBoss Metadata,software,,21/01/2015 15:27,
+JBMETA-383,Task,Closed,JBMETA,JBoss Metadata,software,Done,09/01/2015 06:32,15/05/2017 06:57
+JBMETA-382,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,24/11/2014 16:00,02/12/2014 20:48
+JBMETA-381,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,24/11/2014 11:33,17/03/2017 18:46
+JBMETA-380,Bug,Resolved,JBMETA,JBoss Metadata,software,Not a Bug,07/11/2014 11:22,17/11/2022 08:03
+JBMETA-379,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,31/07/2014 14:48,09/09/2014 11:24
+JBMETA-378,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,06/08/2014 06:44,24/09/2018 04:36
+JBMETA-377,Bug,Closed,JBMETA,JBoss Metadata,software,Duplicate,03/08/2014 08:28,09/09/2014 11:25
+JBMETA-376,Bug,Resolved,JBMETA,JBoss Metadata,software,Not a Bug,25/06/2014 13:37,17/11/2022 08:03
+JBMETA-374,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,21/03/2014 13:47,21/03/2014 19:25
+JBMETA-373,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,28/01/2014 11:09,05/09/2014 11:42
+JBMETA-372,Enhancement,Resolved,JBMETA,JBoss Metadata,software,Done,23/01/2014 12:16,13/12/2022 13:26
+JBMETA-371,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,22/01/2014 18:19,24/01/2014 17:32
+JBMETA-370,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,07/01/2014 12:12,27/01/2014 11:53
+JBMETA-369,Bug,Closed,JBMETA,JBoss Metadata,software,Obsolete,02/12/2013 04:43,21/03/2016 23:53
+JBMETA-368,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,31/10/2013 14:25,14/11/2013 06:00
+JBMETA-367,Bug,Closed,JBMETA,JBoss Metadata,software,Obsolete,19/08/2013 05:47,17/11/2022 12:34
+JBMETA-366,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,28/06/2013 14:52,25/07/2013 06:58
+JBMETA-365,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,22/04/2013 05:58,11/05/2013 03:09
+JBMETA-364,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,07/03/2013 17:54,27/01/2014 11:47
+JBMETA-363,Bug,Closed,JBMETA,JBoss Metadata,software,Done,29/01/2013 14:23,24/09/2018 11:03
+JBMETA-362,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,28/10/2012 20:12,28/10/2012 20:12
+JBMETA-360,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,10/08/2012 07:28,10/08/2012 07:28
+JBMETA-359,Task,Resolved,JBMETA,JBoss Metadata,software,Done,08/08/2012 05:48,27/08/2012 05:50
+JBMETA-358,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,12/07/2012 08:46,23/07/2012 06:31
+JBMETA-357,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,09/06/2012 01:30,17/11/2022 12:56
+JBMETA-356,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,16/04/2012 03:55,17/04/2012 10:17
+JBMETA-355,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,29/03/2012 09:17,12/04/2012 04:27
+JBMETA-354,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,29/02/2012 04:13,05/12/2014 04:42
+JBMETA-353,Task,Resolved,JBMETA,JBoss Metadata,software,Done,28/02/2012 09:28,29/02/2012 03:35
+JBMETA-352,Quality Risk,Open,JBMETA,JBoss Metadata,software,,20/01/2012 15:44,
+JBMETA-351,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,19/01/2012 15:44,23/01/2012 09:21
+JBMETA-350,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,17/01/2012 07:45,27/01/2012 09:41
+JBMETA-349,Bug,Resolved,JBMETA,JBoss Metadata,software,Won't Do,13/01/2012 19:44,29/02/2012 04:14
+JBMETA-348,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,12/12/2011 09:05,12/12/2011 09:54
+JBMETA-347,Task,Resolved,JBMETA,JBoss Metadata,software,Done,09/12/2011 16:53,14/12/2011 09:04
+JBMETA-346,Bug,Closed,JBMETA,JBoss Metadata,software,Done,09/12/2011 09:35,12/04/2012 04:46
+JBMETA-345,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,09/12/2011 06:37,12/12/2011 09:53
+JBMETA-344,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,25/11/2011 05:25,25/11/2011 05:28
+JBMETA-343,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,01/11/2011 05:23,27/01/2012 09:39
+JBMETA-342,Bug,Open,JBMETA,JBoss Metadata,software,,27/10/2011 03:38,
+JBMETA-341,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,25/10/2011 05:30,01/11/2011 05:22
+JBMETA-340,Task,Resolved,JBMETA,JBoss Metadata,software,Done,21/10/2011 09:38,03/11/2011 06:57
+JBMETA-339,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,14/10/2011 08:44,17/10/2011 05:10
+JBMETA-338,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,21/09/2011 09:23,22/09/2011 04:44
+JBMETA-337,Task,Resolved,JBMETA,JBoss Metadata,software,Done,15/09/2011 08:45,20/09/2011 04:09
+JBMETA-336,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,31/08/2011 10:22,01/09/2011 06:35
+JBMETA-335,Task,Resolved,JBMETA,JBoss Metadata,software,Done,20/07/2011 07:50,15/09/2011 08:46
+JBMETA-334,Task,Resolved,JBMETA,JBoss Metadata,software,Done,20/06/2011 03:30,20/07/2011 04:06
+JBMETA-333,Bug,Closed,JBMETA,JBoss Metadata,software,Obsolete,10/06/2011 08:13,29/08/2022 11:33
+JBMETA-332,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,23/05/2011 05:38,21/06/2011 05:23
+JBMETA-331,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,22/03/2011 19:23,16/05/2011 10:53
+JBMETA-330,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,18/02/2011 05:38,18/02/2011 05:43
+JBMETA-329,Bug,Closed,JBMETA,JBoss Metadata,software,Obsolete,14/02/2011 06:57,29/08/2022 11:34
+JBMETA-328,Bug,Closed,JBMETA,JBoss Metadata,software,Can't Do,31/01/2011 14:10,22/08/2022 11:08
+JBMETA-327,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,06/01/2011 02:55,06/01/2011 02:56
+JBMETA-326,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,04/01/2011 15:10,04/01/2011 15:15
+JBMETA-325,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,24/12/2010 13:56,24/12/2010 15:51
+JBMETA-324,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,20/12/2010 02:24,20/12/2010 03:30
+JBMETA-323,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,10/12/2010 02:58,10/12/2010 03:34
+JBMETA-322,Task,Resolved,JBMETA,JBoss Metadata,software,Done,08/12/2010 08:47,20/12/2010 21:20
+JBMETA-321,Task,Resolved,JBMETA,JBoss Metadata,software,Done,07/12/2010 12:35,08/12/2010 03:26
+JBMETA-320,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,07/12/2010 09:08,07/12/2010 09:27
+JBMETA-319,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,07/12/2010 05:33,20/12/2010 21:18
+JBMETA-318,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,06/12/2010 22:16,20/12/2010 21:17
+JBMETA-317,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,30/11/2010 09:25,01/12/2010 12:12
+JBMETA-316,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,23/11/2010 07:26,23/11/2010 11:18
+JBMETA-315,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,23/11/2010 06:52,23/11/2010 11:26
+JBMETA-314,Task,Resolved,JBMETA,JBoss Metadata,software,Done,17/11/2010 01:34,21/11/2010 10:21
+JBMETA-313,Bug,Closed,JBMETA,JBoss Metadata,software,Obsolete,16/11/2010 05:59,17/11/2022 12:52
+JBMETA-312,Task,Resolved,JBMETA,JBoss Metadata,software,Obsolete,14/11/2010 23:48,24/10/2011 04:04
+JBMETA-311,Task,Open,JBMETA,JBoss Metadata,software,,12/11/2010 04:55,
+JBMETA-310,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,06/11/2010 10:33,06/11/2010 10:35
+JBMETA-309,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,05/11/2010 04:18,05/11/2010 10:25
+JBMETA-308,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,03/11/2010 06:55,03/11/2010 07:00
+JBMETA-307,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,01/11/2010 08:52,08/11/2010 14:02
+JBMETA-306,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,22/10/2010 02:56,22/10/2010 03:27
+JBMETA-305,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,19/10/2010 06:16,19/10/2010 07:27
+JBMETA-304,Task,Resolved,JBMETA,JBoss Metadata,software,Done,19/10/2010 05:23,19/10/2010 06:09
+JBMETA-303,Feature Request,Open,JBMETA,JBoss Metadata,software,,14/10/2010 13:12,
+JBMETA-302,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,13/10/2010 09:06,13/10/2010 09:22
+JBMETA-301,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,07/10/2010 02:54,07/10/2010 03:01
+JBMETA-300,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,27/09/2010 10:08,28/09/2010 07:51
+JBMETA-299,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,23/09/2010 09:53,23/09/2010 09:57
+JBMETA-298,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,23/09/2010 03:49,23/09/2010 09:57
+JBMETA-297,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,07/09/2010 08:35,16/09/2010 02:58
+JBMETA-296,Task,Resolved,JBMETA,JBoss Metadata,software,Done,25/08/2010 12:17,25/08/2010 13:47
+JBMETA-295,Feature Request,Closed,JBMETA,JBoss Metadata,software,Done,05/08/2010 12:02,06/08/2010 10:34
+JBMETA-294,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,04/08/2010 10:51,04/08/2010 11:16
+JBMETA-293,Task,Closed,JBMETA,JBoss Metadata,software,Done,25/06/2010 12:08,23/07/2010 09:57
+JBMETA-292,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,24/06/2010 08:34,05/07/2010 04:19
+JBMETA-291,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,21/06/2010 13:16,21/06/2010 13:26
+JBMETA-290,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,06/06/2010 14:58,06/06/2010 15:01
+JBMETA-289,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,06/06/2010 13:49,06/06/2010 15:01
+JBMETA-288,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,02/06/2010 13:26,03/06/2010 15:06
+JBMETA-287,Task,Resolved,JBMETA,JBoss Metadata,software,Done,02/06/2010 06:38,04/06/2010 09:42
+JBMETA-286,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,01/06/2010 09:04,01/06/2010 09:12
+JBMETA-285,Task,Closed,JBMETA,JBoss Metadata,software,Done,28/05/2010 04:07,28/05/2010 04:12
+JBMETA-284,Task,Resolved,JBMETA,JBoss Metadata,software,Done,19/05/2010 23:03,20/05/2010 02:08
+JBMETA-283,Component Upgrade,Resolved,JBMETA,JBoss Metadata,software,Done,14/05/2010 12:52,17/05/2010 04:16
+JBMETA-282,Task,Closed,JBMETA,JBoss Metadata,software,Done,12/05/2010 10:15,12/05/2010 10:29
+JBMETA-281,Task,Resolved,JBMETA,JBoss Metadata,software,Obsolete,06/05/2010 11:35,09/01/2013 18:50
+JBMETA-280,Task,Resolved,JBMETA,JBoss Metadata,software,Done,04/05/2010 09:57,04/05/2010 09:58
+JBMETA-279,Task,Resolved,JBMETA,JBoss Metadata,software,Done,03/05/2010 08:13,04/05/2010 07:26
+JBMETA-278,Task,Resolved,JBMETA,JBoss Metadata,software,Done,26/04/2010 09:10,27/04/2010 06:24
+JBMETA-277,Task,Resolved,JBMETA,JBoss Metadata,software,Done,23/04/2010 03:43,04/05/2010 07:31
+JBMETA-276,Task,Closed,JBMETA,JBoss Metadata,software,Done,15/04/2010 07:57,15/04/2010 08:43
+JBMETA-275,Task,Resolved,JBMETA,JBoss Metadata,software,Done,05/04/2010 04:47,05/04/2010 05:02
+JBMETA-274,Task,Closed,JBMETA,JBoss Metadata,software,Done,23/03/2010 18:02,23/03/2010 18:36
+JBMETA-273,Task,Resolved,JBMETA,JBoss Metadata,software,Done,23/03/2010 08:03,16/12/2010 05:40
+JBMETA-272,Task,Closed,JBMETA,JBoss Metadata,software,Obsolete,22/03/2010 23:54,17/11/2022 12:30
+JBMETA-271,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,22/03/2010 14:31,22/03/2010 15:01
+JBMETA-269,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,09/03/2010 15:48,18/05/2010 14:29
+JBMETA-266,Task,Closed,JBMETA,JBoss Metadata,software,Done,08/03/2010 21:51,08/03/2010 23:35
+JBMETA-263,Task,Resolved,JBMETA,JBoss Metadata,software,Done,08/03/2010 07:24,26/04/2010 09:08
+JBMETA-262,Task,Resolved,JBMETA,JBoss Metadata,software,Done,08/03/2010 04:10,09/03/2010 13:21
+JBMETA-260,Task,Closed,JBMETA,JBoss Metadata,software,Done,07/03/2010 09:49,11/03/2010 14:41
+JBMETA-259,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,01/03/2010 05:03,02/03/2010 09:44
+JBMETA-258,Release,Resolved,JBMETA,JBoss Metadata,software,Done,24/02/2010 12:53,09/03/2010 13:25
+JBMETA-257,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,24/02/2010 12:48,02/03/2010 14:02
+JBMETA-256,Release,Resolved,JBMETA,JBoss Metadata,software,Done,21/02/2010 22:06,21/02/2010 22:22
+JBMETA-255,Task,Resolved,JBMETA,JBoss Metadata,software,Done,21/02/2010 20:12,21/02/2010 22:22
+JBMETA-254,Release,Resolved,JBMETA,JBoss Metadata,software,Done,16/02/2010 16:51,24/02/2010 12:44
+JBMETA-253,Task,Resolved,JBMETA,JBoss Metadata,software,Done,16/02/2010 16:50,24/02/2010 12:43
+JBMETA-252,Task,Resolved,JBMETA,JBoss Metadata,software,Done,12/02/2010 12:10,12/02/2010 12:13
+JBMETA-251,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,30/01/2010 06:50,30/01/2010 10:58
+JBMETA-250,Task,Resolved,JBMETA,JBoss Metadata,software,Done,28/01/2010 12:38,28/01/2010 12:58
+JBMETA-249,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,28/01/2010 05:39,28/01/2010 05:55
+JBMETA-248,Release,Resolved,JBMETA,JBoss Metadata,software,Done,15/01/2010 07:20,15/01/2010 08:05
+JBMETA-247,Task,Resolved,JBMETA,JBoss Metadata,software,Done,15/01/2010 04:56,15/01/2010 08:05
+JBMETA-246,Task,Resolved,JBMETA,JBoss Metadata,software,Done,13/01/2010 07:03,13/01/2010 07:13
+JBMETA-245,Task,Resolved,JBMETA,JBoss Metadata,software,Done,12/01/2010 14:39,13/01/2010 09:34
+JBMETA-244,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,07/01/2010 06:40,07/01/2010 07:01
+JBMETA-243,Task,Resolved,JBMETA,JBoss Metadata,software,Done,07/01/2010 03:45,13/01/2010 09:27
+JBMETA-242,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,04/01/2010 09:49,04/01/2010 13:30
+JBMETA-241,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,21/12/2009 07:08,16/12/2010 05:39
+JBMETA-240,Component Upgrade,Resolved,JBMETA,JBoss Metadata,software,Done,17/12/2009 07:23,17/12/2009 07:27
+JBMETA-239,Component Upgrade,Resolved,JBMETA,JBoss Metadata,software,Done,17/12/2009 07:22,17/12/2009 07:29
+JBMETA-238,Feature Request,Open,JBMETA,JBoss Metadata,software,,17/12/2009 02:16,
+JBMETA-237,Task,Resolved,JBMETA,JBoss Metadata,software,Done,16/12/2009 13:06,16/12/2009 13:21
+JBMETA-235,Release,Resolved,JBMETA,JBoss Metadata,software,Done,16/12/2009 07:35,16/12/2009 08:14
+JBMETA-234,Task,Resolved,JBMETA,JBoss Metadata,software,Done,16/12/2009 04:57,16/12/2009 07:36
+JBMETA-233,Component Upgrade,Resolved,JBMETA,JBoss Metadata,software,Done,15/12/2009 02:53,17/12/2009 02:10
+JBMETA-232,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,14/12/2009 09:41,17/12/2009 02:09
+JBMETA-231,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,11/12/2009 08:22,11/12/2009 08:23
+JBMETA-230,Task,Resolved,JBMETA,JBoss Metadata,software,Done,09/12/2009 01:50,09/12/2009 02:15
+JBMETA-229,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,07/12/2009 08:50,08/12/2009 15:10
+JBMETA-228,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,07/12/2009 07:30,07/12/2009 08:32
+JBMETA-227,Task,Resolved,JBMETA,JBoss Metadata,software,Done,03/12/2009 13:15,03/12/2009 13:17
+JBMETA-226,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,26/11/2009 06:53,30/07/2010 07:37
+JBMETA-225,Task,Resolved,JBMETA,JBoss Metadata,software,Done,08/11/2009 20:48,16/11/2009 09:59
+JBMETA-224,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,23/10/2009 10:56,10/09/2010 16:19
+JBMETA-223,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,20/10/2009 13:00,21/10/2009 14:05
+JBMETA-222,Task,Resolved,JBMETA,JBoss Metadata,software,Done,08/10/2009 23:14,13/10/2009 23:50
+JBMETA-221,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,30/09/2009 21:03,30/09/2009 21:07
+JBMETA-220,Task,Closed,JBMETA,JBoss Metadata,software,Obsolete,01/09/2009 10:17,23/12/2014 23:01
+JBMETA-219,Task,Resolved,JBMETA,JBoss Metadata,software,Done,12/08/2009 04:34,12/08/2009 04:52
+JBMETA-218,Task,Resolved,JBMETA,JBoss Metadata,software,Done,30/07/2009 10:02,04/08/2009 08:42
+JBMETA-217,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,30/07/2009 10:00,04/08/2009 08:42
+JBMETA-216,Bug,Closed,JBMETA,JBoss Metadata,software,Cannot Reproduce,28/07/2009 08:34,30/08/2022 10:36
+JBMETA-215,Feature Request,Open,JBMETA,JBoss Metadata,software,,02/07/2009 08:18,
+JBMETA-214,Task,Resolved,JBMETA,JBoss Metadata,software,Done,23/06/2009 22:50,23/06/2009 23:08
+JBMETA-213,Task,Resolved,JBMETA,JBoss Metadata,software,Done,23/06/2009 02:32,06/07/2009 03:49
+JBMETA-212,Task,Closed,JBMETA,JBoss Metadata,software,Won't Do,18/06/2009 03:00,08/10/2009 23:29
+JBMETA-211,Task,Closed,JBMETA,JBoss Metadata,software,Done,18/06/2009 02:09,18/06/2009 04:22
+JBMETA-210,Bug,Closed,JBMETA,JBoss Metadata,software,Done,17/06/2009 15:28,28/08/2009 11:51
+JBMETA-209,Bug,Closed,JBMETA,JBoss Metadata,software,Done,17/06/2009 13:42,23/10/2009 05:43
+JBMETA-208,Bug,Resolved,JBMETA,JBoss Metadata,software,Won't Do,16/06/2009 20:02,09/07/2010 04:55
+JBMETA-207,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,11/06/2009 09:59,14/12/2009 18:54
+JBMETA-206,Task,Resolved,JBMETA,JBoss Metadata,software,Done,11/06/2009 09:24,28/08/2009 11:51
+JBMETA-205,Component Upgrade,Closed,JBMETA,JBoss Metadata,software,Obsolete,11/06/2009 09:20,17/11/2022 12:53
+JBMETA-204,Bug,Resolved,JBMETA,JBoss Metadata,software,Obsolete,08/06/2009 11:10,02/10/2018 11:44
+JBMETA-203,Feature Request,Open,JBMETA,JBoss Metadata,software,,26/05/2009 10:09,
+JBMETA-202,Bug,Closed,JBMETA,JBoss Metadata,software,Done,25/05/2009 10:15,25/05/2009 10:16
+JBMETA-201,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,21/05/2009 03:05,02/06/2009 09:42
+JBMETA-200,Bug,Closed,JBMETA,JBoss Metadata,software,Done,13/05/2009 15:56,14/05/2009 04:15
+JBMETA-199,Task,Resolved,JBMETA,JBoss Metadata,software,Done,12/05/2009 13:27,04/06/2009 00:16
+JBMETA-198,Task,Resolved,JBMETA,JBoss Metadata,software,Done,12/05/2009 13:26,04/06/2009 00:13
+JBMETA-197,Task,Closed,JBMETA,JBoss Metadata,software,Done,11/05/2009 15:24,11/05/2009 15:26
+JBMETA-196,Component Upgrade,Closed,JBMETA,JBoss Metadata,software,Done,11/05/2009 15:21,11/05/2009 15:27
+JBMETA-195,Bug,Resolved,JBMETA,JBoss Metadata,software,Duplicate,07/05/2009 18:02,17/09/2012 10:45
+JBMETA-194,Task,Closed,JBMETA,JBoss Metadata,software,Done,07/05/2009 08:48,07/05/2009 08:54
+JBMETA-193,Component Upgrade,Closed,JBMETA,JBoss Metadata,software,Done,06/05/2009 08:56,06/05/2009 08:59
+JBMETA-192,Task,Closed,JBMETA,JBoss Metadata,software,Done,06/05/2009 08:36,06/05/2009 08:41
+JBMETA-191,Bug,Closed,JBMETA,JBoss Metadata,software,Done,21/04/2009 08:29,21/04/2009 08:29
+JBMETA-190,Bug,Closed,JBMETA,JBoss Metadata,software,Not a Bug,20/04/2009 09:32,26/08/2022 06:48
+JBMETA-189,Bug,Closed,JBMETA,JBoss Metadata,software,Done,20/04/2009 07:56,20/04/2009 08:18
+JBMETA-188,Component Upgrade,Closed,JBMETA,JBoss Metadata,software,Done,20/04/2009 07:53,20/04/2009 08:18
+JBMETA-187,Feature Request,Open,JBMETA,JBoss Metadata,software,,09/04/2009 19:46,
+JBMETA-185,Bug,Closed,JBMETA,JBoss Metadata,software,Done,18/03/2009 06:19,18/03/2009 06:38
+JBMETA-184,Bug,Closed,JBMETA,JBoss Metadata,software,Won't Do,16/03/2009 11:46,17/03/2009 14:25
+JBMETA-183,Bug,Closed,JBMETA,JBoss Metadata,software,Done,10/03/2009 10:54,10/03/2009 20:30
+JBMETA-182,Task,Resolved,JBMETA,JBoss Metadata,software,Done,02/03/2009 21:59,02/03/2009 22:01
+JBMETA-181,Component Upgrade,Closed,JBMETA,JBoss Metadata,software,Done,02/03/2009 05:53,12/03/2009 08:07
+JBMETA-180,Task,Resolved,JBMETA,JBoss Metadata,software,Done,09/02/2009 23:24,09/02/2009 23:28
+JBMETA-179,Component Upgrade,Closed,JBMETA,JBoss Metadata,software,Done,09/02/2009 06:33,12/05/2009 12:14
+JBMETA-178,Task,Resolved,JBMETA,JBoss Metadata,software,Done,05/02/2009 22:06,09/02/2009 08:06
+JBMETA-177,Task,Resolved,JBMETA,JBoss Metadata,software,Done,03/02/2009 06:18,03/02/2009 08:11
+JBMETA-176,Task,Resolved,JBMETA,JBoss Metadata,software,Done,03/02/2009 03:45,03/02/2009 06:07
+JBMETA-175,Task,Closed,JBMETA,JBoss Metadata,software,Done,28/01/2009 06:18,28/01/2009 06:31
+JBMETA-173,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,22/01/2009 05:23,22/01/2009 06:28
+JBMETA-172,Task,Resolved,JBMETA,JBoss Metadata,software,Done,21/01/2009 21:15,21/01/2009 21:33
+JBMETA-171,Task,Closed,JBMETA,JBoss Metadata,software,Done,21/01/2009 16:36,18/03/2009 10:25
+JBMETA-170,Task,Closed,JBMETA,JBoss Metadata,software,Done,21/01/2009 16:04,21/01/2009 16:33
+JBMETA-169,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,19/01/2009 05:09,19/01/2009 06:29
+JBMETA-168,Task,Resolved,JBMETA,JBoss Metadata,software,Done,15/01/2009 17:49,15/01/2009 21:20
+JBMETA-165,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,11/01/2009 04:19,11/01/2009 05:35
+JBMETA-162,Bug,Closed,JBMETA,JBoss Metadata,software,Done,08/01/2009 06:05,08/01/2009 06:28
+JBMETA-161,Task,Closed,JBMETA,JBoss Metadata,software,Duplicate,07/01/2009 22:29,08/01/2009 01:09
+JBMETA-159,Task,Closed,JBMETA,JBoss Metadata,software,Done,06/01/2009 08:00,12/05/2009 12:18
+JBMETA-158,Task,Resolved,JBMETA,JBoss Metadata,software,Done,22/12/2008 11:11,03/03/2009 02:22
+JBMETA-157,Bug,Closed,JBMETA,JBoss Metadata,software,Obsolete,17/12/2008 17:22,22/08/2022 11:07
+JBMETA-155,Task,Closed,JBMETA,JBoss Metadata,software,Done,09/12/2008 15:04,11/12/2008 17:07
+JBMETA-154,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,09/12/2008 05:40,10/12/2008 02:31
+JBMETA-152,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,02/12/2008 03:20,02/12/2008 04:37
+JBMETA-149,Feature Request,Open,JBMETA,JBoss Metadata,software,,29/11/2008 17:57,
+JBMETA-148,Feature Request,Open,JBMETA,JBoss Metadata,software,,29/11/2008 17:56,
+JBMETA-147,Bug,Closed,JBMETA,JBoss Metadata,software,Done,26/11/2008 07:59,26/11/2008 08:05
+JBMETA-146,Task,Closed,JBMETA,JBoss Metadata,software,Done,23/11/2008 22:25,25/11/2008 05:53
+JBMETA-145,Task,Closed,JBMETA,JBoss Metadata,software,Done,17/11/2008 09:03,20/11/2008 11:34
+JBMETA-144,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,10/11/2008 22:30,10/11/2008 22:48
+JBMETA-143,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,02/11/2008 13:40,03/11/2008 00:21
+JBMETA-142,Task,Closed,JBMETA,JBoss Metadata,software,Done,31/10/2008 10:18,12/05/2009 12:16
+JBMETA-141,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,29/10/2008 07:58,30/10/2008 14:52
+JBMETA-140,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,28/10/2008 08:32,29/10/2008 08:27
+JBMETA-139,Bug,Closed,JBMETA,JBoss Metadata,software,Done,28/10/2008 08:31,12/05/2009 12:13
+JBMETA-138,Component Upgrade,Closed,JBMETA,JBoss Metadata,software,Done,28/10/2008 07:01,28/10/2008 07:02
+JBMETA-137,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,27/10/2008 09:45,29/10/2008 08:27
+JBMETA-136,Component Upgrade,Closed,JBMETA,JBoss Metadata,software,Done,24/10/2008 11:31,24/10/2008 11:32
+JBMETA-135,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,23/10/2008 03:45,23/10/2008 03:47
+JBMETA-134,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,22/10/2008 18:12,28/10/2008 13:31
+JBMETA-133,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,22/10/2008 17:16,23/10/2008 04:28
+JBMETA-132,Task,Resolved,JBMETA,JBoss Metadata,software,Done,19/10/2008 23:57,21/10/2008 20:25
+JBMETA-131,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,19/10/2008 20:50,21/10/2008 03:10
+JBMETA-130,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,16/10/2008 03:30,21/10/2008 03:09
+JBMETA-123,Task,Closed,JBMETA,JBoss Metadata,software,Obsolete,15/10/2008 09:57,17/11/2022 12:50
+JBMETA-122,Task,Resolved,JBMETA,JBoss Metadata,software,Done,15/10/2008 04:32,16/10/2008 04:03
+JBMETA-121,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,15/10/2008 04:28,16/10/2008 04:01
+JBMETA-120,Feature Request,Closed,JBMETA,JBoss Metadata,software,Done,14/10/2008 18:30,16/10/2008 19:32
+JBMETA-119,Task,Resolved,JBMETA,JBoss Metadata,software,Done,14/10/2008 06:23,30/10/2008 08:58
+JBMETA-118,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,13/10/2008 21:43,13/10/2008 22:08
+JBMETA-117,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,11/10/2008 22:16,02/11/2008 12:22
+JBMETA-116,Task,Resolved,JBMETA,JBoss Metadata,software,Done,10/10/2008 05:50,22/12/2008 11:07
+JBMETA-115,Task,Closed,JBMETA,JBoss Metadata,software,Done,10/10/2008 05:24,10/10/2008 12:34
+JBMETA-111,Task,Resolved,JBMETA,JBoss Metadata,software,Done,07/10/2008 02:01,10/10/2008 05:54
+JBMETA-110,Task,Resolved,JBMETA,JBoss Metadata,software,Done,01/10/2008 09:27,22/10/2008 05:02
+JBMETA-109,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,29/09/2008 05:36,30/09/2008 04:40
+JBMETA-108,Bug,Closed,JBMETA,JBoss Metadata,software,Done,16/09/2008 09:00,16/09/2008 09:03
+JBMETA-107,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,16/09/2008 04:10,29/09/2008 10:18
+JBMETA-106,Component Upgrade,Closed,JBMETA,JBoss Metadata,software,Done,10/09/2008 05:54,10/09/2008 05:54
+JBMETA-105,Component Upgrade,Closed,JBMETA,JBoss Metadata,software,Done,10/09/2008 05:42,10/09/2008 05:46
+JBMETA-104,Component Upgrade,Resolved,JBMETA,JBoss Metadata,software,Done,09/09/2008 04:19,09/09/2008 04:20
+JBMETA-103,Component Upgrade,Resolved,JBMETA,JBoss Metadata,software,Done,09/09/2008 04:10,09/09/2008 04:11
+JBMETA-102,Component Upgrade,Resolved,JBMETA,JBoss Metadata,software,Done,09/09/2008 04:05,09/09/2008 04:06
+JBMETA-101,Task,Closed,JBMETA,JBoss Metadata,software,Done,03/09/2008 11:20,10/09/2008 05:34
+JBMETA-100,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,28/08/2008 18:39,01/09/2008 04:24
+JBMETA-99,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,28/08/2008 13:53,31/08/2008 05:58
+JBMETA-98,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,27/08/2008 01:08,28/08/2008 10:31
+JBMETA-97,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,20/08/2008 08:15,20/08/2008 08:52
+JBMETA-96,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,15/08/2008 12:06,20/08/2008 09:01
+JBMETA-94,Bug,Closed,JBMETA,JBoss Metadata,software,Done,13/08/2008 00:35,13/08/2008 11:31
+JBMETA-93,Feature Request,Closed,JBMETA,JBoss Metadata,software,Done,12/08/2008 11:27,13/08/2008 04:39
+JBMETA-92,Task,Closed,JBMETA,JBoss Metadata,software,Done,12/08/2008 10:20,12/08/2008 10:46
+JBMETA-91,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,09/08/2008 14:53,09/08/2008 15:01
+JBMETA-89,Component Upgrade,Resolved,JBMETA,JBoss Metadata,software,Done,07/08/2008 11:59,04/09/2008 12:41
+JBMETA-88,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,06/08/2008 03:48,07/08/2008 06:22
+JBMETA-87,Component Upgrade,Closed,JBMETA,JBoss Metadata,software,Done,05/08/2008 11:35,06/08/2008 08:12
+JBMETA-86,Bug,Closed,JBMETA,JBoss Metadata,software,Done,01/08/2008 01:45,01/08/2008 06:39
+JBMETA-85,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,29/07/2008 14:24,29/07/2008 14:27
+JBMETA-84,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,28/07/2008 04:12,28/07/2008 05:21
+JBMETA-83,Bug,Closed,JBMETA,JBoss Metadata,software,Done,26/07/2008 00:07,26/07/2008 04:25
+JBMETA-82,Bug,Closed,JBMETA,JBoss Metadata,software,Done,25/07/2008 10:33,26/07/2008 04:25
+JBMETA-81,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,23/07/2008 11:45,24/07/2008 16:08
+JBMETA-80,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,23/07/2008 01:21,24/07/2008 04:19
+JBMETA-79,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,22/07/2008 20:54,23/07/2008 20:21
+JBMETA-78,Task,Resolved,JBMETA,JBoss Metadata,software,Done,19/07/2008 11:45,22/07/2008 06:33
+JBMETA-77,Task,Resolved,JBMETA,JBoss Metadata,software,Done,19/07/2008 10:59,22/07/2008 06:32
+JBMETA-76,Bug,Closed,JBMETA,JBoss Metadata,software,Done,15/07/2008 09:45,06/08/2008 08:08
+JBMETA-75,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,12/07/2008 15:10,22/07/2008 06:42
+JBMETA-74,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,11/07/2008 08:49,11/07/2008 08:50
+JBMETA-73,Feature Request,Closed,JBMETA,JBoss Metadata,software,Done,10/07/2008 17:54,10/07/2008 17:54
+JBMETA-72,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,09/07/2008 03:18,22/07/2008 07:10
+JBMETA-71,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,08/07/2008 12:49,08/07/2008 13:02
+JBMETA-70,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,08/07/2008 08:25,09/07/2008 04:18
+JBMETA-69,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,08/07/2008 08:24,13/08/2008 11:32
+JBMETA-68,Task,Resolved,JBMETA,JBoss Metadata,software,Done,02/07/2008 00:37,22/07/2008 06:23
+JBMETA-67,Bug,Closed,JBMETA,JBoss Metadata,software,Done,30/06/2008 03:34,30/06/2008 03:45
+JBMETA-66,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,24/06/2008 06:57,24/06/2008 08:39
+JBMETA-65,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,23/06/2008 08:29,23/06/2008 08:38
+JBMETA-64,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,20/06/2008 14:10,24/06/2008 05:59
+JBMETA-63,Component Upgrade,Resolved,JBMETA,JBoss Metadata,software,Done,19/06/2008 04:18,04/09/2008 10:20
+JBMETA-62,Component Upgrade,Closed,JBMETA,JBoss Metadata,software,Done,19/06/2008 03:59,19/06/2008 03:59
+JBMETA-61,Component Upgrade,Resolved,JBMETA,JBoss Metadata,software,Done,19/06/2008 03:34,19/06/2008 03:34
+JBMETA-60,Task,Closed,JBMETA,JBoss Metadata,software,Done,18/06/2008 04:49,19/06/2008 04:19
+JBMETA-59,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,18/06/2008 04:09,19/06/2008 03:06
+JBMETA-58,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,15/06/2008 01:29,17/06/2008 14:14
+JBMETA-57,Bug,Resolved,JBMETA,JBoss Metadata,software,Won't Do,13/06/2008 10:18,22/07/2008 06:39
+JBMETA-56,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,12/06/2008 00:05,13/06/2008 17:53
+JBMETA-55,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,11/06/2008 20:46,11/06/2008 23:30
+JBMETA-54,Task,Closed,JBMETA,JBoss Metadata,software,Done,11/06/2008 17:37,13/06/2008 15:27
+JBMETA-53,Release,Closed,JBMETA,JBoss Metadata,software,Done,11/06/2008 09:51,10/09/2008 16:01
+JBMETA-52,Bug,Closed,JBMETA,JBoss Metadata,software,Done,10/06/2008 08:59,11/06/2008 09:44
+JBMETA-51,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,03/06/2008 16:45,03/06/2008 21:54
+JBMETA-50,Task,Closed,JBMETA,JBoss Metadata,software,Done,30/05/2008 09:33,11/06/2008 10:23
+JBMETA-49,Task,Closed,JBMETA,JBoss Metadata,software,Done,30/05/2008 09:32,11/06/2008 10:22
+JBMETA-48,Task,Closed,JBMETA,JBoss Metadata,software,Done,30/05/2008 09:31,11/06/2008 09:47
+JBMETA-47,Task,Closed,JBMETA,JBoss Metadata,software,Done,30/05/2008 09:30,09/06/2008 09:14
+JBMETA-46,Task,Closed,JBMETA,JBoss Metadata,software,Done,30/05/2008 09:28,11/06/2008 09:46
+JBMETA-45,Task,Resolved,JBMETA,JBoss Metadata,software,Done,30/05/2008 07:56,07/07/2008 10:49
+JBMETA-44,Feature Request,Closed,JBMETA,JBoss Metadata,software,Done,29/05/2008 09:15,19/06/2008 10:23
+JBMETA-43,Bug,Closed,JBMETA,JBoss Metadata,software,Done,20/05/2008 18:11,11/06/2008 09:47
+JBMETA-42,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,16/05/2008 05:51,22/07/2008 06:40
+JBMETA-41,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,16/05/2008 00:00,06/06/2008 04:52
+JBMETA-40,Bug,Closed,JBMETA,JBoss Metadata,software,Done,15/05/2008 19:24,06/06/2008 04:52
+JBMETA-39,Bug,Closed,JBMETA,JBoss Metadata,software,Done,15/05/2008 11:40,02/03/2009 06:47
+JBMETA-38,Feature Request,Open,JBMETA,JBoss Metadata,software,,09/05/2008 16:42,
+JBMETA-37,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,09/05/2008 00:17,09/05/2008 03:23
+JBMETA-36,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,08/05/2008 00:58,08/05/2008 02:05
+JBMETA-35,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,07/05/2008 10:22,07/05/2008 20:03
+JBMETA-34,Task,Closed,JBMETA,JBoss Metadata,software,Done,06/05/2008 13:54,11/06/2008 09:46
+JBMETA-33,Feature Request,Closed,JBMETA,JBoss Metadata,software,Obsolete,05/05/2008 05:33,17/11/2022 09:59
+JBMETA-32,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,01/05/2008 07:00,01/05/2008 09:06
+JBMETA-31,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,28/04/2008 11:10,02/05/2008 02:06
+JBMETA-30,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,28/04/2008 05:52,28/04/2008 05:57
+JBMETA-29,Component Upgrade,Closed,JBMETA,JBoss Metadata,software,Done,25/04/2008 13:01,29/04/2008 06:00
+JBMETA-28,Bug,Closed,JBMETA,JBoss Metadata,software,Done,25/04/2008 10:55,25/04/2008 10:58
+JBMETA-27,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,25/04/2008 10:39,01/05/2008 10:29
+JBMETA-26,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,25/04/2008 08:54,26/04/2008 15:48
+JBMETA-25,Bug,Closed,JBMETA,JBoss Metadata,software,Done,23/04/2008 09:45,23/04/2008 10:03
+JBMETA-24,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,23/04/2008 04:31,23/04/2008 04:42
+JBMETA-23,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,23/04/2008 02:07,23/04/2008 04:01
+JBMETA-22,Task,Closed,JBMETA,JBoss Metadata,software,Done,21/04/2008 06:21,21/04/2008 06:22
+JBMETA-21,Bug,Closed,JBMETA,JBoss Metadata,software,Done,18/04/2008 09:01,26/06/2008 05:53
+JBMETA-20,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,17/04/2008 10:22,07/07/2008 10:48
+JBMETA-19,Component Upgrade,Closed,JBMETA,JBoss Metadata,software,Done,17/04/2008 09:05,17/04/2008 09:07
+JBMETA-18,Task,Resolved,JBMETA,JBoss Metadata,software,Done,17/04/2008 07:35,17/04/2008 11:12
+JBMETA-17,Bug,Closed,JBMETA,JBoss Metadata,software,Done,14/04/2008 05:38,16/04/2008 06:32
+JBMETA-16,Feature Request,Resolved,JBMETA,JBoss Metadata,software,Done,11/04/2008 10:09,11/04/2008 10:15
+JBMETA-15,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,11/04/2008 09:10,24/06/2008 13:08
+JBMETA-14,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,11/04/2008 08:10,15/04/2008 08:11
+JBMETA-13,Task,Closed,JBMETA,JBoss Metadata,software,Done,03/04/2008 12:52,03/04/2008 12:52
+JBMETA-12,Task,Resolved,JBMETA,JBoss Metadata,software,Done,01/04/2008 09:09,03/04/2008 05:06
+JBMETA-11,Bug,Closed,JBMETA,JBoss Metadata,software,Done,28/03/2008 12:18,02/04/2008 09:36
+JBMETA-10,Feature Request,Closed,JBMETA,JBoss Metadata,software,Done,24/03/2008 17:56,24/03/2008 18:17
+JBMETA-9,Bug,Closed,JBMETA,JBoss Metadata,software,Done,20/03/2008 05:58,26/03/2008 07:13
+JBMETA-8,Bug,Closed,JBMETA,JBoss Metadata,software,Done,18/03/2008 19:02,18/03/2008 19:04
+JBMETA-7,Feature Request,Closed,JBMETA,JBoss Metadata,software,Done,13/03/2008 13:10,19/03/2008 09:00
+JBMETA-6,Feature Request,Closed,JBMETA,JBoss Metadata,software,Done,13/03/2008 07:54,13/04/2008 17:36
+JBMETA-5,Bug,Closed,JBMETA,JBoss Metadata,software,Done,01/03/2008 20:36,10/03/2008 08:03
+JBMETA-4,Bug,Closed,JBMETA,JBoss Metadata,software,Done,15/01/2008 05:09,17/01/2008 08:43
+JBMETA-3,Task,Closed,JBMETA,JBoss Metadata,software,Obsolete,26/04/2007 23:07,15/01/2008 04:04
+JBMETA-2,Bug,Resolved,JBMETA,JBoss Metadata,software,Won't Do,12/01/2008 01:28,12/01/2008 02:11
+JBMETA-1,Bug,Resolved,JBMETA,JBoss Metadata,software,Done,10/01/2008 22:41,12/01/2008 02:17

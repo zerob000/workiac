@@ -1,0 +1,877 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+QDOCS-997,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/11/2024 02:16,14/11/2024 02:17
+QDOCS-996,Task,In Progress,QDOCS,Quarkus Documentation,software,,14/11/2024 01:57,
+QDOCS-995,Task,Closed,QDOCS,Quarkus Documentation,software,Won't Do,13/11/2024 13:19,13/11/2024 14:54
+QDOCS-994,Task,Closed,QDOCS,Quarkus Documentation,software,Won't Do,13/11/2024 13:19,13/11/2024 14:54
+QDOCS-993,Task,Closed,QDOCS,Quarkus Documentation,software,Won't Do,13/11/2024 13:18,13/11/2024 14:53
+QDOCS-990,Epic,Closed,QDOCS,Quarkus Documentation,software,Done,13/11/2024 13:15,13/11/2024 14:53
+QDOCS-989,Bug,Closed,QDOCS,Quarkus Documentation,software,Done,01/11/2024 07:25,05/11/2024 14:18
+QDOCS-988,Task,New,QDOCS,Quarkus Documentation,software,,31/10/2024 17:47,
+QDOCS-987,Task,New,QDOCS,Quarkus Documentation,software,,31/10/2024 17:23,
+QDOCS-986,Task,Closed,QDOCS,Quarkus Documentation,software,Duplicate,28/10/2024 21:49,29/10/2024 15:02
+QDOCS-985,Task,In Progress,QDOCS,Quarkus Documentation,software,,25/10/2024 14:36,
+QDOCS-984,Task,Closed,QDOCS,Quarkus Documentation,software,Done,24/10/2024 18:11,25/10/2024 12:59
+QDOCS-983,Task,Closed,QDOCS,Quarkus Documentation,software,Done,24/10/2024 18:02,24/10/2024 18:03
+QDOCS-982,Task,Closed,QDOCS,Quarkus Documentation,software,Done,24/10/2024 16:16,07/11/2024 12:52
+QDOCS-980,Task,Closed,QDOCS,Quarkus Documentation,software,Done,24/10/2024 15:30,14/11/2024 01:58
+QDOCS-979,Task,In Progress,QDOCS,Quarkus Documentation,software,,24/10/2024 14:42,
+QDOCS-978,Bug,Review,QDOCS,Quarkus Documentation,software,,24/10/2024 11:17,
+QDOCS-977,Bug,Closed,QDOCS,Quarkus Documentation,software,Done,23/10/2024 10:40,23/10/2024 10:46
+QDOCS-976,Task,Closed,QDOCS,Quarkus Documentation,software,Done,22/10/2024 20:37,23/10/2024 15:49
+QDOCS-975,Task,New,QDOCS,Quarkus Documentation,software,,18/10/2024 14:17,
+QDOCS-974,Task,New,QDOCS,Quarkus Documentation,software,,18/10/2024 14:16,
+QDOCS-973,Task,New,QDOCS,Quarkus Documentation,software,,18/10/2024 14:16,
+QDOCS-972,Task,New,QDOCS,Quarkus Documentation,software,,18/10/2024 14:15,
+QDOCS-971,Task,New,QDOCS,Quarkus Documentation,software,,18/10/2024 14:15,
+QDOCS-970,Task,New,QDOCS,Quarkus Documentation,software,,18/10/2024 14:14,
+QDOCS-969,Task,In Progress,QDOCS,Quarkus Documentation,software,,18/10/2024 14:13,
+QDOCS-968,Task,New,QDOCS,Quarkus Documentation,software,,18/10/2024 14:08,
+QDOCS-967,Epic,In Progress,QDOCS,Quarkus Documentation,software,,18/10/2024 14:05,
+QDOCS-966,Task,Closed,QDOCS,Quarkus Documentation,software,Done,15/10/2024 12:31,22/10/2024 19:00
+QDOCS-965,Task,Closed,QDOCS,Quarkus Documentation,software,Done,15/10/2024 12:28,22/10/2024 18:58
+QDOCS-964,Task,Closed,QDOCS,Quarkus Documentation,software,Done,15/10/2024 12:13,14/11/2024 02:03
+QDOCS-963,Task,In Progress,QDOCS,Quarkus Documentation,software,,14/10/2024 11:12,
+QDOCS-962,Task,Closed,QDOCS,Quarkus Documentation,software,Done,11/10/2024 21:50,25/10/2024 14:37
+QDOCS-961,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/10/2024 20:18,24/10/2024 15:11
+QDOCS-960,Task,New,QDOCS,Quarkus Documentation,software,,04/10/2024 15:11,
+QDOCS-959,Task,New,QDOCS,Quarkus Documentation,software,,04/10/2024 15:04,
+QDOCS-958,Task,Closed,QDOCS,Quarkus Documentation,software,Done,04/10/2024 09:50,04/10/2024 15:24
+QDOCS-957,Task,Closed,QDOCS,Quarkus Documentation,software,Done,04/10/2024 09:42,08/10/2024 17:31
+QDOCS-956,Task,Closed,QDOCS,Quarkus Documentation,software,Done,03/10/2024 21:59,22/10/2024 15:29
+QDOCS-955,Task,Closed,QDOCS,Quarkus Documentation,software,Done,03/10/2024 19:42,18/10/2024 18:01
+QDOCS-954,Task,Closed,QDOCS,Quarkus Documentation,software,Done,03/10/2024 14:51,03/10/2024 14:52
+QDOCS-953,Task,Closed,QDOCS,Quarkus Documentation,software,Done,03/10/2024 10:42,18/10/2024 12:25
+QDOCS-952,Task,Closed,QDOCS,Quarkus Documentation,software,Done,03/10/2024 10:41,18/10/2024 12:23
+QDOCS-951,Task,Closed,QDOCS,Quarkus Documentation,software,Done,03/10/2024 10:04,06/11/2024 18:40
+QDOCS-950,Task,Closed,QDOCS,Quarkus Documentation,software,Done,02/10/2024 11:41,22/10/2024 15:28
+QDOCS-949,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/09/2024 17:34,03/10/2024 15:35
+QDOCS-948,Story,New,QDOCS,Quarkus Documentation,software,,30/09/2024 17:29,
+QDOCS-947,Epic,New,QDOCS,Quarkus Documentation,software,,30/09/2024 17:28,
+QDOCS-946,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/09/2024 17:13,26/09/2024 17:43
+QDOCS-945,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/09/2024 10:48,22/10/2024 18:56
+QDOCS-944,Task,Closed,QDOCS,Quarkus Documentation,software,Done,25/09/2024 11:55,25/09/2024 17:37
+QDOCS-943,Task,Closed,QDOCS,Quarkus Documentation,software,Done,25/09/2024 11:02,25/09/2024 14:13
+QDOCS-942,Epic,New,QDOCS,Quarkus Documentation,software,,24/09/2024 20:30,
+QDOCS-941,Epic,New,QDOCS,Quarkus Documentation,software,,23/09/2024 10:27,
+QDOCS-940,Task,Closed,QDOCS,Quarkus Documentation,software,Done,22/09/2024 21:10,22/10/2024 11:32
+QDOCS-939,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/09/2024 14:03,22/09/2024 21:06
+QDOCS-938,Task,Closed,QDOCS,Quarkus Documentation,software,Done,19/09/2024 20:34,19/09/2024 20:39
+QDOCS-937,Task,Closed,QDOCS,Quarkus Documentation,software,Done,18/09/2024 21:36,18/09/2024 21:42
+QDOCS-936,Task,Closed,QDOCS,Quarkus Documentation,software,Done,17/09/2024 14:17,24/09/2024 19:58
+QDOCS-935,Task,New,QDOCS,Quarkus Documentation,software,,17/09/2024 14:15,
+QDOCS-934,Epic,New,QDOCS,Quarkus Documentation,software,,17/09/2024 13:17,
+QDOCS-933,Task,Closed,QDOCS,Quarkus Documentation,software,Done,17/09/2024 11:08,04/10/2024 11:53
+QDOCS-932,Task,Closed,QDOCS,Quarkus Documentation,software,Done,16/09/2024 17:57,16/09/2024 18:29
+QDOCS-931,Epic,Closed,QDOCS,Quarkus Documentation,software,Done,16/09/2024 14:10,23/09/2024 17:33
+QDOCS-930,Task,Closed,QDOCS,Quarkus Documentation,software,Done,16/09/2024 12:44,16/09/2024 14:02
+QDOCS-929,Task,New,QDOCS,Quarkus Documentation,software,,16/09/2024 11:43,
+QDOCS-928,Epic,In Progress,QDOCS,Quarkus Documentation,software,,16/09/2024 10:58,
+QDOCS-927,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/09/2024 19:08,13/09/2024 19:18
+QDOCS-926,Task,Closed,QDOCS,Quarkus Documentation,software,Duplicate,13/09/2024 17:21,22/09/2024 21:05
+QDOCS-925,Epic,New,QDOCS,Quarkus Documentation,software,,13/09/2024 17:16,
+QDOCS-924,Epic,Closed,QDOCS,Quarkus Documentation,software,Done,13/09/2024 17:08,22/10/2024 11:33
+QDOCS-923,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/09/2024 15:05,17/09/2024 17:30
+QDOCS-922,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/09/2024 13:48,16/09/2024 13:55
+QDOCS-921,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/09/2024 18:24,11/10/2024 21:49
+QDOCS-920,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/09/2024 17:17,17/09/2024 11:06
+QDOCS-919,Epic,New,QDOCS,Quarkus Documentation,software,,12/09/2024 13:52,
+QDOCS-918,Task,Release Pending,QDOCS,Quarkus Documentation,software,Done,11/09/2024 21:38,27/09/2024 18:04
+QDOCS-917,Task,New,QDOCS,Quarkus Documentation,software,,11/09/2024 20:50,
+QDOCS-916,Task,Closed,QDOCS,Quarkus Documentation,software,Not a Bug,09/09/2024 18:28,09/09/2024 19:33
+QDOCS-914,Task,Backlog,QDOCS,Quarkus Documentation,software,,06/09/2024 10:14,
+QDOCS-912,Task,New,QDOCS,Quarkus Documentation,software,,04/09/2024 20:41,
+QDOCS-911,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/08/2024 20:21,16/10/2024 10:22
+QDOCS-910,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/08/2024 20:20,16/10/2024 10:22
+QDOCS-909,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/08/2024 20:18,22/10/2024 18:55
+QDOCS-908,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/08/2024 20:14,01/10/2024 12:31
+QDOCS-907,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/08/2024 19:28,22/10/2024 18:53
+QDOCS-906,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/08/2024 19:27,22/10/2024 18:50
+QDOCS-905,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/08/2024 19:25,22/10/2024 18:48
+QDOCS-904,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/08/2024 19:23,22/10/2024 18:46
+QDOCS-903,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/08/2024 19:20,11/10/2024 00:00
+QDOCS-902,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/08/2024 19:18,22/10/2024 18:45
+QDOCS-901,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/08/2024 19:15,22/10/2024 18:42
+QDOCS-900,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/08/2024 19:12,22/10/2024 18:40
+QDOCS-899,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/08/2024 15:48,22/10/2024 18:38
+QDOCS-898,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/08/2024 15:47,02/10/2024 13:55
+QDOCS-897,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/08/2024 15:44,22/10/2024 18:20
+QDOCS-896,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/08/2024 15:42,22/10/2024 18:19
+QDOCS-895,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/08/2024 15:28,22/10/2024 18:18
+QDOCS-894,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/08/2024 15:27,22/10/2024 18:15
+QDOCS-893,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/08/2024 15:24,10/10/2024 23:59
+QDOCS-892,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/08/2024 15:16,22/10/2024 18:13
+QDOCS-891,Task,New,QDOCS,Quarkus Documentation,software,,30/08/2024 14:41,
+QDOCS-890,Task,New,QDOCS,Quarkus Documentation,software,,30/08/2024 14:39,
+QDOCS-889,Task,New,QDOCS,Quarkus Documentation,software,,30/08/2024 14:31,
+QDOCS-888,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/08/2024 14:30,09/09/2024 15:01
+QDOCS-886,Task,Closed,QDOCS,Quarkus Documentation,software,Done,22/08/2024 14:01,24/10/2024 16:15
+QDOCS-885,Task,New,QDOCS,Quarkus Documentation,software,,21/08/2024 19:54,
+QDOCS-884,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/08/2024 18:27,22/10/2024 18:08
+QDOCS-881,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/08/2024 11:43,17/09/2024 10:59
+QDOCS-880,Task,Closed,QDOCS,Quarkus Documentation,software,Done,19/08/2024 18:57,14/11/2024 01:32
+QDOCS-879,Task,Closed,QDOCS,Quarkus Documentation,software,Done,19/08/2024 18:56,14/11/2024 01:31
+QDOCS-878,Task,Closed,QDOCS,Quarkus Documentation,software,Done,19/08/2024 18:54,13/11/2024 20:10
+QDOCS-877,Task,Closed,QDOCS,Quarkus Documentation,software,Done,19/08/2024 18:51,13/11/2024 19:26
+QDOCS-876,Task,Closed,QDOCS,Quarkus Documentation,software,Done,19/08/2024 18:47,13/11/2024 17:36
+QDOCS-875,Task,Closed,QDOCS,Quarkus Documentation,software,Done,19/08/2024 18:45,13/11/2024 17:28
+QDOCS-874,Task,Closed,QDOCS,Quarkus Documentation,software,Done,19/08/2024 18:42,15/10/2024 18:21
+QDOCS-873,Task,Closed,QDOCS,Quarkus Documentation,software,Done,19/08/2024 18:40,30/10/2024 19:37
+QDOCS-871,Task,Closed,QDOCS,Quarkus Documentation,software,Done,19/08/2024 11:27,12/09/2024 15:40
+QDOCS-870,Story,Closed,QDOCS,Quarkus Documentation,software,Done,16/08/2024 16:15,16/08/2024 17:26
+QDOCS-866,Task,New,QDOCS,Quarkus Documentation,software,,14/08/2024 11:07,
+QDOCS-865,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/08/2024 10:33,17/10/2024 12:52
+QDOCS-864,Task,New,QDOCS,Quarkus Documentation,software,,14/08/2024 10:18,
+QDOCS-863,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 15:47,14/08/2024 00:44
+QDOCS-862,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 15:47,14/08/2024 00:39
+QDOCS-861,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 15:47,14/08/2024 00:36
+QDOCS-860,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 15:47,14/08/2024 00:09
+QDOCS-859,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 15:46,14/08/2024 00:06
+QDOCS-858,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 15:46,19/08/2024 12:17
+QDOCS-857,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 15:46,13/08/2024 23:55
+QDOCS-856,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 15:46,13/08/2024 23:09
+QDOCS-855,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 15:46,13/08/2024 23:02
+QDOCS-854,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 15:45,13/08/2024 22:58
+QDOCS-853,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 15:45,13/08/2024 22:51
+QDOCS-852,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 15:45,13/08/2024 22:48
+QDOCS-851,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 15:45,21/08/2024 19:53
+QDOCS-850,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 15:45,13/08/2024 22:11
+QDOCS-849,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 15:44,15/08/2024 13:15
+QDOCS-848,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 15:44,13/08/2024 15:22
+QDOCS-847,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 15:44,14/08/2024 00:50
+QDOCS-846,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 15:44,14/08/2024 00:54
+QDOCS-845,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 15:44,14/08/2024 00:58
+QDOCS-844,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 15:43,14/08/2024 00:59
+QDOCS-843,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 15:43,14/10/2024 12:30
+QDOCS-842,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 15:37,14/08/2024 01:16
+QDOCS-841,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 12:37,05/11/2024 12:47
+QDOCS-840,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 12:34,07/11/2024 12:49
+QDOCS-839,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/08/2024 12:26,22/10/2024 18:05
+QDOCS-838,Task,Closed,QDOCS,Quarkus Documentation,software,Done,09/08/2024 12:27,24/10/2024 15:02
+QDOCS-837,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/08/2024 08:24,22/08/2024 15:12
+QDOCS-825,Task,Closed,QDOCS,Quarkus Documentation,software,Done,05/08/2024 21:55,20/08/2024 11:36
+QDOCS-824,Task,Closed,QDOCS,Quarkus Documentation,software,Done,05/08/2024 21:55,25/09/2024 11:46
+QDOCS-823,Task,Closed,QDOCS,Quarkus Documentation,software,Done,05/08/2024 21:54,04/11/2024 16:15
+QDOCS-822,Task,Closed,QDOCS,Quarkus Documentation,software,Done,05/08/2024 21:53,24/10/2024 12:58
+QDOCS-821,Task,Closed,QDOCS,Quarkus Documentation,software,Done,05/08/2024 21:32,04/11/2024 20:13
+QDOCS-820,Task,Closed,QDOCS,Quarkus Documentation,software,Done,05/08/2024 21:32,30/09/2024 11:54
+QDOCS-819,Task,Closed,QDOCS,Quarkus Documentation,software,Done,05/08/2024 21:31,17/09/2024 12:11
+QDOCS-818,Task,Closed,QDOCS,Quarkus Documentation,software,Done,05/08/2024 21:30,22/10/2024 16:23
+QDOCS-817,Task,Closed,QDOCS,Quarkus Documentation,software,Done,05/08/2024 21:29,25/10/2024 13:32
+QDOCS-816,Bug,Closed,QDOCS,Quarkus Documentation,software,Done,05/08/2024 12:45,26/09/2024 07:18
+QDOCS-815,Task,Closed,QDOCS,Quarkus Documentation,software,Done,29/07/2024 20:12,05/08/2024 14:14
+QDOCS-814,Task,Closed,QDOCS,Quarkus Documentation,software,Done,29/07/2024 17:03,12/09/2024 18:24
+QDOCS-813,Task,Closed,QDOCS,Quarkus Documentation,software,Done,29/07/2024 17:01,22/08/2024 14:10
+QDOCS-812,Task,Closed,QDOCS,Quarkus Documentation,software,Done,29/07/2024 16:59,05/08/2024 22:01
+QDOCS-811,Epic,Closed,QDOCS,Quarkus Documentation,software,Done,29/07/2024 16:05,16/10/2024 13:44
+QDOCS-810,Epic,New,QDOCS,Quarkus Documentation,software,,29/07/2024 15:59,
+QDOCS-809,Epic,Closed,QDOCS,Quarkus Documentation,software,Done,29/07/2024 15:44,12/11/2024 16:48
+QDOCS-808,Task,Closed,QDOCS,Quarkus Documentation,software,Done,29/07/2024 15:23,30/07/2024 09:14
+QDOCS-807,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/07/2024 14:51,24/10/2024 16:16
+QDOCS-806,Task,In Progress,QDOCS,Quarkus Documentation,software,,26/07/2024 12:19,
+QDOCS-805,Task,New,QDOCS,Quarkus Documentation,software,,25/07/2024 17:53,
+QDOCS-804,Task,Closed,QDOCS,Quarkus Documentation,software,Done,25/07/2024 17:28,31/07/2024 14:33
+QDOCS-795,Task,Closed,QDOCS,Quarkus Documentation,software,Duplicate,22/07/2024 13:21,07/08/2024 19:19
+QDOCS-794,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/07/2024 12:35,29/07/2024 19:55
+QDOCS-790,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/07/2024 10:01,16/07/2024 09:48
+QDOCS-789,Task,Closed,QDOCS,Quarkus Documentation,software,Done,03/07/2024 03:11,03/07/2024 17:38
+QDOCS-788,Task,Closed,QDOCS,Quarkus Documentation,software,Done,03/07/2024 01:23,03/07/2024 17:28
+QDOCS-787,Task,Closed,QDOCS,Quarkus Documentation,software,Done,02/07/2024 20:24,03/07/2024 00:19
+QDOCS-785,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/07/2024 15:20,02/10/2024 13:56
+QDOCS-784,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/07/2024 15:18,22/10/2024 18:10
+QDOCS-783,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/07/2024 15:16,22/10/2024 18:07
+QDOCS-782,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/07/2024 15:14,22/10/2024 18:04
+QDOCS-781,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,01/07/2024 15:08,01/07/2024 15:13
+QDOCS-780,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,01/07/2024 15:06,01/07/2024 15:13
+QDOCS-779,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/07/2024 15:03,22/10/2024 18:02
+QDOCS-778,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/07/2024 14:52,22/10/2024 18:00
+QDOCS-777,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/07/2024 14:48,22/10/2024 17:59
+QDOCS-776,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/07/2024 14:39,22/10/2024 17:57
+QDOCS-775,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/07/2024 14:34,10/10/2024 23:58
+QDOCS-774,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/07/2024 14:30,22/10/2024 17:55
+QDOCS-772,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,26/06/2024 19:47,04/10/2024 17:43
+QDOCS-771,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/06/2024 19:46,22/10/2024 16:58
+QDOCS-770,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/06/2024 19:44,22/10/2024 16:56
+QDOCS-769,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/06/2024 19:41,22/10/2024 16:54
+QDOCS-768,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/06/2024 19:38,22/10/2024 16:52
+QDOCS-767,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/06/2024 19:36,22/10/2024 16:50
+QDOCS-766,Task,Closed,QDOCS,Quarkus Documentation,software,Done,21/06/2024 18:51,22/10/2024 15:30
+QDOCS-765,Task,Closed,QDOCS,Quarkus Documentation,software,Done,21/06/2024 18:46,22/10/2024 15:30
+QDOCS-764,Task,Closed,QDOCS,Quarkus Documentation,software,Done,21/06/2024 18:41,22/10/2024 15:24
+QDOCS-763,Task,Closed,QDOCS,Quarkus Documentation,software,Done,21/06/2024 18:39,22/10/2024 15:24
+QDOCS-762,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,21/06/2024 18:37,26/08/2024 19:43
+QDOCS-761,Task,Closed,QDOCS,Quarkus Documentation,software,Done,21/06/2024 18:34,22/10/2024 15:24
+QDOCS-760,Task,Closed,QDOCS,Quarkus Documentation,software,Done,21/06/2024 18:12,22/10/2024 16:47
+QDOCS-759,Task,Closed,QDOCS,Quarkus Documentation,software,Done,21/06/2024 18:10,22/10/2024 16:39
+QDOCS-758,Task,Closed,QDOCS,Quarkus Documentation,software,Done,21/06/2024 18:08,22/10/2024 16:37
+QDOCS-757,Task,Closed,QDOCS,Quarkus Documentation,software,Done,21/06/2024 18:06,22/10/2024 16:36
+QDOCS-756,Task,Closed,QDOCS,Quarkus Documentation,software,Done,21/06/2024 17:57,22/10/2024 16:33
+QDOCS-755,Task,Closed,QDOCS,Quarkus Documentation,software,Done,21/06/2024 13:36,29/07/2024 15:23
+QDOCS-754,Epic,New,QDOCS,Quarkus Documentation,software,,21/06/2024 13:34,
+QDOCS-753,Epic,New,QDOCS,Quarkus Documentation,software,,21/06/2024 13:19,
+QDOCS-752,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/06/2024 18:31,22/10/2024 15:23
+QDOCS-751,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/06/2024 18:30,22/10/2024 15:23
+QDOCS-750,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/06/2024 18:30,22/10/2024 15:23
+QDOCS-749,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/06/2024 18:29,22/10/2024 16:31
+QDOCS-748,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/06/2024 18:27,22/10/2024 16:29
+QDOCS-747,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/06/2024 18:26,22/10/2024 16:27
+QDOCS-746,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/06/2024 18:26,22/10/2024 15:22
+QDOCS-745,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/06/2024 18:25,22/10/2024 15:22
+QDOCS-744,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/06/2024 18:24,16/10/2024 10:04
+QDOCS-743,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/06/2024 18:15,22/10/2024 15:22
+QDOCS-742,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/06/2024 18:12,22/10/2024 15:22
+QDOCS-741,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/06/2024 18:11,22/10/2024 15:21
+QDOCS-740,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/06/2024 18:09,22/10/2024 15:21
+QDOCS-739,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/06/2024 17:43,22/10/2024 16:24
+QDOCS-738,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/06/2024 17:39,22/10/2024 16:22
+QDOCS-737,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/06/2024 17:36,22/10/2024 16:19
+QDOCS-736,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/06/2024 17:34,20/09/2024 18:50
+QDOCS-735,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/06/2024 17:21,22/10/2024 16:17
+QDOCS-734,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/06/2024 17:17,22/10/2024 16:15
+QDOCS-732,Task,New,QDOCS,Quarkus Documentation,software,,19/06/2024 18:42,
+QDOCS-730,Task,In Progress,QDOCS,Quarkus Documentation,software,,18/06/2024 19:17,
+QDOCS-729,Task,Closed,QDOCS,Quarkus Documentation,software,Done,17/06/2024 10:09,17/06/2024 10:12
+QDOCS-726,Task,Closed,QDOCS,Quarkus Documentation,software,Done,11/06/2024 20:44,21/06/2024 13:13
+QDOCS-725,Task,Closed,QDOCS,Quarkus Documentation,software,Done,11/06/2024 20:14,21/06/2024 13:37
+QDOCS-724,Task,Closed,QDOCS,Quarkus Documentation,software,Done,11/06/2024 19:58,21/06/2024 12:57
+QDOCS-723,Task,Closed,QDOCS,Quarkus Documentation,software,Done,23/05/2024 09:02,08/08/2024 08:19
+QDOCS-722,Task,Closed,QDOCS,Quarkus Documentation,software,Done,21/05/2024 16:59,02/07/2024 13:16
+QDOCS-721,Story,New,QDOCS,Quarkus Documentation,software,,06/05/2024 16:06,
+QDOCS-720,Task,Closed,QDOCS,Quarkus Documentation,software,Done,03/05/2024 15:49,06/05/2024 20:30
+QDOCS-719,Task,Closed,QDOCS,Quarkus Documentation,software,Done,02/05/2024 03:00,06/05/2024 14:37
+QDOCS-718,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/04/2024 16:16,30/04/2024 10:05
+QDOCS-717,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/04/2024 15:54,30/04/2024 12:42
+QDOCS-716,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/04/2024 15:53,02/05/2024 00:14
+QDOCS-715,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/04/2024 15:52,30/04/2024 12:44
+QDOCS-714,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/04/2024 15:51,10/07/2024 13:21
+QDOCS-713,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/04/2024 15:51,30/04/2024 14:44
+QDOCS-712,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/04/2024 15:50,21/06/2024 17:46
+QDOCS-711,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/04/2024 15:49,21/06/2024 17:44
+QDOCS-710,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/04/2024 15:49,30/04/2024 12:45
+QDOCS-709,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/04/2024 15:48,21/05/2024 13:48
+QDOCS-708,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/04/2024 15:47,30/04/2024 19:12
+QDOCS-707,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/04/2024 15:41,30/04/2024 19:18
+QDOCS-706,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/04/2024 12:38,26/04/2024 15:58
+QDOCS-705,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/04/2024 11:37,06/05/2024 20:29
+QDOCS-703,Task,Closed,QDOCS,Quarkus Documentation,software,Done,24/04/2024 18:34,25/04/2024 13:38
+QDOCS-702,Task,Closed,QDOCS,Quarkus Documentation,software,Done,18/04/2024 08:15,06/05/2024 16:12
+QDOCS-701,Task,Closed,QDOCS,Quarkus Documentation,software,Done,18/04/2024 08:13,06/05/2024 20:33
+QDOCS-700,Task,Closed,QDOCS,Quarkus Documentation,software,Done,15/04/2024 16:43,16/04/2024 16:45
+QDOCS-699,Task,Release Pending,QDOCS,Quarkus Documentation,software,Done,09/04/2024 09:17,16/04/2024 15:40
+QDOCS-698,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/04/2024 16:54,21/06/2024 14:24
+QDOCS-697,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/04/2024 12:46,06/05/2024 09:21
+QDOCS-696,Task,Closed,QDOCS,Quarkus Documentation,software,Done,05/04/2024 23:09,12/04/2024 20:14
+QDOCS-695,Task,Closed,QDOCS,Quarkus Documentation,software,Won't Do,04/04/2024 12:04,23/04/2024 13:06
+QDOCS-692,Task,New,QDOCS,Quarkus Documentation,software,,28/03/2024 17:48,
+QDOCS-691,Task,Closed,QDOCS,Quarkus Documentation,software,Done,27/03/2024 06:14,03/04/2024 13:23
+QDOCS-690,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/03/2024 18:02,17/04/2024 14:52
+QDOCS-688,Task,Closed,QDOCS,Quarkus Documentation,software,Done,19/03/2024 14:16,22/07/2024 18:45
+QDOCS-687,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 10:19,06/05/2024 09:20
+QDOCS-686,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 10:16,10/05/2024 16:21
+QDOCS-685,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 10:14,06/05/2024 09:20
+QDOCS-684,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 10:00,06/05/2024 09:20
+QDOCS-683,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 10:00,10/05/2024 16:21
+QDOCS-682,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 09:58,10/05/2024 16:21
+QDOCS-681,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 09:55,10/05/2024 16:21
+QDOCS-680,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 09:53,06/05/2024 09:22
+QDOCS-679,Task,Closed,QDOCS,Quarkus Documentation,software,Duplicate,12/03/2024 09:51,17/04/2024 13:03
+QDOCS-678,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 09:48,06/05/2024 09:21
+QDOCS-677,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 09:46,10/05/2024 16:21
+QDOCS-676,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 09:43,10/05/2024 16:20
+QDOCS-675,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 09:42,10/05/2024 16:20
+QDOCS-674,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 09:41,10/05/2024 16:20
+QDOCS-673,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 09:39,10/05/2024 16:20
+QDOCS-672,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 09:32,10/05/2024 16:20
+QDOCS-671,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 09:31,10/05/2024 16:20
+QDOCS-670,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 09:26,06/05/2024 09:23
+QDOCS-669,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 09:24,06/05/2024 09:23
+QDOCS-668,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 09:22,06/05/2024 09:23
+QDOCS-667,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 09:21,06/05/2024 09:23
+QDOCS-666,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 09:19,06/05/2024 09:22
+QDOCS-665,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 09:17,10/05/2024 16:19
+QDOCS-664,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 09:16,10/05/2024 16:19
+QDOCS-663,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 09:14,06/05/2024 09:21
+QDOCS-662,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 09:13,10/05/2024 16:19
+QDOCS-661,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/03/2024 09:12,06/05/2024 09:22
+QDOCS-660,Task,Closed,QDOCS,Quarkus Documentation,software,Done,10/03/2024 12:51,10/04/2024 19:18
+QDOCS-659,Task,Closed,QDOCS,Quarkus Documentation,software,Done,10/03/2024 12:47,20/03/2024 13:46
+QDOCS-657,Task,Closed,QDOCS,Quarkus Documentation,software,Done,04/03/2024 16:34,04/03/2024 16:37
+QDOCS-656,Task,Closed,QDOCS,Quarkus Documentation,software,Done,04/03/2024 15:28,19/03/2024 14:10
+QDOCS-655,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/03/2024 13:54,10/05/2024 16:19
+QDOCS-654,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/03/2024 13:53,10/05/2024 16:17
+QDOCS-653,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/03/2024 13:52,06/05/2024 09:23
+QDOCS-652,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/03/2024 13:51,10/05/2024 16:17
+QDOCS-651,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/03/2024 13:51,22/03/2024 17:00
+QDOCS-650,Task,Closed,QDOCS,Quarkus Documentation,software,Duplicate,01/03/2024 13:49,19/03/2024 11:52
+QDOCS-649,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/03/2024 13:48,06/05/2024 09:23
+QDOCS-648,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/03/2024 13:48,22/03/2024 16:43
+QDOCS-647,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/03/2024 13:22,06/05/2024 09:21
+QDOCS-646,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/03/2024 13:22,06/05/2024 09:22
+QDOCS-645,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/03/2024 13:21,06/05/2024 09:21
+QDOCS-644,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/03/2024 13:06,06/05/2024 09:20
+QDOCS-643,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/03/2024 13:05,06/05/2024 09:22
+QDOCS-642,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/03/2024 13:02,10/05/2024 16:17
+QDOCS-641,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/03/2024 13:01,10/05/2024 16:17
+QDOCS-640,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/03/2024 12:59,06/05/2024 09:22
+QDOCS-639,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/03/2024 12:57,06/05/2024 09:22
+QDOCS-637,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/02/2024 10:30,26/03/2024 12:22
+QDOCS-636,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/02/2024 10:18,10/05/2024 16:15
+QDOCS-635,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/02/2024 10:10,06/05/2024 09:21
+QDOCS-634,Task,Closed,QDOCS,Quarkus Documentation,software,Won't Do,20/02/2024 10:09,20/02/2024 10:56
+QDOCS-633,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/02/2024 10:09,10/05/2024 16:15
+QDOCS-632,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/02/2024 10:07,10/05/2024 16:15
+QDOCS-631,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/02/2024 10:06,06/05/2024 09:21
+QDOCS-630,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/02/2024 10:04,06/05/2024 09:23
+QDOCS-629,Task,Closed,QDOCS,Quarkus Documentation,software,Done,19/02/2024 09:19,10/05/2024 16:15
+QDOCS-628,Task,Closed,QDOCS,Quarkus Documentation,software,Done,19/02/2024 09:15,06/05/2024 09:21
+QDOCS-627,Task,Closed,QDOCS,Quarkus Documentation,software,Done,19/02/2024 09:14,10/05/2024 16:15
+QDOCS-626,Task,Closed,QDOCS,Quarkus Documentation,software,Done,19/02/2024 09:12,10/05/2024 16:14
+QDOCS-625,Task,Closed,QDOCS,Quarkus Documentation,software,Done,19/02/2024 08:59,10/05/2024 16:14
+QDOCS-624,Task,Closed,QDOCS,Quarkus Documentation,software,Done,19/02/2024 08:51,10/05/2024 16:14
+QDOCS-623,Task,Closed,QDOCS,Quarkus Documentation,software,Done,19/02/2024 08:18,10/05/2024 13:26
+QDOCS-622,Task,Closed,QDOCS,Quarkus Documentation,software,Done,19/02/2024 08:17,10/05/2024 13:26
+QDOCS-621,Task,Closed,QDOCS,Quarkus Documentation,software,Done,19/02/2024 08:17,10/05/2024 13:25
+QDOCS-620,Task,Closed,QDOCS,Quarkus Documentation,software,Done,19/02/2024 08:15,10/05/2024 13:25
+QDOCS-619,Task,Closed,QDOCS,Quarkus Documentation,software,Done,19/02/2024 08:14,10/05/2024 13:25
+QDOCS-618,Task,Closed,QDOCS,Quarkus Documentation,software,Done,15/02/2024 14:48,22/03/2024 17:36
+QDOCS-617,Story,Closed,QDOCS,Quarkus Documentation,software,Done,14/02/2024 16:04,18/03/2024 11:30
+QDOCS-616,Story,Closed,QDOCS,Quarkus Documentation,software,Done,14/02/2024 15:59,21/04/2024 16:42
+QDOCS-615,Story,Closed,QDOCS,Quarkus Documentation,software,Done,14/02/2024 15:58,03/04/2024 13:27
+QDOCS-608,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/02/2024 20:52,13/02/2024 21:13
+QDOCS-607,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/02/2024 20:52,13/02/2024 22:05
+QDOCS-606,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/02/2024 20:52,03/07/2024 17:41
+QDOCS-605,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/02/2024 20:52,16/02/2024 21:15
+QDOCS-603,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/02/2024 20:50,16/02/2024 21:13
+QDOCS-602,Epic,Closed,QDOCS,Quarkus Documentation,software,Done,13/02/2024 19:58,24/07/2024 18:46
+QDOCS-601,Epic,Closed,QDOCS,Quarkus Documentation,software,Done,09/02/2024 15:12,07/03/2024 12:59
+QDOCS-600,Task,Closed,QDOCS,Quarkus Documentation,software,Done,09/02/2024 14:52,15/02/2024 11:43
+QDOCS-599,Task,Closed,QDOCS,Quarkus Documentation,software,Done,09/02/2024 14:35,14/02/2024 13:39
+QDOCS-598,Task,Closed,QDOCS,Quarkus Documentation,software,Done,09/02/2024 12:15,16/04/2024 17:18
+QDOCS-597,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/02/2024 14:49,23/04/2024 22:11
+QDOCS-596,Task,Closed,QDOCS,Quarkus Documentation,software,Done,06/02/2024 22:27,06/02/2024 22:30
+QDOCS-595,Task,Closed,QDOCS,Quarkus Documentation,software,Done,06/02/2024 19:57,10/05/2024 13:24
+QDOCS-594,Task,Closed,QDOCS,Quarkus Documentation,software,Done,06/02/2024 13:20,06/02/2024 13:32
+QDOCS-593,Task,Closed,QDOCS,Quarkus Documentation,software,Done,06/02/2024 13:16,06/02/2024 14:51
+QDOCS-592,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/02/2024 11:17,06/02/2024 16:18
+QDOCS-591,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/01/2024 17:55,14/02/2024 20:22
+QDOCS-590,Task,Closed,QDOCS,Quarkus Documentation,software,Done,25/01/2024 15:39,26/01/2024 10:55
+QDOCS-589,Task,Closed,QDOCS,Quarkus Documentation,software,Done,25/01/2024 15:09,26/01/2024 10:58
+QDOCS-588,Task,Closed,QDOCS,Quarkus Documentation,software,Done,23/01/2024 23:05,06/05/2024 20:32
+QDOCS-587,Bug,Closed,QDOCS,Quarkus Documentation,software,Done,19/01/2024 12:26,19/03/2024 20:55
+QDOCS-586,Task,Closed,QDOCS,Quarkus Documentation,software,Done,18/01/2024 10:30,24/01/2024 13:48
+QDOCS-585,Task,Closed,QDOCS,Quarkus Documentation,software,Done,18/01/2024 10:28,24/01/2024 13:51
+QDOCS-583,Story,Closed,QDOCS,Quarkus Documentation,software,Done,17/01/2024 12:00,08/04/2024 10:29
+QDOCS-582,Story,Closed,QDOCS,Quarkus Documentation,software,Done,17/01/2024 11:59,23/04/2024 14:06
+QDOCS-581,Story,Closed,QDOCS,Quarkus Documentation,software,Done,17/01/2024 11:52,24/04/2024 12:20
+QDOCS-580,Story,Closed,QDOCS,Quarkus Documentation,software,Done,17/01/2024 11:50,04/04/2024 14:29
+QDOCS-579,Story,Closed,QDOCS,Quarkus Documentation,software,Done,17/01/2024 11:49,17/04/2024 12:40
+QDOCS-578,Story,Closed,QDOCS,Quarkus Documentation,software,Done,17/01/2024 11:48,23/04/2024 14:02
+QDOCS-577,Story,Closed,QDOCS,Quarkus Documentation,software,Done,17/01/2024 11:47,24/04/2024 12:48
+QDOCS-576,Story,Closed,QDOCS,Quarkus Documentation,software,Done,17/01/2024 11:36,07/02/2024 15:17
+QDOCS-575,Bug,Closed,QDOCS,Quarkus Documentation,software,Done,16/01/2024 13:28,24/01/2024 13:53
+QDOCS-574,Task,Closed,QDOCS,Quarkus Documentation,software,Done,16/01/2024 02:26,16/01/2024 18:12
+QDOCS-573,Task,Closed,QDOCS,Quarkus Documentation,software,Done,15/01/2024 14:33,08/02/2024 14:26
+QDOCS-572,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,15/01/2024 14:29,14/02/2024 19:05
+QDOCS-571,Task,Closed,QDOCS,Quarkus Documentation,software,Won't Do,12/01/2024 10:33,19/04/2024 12:37
+QDOCS-570,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/12/2023 21:06,12/01/2024 16:36
+QDOCS-569,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/12/2023 20:38,16/12/2023 22:07
+QDOCS-568,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/12/2023 20:34,16/12/2023 22:07
+QDOCS-567,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/12/2023 20:32,16/12/2023 22:07
+QDOCS-566,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/12/2023 20:00,03/01/2024 16:15
+QDOCS-565,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/12/2023 19:59,03/01/2024 21:52
+QDOCS-564,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/12/2023 19:58,05/01/2024 16:08
+QDOCS-563,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/12/2023 19:57,07/01/2024 16:58
+QDOCS-562,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/12/2023 19:56,10/01/2024 18:14
+QDOCS-561,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/12/2023 19:52,19/12/2023 13:36
+QDOCS-560,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/12/2023 18:38,16/12/2023 22:08
+QDOCS-559,Task,Closed,QDOCS,Quarkus Documentation,software,Won't Do,12/12/2023 21:10,25/01/2024 12:13
+QDOCS-558,Epic,Closed,QDOCS,Quarkus Documentation,software,Done,12/12/2023 13:48,23/05/2024 06:51
+QDOCS-557,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/12/2023 17:53,17/01/2024 15:57
+QDOCS-556,Task,Closed,QDOCS,Quarkus Documentation,software,Done,06/12/2023 20:06,17/01/2024 12:50
+QDOCS-555,Task,Closed,QDOCS,Quarkus Documentation,software,Done,04/12/2023 21:08,05/01/2024 11:55
+QDOCS-554,Task,Closed,QDOCS,Quarkus Documentation,software,Done,04/12/2023 21:07,10/01/2024 18:14
+QDOCS-553,Bug,Closed,QDOCS,Quarkus Documentation,software,Done,24/10/2023 12:59,29/11/2023 18:50
+QDOCS-552,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,20/11/2023 12:33,14/12/2023 18:35
+QDOCS-551,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/11/2023 09:58,30/11/2023 23:11
+QDOCS-550,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/11/2023 09:51,07/12/2023 11:24
+QDOCS-549,Task,New,QDOCS,Quarkus Documentation,software,,20/11/2023 09:22,
+QDOCS-548,Task,Closed,QDOCS,Quarkus Documentation,software,Done,16/11/2023 20:21,11/12/2023 11:53
+QDOCS-547,Task,Closed,QDOCS,Quarkus Documentation,software,Won't Do,08/11/2023 10:20,21/11/2023 18:49
+QDOCS-546,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/11/2023 10:24,07/12/2023 11:22
+QDOCS-545,Task,Closed,QDOCS,Quarkus Documentation,software,Done,06/11/2023 11:26,07/12/2023 11:22
+QDOCS-544,Task,Closed,QDOCS,Quarkus Documentation,software,Done,02/11/2023 16:35,17/01/2024 13:30
+QDOCS-543,Task,Closed,QDOCS,Quarkus Documentation,software,Done,02/11/2023 16:34,07/12/2023 11:23
+QDOCS-542,Task,Closed,QDOCS,Quarkus Documentation,software,Done,02/11/2023 16:33,21/11/2023 17:53
+QDOCS-541,Task,Closed,QDOCS,Quarkus Documentation,software,Done,02/11/2023 16:31,21/11/2023 13:50
+QDOCS-540,Task,Closed,QDOCS,Quarkus Documentation,software,Done,02/11/2023 16:30,21/11/2023 13:54
+QDOCS-539,Task,Closed,QDOCS,Quarkus Documentation,software,Done,02/11/2023 16:26,04/01/2024 16:05
+QDOCS-538,Task,Closed,QDOCS,Quarkus Documentation,software,Done,02/11/2023 15:32,17/01/2024 13:28
+QDOCS-537,Task,Closed,QDOCS,Quarkus Documentation,software,Done,02/11/2023 15:31,17/01/2024 13:33
+QDOCS-536,Task,Closed,QDOCS,Quarkus Documentation,software,Done,02/11/2023 15:27,17/01/2024 17:26
+QDOCS-535,Task,Closed,QDOCS,Quarkus Documentation,software,Done,02/11/2023 15:26,20/11/2023 16:24
+QDOCS-534,Task,Closed,QDOCS,Quarkus Documentation,software,Done,02/11/2023 15:24,20/11/2023 16:29
+QDOCS-533,Task,Closed,QDOCS,Quarkus Documentation,software,Done,02/11/2023 11:04,22/11/2023 13:38
+QDOCS-532,Bug,New,QDOCS,Quarkus Documentation,software,,30/10/2023 11:53,
+QDOCS-531,Task,In Progress,QDOCS,Quarkus Documentation,software,,26/10/2023 14:35,
+QDOCS-530,Task,Closed,QDOCS,Quarkus Documentation,software,Done,29/10/2023 23:50,30/11/2023 22:58
+QDOCS-529,Task,Closed,QDOCS,Quarkus Documentation,software,Done,29/10/2023 20:56,13/11/2023 01:22
+QDOCS-528,Task,Closed,QDOCS,Quarkus Documentation,software,Done,29/10/2023 20:51,13/11/2023 01:26
+QDOCS-527,Task,Closed,QDOCS,Quarkus Documentation,software,Done,23/10/2023 13:46,23/10/2023 16:27
+QDOCS-526,Task,Closed,QDOCS,Quarkus Documentation,software,Done,23/10/2023 10:16,13/11/2023 01:19
+QDOCS-525,Task,Closed,QDOCS,Quarkus Documentation,software,Done,18/10/2023 11:25,25/10/2023 10:58
+QDOCS-524,Task,Closed,QDOCS,Quarkus Documentation,software,Done,17/10/2023 16:01,19/10/2023 14:12
+QDOCS-523,Task,Closed,QDOCS,Quarkus Documentation,software,Done,17/10/2023 15:00,08/12/2023 07:24
+QDOCS-522,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/10/2023 13:35,16/10/2023 15:47
+QDOCS-521,Task,Backlog,QDOCS,Quarkus Documentation,software,,11/10/2023 16:51,
+QDOCS-519,Task,Closed,QDOCS,Quarkus Documentation,software,Done,09/10/2023 20:19,09/10/2023 20:32
+QDOCS-517,Story,Closed,QDOCS,Quarkus Documentation,software,Won't Do,09/10/2023 16:43,21/06/2024 14:21
+QDOCS-514,Task,Closed,QDOCS,Quarkus Documentation,software,Done,05/10/2023 15:52,05/10/2023 20:23
+QDOCS-513,Story,New,QDOCS,Quarkus Documentation,software,,05/10/2023 14:49,
+QDOCS-512,Task,Closed,QDOCS,Quarkus Documentation,software,Done,05/10/2023 13:57,05/10/2023 14:37
+QDOCS-511,Task,Closed,QDOCS,Quarkus Documentation,software,Done,05/10/2023 10:31,24/10/2023 11:21
+QDOCS-510,Task,Closed,QDOCS,Quarkus Documentation,software,Done,05/10/2023 10:27,10/10/2023 18:09
+QDOCS-508,Story,Closed,QDOCS,Quarkus Documentation,software,Done,04/10/2023 21:30,05/10/2023 14:53
+QDOCS-507,Task,Closed,QDOCS,Quarkus Documentation,software,Done,04/10/2023 18:25,05/10/2023 15:48
+QDOCS-506,Task,Closed,QDOCS,Quarkus Documentation,software,Duplicate,03/10/2023 19:37,11/10/2023 12:16
+QDOCS-505,Story,Closed,QDOCS,Quarkus Documentation,software,Done,03/10/2023 16:13,23/10/2023 11:44
+QDOCS-504,Task,Closed,QDOCS,Quarkus Documentation,software,Done,02/10/2023 20:53,05/10/2023 20:47
+QDOCS-502,Story,Closed,QDOCS,Quarkus Documentation,software,Done,02/10/2023 16:06,05/10/2023 14:52
+QDOCS-500,Story,Closed,QDOCS,Quarkus Documentation,software,Done,02/10/2023 15:32,17/10/2023 11:48
+QDOCS-499,Task,Closed,QDOCS,Quarkus Documentation,software,Done,02/10/2023 13:58,02/10/2023 15:53
+QDOCS-498,Task,Closed,QDOCS,Quarkus Documentation,software,Done,02/10/2023 08:45,09/10/2023 08:55
+QDOCS-497,Task,Closed,QDOCS,Quarkus Documentation,software,Done,29/09/2023 14:27,09/10/2023 08:52
+QDOCS-496,Task,New,QDOCS,Quarkus Documentation,software,,28/09/2023 19:32,
+QDOCS-495,Story,Release Pending,QDOCS,Quarkus Documentation,software,Done,28/09/2023 13:33,10/10/2023 11:09
+QDOCS-494,Task,Closed,QDOCS,Quarkus Documentation,software,Done,28/09/2023 11:07,04/10/2023 12:41
+QDOCS-493,Task,Closed,QDOCS,Quarkus Documentation,software,Duplicate,28/09/2023 10:50,04/10/2023 22:30
+QDOCS-492,Task,Closed,QDOCS,Quarkus Documentation,software,Done,27/09/2023 22:51,13/11/2023 01:21
+QDOCS-491,Task,Closed,QDOCS,Quarkus Documentation,software,Done,27/09/2023 13:38,17/11/2023 11:11
+QDOCS-490,Story,Closed,QDOCS,Quarkus Documentation,software,Done,26/09/2023 20:31,09/10/2023 15:30
+QDOCS-489,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/12/2022 09:20,15/04/2024 17:36
+QDOCS-488,Task,New,QDOCS,Quarkus Documentation,software,,20/09/2023 11:23,
+QDOCS-487,Task,New,QDOCS,Quarkus Documentation,software,,20/09/2023 09:38,
+QDOCS-486,Task,New,QDOCS,Quarkus Documentation,software,,20/09/2023 09:36,
+QDOCS-485,Task,Closed,QDOCS,Quarkus Documentation,software,Done,18/09/2023 13:34,19/09/2023 11:19
+QDOCS-484,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/09/2023 16:33,17/10/2023 11:54
+QDOCS-483,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/09/2023 00:03,20/06/2024 17:16
+QDOCS-482,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/09/2023 23:42,10/10/2023 16:13
+QDOCS-481,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/09/2023 21:09,11/10/2023 11:37
+QDOCS-480,Epic,Closed,QDOCS,Quarkus Documentation,software,Duplicate,12/09/2023 16:04,12/09/2023 16:14
+QDOCS-478,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/09/2023 10:45,13/11/2023 01:23
+QDOCS-477,Task,Closed,QDOCS,Quarkus Documentation,software,Won't Do,07/09/2023 09:28,19/09/2023 11:05
+QDOCS-475,Task,Closed,QDOCS,Quarkus Documentation,software,Done,05/09/2023 10:52,25/10/2023 11:00
+QDOCS-474,Story,Closed,QDOCS,Quarkus Documentation,software,Won't Do,01/09/2023 17:07,21/06/2024 14:19
+QDOCS-473,Story,Closed,QDOCS,Quarkus Documentation,software,Done,01/09/2023 15:11,13/09/2023 08:32
+QDOCS-472,Task,New,QDOCS,Quarkus Documentation,software,,29/08/2023 13:06,
+QDOCS-471,Task,Closed,QDOCS,Quarkus Documentation,software,Done,29/08/2023 08:16,29/08/2023 09:53
+QDOCS-469,Task,Closed,QDOCS,Quarkus Documentation,software,Done,25/08/2023 09:38,29/08/2023 09:35
+QDOCS-468,Task,Closed,QDOCS,Quarkus Documentation,software,Done,24/08/2023 08:40,13/09/2023 09:19
+QDOCS-466,Task,Closed,QDOCS,Quarkus Documentation,software,Done,21/08/2023 09:11,11/10/2023 11:35
+QDOCS-465,Story,Closed,QDOCS,Quarkus Documentation,software,Done,16/08/2023 17:42,11/10/2023 10:19
+QDOCS-464,Epic,New,QDOCS,Quarkus Documentation,software,,16/08/2023 10:46,
+QDOCS-463,Epic,New,QDOCS,Quarkus Documentation,software,,16/08/2023 10:35,
+QDOCS-462,Task,Waiting,QDOCS,Quarkus Documentation,software,,15/08/2023 12:21,
+QDOCS-461,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/08/2023 13:50,21/08/2023 09:15
+QDOCS-460,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/08/2023 13:00,18/08/2023 06:17
+QDOCS-459,Task,Closed,QDOCS,Quarkus Documentation,software,Done,10/08/2023 15:01,14/08/2023 21:17
+QDOCS-458,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/08/2023 10:10,25/10/2023 11:00
+QDOCS-457,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/08/2023 10:09,25/10/2023 11:01
+QDOCS-456,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/08/2023 10:08,25/10/2023 11:02
+QDOCS-455,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/08/2023 10:07,25/10/2023 11:02
+QDOCS-454,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/08/2023 10:06,25/10/2023 11:02
+QDOCS-453,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/08/2023 10:05,25/10/2023 11:03
+QDOCS-452,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/08/2023 10:04,25/10/2023 11:19
+QDOCS-451,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/08/2023 10:03,25/10/2023 11:23
+QDOCS-450,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/08/2023 10:01,17/11/2023 11:11
+QDOCS-449,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/08/2023 09:59,25/10/2023 11:24
+QDOCS-448,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/08/2023 09:56,25/10/2023 11:24
+QDOCS-447,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/08/2023 10:58,25/10/2023 11:25
+QDOCS-446,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/08/2023 10:57,25/10/2023 11:26
+QDOCS-445,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/08/2023 10:54,08/12/2023 07:25
+QDOCS-444,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/08/2023 10:53,17/11/2023 11:10
+QDOCS-443,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/08/2023 10:53,17/11/2023 11:10
+QDOCS-442,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/08/2023 10:52,07/12/2023 11:23
+QDOCS-441,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/08/2023 10:51,06/12/2023 14:27
+QDOCS-440,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/08/2023 10:50,06/12/2023 14:27
+QDOCS-439,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/08/2023 10:49,06/12/2023 14:27
+QDOCS-438,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/08/2023 10:48,06/12/2023 14:27
+QDOCS-437,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/08/2023 10:47,06/12/2023 14:28
+QDOCS-436,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/08/2023 10:43,13/11/2023 01:22
+QDOCS-435,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/08/2023 10:17,13/11/2023 01:25
+QDOCS-434,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/08/2023 10:16,06/12/2023 14:28
+QDOCS-433,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/08/2023 10:15,06/12/2023 14:28
+QDOCS-432,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/08/2023 10:14,06/12/2023 14:28
+QDOCS-431,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/08/2023 10:10,06/12/2023 14:29
+QDOCS-430,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/08/2023 10:09,06/12/2023 14:29
+QDOCS-429,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/08/2023 10:08,05/10/2023 20:48
+QDOCS-428,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/08/2023 10:07,06/12/2023 14:29
+QDOCS-427,Task,Closed,QDOCS,Quarkus Documentation,software,Done,03/08/2023 16:17,29/08/2023 13:48
+QDOCS-426,Task,Closed,QDOCS,Quarkus Documentation,software,Done,02/08/2023 12:36,10/08/2023 15:12
+QDOCS-425,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/08/2023 10:11,18/08/2023 06:22
+QDOCS-424,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/08/2023 10:06,13/11/2023 01:25
+QDOCS-423,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/08/2023 05:46,04/08/2023 14:42
+QDOCS-422,Task,Closed,QDOCS,Quarkus Documentation,software,Done,31/07/2023 17:23,29/08/2023 13:36
+QDOCS-421,Task,Closed,QDOCS,Quarkus Documentation,software,Done,31/07/2023 10:54,06/12/2023 14:29
+QDOCS-420,Task,Closed,QDOCS,Quarkus Documentation,software,Done,31/07/2023 10:52,13/11/2023 01:26
+QDOCS-419,Task,Closed,QDOCS,Quarkus Documentation,software,Done,31/07/2023 10:50,14/09/2023 16:31
+QDOCS-418,Task,Closed,QDOCS,Quarkus Documentation,software,Done,31/07/2023 10:49,06/12/2023 14:29
+QDOCS-417,Task,Closed,QDOCS,Quarkus Documentation,software,Done,31/07/2023 10:48,06/12/2023 14:29
+QDOCS-416,Task,Closed,QDOCS,Quarkus Documentation,software,Done,31/07/2023 10:47,06/12/2023 14:30
+QDOCS-411,Task,Closed,QDOCS,Quarkus Documentation,software,Done,28/07/2023 18:52,10/08/2023 15:13
+QDOCS-406,Task,Closed,QDOCS,Quarkus Documentation,software,Duplicate,26/07/2023 17:25,02/10/2023 20:21
+QDOCS-405,Task,Closed,QDOCS,Quarkus Documentation,software,Duplicate,26/07/2023 17:16,29/08/2023 13:39
+QDOCS-404,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/07/2023 17:04,29/08/2023 13:37
+QDOCS-401,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,20/07/2023 19:52,14/03/2024 12:18
+QDOCS-400,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,20/07/2023 18:00,14/12/2023 22:00
+QDOCS-399,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,20/07/2023 14:34,06/12/2023 14:32
+QDOCS-398,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,20/07/2023 10:32,10/07/2024 13:24
+QDOCS-397,Task,Closed,QDOCS,Quarkus Documentation,software,Done,18/07/2023 07:57,11/08/2023 10:24
+QDOCS-396,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/07/2023 12:50,10/08/2023 15:15
+QDOCS-395,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/07/2023 12:44,03/10/2023 19:35
+QDOCS-394,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/07/2023 12:34,10/08/2023 15:18
+QDOCS-393,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/07/2023 11:52,24/08/2023 09:45
+QDOCS-392,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/07/2023 11:46,13/11/2023 01:24
+QDOCS-391,Task,Closed,QDOCS,Quarkus Documentation,software,Done,11/07/2023 10:56,23/11/2023 10:57
+QDOCS-390,Task,Closed,QDOCS,Quarkus Documentation,software,Done,11/07/2023 10:45,11/07/2023 12:52
+QDOCS-389,Task,Closed,QDOCS,Quarkus Documentation,software,Done,11/07/2023 08:23,23/11/2023 10:58
+QDOCS-388,Task,Closed,QDOCS,Quarkus Documentation,software,Done,06/07/2023 13:15,18/07/2023 09:38
+QDOCS-387,Task,Closed,QDOCS,Quarkus Documentation,software,Done,06/07/2023 13:09,18/07/2023 09:41
+QDOCS-385,Story,New,QDOCS,Quarkus Documentation,software,,03/07/2023 07:46,
+QDOCS-384,Task,Closed,QDOCS,Quarkus Documentation,software,Done,28/06/2023 11:12,03/07/2023 08:31
+QDOCS-383,Task,Closed,QDOCS,Quarkus Documentation,software,Done,28/06/2023 08:27,29/06/2023 21:27
+QDOCS-382,Task,Closed,QDOCS,Quarkus Documentation,software,Done,27/06/2023 12:43,27/06/2023 14:04
+QDOCS-381,Task,Closed,QDOCS,Quarkus Documentation,software,Done,27/06/2023 10:17,04/07/2023 18:08
+QDOCS-380,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/06/2023 12:51,27/09/2023 10:51
+QDOCS-379,Task,New,QDOCS,Quarkus Documentation,software,,26/06/2023 12:45,
+QDOCS-378,Task,New,QDOCS,Quarkus Documentation,software,,26/06/2023 08:59,
+QDOCS-377,Epic,Closed,QDOCS,Quarkus Documentation,software,Done,14/06/2023 19:04,16/06/2023 17:27
+QDOCS-376,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/06/2023 21:00,13/11/2023 01:08
+QDOCS-375,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/06/2023 20:55,13/11/2023 01:10
+QDOCS-374,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/06/2023 20:53,06/09/2023 08:32
+QDOCS-373,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,13/06/2023 20:50,13/11/2023 01:11
+QDOCS-372,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/06/2023 11:03,13/06/2023 20:48
+QDOCS-371,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/06/2023 13:14,08/06/2023 13:18
+QDOCS-370,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/06/2023 13:07,06/12/2023 14:33
+QDOCS-369,Task,Backlog,QDOCS,Quarkus Documentation,software,,08/06/2023 13:03,
+QDOCS-368,Task,Backlog,QDOCS,Quarkus Documentation,software,,08/06/2023 13:02,
+QDOCS-367,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,07/06/2023 17:23,17/01/2024 12:10
+QDOCS-366,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,07/06/2023 17:22,17/01/2024 12:10
+QDOCS-365,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,07/06/2023 17:21,17/01/2024 12:09
+QDOCS-364,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/06/2023 17:20,17/10/2023 11:49
+QDOCS-363,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,07/06/2023 17:18,17/01/2024 12:09
+QDOCS-362,Task,Closed,QDOCS,Quarkus Documentation,software,Done,06/06/2023 13:52,06/06/2023 15:21
+QDOCS-361,Task,Closed,QDOCS,Quarkus Documentation,software,Done,05/06/2023 12:47,13/06/2023 14:54
+QDOCS-360,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/06/2023 18:42,05/10/2023 20:53
+QDOCS-359,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/06/2023 15:31,13/06/2023 17:05
+QDOCS-358,Story,New,QDOCS,Quarkus Documentation,software,,01/06/2023 09:55,
+QDOCS-357,Task,Backlog,QDOCS,Quarkus Documentation,software,,31/05/2023 10:53,
+QDOCS-356,Task,Backlog,QDOCS,Quarkus Documentation,software,,31/05/2023 10:48,
+QDOCS-355,Task,Backlog,QDOCS,Quarkus Documentation,software,,31/05/2023 10:39,
+QDOCS-354,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/05/2023 12:47,08/06/2023 11:07
+QDOCS-353,Epic,New,QDOCS,Quarkus Documentation,software,,30/05/2023 12:04,
+QDOCS-352,Task,Closed,QDOCS,Quarkus Documentation,software,Done,29/05/2023 17:43,03/07/2023 08:29
+QDOCS-351,Task,Backlog,QDOCS,Quarkus Documentation,software,,29/05/2023 17:36,
+QDOCS-350,Task,Backlog,QDOCS,Quarkus Documentation,software,,29/05/2023 17:31,
+QDOCS-349,Task,Closed,QDOCS,Quarkus Documentation,software,Done,29/05/2023 09:51,04/09/2023 10:34
+QDOCS-348,Task,Closed,QDOCS,Quarkus Documentation,software,Done,29/05/2023 09:51,04/09/2023 10:33
+QDOCS-347,Task,Closed,QDOCS,Quarkus Documentation,software,Done,29/05/2023 09:50,13/07/2023 10:17
+QDOCS-346,Task,Closed,QDOCS,Quarkus Documentation,software,Done,29/05/2023 09:42,27/06/2023 11:57
+QDOCS-327,Task,Closed,QDOCS,Quarkus Documentation,software,Done,26/05/2023 11:54,16/06/2023 13:05
+QDOCS-326,Task,Closed,QDOCS,Quarkus Documentation,software,Done,24/05/2023 09:39,06/09/2023 08:21
+QDOCS-324,Task,Closed,QDOCS,Quarkus Documentation,software,Done,19/05/2023 17:32,20/07/2023 14:40
+QDOCS-323,Task,Closed,QDOCS,Quarkus Documentation,software,Done,17/05/2023 17:14,10/08/2023 15:23
+QDOCS-322,Task,Closed,QDOCS,Quarkus Documentation,software,Done,17/05/2023 17:08,03/07/2023 08:22
+QDOCS-321,Task,Closed,QDOCS,Quarkus Documentation,software,Done,17/05/2023 17:00,13/11/2023 01:17
+QDOCS-320,Task,New,QDOCS,Quarkus Documentation,software,,17/05/2023 09:15,
+QDOCS-319,Task,New,QDOCS,Quarkus Documentation,software,,17/05/2023 09:10,
+QDOCS-318,Task,Closed,QDOCS,Quarkus Documentation,software,Done,15/05/2023 10:43,06/12/2023 14:30
+QDOCS-317,Task,Closed,QDOCS,Quarkus Documentation,software,Done,15/05/2023 10:41,06/12/2023 14:30
+QDOCS-316,Task,Closed,QDOCS,Quarkus Documentation,software,Done,15/05/2023 10:40,06/12/2023 14:31
+QDOCS-302,Task,Closed,QDOCS,Quarkus Documentation,software,Done,09/05/2023 15:03,11/05/2023 12:05
+QDOCS-300,Epic,New,QDOCS,Quarkus Documentation,software,,28/04/2023 11:52,
+QDOCS-297,Task,Closed,QDOCS,Quarkus Documentation,software,Done,21/04/2023 15:32,20/07/2023 14:38
+QDOCS-295,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,14/04/2023 17:56,22/05/2023 17:46
+QDOCS-294,Story,Closed,QDOCS,Quarkus Documentation,software,Done,12/04/2023 20:58,14/09/2023 16:30
+QDOCS-293,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/04/2023 11:36,05/10/2023 20:30
+QDOCS-292,Task,Closed,QDOCS,Quarkus Documentation,software,Done,11/04/2023 13:38,11/05/2023 14:08
+QDOCS-291,Task,Closed,QDOCS,Quarkus Documentation,software,Done,11/04/2023 13:28,30/05/2023 09:04
+QDOCS-289,Task,Closed,QDOCS,Quarkus Documentation,software,Done,04/04/2023 10:15,04/04/2023 18:23
+QDOCS-288,Task,Closed,QDOCS,Quarkus Documentation,software,Done,03/04/2023 23:43,25/04/2023 16:46
+QDOCS-287,Bug,New,QDOCS,Quarkus Documentation,software,,03/04/2023 09:50,
+QDOCS-286,Task,Closed,QDOCS,Quarkus Documentation,software,Done,31/03/2023 14:40,05/04/2023 10:32
+QDOCS-285,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/03/2023 07:13,20/07/2023 14:39
+QDOCS-284,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/03/2023 07:11,20/07/2023 14:38
+QDOCS-283,Task,Closed,QDOCS,Quarkus Documentation,software,Done,30/03/2023 07:09,20/07/2023 14:38
+QDOCS-282,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,29/03/2023 11:51,12/11/2024 18:15
+QDOCS-281,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,29/03/2023 11:46,14/12/2023 22:23
+QDOCS-280,Task,Closed,QDOCS,Quarkus Documentation,software,Done,28/03/2023 15:11,22/05/2023 17:40
+QDOCS-279,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,27/03/2023 19:47,17/01/2024 12:08
+QDOCS-278,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,27/03/2023 19:46,17/01/2024 12:08
+QDOCS-277,Task,Closed,QDOCS,Quarkus Documentation,software,Done,27/03/2023 11:44,13/06/2023 21:03
+QDOCS-276,Epic,In Progress,QDOCS,Quarkus Documentation,software,,27/03/2023 11:41,
+QDOCS-275,Task,Closed,QDOCS,Quarkus Documentation,software,Done,27/03/2023 10:42,13/11/2023 01:14
+QDOCS-274,Task,Closed,QDOCS,Quarkus Documentation,software,Done,27/03/2023 09:22,18/07/2023 13:13
+QDOCS-273,Task,New,QDOCS,Quarkus Documentation,software,,24/03/2023 15:49,
+QDOCS-272,Task,Closed,QDOCS,Quarkus Documentation,software,Done,24/03/2023 15:17,05/04/2023 16:06
+QDOCS-271,Task,Closed,QDOCS,Quarkus Documentation,software,Done,23/03/2023 11:40,11/04/2023 19:28
+QDOCS-270,Epic,Closed,QDOCS,Quarkus Documentation,software,Done,22/03/2023 18:13,17/01/2024 12:07
+QDOCS-269,Task,Closed,QDOCS,Quarkus Documentation,software,Done,22/03/2023 14:57,22/03/2023 21:41
+QDOCS-268,Task,Closed,QDOCS,Quarkus Documentation,software,Done,22/03/2023 00:47,10/08/2023 10:02
+QDOCS-267,Task,Closed,QDOCS,Quarkus Documentation,software,Done,21/03/2023 10:28,06/04/2023 12:39
+QDOCS-266,Task,Closed,QDOCS,Quarkus Documentation,software,Duplicate,20/03/2023 18:37,11/04/2023 19:44
+QDOCS-265,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/03/2023 18:34,08/06/2023 10:41
+QDOCS-264,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/03/2023 15:35,18/05/2023 15:39
+QDOCS-263,Task,Closed,QDOCS,Quarkus Documentation,software,Done,17/03/2023 18:50,17/03/2023 18:51
+QDOCS-262,Task,Closed,QDOCS,Quarkus Documentation,software,Done,16/03/2023 10:39,06/04/2023 12:37
+QDOCS-261,Task,Closed,QDOCS,Quarkus Documentation,software,Done,16/03/2023 10:38,06/04/2023 12:37
+QDOCS-260,Task,Closed,QDOCS,Quarkus Documentation,software,Done,16/03/2023 10:37,20/03/2023 11:02
+QDOCS-259,Task,Closed,QDOCS,Quarkus Documentation,software,Done,16/03/2023 10:36,22/03/2023 10:42
+QDOCS-258,Task,Closed,QDOCS,Quarkus Documentation,software,Done,16/03/2023 10:36,22/03/2023 13:23
+QDOCS-257,Task,Closed,QDOCS,Quarkus Documentation,software,Done,16/03/2023 10:34,24/03/2023 10:39
+QDOCS-256,Task,Closed,QDOCS,Quarkus Documentation,software,Done,16/03/2023 10:32,06/04/2023 12:37
+QDOCS-255,Task,Closed,QDOCS,Quarkus Documentation,software,Done,16/03/2023 10:30,06/04/2023 12:37
+QDOCS-254,Task,Closed,QDOCS,Quarkus Documentation,software,Done,16/03/2023 10:28,23/03/2023 18:14
+QDOCS-253,Task,Closed,QDOCS,Quarkus Documentation,software,Done,16/03/2023 10:27,24/03/2023 12:52
+QDOCS-252,Task,Closed,QDOCS,Quarkus Documentation,software,Done,16/03/2023 10:25,05/04/2023 13:17
+QDOCS-251,Task,Closed,QDOCS,Quarkus Documentation,software,Done,16/03/2023 10:24,05/04/2023 13:17
+QDOCS-250,Task,Closed,QDOCS,Quarkus Documentation,software,Done,16/03/2023 10:19,05/04/2023 13:16
+QDOCS-249,Epic,Closed,QDOCS,Quarkus Documentation,software,Done,16/03/2023 09:38,12/11/2024 18:32
+QDOCS-248,Epic,Backlog,QDOCS,Quarkus Documentation,software,,16/03/2023 09:18,
+QDOCS-247,Epic,Backlog,QDOCS,Quarkus Documentation,software,,16/03/2023 09:05,
+QDOCS-246,Task,Closed,QDOCS,Quarkus Documentation,software,Done,15/03/2023 20:39,16/03/2023 20:01
+QDOCS-245,Task,Closed,QDOCS,Quarkus Documentation,software,Done,15/03/2023 19:57,16/03/2023 23:57
+QDOCS-244,Task,Closed,QDOCS,Quarkus Documentation,software,Done,15/03/2023 19:10,22/03/2023 11:14
+QDOCS-243,Task,Closed,QDOCS,Quarkus Documentation,software,Done,15/03/2023 18:53,05/04/2023 14:08
+QDOCS-242,Task,Closed,QDOCS,Quarkus Documentation,software,Done,15/03/2023 18:53,17/03/2023 11:07
+QDOCS-241,Task,Closed,QDOCS,Quarkus Documentation,software,Done,15/03/2023 18:51,05/04/2023 14:08
+QDOCS-240,Task,Closed,QDOCS,Quarkus Documentation,software,Done,15/03/2023 18:50,05/04/2023 14:08
+QDOCS-239,Task,Closed,QDOCS,Quarkus Documentation,software,Done,15/03/2023 18:49,05/04/2023 14:08
+QDOCS-238,Task,Closed,QDOCS,Quarkus Documentation,software,Done,15/03/2023 18:49,05/04/2023 14:07
+QDOCS-237,Task,Closed,QDOCS,Quarkus Documentation,software,Done,15/03/2023 18:47,05/04/2023 10:45
+QDOCS-236,Task,Closed,QDOCS,Quarkus Documentation,software,Done,15/03/2023 18:47,05/04/2023 10:44
+QDOCS-235,Task,Closed,QDOCS,Quarkus Documentation,software,Done,15/03/2023 18:45,05/04/2023 10:44
+QDOCS-234,Task,Closed,QDOCS,Quarkus Documentation,software,Done,15/03/2023 18:42,17/03/2023 18:42
+QDOCS-233,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/03/2023 23:13,16/03/2023 22:51
+QDOCS-232,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/03/2023 23:11,16/03/2023 22:00
+QDOCS-231,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/03/2023 20:57,16/03/2023 20:58
+QDOCS-230,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/03/2023 19:29,29/03/2023 15:20
+QDOCS-229,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/03/2023 19:15,20/07/2023 14:40
+QDOCS-228,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/03/2023 18:10,16/03/2023 18:43
+QDOCS-227,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/03/2023 14:10,22/03/2023 12:14
+QDOCS-226,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/03/2023 13:57,16/03/2023 18:22
+QDOCS-225,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/03/2023 10:34,14/03/2023 19:33
+QDOCS-224,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/03/2023 10:17,14/03/2023 19:51
+QDOCS-223,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/03/2023 09:54,14/03/2023 19:45
+QDOCS-222,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/03/2023 18:18,14/03/2023 18:51
+QDOCS-221,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/03/2023 18:16,14/03/2023 18:46
+QDOCS-220,Task,New,QDOCS,Quarkus Documentation,software,,09/03/2023 20:08,
+QDOCS-219,Task,Closed,QDOCS,Quarkus Documentation,software,Duplicate,08/03/2023 18:16,16/03/2023 23:02
+QDOCS-218,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/03/2023 16:16,14/03/2023 19:57
+QDOCS-217,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/03/2023 12:30,15/03/2023 14:26
+QDOCS-216,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/03/2023 12:18,23/05/2023 09:49
+QDOCS-215,Task,Closed,QDOCS,Quarkus Documentation,software,Can't Do,07/03/2023 12:13,29/08/2023 16:58
+QDOCS-214,Task,New,QDOCS,Quarkus Documentation,software,,07/03/2023 11:26,
+QDOCS-213,Task,Closed,QDOCS,Quarkus Documentation,software,Done,05/03/2023 10:06,08/03/2023 21:04
+QDOCS-212,Task,Closed,QDOCS,Quarkus Documentation,software,Done,03/03/2023 10:36,08/03/2023 20:53
+QDOCS-211,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,02/03/2023 09:37,14/03/2024 11:02
+QDOCS-210,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,02/03/2023 09:31,02/03/2023 11:27
+QDOCS-209,Task,Closed,QDOCS,Quarkus Documentation,software,Done,01/03/2023 15:15,06/04/2023 12:38
+QDOCS-208,Task,Closed,QDOCS,Quarkus Documentation,software,Duplicate,28/02/2023 14:31,12/04/2023 10:41
+QDOCS-207,Task,Closed,QDOCS,Quarkus Documentation,software,Duplicate,28/02/2023 13:19,15/05/2023 07:46
+QDOCS-206,Task,New,QDOCS,Quarkus Documentation,software,,28/02/2023 11:44,
+QDOCS-205,Task,New,QDOCS,Quarkus Documentation,software,,28/02/2023 11:42,
+QDOCS-204,Task,Closed,QDOCS,Quarkus Documentation,software,Duplicate,27/02/2023 16:39,17/07/2023 14:45
+QDOCS-203,Task,Closed,QDOCS,Quarkus Documentation,software,Done,27/02/2023 16:38,07/06/2023 09:19
+QDOCS-202,Task,Closed,QDOCS,Quarkus Documentation,software,Done,27/02/2023 16:35,10/08/2023 12:04
+QDOCS-201,Task,Closed,QDOCS,Quarkus Documentation,software,Done,27/02/2023 16:34,07/06/2023 09:19
+QDOCS-200,Task,Closed,QDOCS,Quarkus Documentation,software,Done,27/02/2023 09:57,08/03/2023 14:02
+QDOCS-199,Task,Closed,QDOCS,Quarkus Documentation,software,Duplicate,24/02/2023 16:54,28/02/2023 11:57
+QDOCS-198,Task,New,QDOCS,Quarkus Documentation,software,,24/02/2023 16:47,
+QDOCS-197,Task,Closed,QDOCS,Quarkus Documentation,software,Done,24/02/2023 16:43,17/07/2023 14:41
+QDOCS-196,Task,New,QDOCS,Quarkus Documentation,software,,24/02/2023 15:32,
+QDOCS-195,Task,New,QDOCS,Quarkus Documentation,software,,24/02/2023 15:31,
+QDOCS-194,Task,Closed,QDOCS,Quarkus Documentation,software,Done,24/02/2023 14:32,24/02/2023 14:33
+QDOCS-193,Task,New,QDOCS,Quarkus Documentation,software,,23/02/2023 22:25,
+QDOCS-192,Task,New,QDOCS,Quarkus Documentation,software,,23/02/2023 22:05,
+QDOCS-191,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,23/02/2023 21:41,14/08/2024 10:46
+QDOCS-190,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,23/02/2023 21:38,14/08/2024 10:47
+QDOCS-189,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,23/02/2023 21:37,14/08/2024 10:46
+QDOCS-188,Task,New,QDOCS,Quarkus Documentation,software,,23/02/2023 21:34,
+QDOCS-187,Task,Closed,QDOCS,Quarkus Documentation,software,Done,22/02/2023 20:16,15/03/2023 14:14
+QDOCS-186,Task,Backlog,QDOCS,Quarkus Documentation,software,,22/02/2023 19:34,
+QDOCS-185,Task,Backlog,QDOCS,Quarkus Documentation,software,,22/02/2023 19:33,
+QDOCS-184,Task,Backlog,QDOCS,Quarkus Documentation,software,,22/02/2023 19:32,
+QDOCS-183,Story,Backlog,QDOCS,Quarkus Documentation,software,,22/02/2023 19:28,
+QDOCS-182,Task,Closed,QDOCS,Quarkus Documentation,software,Duplicate,22/02/2023 19:16,28/02/2023 11:48
+QDOCS-181,Story,New,QDOCS,Quarkus Documentation,software,,22/02/2023 19:02,
+QDOCS-180,Story,Backlog,QDOCS,Quarkus Documentation,software,,22/02/2023 18:31,
+QDOCS-179,Story,Backlog,QDOCS,Quarkus Documentation,software,,22/02/2023 17:56,
+QDOCS-178,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/02/2023 15:16,22/03/2023 14:37
+QDOCS-177,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,18/02/2023 13:59,28/02/2023 22:06
+QDOCS-176,Task,Closed,QDOCS,Quarkus Documentation,software,Done,18/02/2023 13:45,02/03/2023 10:23
+QDOCS-175,Task,Closed,QDOCS,Quarkus Documentation,software,Done,18/02/2023 13:32,15/03/2023 13:42
+QDOCS-174,Task,Closed,QDOCS,Quarkus Documentation,software,Done,18/02/2023 12:39,20/03/2023 15:14
+QDOCS-173,Task,Closed,QDOCS,Quarkus Documentation,software,Done,17/02/2023 18:02,28/02/2023 20:30
+QDOCS-172,Task,Closed,QDOCS,Quarkus Documentation,software,Done,16/02/2023 10:26,21/03/2023 09:22
+QDOCS-171,Task,Closed,QDOCS,Quarkus Documentation,software,Done,16/02/2023 10:18,01/03/2023 15:09
+QDOCS-170,Epic,Closed,QDOCS,Quarkus Documentation,software,Done,16/02/2023 10:07,13/11/2024 17:54
+QDOCS-169,Task,Closed,QDOCS,Quarkus Documentation,software,Duplicate,13/02/2023 22:41,14/02/2023 15:55
+QDOCS-168,Story,Closed,QDOCS,Quarkus Documentation,software,Obsolete,13/02/2023 22:27,16/03/2023 20:49
+QDOCS-167,Story,Closed,QDOCS,Quarkus Documentation,software,Obsolete,13/02/2023 22:22,16/03/2023 20:47
+QDOCS-166,Story,Closed,QDOCS,Quarkus Documentation,software,Obsolete,13/02/2023 22:21,16/03/2023 20:48
+QDOCS-165,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/02/2023 18:50,24/02/2023 14:27
+QDOCS-164,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/02/2023 18:29,11/04/2023 19:27
+QDOCS-163,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/02/2023 18:27,23/02/2023 18:31
+QDOCS-162,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/02/2023 18:24,24/02/2023 14:27
+QDOCS-161,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/02/2023 18:22,23/02/2023 18:26
+QDOCS-160,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/02/2023 18:20,24/02/2023 14:27
+QDOCS-159,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/02/2023 18:17,23/02/2023 18:11
+QDOCS-158,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/02/2023 17:34,22/03/2023 13:04
+QDOCS-157,Task,Backlog,QDOCS,Quarkus Documentation,software,,13/02/2023 17:29,
+QDOCS-156,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/02/2023 11:47,31/05/2023 09:28
+QDOCS-155,Epic,New,QDOCS,Quarkus Documentation,software,,10/02/2023 11:03,
+QDOCS-154,Epic,Backlog,QDOCS,Quarkus Documentation,software,,10/02/2023 11:02,
+QDOCS-153,Epic,New,QDOCS,Quarkus Documentation,software,,10/02/2023 11:00,
+QDOCS-152,Epic,New,QDOCS,Quarkus Documentation,software,,10/02/2023 10:53,
+QDOCS-151,Epic,New,QDOCS,Quarkus Documentation,software,,10/02/2023 10:52,
+QDOCS-150,Epic,New,QDOCS,Quarkus Documentation,software,,10/02/2023 10:51,
+QDOCS-149,Epic,New,QDOCS,Quarkus Documentation,software,,10/02/2023 10:50,
+QDOCS-148,Epic,Closed,QDOCS,Quarkus Documentation,software,Done,10/02/2023 10:48,06/12/2023 14:38
+QDOCS-147,Task,Closed,QDOCS,Quarkus Documentation,software,Done,10/02/2023 10:46,06/12/2023 14:39
+QDOCS-146,Story,Closed,QDOCS,Quarkus Documentation,software,Done,10/02/2023 10:45,06/12/2023 14:39
+QDOCS-145,Epic,Closed,QDOCS,Quarkus Documentation,software,Done,10/02/2023 10:44,06/12/2023 14:40
+QDOCS-144,Story,Closed,QDOCS,Quarkus Documentation,software,Done,10/02/2023 10:41,18/10/2023 09:22
+QDOCS-143,Epic,Backlog,QDOCS,Quarkus Documentation,software,,10/02/2023 10:39,
+QDOCS-142,Task,Closed,QDOCS,Quarkus Documentation,software,Obsolete,10/02/2023 10:38,17/01/2024 12:08
+QDOCS-141,Epic,Backlog,QDOCS,Quarkus Documentation,software,,10/02/2023 10:37,
+QDOCS-140,Story,Closed,QDOCS,Quarkus Documentation,software,Done,10/02/2023 10:36,06/10/2023 17:25
+QDOCS-139,Epic,Backlog,QDOCS,Quarkus Documentation,software,,10/02/2023 09:35,
+QDOCS-138,Task,Closed,QDOCS,Quarkus Documentation,software,Done,09/02/2023 18:44,20/03/2023 15:29
+QDOCS-137,Task,Closed,QDOCS,Quarkus Documentation,software,Done,09/02/2023 15:13,22/06/2023 10:35
+QDOCS-136,Task,Closed,QDOCS,Quarkus Documentation,software,Done,09/02/2023 15:03,03/03/2023 13:22
+QDOCS-135,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/02/2023 22:32,16/03/2023 13:04
+QDOCS-134,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/02/2023 22:23,13/11/2024 17:48
+QDOCS-133,Task,Closed,QDOCS,Quarkus Documentation,software,Won't Do,08/02/2023 22:17,17/04/2023 10:54
+QDOCS-132,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/02/2023 22:14,22/02/2023 20:13
+QDOCS-131,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/02/2023 22:10,16/03/2023 13:03
+QDOCS-130,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/02/2023 22:04,23/02/2023 22:10
+QDOCS-129,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/02/2023 21:40,14/02/2023 16:59
+QDOCS-128,Task,In Progress,QDOCS,Quarkus Documentation,software,,08/02/2023 12:20,
+QDOCS-127,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/02/2023 16:23,27/02/2023 09:52
+QDOCS-126,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/02/2023 16:14,10/02/2023 10:12
+QDOCS-125,Epic,Closed,QDOCS,Quarkus Documentation,software,Done,07/02/2023 06:54,06/12/2023 14:32
+QDOCS-124,Epic,Closed,QDOCS,Quarkus Documentation,software,Done,06/02/2023 12:05,29/07/2024 14:26
+QDOCS-123,Task,Closed,QDOCS,Quarkus Documentation,software,Done,03/02/2023 20:44,08/02/2023 14:45
+QDOCS-121,Task,Closed,QDOCS,Quarkus Documentation,software,Done,31/01/2023 18:27,10/02/2023 10:22
+QDOCS-120,Task,Closed,QDOCS,Quarkus Documentation,software,Done,31/01/2023 18:26,13/02/2023 15:08
+QDOCS-119,Task,Closed,QDOCS,Quarkus Documentation,software,Done,31/01/2023 18:24,14/02/2023 15:50
+QDOCS-118,Task,Backlog,QDOCS,Quarkus Documentation,software,,27/01/2023 15:00,
+QDOCS-117,Task,Closed,QDOCS,Quarkus Documentation,software,Done,25/01/2023 21:48,30/01/2023 21:40
+QDOCS-116,Task,Closed,QDOCS,Quarkus Documentation,software,Done,23/01/2023 10:17,27/01/2023 13:27
+QDOCS-115,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/01/2023 17:55,17/04/2023 11:07
+QDOCS-114,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/01/2023 11:25,24/01/2023 09:53
+QDOCS-113,Task,Backlog,QDOCS,Quarkus Documentation,software,,12/01/2023 23:11,
+QDOCS-112,Task,Backlog,QDOCS,Quarkus Documentation,software,,12/01/2023 22:20,
+QDOCS-111,Task,Backlog,QDOCS,Quarkus Documentation,software,,12/01/2023 21:10,
+QDOCS-110,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/01/2023 14:53,07/02/2023 11:28
+QDOCS-109,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/01/2023 13:59,07/02/2023 13:28
+QDOCS-108,Task,Backlog,QDOCS,Quarkus Documentation,software,,12/01/2023 13:56,
+QDOCS-107,Task,Backlog,QDOCS,Quarkus Documentation,software,,12/01/2023 13:55,
+QDOCS-106,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/01/2023 13:51,14/02/2023 19:20
+QDOCS-105,Task,Backlog,QDOCS,Quarkus Documentation,software,,12/01/2023 13:49,
+QDOCS-104,Task,Backlog,QDOCS,Quarkus Documentation,software,,12/01/2023 13:42,
+QDOCS-103,Task,Backlog,QDOCS,Quarkus Documentation,software,,12/01/2023 13:16,
+QDOCS-102,Task,Backlog,QDOCS,Quarkus Documentation,software,,12/01/2023 13:13,
+QDOCS-101,Task,Backlog,QDOCS,Quarkus Documentation,software,,12/01/2023 13:06,
+QDOCS-100,Task,Backlog,QDOCS,Quarkus Documentation,software,,12/01/2023 11:35,
+QDOCS-99,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/01/2023 11:16,20/02/2023 17:36
+QDOCS-98,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/01/2023 11:13,27/01/2023 19:42
+QDOCS-97,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/01/2023 11:10,26/01/2023 17:02
+QDOCS-96,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/01/2023 11:06,26/01/2023 17:03
+QDOCS-95,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/01/2023 11:02,16/01/2023 13:30
+QDOCS-94,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/01/2023 10:58,26/01/2023 16:50
+QDOCS-93,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/01/2023 10:30,03/02/2023 14:11
+QDOCS-92,Task,Backlog,QDOCS,Quarkus Documentation,software,,12/01/2023 10:27,
+QDOCS-91,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/01/2023 10:25,24/01/2023 14:01
+QDOCS-90,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/01/2023 10:18,24/01/2023 13:56
+QDOCS-89,Task,Backlog,QDOCS,Quarkus Documentation,software,,12/01/2023 08:28,
+QDOCS-88,Story,Closed,QDOCS,Quarkus Documentation,software,Done,11/01/2023 16:54,27/01/2023 19:38
+QDOCS-87,Story,Closed,QDOCS,Quarkus Documentation,software,Done,11/01/2023 16:35,27/01/2023 19:45
+QDOCS-86,Story,Closed,QDOCS,Quarkus Documentation,software,Done,11/01/2023 16:18,27/01/2023 19:44
+QDOCS-85,Story,Closed,QDOCS,Quarkus Documentation,software,Done,11/01/2023 13:54,08/02/2023 18:12
+QDOCS-84,Story,Closed,QDOCS,Quarkus Documentation,software,Won't Do,11/01/2023 13:51,11/01/2023 13:52
+QDOCS-83,Task,Backlog,QDOCS,Quarkus Documentation,software,,05/01/2023 17:26,
+QDOCS-82,Task,Closed,QDOCS,Quarkus Documentation,software,Done,15/12/2022 10:33,23/02/2023 11:08
+QDOCS-81,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/12/2022 10:40,14/12/2022 14:58
+QDOCS-80,Task,Closed,QDOCS,Quarkus Documentation,software,Not a Bug,13/12/2022 19:37,13/12/2022 20:32
+QDOCS-79,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/12/2022 13:17,13/12/2022 17:32
+QDOCS-78,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/12/2022 10:55,14/12/2022 16:17
+QDOCS-77,Task,Closed,QDOCS,Quarkus Documentation,software,Done,12/12/2022 22:01,13/12/2022 12:09
+QDOCS-76,Task,Closed,QDOCS,Quarkus Documentation,software,Done,09/12/2022 14:56,13/12/2022 11:40
+QDOCS-75,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/12/2022 22:21,09/12/2022 18:21
+QDOCS-74,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/12/2022 21:57,20/01/2023 19:09
+QDOCS-73,Task,Closed,QDOCS,Quarkus Documentation,software,Done,24/11/2022 14:29,12/01/2023 08:26
+QDOCS-72,Task,Closed,QDOCS,Quarkus Documentation,software,Done,22/11/2022 16:00,26/01/2023 16:49
+QDOCS-71,Task,Closed,QDOCS,Quarkus Documentation,software,Done,22/11/2022 15:20,08/02/2023 19:38
+QDOCS-70,Task,Closed,QDOCS,Quarkus Documentation,software,Done,22/11/2022 15:19,12/01/2023 17:45
+QDOCS-69,Task,Closed,QDOCS,Quarkus Documentation,software,Won't Do,21/11/2022 21:32,08/12/2022 20:55
+QDOCS-68,Task,Closed,QDOCS,Quarkus Documentation,software,Done,21/11/2022 15:41,12/12/2022 18:06
+QDOCS-67,Story,Closed,QDOCS,Quarkus Documentation,software,Done,18/11/2022 20:36,14/12/2023 12:37
+QDOCS-66,Story,Backlog,QDOCS,Quarkus Documentation,software,,18/11/2022 20:31,
+QDOCS-65,Story,Closed,QDOCS,Quarkus Documentation,software,Done,18/11/2022 20:29,11/01/2023 11:53
+QDOCS-64,Task,Closed,QDOCS,Quarkus Documentation,software,Done,25/10/2022 16:00,10/01/2023 17:58
+QDOCS-63,Task,Closed,QDOCS,Quarkus Documentation,software,Done,29/09/2022 08:53,03/10/2022 12:32
+QDOCS-62,Bug,Closed,QDOCS,Quarkus Documentation,software,Done,26/09/2022 15:35,27/09/2022 15:14
+QDOCS-59,Task,Closed,QDOCS,Quarkus Documentation,software,Done,09/09/2022 09:57,09/09/2022 15:35
+QDOCS-58,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/09/2022 11:10,08/09/2022 11:20
+QDOCS-56,Task,Closed,QDOCS,Quarkus Documentation,software,Done,24/08/2022 06:51,05/09/2022 10:58
+QDOCS-55,Epic,New,QDOCS,Quarkus Documentation,software,,18/08/2022 13:49,
+QDOCS-54,Story,Closed,QDOCS,Quarkus Documentation,software,Done,17/08/2022 15:24,23/11/2022 09:47
+QDOCS-52,Task,Backlog,QDOCS,Quarkus Documentation,software,,15/08/2022 18:27,
+QDOCS-51,Task,Backlog,QDOCS,Quarkus Documentation,software,,15/08/2022 18:08,
+QDOCS-50,Story,Closed,QDOCS,Quarkus Documentation,software,Done,15/08/2022 12:34,16/08/2022 09:10
+QDOCS-49,Task,Closed,QDOCS,Quarkus Documentation,software,Done,11/08/2022 12:32,16/08/2022 09:07
+QDOCS-48,Task,Closed,QDOCS,Quarkus Documentation,software,Done,09/08/2022 09:25,14/02/2023 19:39
+QDOCS-47,Task,Closed,QDOCS,Quarkus Documentation,software,Done,25/07/2022 09:44,10/08/2022 08:45
+QDOCS-44,Task,Closed,QDOCS,Quarkus Documentation,software,Done,21/07/2022 08:10,17/08/2022 08:44
+QDOCS-43,Task,Closed,QDOCS,Quarkus Documentation,software,Done,20/07/2022 11:07,23/08/2022 08:48
+QDOCS-41,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/07/2022 15:39,18/07/2022 12:31
+QDOCS-40,Task,Closed,QDOCS,Quarkus Documentation,software,Done,11/07/2022 09:34,07/09/2022 13:32
+QDOCS-39,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/07/2022 08:11,15/09/2022 16:38
+QDOCS-38,Epic,New,QDOCS,Quarkus Documentation,software,,29/06/2022 10:28,
+QDOCS-37,Task,Closed,QDOCS,Quarkus Documentation,software,Won't Do,27/06/2022 08:29,25/08/2022 08:17
+QDOCS-36,Task,Closed,QDOCS,Quarkus Documentation,software,Done,27/06/2022 08:20,15/09/2022 13:30
+QDOCS-35,Task,Closed,QDOCS,Quarkus Documentation,software,Done,27/06/2022 08:13,08/09/2022 19:35
+QDOCS-34,Task,Closed,QDOCS,Quarkus Documentation,software,Done,27/06/2022 08:10,08/09/2022 11:19
+QDOCS-33,Story,Closed,QDOCS,Quarkus Documentation,software,Done,27/06/2022 08:01,22/09/2022 16:11
+QDOCS-32,Task,Closed,QDOCS,Quarkus Documentation,software,Done,22/06/2022 10:24,13/09/2022 18:55
+QDOCS-31,Epic,Closed,QDOCS,Quarkus Documentation,software,Done,22/06/2022 09:36,10/02/2023 09:15
+QDOCS-30,Task,Closed,QDOCS,Quarkus Documentation,software,Done,22/06/2022 09:33,01/08/2022 06:16
+QDOCS-29,Task,Closed,QDOCS,Quarkus Documentation,software,Done,22/06/2022 08:56,20/07/2022 11:05
+QDOCS-28,Task,Closed,QDOCS,Quarkus Documentation,software,Done,22/06/2022 08:51,28/07/2022 11:53
+QDOCS-27,Task,Closed,QDOCS,Quarkus Documentation,software,Done,22/06/2022 08:46,01/08/2022 06:15
+QDOCS-26,Task,Closed,QDOCS,Quarkus Documentation,software,Done,21/06/2022 13:40,01/07/2022 10:31
+QDOCS-25,Epic,Closed,QDOCS,Quarkus Documentation,software,Done,21/06/2022 07:17,23/08/2022 08:48
+QDOCS-24,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/06/2022 07:36,05/07/2022 09:41
+QDOCS-23,Task,Closed,QDOCS,Quarkus Documentation,software,Done,14/06/2022 07:32,05/07/2022 09:40
+QDOCS-22,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/06/2022 12:48,27/09/2022 07:09
+QDOCS-21,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/06/2022 11:46,29/06/2022 10:39
+QDOCS-20,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/06/2022 11:40,21/06/2022 13:31
+QDOCS-19,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/06/2022 11:37,09/08/2022 10:11
+QDOCS-18,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/06/2022 11:34,01/07/2022 10:32
+QDOCS-17,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/06/2022 10:58,13/06/2022 11:41
+QDOCS-16,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/06/2022 08:58,24/08/2022 06:55
+QDOCS-15,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/06/2022 08:19,21/06/2022 10:52
+QDOCS-14,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/06/2022 08:18,06/07/2022 09:58
+QDOCS-13,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/06/2022 08:17,06/07/2022 09:59
+QDOCS-12,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/06/2022 08:14,21/06/2022 10:51
+QDOCS-11,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/06/2022 12:36,29/06/2022 10:41
+QDOCS-10,Task,Closed,QDOCS,Quarkus Documentation,software,Done,08/06/2022 10:19,24/06/2022 10:29
+QDOCS-9,Epic,Closed,QDOCS,Quarkus Documentation,software,Done,07/06/2022 17:50,07/02/2023 10:49
+QDOCS-8,Task,Backlog,QDOCS,Quarkus Documentation,software,,07/06/2022 16:42,
+QDOCS-7,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/06/2022 15:37,29/06/2022 11:15
+QDOCS-6,Task,Closed,QDOCS,Quarkus Documentation,software,Done,07/06/2022 14:15,06/07/2022 14:01
+QDOCS-5,Task,Closed,QDOCS,Quarkus Documentation,software,Done,03/06/2022 14:51,31/08/2022 17:21
+QDOCS-4,Task,Closed,QDOCS,Quarkus Documentation,software,Won't Do,02/06/2022 10:20,02/06/2022 10:21
+QDOCS-3,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/05/2022 17:48,20/06/2022 09:21
+QDOCS-2,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/05/2022 17:48,20/06/2022 09:20
+QDOCS-1,Task,Closed,QDOCS,Quarkus Documentation,software,Done,13/05/2022 17:48,20/06/2022 09:20

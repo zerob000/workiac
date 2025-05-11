@@ -1,0 +1,423 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+HCIDOCS-558,Task,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,05/11/2024 14:09,
+HCIDOCS-557,Bug,Review,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,01/11/2024 09:01,
+HCIDOCS-556,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,04/11/2024 10:07,
+HCIDOCS-555,Bug,In Progress,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,21/10/2024 11:39,
+HCIDOCS-553,Task,To Do,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,10/09/2024 06:36,
+HCIDOCS-552,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,29/10/2024 09:49,06/11/2024 14:39
+HCIDOCS-550,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,15/10/2024 13:54,
+HCIDOCS-549,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,18/10/2024 14:37,
+HCIDOCS-548,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,21/10/2024 12:04,
+HCIDOCS-547,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,28/10/2024 10:41,
+HCIDOCS-546,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,22/10/2024 07:59,
+HCIDOCS-545,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,23/10/2024 20:22,
+HCIDOCS-544,Task,In Progress,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,17/10/2024 05:34,
+HCIDOCS-543,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,15/10/2024 12:46,
+HCIDOCS-542,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,14/10/2024 09:30,
+HCIDOCS-541,Task,Verified,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Test Pending,14/10/2024 08:45,22/10/2024 22:34
+HCIDOCS-540,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,14/10/2024 08:25,
+HCIDOCS-539,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,10/10/2024 09:58,
+HCIDOCS-538,Bug,Backlog,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,08/10/2024 14:14,
+HCIDOCS-535,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,07/10/2024 10:44,
+HCIDOCS-534,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,07/10/2024 10:42,
+HCIDOCS-533,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,07/10/2024 10:40,
+HCIDOCS-532,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,07/10/2024 10:39,
+HCIDOCS-531,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,07/10/2024 10:36,
+HCIDOCS-530,Story,In Progress,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,07/10/2024 10:34,
+HCIDOCS-529,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,07/10/2024 10:32,
+HCIDOCS-528,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,07/10/2024 10:31,
+HCIDOCS-527,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,04/10/2024 18:44,04/10/2024 21:34
+HCIDOCS-526,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,03/10/2024 15:59,10/10/2024 18:08
+HCIDOCS-525,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,01/10/2024 13:12,01/10/2024 16:28
+HCIDOCS-524,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,26/09/2024 10:10,27/09/2024 01:00
+HCIDOCS-523,Bug,In Progress,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,25/09/2024 13:27,
+HCIDOCS-522,Bug,In Progress,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,25/09/2024 12:27,
+HCIDOCS-521,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,25/09/2024 07:47,01/11/2024 16:22
+HCIDOCS-520,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,23/09/2024 14:16,29/10/2024 20:53
+HCIDOCS-519,Task,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,23/09/2024 12:06,
+HCIDOCS-518,Bug,In Progress,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,23/09/2024 11:51,
+HCIDOCS-517,Bug,In Progress,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,23/09/2024 11:43,
+HCIDOCS-516,Task,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,23/09/2024 11:00,
+HCIDOCS-515,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,23/09/2024 10:55,
+HCIDOCS-514,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,23/09/2024 10:38,
+HCIDOCS-513,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,23/09/2024 10:25,
+HCIDOCS-512,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,23/09/2024 10:20,
+HCIDOCS-511,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,23/09/2024 09:29,23/09/2024 09:48
+HCIDOCS-510,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,23/09/2024 09:04,23/09/2024 09:28
+HCIDOCS-509,Task,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,22/09/2024 11:51,
+HCIDOCS-508,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,22/09/2024 10:38,
+HCIDOCS-505,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Won't Do,22/09/2024 09:58,23/09/2024 09:51
+HCIDOCS-504,Task,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,22/09/2024 09:52,
+HCIDOCS-503,Task,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,22/09/2024 09:38,
+HCIDOCS-502,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,22/09/2024 09:13,03/10/2024 19:28
+HCIDOCS-501,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,22/09/2024 08:15,28/10/2024 18:35
+HCIDOCS-500,Task,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,22/09/2024 07:54,
+HCIDOCS-499,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,19/09/2024 13:13,05/11/2024 16:49
+HCIDOCS-498,Task,Backlog,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/09/2024 12:28,
+HCIDOCS-497,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/09/2024 10:26,
+HCIDOCS-496,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/09/2024 10:13,
+HCIDOCS-495,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/09/2024 10:11,
+HCIDOCS-494,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/09/2024 10:05,
+HCIDOCS-493,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/09/2024 09:56,
+HCIDOCS-492,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/09/2024 09:43,
+HCIDOCS-491,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/09/2024 09:31,
+HCIDOCS-490,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/09/2024 09:25,
+HCIDOCS-489,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/09/2024 09:07,
+HCIDOCS-488,Task,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/09/2024 09:00,
+HCIDOCS-487,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/09/2024 08:55,
+HCIDOCS-486,Task,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/09/2024 08:47,
+HCIDOCS-485,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/09/2024 08:41,
+HCIDOCS-484,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/09/2024 08:33,
+HCIDOCS-483,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/09/2024 08:23,
+HCIDOCS-482,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/09/2024 08:18,
+HCIDOCS-481,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/09/2024 08:14,
+HCIDOCS-480,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/09/2024 08:08,
+HCIDOCS-479,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/09/2024 08:05,
+HCIDOCS-478,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/09/2024 08:04,
+HCIDOCS-477,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,19/09/2024 07:04,27/09/2024 16:25
+HCIDOCS-476,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,19/09/2024 06:48,27/09/2024 16:24
+HCIDOCS-475,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,19/09/2024 06:41,26/09/2024 19:14
+HCIDOCS-474,Story,In Progress,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,18/09/2024 15:30,
+HCIDOCS-472,Task,Review,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,28/08/2024 06:46,
+HCIDOCS-469,Bug,In Progress,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,04/09/2024 15:33,
+HCIDOCS-468,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,04/09/2024 15:38,25/09/2024 13:43
+HCIDOCS-467,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,09/09/2024 08:03,11/09/2024 07:58
+HCIDOCS-466,Task,To Do,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,08/09/2024 14:05,
+HCIDOCS-465,Bug,Backlog,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,06/09/2024 14:53,
+HCIDOCS-464,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,05/09/2024 14:04,12/09/2024 13:20
+HCIDOCS-463,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Duplicate,05/09/2024 08:00,08/10/2024 14:22
+HCIDOCS-462,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,04/09/2024 20:15,18/09/2024 19:05
+HCIDOCS-461,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,04/09/2024 07:28,11/09/2024 15:49
+HCIDOCS-460,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,02/09/2024 09:44,
+HCIDOCS-459,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,01/09/2024 11:48,09/09/2024 13:40
+HCIDOCS-457,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,01/09/2024 11:15,03/09/2024 13:17
+HCIDOCS-456,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,01/09/2024 11:07,04/09/2024 13:51
+HCIDOCS-454,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,29/08/2024 11:41,
+HCIDOCS-453,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,22/08/2024 13:47,25/09/2024 16:31
+HCIDOCS-452,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,29/08/2024 09:34,
+HCIDOCS-451,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Duplicate,29/08/2024 09:26,23/09/2024 14:08
+HCIDOCS-450,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,29/08/2024 09:24,
+HCIDOCS-449,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,29/08/2024 08:52,
+HCIDOCS-448,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,29/08/2024 08:49,
+HCIDOCS-447,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,29/08/2024 08:45,04/09/2024 11:04
+HCIDOCS-445,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,27/08/2024 11:41,
+HCIDOCS-444,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,27/08/2024 10:50,
+HCIDOCS-443,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/08/2024 07:35,
+HCIDOCS-442,Bug,To Do,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,15/04/2024 16:05,
+HCIDOCS-441,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,13/08/2024 12:44,15/08/2024 09:37
+HCIDOCS-440,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,13/08/2024 08:28,
+HCIDOCS-439,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,12/08/2024 14:38,09/09/2024 13:26
+HCIDOCS-438,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,12/08/2024 11:40,18/10/2024 21:31
+HCIDOCS-437,Task,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,12/08/2024 10:19,
+HCIDOCS-436,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,11/08/2024 13:50,
+HCIDOCS-435,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,11/08/2024 13:08,
+HCIDOCS-434,Story,In Progress,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,11/08/2024 10:44,
+HCIDOCS-423,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,09/08/2024 19:01,24/09/2024 21:11
+HCIDOCS-421,Task,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,08/08/2024 08:54,
+HCIDOCS-420,Task,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,07/08/2024 08:40,
+HCIDOCS-419,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,07/08/2024 08:24,
+HCIDOCS-418,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Test Pending,06/08/2024 15:19,08/08/2024 06:27
+HCIDOCS-417,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,18/07/2024 14:55,
+HCIDOCS-416,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,05/08/2024 14:04,
+HCIDOCS-415,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,05/08/2024 12:15,
+HCIDOCS-414,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,05/08/2024 12:08,
+HCIDOCS-413,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,30/07/2024 06:02,19/09/2024 14:16
+HCIDOCS-412,Bug,In Progress,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,29/07/2024 14:09,
+HCIDOCS-411,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,29/07/2024 10:44,
+HCIDOCS-410,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,24/07/2024 15:52,02/09/2024 10:36
+HCIDOCS-409,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,24/07/2024 13:16,15/08/2024 20:36
+HCIDOCS-408,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,24/07/2024 10:26,12/09/2024 09:51
+HCIDOCS-407,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,23/07/2024 17:36,
+HCIDOCS-406,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,23/07/2024 13:05,27/07/2024 23:37
+HCIDOCS-405,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,23/07/2024 11:12,11/09/2024 14:14
+HCIDOCS-403,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,18/07/2024 15:10,11/08/2024 09:02
+HCIDOCS-402,Bug,Review,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,18/07/2024 10:55,
+HCIDOCS-401,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,19/02/2024 09:14,19/07/2024 17:01
+HCIDOCS-400,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,04/07/2024 12:09,09/08/2024 19:14
+HCIDOCS-398,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,28/06/2024 13:28,
+HCIDOCS-397,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,16/07/2024 09:38,31/07/2024 16:54
+HCIDOCS-394,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,10/07/2024 07:28,11/09/2024 07:56
+HCIDOCS-393,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,10/07/2024 07:26,10/07/2024 07:27
+HCIDOCS-392,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,08/07/2024 14:14,06/11/2024 20:51
+HCIDOCS-391,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,03/07/2024 13:30,21/07/2024 07:05
+HCIDOCS-390,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,03/07/2024 13:01,
+HCIDOCS-388,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,02/07/2024 09:21,22/08/2024 18:46
+HCIDOCS-387,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,01/07/2024 10:13,22/09/2024 08:28
+HCIDOCS-386,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Test Pending,29/06/2024 05:38,29/06/2024 05:45
+HCIDOCS-385,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,28/06/2024 21:51,29/06/2024 05:22
+HCIDOCS-384,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,27/06/2024 16:52,04/09/2024 14:33
+HCIDOCS-383,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,27/06/2024 13:32,09/07/2024 18:02
+HCIDOCS-382,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,27/06/2024 10:39,27/06/2024 13:25
+HCIDOCS-381,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,27/06/2024 05:29,02/07/2024 07:13
+HCIDOCS-380,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,26/06/2024 14:56,19/09/2024 11:57
+HCIDOCS-379,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Won't Do,26/06/2024 12:47,15/08/2024 09:38
+HCIDOCS-378,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,26/06/2024 12:39,22/09/2024 07:38
+HCIDOCS-376,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,17/06/2024 08:31,11/09/2024 13:53
+HCIDOCS-375,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Duplicate,25/04/2024 14:11,17/07/2024 16:06
+HCIDOCS-374,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Won't Do,25/04/2024 14:13,02/07/2024 13:45
+HCIDOCS-373,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,03/06/2024 08:11,
+HCIDOCS-372,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,24/06/2024 11:08,22/08/2024 16:47
+HCIDOCS-371,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,23/06/2024 09:49,25/06/2024 08:12
+HCIDOCS-370,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,22/06/2024 19:49,27/06/2024 05:31
+HCIDOCS-369,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,19/06/2024 13:17,25/06/2024 14:19
+HCIDOCS-367,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,18/06/2024 14:08,22/10/2024 22:17
+HCIDOCS-366,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,18/06/2024 13:47,21/06/2024 15:55
+HCIDOCS-365,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,17/06/2024 12:09,25/06/2024 07:57
+HCIDOCS-364,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,17/06/2024 09:46,18/06/2024 13:18
+HCIDOCS-363,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,17/06/2024 07:44,25/06/2024 15:11
+HCIDOCS-362,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,16/06/2024 12:58,08/10/2024 12:04
+HCIDOCS-361,Spike,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,16/06/2024 12:52,16/06/2024 12:55
+HCIDOCS-360,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,10/06/2024 10:44,14/08/2024 14:04
+HCIDOCS-359,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,10/06/2024 10:40,23/09/2024 14:07
+HCIDOCS-358,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,10/06/2024 10:09,22/08/2024 17:17
+HCIDOCS-357,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,10/06/2024 09:34,
+HCIDOCS-356,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,09/06/2024 15:40,
+HCIDOCS-355,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Obsolete,09/06/2024 15:36,25/09/2024 08:30
+HCIDOCS-354,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,09/06/2024 14:51,
+HCIDOCS-353,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,07/06/2024 14:10,14/08/2024 07:22
+HCIDOCS-351,Story,Verified,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Test Pending,04/06/2024 19:55,28/10/2024 10:59
+HCIDOCS-350,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,04/06/2024 19:37,
+HCIDOCS-349,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,04/06/2024 10:32,
+HCIDOCS-348,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,31/05/2024 07:25,23/09/2024 12:00
+HCIDOCS-346,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,30/05/2024 02:25,20/06/2024 09:48
+HCIDOCS-345,Story,Backlog,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,29/05/2024 11:40,
+HCIDOCS-344,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,28/05/2024 21:47,20/06/2024 09:48
+HCIDOCS-343,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Won't Do,27/05/2024 09:14,02/07/2024 08:40
+HCIDOCS-342,Story,Backlog,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,27/05/2024 08:32,
+HCIDOCS-341,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,27/05/2024 08:05,17/07/2024 16:05
+HCIDOCS-340,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,22/05/2024 15:39,12/06/2024 19:35
+HCIDOCS-334,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,21/05/2024 09:06,02/07/2024 13:48
+HCIDOCS-333,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,21/05/2024 08:15,
+HCIDOCS-332,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,21/05/2024 02:15,12/09/2024 16:03
+HCIDOCS-331,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,20/05/2024 11:42,
+HCIDOCS-330,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,20/05/2024 11:41,
+HCIDOCS-329,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,20/05/2024 11:41,
+HCIDOCS-328,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,20/05/2024 11:41,
+HCIDOCS-327,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,20/05/2024 11:40,
+HCIDOCS-326,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,20/05/2024 11:40,
+HCIDOCS-325,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,20/05/2024 11:39,
+HCIDOCS-324,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,20/05/2024 11:39,
+HCIDOCS-323,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,20/05/2024 11:39,
+HCIDOCS-322,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/05/2024 13:24,
+HCIDOCS-321,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/05/2024 13:13,
+HCIDOCS-320,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/05/2024 13:09,
+HCIDOCS-319,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,19/05/2024 12:54,19/08/2024 12:52
+HCIDOCS-317,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,19/05/2024 12:18,24/09/2024 20:56
+HCIDOCS-316,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,17/05/2024 14:28,16/09/2024 14:48
+HCIDOCS-315,Bug,In Progress,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,16/05/2024 07:45,
+HCIDOCS-314,Story,Backlog,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,14/05/2024 16:30,
+HCIDOCS-313,Story,Backlog,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,14/05/2024 16:22,
+HCIDOCS-312,Bug,Backlog,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,09/05/2024 14:57,
+HCIDOCS-311,Story,Backlog,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,09/05/2024 12:59,
+HCIDOCS-310,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,08/05/2024 12:58,04/06/2024 09:05
+HCIDOCS-309,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,09/04/2024 15:55,
+HCIDOCS-307,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,22/04/2024 09:18,12/06/2024 03:52
+HCIDOCS-306,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,16/04/2024 02:17,16/05/2024 20:58
+HCIDOCS-305,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,08/04/2024 10:16,
+HCIDOCS-304,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,24/04/2024 08:59,
+HCIDOCS-303,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,24/04/2024 09:10,
+HCIDOCS-302,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,02/05/2024 07:51,14/05/2024 15:01
+HCIDOCS-300,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,30/04/2024 09:12,17/05/2024 14:24
+HCIDOCS-299,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,25/04/2024 10:05,16/05/2024 13:35
+HCIDOCS-298,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,24/04/2024 11:34,23/10/2024 16:50
+HCIDOCS-297,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Duplicate,24/04/2024 08:50,24/04/2024 09:25
+HCIDOCS-296,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,16/04/2024 10:53,09/07/2024 18:39
+HCIDOCS-295,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,21/04/2024 12:49,24/04/2024 08:53
+HCIDOCS-294,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,18/04/2024 10:36,09/05/2024 14:19
+HCIDOCS-293,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,15/04/2024 13:48,17/04/2024 15:32
+HCIDOCS-292,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,14/04/2024 15:36,
+HCIDOCS-291,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,10/04/2024 15:18,06/05/2024 09:09
+HCIDOCS-290,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,10/04/2024 15:04,
+HCIDOCS-289,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,10/04/2024 14:19,
+HCIDOCS-288,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,10/04/2024 14:19,06/05/2024 09:09
+HCIDOCS-286,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Duplicate,09/04/2024 16:02,10/06/2024 09:52
+HCIDOCS-285,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,09/04/2024 09:03,09/04/2024 15:43
+HCIDOCS-284,Bug,In Progress,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,07/04/2024 15:41,
+HCIDOCS-282,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,03/04/2024 23:10,16/04/2024 11:04
+HCIDOCS-273,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,03/04/2024 08:22,24/06/2024 10:22
+HCIDOCS-264,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,01/04/2024 09:16,01/05/2024 12:04
+HCIDOCS-263,Bug,To Do,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,27/03/2024 11:04,
+HCIDOCS-262,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,27/03/2024 09:54,28/03/2024 08:35
+HCIDOCS-261,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,27/03/2024 09:31,30/04/2024 13:52
+HCIDOCS-260,Bug,In Progress,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,21/03/2024 07:22,
+HCIDOCS-259,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,26/03/2024 13:03,26/03/2024 17:01
+HCIDOCS-258,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,21/03/2024 11:28,24/04/2024 14:45
+HCIDOCS-257,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Duplicate,19/03/2024 10:21,19/03/2024 11:47
+HCIDOCS-256,Story,Backlog,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,17/03/2024 10:33,
+HCIDOCS-255,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,13/03/2024 15:03,09/05/2024 14:20
+HCIDOCS-254,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,13/03/2024 12:58,31/03/2024 11:47
+HCIDOCS-252,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,11/03/2024 11:37,25/03/2024 15:14
+HCIDOCS-251,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,01/03/2024 20:54,17/05/2024 14:19
+HCIDOCS-249,Story,To Do,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,17/01/2024 09:36,
+HCIDOCS-248,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Duplicate,08/02/2024 15:54,01/10/2024 17:00
+HCIDOCS-247,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,07/03/2024 10:37,21/03/2024 14:09
+HCIDOCS-246,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,29/02/2024 11:48,03/04/2024 16:21
+HCIDOCS-245,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,04/03/2024 12:31,25/07/2024 08:39
+HCIDOCS-244,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,04/03/2024 12:15,20/06/2024 16:21
+HCIDOCS-243,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,29/02/2024 15:16,29/02/2024 17:36
+HCIDOCS-242,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,29/02/2024 12:44,07/05/2024 11:47
+HCIDOCS-241,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,22/02/2024 20:39,08/03/2024 17:01
+HCIDOCS-240,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,22/02/2024 20:21,03/04/2024 19:06
+HCIDOCS-239,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,22/02/2024 09:35,11/04/2024 14:08
+HCIDOCS-238,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,21/02/2024 14:47,07/03/2024 15:52
+HCIDOCS-237,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Test Pending,21/02/2024 08:40,07/04/2024 10:34
+HCIDOCS-236,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,20/02/2024 13:52,20/02/2024 14:23
+HCIDOCS-235,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,20/02/2024 05:32,21/02/2024 15:21
+HCIDOCS-234,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Won't Do,15/02/2024 17:40,18/03/2024 13:56
+HCIDOCS-233,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,15/02/2024 15:32,15/05/2024 08:26
+HCIDOCS-232,Spike,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Obsolete,14/02/2024 12:59,15/08/2024 09:42
+HCIDOCS-231,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,13/02/2024 14:56,17/07/2024 18:46
+HCIDOCS-230,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,13/02/2024 12:33,20/02/2024 13:50
+HCIDOCS-229,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Test Pending,12/02/2024 16:51,15/04/2024 12:39
+HCIDOCS-228,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,13/11/2023 12:40,28/02/2024 19:41
+HCIDOCS-227,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,08/02/2024 12:06,20/02/2024 13:03
+HCIDOCS-226,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Duplicate,07/02/2024 16:32,19/03/2024 11:47
+HCIDOCS-225,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Duplicate,07/02/2024 12:27,06/03/2024 16:18
+HCIDOCS-224,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,05/02/2024 10:59,06/05/2024 09:08
+HCIDOCS-223,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,05/02/2024 10:59,06/05/2024 09:09
+HCIDOCS-222,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,05/02/2024 10:59,06/05/2024 09:08
+HCIDOCS-221,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Test Pending,04/02/2024 13:54,20/02/2024 11:18
+HCIDOCS-220,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,04/02/2024 13:27,11/03/2024 08:48
+HCIDOCS-219,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,02/02/2024 16:23,08/02/2024 19:56
+HCIDOCS-218,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,02/02/2024 11:26,
+HCIDOCS-217,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,02/02/2024 11:15,03/04/2024 19:48
+HCIDOCS-207,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,01/02/2024 10:59,18/02/2024 12:20
+HCIDOCS-206,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Test Pending,01/02/2024 09:30,13/02/2024 10:24
+HCIDOCS-205,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Duplicate,30/01/2024 22:46,05/02/2024 14:20
+HCIDOCS-204,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,30/01/2024 13:33,18/09/2024 15:06
+HCIDOCS-203,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Not a Bug,26/01/2024 16:05,30/01/2024 12:17
+HCIDOCS-202,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,29/01/2024 10:10,08/02/2024 21:22
+HCIDOCS-201,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,25/01/2024 17:37,12/06/2024 03:52
+HCIDOCS-198,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,24/01/2024 09:15,11/03/2024 18:51
+HCIDOCS-196,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Duplicate,18/12/2023 17:20,23/01/2024 11:04
+HCIDOCS-195,Bug,To Do,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,07/10/2022 23:22,
+HCIDOCS-194,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,18/01/2024 08:55,03/04/2024 18:12
+HCIDOCS-193,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,12/01/2024 10:17,17/05/2024 14:27
+HCIDOCS-192,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Duplicate,17/01/2024 13:43,28/01/2024 12:25
+HCIDOCS-191,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,17/01/2024 10:48,28/02/2024 10:01
+HCIDOCS-190,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Obsolete,17/01/2024 10:47,17/01/2024 11:04
+HCIDOCS-189,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,06/11/2023 07:46,14/05/2024 00:05
+HCIDOCS-188,Bug,Review,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,12/09/2023 13:49,
+HCIDOCS-187,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,16/01/2024 16:25,12/06/2024 18:37
+HCIDOCS-186,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,15/01/2024 14:33,
+HCIDOCS-185,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,11/01/2024 12:10,
+HCIDOCS-184,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,11/01/2024 12:04,04/06/2024 15:20
+HCIDOCS-183,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Obsolete,10/01/2024 12:06,20/02/2024 14:27
+HCIDOCS-182,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Obsolete,09/01/2024 14:32,10/06/2024 10:04
+HCIDOCS-181,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Obsolete,09/01/2024 12:14,04/04/2024 11:21
+HCIDOCS-180,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,09/01/2024 10:55,07/02/2024 16:37
+HCIDOCS-179,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Obsolete,08/01/2024 15:13,19/02/2024 16:33
+HCIDOCS-178,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,08/01/2024 12:05,09/05/2024 12:52
+HCIDOCS-177,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Obsolete,08/01/2024 10:59,29/08/2024 13:19
+HCIDOCS-176,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,30/11/2023 16:37,03/05/2024 17:57
+HCIDOCS-174,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,04/01/2024 11:02,14/01/2024 12:00
+HCIDOCS-173,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Won't Do,04/01/2024 09:01,06/02/2024 10:23
+HCIDOCS-172,Story,Backlog,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,03/01/2024 15:01,
+HCIDOCS-171,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,03/01/2024 14:59,
+HCIDOCS-169,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Not a Bug,26/07/2023 12:18,11/03/2024 13:40
+HCIDOCS-168,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,01/01/2024 14:11,01/08/2024 18:56
+HCIDOCS-167,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,01/01/2024 13:54,
+HCIDOCS-166,Story,Backlog,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,01/01/2024 13:22,
+HCIDOCS-165,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,31/12/2023 14:51,25/04/2024 14:40
+HCIDOCS-164,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,28/12/2023 15:11,04/03/2024 20:42
+HCIDOCS-163,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,28/12/2023 15:10,26/02/2024 13:19
+HCIDOCS-162,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,28/12/2023 13:20,04/03/2024 12:40
+HCIDOCS-161,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Won't Do,28/12/2023 12:54,11/03/2024 13:48
+HCIDOCS-160,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Obsolete,28/12/2023 12:20,31/03/2024 11:53
+HCIDOCS-159,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,28/12/2023 11:35,14/02/2024 12:50
+HCIDOCS-150,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,28/12/2023 10:33,11/01/2024 09:35
+HCIDOCS-149,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,28/12/2023 09:56,18/01/2024 21:04
+HCIDOCS-148,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,21/12/2023 10:34,05/01/2024 20:57
+HCIDOCS-147,Task,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,17/12/2023 14:29,
+HCIDOCS-146,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,14/12/2023 11:59,20/02/2024 13:42
+HCIDOCS-145,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,14/12/2023 11:51,11/03/2024 16:32
+HCIDOCS-144,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Test Pending,14/12/2023 11:23,13/06/2024 15:22
+HCIDOCS-142,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,14/12/2023 10:42,22/02/2024 14:45
+HCIDOCS-141,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,13/12/2023 14:58,01/01/2024 13:04
+HCIDOCS-140,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,27/10/2023 09:50,03/06/2024 09:13
+HCIDOCS-139,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,12/09/2023 14:11,04/10/2024 16:43
+HCIDOCS-138,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,04/10/2023 17:50,10/05/2024 18:56
+HCIDOCS-137,Bug,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,14/08/2023 09:50,
+HCIDOCS-134,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,18/11/2023 02:57,17/12/2023 15:43
+HCIDOCS-133,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,24/10/2023 13:13,10/01/2024 16:11
+HCIDOCS-132,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,19/10/2023 13:40,11/06/2024 14:49
+HCIDOCS-129,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,26/09/2023 06:03,29/05/2024 14:05
+HCIDOCS-127,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Duplicate,02/11/2023 12:48,09/05/2024 15:04
+HCIDOCS-126,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Duplicate,09/11/2023 04:58,18/07/2024 16:17
+HCIDOCS-125,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,27/10/2023 08:43,09/02/2024 20:02
+HCIDOCS-124,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Obsolete,10/12/2023 11:45,11/03/2024 13:55
+HCIDOCS-123,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,27/11/2023 21:25,16/01/2024 20:42
+HCIDOCS-122,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,11/08/2023 13:49,03/05/2024 18:04
+HCIDOCS-121,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Obsolete,26/07/2022 11:58,07/12/2023 11:04
+HCIDOCS-119,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,07/12/2023 10:47,09/04/2024 16:07
+HCIDOCS-118,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,06/12/2023 12:53,
+HCIDOCS-117,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,06/12/2023 12:19,14/01/2024 12:31
+HCIDOCS-116,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,06/12/2023 11:51,25/01/2024 23:03
+HCIDOCS-107,Task,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,19/01/2022 10:21,
+HCIDOCS-106,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,18/08/2021 14:03,13/12/2023 12:47
+HCIDOCS-105,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,28/11/2023 10:58,21/02/2024 14:45
+HCIDOCS-104,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,25/07/2023 08:57,15/05/2024 08:21
+HCIDOCS-103,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,27/11/2023 15:05,08/05/2024 15:18
+HCIDOCS-102,Story,Backlog,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,09/02/2022 12:02,
+HCIDOCS-101,Story,Backlog,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,27/07/2023 07:05,
+HCIDOCS-100,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Duplicate,19/07/2023 12:37,18/04/2024 14:30
+HCIDOCS-99,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Duplicate,27/11/2023 14:08,28/12/2023 15:25
+HCIDOCS-96,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,16/11/2023 13:55,13/03/2024 10:17
+HCIDOCS-95,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,19/11/2023 15:56,11/03/2024 15:05
+HCIDOCS-94,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,22/11/2023 15:33,12/03/2024 14:27
+HCIDOCS-93,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Obsolete,08/06/2023 15:47,13/03/2024 13:00
+HCIDOCS-92,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,16/11/2023 12:40,31/01/2024 11:44
+HCIDOCS-91,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,21/11/2023 15:13,27/03/2024 12:45
+HCIDOCS-90,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,02/10/2023 08:34,29/01/2024 15:25
+HCIDOCS-79,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Duplicate,13/06/2022 11:30,05/09/2024 20:21
+HCIDOCS-78,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,15/09/2023 12:20,24/10/2023 20:56
+HCIDOCS-77,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,14/07/2023 12:52,03/04/2024 21:36
+HCIDOCS-76,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Duplicate,22/04/2022 04:45,02/01/2024 09:07
+HCIDOCS-75,Story,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,14/07/2023 12:45,
+HCIDOCS-74,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Duplicate,05/04/2023 15:50,06/02/2024 09:53
+HCIDOCS-73,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Obsolete,14/08/2023 14:46,26/03/2024 15:58
+HCIDOCS-72,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,22/11/2023 08:46,25/06/2024 21:06
+HCIDOCS-68,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,29/08/2023 14:41,25/09/2023 16:51
+HCIDOCS-62,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Obsolete,13/06/2022 11:31,05/03/2024 05:03
+HCIDOCS-57,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Duplicate,27/11/2023 14:08,28/12/2023 15:17
+HCIDOCS-56,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,08/09/2023 12:06,21/12/2023 14:39
+HCIDOCS-55,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Duplicate,08/11/2023 16:46,11/12/2023 13:14
+HCIDOCS-54,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Test Pending,08/09/2022 10:34,17/06/2024 13:18
+HCIDOCS-53,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,22/09/2022 13:46,03/12/2023 10:29
+HCIDOCS-52,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Test Pending,05/07/2023 07:44,04/03/2024 15:28
+HCIDOCS-51,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,03/07/2023 11:08,14/12/2023 07:35
+HCIDOCS-50,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Test Pending,07/11/2023 09:11,04/03/2024 15:28
+HCIDOCS-49,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Won't Do,04/04/2023 05:39,02/01/2024 09:05
+HCIDOCS-48,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,05/11/2023 09:19,07/02/2024 18:52
+HCIDOCS-47,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Obsolete,23/09/2022 08:52,18/01/2024 09:34
+HCIDOCS-46,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Test Pending,21/06/2023 21:27,30/01/2024 10:06
+HCIDOCS-45,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,14/09/2023 09:54,26/03/2024 09:38
+HCIDOCS-44,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,19/11/2023 14:05,07/02/2024 16:38
+HCIDOCS-43,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,20/09/2023 09:54,03/10/2023 10:23
+HCIDOCS-42,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Obsolete,19/11/2023 15:48,19/02/2024 15:52
+HCIDOCS-41,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,17/08/2023 10:02,28/09/2023 15:37
+HCIDOCS-40,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,08/11/2023 16:13,20/12/2023 14:37
+HCIDOCS-39,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,17/08/2023 20:54,30/01/2024 10:06
+HCIDOCS-38,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,12/07/2023 09:56,22/07/2024 13:14
+HCIDOCS-37,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Obsolete,31/10/2023 08:22,19/02/2024 15:50
+HCIDOCS-36,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,10/08/2023 10:28,17/06/2024 14:17
+HCIDOCS-25,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Obsolete,05/11/2023 12:39,17/12/2023 14:33
+HCIDOCS-24,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Obsolete,13/06/2022 11:31,05/03/2024 04:45
+HCIDOCS-23,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Duplicate,22/09/2022 10:08,02/01/2024 09:03
+HCIDOCS-22,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,22/05/2023 19:06,24/04/2024 07:32
+HCIDOCS-21,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Won't Do,07/11/2023 11:10,30/09/2024 14:46
+HCIDOCS-20,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Obsolete,14/06/2023 09:42,14/12/2023 14:04
+HCIDOCS-19,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,22/09/2022 09:59,17/12/2023 15:09
+HCIDOCS-18,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,06/11/2023 14:45,28/02/2024 20:05
+HCIDOCS-17,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Duplicate,04/07/2023 10:49,09/01/2024 14:52
+HCIDOCS-16,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Obsolete,15/06/2023 17:17,14/12/2023 14:04
+HCIDOCS-11,Task,New,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,,24/10/2023 13:44,
+HCIDOCS-9,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,01/11/2023 13:01,20/02/2024 13:17
+HCIDOCS-8,Bug,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,22/11/2023 09:35,11/01/2024 20:17
+HCIDOCS-7,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Not a Bug,27/11/2023 13:05,27/11/2023 13:06
+HCIDOCS-6,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,26/11/2023 17:34,17/12/2023 14:35
+HCIDOCS-5,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Won't Do,26/11/2023 16:21,26/11/2023 17:21
+HCIDOCS-4,Story,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,26/11/2023 16:07,17/12/2023 14:35
+HCIDOCS-3,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,24/11/2023 05:35,17/12/2023 14:32
+HCIDOCS-2,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,24/11/2023 05:35,17/12/2023 14:32
+HCIDOCS-1,Task,Closed,HCIDOCS,Hybrid Cloud Infrastructure Documentation,software,Done,24/11/2023 05:35,17/12/2023 14:31

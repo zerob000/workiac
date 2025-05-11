@@ -1,0 +1,133 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+JBLOGGING-191,Component Upgrade,Resolved,JBLOGGING,JBoss Logging,software,Done,09/09/2024 15:25,09/09/2024 15:27
+JBLOGGING-190,Bug,Resolved,JBLOGGING,JBoss Logging,software,Done,06/09/2024 21:05,09/09/2024 14:59
+JBLOGGING-188,Feature Request,Closed,JBLOGGING,JBoss Logging,software,Duplicate,17/07/2024 15:58,09/09/2024 15:09
+JBLOGGING-185,Component Upgrade,Resolved,JBLOGGING,JBoss Logging,software,Done,19/03/2024 14:30,19/03/2024 14:39
+JBLOGGING-184,Bug,Resolved,JBLOGGING,JBoss Logging,software,Done,05/03/2024 16:39,19/03/2024 14:28
+JBLOGGING-181,Feature Request,Closed,JBLOGGING,JBoss Logging,software,Obsolete,10/07/2023 11:29,19/03/2024 14:20
+JBLOGGING-180,Component Upgrade,Closed,JBLOGGING,JBoss Logging,software,Done,06/07/2023 00:27,06/07/2023 00:28
+JBLOGGING-179,Bug,Resolved,JBLOGGING,JBoss Logging,software,Done,06/07/2023 00:26,06/07/2023 00:29
+JBLOGGING-173,Task,Resolved,JBLOGGING,JBoss Logging,software,Done,04/11/2022 15:23,05/06/2023 17:54
+JBLOGGING-172,Task,Resolved,JBLOGGING,JBoss Logging,software,Done,04/11/2022 15:18,05/06/2023 17:54
+JBLOGGING-171,Task,Resolved,JBLOGGING,JBoss Logging,software,Done,04/11/2022 15:17,05/06/2023 17:53
+JBLOGGING-170,Task,Resolved,JBLOGGING,JBoss Logging,software,Done,04/11/2022 15:16,05/06/2023 17:53
+JBLOGGING-169,Task,Resolved,JBLOGGING,JBoss Logging,software,Done,04/11/2022 15:14,05/06/2023 17:53
+JBLOGGING-168,Task,Closed,JBLOGGING,JBoss Logging,software,Obsolete,04/11/2022 15:03,04/11/2022 15:31
+JBLOGGING-167,Component Upgrade,Closed,JBLOGGING,JBoss Logging,software,Won't Do,22/09/2022 18:17,19/03/2024 14:14
+JBLOGGING-166,Component Upgrade,Resolved,JBLOGGING,JBoss Logging,software,Done,22/09/2022 15:18,05/06/2023 17:53
+JBLOGGING-165,Component Upgrade,Resolved,JBLOGGING,JBoss Logging,software,Done,22/09/2022 15:11,05/06/2023 17:52
+JBLOGGING-164,Component Upgrade,Resolved,JBLOGGING,JBoss Logging,software,Done,21/09/2022 18:59,05/06/2023 17:36
+JBLOGGING-163,Bug,Closed,JBLOGGING,JBoss Logging,software,Not a Bug,13/05/2022 12:32,29/11/2022 15:23
+JBLOGGING-162,Enhancement,Resolved,JBLOGGING,JBoss Logging,software,Done,27/04/2022 18:38,28/04/2022 15:29
+JBLOGGING-161,Bug,Closed,JBLOGGING,JBoss Logging,software,Not a Bug,25/01/2022 08:41,09/09/2024 15:17
+JBLOGGING-160,Bug,Resolved,JBLOGGING,JBoss Logging,software,Obsolete,25/01/2022 07:39,25/01/2022 15:47
+JBLOGGING-159,Task,Closed,JBLOGGING,JBoss Logging,software,Can't Do,13/01/2022 11:10,26/04/2022 18:11
+JBLOGGING-158,Bug,Resolved,JBLOGGING,JBoss Logging,software,Done,05/01/2022 12:18,11/01/2022 21:41
+JBLOGGING-157,Task,Resolved,JBLOGGING,JBoss Logging,software,Done,16/12/2021 19:49,16/12/2021 20:01
+JBLOGGING-156,Component Upgrade,Resolved,JBLOGGING,JBoss Logging,software,Done,16/12/2021 17:58,16/12/2021 18:18
+JBLOGGING-155,Component Upgrade,Resolved,JBLOGGING,JBoss Logging,software,Done,16/12/2021 17:55,16/12/2021 18:17
+JBLOGGING-154,Component Upgrade,Resolved,JBLOGGING,JBoss Logging,software,Done,16/12/2021 17:54,16/12/2021 18:17
+JBLOGGING-153,Component Upgrade,Resolved,JBLOGGING,JBoss Logging,software,Done,16/12/2021 17:52,16/12/2021 18:17
+JBLOGGING-152,Component Upgrade,Resolved,JBLOGGING,JBoss Logging,software,Done,16/12/2021 17:51,16/12/2021 18:17
+JBLOGGING-151,Component Upgrade,Resolved,JBLOGGING,JBoss Logging,software,Done,16/12/2021 17:47,16/12/2021 18:17
+JBLOGGING-150,Component Upgrade,Resolved,JBLOGGING,JBoss Logging,software,Done,16/12/2021 17:45,16/12/2021 18:17
+JBLOGGING-149,Task,Resolved,JBLOGGING,JBoss Logging,software,Done,25/05/2021 19:12,25/05/2021 19:19
+JBLOGGING-147,Bug,Resolved,JBLOGGING,JBoss Logging,software,Done,26/10/2020 17:15,26/10/2020 17:27
+JBLOGGING-146,Task,Resolved,JBLOGGING,JBoss Logging,software,Done,20/10/2020 11:01,21/10/2020 14:49
+JBLOGGING-145,Feature Request,Open,JBLOGGING,JBoss Logging,software,,14/10/2020 15:30,
+JBLOGGING-144,Feature Request,Resolved,JBLOGGING,JBoss Logging,software,Done,14/07/2020 13:39,23/07/2020 12:24
+JBLOGGING-141,Enhancement,Resolved,JBLOGGING,JBoss Logging,software,Done,24/07/2019 17:53,24/07/2019 19:06
+JBLOGGING-140,Enhancement,Resolved,JBLOGGING,JBoss Logging,software,Done,07/07/2019 12:19,08/07/2019 14:28
+JBLOGGING-139,Task,Resolved,JBLOGGING,JBoss Logging,software,Done,12/04/2019 17:53,12/04/2019 18:02
+JBLOGGING-138,Component Upgrade,Resolved,JBLOGGING,JBoss Logging,software,Done,12/04/2019 16:56,12/04/2019 17:40
+JBLOGGING-137,Component Upgrade,Resolved,JBLOGGING,JBoss Logging,software,Done,12/04/2019 16:54,12/04/2019 17:39
+JBLOGGING-136,Task,Resolved,JBLOGGING,JBoss Logging,software,Done,12/04/2019 16:41,12/04/2019 17:39
+JBLOGGING-135,Component Upgrade,Resolved,JBLOGGING,JBoss Logging,software,Done,12/04/2019 16:37,12/04/2019 17:39
+JBLOGGING-134,Enhancement,Closed,JBLOGGING,JBoss Logging,software,Obsolete,15/01/2019 09:34,26/04/2022 18:30
+JBLOGGING-133,Feature Request,Resolved,JBLOGGING,JBoss Logging,software,Done,08/10/2018 15:18,27/04/2022 15:55
+JBLOGGING-132,Bug,Closed,JBLOGGING,JBoss Logging,software,Obsolete,23/08/2018 10:16,26/04/2022 18:16
+JBLOGGING-131,Bug,Resolved,JBLOGGING,JBoss Logging,software,Done,19/02/2018 11:47,19/02/2018 13:12
+JBLOGGING-130,Enhancement,Resolved,JBLOGGING,JBoss Logging,software,Done,13/02/2018 09:52,14/02/2018 16:20
+JBLOGGING-129,Enhancement,Open,JBLOGGING,JBoss Logging,software,,19/12/2017 13:24,
+JBLOGGING-127,Bug,Closed,JBLOGGING,JBoss Logging,software,Obsolete,10/01/2017 09:50,24/01/2017 11:20
+JBLOGGING-126,Bug,Resolved,JBLOGGING,JBoss Logging,software,Done,22/11/2016 05:36,30/11/2016 10:42
+JBLOGGING-125,Enhancement,Open,JBLOGGING,JBoss Logging,software,,15/11/2016 14:16,
+JBLOGGING-124,Enhancement,Resolved,JBLOGGING,JBoss Logging,software,Done,04/10/2016 11:27,05/10/2016 14:31
+JBLOGGING-123,Feature Request,Closed,JBLOGGING,JBoss Logging,software,Obsolete,11/08/2016 08:15,05/10/2016 14:15
+JBLOGGING-121,Bug,Closed,JBLOGGING,JBoss Logging,software,Done,01/03/2016 17:36,15/03/2017 19:26
+JBLOGGING-118,Bug,Closed,JBLOGGING,JBoss Logging,software,Won't Do,05/10/2015 07:10,26/04/2022 18:17
+JBLOGGING-117,Bug,Resolved,JBLOGGING,JBoss Logging,software,Won't Do,11/06/2015 09:08,11/06/2015 09:15
+JBLOGGING-116,Bug,Resolved,JBLOGGING,JBoss Logging,software,Done,04/05/2015 18:04,05/05/2015 12:12
+JBLOGGING-115,Enhancement,Resolved,JBLOGGING,JBoss Logging,software,Done,04/05/2015 18:02,05/05/2015 12:12
+JBLOGGING-114,Bug,Closed,JBLOGGING,JBoss Logging,software,Duplicate,30/04/2015 07:25,04/05/2015 20:29
+JBLOGGING-113,Bug,Resolved,JBLOGGING,JBoss Logging,software,Done,13/02/2015 06:53,04/05/2015 20:30
+JBLOGGING-112,Bug,Resolved,JBLOGGING,JBoss Logging,software,Done,19/01/2015 18:46,20/01/2015 11:25
+JBLOGGING-111,Bug,Resolved,JBLOGGING,JBoss Logging,software,Done,10/10/2014 12:01,02/04/2015 11:07
+JBLOGGING-110,Feature Request,Resolved,JBLOGGING,JBoss Logging,software,Done,29/08/2014 12:02,04/11/2014 14:20
+JBLOGGING-109,Bug,Closed,JBLOGGING,JBoss Logging,software,Obsolete,20/08/2014 20:47,04/01/2017 20:42
+JBLOGGING-108,Feature Request,Closed,JBLOGGING,JBoss Logging,software,Duplicate,17/07/2014 04:21,17/07/2014 12:30
+JBLOGGING-107,Feature Request,Resolved,JBLOGGING,JBoss Logging,software,Done,17/07/2014 04:17,17/07/2014 14:07
+JBLOGGING-106,Bug,Resolved,JBLOGGING,JBoss Logging,software,Done,10/07/2014 14:18,07/11/2014 07:46
+JBLOGGING-104,Feature Request,Closed,JBLOGGING,JBoss Logging,software,Won't Do,29/05/2014 01:12,17/07/2014 16:21
+JBLOGGING-102,Bug,Closed,JBLOGGING,JBoss Logging,software,Done,26/03/2014 08:50,26/03/2014 13:36
+JBLOGGING-101,Bug,Closed,JBLOGGING,JBoss Logging,software,Obsolete,25/03/2014 17:10,25/03/2014 19:54
+JBLOGGING-100,Patch,Resolved,JBLOGGING,JBoss Logging,software,Done,04/01/2014 10:44,31/07/2014 16:54
+JBLOGGING-99,Feature Request,Resolved,JBLOGGING,JBoss Logging,software,Done,17/12/2013 08:10,08/11/2014 11:04
+JBLOGGING-97,Enhancement,Resolved,JBLOGGING,JBoss Logging,software,Done,10/10/2013 10:51,26/04/2022 18:27
+JBLOGGING-95,Enhancement,Resolved,JBLOGGING,JBoss Logging,software,Done,31/05/2013 20:45,18/12/2013 13:25
+JBLOGGING-94,Bug,Resolved,JBLOGGING,JBoss Logging,software,Done,30/04/2013 10:10,07/06/2013 11:43
+JBLOGGING-92,Feature Request,Closed,JBLOGGING,JBoss Logging,software,Obsolete,18/03/2013 10:34,05/10/2016 14:21
+JBLOGGING-91,Bug,Resolved,JBLOGGING,JBoss Logging,software,Done,04/03/2013 14:31,04/03/2013 15:05
+JBLOGGING-90,Component Upgrade,Resolved,JBLOGGING,JBoss Logging,software,Done,08/02/2013 11:19,17/07/2014 16:18
+JBLOGGING-88,Feature Request,Resolved,JBLOGGING,JBoss Logging,software,Done,25/11/2012 08:19,19/12/2013 16:35
+JBLOGGING-85,Bug,Resolved,JBLOGGING,JBoss Logging,software,Done,09/08/2012 05:06,29/01/2013 16:54
+JBLOGGING-84,Feature Request,Resolved,JBLOGGING,JBoss Logging,software,Done,18/07/2012 10:44,02/03/2017 10:33
+JBLOGGING-82,Task,Resolved,JBLOGGING,JBoss Logging,software,Done,21/05/2012 03:13,12/06/2012 10:01
+JBLOGGING-81,Feature Request,Resolved,JBLOGGING,JBoss Logging,software,Done,27/04/2012 23:49,18/12/2013 16:01
+JBLOGGING-79,Enhancement,Resolved,JBLOGGING,JBoss Logging,software,Done,21/03/2012 17:42,25/05/2012 15:48
+JBLOGGING-78,Task,Closed,JBLOGGING,JBoss Logging,software,Can't Do,27/01/2012 04:11,12/06/2012 10:01
+JBLOGGING-75,Bug,Resolved,JBLOGGING,JBoss Logging,software,Done,24/11/2011 05:49,25/11/2011 23:46
+JBLOGGING-74,Bug,Resolved,JBLOGGING,JBoss Logging,software,Done,03/11/2011 20:30,09/11/2011 12:15
+JBLOGGING-73,Bug,Resolved,JBLOGGING,JBoss Logging,software,Done,23/10/2011 14:04,24/10/2011 10:02
+JBLOGGING-70,Bug,Resolved,JBLOGGING,JBoss Logging,software,Done,01/08/2011 11:36,01/08/2011 11:38
+JBLOGGING-69,Bug,Closed,JBLOGGING,JBoss Logging,software,Won't Do,20/07/2011 15:00,20/07/2011 17:34
+JBLOGGING-68,Task,Closed,JBLOGGING,JBoss Logging,software,Done,07/07/2011 08:42,05/08/2011 19:07
+JBLOGGING-66,Bug,Closed,JBLOGGING,JBoss Logging,software,Won't Do,25/06/2011 09:05,01/08/2011 10:24
+JBLOGGING-65,Bug,Resolved,JBLOGGING,JBoss Logging,software,Done,20/06/2011 03:30,20/06/2011 20:27
+JBLOGGING-63,Bug,Closed,JBLOGGING,JBoss Logging,software,Won't Do,18/05/2011 09:01,18/05/2011 09:07
+JBLOGGING-62,Enhancement,Closed,JBLOGGING,JBoss Logging,software,Won't Do,18/04/2011 07:08,18/04/2011 08:42
+JBLOGGING-60,Enhancement,Closed,JBLOGGING,JBoss Logging,software,Won't Do,28/03/2011 14:17,06/09/2011 14:24
+JBLOGGING-59,Feature Request,Closed,JBLOGGING,JBoss Logging,software,Done,21/03/2011 15:05,05/08/2011 19:04
+JBLOGGING-58,Feature Request,Closed,JBLOGGING,JBoss Logging,software,Done,21/03/2011 14:15,08/09/2011 11:04
+JBLOGGING-57,Bug,Resolved,JBLOGGING,JBoss Logging,software,Won't Do,21/03/2011 14:12,21/03/2011 14:18
+JBLOGGING-55,Bug,Closed,JBLOGGING,JBoss Logging,software,Obsolete,08/02/2011 11:47,25/05/2012 13:43
+JBLOGGING-54,Bug,Resolved,JBLOGGING,JBoss Logging,software,Done,04/02/2011 06:05,05/07/2011 19:44
+JBLOGGING-53,Bug,Resolved,JBLOGGING,JBoss Logging,software,Done,05/01/2011 08:11,05/01/2011 10:59
+JBLOGGING-52,Bug,Closed,JBLOGGING,JBoss Logging,software,Won't Do,21/12/2010 13:55,17/10/2011 12:43
+JBLOGGING-51,Feature Request,Closed,JBLOGGING,JBoss Logging,software,Won't Do,10/12/2010 00:35,01/08/2011 10:00
+JBLOGGING-50,Feature Request,Closed,JBLOGGING,JBoss Logging,software,Won't Do,08/11/2010 15:52,01/08/2011 10:27
+JBLOGGING-49,Feature Request,Resolved,JBLOGGING,JBoss Logging,software,Won't Do,08/11/2010 15:46,01/08/2011 10:25
+JBLOGGING-48,Feature Request,Resolved,JBLOGGING,JBoss Logging,software,Done,11/10/2010 18:15,05/08/2011 17:04
+JBLOGGING-47,Feature Request,Resolved,JBLOGGING,JBoss Logging,software,Done,27/09/2010 12:18,01/08/2011 09:57
+JBLOGGING-46,Bug,Resolved,JBLOGGING,JBoss Logging,software,Done,21/09/2010 10:21,21/09/2010 11:18
+JBLOGGING-43,Feature Request,Resolved,JBLOGGING,JBoss Logging,software,Done,05/04/2010 16:38,09/11/2011 12:16
+JBLOGGING-41,Bug,Closed,JBLOGGING,JBoss Logging,software,Done,23/03/2010 15:45,23/03/2010 16:10
+JBLOGGING-40,Bug,Closed,JBLOGGING,JBoss Logging,software,Won't Do,17/03/2010 12:07,17/03/2010 12:14
+JBLOGGING-39,Bug,Closed,JBLOGGING,JBoss Logging,software,Won't Do,10/03/2010 13:34,05/04/2010 22:21
+JBLOGGING-34,Bug,Closed,JBLOGGING,JBoss Logging,software,Done,10/02/2010 03:35,11/02/2010 03:34
+JBLOGGING-33,Bug,Closed,JBLOGGING,JBoss Logging,software,Done,22/01/2010 13:46,22/01/2010 13:51
+JBLOGGING-30,Bug,Resolved,JBLOGGING,JBoss Logging,software,Done,16/10/2009 01:29,05/11/2009 03:45
+JBLOGGING-28,Bug,Closed,JBLOGGING,JBoss Logging,software,Done,24/09/2009 11:08,11/12/2009 19:19
+JBLOGGING-24,Feature Request,Closed,JBLOGGING,JBoss Logging,software,Done,28/07/2009 21:37,29/07/2009 22:35
+JBLOGGING-23,Feature Request,Closed,JBLOGGING,JBoss Logging,software,Done,28/07/2009 21:35,29/07/2009 22:35
+JBLOGGING-21,Feature Request,Closed,JBLOGGING,JBoss Logging,software,Done,23/07/2009 10:33,11/12/2009 19:27
+JBLOGGING-17,Task,Closed,JBLOGGING,JBoss Logging,software,Done,11/05/2009 12:20,11/05/2009 12:27
+JBLOGGING-16,Feature Request,Closed,JBLOGGING,JBoss Logging,software,Done,02/04/2009 11:28,11/05/2009 19:07
+JBLOGGING-9,Feature Request,Closed,JBLOGGING,JBoss Logging,software,Done,06/03/2009 10:51,06/03/2009 11:10
+JBLOGGING-7,Bug,Closed,JBLOGGING,JBoss Logging,software,Can't Do,14/10/2008 09:19,14/10/2008 09:26
+JBLOGGING-6,Feature Request,Resolved,JBLOGGING,JBoss Logging,software,Obsolete,19/08/2008 18:01,25/05/2012 13:45
+JBLOGGING-5,Release,Closed,JBLOGGING,JBoss Logging,software,Done,13/05/2008 09:00,13/05/2008 09:02
+JBLOGGING-4,Bug,Closed,JBLOGGING,JBoss Logging,software,Done,12/05/2008 18:41,12/05/2008 18:48
+JBLOGGING-3,Task,Closed,JBLOGGING,JBoss Logging,software,Done,08/04/2008 10:06,08/04/2008 10:13
+JBLOGGING-2,Task,Closed,JBLOGGING,JBoss Logging,software,Done,08/04/2008 09:46,08/04/2008 09:50
+JBLOGGING-1,Task,Closed,JBLOGGING,JBoss Logging,software,Done,08/04/2008 06:23,08/04/2008 06:35

@@ -1,0 +1,327 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+LOGMGR-353,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,16/09/2024 07:03,14/10/2024 15:26
+LOGMGR-352,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,23/04/2024 20:15,24/04/2024 17:43
+LOGMGR-351,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,23/04/2024 00:35,23/04/2024 20:06
+LOGMGR-350,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,15/04/2024 15:34,23/04/2024 20:03
+LOGMGR-349,Component Upgrade,Resolved,LOGMGR,JBoss Log Manager,software,Done,05/04/2024 15:05,05/04/2024 15:06
+LOGMGR-348,Bug,Open,LOGMGR,JBoss Log Manager,software,,03/04/2024 13:53,
+LOGMGR-347,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,03/04/2024 13:48,03/04/2024 18:44
+LOGMGR-346,Component Upgrade,Resolved,LOGMGR,JBoss Log Manager,software,Done,22/02/2024 15:32,22/02/2024 15:33
+LOGMGR-345,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,12/01/2024 21:10,17/01/2024 18:52
+LOGMGR-344,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,20/12/2023 16:24,20/12/2023 17:10
+LOGMGR-343,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,10/11/2023 01:14,10/11/2023 21:05
+LOGMGR-342,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,08/11/2023 16:46,09/11/2023 20:40
+LOGMGR-341,Enhancement,Open,LOGMGR,JBoss Log Manager,software,,21/10/2023 03:43,
+LOGMGR-340,Enhancement,Open,LOGMGR,JBoss Log Manager,software,,01/10/2023 03:39,
+LOGMGR-339,Bug,Closed,LOGMGR,JBoss Log Manager,software,Duplicate,30/09/2023 04:57,20/11/2023 22:47
+LOGMGR-338,Enhancement,Reopened,LOGMGR,JBoss Log Manager,software,,28/08/2023 18:33,
+LOGMGR-337,Feature Request,Open,LOGMGR,JBoss Log Manager,software,,25/08/2023 06:45,
+LOGMGR-336,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,08/08/2023 15:36,09/08/2023 23:25
+LOGMGR-335,Component Upgrade,Resolved,LOGMGR,JBoss Log Manager,software,Done,04/08/2023 15:29,04/08/2023 15:30
+LOGMGR-334,Component Upgrade,Resolved,LOGMGR,JBoss Log Manager,software,Done,04/08/2023 15:16,04/08/2023 15:17
+LOGMGR-333,Component Upgrade,Resolved,LOGMGR,JBoss Log Manager,software,Done,02/08/2023 00:08,02/08/2023 20:54
+LOGMGR-332,Bug,Closed,LOGMGR,JBoss Log Manager,software,Done,26/07/2023 23:09,26/07/2023 23:10
+LOGMGR-330,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Won't Do,26/07/2023 07:48,28/07/2023 10:07
+LOGMGR-329,Task,Closed,LOGMGR,JBoss Log Manager,software,Won't Do,06/07/2023 18:59,11/07/2023 14:49
+LOGMGR-328,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,08/06/2023 23:14,08/06/2023 23:31
+LOGMGR-327,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,08/06/2023 21:03,08/06/2023 21:48
+LOGMGR-326,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,02/06/2023 15:14,08/06/2023 20:26
+LOGMGR-325,Enhancement,Open,LOGMGR,JBoss Log Manager,software,,17/05/2023 16:13,
+LOGMGR-324,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,11/05/2023 14:55,11/05/2023 19:00
+LOGMGR-323,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,09/05/2023 16:00,09/05/2023 18:20
+LOGMGR-322,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,09/05/2023 15:47,11/05/2023 19:04
+LOGMGR-321,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,09/05/2023 15:45,11/05/2023 19:03
+LOGMGR-320,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,09/05/2023 15:44,11/05/2023 19:02
+LOGMGR-319,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,09/05/2023 15:41,11/05/2023 19:04
+LOGMGR-318,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,09/05/2023 15:39,09/05/2023 18:25
+LOGMGR-317,Bug,Open,LOGMGR,JBoss Log Manager,software,,09/05/2023 13:22,
+LOGMGR-316,Enhancement,Pull Request Sent,LOGMGR,JBoss Log Manager,software,,08/05/2023 18:38,
+LOGMGR-315,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,17/01/2023 20:38,17/01/2023 21:33
+LOGMGR-314,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,05/01/2023 15:09,20/01/2023 21:53
+LOGMGR-313,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,04/11/2022 15:36,11/05/2023 19:00
+LOGMGR-312,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,04/11/2022 15:35,11/05/2023 18:59
+LOGMGR-311,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,04/11/2022 15:33,11/05/2023 19:00
+LOGMGR-310,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,04/11/2022 15:32,11/05/2023 19:00
+LOGMGR-309,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,04/11/2022 15:27,11/05/2023 19:00
+LOGMGR-308,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,13/05/2022 08:32,02/06/2022 16:58
+LOGMGR-307,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,28/04/2022 00:23,08/05/2023 21:26
+LOGMGR-306,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,22/04/2022 15:18,22/04/2022 15:42
+LOGMGR-305,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,21/04/2022 20:02,22/04/2022 15:43
+LOGMGR-304,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,21/04/2022 19:52,21/04/2022 19:53
+LOGMGR-303,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,21/04/2022 15:02,08/05/2023 15:48
+LOGMGR-302,Feature Request,Closed,LOGMGR,JBoss Log Manager,software,Duplicate,12/04/2022 20:24,08/05/2023 21:33
+LOGMGR-301,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,06/04/2022 22:20,06/04/2022 22:20
+LOGMGR-300,Feature Request,Open,LOGMGR,JBoss Log Manager,software,,30/03/2022 20:10,
+LOGMGR-299,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,29/03/2022 18:50,31/03/2022 02:12
+LOGMGR-298,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,24/03/2022 22:34,25/03/2022 14:08
+LOGMGR-297,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,24/03/2022 22:10,24/03/2022 22:11
+LOGMGR-296,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,24/03/2022 20:40,24/03/2022 20:41
+LOGMGR-295,Bug,Closed,LOGMGR,JBoss Log Manager,software,Can't Do,11/02/2022 17:00,08/05/2023 21:28
+LOGMGR-294,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,09/02/2022 18:59,09/02/2022 19:49
+LOGMGR-293,Bug,Closed,LOGMGR,JBoss Log Manager,software,Not a Bug,09/11/2021 07:36,08/05/2023 21:29
+LOGMGR-292,Component Upgrade,Resolved,LOGMGR,JBoss Log Manager,software,Done,01/11/2021 15:10,01/11/2021 19:09
+LOGMGR-291,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,01/11/2021 15:08,01/11/2021 19:09
+LOGMGR-290,Component Upgrade,Resolved,LOGMGR,JBoss Log Manager,software,Done,01/11/2021 15:03,01/11/2021 19:10
+LOGMGR-289,Component Upgrade,Resolved,LOGMGR,JBoss Log Manager,software,Done,01/11/2021 15:01,01/11/2021 19:10
+LOGMGR-288,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,01/11/2021 14:43,01/11/2021 19:10
+LOGMGR-287,Bug,Open,LOGMGR,JBoss Log Manager,software,,15/04/2021 17:33,
+LOGMGR-286,Task,Closed,LOGMGR,JBoss Log Manager,software,Won't Do,10/04/2021 01:11,12/04/2021 19:03
+LOGMGR-285,Feature Request,Open,LOGMGR,JBoss Log Manager,software,,31/03/2021 21:51,
+LOGMGR-284,Feature Request,Open,LOGMGR,JBoss Log Manager,software,,31/03/2021 21:45,
+LOGMGR-283,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,20/01/2021 11:35,28/01/2021 14:21
+LOGMGR-282,Task,Open,LOGMGR,JBoss Log Manager,software,,03/12/2020 17:37,
+LOGMGR-281,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,12/11/2020 12:19,20/11/2020 18:40
+LOGMGR-280,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,12/10/2020 03:23,01/11/2021 19:43
+LOGMGR-279,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,23/06/2020 09:48,23/06/2020 17:43
+LOGMGR-278,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Won't Do,15/06/2020 14:47,23/06/2020 18:38
+LOGMGR-277,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,05/06/2020 12:36,08/06/2020 11:32
+LOGMGR-276,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,05/06/2020 12:32,08/06/2020 12:03
+LOGMGR-273,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,25/05/2020 05:29,26/05/2020 12:24
+LOGMGR-272,Component Upgrade,Resolved,LOGMGR,JBoss Log Manager,software,Done,24/04/2020 16:15,24/04/2020 18:01
+LOGMGR-271,Bug,Closed,LOGMGR,JBoss Log Manager,software,Duplicate,24/04/2020 08:18,24/04/2020 08:20
+LOGMGR-270,Component Upgrade,Resolved,LOGMGR,JBoss Log Manager,software,Done,16/04/2020 16:44,16/04/2020 17:19
+LOGMGR-269,Component Upgrade,Resolved,LOGMGR,JBoss Log Manager,software,Done,16/04/2020 14:45,16/04/2020 17:18
+LOGMGR-268,Component Upgrade,Resolved,LOGMGR,JBoss Log Manager,software,Done,16/04/2020 14:43,16/04/2020 17:18
+LOGMGR-267,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,24/03/2020 13:04,24/03/2020 14:34
+LOGMGR-266,Bug,Closed,LOGMGR,JBoss Log Manager,software,Obsolete,16/03/2020 06:18,20/11/2020 18:41
+LOGMGR-265,Bug,Closed,LOGMGR,JBoss Log Manager,software,Not a Bug,05/02/2020 04:11,09/03/2020 05:19
+LOGMGR-264,Feature Request,Open,LOGMGR,JBoss Log Manager,software,,04/12/2019 13:24,
+LOGMGR-263,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,04/12/2019 06:47,15/04/2020 19:24
+LOGMGR-262,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,03/12/2019 14:35,06/12/2019 13:23
+LOGMGR-261,Bug,Closed,LOGMGR,JBoss Log Manager,software,Won't Do,18/09/2019 20:09,13/11/2019 14:41
+LOGMGR-260,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,05/09/2019 08:27,26/09/2019 16:59
+LOGMGR-259,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,01/08/2019 18:47,01/08/2019 19:03
+LOGMGR-258,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,24/07/2019 17:14,24/07/2019 17:41
+LOGMGR-257,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,03/07/2019 14:56,03/07/2019 17:42
+LOGMGR-256,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,03/07/2019 08:45,03/07/2019 18:14
+LOGMGR-255,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,18/06/2019 17:12,19/06/2019 17:30
+LOGMGR-254,Bug,Open,LOGMGR,JBoss Log Manager,software,,15/05/2019 10:50,
+LOGMGR-253,Feature Request,Open,LOGMGR,JBoss Log Manager,software,,25/04/2019 19:47,
+LOGMGR-252,Component Upgrade,Resolved,LOGMGR,JBoss Log Manager,software,Done,15/04/2019 19:23,15/04/2019 19:35
+LOGMGR-251,Component Upgrade,Resolved,LOGMGR,JBoss Log Manager,software,Done,15/04/2019 16:44,25/04/2019 19:44
+LOGMGR-250,Component Upgrade,Resolved,LOGMGR,JBoss Log Manager,software,Done,12/04/2019 14:35,12/04/2019 14:53
+LOGMGR-249,Component Upgrade,Resolved,LOGMGR,JBoss Log Manager,software,Done,12/04/2019 14:28,12/04/2019 14:53
+LOGMGR-248,Component Upgrade,Resolved,LOGMGR,JBoss Log Manager,software,Done,12/04/2019 14:26,12/04/2019 14:54
+LOGMGR-246,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,26/03/2019 05:49,30/07/2019 12:07
+LOGMGR-245,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,20/03/2019 14:38,20/03/2019 15:40
+LOGMGR-244,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,20/03/2019 14:28,20/03/2019 15:25
+LOGMGR-243,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,14/03/2019 09:31,15/03/2019 13:31
+LOGMGR-242,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,14/03/2019 09:28,15/03/2019 13:30
+LOGMGR-241,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,05/03/2019 10:55,05/03/2019 11:25
+LOGMGR-240,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,27/02/2019 18:04,28/02/2019 16:13
+LOGMGR-239,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,27/02/2019 15:04,28/02/2019 16:23
+LOGMGR-238,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,26/02/2019 11:14,15/03/2019 13:33
+LOGMGR-236,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,05/02/2019 02:27,07/02/2019 13:36
+LOGMGR-235,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,25/01/2019 02:07,27/01/2019 04:09
+LOGMGR-234,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,14/12/2018 16:52,17/12/2018 11:00
+LOGMGR-233,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,14/12/2018 16:46,17/12/2018 11:00
+LOGMGR-232,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,14/12/2018 16:41,17/12/2018 11:00
+LOGMGR-231,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,14/12/2018 16:39,17/12/2018 11:00
+LOGMGR-230,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,10/12/2018 14:57,24/03/2022 21:39
+LOGMGR-229,Component Upgrade,Resolved,LOGMGR,JBoss Log Manager,software,Done,07/12/2018 15:10,07/12/2018 17:33
+LOGMGR-228,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,06/12/2018 22:23,07/12/2018 12:44
+LOGMGR-227,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,06/12/2018 22:17,07/12/2018 12:44
+LOGMGR-226,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,04/12/2018 11:35,04/12/2018 12:02
+LOGMGR-225,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,04/12/2018 11:34,04/12/2018 12:02
+LOGMGR-224,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,04/12/2018 11:34,04/12/2018 12:02
+LOGMGR-223,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,04/12/2018 11:33,04/12/2018 12:02
+LOGMGR-222,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,04/12/2018 11:33,04/12/2018 12:02
+LOGMGR-221,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,04/12/2018 11:32,04/12/2018 12:02
+LOGMGR-220,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,04/12/2018 11:31,04/12/2018 12:02
+LOGMGR-218,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,01/12/2018 11:35,12/02/2019 11:14
+LOGMGR-217,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,20/11/2018 14:14,20/11/2018 17:37
+LOGMGR-216,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,20/11/2018 13:31,20/11/2018 17:38
+LOGMGR-215,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,20/11/2018 13:31,20/11/2018 17:38
+LOGMGR-214,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,20/11/2018 13:30,20/11/2018 17:38
+LOGMGR-213,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,16/11/2018 14:20,10/12/2018 14:42
+LOGMGR-212,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,15/11/2018 00:41,04/12/2018 12:09
+LOGMGR-211,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,15/11/2018 00:37,07/12/2018 17:45
+LOGMGR-210,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,06/11/2018 10:01,06/11/2018 10:10
+LOGMGR-209,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,01/11/2018 04:23,06/11/2018 09:57
+LOGMGR-208,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,31/10/2018 11:07,05/11/2018 17:49
+LOGMGR-207,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,09/10/2018 14:25,25/10/2018 18:45
+LOGMGR-206,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,03/10/2018 17:00,04/10/2018 12:26
+LOGMGR-205,Feature Request,Open,LOGMGR,JBoss Log Manager,software,,02/10/2018 10:26,
+LOGMGR-204,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,02/10/2018 09:03,03/10/2018 17:06
+LOGMGR-203,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,26/09/2018 10:55,26/09/2018 11:47
+LOGMGR-202,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,20/09/2018 18:27,24/09/2018 12:06
+LOGMGR-201,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,22/08/2018 04:35,04/10/2018 13:23
+LOGMGR-200,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,08/08/2018 09:34,10/08/2018 11:03
+LOGMGR-199,Bug,Closed,LOGMGR,JBoss Log Manager,software,Cannot Reproduce,24/07/2018 03:33,08/05/2023 21:35
+LOGMGR-198,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,05/07/2018 18:25,05/07/2018 19:09
+LOGMGR-197,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,03/07/2018 18:12,03/07/2018 18:24
+LOGMGR-196,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,28/06/2018 08:14,05/07/2018 14:08
+LOGMGR-195,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,22/06/2018 15:53,03/07/2018 10:52
+LOGMGR-194,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,20/04/2018 12:09,20/04/2018 16:39
+LOGMGR-193,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,10/04/2018 18:01,10/04/2018 18:16
+LOGMGR-192,Enhancement,Open,LOGMGR,JBoss Log Manager,software,,05/04/2018 09:37,
+LOGMGR-191,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,04/03/2018 23:58,15/03/2018 11:52
+LOGMGR-190,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,19/01/2018 17:24,19/01/2018 17:30
+LOGMGR-189,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,19/01/2018 17:08,19/01/2018 17:20
+LOGMGR-188,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,18/01/2018 16:36,19/01/2018 17:12
+LOGMGR-187,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,15/12/2017 11:06,19/01/2018 12:47
+LOGMGR-186,Enhancement,Pull Request Sent,LOGMGR,JBoss Log Manager,software,,08/12/2017 02:26,
+LOGMGR-185,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,06/12/2017 14:08,19/01/2018 12:23
+LOGMGR-184,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,05/12/2017 10:06,10/01/2018 14:28
+LOGMGR-183,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,29/11/2017 17:03,30/11/2017 14:48
+LOGMGR-182,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,10/11/2017 08:51,03/07/2018 18:10
+LOGMGR-181,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,09/11/2017 17:20,21/11/2017 16:08
+LOGMGR-180,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,18/10/2017 19:11,20/10/2017 14:01
+LOGMGR-179,Bug,Closed,LOGMGR,JBoss Log Manager,software,Obsolete,05/10/2017 17:48,22/05/2019 20:33
+LOGMGR-178,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,02/10/2017 19:11,03/10/2017 14:49
+LOGMGR-177,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,28/09/2017 15:13,15/03/2019 13:29
+LOGMGR-176,Enhancement,Closed,LOGMGR,JBoss Log Manager,software,Obsolete,26/09/2017 17:54,11/07/2023 14:45
+LOGMGR-175,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,21/09/2017 13:44,21/09/2017 13:51
+LOGMGR-174,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Won't Do,12/09/2017 13:07,23/10/2017 13:55
+LOGMGR-173,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,05/09/2017 17:42,05/09/2017 18:35
+LOGMGR-172,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,31/08/2017 12:55,31/08/2017 18:23
+LOGMGR-171,Enhancement,Closed,LOGMGR,JBoss Log Manager,software,Won't Do,30/08/2017 19:42,21/04/2022 19:50
+LOGMGR-170,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,14/08/2017 17:38,15/08/2017 19:32
+LOGMGR-167,Enhancement,Closed,LOGMGR,JBoss Log Manager,software,Won't Do,10/08/2017 08:25,12/09/2017 13:35
+LOGMGR-165,Enhancement,Open,LOGMGR,JBoss Log Manager,software,,29/07/2017 13:16,
+LOGMGR-164,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,12/07/2017 11:43,12/07/2017 11:45
+LOGMGR-163,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,07/07/2017 11:45,07/07/2017 12:28
+LOGMGR-161,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,13/06/2017 03:29,09/08/2017 14:54
+LOGMGR-160,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,25/05/2017 11:58,16/08/2017 19:04
+LOGMGR-157,Enhancement,Closed,LOGMGR,JBoss Log Manager,software,Done,17/05/2017 04:27,24/03/2022 21:50
+LOGMGR-156,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,10/05/2017 20:45,28/07/2017 11:46
+LOGMGR-155,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,10/05/2017 20:43,02/10/2017 13:55
+LOGMGR-154,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,04/05/2017 13:21,25/07/2017 19:39
+LOGMGR-152,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,19/04/2017 10:14,26/04/2017 17:22
+LOGMGR-151,Enhancement,Open,LOGMGR,JBoss Log Manager,software,,11/04/2017 09:15,
+LOGMGR-150,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,28/03/2017 11:11,18/08/2017 11:45
+LOGMGR-149,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,27/03/2017 19:03,20/04/2017 17:46
+LOGMGR-148,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,10/03/2017 11:50,21/03/2017 13:35
+LOGMGR-147,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,09/03/2017 20:07,10/03/2017 11:44
+LOGMGR-146,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,26/01/2017 16:10,16/02/2017 18:19
+LOGMGR-145,Enhancement,Open,LOGMGR,JBoss Log Manager,software,,15/11/2016 14:19,
+LOGMGR-144,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,11/11/2016 16:27,16/02/2017 18:23
+LOGMGR-143,Bug,Closed,LOGMGR,JBoss Log Manager,software,Obsolete,07/11/2016 10:27,22/05/2019 20:32
+LOGMGR-142,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,12/07/2016 17:52,03/10/2017 19:20
+LOGMGR-141,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,28/06/2016 13:46,28/06/2016 14:06
+LOGMGR-140,Enhancement,Closed,LOGMGR,JBoss Log Manager,software,Obsolete,20/06/2016 19:52,11/07/2023 14:46
+LOGMGR-139,Enhancement,Pull Request Sent,LOGMGR,JBoss Log Manager,software,,16/06/2016 04:33,
+LOGMGR-138,Feature Request,Open,LOGMGR,JBoss Log Manager,software,,07/06/2016 11:04,
+LOGMGR-137,Feature Request,Open,LOGMGR,JBoss Log Manager,software,,07/06/2016 10:59,
+LOGMGR-135,Feature Request,Closed,LOGMGR,JBoss Log Manager,software,Won't Do,27/04/2016 10:35,08/05/2023 21:36
+LOGMGR-130,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,19/04/2016 14:17,20/05/2019 16:37
+LOGMGR-129,Task,Open,LOGMGR,JBoss Log Manager,software,,06/04/2016 17:36,
+LOGMGR-128,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,02/02/2016 18:05,05/07/2018 12:31
+LOGMGR-127,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,19/11/2015 01:03,19/11/2015 15:47
+LOGMGR-125,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,21/10/2015 02:25,22/10/2015 12:02
+LOGMGR-124,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,07/10/2015 10:38,19/04/2021 16:06
+LOGMGR-123,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,01/10/2015 13:58,01/10/2015 19:24
+LOGMGR-122,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,01/10/2015 10:34,01/10/2015 11:52
+LOGMGR-121,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,25/03/2015 19:28,26/06/2020 10:32
+LOGMGR-120,Feature Request,Closed,LOGMGR,JBoss Log Manager,software,Done,02/03/2015 09:32,25/04/2024 00:26
+LOGMGR-119,Bug,Closed,LOGMGR,JBoss Log Manager,software,Won't Do,05/12/2014 04:20,16/12/2014 12:24
+LOGMGR-118,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,04/12/2014 12:23,14/04/2015 13:35
+LOGMGR-117,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,13/11/2014 17:04,10/06/2015 10:34
+LOGMGR-116,Task,Closed,LOGMGR,JBoss Log Manager,software,Won't Do,07/10/2014 13:19,07/10/2014 13:59
+LOGMGR-115,Enhancement,Closed,LOGMGR,JBoss Log Manager,software,Obsolete,07/10/2014 12:38,03/10/2017 14:52
+LOGMGR-114,Enhancement,Open,LOGMGR,JBoss Log Manager,software,,25/09/2014 14:41,
+LOGMGR-113,Enhancement,Open,LOGMGR,JBoss Log Manager,software,,10/09/2014 20:02,
+LOGMGR-112,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,10/09/2014 12:05,10/09/2014 12:58
+LOGMGR-111,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,04/08/2014 03:31,02/09/2014 18:14
+LOGMGR-110,Feature Request,Open,LOGMGR,JBoss Log Manager,software,,15/07/2014 20:12,
+LOGMGR-109,Bug,Closed,LOGMGR,JBoss Log Manager,software,Won't Do,24/06/2014 18:29,03/09/2014 20:31
+LOGMGR-108,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,18/06/2014 14:28,09/09/2014 14:45
+LOGMGR-107,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,29/05/2014 14:10,09/09/2014 14:00
+LOGMGR-106,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,23/05/2014 12:16,04/09/2014 19:07
+LOGMGR-105,Feature Request,Open,LOGMGR,JBoss Log Manager,software,,13/05/2014 13:14,
+LOGMGR-104,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,08/03/2014 03:53,03/09/2014 12:21
+LOGMGR-101,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,06/03/2014 11:55,09/09/2014 13:19
+LOGMGR-100,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,05/03/2014 23:58,09/09/2014 14:17
+LOGMGR-99,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,02/03/2014 17:51,23/09/2014 13:35
+LOGMGR-98,Enhancement,Open,LOGMGR,JBoss Log Manager,software,,27/02/2014 18:26,
+LOGMGR-97,Bug,Closed,LOGMGR,JBoss Log Manager,software,Obsolete,18/07/2012 09:54,22/05/2019 20:12
+LOGMGR-96,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,26/02/2014 14:08,09/09/2014 13:26
+LOGMGR-95,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,25/02/2014 01:26,30/09/2014 19:46
+LOGMGR-93,Task,Resolved,LOGMGR,JBoss Log Manager,software,Done,18/02/2014 04:21,20/11/2014 19:29
+LOGMGR-92,Bug,Closed,LOGMGR,JBoss Log Manager,software,Obsolete,23/01/2014 12:09,18/08/2017 14:54
+LOGMGR-91,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,22/01/2014 17:45,09/09/2014 14:09
+LOGMGR-89,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,15/11/2013 14:49,12/12/2013 13:48
+LOGMGR-88,Bug,Closed,LOGMGR,JBoss Log Manager,software,Duplicate,15/11/2013 04:47,15/07/2014 20:22
+LOGMGR-87,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,05/11/2013 12:42,11/08/2014 14:37
+LOGMGR-86,Feature Request,Open,LOGMGR,JBoss Log Manager,software,,04/11/2013 18:11,
+LOGMGR-85,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,14/10/2013 14:28,14/10/2013 17:14
+LOGMGR-84,Bug,Closed,LOGMGR,JBoss Log Manager,software,Won't Do,07/10/2013 19:36,14/10/2013 16:37
+LOGMGR-83,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,26/09/2013 20:33,19/12/2013 16:34
+LOGMGR-82,Bug,Reopened,LOGMGR,JBoss Log Manager,software,,26/08/2013 16:47,
+LOGMGR-81,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,26/08/2013 16:24,03/09/2013 23:39
+LOGMGR-80,Feature Request,Closed,LOGMGR,JBoss Log Manager,software,Won't Do,08/08/2013 11:40,08/05/2023 21:30
+LOGMGR-79,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,07/08/2013 18:27,03/09/2013 23:36
+LOGMGR-78,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,07/08/2013 15:20,03/09/2013 23:39
+LOGMGR-77,Bug,Closed,LOGMGR,JBoss Log Manager,software,Obsolete,06/08/2013 12:28,14/08/2013 18:31
+LOGMGR-76,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Duplicate,03/07/2013 21:32,05/07/2013 01:52
+LOGMGR-75,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,26/06/2013 12:13,22/07/2013 12:53
+LOGMGR-74,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,21/06/2013 03:32,22/07/2013 12:56
+LOGMGR-73,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,21/06/2013 00:37,21/06/2013 10:00
+LOGMGR-72,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,18/06/2013 05:34,22/07/2013 12:45
+LOGMGR-70,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Won't Do,05/06/2013 12:53,14/06/2013 18:41
+LOGMGR-69,Feature Request,Open,LOGMGR,JBoss Log Manager,software,,26/04/2013 12:59,
+LOGMGR-68,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,24/04/2013 15:38,22/07/2013 12:49
+LOGMGR-67,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,22/04/2013 09:25,03/09/2013 23:38
+LOGMGR-66,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,11/04/2013 14:21,03/09/2013 23:35
+LOGMGR-65,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,10/04/2013 23:09,09/05/2013 14:35
+LOGMGR-63,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,09/04/2013 18:30,27/08/2013 18:45
+LOGMGR-62,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Won't Do,28/03/2013 03:30,28/03/2013 09:17
+LOGMGR-61,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,04/03/2013 12:44,04/03/2013 13:07
+LOGMGR-60,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Duplicate,15/02/2013 04:59,28/02/2014 17:50
+LOGMGR-59,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,08/02/2013 19:28,03/09/2013 23:36
+LOGMGR-58,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,07/02/2013 12:08,19/06/2013 13:49
+LOGMGR-57,Enhancement,Open,LOGMGR,JBoss Log Manager,software,,16/01/2013 03:54,
+LOGMGR-56,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,20/01/2013 19:02,04/02/2013 13:51
+LOGMGR-55,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,07/12/2012 13:15,07/12/2012 16:03
+LOGMGR-54,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,20/11/2012 10:32,07/12/2012 15:59
+LOGMGR-53,Enhancement,Closed,LOGMGR,JBoss Log Manager,software,Duplicate,13/11/2012 12:16,27/08/2013 18:32
+LOGMGR-52,Feature Request,Open,LOGMGR,JBoss Log Manager,software,,05/10/2012 10:06,
+LOGMGR-51,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,20/09/2012 20:07,04/02/2013 18:02
+LOGMGR-50,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,17/09/2012 17:04,17/09/2012 17:26
+LOGMGR-49,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,10/09/2012 20:05,10/09/2012 20:08
+LOGMGR-48,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,25/07/2012 09:49,03/09/2013 23:37
+LOGMGR-46,Bug,Closed,LOGMGR,JBoss Log Manager,software,Won't Do,20/06/2012 10:29,28/08/2012 13:58
+LOGMGR-45,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,11/06/2012 14:40,13/04/2015 18:18
+LOGMGR-44,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,01/06/2012 06:13,19/06/2013 13:48
+LOGMGR-43,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,17/05/2012 21:47,25/07/2012 14:50
+LOGMGR-42,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,15/05/2012 07:55,25/07/2012 14:50
+LOGMGR-41,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,26/04/2012 18:42,27/04/2012 14:00
+LOGMGR-40,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,03/04/2012 04:27,13/04/2012 16:13
+LOGMGR-39,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,02/04/2012 05:07,03/04/2012 13:02
+LOGMGR-38,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,22/03/2012 17:23,22/03/2012 22:47
+LOGMGR-37,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,11/01/2012 14:50,11/01/2012 14:53
+LOGMGR-36,Feature Request,Open,LOGMGR,JBoss Log Manager,software,,09/01/2012 09:44,
+LOGMGR-35,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,07/12/2011 05:46,07/12/2011 10:04
+LOGMGR-34,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,30/11/2011 00:54,30/11/2011 02:00
+LOGMGR-33,Enhancement,Resolved,LOGMGR,JBoss Log Manager,software,Done,28/11/2011 12:29,28/11/2011 12:31
+LOGMGR-32,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,27/09/2011 02:10,27/09/2011 15:30
+LOGMGR-30,Feature Request,Resolved,LOGMGR,JBoss Log Manager,software,Done,06/05/2010 05:22,10/05/2017 20:37
+LOGMGR-29,Enhancement,Closed,LOGMGR,JBoss Log Manager,software,Not a Bug,06/04/2011 20:33,08/05/2023 21:36
+LOGMGR-28,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,22/03/2011 16:24,22/03/2011 16:59
+LOGMGR-27,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,10/01/2011 21:06,10/01/2011 21:07
+LOGMGR-26,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,23/12/2010 12:34,23/12/2010 13:26
+LOGMGR-25,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,15/10/2010 13:57,16/10/2010 12:29
+LOGMGR-24,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,30/08/2010 10:44,30/08/2010 10:45
+LOGMGR-23,Bug,Closed,LOGMGR,JBoss Log Manager,software,Done,13/08/2010 14:51,13/08/2010 14:52
+LOGMGR-22,Task,Closed,LOGMGR,JBoss Log Manager,software,Done,13/08/2010 12:39,13/08/2010 12:39
+LOGMGR-21,Bug,Closed,LOGMGR,JBoss Log Manager,software,Done,13/08/2010 12:38,13/08/2010 12:38
+LOGMGR-20,Bug,Closed,LOGMGR,JBoss Log Manager,software,Done,13/08/2010 12:37,13/08/2010 12:37
+LOGMGR-19,Feature Request,Closed,LOGMGR,JBoss Log Manager,software,Done,24/09/2009 15:18,24/09/2009 15:26
+LOGMGR-18,Feature Request,Closed,LOGMGR,JBoss Log Manager,software,Done,11/12/2009 19:10,11/12/2009 19:14
+LOGMGR-17,Bug,Resolved,LOGMGR,JBoss Log Manager,software,Done,04/05/2010 13:50,29/07/2010 17:58
+LOGMGR-16,Bug,Closed,LOGMGR,JBoss Log Manager,software,Done,24/06/2009 05:30,11/12/2009 19:04
+LOGMGR-15,Bug,Closed,LOGMGR,JBoss Log Manager,software,Done,18/02/2010 13:36,18/02/2010 14:03
+LOGMGR-14,Bug,Closed,LOGMGR,JBoss Log Manager,software,Done,18/02/2010 13:35,12/03/2010 12:22
+LOGMGR-13,Bug,Closed,LOGMGR,JBoss Log Manager,software,Done,23/02/2010 13:31,23/02/2010 13:59
+LOGMGR-12,Task,Closed,LOGMGR,JBoss Log Manager,software,Done,26/02/2010 11:42,05/04/2010 22:20
+LOGMGR-11,Feature Request,Closed,LOGMGR,JBoss Log Manager,software,Done,08/03/2009 01:59,08/03/2009 01:59
+LOGMGR-10,Feature Request,Closed,LOGMGR,JBoss Log Manager,software,Done,31/03/2010 11:38,05/04/2010 21:25
+LOGMGR-9,Feature Request,Closed,LOGMGR,JBoss Log Manager,software,Done,27/07/2009 16:20,28/07/2009 20:39
+LOGMGR-8,Feature Request,Closed,LOGMGR,JBoss Log Manager,software,Done,04/11/2009 22:22,04/11/2009 22:25
+LOGMGR-7,Bug,Closed,LOGMGR,JBoss Log Manager,software,Done,29/07/2009 19:09,29/07/2009 21:22
+LOGMGR-6,Bug,Closed,LOGMGR,JBoss Log Manager,software,Done,22/06/2009 16:07,22/06/2009 16:08
+LOGMGR-5,Bug,Closed,LOGMGR,JBoss Log Manager,software,Done,20/08/2009 06:39,28/08/2009 11:19
+LOGMGR-4,Bug,Closed,LOGMGR,JBoss Log Manager,software,Done,22/06/2009 11:43,22/06/2009 11:44
+LOGMGR-3,Bug,Closed,LOGMGR,JBoss Log Manager,software,Done,29/07/2009 19:08,29/07/2009 21:21
+LOGMGR-2,Bug,Closed,LOGMGR,JBoss Log Manager,software,Done,16/03/2009 16:20,11/05/2009 19:08
+LOGMGR-1,Bug,Closed,LOGMGR,JBoss Log Manager,software,Done,09/03/2009 18:12,09/03/2009 18:12

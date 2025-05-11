@@ -1,0 +1,232 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+JBEE-263,Feature Request,Coding In Progress,JBEE,JBoss Enterprise Spec APIs,software,,29/05/2024 19:55,
+JBEE-262,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Won't Do,02/02/2024 14:53,29/05/2024 20:32
+JBEE-261,Bug,Open,JBEE,JBoss Enterprise Spec APIs,software,,02/02/2024 14:46,
+JBEE-260,Bug,Open,JBEE,JBoss Enterprise Spec APIs,software,,08/01/2024 14:17,
+JBEE-258,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,11/10/2022 19:29,25/01/2023 09:06
+JBEE-257,Task,Coding In Progress,JBEE,JBoss Enterprise Spec APIs,software,,11/10/2022 18:15,
+JBEE-256,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,06/10/2022 13:50,06/10/2022 21:31
+JBEE-255,Task,Coding In Progress,JBEE,JBoss Enterprise Spec APIs,software,,06/10/2022 13:49,
+JBEE-254,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,22/09/2021 09:26,22/09/2021 15:42
+JBEE-253,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,03/08/2021 15:10,03/08/2021 22:37
+JBEE-252,Bug,Open,JBEE,JBoss Enterprise Spec APIs,software,,30/04/2021 08:24,
+JBEE-251,Bug,Open,JBEE,JBoss Enterprise Spec APIs,software,,16/02/2020 14:40,
+JBEE-250,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,17/01/2020 06:03,17/01/2020 06:04
+JBEE-249,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,30/10/2019 11:59,06/12/2019 14:34
+JBEE-248,Task,Open,JBEE,JBoss Enterprise Spec APIs,software,,18/10/2019 05:49,
+JBEE-247,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Won't Do,18/10/2019 05:34,21/10/2019 05:50
+JBEE-246,Enhancement,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,26/09/2019 03:38,09/10/2019 16:01
+JBEE-245,Task,Open,JBEE,JBoss Enterprise Spec APIs,software,,18/09/2019 17:07,
+JBEE-244,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,12/09/2019 06:08,12/09/2019 07:27
+JBEE-243,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,12/09/2019 06:03,12/09/2019 07:23
+JBEE-242,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,12/09/2019 05:51,12/09/2019 06:01
+JBEE-241,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,12/09/2019 04:07,12/09/2019 08:08
+JBEE-240,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,12/09/2019 03:02,12/09/2019 03:59
+JBEE-239,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,11/09/2019 09:49,12/09/2019 03:01
+JBEE-238,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,11/09/2019 09:31,11/09/2019 09:48
+JBEE-237,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,11/09/2019 07:53,11/09/2019 08:32
+JBEE-236,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,11/09/2019 07:16,11/09/2019 08:08
+JBEE-235,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,11/09/2019 06:53,11/09/2019 07:12
+JBEE-234,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,09/09/2019 10:59,09/09/2019 11:33
+JBEE-233,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,09/09/2019 10:48,09/09/2019 10:58
+JBEE-232,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,05/09/2019 07:23,06/09/2019 04:16
+JBEE-231,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,05/09/2019 07:19,06/09/2019 04:15
+JBEE-230,Task,Open,JBEE,JBoss Enterprise Spec APIs,software,,04/09/2019 11:25,
+JBEE-229,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,02/09/2019 06:06,02/09/2019 08:33
+JBEE-228,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,02/09/2019 06:01,02/09/2019 06:05
+JBEE-227,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,30/08/2019 10:59,30/08/2019 11:25
+JBEE-226,Bug,Open,JBEE,JBoss Enterprise Spec APIs,software,,30/08/2019 04:30,
+JBEE-225,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,29/08/2019 10:53,30/08/2019 03:24
+JBEE-224,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,28/08/2019 08:56,28/08/2019 09:37
+JBEE-223,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,28/08/2019 05:49,28/08/2019 12:10
+JBEE-222,Enhancement,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,27/08/2019 19:41,28/08/2019 11:10
+JBEE-221,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,27/08/2019 18:31,28/08/2019 11:10
+JBEE-220,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,27/08/2019 17:01,28/08/2019 05:02
+JBEE-219,Enhancement,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,22/08/2019 07:48,27/08/2019 11:17
+JBEE-218,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,22/08/2019 06:25,27/08/2019 17:04
+JBEE-217,Enhancement,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,21/08/2019 21:04,27/08/2019 17:04
+JBEE-216,Enhancement,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,21/08/2019 20:42,27/08/2019 17:03
+JBEE-215,Enhancement,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,21/08/2019 20:39,27/08/2019 17:03
+JBEE-214,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,21/08/2019 12:06,28/08/2019 11:57
+JBEE-213,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,19/08/2019 10:27,22/08/2019 09:24
+JBEE-212,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,16/08/2019 14:24,28/08/2019 11:58
+JBEE-211,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,16/08/2019 10:37,28/08/2019 11:57
+JBEE-210,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,15/08/2019 12:45,28/08/2019 11:57
+JBEE-209,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,15/08/2019 08:45,22/08/2019 09:24
+JBEE-208,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,14/08/2019 12:19,22/08/2019 09:24
+JBEE-207,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,07/08/2019 03:48,28/08/2019 09:50
+JBEE-206,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,07/08/2019 03:37,28/08/2019 09:50
+JBEE-205,Task,Open,JBEE,JBoss Enterprise Spec APIs,software,,25/07/2019 09:35,
+JBEE-204,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,19/06/2019 04:04,24/06/2019 11:18
+JBEE-200,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,03/04/2019 06:52,09/12/2019 08:41
+JBEE-199,Enhancement,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,31/03/2019 14:31,09/08/2019 06:12
+JBEE-198,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Won't Do,21/11/2018 18:12,27/11/2018 13:54
+JBEE-197,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,07/09/2018 18:06,17/09/2018 04:59
+JBEE-196,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,23/07/2018 15:28,10/09/2018 22:43
+JBEE-195,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,17/07/2018 19:34,24/07/2018 11:59
+JBEE-194,Bug,Open,JBEE,JBoss Enterprise Spec APIs,software,,19/06/2018 07:56,
+JBEE-193,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,11/06/2018 03:22,20/08/2018 01:44
+JBEE-192,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,20/04/2018 17:35,02/05/2018 11:05
+JBEE-191,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Won't Do,30/03/2018 11:21,30/03/2018 11:37
+JBEE-190,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,23/03/2018 10:04,06/01/2021 12:52
+JBEE-188,Feature Request,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Obsolete,26/02/2018 10:12,06/07/2022 15:48
+JBEE-187,Feature Request,Open,JBEE,JBoss Enterprise Spec APIs,software,,26/02/2018 10:10,
+JBEE-186,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,23/02/2018 16:57,28/03/2018 10:02
+JBEE-185,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,19/01/2018 13:46,03/08/2021 22:37
+JBEE-182,Feature Request,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Won't Do,26/10/2017 12:08,13/05/2020 12:19
+JBEE-181,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,26/10/2017 03:27,27/10/2017 09:55
+JBEE-180,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,16/10/2017 05:09,19/02/2018 10:02
+JBEE-179,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Won't Do,13/10/2017 19:50,13/10/2017 19:58
+JBEE-178,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,13/10/2017 19:24,28/03/2018 09:58
+JBEE-177,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,26/07/2017 12:35,27/07/2017 11:14
+JBEE-176,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,17/03/2017 08:46,05/05/2017 06:35
+JBEE-175,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,17/03/2017 08:40,05/05/2017 06:35
+JBEE-174,Enhancement,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,09/12/2016 06:22,28/02/2017 12:33
+JBEE-173,Enhancement,Closed,JBEE,JBoss Enterprise Spec APIs,software,Duplicate,28/02/2017 09:29,28/02/2017 12:32
+JBEE-172,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,15/02/2017 05:45,03/08/2018 09:09
+JBEE-171,Bug,Open,JBEE,JBoss Enterprise Spec APIs,software,,14/12/2016 07:27,
+JBEE-170,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,08/11/2016 13:34,15/11/2016 11:56
+JBEE-169,Enhancement,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,31/10/2016 06:02,03/11/2016 04:53
+JBEE-168,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Won't Do,04/10/2016 09:49,23/02/2018 04:55
+JBEE-166,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,30/03/2016 09:18,19/04/2018 07:32
+JBEE-165,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,25/02/2016 04:44,11/03/2016 12:23
+JBEE-163,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,09/03/2016 15:29,09/03/2016 18:37
+JBEE-162,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,19/02/2016 08:08,25/02/2016 07:38
+JBEE-161,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,18/12/2015 10:47,11/03/2016 12:13
+JBEE-160,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,30/04/2015 10:02,25/04/2016 09:00
+JBEE-159,Enhancement,Open,JBEE,JBoss Enterprise Spec APIs,software,,29/07/2014 10:11,
+JBEE-158,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,24/03/2015 05:51,10/09/2015 10:11
+JBEE-157,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,30/09/2014 21:27,01/03/2018 11:11
+JBEE-156,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,26/09/2014 18:39,01/03/2018 11:11
+JBEE-155,Bug,Open,JBEE,JBoss Enterprise Spec APIs,software,,28/05/2014 12:00,
+JBEE-154,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,05/05/2014 00:41,23/07/2014 08:49
+JBEE-153,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,26/03/2014 18:47,26/03/2014 22:19
+JBEE-152,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,17/03/2014 10:34,26/03/2014 18:41
+JBEE-151,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,11/03/2014 14:44,13/03/2014 11:21
+JBEE-150,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,11/03/2014 08:29,06/05/2014 09:54
+JBEE-149,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,28/02/2014 14:00,06/05/2014 09:45
+JBEE-148,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,28/02/2014 11:13,05/05/2014 15:34
+JBEE-147,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,17/02/2014 00:53,19/02/2014 14:23
+JBEE-146,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,14/11/2013 15:56,21/11/2013 09:39
+JBEE-145,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Cannot Reproduce,29/10/2013 12:29,29/10/2013 13:40
+JBEE-142,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,26/09/2013 15:54,22/10/2013 16:18
+JBEE-139,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,08/08/2013 03:28,15/10/2013 15:02
+JBEE-138,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,29/07/2013 08:47,15/10/2013 15:02
+JBEE-137,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,26/07/2013 09:06,15/10/2013 15:03
+JBEE-136,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,26/07/2013 05:49,01/08/2013 14:27
+JBEE-135,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,19/07/2013 16:46,13/08/2013 11:57
+JBEE-134,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,18/07/2013 12:48,05/09/2013 06:56
+JBEE-121,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,27/02/2013 19:51,22/01/2014 23:09
+JBEE-120,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Obsolete,10/02/2013 12:47,01/04/2013 19:10
+JBEE-119,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,20/09/2012 08:31,24/09/2012 10:51
+JBEE-118,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,02/08/2012 14:39,06/05/2014 09:52
+JBEE-117,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,24/07/2012 12:05,21/02/2013 12:24
+JBEE-116,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,28/06/2012 11:46,28/06/2012 11:47
+JBEE-115,Enhancement,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,25/06/2012 11:31,28/06/2012 11:43
+JBEE-114,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Obsolete,22/05/2012 09:44,07/02/2014 18:17
+JBEE-113,Task,Open,JBEE,JBoss Enterprise Spec APIs,software,,10/05/2012 05:48,
+JBEE-112,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,07/05/2012 01:24,06/05/2014 09:53
+JBEE-111,Enhancement,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,29/04/2012 15:39,30/04/2012 09:44
+JBEE-110,Feature Request,Open,JBEE,JBoss Enterprise Spec APIs,software,,27/04/2012 10:09,
+JBEE-109,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,16/03/2012 22:11,17/03/2012 10:46
+JBEE-108,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Duplicate,13/03/2012 05:38,18/03/2012 16:32
+JBEE-107,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,06/03/2012 17:45,06/03/2012 17:54
+JBEE-106,Enhancement,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,26/02/2012 16:35,16/03/2012 22:09
+JBEE-105,Feature Request,Open,JBEE,JBoss Enterprise Spec APIs,software,,03/02/2012 12:11,
+JBEE-104,Feature Request,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,03/02/2012 12:02,06/02/2012 00:01
+JBEE-103,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,25/01/2012 07:45,01/02/2012 18:41
+JBEE-102,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,23/12/2011 07:18,25/12/2011 01:04
+JBEE-101,Bug,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,07/12/2011 13:05,07/12/2011 15:09
+JBEE-100,Feature Request,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,02/12/2011 20:22,05/02/2012 23:55
+JBEE-99,Enhancement,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,01/12/2011 17:35,06/02/2012 00:13
+JBEE-98,Enhancement,Closed,JBEE,JBoss Enterprise Spec APIs,software,Won't Do,01/12/2011 17:32,01/12/2011 17:50
+JBEE-97,Enhancement,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,07/11/2011 16:16,06/05/2014 09:52
+JBEE-96,Enhancement,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,05/11/2011 19:58,18/03/2012 22:08
+JBEE-95,Enhancement,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,05/11/2011 19:05,05/11/2011 21:58
+JBEE-94,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,24/10/2011 12:50,05/02/2012 23:37
+JBEE-93,Enhancement,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,10/10/2011 14:43,22/02/2013 15:18
+JBEE-92,Enhancement,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,05/10/2011 06:41,28/10/2011 10:41
+JBEE-91,Feature Request,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,12/08/2011 05:48,05/10/2011 05:22
+JBEE-90,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,23/09/2011 07:40,05/10/2011 09:32
+JBEE-89,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,22/09/2011 10:41,25/09/2011 18:52
+JBEE-88,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,08/09/2011 17:19,12/10/2011 09:36
+JBEE-87,Feature Request,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,17/08/2011 16:53,26/08/2011 20:01
+JBEE-86,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,07/07/2011 08:50,18/03/2012 22:05
+JBEE-85,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,13/06/2011 15:12,05/11/2011 19:50
+JBEE-84,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,13/06/2011 14:17,05/11/2011 19:48
+JBEE-83,Enhancement,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,07/06/2011 16:45,05/02/2012 23:35
+JBEE-82,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,07/06/2011 12:59,05/11/2011 19:48
+JBEE-81,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,23/05/2011 15:09,23/05/2011 17:14
+JBEE-80,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,23/05/2011 15:02,23/05/2011 15:05
+JBEE-79,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,12/05/2011 18:33,12/05/2011 19:27
+JBEE-78,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,12/05/2011 18:21,12/05/2011 18:27
+JBEE-77,Feature Request,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,11/04/2011 16:00,12/04/2011 19:39
+JBEE-76,Feature Request,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,10/04/2011 21:02,10/04/2011 21:03
+JBEE-75,Feature Request,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,23/02/2011 06:20,08/06/2011 08:04
+JBEE-74,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,10/02/2011 08:01,14/02/2011 10:03
+JBEE-73,Feature Request,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,09/02/2011 10:42,18/03/2012 23:04
+JBEE-72,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,03/01/2011 15:18,03/01/2011 15:19
+JBEE-71,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,03/01/2011 15:07,03/01/2011 15:08
+JBEE-70,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,15/12/2010 17:23,15/12/2010 17:23
+JBEE-69,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,08/12/2010 15:16,08/12/2010 15:46
+JBEE-68,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,02/12/2010 21:05,08/12/2010 15:44
+JBEE-67,Task,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,17/11/2010 08:10,08/03/2012 16:31
+JBEE-66,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,08/11/2010 10:17,10/11/2010 02:36
+JBEE-65,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,01/11/2010 15:58,10/11/2010 22:36
+JBEE-64,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,01/11/2010 14:40,01/11/2010 15:45
+JBEE-63,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,01/11/2010 14:36,01/11/2010 15:38
+JBEE-62,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,01/11/2010 14:11,01/11/2010 14:39
+JBEE-60,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,30/08/2010 21:40,30/08/2010 22:27
+JBEE-59,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,30/08/2010 16:01,30/08/2010 16:26
+JBEE-58,Feature Request,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,18/08/2010 06:22,18/08/2010 06:24
+JBEE-57,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,13/08/2010 19:12,30/08/2010 21:31
+JBEE-56,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,17/07/2010 16:56,19/07/2010 12:34
+JBEE-55,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,17/07/2010 16:53,19/07/2010 12:32
+JBEE-54,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,17/07/2010 16:47,19/07/2010 12:28
+JBEE-53,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,13/07/2010 12:57,13/07/2010 12:58
+JBEE-52,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,29/06/2010 14:26,01/07/2010 11:52
+JBEE-51,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,23/06/2010 11:08,05/07/2010 05:57
+JBEE-50,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,22/06/2010 11:54,22/06/2010 12:03
+JBEE-49,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,04/06/2010 13:37,04/06/2010 13:38
+JBEE-48,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,04/06/2010 11:30,19/07/2010 09:09
+JBEE-47,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Won't Do,04/06/2010 11:27,04/06/2010 12:58
+JBEE-46,Feature Request,Closed,JBEE,JBoss Enterprise Spec APIs,software,Won't Do,27/05/2010 15:21,29/06/2010 14:23
+JBEE-45,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Obsolete,07/04/2010 16:28,06/05/2014 09:56
+JBEE-44,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,26/03/2010 20:35,26/03/2010 20:36
+JBEE-43,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,22/03/2010 20:44,22/03/2010 23:12
+JBEE-42,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Duplicate,19/03/2010 16:28,19/03/2010 16:31
+JBEE-41,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,19/03/2010 10:33,22/03/2010 12:33
+JBEE-40,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,18/03/2010 13:51,18/03/2010 16:33
+JBEE-39,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,12/03/2010 15:43,01/11/2010 14:07
+JBEE-38,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,12/03/2010 15:30,22/03/2010 12:14
+JBEE-37,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,12/03/2010 12:31,12/03/2010 13:57
+JBEE-36,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,12/03/2010 12:19,12/03/2010 12:37
+JBEE-35,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,11/03/2010 22:06,12/03/2010 11:46
+JBEE-34,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,08/03/2010 10:20,10/04/2011 20:39
+JBEE-33,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,04/03/2010 14:35,29/03/2010 15:55
+JBEE-32,Feature Request,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,04/03/2010 14:25,05/03/2010 12:56
+JBEE-27,Feature Request,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Done,07/02/2010 17:24,01/03/2013 10:18
+JBEE-26,Feature Request,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,07/02/2010 17:24,10/04/2011 20:41
+JBEE-25,Feature Request,Closed,JBEE,JBoss Enterprise Spec APIs,software,Won't Do,07/02/2010 17:22,12/04/2011 19:52
+JBEE-24,Feature Request,Closed,JBEE,JBoss Enterprise Spec APIs,software,Won't Do,07/02/2010 17:21,25/04/2011 22:51
+JBEE-23,Feature Request,Closed,JBEE,JBoss Enterprise Spec APIs,software,Won't Do,07/02/2010 17:20,12/04/2011 19:55
+JBEE-21,Feature Request,Resolved,JBEE,JBoss Enterprise Spec APIs,software,Won't Do,07/02/2010 17:19,06/11/2011 11:15
+JBEE-20,Feature Request,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,16/01/2010 09:06,05/03/2010 12:55
+JBEE-19,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,02/12/2009 03:34,29/06/2010 14:25
+JBEE-18,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,01/12/2009 10:09,06/03/2010 12:33
+JBEE-17,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,09/11/2009 19:41,17/12/2009 11:26
+JBEE-16,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,06/11/2009 08:55,20/05/2010 16:14
+JBEE-15,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,06/11/2009 08:52,30/08/2010 21:33
+JBEE-14,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,12/10/2009 11:49,12/10/2009 12:43
+JBEE-13,Feature Request,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,09/10/2009 12:09,12/10/2009 12:41
+JBEE-11,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,14/01/2009 13:27,16/01/2009 15:44
+JBEE-10,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,10/12/2008 15:18,06/03/2010 12:20
+JBEE-9,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,09/12/2008 17:06,10/12/2008 15:17
+JBEE-8,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,09/12/2008 14:51,10/12/2008 11:21
+JBEE-7,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,09/12/2008 14:49,09/12/2008 15:51
+JBEE-6,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,04/12/2008 13:35,14/01/2009 13:25
+JBEE-5,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,24/10/2008 17:11,27/10/2008 14:12
+JBEE-4,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,17/03/2008 17:44,27/10/2008 14:10
+JBEE-3,Bug,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,31/07/2008 12:19,26/08/2008 14:10
+JBEE-2,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,22/04/2008 05:21,26/08/2008 16:33
+JBEE-1,Task,Closed,JBEE,JBoss Enterprise Spec APIs,software,Done,22/04/2008 05:16,22/04/2008 05:17

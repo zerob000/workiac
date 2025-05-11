@@ -1,0 +1,312 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+ANA-584,Task,New,ANA,Ansible Networking & Security (Content),software,,08/11/2024 15:39,
+ANA-581,Task,New,ANA,Ansible Networking & Security (Content),software,,04/11/2024 13:37,
+ANA-580,Task,Code Review,ANA,Ansible Networking & Security (Content),software,,04/11/2024 13:36,
+ANA-579,Task,New,ANA,Ansible Networking & Security (Content),software,,04/11/2024 12:58,
+ANA-578,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,04/11/2024 12:51,04/11/2024 13:17
+ANA-577,Task,New,ANA,Ansible Networking & Security (Content),software,,04/11/2024 12:48,
+ANA-576,Task,New,ANA,Ansible Networking & Security (Content),software,,04/11/2024 12:43,
+ANA-574,Task,New,ANA,Ansible Networking & Security (Content),software,,04/11/2024 12:36,
+ANA-573,Task,In Progress,ANA,Ansible Networking & Security (Content),software,,04/11/2024 12:23,
+ANA-569,Bug,Closed,ANA,Ansible Networking & Security (Content),software,Done,24/10/2024 15:18,05/11/2024 11:42
+ANA-568,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,21/10/2024 12:48,25/10/2024 08:01
+ANA-567,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,21/10/2024 10:39,07/11/2024 16:14
+ANA-566,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,21/10/2024 10:25,04/11/2024 12:59
+ANA-565,Spike,Closed,ANA,Ansible Networking & Security (Content),software,Done,18/10/2024 13:55,18/10/2024 13:55
+ANA-563,Task,New,ANA,Ansible Networking & Security (Content),software,,17/10/2024 11:21,
+ANA-562,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,17/10/2024 10:51,
+ANA-561,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,17/10/2024 10:48,
+ANA-558,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,07/10/2024 11:12,21/10/2024 12:30
+ANA-557,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,01/10/2024 06:11,21/10/2024 08:02
+ANA-556,Bug,Backlog,ANA,Ansible Networking & Security (Content),software,,31/08/2023 02:41,
+ANA-554,Bug,Closed,ANA,Ansible Networking & Security (Content),software,Done,25/09/2024 19:30,21/10/2024 05:59
+ANA-553,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,26/09/2024 08:39,07/10/2024 11:13
+ANA-552,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,23/09/2024 12:57,07/10/2024 03:23
+ANA-551,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,23/09/2024 12:56,04/10/2024 12:38
+ANA-550,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,23/09/2024 12:56,04/10/2024 12:15
+ANA-549,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,23/09/2024 12:55,07/10/2024 03:23
+ANA-548,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,23/09/2024 11:39,07/10/2024 08:37
+ANA-547,Bug,Closed,ANA,Ansible Networking & Security (Content),software,Done,21/09/2024 03:11,23/10/2024 15:57
+ANA-546,Spike,Refinement,ANA,Ansible Networking & Security (Content),software,,18/09/2024 09:10,
+ANA-545,Task,Refinement,ANA,Ansible Networking & Security (Content),software,,18/09/2024 09:08,
+ANA-544,Task,Refinement,ANA,Ansible Networking & Security (Content),software,,18/09/2024 09:06,
+ANA-543,Task,Refinement,ANA,Ansible Networking & Security (Content),software,,18/09/2024 09:04,
+ANA-542,Spike,Closed,ANA,Ansible Networking & Security (Content),software,Done,18/09/2024 09:01,28/10/2024 05:50
+ANA-541,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,18/09/2024 08:57,04/11/2024 13:13
+ANA-539,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,16/09/2024 12:31,17/09/2024 05:45
+ANA-536,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,11/09/2024 08:21,07/10/2024 08:39
+ANA-534,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,09/09/2024 12:38,23/10/2024 09:56
+ANA-532,Bug,Closed,ANA,Ansible Networking & Security (Content),software,Done,06/09/2024 14:29,17/09/2024 05:44
+ANA-531,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,04/09/2024 10:11,23/09/2024 12:33
+ANA-529,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,28/08/2024 09:52,26/09/2024 08:43
+ANA-528,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,26/08/2024 12:34,09/09/2024 12:15
+ANA-527,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,26/08/2024 12:13,07/10/2024 10:52
+ANA-524,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,20/08/2024 13:36,29/08/2024 19:45
+ANA-522,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,12/08/2024 12:23,21/10/2024 12:35
+ANA-521,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,12/08/2024 10:30,19/08/2024 12:35
+ANA-519,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,06/08/2024 08:23,02/09/2024 11:36
+ANA-518,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,05/08/2024 12:27,21/08/2024 10:24
+ANA-517,Task,Closed,ANA,Ansible Networking & Security (Content),software,Duplicate,29/07/2024 11:21,26/08/2024 12:34
+ANA-516,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,29/07/2024 10:36,01/10/2024 12:58
+ANA-514,Task,Closed,ANA,Ansible Networking & Security (Content),software,Duplicate,29/07/2024 10:31,26/08/2024 12:36
+ANA-513,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,29/07/2024 10:28,29/07/2024 11:24
+ANA-508,Task,New,ANA,Ansible Networking & Security (Content),software,,16/07/2024 08:20,
+ANA-507,Task,Closed,ANA,Ansible Networking & Security (Content),software,Duplicate,15/07/2024 10:48,16/07/2024 07:47
+ANA-506,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,15/07/2024 10:43,25/07/2024 16:40
+ANA-505,Task,Closed,ANA,Ansible Networking & Security (Content),software,Duplicate,15/07/2024 10:37,16/07/2024 08:00
+ANA-504,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,15/07/2024 10:31,29/07/2024 11:23
+ANA-503,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,15/07/2024 08:18,
+ANA-502,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,15/07/2024 08:16,
+ANA-501,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,15/07/2024 08:15,
+ANA-500,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,15/07/2024 08:14,
+ANA-499,Task,In Progress,ANA,Ansible Networking & Security (Content),software,,15/07/2024 08:12,
+ANA-498,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,15/07/2024 07:43,
+ANA-497,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,15/07/2024 07:24,
+ANA-495,Task,In Progress,ANA,Ansible Networking & Security (Content),software,,15/07/2024 06:00,
+ANA-494,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,10/07/2024 10:25,05/08/2024 11:47
+ANA-493,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,09/07/2024 10:42,22/07/2024 10:06
+ANA-491,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,05/07/2024 06:24,12/07/2024 09:28
+ANA-488,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,01/07/2024 12:50,15/07/2024 06:02
+ANA-487,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,01/07/2024 12:49,29/07/2024 10:18
+ANA-483,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,01/07/2024 10:18,15/07/2024 10:31
+ANA-478,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,18/06/2024 12:55,12/07/2024 13:47
+ANA-477,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,18/06/2024 12:29,01/07/2024 10:18
+ANA-476,Spike,Closed,ANA,Ansible Networking & Security (Content),software,Done,18/06/2024 05:26,01/07/2024 08:46
+ANA-475,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,18/06/2024 05:19,
+ANA-474,Bug,Closed,ANA,Ansible Networking & Security (Content),software,Done,11/06/2024 14:55,12/06/2024 10:25
+ANA-473,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,05/06/2024 08:20,
+ANA-472,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,05/06/2024 08:18,
+ANA-471,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,05/06/2024 08:16,
+ANA-470,Story,Closed,ANA,Ansible Networking & Security (Content),software,Won't Do,03/06/2024 12:36,18/06/2024 12:43
+ANA-468,Task,Closed,ANA,Ansible Networking & Security (Content),software,Won't Do,28/05/2024 16:07,28/10/2024 18:03
+ANA-467,Task,Closed,ANA,Ansible Networking & Security (Content),software,Won't Do,28/05/2024 16:06,28/10/2024 18:02
+ANA-466,Story,Closed,ANA,Ansible Networking & Security (Content),software,Won't Do,28/05/2024 16:05,28/10/2024 18:04
+ANA-465,Task,Code Review,ANA,Ansible Networking & Security (Content),software,,28/05/2024 16:05,
+ANA-464,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,28/05/2024 16:05,21/10/2024 08:43
+ANA-463,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,28/05/2024 16:03,
+ANA-462,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,28/05/2024 16:03,21/10/2024 05:50
+ANA-461,Story,New,ANA,Ansible Networking & Security (Content),software,,28/05/2024 16:01,
+ANA-458,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,27/05/2024 10:24,18/06/2024 12:27
+ANA-457,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,27/05/2024 09:54,01/07/2024 07:26
+ANA-456,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,21/05/2024 15:43,18/06/2024 12:46
+ANA-455,Bug,Closed,ANA,Ansible Networking & Security (Content),software,Done,29/03/2024 19:54,31/05/2024 05:52
+ANA-454,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,20/05/2024 12:52,26/07/2024 15:38
+ANA-453,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,20/05/2024 12:51,01/07/2024 07:25
+ANA-452,Spike,Closed,ANA,Ansible Networking & Security (Content),software,Done,20/05/2024 12:43,18/06/2024 12:24
+ANA-451,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,20/05/2024 12:29,03/06/2024 12:29
+ANA-450,Story,Closed,ANA,Ansible Networking & Security (Content),software,Done,20/05/2024 12:20,03/06/2024 12:13
+ANA-448,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,15/05/2024 11:55,
+ANA-447,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,15/05/2024 11:52,21/10/2024 06:02
+ANA-446,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,15/05/2024 11:48,03/06/2024 12:19
+ANA-445,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,15/05/2024 11:39,28/10/2024 17:19
+ANA-443,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,06/05/2024 13:47,22/05/2024 17:42
+ANA-439,Task,Closed,ANA,Ansible Networking & Security (Content),software,Duplicate,30/04/2024 09:41,12/08/2024 10:28
+ANA-438,Story,Closed,ANA,Ansible Networking & Security (Content),software,Done,29/04/2024 04:06,20/05/2024 12:15
+ANA-437,Story,Closed,ANA,Ansible Networking & Security (Content),software,Done,23/04/2024 11:17,20/05/2024 12:15
+ANA-436,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,22/04/2024 12:46,20/05/2024 12:26
+ANA-435,Story,Backlog,ANA,Ansible Networking & Security (Content),software,,22/04/2024 11:28,
+ANA-434,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,22/04/2024 11:28,08/07/2024 06:54
+ANA-431,Spike,Closed,ANA,Ansible Networking & Security (Content),software,Done,17/04/2024 11:00,05/07/2024 06:19
+ANA-424,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,11/04/2024 06:58,
+ANA-423,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,11/04/2024 06:57,
+ANA-421,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,11/04/2024 06:54,
+ANA-420,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,11/04/2024 06:53,
+ANA-419,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,11/04/2024 06:52,
+ANA-418,Task,In Progress,ANA,Ansible Networking & Security (Content),software,,11/04/2024 06:51,
+ANA-413,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,08/04/2024 12:44,06/05/2024 12:09
+ANA-409,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,02/04/2024 11:01,22/04/2024 10:44
+ANA-408,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,27/03/2024 14:11,22/04/2024 12:27
+ANA-400,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,12/03/2024 10:33,08/04/2024 12:40
+ANA-399,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,12/03/2024 08:32,
+ANA-398,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,12/03/2024 08:30,10/04/2024 10:39
+ANA-396,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,12/03/2024 08:23,
+ANA-395,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,12/03/2024 08:22,
+ANA-392,Spike,Closed,ANA,Ansible Networking & Security (Content),software,Obsolete,12/03/2024 07:57,28/10/2024 13:07
+ANA-391,Spike,New,ANA,Ansible Networking & Security (Content),software,,12/03/2024 07:53,
+ANA-386,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,12/03/2024 07:21,
+ANA-383,Story,Backlog,ANA,Ansible Networking & Security (Content),software,,12/03/2024 06:38,
+ANA-382,Story,Backlog,ANA,Ansible Networking & Security (Content),software,,12/03/2024 06:37,
+ANA-381,Story,Closed,ANA,Ansible Networking & Security (Content),software,Done,12/03/2024 06:37,23/10/2024 09:49
+ANA-380,Story,Closed,ANA,Ansible Networking & Security (Content),software,Done,12/03/2024 06:35,20/05/2024 12:05
+ANA-379,Story,Closed,ANA,Ansible Networking & Security (Content),software,Done,12/03/2024 06:35,20/05/2024 12:06
+ANA-372,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,04/03/2024 08:27,06/05/2024 12:18
+ANA-362,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,07/02/2024 10:28,01/04/2024 06:47
+ANA-361,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,07/02/2024 10:21,12/06/2024 09:43
+ANA-360,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,07/02/2024 10:14,30/04/2024 14:54
+ANA-359,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,07/02/2024 10:11,23/09/2024 11:39
+ANA-358,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,07/02/2024 10:05,11/06/2024 11:38
+ANA-356,Bug,Closed,ANA,Ansible Networking & Security (Content),software,Duplicate,18/01/2024 15:02,22/01/2024 15:16
+ANA-355,Bug,Closed,ANA,Ansible Networking & Security (Content),software,Done,18/01/2024 15:01,22/04/2024 12:19
+ANA-353,Bug,Closed,ANA,Ansible Networking & Security (Content),software,Cannot Reproduce,05/01/2024 15:25,23/07/2024 13:45
+ANA-350,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,21/11/2023 11:34,13/12/2023 14:54
+ANA-349,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,01/11/2023 14:50,06/03/2024 09:41
+ANA-347,Bug,Closed,ANA,Ansible Networking & Security (Content),software,Done,16/10/2023 15:05,13/11/2023 22:01
+ANA-346,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,09/10/2023 12:30,
+ANA-345,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,26/09/2023 17:49,03/01/2024 10:08
+ANA-344,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,26/09/2023 17:45,23/09/2024 11:48
+ANA-343,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,26/09/2023 17:13,
+ANA-342,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,14/09/2023 06:33,03/01/2024 10:13
+ANA-341,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,14/09/2023 06:14,14/02/2024 09:41
+ANA-339,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,05/09/2023 16:27,22/04/2024 09:01
+ANA-334,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,28/08/2023 03:49,
+ANA-333,Task,Closed,ANA,Ansible Networking & Security (Content),software,Won't Do,23/08/2023 08:51,27/03/2024 10:05
+ANA-332,Task,Closed,ANA,Ansible Networking & Security (Content),software,Won't Do,23/08/2023 08:50,26/09/2024 20:17
+ANA-331,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,23/08/2023 08:50,
+ANA-329,Task,New,ANA,Ansible Networking & Security (Content),software,,23/08/2023 08:47,
+ANA-328,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,23/08/2023 08:39,
+ANA-327,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,23/08/2023 08:11,31/10/2023 09:38
+ANA-325,Spike,Closed,ANA,Ansible Networking & Security (Content),software,Won't Do,23/08/2023 06:51,28/10/2024 13:13
+ANA-324,Spike,Backlog,ANA,Ansible Networking & Security (Content),software,,23/08/2023 06:51,
+ANA-316,Task,Closed,ANA,Ansible Networking & Security (Content),software,Obsolete,27/06/2023 04:06,06/03/2024 12:10
+ANA-315,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,05/06/2023 08:12,17/01/2024 14:27
+ANA-312,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,08/05/2023 11:28,24/07/2023 10:12
+ANA-311,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,02/05/2023 15:52,24/07/2023 10:11
+ANA-291,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,22/02/2023 07:28,27/02/2024 14:24
+ANA-290,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,22/02/2023 07:23,15/09/2023 07:10
+ANA-289,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,22/02/2023 07:22,14/09/2023 13:41
+ANA-288,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,22/02/2023 07:21,25/08/2023 13:23
+ANA-287,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,22/02/2023 07:20,25/08/2023 13:23
+ANA-286,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,22/02/2023 07:19,15/05/2023 17:28
+ANA-285,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,22/02/2023 07:18,10/01/2024 10:04
+ANA-284,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,22/02/2023 07:17,23/08/2023 07:35
+ANA-277,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,09/01/2023 15:00,20/03/2024 12:19
+ANA-276,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,09/01/2023 15:00,20/03/2024 12:19
+ANA-275,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,09/01/2023 14:59,20/03/2024 12:19
+ANA-273,Task,Refinement,ANA,Ansible Networking & Security (Content),software,,09/01/2023 14:57,
+ANA-264,Task,Closed,ANA,Ansible Networking & Security (Content),software,Won't Do,09/01/2023 12:26,27/03/2024 10:06
+ANA-263,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,09/01/2023 12:25,06/03/2024 14:26
+ANA-259,Task,Closed,ANA,Ansible Networking & Security (Content),software,Won't Do,06/10/2022 13:50,12/03/2024 08:57
+ANA-258,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,06/10/2022 13:36,29/03/2023 09:59
+ANA-257,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,22/08/2022 17:15,23/08/2023 08:31
+ANA-256,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,15/06/2022 03:24,29/06/2022 10:23
+ANA-251,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,16/05/2022 13:52,
+ANA-250,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,16/05/2022 08:35,
+ANA-249,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,16/05/2022 08:34,22/04/2024 08:55
+ANA-248,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,16/05/2022 08:34,17/01/2024 09:52
+ANA-244,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,16/05/2022 08:26,
+ANA-243,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,04/04/2022 09:49,20/04/2022 11:04
+ANA-242,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,23/03/2022 16:33,18/04/2022 13:15
+ANA-241,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,23/03/2022 16:32,26/04/2022 13:59
+ANA-240,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,04/04/2022 09:49,28/04/2022 04:10
+ANA-239,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,04/04/2022 09:49,20/04/2022 10:18
+ANA-238,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,19/04/2022 12:17,05/05/2022 11:59
+ANA-237,Task,Closed,ANA,Ansible Networking & Security (Content),software,Obsolete,12/04/2022 11:05,19/09/2022 11:47
+ANA-236,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,18/01/2022 13:20,17/10/2022 14:43
+ANA-235,Task,Closed,ANA,Ansible Networking & Security (Content),software,Won't Do,18/01/2022 13:21,07/11/2024 11:53
+ANA-234,Task,Closed,ANA,Ansible Networking & Security (Content),software,Won't Do,18/01/2022 13:21,07/11/2024 11:51
+ANA-233,Task,Refinement,ANA,Ansible Networking & Security (Content),software,,18/01/2022 13:22,
+ANA-232,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,11/04/2022 09:08,23/08/2023 07:06
+ANA-231,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,11/04/2022 09:09,23/08/2023 07:06
+ANA-230,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,11/04/2022 09:06,23/08/2023 07:05
+ANA-228,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,11/04/2022 09:07,23/08/2023 07:05
+ANA-226,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,18/01/2022 13:20,17/10/2022 14:44
+ANA-225,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,18/01/2022 13:21,09/02/2022 12:30
+ANA-224,Story,Closed,ANA,Ansible Networking & Security (Content),software,Done,02/09/2021 06:06,18/01/2022 13:19
+ANA-222,Story,Closed,ANA,Ansible Networking & Security (Content),software,Done,25/03/2022 15:02,04/04/2022 15:21
+ANA-219,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,11/04/2022 09:09,23/08/2023 07:06
+ANA-218,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,11/04/2022 09:04,23/08/2023 07:03
+ANA-217,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,11/04/2022 09:03,21/04/2023 08:05
+ANA-216,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,11/04/2022 09:03,23/08/2023 07:03
+ANA-215,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,11/04/2022 09:02,23/08/2023 06:59
+ANA-214,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,11/04/2022 09:01,21/04/2023 08:04
+ANA-213,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,11/04/2022 09:00,21/04/2023 08:04
+ANA-212,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,11/04/2022 08:59,23/08/2023 07:00
+ANA-211,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,11/04/2022 08:59,23/08/2023 07:04
+ANA-210,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,11/04/2022 08:58,23/08/2023 07:03
+ANA-209,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,11/04/2022 08:57,23/08/2023 07:00
+ANA-208,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,11/04/2022 08:56,23/08/2023 07:03
+ANA-207,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,11/04/2022 08:54,23/08/2023 07:04
+ANA-206,Task,Closed,ANA,Ansible Networking & Security (Content),software,Obsolete,08/04/2022 07:46,19/09/2022 11:46
+ANA-205,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,08/04/2022 07:12,23/08/2023 07:51
+ANA-204,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,08/04/2022 07:12,21/04/2023 11:08
+ANA-203,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,08/04/2022 07:11,23/08/2023 08:26
+ANA-201,Spike,Backlog,ANA,Ansible Networking & Security (Content),software,,08/04/2022 07:09,
+ANA-200,Task,Closed,ANA,Ansible Networking & Security (Content),software,Won't Do,08/04/2022 07:08,27/03/2024 10:08
+ANA-199,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,08/04/2022 07:06,23/08/2023 08:30
+ANA-198,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,08/04/2022 07:04,23/08/2023 08:30
+ANA-197,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,08/04/2022 07:02,12/03/2024 08:14
+ANA-196,Task,Closed,ANA,Ansible Networking & Security (Content),software,Obsolete,08/04/2022 07:00,26/10/2024 03:00
+ANA-195,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,08/04/2022 06:54,21/04/2023 07:53
+ANA-193,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,08/04/2022 06:52,31/01/2024 09:44
+ANA-191,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,07/04/2022 11:42,
+ANA-190,Task,Closed,ANA,Ansible Networking & Security (Content),software,Duplicate,07/04/2022 11:42,27/03/2024 10:12
+ANA-189,Task,Closed,ANA,Ansible Networking & Security (Content),software,Won't Do,07/04/2022 11:40,28/10/2024 13:33
+ANA-188,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,07/04/2022 11:37,27/03/2024 10:08
+ANA-187,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,07/04/2022 11:36,27/03/2024 10:12
+ANA-186,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,07/04/2022 11:16,
+ANA-185,Task,Backlog,ANA,Ansible Networking & Security (Content),software,,07/04/2022 11:16,
+ANA-184,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,07/04/2022 11:12,23/08/2023 07:51
+ANA-183,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,07/04/2022 11:11,23/08/2023 07:51
+ANA-182,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,07/04/2022 11:10,23/08/2023 07:51
+ANA-181,Task,Closed,ANA,Ansible Networking & Security (Content),software,Won't Do,07/04/2022 11:08,28/10/2024 13:37
+ANA-180,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,07/04/2022 10:55,23/08/2023 08:28
+ANA-175,Story,Closed,ANA,Ansible Networking & Security (Content),software,Done,25/03/2022 15:04,25/03/2022 15:06
+ANA-174,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,04/03/2022 14:40,04/04/2022 15:23
+ANA-173,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,04/03/2022 14:39,04/04/2022 15:37
+ANA-172,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,04/03/2022 14:37,04/04/2022 15:23
+ANA-171,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,04/03/2022 14:36,04/04/2022 15:23
+ANA-170,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,04/03/2022 14:30,04/04/2022 15:23
+ANA-169,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,02/03/2022 14:09,04/04/2022 15:23
+ANA-168,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,22/02/2022 09:00,10/03/2022 13:43
+ANA-167,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,22/02/2022 06:23,24/02/2022 06:28
+ANA-166,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,22/02/2022 06:14,23/08/2023 07:33
+ANA-165,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,22/02/2022 06:09,23/08/2023 06:59
+ANA-164,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,22/02/2022 06:08,23/08/2023 07:02
+ANA-160,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,08/02/2022 10:13,10/03/2022 13:39
+ANA-157,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,08/02/2022 10:07,23/08/2023 07:00
+ANA-156,Task,New,ANA,Ansible Networking & Security (Content),software,,08/02/2022 10:07,
+ANA-155,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,08/02/2022 10:07,10/02/2022 10:29
+ANA-154,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,08/02/2022 10:07,29/06/2022 10:19
+ANA-152,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,07/02/2022 14:24,10/02/2022 10:28
+ANA-151,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,13/01/2022 13:50,08/02/2022 10:05
+ANA-144,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,13/01/2022 13:43,10/03/2022 13:39
+ANA-143,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,13/01/2022 13:43,21/04/2023 07:54
+ANA-142,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,13/01/2022 13:43,24/01/2022 14:11
+ANA-141,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,13/01/2022 13:42,08/02/2022 10:05
+ANA-129,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,15/11/2021 08:07,11/01/2022 14:24
+ANA-128,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,11/11/2021 14:08,11/01/2022 14:24
+ANA-112,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,13/09/2021 12:44,30/09/2021 20:22
+ANA-111,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,13/09/2021 12:42,29/09/2021 13:19
+ANA-110,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,30/08/2021 11:19,29/09/2021 13:18
+ANA-98,Story,Closed,ANA,Ansible Networking & Security (Content),software,Done,18/08/2021 05:46,23/08/2023 07:02
+ANA-95,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,02/08/2021 14:35,30/08/2021 11:11
+ANA-89,Task,Closed,ANA,Ansible Networking & Security (Content),software,Won't Do,02/08/2021 14:31,20/03/2024 14:48
+ANA-86,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,02/08/2021 14:28,07/02/2024 09:43
+ANA-83,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,02/08/2021 14:26,30/08/2021 11:09
+ANA-79,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,02/08/2021 14:21,30/08/2021 11:09
+ANA-68,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,24/05/2021 12:09,02/08/2021 12:39
+ANA-67,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,24/05/2021 12:08,23/07/2021 13:06
+ANA-66,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,21/05/2021 12:07,31/05/2021 10:26
+ANA-65,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,21/05/2021 12:05,31/05/2021 10:26
+ANA-64,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,21/05/2021 12:04,31/05/2021 10:26
+ANA-63,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,21/05/2021 12:04,31/05/2021 10:26
+ANA-62,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,21/05/2021 12:03,26/05/2021 12:09
+ANA-61,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,21/05/2021 12:03,26/05/2021 13:52
+ANA-60,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,21/05/2021 12:02,26/05/2021 13:51
+ANA-59,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,21/05/2021 12:02,26/05/2021 07:59
+ANA-58,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,21/05/2021 12:01,31/05/2021 10:26
+ANA-57,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,21/05/2021 12:01,31/05/2021 10:26
+ANA-56,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,21/05/2021 11:59,31/05/2021 10:26
+ANA-55,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,21/05/2021 11:58,31/05/2021 10:26
+ANA-48,Story,Closed,ANA,Ansible Networking & Security (Content),software,Done,22/04/2021 13:59,03/06/2024 12:02
+ANA-47,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,16/04/2021 05:28,20/05/2021 13:31
+ANA-37,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,28/03/2021 21:02,30/08/2021 11:04
+ANA-31,Story,Closed,ANA,Ansible Networking & Security (Content),software,Done,23/03/2021 07:35,30/08/2021 11:04
+ANA-27,Story,Closed,ANA,Ansible Networking & Security (Content),software,Done,03/03/2021 09:40,03/03/2021 14:56
+ANA-24,Story,Closed,ANA,Ansible Networking & Security (Content),software,Done,03/03/2021 09:39,03/03/2021 10:39
+ANA-23,Story,Closed,ANA,Ansible Networking & Security (Content),software,Done,03/03/2021 09:38,26/05/2021 13:40
+ANA-20,Story,Closed,ANA,Ansible Networking & Security (Content),software,Done,03/03/2021 09:36,26/05/2021 13:40
+ANA-19,Story,Closed,ANA,Ansible Networking & Security (Content),software,Done,03/03/2021 09:35,03/03/2021 12:43
+ANA-17,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,16/02/2021 08:25,30/08/2021 11:04
+ANA-16,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,16/02/2021 07:48,30/08/2021 11:03
+ANA-15,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,16/02/2021 07:45,30/08/2021 11:03
+ANA-14,Task,Closed,ANA,Ansible Networking & Security (Content),software,Duplicate,16/02/2021 07:44,03/10/2023 13:55
+ANA-13,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,04/02/2021 08:34,30/08/2021 11:02
+ANA-11,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,01/02/2021 07:10,03/03/2021 10:59
+ANA-8,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,19/01/2021 02:22,30/08/2021 11:03
+ANA-7,Task,Closed,ANA,Ansible Networking & Security (Content),software,Obsolete,13/01/2021 05:47,19/01/2021 02:26
+ANA-5,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,12/01/2021 08:10,30/08/2021 11:05
+ANA-4,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,12/01/2021 03:46,08/04/2022 07:37
+ANA-3,Task,Closed,ANA,Ansible Networking & Security (Content),software,Won't Do,12/01/2021 03:44,27/03/2024 10:08
+ANA-2,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,12/01/2021 03:41,30/08/2021 11:04
+ANA-1,Task,Closed,ANA,Ansible Networking & Security (Content),software,Done,12/01/2021 03:35,03/03/2021 10:59

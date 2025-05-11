@@ -1,0 +1,761 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+DBAAS-1275,Task,Resolved,DBAAS,Database as a Service,software,Duplicate,12/04/2023 13:50,12/04/2023 14:01
+DBAAS-1273,Bug,Resolved,DBAAS,Database as a Service,software,Won't Do,04/04/2023 09:39,12/09/2023 14:28
+DBAAS-1272,Bug,Closed,DBAAS,Database as a Service,software,Done,03/04/2023 15:04,05/04/2023 10:07
+DBAAS-1271,Bug,Closed,DBAAS,Database as a Service,software,Done,03/04/2023 13:40,04/04/2023 09:40
+DBAAS-1253,Task,Resolved,DBAAS,Database as a Service,software,Duplicate,08/03/2023 14:48,08/03/2023 14:57
+DBAAS-1228,Bug,New,DBAAS,Database as a Service,software,,22/02/2023 20:04,
+DBAAS-1227,Story,Resolved,DBAAS,Database as a Service,software,Done,17/02/2023 20:13,23/06/2023 19:34
+DBAAS-1226,Task,Resolved,DBAAS,Database as a Service,software,Done,16/02/2023 14:56,20/02/2023 20:37
+DBAAS-1225,Task,In Progress,DBAAS,Database as a Service,software,,16/02/2023 10:28,
+DBAAS-1224,Task,New,DBAAS,Database as a Service,software,,16/02/2023 10:18,
+DBAAS-1223,Spike,New,DBAAS,Database as a Service,software,,16/02/2023 10:16,
+DBAAS-1222,Spike,New,DBAAS,Database as a Service,software,,16/02/2023 10:15,
+DBAAS-1221,Spike,Resolved,DBAAS,Database as a Service,software,Won't Do,16/02/2023 10:14,01/02/2024 15:59
+DBAAS-1220,Spike,In Progress,DBAAS,Database as a Service,software,,16/02/2023 10:14,
+DBAAS-1219,Task,Resolved,DBAAS,Database as a Service,software,Done,16/02/2023 09:15,20/02/2023 09:27
+DBAAS-1217,Bug,Closed,DBAAS,Database as a Service,software,Done,14/02/2023 07:11,15/02/2023 22:31
+DBAAS-1216,Initiative,New,DBAAS,Database as a Service,software,,14/02/2023 07:07,
+DBAAS-1215,Bug,Resolved,DBAAS,Database as a Service,software,Done,14/02/2023 07:03,20/02/2023 20:36
+DBAAS-1214,Task,Closed,DBAAS,Database as a Service,software,Done,13/02/2023 15:19,14/02/2023 13:15
+DBAAS-1213,Spike,Resolved,DBAAS,Database as a Service,software,Done,13/02/2023 14:01,01/02/2024 16:01
+DBAAS-1212,Bug,Refinement,DBAAS,Database as a Service,software,,13/02/2023 12:28,
+DBAAS-1211,Bug,Refinement,DBAAS,Database as a Service,software,,13/02/2023 09:44,
+DBAAS-1210,Bug,Resolved,DBAAS,Database as a Service,software,Won't Do,13/02/2023 09:27,13/02/2023 14:13
+DBAAS-1209,Bug,Closed,DBAAS,Database as a Service,software,Not a Bug,12/02/2023 20:47,15/02/2023 16:28
+DBAAS-1208,Bug,Resolved,DBAAS,Database as a Service,software,Done,12/02/2023 20:31,16/02/2023 15:24
+DBAAS-1207,Bug,Resolved,DBAAS,Database as a Service,software,Done,11/02/2023 04:08,20/02/2023 04:13
+DBAAS-1206,Bug,Resolved,DBAAS,Database as a Service,software,Obsolete,09/02/2023 21:13,20/02/2023 20:36
+DBAAS-1205,Bug,Closed,DBAAS,Database as a Service,software,Done,09/02/2023 20:49,20/02/2023 12:58
+DBAAS-1203,Bug,Refinement,DBAAS,Database as a Service,software,,09/02/2023 12:36,
+DBAAS-1201,Bug,Closed,DBAAS,Database as a Service,software,Done,08/02/2023 15:59,16/02/2023 08:49
+DBAAS-1199,Bug,Closed,DBAAS,Database as a Service,software,Done,08/02/2023 10:29,15/02/2023 22:17
+DBAAS-1196,Bug,Resolved,DBAAS,Database as a Service,software,Done,07/02/2023 21:11,17/02/2023 10:46
+DBAAS-1195,Bug,Closed,DBAAS,Database as a Service,software,Done,07/02/2023 19:22,15/02/2023 22:07
+DBAAS-1194,Bug,Closed,DBAAS,Database as a Service,software,Done,07/02/2023 10:01,13/02/2023 05:48
+DBAAS-1193,Bug,Resolved,DBAAS,Database as a Service,software,Obsolete,07/02/2023 03:48,20/02/2023 20:35
+DBAAS-1191,Bug,Resolved,DBAAS,Database as a Service,software,Done,06/02/2023 19:38,16/02/2023 14:21
+DBAAS-1190,Bug,Resolved,DBAAS,Database as a Service,software,Won't Do,06/02/2023 16:36,07/02/2023 13:44
+DBAAS-1188,Bug,Resolved,DBAAS,Database as a Service,software,Done,03/02/2023 10:02,13/02/2023 04:59
+DBAAS-1186,Story,Resolved,DBAAS,Database as a Service,software,Obsolete,02/02/2023 20:41,20/02/2023 20:56
+DBAAS-1185,Bug,Resolved,DBAAS,Database as a Service,software,Done,02/02/2023 19:57,20/02/2023 08:28
+DBAAS-1184,Bug,Closed,DBAAS,Database as a Service,software,Done,02/02/2023 17:01,15/02/2023 22:04
+DBAAS-1183,Bug,Resolved,DBAAS,Database as a Service,software,Done,02/02/2023 16:53,02/02/2023 20:39
+DBAAS-1182,Bug,New,DBAAS,Database as a Service,software,,02/02/2023 16:43,
+DBAAS-1181,Task,Closed,DBAAS,Database as a Service,software,Done,02/02/2023 11:13,16/02/2023 09:02
+DBAAS-1180,Task,Resolved,DBAAS,Database as a Service,software,Done,02/02/2023 11:07,01/02/2024 16:01
+DBAAS-1179,Task,Closed,DBAAS,Database as a Service,software,Done,02/02/2023 11:07,08/02/2023 08:03
+DBAAS-1178,Task,Closed,DBAAS,Database as a Service,software,Done,02/02/2023 11:04,02/03/2023 09:27
+DBAAS-1177,Spike,Resolved,DBAAS,Database as a Service,software,Done,02/02/2023 11:04,01/02/2024 15:59
+DBAAS-1176,Task,Closed,DBAAS,Database as a Service,software,Done,02/02/2023 11:03,08/02/2023 07:40
+DBAAS-1175,Story,Closed,DBAAS,Database as a Service,software,Done,02/02/2023 11:00,13/02/2023 15:16
+DBAAS-1173,Bug,Resolved,DBAAS,Database as a Service,software,Done,01/02/2023 03:15,16/02/2023 11:35
+DBAAS-1171,Bug,Resolved,DBAAS,Database as a Service,software,Cannot Reproduce,31/01/2023 12:02,07/02/2023 13:22
+DBAAS-1170,Bug,Closed,DBAAS,Database as a Service,software,Done,31/01/2023 11:56,14/02/2023 13:26
+DBAAS-1169,Bug,Closed,DBAAS,Database as a Service,software,Done,31/01/2023 11:50,13/02/2023 05:41
+DBAAS-1167,Bug,Resolved,DBAAS,Database as a Service,software,Done,30/01/2023 16:27,16/02/2023 13:13
+DBAAS-1166,Task,Resolved,DBAAS,Database as a Service,software,Done,30/01/2023 11:06,22/02/2023 15:46
+DBAAS-1163,Bug,Closed,DBAAS,Database as a Service,software,Done,27/01/2023 14:32,07/02/2023 10:30
+DBAAS-1162,Bug,Closed,DBAAS,Database as a Service,software,Done,27/01/2023 13:14,09/02/2023 08:32
+DBAAS-1161,Bug,Closed,DBAAS,Database as a Service,software,Done,27/01/2023 12:35,08/02/2023 16:18
+DBAAS-1160,Spike,Closed,DBAAS,Database as a Service,software,Done,27/01/2023 11:47,02/02/2023 10:40
+DBAAS-1159,Initiative,Waiting,DBAAS,Database as a Service,software,,26/01/2023 19:09,
+DBAAS-1158,Initiative,Waiting,DBAAS,Database as a Service,software,,26/01/2023 16:32,
+DBAAS-1157,Initiative,Planning,DBAAS,Database as a Service,software,,26/01/2023 16:31,
+DBAAS-1156,Initiative,Planning,DBAAS,Database as a Service,software,,26/01/2023 16:19,
+DBAAS-1155,Initiative,Planning,DBAAS,Database as a Service,software,,26/01/2023 15:30,
+DBAAS-1154,Initiative,Planning,DBAAS,Database as a Service,software,,26/01/2023 15:17,
+DBAAS-1153,Initiative,Closed,DBAAS,Database as a Service,software,Won't Do,26/01/2023 15:16,01/06/2023 13:54
+DBAAS-1151,Spike,Resolved,DBAAS,Database as a Service,software,Done,26/01/2023 15:07,26/01/2023 15:11
+DBAAS-1150,Story,Code Review,DBAAS,Database as a Service,software,,26/01/2023 13:36,
+DBAAS-1149,Story,Code Review,DBAAS,Database as a Service,software,,26/01/2023 13:35,
+DBAAS-1147,Story,Resolved,DBAAS,Database as a Service,software,Done,25/01/2023 17:09,25/01/2023 18:10
+DBAAS-1146,Story,Resolved,DBAAS,Database as a Service,software,Done,25/01/2023 17:00,26/01/2023 15:06
+DBAAS-1145,Story,Resolved,DBAAS,Database as a Service,software,Done,25/01/2023 16:21,26/01/2023 15:05
+DBAAS-1142,Bug,Resolved,DBAAS,Database as a Service,software,Cannot Reproduce,24/01/2023 22:44,08/02/2023 16:18
+DBAAS-1141,Story,New,DBAAS,Database as a Service,software,,24/01/2023 19:00,
+DBAAS-1140,Story,Resolved,DBAAS,Database as a Service,software,Obsolete,24/01/2023 18:57,24/01/2023 18:57
+DBAAS-1137,Task,Closed,DBAAS,Database as a Service,software,Done,19/01/2023 10:19,08/02/2023 07:40
+DBAAS-1136,Task,Closed,DBAAS,Database as a Service,software,Done,19/01/2023 10:17,02/02/2023 04:53
+DBAAS-1135,Task,Closed,DBAAS,Database as a Service,software,Done,19/01/2023 10:16,02/02/2023 07:06
+DBAAS-1134,Task,Closed,DBAAS,Database as a Service,software,Done,19/01/2023 10:06,13/02/2023 15:18
+DBAAS-1133,Task,Closed,DBAAS,Database as a Service,software,Done,19/01/2023 10:06,02/02/2023 04:53
+DBAAS-1132,Task,Closed,DBAAS,Database as a Service,software,Done,19/01/2023 10:05,13/02/2023 15:14
+DBAAS-1131,Spike,Closed,DBAAS,Database as a Service,software,Done,19/01/2023 09:56,27/01/2023 11:49
+DBAAS-1130,Spike,Closed,DBAAS,Database as a Service,software,Done,19/01/2023 09:40,02/02/2023 10:40
+DBAAS-1129,Spike,New,DBAAS,Database as a Service,software,,19/01/2023 09:30,
+DBAAS-1128,Spike,New,DBAAS,Database as a Service,software,,19/01/2023 09:29,
+DBAAS-1127,Task,Closed,DBAAS,Database as a Service,software,Done,19/01/2023 08:30,14/02/2023 16:16
+DBAAS-1126,Bug,Resolved,DBAAS,Database as a Service,software,Can't Do,19/01/2023 08:27,20/02/2023 20:33
+DBAAS-1125,Bug,Closed,DBAAS,Database as a Service,software,Done,18/01/2023 15:49,15/02/2023 21:53
+DBAAS-1124,Bug,Closed,DBAAS,Database as a Service,software,Done,18/01/2023 14:58,15/02/2023 21:46
+DBAAS-1123,Bug,Resolved,DBAAS,Database as a Service,software,Obsolete,17/01/2023 21:08,20/02/2023 20:32
+DBAAS-1121,Bug,Closed,DBAAS,Database as a Service,software,Done,17/01/2023 17:23,15/02/2023 13:02
+DBAAS-1120,Spike,Closed,DBAAS,Database as a Service,software,Done,17/01/2023 17:04,02/02/2023 10:40
+DBAAS-1119,Bug,Closed,DBAAS,Database as a Service,software,Done,17/01/2023 16:46,15/02/2023 16:25
+DBAAS-1118,Task,New,DBAAS,Database as a Service,software,,16/01/2023 09:58,
+DBAAS-1117,Bug,Closed,DBAAS,Database as a Service,software,Done,13/01/2023 16:38,15/02/2023 16:17
+DBAAS-1116,Spike,Closed,DBAAS,Database as a Service,software,Done,13/01/2023 10:15,17/01/2023 17:05
+DBAAS-1113,Bug,Refinement,DBAAS,Database as a Service,software,,10/01/2023 14:51,
+DBAAS-1112,Bug,Closed,DBAAS,Database as a Service,software,Done,10/01/2023 07:37,14/02/2023 13:23
+DBAAS-1111,Spike,Closed,DBAAS,Database as a Service,software,Done,05/01/2023 10:11,19/01/2023 09:40
+DBAAS-1110,Spike,Closed,DBAAS,Database as a Service,software,Done,05/01/2023 10:10,13/01/2023 10:09
+DBAAS-1109,Spike,Closed,DBAAS,Database as a Service,software,Done,02/01/2023 08:16,13/01/2023 10:07
+DBAAS-1108,Spike,Closed,DBAAS,Database as a Service,software,Done,28/12/2022 11:19,19/01/2023 09:36
+DBAAS-1107,Story,Resolved,DBAAS,Database as a Service,software,Done,23/12/2022 18:44,23/06/2023 19:32
+DBAAS-1106,Bug,Closed,DBAAS,Database as a Service,software,Done,21/12/2022 05:43,13/02/2023 04:51
+DBAAS-1105,Task,Closed,DBAAS,Database as a Service,software,Done,19/12/2022 11:42,21/12/2022 07:03
+DBAAS-1104,Task,Closed,DBAAS,Database as a Service,software,Done,19/12/2022 11:35,21/12/2022 12:05
+DBAAS-1102,Task,Closed,DBAAS,Database as a Service,software,Done,16/12/2022 10:00,20/12/2022 06:31
+DBAAS-1101,Spike,Closed,DBAAS,Database as a Service,software,Done,16/12/2022 09:58,05/01/2023 14:20
+DBAAS-1099,Task,Closed,DBAAS,Database as a Service,software,Done,16/12/2022 05:39,03/01/2023 04:12
+DBAAS-1098,Initiative,Planning,DBAAS,Database as a Service,software,,14/12/2022 03:32,
+DBAAS-1097,Task,In Progress,DBAAS,Database as a Service,software,,13/12/2022 11:05,
+DBAAS-1095,Task,Closed,DBAAS,Database as a Service,software,Done,12/12/2022 04:42,16/12/2022 05:28
+DBAAS-1091,Spike,New,DBAAS,Database as a Service,software,,05/12/2022 13:04,
+DBAAS-1073,Task,Closed,DBAAS,Database as a Service,software,Done,01/12/2022 11:56,19/01/2023 08:32
+DBAAS-1072,Task,Closed,DBAAS,Database as a Service,software,Done,01/12/2022 11:53,19/01/2023 09:51
+DBAAS-1069,Story,Resolved,DBAAS,Database as a Service,software,Done,22/11/2022 21:18,23/06/2023 19:32
+DBAAS-1059,Spike,Resolved,DBAAS,Database as a Service,software,Done,17/11/2022 10:52,01/12/2022 12:43
+DBAAS-1058,Task,Resolved,DBAAS,Database as a Service,software,Done,17/11/2022 10:42,11/12/2022 13:51
+DBAAS-1057,Task,Resolved,DBAAS,Database as a Service,software,Done,17/11/2022 10:42,01/12/2022 12:24
+DBAAS-1056,Task,In Progress,DBAAS,Database as a Service,software,,17/11/2022 09:28,
+DBAAS-1055,Task,Closed,DBAAS,Database as a Service,software,Done,17/11/2022 09:27,02/02/2023 10:46
+DBAAS-1054,Task,Closed,DBAAS,Database as a Service,software,Done,17/11/2022 09:26,03/01/2023 04:12
+DBAAS-1053,Task,Closed,DBAAS,Database as a Service,software,Done,17/11/2022 09:18,03/01/2023 04:12
+DBAAS-1052,Task,Resolved,DBAAS,Database as a Service,software,Done,17/11/2022 09:16,08/12/2022 05:50
+DBAAS-1051,Task,Resolved,DBAAS,Database as a Service,software,Done,17/11/2022 09:16,01/12/2022 12:22
+DBAAS-1050,Task,Resolved,DBAAS,Database as a Service,software,Done,17/11/2022 09:15,01/12/2022 12:22
+DBAAS-1049,Task,Resolved,DBAAS,Database as a Service,software,Done,17/11/2022 09:13,01/12/2022 12:21
+DBAAS-1048,Task,Resolved,DBAAS,Database as a Service,software,Done,17/11/2022 09:12,01/12/2022 12:21
+DBAAS-1047,Story,Resolved,DBAAS,Database as a Service,software,Done,16/11/2022 17:22,30/11/2022 20:47
+DBAAS-1045,Story,Resolved,DBAAS,Database as a Service,software,Done,14/11/2022 15:33,13/01/2023 20:56
+DBAAS-1043,Task,Resolved,DBAAS,Database as a Service,software,Done,11/11/2022 04:31,11/11/2022 04:34
+DBAAS-1036,Spike,Refinement,DBAAS,Database as a Service,software,,09/11/2022 15:31,
+DBAAS-1035,Release tracker,Closed,DBAAS,Database as a Service,software,Done,09/11/2022 14:51,31/01/2023 21:17
+DBAAS-1034,Task,Resolved,DBAAS,Database as a Service,software,Done,08/11/2022 20:01,08/11/2022 20:07
+DBAAS-1016,Spike,Closed,DBAAS,Database as a Service,software,Done,03/11/2022 10:55,16/12/2022 05:29
+DBAAS-1015,Task,New,DBAAS,Database as a Service,software,,03/11/2022 10:53,
+DBAAS-1014,Task,In Progress,DBAAS,Database as a Service,software,,03/11/2022 10:49,
+DBAAS-1013,Task,Closed,DBAAS,Database as a Service,software,Done,03/11/2022 10:45,17/11/2022 10:14
+DBAAS-1012,Task,Closed,DBAAS,Database as a Service,software,Done,03/11/2022 10:29,17/11/2022 10:10
+DBAAS-1009,Spike,Resolved,DBAAS,Database as a Service,software,Done,03/11/2022 10:22,14/11/2022 12:03
+DBAAS-1008,Spike,Closed,DBAAS,Database as a Service,software,Done,03/11/2022 10:22,08/11/2022 10:16
+DBAAS-1007,Initiative,Planning,DBAAS,Database as a Service,software,,02/11/2022 16:16,
+DBAAS-1006,Initiative,Backlog,DBAAS,Database as a Service,software,,02/11/2022 16:09,
+DBAAS-1005,Initiative,Backlog,DBAAS,Database as a Service,software,,02/11/2022 15:59,
+DBAAS-1004,Initiative,Closed,DBAAS,Database as a Service,software,Duplicate,02/11/2022 15:50,03/11/2022 14:57
+DBAAS-1002,Spike,Resolved,DBAAS,Database as a Service,software,Done,02/11/2022 13:57,22/11/2022 16:31
+DBAAS-998,Spike,New,DBAAS,Database as a Service,software,,02/11/2022 13:52,
+DBAAS-997,Spike,Closed,DBAAS,Database as a Service,software,Done,02/11/2022 13:50,18/04/2023 13:04
+DBAAS-992,Spike,New,DBAAS,Database as a Service,software,,02/11/2022 13:44,
+DBAAS-987,Spike,Resolved,DBAAS,Database as a Service,software,Done,02/11/2022 13:34,30/11/2022 20:44
+DBAAS-986,Spike,Resolved,DBAAS,Database as a Service,software,Done,02/11/2022 13:31,23/01/2023 21:25
+DBAAS-982,Bug,Resolved,DBAAS,Database as a Service,software,Done,02/11/2022 07:20,13/02/2023 04:32
+DBAAS-981,Story,Resolved,DBAAS,Database as a Service,software,Done,01/11/2022 19:52,23/06/2023 19:33
+DBAAS-980,Task,Resolved,DBAAS,Database as a Service,software,Done,31/10/2022 21:04,14/11/2022 21:26
+DBAAS-978,Initiative,Closed,DBAAS,Database as a Service,software,Done,27/10/2022 16:32,03/03/2023 20:00
+DBAAS-977,Initiative,In Progress,DBAAS,Database as a Service,software,,27/10/2022 16:22,
+DBAAS-976,Story,New,DBAAS,Database as a Service,software,,26/10/2022 02:11,
+DBAAS-975,Task,Resolved,DBAAS,Database as a Service,software,Done,24/10/2022 21:27,25/10/2022 15:46
+DBAAS-974,Task,Resolved,DBAAS,Database as a Service,software,Done,21/10/2022 22:00,01/11/2022 15:40
+DBAAS-973,Bug,New,DBAAS,Database as a Service,software,,21/10/2022 18:22,
+DBAAS-972,Bug,Resolved,DBAAS,Database as a Service,software,Obsolete,21/10/2022 13:31,20/02/2023 20:55
+DBAAS-970,Initiative,Stakeholder Acceptance,DBAAS,Database as a Service,software,,20/10/2022 14:52,
+DBAAS-969,Initiative,Closed,DBAAS,Database as a Service,software,Done,20/10/2022 14:47,23/03/2023 15:38
+DBAAS-968,Initiative,Waiting,DBAAS,Database as a Service,software,,20/10/2022 14:43,
+DBAAS-966,Initiative,Closed,DBAAS,Database as a Service,software,Done,20/10/2022 14:31,20/02/2023 20:57
+DBAAS-965,Initiative,Stakeholder Acceptance,DBAAS,Database as a Service,software,,20/10/2022 14:27,
+DBAAS-964,Task,New,DBAAS,Database as a Service,software,,20/10/2022 10:09,
+DBAAS-963,Task,Resolved,DBAAS,Database as a Service,software,Done,20/10/2022 10:02,17/11/2022 09:36
+DBAAS-962,Task,Resolved,DBAAS,Database as a Service,software,Done,20/10/2022 10:01,17/11/2022 09:35
+DBAAS-961,Task,In Progress,DBAAS,Database as a Service,software,,20/10/2022 10:00,
+DBAAS-960,Task,Resolved,DBAAS,Database as a Service,software,Done,20/10/2022 09:29,20/10/2022 09:31
+DBAAS-959,Task,Resolved,DBAAS,Database as a Service,software,Done,20/10/2022 09:26,20/10/2022 09:42
+DBAAS-958,Initiative,In Progress,DBAAS,Database as a Service,software,,19/10/2022 17:15,
+DBAAS-957,Bug,New,DBAAS,Database as a Service,software,,19/10/2022 09:23,
+DBAAS-956,Bug,Resolved,DBAAS,Database as a Service,software,Obsolete,19/10/2022 01:17,20/02/2023 20:54
+DBAAS-955,Bug,New,DBAAS,Database as a Service,software,,18/10/2022 17:40,
+DBAAS-953,Initiative,In Progress,DBAAS,Database as a Service,software,,17/10/2022 17:15,
+DBAAS-952,Initiative,Closed,DBAAS,Database as a Service,software,Done,17/10/2022 16:56,27/06/2023 14:00
+DBAAS-951,Initiative,New,DBAAS,Database as a Service,software,,17/10/2022 16:52,
+DBAAS-950,Initiative,New,DBAAS,Database as a Service,software,,17/10/2022 16:42,
+DBAAS-949,Initiative,New,DBAAS,Database as a Service,software,,17/10/2022 16:36,
+DBAAS-945,Bug,Closed,DBAAS,Database as a Service,software,Won't Do,14/10/2022 09:52,14/10/2022 13:36
+DBAAS-944,Bug,Closed,DBAAS,Database as a Service,software,Done,13/10/2022 15:47,20/10/2022 12:04
+DBAAS-942,Bug,New,DBAAS,Database as a Service,software,,13/10/2022 06:34,
+DBAAS-941,Story,Resolved,DBAAS,Database as a Service,software,Done,11/10/2022 19:00,20/02/2023 20:54
+DBAAS-938,Spike,Resolved,DBAAS,Database as a Service,software,Done,07/10/2022 18:30,23/06/2023 19:31
+DBAAS-937,Task,Resolved,DBAAS,Database as a Service,software,Done,06/10/2022 12:39,19/10/2022 06:14
+DBAAS-936,Spike,Resolved,DBAAS,Database as a Service,software,Done,06/10/2022 12:21,03/11/2022 10:11
+DBAAS-935,Task,Closed,DBAAS,Database as a Service,software,Done,06/10/2022 12:02,06/10/2022 12:03
+DBAAS-934,Task,Closed,DBAAS,Database as a Service,software,Done,06/10/2022 11:59,06/10/2022 12:00
+DBAAS-933,Bug,Closed,DBAAS,Database as a Service,software,Won't Do,04/10/2022 11:54,05/10/2022 13:41
+DBAAS-932,Task,Resolved,DBAAS,Database as a Service,software,Done,04/10/2022 07:04,04/10/2022 07:27
+DBAAS-929,Bug,Closed,DBAAS,Database as a Service,software,Done,02/10/2022 22:03,06/10/2022 10:59
+DBAAS-928,Bug,Closed,DBAAS,Database as a Service,software,Done,02/10/2022 21:37,05/10/2022 13:53
+DBAAS-927,Bug,Closed,DBAAS,Database as a Service,software,Won't Do,02/10/2022 21:20,05/10/2022 13:54
+DBAAS-925,Bug,Closed,DBAAS,Database as a Service,software,Done,29/09/2022 18:10,06/10/2022 09:41
+DBAAS-924,Bug,New,DBAAS,Database as a Service,software,,29/09/2022 14:34,
+DBAAS-923,Bug,Closed,DBAAS,Database as a Service,software,Duplicate,29/09/2022 11:22,29/09/2022 11:35
+DBAAS-921,Bug,Closed,DBAAS,Database as a Service,software,Done,28/09/2022 11:25,03/10/2022 15:33
+DBAAS-920,Bug,Closed,DBAAS,Database as a Service,software,Done,26/09/2022 09:58,06/10/2022 09:49
+DBAAS-919,Bug,Closed,DBAAS,Database as a Service,software,Done,23/09/2022 13:25,05/10/2022 13:43
+DBAAS-918,Bug,In Progress,DBAAS,Database as a Service,software,,23/09/2022 12:36,
+DBAAS-917,Bug,Resolved,DBAAS,Database as a Service,software,Obsolete,22/09/2022 12:43,09/02/2023 15:46
+DBAAS-916,Spike,Resolved,DBAAS,Database as a Service,software,Done,22/09/2022 10:15,03/11/2022 09:39
+DBAAS-915,Task,Closed,DBAAS,Database as a Service,software,Done,22/09/2022 10:11,06/10/2022 11:35
+DBAAS-914,Task,Resolved,DBAAS,Database as a Service,software,Done,22/09/2022 10:11,06/10/2022 11:54
+DBAAS-913,Bug,Closed,DBAAS,Database as a Service,software,Done,22/09/2022 09:20,06/10/2022 15:56
+DBAAS-912,Bug,Closed,DBAAS,Database as a Service,software,Done,22/09/2022 07:56,29/09/2022 09:33
+DBAAS-911,Bug,Closed,DBAAS,Database as a Service,software,Done,21/09/2022 22:37,06/10/2022 10:50
+DBAAS-910,Bug,Closed,DBAAS,Database as a Service,software,Done,21/09/2022 16:50,06/10/2022 09:59
+DBAAS-909,Initiative,Closed,DBAAS,Database as a Service,software,Duplicate,21/09/2022 15:23,17/10/2022 16:58
+DBAAS-908,Initiative,Backlog,DBAAS,Database as a Service,software,,21/09/2022 15:23,
+DBAAS-907,Bug,Closed,DBAAS,Database as a Service,software,Done,20/09/2022 07:49,29/09/2022 14:50
+DBAAS-906,Bug,Closed,DBAAS,Database as a Service,software,Done,20/09/2022 07:26,18/04/2023 13:05
+DBAAS-905,Bug,Closed,DBAAS,Database as a Service,software,Done,20/09/2022 07:16,29/09/2022 14:48
+DBAAS-904,Bug,Closed,DBAAS,Database as a Service,software,Done,20/09/2022 06:54,29/09/2022 14:45
+DBAAS-902,Bug,Closed,DBAAS,Database as a Service,software,Done,19/09/2022 15:28,29/09/2022 10:33
+DBAAS-900,Bug,Closed,DBAAS,Database as a Service,software,Done,15/09/2022 10:25,20/10/2022 14:46
+DBAAS-899,Bug,Closed,DBAAS,Database as a Service,software,Done,14/09/2022 17:45,03/10/2022 18:06
+DBAAS-897,Bug,Closed,DBAAS,Database as a Service,software,Done,14/09/2022 16:18,04/10/2022 17:08
+DBAAS-896,Story,New,DBAAS,Database as a Service,software,,13/09/2022 13:40,
+DBAAS-895,Spike,New,DBAAS,Database as a Service,software,,13/09/2022 13:37,
+DBAAS-894,Story,New,DBAAS,Database as a Service,software,,13/09/2022 13:36,
+DBAAS-893,Initiative,New,DBAAS,Database as a Service,software,,13/09/2022 13:35,
+DBAAS-892,Initiative,New,DBAAS,Database as a Service,software,,13/09/2022 13:34,
+DBAAS-891,Story,Resolved,DBAAS,Database as a Service,software,Done,13/09/2022 13:13,21/01/2023 17:08
+DBAAS-883,Task,Resolved,DBAAS,Database as a Service,software,Done,08/09/2022 10:20,22/09/2022 09:42
+DBAAS-882,Task,Resolved,DBAAS,Database as a Service,software,Done,08/09/2022 10:06,20/10/2022 09:44
+DBAAS-881,Task,Closed,DBAAS,Database as a Service,software,Done,08/09/2022 10:02,22/09/2022 09:42
+DBAAS-880,Story,New,DBAAS,Database as a Service,software,,07/09/2022 17:43,
+DBAAS-879,Task,Resolved,DBAAS,Database as a Service,software,Done,05/09/2022 09:28,03/11/2022 09:39
+DBAAS-878,Task,Closed,DBAAS,Database as a Service,software,Done,05/09/2022 05:42,06/10/2022 11:35
+DBAAS-876,Initiative,Waiting,DBAAS,Database as a Service,software,,30/08/2022 14:41,
+DBAAS-860,Initiative,Closed,DBAAS,Database as a Service,software,Done,30/08/2022 14:11,18/04/2023 13:07
+DBAAS-859,Initiative,Backlog,DBAAS,Database as a Service,software,,30/08/2022 14:06,
+DBAAS-858,Spike,New,DBAAS,Database as a Service,software,,30/08/2022 14:01,
+DBAAS-857,Spike,Resolved,DBAAS,Database as a Service,software,Done,30/08/2022 13:58,15/02/2023 00:57
+DBAAS-856,Initiative,Waiting,DBAAS,Database as a Service,software,,30/08/2022 13:57,
+DBAAS-855,Initiative,Waiting,DBAAS,Database as a Service,software,,30/08/2022 13:53,
+DBAAS-854,Task,Resolved,DBAAS,Database as a Service,software,Done,30/08/2022 12:36,08/09/2022 09:39
+DBAAS-852,Bug,New,DBAAS,Database as a Service,software,,25/08/2022 19:38,
+DBAAS-850,Story,Testing,DBAAS,Database as a Service,software,,25/08/2022 14:36,
+DBAAS-848,Initiative,Closed,DBAAS,Database as a Service,software,Done,25/08/2022 14:34,03/03/2023 19:58
+DBAAS-847,Task,Resolved,DBAAS,Database as a Service,software,Done,25/08/2022 10:11,22/09/2022 09:57
+DBAAS-846,Task,Resolved,DBAAS,Database as a Service,software,Done,25/08/2022 10:11,22/09/2022 09:46
+DBAAS-845,Task,Closed,DBAAS,Database as a Service,software,Done,25/08/2022 10:04,20/10/2022 09:31
+DBAAS-844,Spike,New,DBAAS,Database as a Service,software,,25/08/2022 09:59,
+DBAAS-843,Spike,Closed,DBAAS,Database as a Service,software,Done,25/08/2022 09:58,05/09/2022 05:39
+DBAAS-842,Story,Closed,DBAAS,Database as a Service,software,Done,22/08/2022 22:25,20/10/2022 15:42
+DBAAS-838,Story,Closed,DBAAS,Database as a Service,software,Done,22/08/2022 13:56,05/10/2022 14:12
+DBAAS-835,Initiative,Analysis,DBAAS,Database as a Service,software,,19/08/2022 12:41,
+DBAAS-831,Story,Resolved,DBAAS,Database as a Service,software,MirrorOrphan,18/08/2022 14:15,20/02/2023 20:54
+DBAAS-830,Bug,Closed,DBAAS,Database as a Service,software,Won't Do,17/08/2022 17:52,18/08/2022 15:47
+DBAAS-825,Task,Resolved,DBAAS,Database as a Service,software,Done,12/08/2022 03:06,06/10/2022 19:58
+DBAAS-824,Story,New,DBAAS,Database as a Service,software,,11/08/2022 14:10,
+DBAAS-823,Spike,New,DBAAS,Database as a Service,software,,11/08/2022 10:37,
+DBAAS-821,Spike,Closed,DBAAS,Database as a Service,software,Done,11/08/2022 10:15,23/08/2022 07:45
+DBAAS-820,Outcome,Closed,DBAAS,Database as a Service,software,Done,11/08/2022 10:11,11/08/2022 10:17
+DBAAS-819,Story,Closed,DBAAS,Database as a Service,software,Done,10/08/2022 17:59,05/10/2022 14:17
+DBAAS-817,Story,Resolved,DBAAS,Database as a Service,software,Done,10/08/2022 17:57,20/10/2022 15:36
+DBAAS-815,Story,Resolved,DBAAS,Database as a Service,software,Done,10/08/2022 17:04,30/09/2022 21:46
+DBAAS-814,Story,Release Pending,DBAAS,Database as a Service,software,Done,10/08/2022 17:03,23/01/2023 21:00
+DBAAS-813,Story,Resolved,DBAAS,Database as a Service,software,Done,10/08/2022 17:01,20/10/2022 15:37
+DBAAS-812,Initiative,Closed,DBAAS,Database as a Service,software,Done,10/08/2022 17:00,17/10/2022 16:59
+DBAAS-810,Initiative,Closed,DBAAS,Database as a Service,software,Duplicate,10/08/2022 15:31,10/08/2022 15:31
+DBAAS-809,Task,Closed,DBAAS,Database as a Service,software,Done,10/08/2022 06:54,03/11/2022 09:41
+DBAAS-808,Task,New,DBAAS,Database as a Service,software,,10/08/2022 05:56,
+DBAAS-807,Task,Resolved,DBAAS,Database as a Service,software,Won't Do,10/08/2022 05:55,24/11/2022 10:07
+DBAAS-806,Task,Resolved,DBAAS,Database as a Service,software,Done,10/08/2022 05:54,08/09/2022 08:11
+DBAAS-805,Task,Resolved,DBAAS,Database as a Service,software,Done,10/08/2022 05:52,25/08/2022 09:39
+DBAAS-804,Task,New,DBAAS,Database as a Service,software,,10/08/2022 05:34,
+DBAAS-803,Task,New,DBAAS,Database as a Service,software,,10/08/2022 05:32,
+DBAAS-802,Spike,Resolved,DBAAS,Database as a Service,software,Done,10/08/2022 05:30,25/08/2022 06:19
+DBAAS-801,Task,New,DBAAS,Database as a Service,software,,10/08/2022 05:27,
+DBAAS-800,Task,Resolved,DBAAS,Database as a Service,software,Done,10/08/2022 05:09,03/11/2022 09:39
+DBAAS-799,Task,Resolved,DBAAS,Database as a Service,software,Done,10/08/2022 04:59,21/09/2022 09:43
+DBAAS-798,Spike,In Progress,DBAAS,Database as a Service,software,,10/08/2022 04:58,
+DBAAS-797,Task,Closed,DBAAS,Database as a Service,software,Done,09/08/2022 19:03,30/08/2022 17:26
+DBAAS-794,Spike,New,DBAAS,Database as a Service,software,,04/08/2022 19:06,
+DBAAS-793,Bug,Closed,DBAAS,Database as a Service,software,Done,04/08/2022 13:08,10/08/2022 16:01
+DBAAS-792,Bug,Closed,DBAAS,Database as a Service,software,Done,04/08/2022 12:41,29/09/2022 15:49
+DBAAS-787,Task,Resolved,DBAAS,Database as a Service,software,Done,28/07/2022 10:35,11/08/2022 09:38
+DBAAS-785,Spike,Resolved,DBAAS,Database as a Service,software,Done,28/07/2022 10:12,11/08/2022 09:38
+DBAAS-784,Task,Resolved,DBAAS,Database as a Service,software,Done,28/07/2022 09:53,11/08/2022 09:46
+DBAAS-783,Task,Resolved,DBAAS,Database as a Service,software,Done,28/07/2022 09:51,11/08/2022 09:46
+DBAAS-782,Spike,Closed,DBAAS,Database as a Service,software,Done,28/07/2022 09:48,03/11/2022 09:41
+DBAAS-781,Spike,Resolved,DBAAS,Database as a Service,software,Done,28/07/2022 09:46,11/08/2022 09:47
+DBAAS-780,Spike,Closed,DBAAS,Database as a Service,software,Done,28/07/2022 09:44,03/08/2022 15:17
+DBAAS-779,Bug,Resolved,DBAAS,Database as a Service,software,Won't Do,27/07/2022 17:11,20/10/2022 14:42
+DBAAS-776,Task,Closed,DBAAS,Database as a Service,software,Duplicate,25/07/2022 14:27,10/08/2022 16:57
+DBAAS-775,Initiative,Backlog,DBAAS,Database as a Service,software,,22/07/2022 06:19,
+DBAAS-774,Bug,Closed,DBAAS,Database as a Service,software,Cannot Reproduce,22/07/2022 06:10,25/07/2022 23:59
+DBAAS-773,Bug,Closed,DBAAS,Database as a Service,software,Done,22/07/2022 05:59,06/10/2022 15:42
+DBAAS-769,Bug,Resolved,DBAAS,Database as a Service,software,Obsolete,14/07/2022 23:24,09/02/2023 15:45
+DBAAS-768,Initiative,Closed,DBAAS,Database as a Service,software,Duplicate,14/07/2022 13:49,02/11/2022 18:46
+DBAAS-767,Task,Resolved,DBAAS,Database as a Service,software,Done,14/07/2022 11:07,28/07/2022 07:54
+DBAAS-766,Task,Resolved,DBAAS,Database as a Service,software,Done,14/07/2022 10:52,28/07/2022 10:13
+DBAAS-765,Task,Closed,DBAAS,Database as a Service,software,Done,14/07/2022 10:47,28/07/2022 10:11
+DBAAS-764,Task,Resolved,DBAAS,Database as a Service,software,Done,14/07/2022 10:44,27/07/2022 07:53
+DBAAS-763,Task,Resolved,DBAAS,Database as a Service,software,Done,14/07/2022 10:40,25/08/2022 09:40
+DBAAS-762,Bug,Closed,DBAAS,Database as a Service,software,Done,14/07/2022 08:51,21/07/2022 18:25
+DBAAS-761,Bug,Closed,DBAAS,Database as a Service,software,Done,13/07/2022 17:50,26/07/2022 06:54
+DBAAS-760,Bug,Closed,DBAAS,Database as a Service,software,Won't Do,13/07/2022 17:42,14/07/2022 13:51
+DBAAS-758,Initiative,Waiting,DBAAS,Database as a Service,software,,13/07/2022 14:19,
+DBAAS-757,Bug,New,DBAAS,Database as a Service,software,,13/07/2022 13:49,
+DBAAS-755,Bug,Closed,DBAAS,Database as a Service,software,Done,12/07/2022 15:29,20/07/2022 09:54
+DBAAS-754,Bug,Closed,DBAAS,Database as a Service,software,Not a Bug,12/07/2022 15:21,13/07/2022 04:04
+DBAAS-753,Bug,Closed,DBAAS,Database as a Service,software,Done,12/07/2022 14:19,20/07/2022 13:17
+DBAAS-751,Bug,Closed,DBAAS,Database as a Service,software,Done,07/07/2022 13:29,14/07/2022 13:55
+DBAAS-745,Task,Resolved,DBAAS,Database as a Service,software,Done,30/06/2022 10:55,14/07/2022 09:53
+DBAAS-744,Task,Resolved,DBAAS,Database as a Service,software,Done,30/06/2022 09:44,28/07/2022 10:13
+DBAAS-738,Bug,Closed,DBAAS,Database as a Service,software,Done,24/06/2022 08:24,12/07/2022 14:47
+DBAAS-721,Task,New,DBAAS,Database as a Service,software,,21/06/2022 19:12,
+DBAAS-718,Risk,New,DBAAS,Database as a Service,software,,17/06/2022 17:04,
+DBAAS-717,Task,Resolved,DBAAS,Database as a Service,software,Done,17/06/2022 16:45,17/10/2023 17:05
+DBAAS-716,Task,Resolved,DBAAS,Database as a Service,software,Done,16/06/2022 18:31,13/07/2022 16:47
+DBAAS-715,Task,Resolved,DBAAS,Database as a Service,software,Done,16/06/2022 11:09,21/07/2022 23:02
+DBAAS-714,Spike,Resolved,DBAAS,Database as a Service,software,Done,16/06/2022 10:48,29/06/2022 11:09
+DBAAS-713,Task,Closed,DBAAS,Database as a Service,software,Done,16/06/2022 10:43,30/06/2022 10:49
+DBAAS-712,Task,Resolved,DBAAS,Database as a Service,software,Done,16/06/2022 10:38,14/07/2022 09:44
+DBAAS-711,Task,New,DBAAS,Database as a Service,software,,16/06/2022 10:19,
+DBAAS-710,Task,New,DBAAS,Database as a Service,software,,16/06/2022 10:19,
+DBAAS-709,Task,New,DBAAS,Database as a Service,software,,16/06/2022 07:31,
+DBAAS-708,Task,New,DBAAS,Database as a Service,software,,16/06/2022 07:30,
+DBAAS-707,Task,New,DBAAS,Database as a Service,software,,16/06/2022 07:29,
+DBAAS-706,Task,New,DBAAS,Database as a Service,software,,16/06/2022 07:27,
+DBAAS-705,Task,New,DBAAS,Database as a Service,software,,16/06/2022 07:26,
+DBAAS-704,Task,New,DBAAS,Database as a Service,software,,16/06/2022 07:26,
+DBAAS-703,Task,New,DBAAS,Database as a Service,software,,16/06/2022 07:24,
+DBAAS-702,Task,New,DBAAS,Database as a Service,software,,16/06/2022 07:24,
+DBAAS-701,Task,New,DBAAS,Database as a Service,software,,16/06/2022 07:22,
+DBAAS-700,Task,New,DBAAS,Database as a Service,software,,16/06/2022 07:19,
+DBAAS-699,Task,New,DBAAS,Database as a Service,software,,16/06/2022 07:19,
+DBAAS-698,Task,New,DBAAS,Database as a Service,software,,16/06/2022 07:17,
+DBAAS-697,Task,Resolved,DBAAS,Database as a Service,software,Done,16/06/2022 07:14,28/07/2022 10:50
+DBAAS-696,Task,Resolved,DBAAS,Database as a Service,software,Done,16/06/2022 07:13,28/07/2022 10:50
+DBAAS-695,Task,Resolved,DBAAS,Database as a Service,software,Done,16/06/2022 07:13,11/08/2022 09:46
+DBAAS-694,Task,New,DBAAS,Database as a Service,software,,16/06/2022 07:11,
+DBAAS-693,Task,Resolved,DBAAS,Database as a Service,software,Done,16/06/2022 07:08,30/06/2022 10:36
+DBAAS-692,Task,New,DBAAS,Database as a Service,software,,16/06/2022 07:06,
+DBAAS-691,Task,New,DBAAS,Database as a Service,software,,16/06/2022 07:06,
+DBAAS-690,Task,New,DBAAS,Database as a Service,software,,16/06/2022 07:05,
+DBAAS-689,Task,Resolved,DBAAS,Database as a Service,software,Done,16/06/2022 07:03,21/07/2022 10:00
+DBAAS-688,Task,Resolved,DBAAS,Database as a Service,software,Done,16/06/2022 07:03,21/07/2022 09:59
+DBAAS-687,Task,Resolved,DBAAS,Database as a Service,software,Done,16/06/2022 07:02,14/07/2022 10:25
+DBAAS-686,Task,New,DBAAS,Database as a Service,software,,16/06/2022 06:59,
+DBAAS-685,Task,New,DBAAS,Database as a Service,software,,16/06/2022 06:58,
+DBAAS-684,Task,New,DBAAS,Database as a Service,software,,16/06/2022 06:57,
+DBAAS-683,Task,Closed,DBAAS,Database as a Service,software,Done,16/06/2022 06:46,30/06/2022 09:34
+DBAAS-682,Task,Closed,DBAAS,Database as a Service,software,Done,16/06/2022 06:45,30/06/2022 09:34
+DBAAS-681,Task,Closed,DBAAS,Database as a Service,software,Done,16/06/2022 06:36,30/06/2022 09:33
+DBAAS-680,Task,Closed,DBAAS,Database as a Service,software,Done,16/06/2022 06:35,30/06/2022 09:34
+DBAAS-679,Task,Closed,DBAAS,Database as a Service,software,Done,16/06/2022 06:34,30/06/2022 09:35
+DBAAS-678,Task,Closed,DBAAS,Database as a Service,software,Done,16/06/2022 06:33,30/06/2022 09:35
+DBAAS-677,Task,New,DBAAS,Database as a Service,software,,16/06/2022 06:07,
+DBAAS-676,Task,Resolved,DBAAS,Database as a Service,software,Done,16/06/2022 06:06,25/08/2022 09:40
+DBAAS-675,Task,Resolved,DBAAS,Database as a Service,software,Done,16/06/2022 06:05,11/08/2022 09:48
+DBAAS-674,Task,Resolved,DBAAS,Database as a Service,software,Done,16/06/2022 06:05,11/08/2022 09:48
+DBAAS-673,Task,Resolved,DBAAS,Database as a Service,software,Done,16/06/2022 06:04,22/08/2022 09:39
+DBAAS-672,Task,Resolved,DBAAS,Database as a Service,software,Done,16/06/2022 06:03,11/08/2022 09:45
+DBAAS-670,Spike,Resolved,DBAAS,Database as a Service,software,Done,15/06/2022 11:46,06/07/2022 10:11
+DBAAS-659,Spike,Closed,DBAAS,Database as a Service,software,Done,07/06/2022 14:32,18/04/2023 13:09
+DBAAS-658,Spike,Resolved,DBAAS,Database as a Service,software,Done,07/06/2022 14:31,18/04/2023 13:08
+DBAAS-652,Initiative,New,DBAAS,Database as a Service,software,,02/06/2022 16:25,
+DBAAS-651,Initiative,New,DBAAS,Database as a Service,software,,02/06/2022 15:50,
+DBAAS-650,Task,Resolved,DBAAS,Database as a Service,software,Done,02/06/2022 08:05,14/07/2022 10:30
+DBAAS-645,Initiative,Backlog,DBAAS,Database as a Service,software,,02/06/2022 05:58,
+DBAAS-644,Initiative,Closed,DBAAS,Database as a Service,software,Done,01/06/2022 18:03,01/06/2022 18:08
+DBAAS-643,Initiative,Backlog,DBAAS,Database as a Service,software,,01/06/2022 17:55,
+DBAAS-642,Initiative,Closed,DBAAS,Database as a Service,software,Won't Do,01/06/2022 17:55,30/08/2022 14:37
+DBAAS-641,Initiative,New,DBAAS,Database as a Service,software,,01/06/2022 17:55,
+DBAAS-640,Initiative,New,DBAAS,Database as a Service,software,,01/06/2022 17:54,
+DBAAS-639,Initiative,New,DBAAS,Database as a Service,software,,01/06/2022 17:53,
+DBAAS-638,Initiative,New,DBAAS,Database as a Service,software,,01/06/2022 17:53,
+DBAAS-637,Initiative,New,DBAAS,Database as a Service,software,,01/06/2022 17:52,
+DBAAS-636,Initiative,Closed,DBAAS,Database as a Service,software,Done,01/06/2022 17:52,17/10/2022 16:59
+DBAAS-635,Initiative,Backlog,DBAAS,Database as a Service,software,,01/06/2022 17:51,
+DBAAS-634,Initiative,Backlog,DBAAS,Database as a Service,software,,01/06/2022 17:48,
+DBAAS-630,Story,New,DBAAS,Database as a Service,software,,01/06/2022 17:38,
+DBAAS-628,Initiative,Backlog,DBAAS,Database as a Service,software,,01/06/2022 17:34,
+DBAAS-627,Task,Resolved,DBAAS,Database as a Service,software,Done,01/06/2022 12:23,16/06/2022 10:27
+DBAAS-626,Task,Resolved,DBAAS,Database as a Service,software,Done,01/06/2022 12:19,16/06/2022 10:03
+DBAAS-625,Task,Resolved,DBAAS,Database as a Service,software,Done,01/06/2022 12:10,15/06/2022 10:48
+DBAAS-624,Task,Resolved,DBAAS,Database as a Service,software,Done,01/06/2022 12:08,15/06/2022 04:47
+DBAAS-623,Task,Resolved,DBAAS,Database as a Service,software,Done,01/06/2022 11:39,15/06/2022 10:48
+DBAAS-622,Task,Resolved,DBAAS,Database as a Service,software,Done,01/06/2022 10:56,16/06/2022 10:03
+DBAAS-620,Spike,Resolved,DBAAS,Database as a Service,software,Done,01/06/2022 09:58,27/06/2022 14:55
+DBAAS-618,Bug,Closed,DBAAS,Database as a Service,software,Done,31/05/2022 19:11,01/06/2022 14:37
+DBAAS-617,Bug,Closed,DBAAS,Database as a Service,software,Won't Do,31/05/2022 16:36,01/06/2022 15:59
+DBAAS-616,Bug,Closed,DBAAS,Database as a Service,software,Done,31/05/2022 14:41,31/05/2022 18:17
+DBAAS-615,Bug,Closed,DBAAS,Database as a Service,software,Done,31/05/2022 11:06,01/06/2022 04:56
+DBAAS-614,Bug,Closed,DBAAS,Database as a Service,software,Done,31/05/2022 06:10,13/07/2022 15:11
+DBAAS-613,Bug,Closed,DBAAS,Database as a Service,software,Won't Do,31/05/2022 06:00,31/05/2022 16:16
+DBAAS-612,Bug,Closed,DBAAS,Database as a Service,software,Done,30/05/2022 14:30,31/05/2022 18:00
+DBAAS-611,Bug,Closed,DBAAS,Database as a Service,software,Done,30/05/2022 10:14,01/06/2022 09:44
+DBAAS-609,Bug,Closed,DBAAS,Database as a Service,software,Done,29/05/2022 11:48,31/05/2022 15:57
+DBAAS-604,Story,Refinement,DBAAS,Database as a Service,software,,26/05/2022 17:41,
+DBAAS-601,Bug,Closed,DBAAS,Database as a Service,software,Done,26/05/2022 16:51,18/04/2023 13:43
+DBAAS-600,Bug,Closed,DBAAS,Database as a Service,software,Done,26/05/2022 14:57,27/05/2022 20:23
+DBAAS-599,Bug,Closed,DBAAS,Database as a Service,software,Done,26/05/2022 11:34,31/05/2022 18:23
+DBAAS-598,Bug,Closed,DBAAS,Database as a Service,software,Done,26/05/2022 04:16,31/05/2022 16:51
+DBAAS-597,Bug,Closed,DBAAS,Database as a Service,software,Done,26/05/2022 03:57,30/05/2022 10:19
+DBAAS-593,Initiative,Backlog,DBAAS,Database as a Service,software,,25/05/2022 18:09,
+DBAAS-592,Bug,Closed,DBAAS,Database as a Service,software,Done,25/05/2022 15:26,26/05/2022 03:21
+DBAAS-591,Initiative,Waiting,DBAAS,Database as a Service,software,,25/05/2022 14:57,
+DBAAS-584,Release tracker,Closed,DBAAS,Database as a Service,software,Done,25/05/2022 13:55,26/10/2022 15:54
+DBAAS-583,Story,Closed,DBAAS,Database as a Service,software,Done,25/05/2022 13:28,18/04/2023 13:08
+DBAAS-582,Spike,Resolved,DBAAS,Database as a Service,software,Won't Do,25/05/2022 13:21,25/05/2022 13:24
+DBAAS-580,Initiative,Closed,DBAAS,Database as a Service,software,Done,25/05/2022 12:52,28/07/2022 15:11
+DBAAS-579,Initiative,Closed,DBAAS,Database as a Service,software,Done,25/05/2022 12:47,28/07/2022 15:07
+DBAAS-578,Initiative,Closed,DBAAS,Database as a Service,software,Done,25/05/2022 12:44,28/07/2022 15:08
+DBAAS-577,Release tracker,Closed,DBAAS,Database as a Service,software,Done,25/05/2022 12:42,11/08/2022 14:00
+DBAAS-576,Bug,Closed,DBAAS,Database as a Service,software,Done,25/05/2022 09:18,29/09/2022 15:42
+DBAAS-575,Bug,Closed,DBAAS,Database as a Service,software,Done,24/05/2022 10:30,01/06/2022 09:46
+DBAAS-574,Bug,Closed,DBAAS,Database as a Service,software,Won't Do,23/05/2022 16:17,24/05/2022 19:56
+DBAAS-565,Bug,Closed,DBAAS,Database as a Service,software,Done,23/05/2022 14:49,29/09/2022 15:44
+DBAAS-563,Bug,Closed,DBAAS,Database as a Service,software,Done,23/05/2022 13:06,29/05/2022 11:52
+DBAAS-560,Bug,Closed,DBAAS,Database as a Service,software,Done,23/05/2022 10:27,13/07/2022 15:03
+DBAAS-559,Bug,Closed,DBAAS,Database as a Service,software,Cannot Reproduce,23/05/2022 05:23,15/09/2022 15:34
+DBAAS-558,Story,Resolved,DBAAS,Database as a Service,software,Done,19/05/2022 17:40,19/05/2022 17:43
+DBAAS-557,Bug,Closed,DBAAS,Database as a Service,software,Won't Do,19/05/2022 15:56,25/05/2022 15:41
+DBAAS-556,Release tracker,In Progress,DBAAS,Database as a Service,software,,19/05/2022 14:28,
+DBAAS-555,Bug,Resolved,DBAAS,Database as a Service,software,Done,19/05/2022 14:22,19/05/2022 14:25
+DBAAS-554,Story,Resolved,DBAAS,Database as a Service,software,Done,19/05/2022 14:07,19/05/2022 14:17
+DBAAS-553,Task,Closed,DBAAS,Database as a Service,software,Done,19/05/2022 13:50,19/05/2022 13:57
+DBAAS-552,Initiative,Closed,DBAAS,Database as a Service,software,Done,19/05/2022 12:56,19/05/2022 13:49
+DBAAS-551,Task,New,DBAAS,Database as a Service,software,,19/05/2022 10:48,
+DBAAS-549,Task,Resolved,DBAAS,Database as a Service,software,Done,18/05/2022 09:32,01/06/2022 10:59
+DBAAS-548,Task,Resolved,DBAAS,Database as a Service,software,Done,18/05/2022 09:31,16/06/2022 10:03
+DBAAS-547,Task,Resolved,DBAAS,Database as a Service,software,Done,18/05/2022 09:27,01/06/2022 10:51
+DBAAS-546,Task,Resolved,DBAAS,Database as a Service,software,Done,18/05/2022 08:54,30/05/2022 11:08
+DBAAS-545,Task,Closed,DBAAS,Database as a Service,software,Done,18/05/2022 08:51,19/05/2022 16:51
+DBAAS-544,Task,Resolved,DBAAS,Database as a Service,software,Done,18/05/2022 08:20,16/06/2022 01:39
+DBAAS-543,Task,Resolved,DBAAS,Database as a Service,software,Done,18/05/2022 08:15,01/06/2022 10:50
+DBAAS-542,Task,Resolved,DBAAS,Database as a Service,software,Done,17/05/2022 16:06,29/07/2022 19:13
+DBAAS-540,Task,Closed,DBAAS,Database as a Service,software,Done,12/05/2022 20:38,01/06/2022 17:07
+DBAAS-531,Story,Release Pending,DBAAS,Database as a Service,software,Done,11/05/2022 19:01,13/07/2022 16:46
+DBAAS-530,Task,Closed,DBAAS,Database as a Service,software,Done,10/05/2022 20:17,01/06/2022 17:07
+DBAAS-529,Task,Closed,DBAAS,Database as a Service,software,Done,10/05/2022 20:16,01/06/2022 17:07
+DBAAS-528,Task,Closed,DBAAS,Database as a Service,software,Done,10/05/2022 20:14,01/06/2022 17:06
+DBAAS-527,Task,Closed,DBAAS,Database as a Service,software,Done,10/05/2022 20:11,01/06/2022 17:06
+DBAAS-520,Task,Closed,DBAAS,Database as a Service,software,Done,04/05/2022 11:38,18/05/2022 08:58
+DBAAS-519,Task,In Progress,DBAAS,Database as a Service,software,,04/05/2022 10:53,
+DBAAS-518,Task,Resolved,DBAAS,Database as a Service,software,Done,04/05/2022 10:36,01/06/2022 10:59
+DBAAS-517,Task,Resolved,DBAAS,Database as a Service,software,Done,04/05/2022 09:47,31/05/2022 09:41
+DBAAS-516,Task,Resolved,DBAAS,Database as a Service,software,Done,04/05/2022 08:13,01/06/2022 09:58
+DBAAS-515,Task,New,DBAAS,Database as a Service,software,,04/05/2022 08:10,
+DBAAS-514,Task,Resolved,DBAAS,Database as a Service,software,Done,04/05/2022 05:50,01/06/2022 10:57
+DBAAS-513,Task,Resolved,DBAAS,Database as a Service,software,Done,04/05/2022 05:46,15/06/2022 04:46
+DBAAS-512,Task,Closed,DBAAS,Database as a Service,software,Done,04/05/2022 05:37,18/05/2022 08:55
+DBAAS-511,Task,Closed,DBAAS,Database as a Service,software,Done,04/05/2022 05:30,18/05/2022 08:55
+DBAAS-510,Task,Closed,DBAAS,Database as a Service,software,Done,02/05/2022 20:27,25/08/2022 13:48
+DBAAS-504,Story,Closed,DBAAS,Database as a Service,software,Done,19/04/2022 17:30,30/08/2022 14:24
+DBAAS-503,Task,Closed,DBAAS,Database as a Service,software,Done,19/04/2022 10:07,26/04/2022 10:40
+DBAAS-502,Task,New,DBAAS,Database as a Service,software,,19/04/2022 09:42,
+DBAAS-501,Task,Closed,DBAAS,Database as a Service,software,Done,19/04/2022 09:19,04/05/2022 09:43
+DBAAS-500,Task,Closed,DBAAS,Database as a Service,software,Done,19/04/2022 09:10,18/05/2022 08:38
+DBAAS-499,Task,Closed,DBAAS,Database as a Service,software,Done,19/04/2022 09:03,04/05/2022 08:38
+DBAAS-498,Task,Resolved,DBAAS,Database as a Service,software,Won't Do,19/04/2022 08:55,16/06/2022 06:16
+DBAAS-497,Task,Resolved,DBAAS,Database as a Service,software,Duplicate,19/04/2022 08:50,16/06/2022 06:21
+DBAAS-494,Task,Closed,DBAAS,Database as a Service,software,Done,14/04/2022 17:47,01/06/2022 17:06
+DBAAS-493,Task,Closed,DBAAS,Database as a Service,software,Done,14/04/2022 17:45,01/06/2022 17:06
+DBAAS-492,Task,Closed,DBAAS,Database as a Service,software,Done,14/04/2022 17:41,01/06/2022 17:06
+DBAAS-491,Task,Closed,DBAAS,Database as a Service,software,Done,14/04/2022 16:45,04/05/2022 10:54
+DBAAS-486,Task,Resolved,DBAAS,Database as a Service,software,Won't Do,12/04/2022 14:55,11/08/2022 14:33
+DBAAS-485,Task,Resolved,DBAAS,Database as a Service,software,Won't Do,12/04/2022 14:54,11/08/2022 14:33
+DBAAS-484,Task,Resolved,DBAAS,Database as a Service,software,Won't Do,12/04/2022 14:53,11/08/2022 14:33
+DBAAS-483,Task,Resolved,DBAAS,Database as a Service,software,Won't Do,12/04/2022 14:53,11/08/2022 14:34
+DBAAS-479,Task,Closed,DBAAS,Database as a Service,software,Won't Do,07/04/2022 17:52,16/05/2022 12:53
+DBAAS-478,Task,New,DBAAS,Database as a Service,software,,05/04/2022 17:32,
+DBAAS-477,Task,New,DBAAS,Database as a Service,software,,05/04/2022 17:01,
+DBAAS-473,Task,Closed,DBAAS,Database as a Service,software,Done,05/04/2022 08:26,19/04/2022 08:53
+DBAAS-472,Task,Review,DBAAS,Database as a Service,software,,05/04/2022 08:16,
+DBAAS-471,Task,Closed,DBAAS,Database as a Service,software,Done,05/04/2022 08:14,19/04/2022 09:36
+DBAAS-470,Task,Closed,DBAAS,Database as a Service,software,Done,05/04/2022 07:10,19/04/2022 08:48
+DBAAS-469,Task,Closed,DBAAS,Database as a Service,software,Done,05/04/2022 07:03,19/04/2022 08:48
+DBAAS-460,Task,Closed,DBAAS,Database as a Service,software,Done,04/04/2022 16:11,19/04/2022 08:46
+DBAAS-459,Task,New,DBAAS,Database as a Service,software,,04/04/2022 16:03,
+DBAAS-456,Task,Resolved,DBAAS,Database as a Service,software,Done,01/04/2022 20:43,23/06/2023 19:17
+DBAAS-451,Task,New,DBAAS,Database as a Service,software,,01/04/2022 13:44,
+DBAAS-450,Task,Resolved,DBAAS,Database as a Service,software,Duplicate,01/04/2022 13:35,08/06/2022 20:58
+DBAAS-449,Task,New,DBAAS,Database as a Service,software,,31/03/2022 20:31,
+DBAAS-446,Story,Closed,DBAAS,Database as a Service,software,Duplicate,30/03/2022 19:59,18/08/2022 14:12
+DBAAS-441,Task,Closed,DBAAS,Database as a Service,software,Done,29/03/2022 13:51,05/04/2022 15:42
+DBAAS-439,Task,New,DBAAS,Database as a Service,software,,25/03/2022 14:20,
+DBAAS-438,Task,New,DBAAS,Database as a Service,software,,25/03/2022 14:17,
+DBAAS-437,Task,Resolved,DBAAS,Database as a Service,software,Done,24/03/2022 14:03,15/07/2022 20:51
+DBAAS-436,Task,New,DBAAS,Database as a Service,software,,23/03/2022 16:14,
+DBAAS-417,Story,Closed,DBAAS,Database as a Service,software,Done,23/03/2022 14:30,28/07/2022 15:08
+DBAAS-416,Story,Closed,DBAAS,Database as a Service,software,Done,23/03/2022 14:07,23/03/2022 14:08
+DBAAS-415,Task,Resolved,DBAAS,Database as a Service,software,Duplicate,23/03/2022 10:02,16/06/2022 06:18
+DBAAS-413,Story,Closed,DBAAS,Database as a Service,software,Done,18/03/2022 15:31,20/10/2022 14:33
+DBAAS-412,Task,Closed,DBAAS,Database as a Service,software,Done,17/03/2022 14:57,22/03/2022 17:12
+DBAAS-411,Bug,Closed,DBAAS,Database as a Service,software,Done,17/03/2022 08:37,17/03/2022 14:25
+DBAAS-410,Task,Resolved,DBAAS,Database as a Service,software,Done,16/03/2022 20:21,23/06/2023 19:17
+DBAAS-409,Task,Closed,DBAAS,Database as a Service,software,Done,16/03/2022 20:18,11/05/2022 19:02
+DBAAS-408,Bug,Resolved,DBAAS,Database as a Service,software,Won't Do,16/03/2022 16:45,15/02/2023 16:03
+DBAAS-407,Story,New,DBAAS,Database as a Service,software,,16/03/2022 08:14,
+DBAAS-406,Task,New,DBAAS,Database as a Service,software,,15/03/2022 13:46,
+DBAAS-405,Task,Closed,DBAAS,Database as a Service,software,Done,15/03/2022 13:36,07/09/2022 13:50
+DBAAS-404,Bug,Closed,DBAAS,Database as a Service,software,Done,15/03/2022 07:19,15/03/2022 16:25
+DBAAS-403,Bug,Closed,DBAAS,Database as a Service,software,Done,14/03/2022 20:46,17/03/2022 15:56
+DBAAS-401,Story,New,DBAAS,Database as a Service,software,,14/03/2022 17:56,
+DBAAS-400,Task,New,DBAAS,Database as a Service,software,,14/03/2022 13:59,
+DBAAS-397,Task,Closed,DBAAS,Database as a Service,software,Done,10/03/2022 18:46,06/05/2022 15:29
+DBAAS-395,Story,Refinement,DBAAS,Database as a Service,software,,10/03/2022 15:50,
+DBAAS-394,Task,Resolved,DBAAS,Database as a Service,software,Won't Do,09/03/2022 17:59,20/07/2022 15:13
+DBAAS-393,Task,Closed,DBAAS,Database as a Service,software,Done,09/03/2022 15:28,22/03/2022 12:06
+DBAAS-392,Task,New,DBAAS,Database as a Service,software,,08/03/2022 12:37,
+DBAAS-391,Task,New,DBAAS,Database as a Service,software,,08/03/2022 12:35,
+DBAAS-390,Task,Resolved,DBAAS,Database as a Service,software,Done,08/03/2022 12:28,14/07/2022 09:48
+DBAAS-388,Bug,Closed,DBAAS,Database as a Service,software,Done,07/03/2022 12:23,08/03/2022 07:16
+DBAAS-387,Spike,Closed,DBAAS,Database as a Service,software,Won't Do,04/03/2022 18:49,25/05/2022 13:39
+DBAAS-386,Task,Closed,DBAAS,Database as a Service,software,Done,03/03/2022 18:09,18/03/2022 18:22
+DBAAS-385,Bug,Closed,DBAAS,Database as a Service,software,Done,03/03/2022 16:32,07/03/2022 13:15
+DBAAS-384,Bug,Closed,DBAAS,Database as a Service,software,Done,03/03/2022 16:20,04/03/2022 15:06
+DBAAS-383,Bug,Closed,DBAAS,Database as a Service,software,Not a Bug,03/03/2022 09:42,04/03/2022 13:39
+DBAAS-382,Bug,New,DBAAS,Database as a Service,software,,02/03/2022 14:30,
+DBAAS-381,Task,In Progress,DBAAS,Database as a Service,software,,02/03/2022 09:22,
+DBAAS-380,Task,New,DBAAS,Database as a Service,software,,25/02/2022 21:26,
+DBAAS-379,Story,Closed,DBAAS,Database as a Service,software,Done,25/02/2022 17:29,22/03/2022 14:25
+DBAAS-377,Bug,New,DBAAS,Database as a Service,software,,24/02/2022 12:28,
+DBAAS-376,Bug,Closed,DBAAS,Database as a Service,software,Done,24/02/2022 12:11,04/03/2022 15:19
+DBAAS-375,Bug,New,DBAAS,Database as a Service,software,,24/02/2022 09:50,
+DBAAS-373,Bug,Closed,DBAAS,Database as a Service,software,Done,24/02/2022 06:00,25/02/2022 15:00
+DBAAS-372,Bug,Closed,DBAAS,Database as a Service,software,Done,24/02/2022 04:58,03/03/2022 16:10
+DBAAS-371,Bug,New,DBAAS,Database as a Service,software,,23/02/2022 14:42,
+DBAAS-370,Bug,New,DBAAS,Database as a Service,software,,23/02/2022 14:17,
+DBAAS-369,Bug,New,DBAAS,Database as a Service,software,,23/02/2022 13:09,
+DBAAS-368,Bug,New,DBAAS,Database as a Service,software,,23/02/2022 12:49,
+DBAAS-367,Bug,Closed,DBAAS,Database as a Service,software,Done,23/02/2022 07:39,25/02/2022 14:54
+DBAAS-366,Bug,Closed,DBAAS,Database as a Service,software,Done,23/02/2022 06:47,03/03/2022 15:56
+DBAAS-365,Task,Closed,DBAAS,Database as a Service,software,Done,22/02/2022 19:30,18/03/2022 18:20
+DBAAS-364,Story,Resolved,DBAAS,Database as a Service,software,Done,22/02/2022 19:25,20/02/2023 20:54
+DBAAS-362,Bug,Closed,DBAAS,Database as a Service,software,Done,22/02/2022 15:29,28/02/2022 16:30
+DBAAS-361,Bug,Closed,DBAAS,Database as a Service,software,Done,22/02/2022 10:06,13/07/2022 15:05
+DBAAS-360,Bug,New,DBAAS,Database as a Service,software,,22/02/2022 08:15,
+DBAAS-359,Bug,Closed,DBAAS,Database as a Service,software,Done,21/02/2022 14:05,03/03/2022 16:01
+DBAAS-358,Bug,New,DBAAS,Database as a Service,software,,21/02/2022 13:20,
+DBAAS-357,Bug,Closed,DBAAS,Database as a Service,software,Won't Do,21/02/2022 12:07,22/02/2022 17:33
+DBAAS-356,Bug,New,DBAAS,Database as a Service,software,,21/02/2022 11:03,
+DBAAS-355,Bug,Closed,DBAAS,Database as a Service,software,Won't Do,21/02/2022 10:33,22/02/2022 17:30
+DBAAS-354,Bug,Closed,DBAAS,Database as a Service,software,Done,21/02/2022 09:47,17/03/2022 15:54
+DBAAS-353,Bug,Closed,DBAAS,Database as a Service,software,Done,21/02/2022 08:27,22/02/2022 17:30
+DBAAS-352,Bug,Closed,DBAAS,Database as a Service,software,Done,21/02/2022 07:05,07/03/2022 15:02
+DBAAS-351,Bug,New,DBAAS,Database as a Service,software,,20/02/2022 10:19,
+DBAAS-350,Bug,New,DBAAS,Database as a Service,software,,17/02/2022 20:25,
+DBAAS-349,Bug,New,DBAAS,Database as a Service,software,,17/02/2022 18:49,
+DBAAS-348,Task,Closed,DBAAS,Database as a Service,software,Done,16/02/2022 06:25,01/03/2022 14:33
+DBAAS-347,Task,Closed,DBAAS,Database as a Service,software,Done,16/02/2022 06:07,04/05/2022 09:14
+DBAAS-334,Task,Closed,DBAAS,Database as a Service,software,Done,16/02/2022 05:33,04/04/2022 15:55
+DBAAS-332,Task,Resolved,DBAAS,Database as a Service,software,Won't Do,15/02/2022 14:03,10/08/2022 16:47
+DBAAS-331,Task,Resolved,DBAAS,Database as a Service,software,Done,15/02/2022 14:02,20/10/2022 15:37
+DBAAS-330,Task,Resolved,DBAAS,Database as a Service,software,Done,15/02/2022 14:02,20/10/2022 15:37
+DBAAS-329,Task,Resolved,DBAAS,Database as a Service,software,Won't Do,15/02/2022 14:01,10/08/2022 16:47
+DBAAS-328,Task,Resolved,DBAAS,Database as a Service,software,Won't Do,15/02/2022 14:01,10/08/2022 16:47
+DBAAS-327,Task,Resolved,DBAAS,Database as a Service,software,Done,15/02/2022 14:00,20/10/2022 15:36
+DBAAS-325,Task,Resolved,DBAAS,Database as a Service,software,Done,15/02/2022 13:59,10/08/2022 16:49
+DBAAS-324,Task,Resolved,DBAAS,Database as a Service,software,Done,15/02/2022 13:59,10/08/2022 16:48
+DBAAS-323,Task,Resolved,DBAAS,Database as a Service,software,Done,15/02/2022 13:58,10/08/2022 16:48
+DBAAS-322,Task,Closed,DBAAS,Database as a Service,software,Done,14/02/2022 20:47,22/02/2022 15:36
+DBAAS-321,Task,Closed,DBAAS,Database as a Service,software,Done,14/02/2022 20:44,22/02/2022 15:37
+DBAAS-320,Task,Closed,DBAAS,Database as a Service,software,Done,14/02/2022 20:43,17/02/2022 19:56
+DBAAS-319,Task,Closed,DBAAS,Database as a Service,software,Done,14/02/2022 20:41,16/02/2022 22:46
+DBAAS-318,Task,Closed,DBAAS,Database as a Service,software,Done,14/02/2022 20:38,21/02/2022 16:20
+DBAAS-317,Task,Closed,DBAAS,Database as a Service,software,Done,14/02/2022 20:36,21/02/2022 16:20
+DBAAS-315,Bug,New,DBAAS,Database as a Service,software,,13/02/2022 17:01,
+DBAAS-314,Bug,Resolved,DBAAS,Database as a Service,software,Done,13/02/2022 12:01,18/04/2023 13:46
+DBAAS-313,Bug,Closed,DBAAS,Database as a Service,software,Done,10/02/2022 17:49,25/05/2022 15:49
+DBAAS-312,Bug,Closed,DBAAS,Database as a Service,software,Done,10/02/2022 17:14,03/03/2022 15:42
+DBAAS-309,Task,Resolved,DBAAS,Database as a Service,software,Won't Do,10/02/2022 00:07,24/10/2022 14:42
+DBAAS-307,Task,New,DBAAS,Database as a Service,software,,09/02/2022 16:48,
+DBAAS-305,Story,Closed,DBAAS,Database as a Service,software,Done,08/02/2022 21:58,22/02/2022 19:12
+DBAAS-304,Story,Closed,DBAAS,Database as a Service,software,Done,08/02/2022 21:55,21/02/2022 19:38
+DBAAS-296,Task,Closed,DBAAS,Database as a Service,software,Done,08/02/2022 05:47,14/04/2022 16:42
+DBAAS-293,Story,Testing,DBAAS,Database as a Service,software,,07/02/2022 15:19,
+DBAAS-291,Task,Closed,DBAAS,Database as a Service,software,Done,04/02/2022 22:26,07/09/2022 13:48
+DBAAS-288,Bug,Closed,DBAAS,Database as a Service,software,Done,03/02/2022 18:08,21/03/2022 19:33
+DBAAS-287,Bug,Closed,DBAAS,Database as a Service,software,Done,03/02/2022 13:52,07/09/2022 13:52
+DBAAS-285,Task,Resolved,DBAAS,Database as a Service,software,Done,01/02/2022 15:52,18/04/2023 13:06
+DBAAS-284,Task,Closed,DBAAS,Database as a Service,software,Done,28/01/2022 17:52,27/04/2022 15:13
+DBAAS-283,Task,Closed,DBAAS,Database as a Service,software,Done,28/01/2022 17:51,08/03/2022 15:00
+DBAAS-282,Task,Closed,DBAAS,Database as a Service,software,Done,28/01/2022 17:51,16/02/2022 18:08
+DBAAS-281,Task,Closed,DBAAS,Database as a Service,software,Done,28/01/2022 17:50,16/02/2022 18:07
+DBAAS-280,Task,Closed,DBAAS,Database as a Service,software,Done,28/01/2022 17:39,28/01/2022 17:46
+DBAAS-278,Bug,Closed,DBAAS,Database as a Service,software,Not a Bug,27/01/2022 16:14,16/02/2022 12:55
+DBAAS-277,Bug,Resolved,DBAAS,Database as a Service,software,Won't Do,27/01/2022 15:52,16/03/2023 19:08
+DBAAS-276,Story,Closed,DBAAS,Database as a Service,software,Done,27/01/2022 13:40,08/02/2022 15:16
+DBAAS-272,Bug,Closed,DBAAS,Database as a Service,software,Done,27/01/2022 13:33,23/03/2023 15:39
+DBAAS-271,Task,Closed,DBAAS,Database as a Service,software,Done,19/01/2022 21:01,22/02/2022 17:14
+DBAAS-269,Story,Closed,DBAAS,Database as a Service,software,Done,19/01/2022 15:48,16/02/2022 21:53
+DBAAS-268,Task,Closed,DBAAS,Database as a Service,software,Duplicate,19/01/2022 15:40,23/03/2022 15:27
+DBAAS-265,Task,Closed,DBAAS,Database as a Service,software,Done,18/01/2022 16:31,27/04/2022 15:07
+DBAAS-264,Task,Closed,DBAAS,Database as a Service,software,Done,18/01/2022 16:00,27/04/2022 15:07
+DBAAS-263,Task,Closed,DBAAS,Database as a Service,software,Done,18/01/2022 13:33,18/01/2022 23:27
+DBAAS-262,Task,Closed,DBAAS,Database as a Service,software,Done,18/01/2022 13:33,27/04/2022 15:06
+DBAAS-261,Task,Closed,DBAAS,Database as a Service,software,Done,18/01/2022 13:33,27/04/2022 15:06
+DBAAS-260,Story,In Progress,DBAAS,Database as a Service,software,,16/01/2022 13:03,
+DBAAS-259,Task,Closed,DBAAS,Database as a Service,software,Done,14/01/2022 19:42,18/01/2022 15:49
+DBAAS-257,Task,Closed,DBAAS,Database as a Service,software,Done,13/01/2022 17:55,22/02/2022 17:15
+DBAAS-256,Task,Closed,DBAAS,Database as a Service,software,Done,13/01/2022 15:14,27/04/2022 15:06
+DBAAS-255,Bug,Closed,DBAAS,Database as a Service,software,Done,13/01/2022 15:11,18/01/2022 20:45
+DBAAS-254,Task,Closed,DBAAS,Database as a Service,software,Done,13/01/2022 15:01,14/01/2022 19:49
+DBAAS-252,Task,Closed,DBAAS,Database as a Service,software,Done,13/01/2022 14:54,13/01/2022 15:51
+DBAAS-251,Task,New,DBAAS,Database as a Service,software,,12/01/2022 16:52,
+DBAAS-250,Story,Testing,DBAAS,Database as a Service,software,,12/01/2022 16:01,
+DBAAS-249,Task,Closed,DBAAS,Database as a Service,software,Done,12/01/2022 14:45,14/01/2022 19:32
+DBAAS-248,Task,Closed,DBAAS,Database as a Service,software,Done,12/01/2022 14:44,13/01/2022 14:55
+DBAAS-247,Task,Closed,DBAAS,Database as a Service,software,Done,12/01/2022 14:44,18/01/2022 13:34
+DBAAS-246,Task,Closed,DBAAS,Database as a Service,software,Done,12/01/2022 14:44,13/01/2022 14:56
+DBAAS-245,Task,Closed,DBAAS,Database as a Service,software,Done,12/01/2022 14:43,27/04/2022 15:06
+DBAAS-244,Task,Closed,DBAAS,Database as a Service,software,Done,12/01/2022 14:43,27/04/2022 15:06
+DBAAS-243,Task,Closed,DBAAS,Database as a Service,software,Done,12/01/2022 14:42,14/01/2022 19:53
+DBAAS-242,Task,Closed,DBAAS,Database as a Service,software,Done,10/01/2022 13:02,22/02/2022 15:16
+DBAAS-239,Story,New,DBAAS,Database as a Service,software,,06/01/2022 21:40,
+DBAAS-237,Task,Closed,DBAAS,Database as a Service,software,Done,05/01/2022 20:51,01/02/2022 20:03
+DBAAS-236,Task,Resolved,DBAAS,Database as a Service,software,Won't Do,04/01/2022 23:41,20/07/2022 15:13
+DBAAS-234,Task,Closed,DBAAS,Database as a Service,software,Done,22/12/2021 13:03,07/02/2022 19:00
+DBAAS-233,Task,Closed,DBAAS,Database as a Service,software,Done,22/12/2021 12:53,22/02/2022 17:14
+DBAAS-232,Task,Closed,DBAAS,Database as a Service,software,Done,22/12/2021 12:50,07/02/2022 19:06
+DBAAS-231,Task,Closed,DBAAS,Database as a Service,software,Done,21/12/2021 19:10,22/12/2021 23:49
+DBAAS-228,Task,Closed,DBAAS,Database as a Service,software,Done,16/12/2021 20:37,27/04/2022 15:06
+DBAAS-226,Task,Closed,DBAAS,Database as a Service,software,Done,16/12/2021 17:33,27/04/2022 15:06
+DBAAS-225,Task,Closed,DBAAS,Database as a Service,software,Done,16/12/2021 17:33,27/04/2022 15:06
+DBAAS-224,Task,Closed,DBAAS,Database as a Service,software,Done,16/12/2021 17:32,27/04/2022 15:06
+DBAAS-223,Task,Closed,DBAAS,Database as a Service,software,Done,16/12/2021 17:32,27/04/2022 15:05
+DBAAS-222,Task,Closed,DBAAS,Database as a Service,software,Done,16/12/2021 17:32,27/04/2022 15:05
+DBAAS-221,Task,Closed,DBAAS,Database as a Service,software,Done,16/12/2021 17:32,27/04/2022 15:05
+DBAAS-220,Task,Closed,DBAAS,Database as a Service,software,Done,16/12/2021 17:29,21/12/2021 19:11
+DBAAS-219,Task,Closed,DBAAS,Database as a Service,software,Done,16/12/2021 17:29,13/01/2022 14:36
+DBAAS-218,Task,Closed,DBAAS,Database as a Service,software,Done,16/12/2021 17:28,12/01/2022 14:41
+DBAAS-215,Task,Closed,DBAAS,Database as a Service,software,Done,16/12/2021 01:43,14/02/2022 15:52
+DBAAS-201,Task,Closed,DBAAS,Database as a Service,software,Done,17/11/2021 22:26,07/02/2022 23:25
+DBAAS-197,Task,Closed,DBAAS,Database as a Service,software,Done,17/11/2021 15:32,22/02/2022 17:15
+DBAAS-196,Task,Closed,DBAAS,Database as a Service,software,Done,17/11/2021 15:31,04/02/2022 16:02
+DBAAS-187,Bug,Closed,DBAAS,Database as a Service,software,Done,03/11/2021 18:59,16/11/2021 17:56
+DBAAS-186,Bug,Closed,DBAAS,Database as a Service,software,Done,15/10/2021 20:21,19/10/2021 18:44
+DBAAS-171,Bug,Closed,DBAAS,Database as a Service,software,Done,04/10/2021 19:27,04/10/2021 20:15
+DBAAS-170,Task,Closed,DBAAS,Database as a Service,software,Done,04/10/2021 18:38,06/10/2021 22:08
+DBAAS-169,Task,Closed,DBAAS,Database as a Service,software,Done,01/10/2021 19:30,12/10/2021 13:49
+DBAAS-165,Task,Resolved,DBAAS,Database as a Service,software,Done,28/09/2021 19:39,10/08/2022 16:01
+DBAAS-160,Task,Closed,DBAAS,Database as a Service,software,Done,23/09/2021 20:11,28/09/2021 19:27
+DBAAS-159,Bug,Closed,DBAAS,Database as a Service,software,Done,23/09/2021 18:26,24/09/2021 14:53
+DBAAS-158,Task,Closed,DBAAS,Database as a Service,software,Done,22/09/2021 20:40,24/09/2021 14:03
+DBAAS-157,Task,Closed,DBAAS,Database as a Service,software,Done,22/09/2021 17:51,28/09/2021 19:27
+DBAAS-156,Bug,Closed,DBAAS,Database as a Service,software,Done,22/09/2021 17:38,17/11/2021 21:54
+DBAAS-154,Task,Closed,DBAAS,Database as a Service,software,Done,22/09/2021 01:40,17/11/2021 14:31
+DBAAS-153,Task,Closed,DBAAS,Database as a Service,software,Done,15/09/2021 20:21,23/09/2021 20:05
+DBAAS-149,Task,Closed,DBAAS,Database as a Service,software,Done,08/09/2021 21:07,14/09/2021 17:32
+DBAAS-148,Task,Closed,DBAAS,Database as a Service,software,Done,08/09/2021 18:14,08/09/2021 21:04
+DBAAS-144,Task,Closed,DBAAS,Database as a Service,software,Done,02/09/2021 16:33,19/10/2021 18:40
+DBAAS-143,Task,Closed,DBAAS,Database as a Service,software,Done,23/08/2021 19:32,31/08/2021 15:52
+DBAAS-139,Task,Closed,DBAAS,Database as a Service,software,Done,12/08/2021 17:00,23/08/2021 19:31
+DBAAS-138,Task,Closed,DBAAS,Database as a Service,software,Done,10/08/2021 19:08,12/08/2021 16:58
+DBAAS-137,Task,Closed,DBAAS,Database as a Service,software,Done,10/08/2021 14:27,17/08/2021 21:10
+DBAAS-135,Task,Closed,DBAAS,Database as a Service,software,Done,02/08/2021 14:48,10/08/2021 13:36
+DBAAS-134,Task,Closed,DBAAS,Database as a Service,software,Done,29/07/2021 16:42,17/11/2021 14:30
+DBAAS-133,Task,Closed,DBAAS,Database as a Service,software,Done,28/07/2021 17:52,29/09/2021 21:45
+DBAAS-132,Task,Closed,DBAAS,Database as a Service,software,Obsolete,28/07/2021 17:50,17/11/2021 14:36
+DBAAS-131,Task,Closed,DBAAS,Database as a Service,software,Done,26/07/2021 12:57,03/08/2021 11:03
+DBAAS-130,Task,Closed,DBAAS,Database as a Service,software,Done,26/07/2021 12:56,03/08/2021 11:00
+DBAAS-129,Task,Closed,DBAAS,Database as a Service,software,Done,23/07/2021 16:41,02/08/2021 18:55
+DBAAS-128,Task,Closed,DBAAS,Database as a Service,software,Done,21/07/2021 20:09,29/07/2021 15:10
+DBAAS-127,Bug,Closed,DBAAS,Database as a Service,software,Done,19/07/2021 20:49,23/07/2021 21:34
+DBAAS-126,Task,Closed,DBAAS,Database as a Service,software,Done,17/07/2021 17:29,29/09/2021 21:45
+DBAAS-125,Task,Closed,DBAAS,Database as a Service,software,Done,16/07/2021 20:16,05/08/2021 15:12
+DBAAS-124,Task,Closed,DBAAS,Database as a Service,software,Done,16/07/2021 20:14,27/07/2021 14:40
+DBAAS-123,Task,Closed,DBAAS,Database as a Service,software,Done,16/07/2021 20:07,05/08/2021 15:12
+DBAAS-122,Task,Closed,DBAAS,Database as a Service,software,Done,16/07/2021 20:00,10/08/2021 19:00
+DBAAS-121,Task,Closed,DBAAS,Database as a Service,software,Done,16/07/2021 19:54,23/07/2021 16:48
+DBAAS-120,Task,Closed,DBAAS,Database as a Service,software,Done,16/07/2021 19:53,21/07/2021 21:11
+DBAAS-119,Task,Closed,DBAAS,Database as a Service,software,Done,16/07/2021 14:29,20/07/2021 00:50
+DBAAS-118,Task,Closed,DBAAS,Database as a Service,software,Done,15/07/2021 22:53,17/11/2021 14:37
+DBAAS-117,Task,Closed,DBAAS,Database as a Service,software,Done,14/07/2021 15:53,15/07/2021 12:39
+DBAAS-116,Task,Closed,DBAAS,Database as a Service,software,Done,14/07/2021 15:47,20/07/2021 21:25
+DBAAS-115,Task,Closed,DBAAS,Database as a Service,software,Done,14/07/2021 13:04,15/07/2021 15:43
+DBAAS-114,Task,Closed,DBAAS,Database as a Service,software,Done,09/07/2021 20:14,17/11/2021 14:36
+DBAAS-113,Task,Closed,DBAAS,Database as a Service,software,Done,09/07/2021 14:16,17/11/2021 14:30
+DBAAS-112,Task,Closed,DBAAS,Database as a Service,software,Done,09/07/2021 14:02,14/07/2021 15:37
+DBAAS-111,Task,Closed,DBAAS,Database as a Service,software,Done,09/07/2021 14:00,14/07/2021 15:33
+DBAAS-110,Task,Closed,DBAAS,Database as a Service,software,Done,09/07/2021 13:50,10/08/2021 19:00
+DBAAS-108,Task,Closed,DBAAS,Database as a Service,software,Done,08/07/2021 15:20,02/08/2021 19:08
+DBAAS-107,Task,Closed,DBAAS,Database as a Service,software,Done,07/07/2021 20:15,21/07/2021 20:06
+DBAAS-105,Task,Closed,DBAAS,Database as a Service,software,Done,07/07/2021 18:03,14/07/2021 15:38
+DBAAS-104,Task,Closed,DBAAS,Database as a Service,software,Done,07/07/2021 18:01,29/07/2021 15:10
+DBAAS-102,Task,Closed,DBAAS,Database as a Service,software,Done,06/07/2021 21:40,17/11/2021 14:38
+DBAAS-101,Task,Closed,DBAAS,Database as a Service,software,Done,06/07/2021 21:38,17/11/2021 14:38
+DBAAS-99,Task,Closed,DBAAS,Database as a Service,software,Done,06/07/2021 21:30,13/07/2021 13:52
+DBAAS-98,Task,Closed,DBAAS,Database as a Service,software,Obsolete,06/07/2021 21:22,17/11/2021 14:34
+DBAAS-96,Task,Closed,DBAAS,Database as a Service,software,Done,06/07/2021 21:12,15/07/2021 12:40
+DBAAS-95,Task,Closed,DBAAS,Database as a Service,software,Done,06/07/2021 17:59,13/07/2021 13:52
+DBAAS-94,Task,Closed,DBAAS,Database as a Service,software,Done,06/07/2021 17:55,24/09/2021 15:06
+DBAAS-88,Task,Closed,DBAAS,Database as a Service,software,Done,06/07/2021 16:37,17/11/2021 14:30
+DBAAS-85,Task,Closed,DBAAS,Database as a Service,software,Obsolete,06/07/2021 16:18,17/11/2021 14:49
+DBAAS-84,Task,Closed,DBAAS,Database as a Service,software,Done,06/07/2021 16:17,17/11/2021 15:03
+DBAAS-82,Task,Closed,DBAAS,Database as a Service,software,Done,06/07/2021 15:39,26/07/2021 13:13
+DBAAS-81,Task,Closed,DBAAS,Database as a Service,software,Done,06/07/2021 15:38,13/07/2021 21:40
+DBAAS-80,Task,Closed,DBAAS,Database as a Service,software,Done,06/07/2021 15:22,17/11/2021 14:29
+DBAAS-79,Task,Closed,DBAAS,Database as a Service,software,Done,05/07/2021 18:15,08/07/2021 17:43
+DBAAS-76,Story,Closed,DBAAS,Database as a Service,software,Done,02/07/2021 06:02,15/09/2021 22:16
+DBAAS-75,Task,Closed,DBAAS,Database as a Service,software,Done,01/07/2021 14:26,17/08/2021 20:52
+DBAAS-74,Task,Closed,DBAAS,Database as a Service,software,Done,29/06/2021 16:12,13/07/2021 20:13
+DBAAS-73,Task,Closed,DBAAS,Database as a Service,software,Done,22/06/2021 19:06,09/09/2021 18:35
+DBAAS-72,Task,Closed,DBAAS,Database as a Service,software,Done,22/06/2021 14:37,17/11/2021 14:34
+DBAAS-71,Task,Closed,DBAAS,Database as a Service,software,Done,21/06/2021 13:50,06/07/2021 19:20
+DBAAS-70,Task,Closed,DBAAS,Database as a Service,software,Done,21/06/2021 01:13,24/08/2021 14:50
+DBAAS-69,Task,Closed,DBAAS,Database as a Service,software,Done,21/06/2021 01:11,30/07/2021 14:07
+DBAAS-68,Story,Closed,DBAAS,Database as a Service,software,Obsolete,16/06/2021 21:39,17/11/2021 14:37
+DBAAS-67,Task,Closed,DBAAS,Database as a Service,software,Done,16/06/2021 18:05,29/06/2021 16:10
+DBAAS-66,Task,Closed,DBAAS,Database as a Service,software,Done,15/06/2021 19:24,21/06/2021 14:12
+DBAAS-63,Task,Closed,DBAAS,Database as a Service,software,Done,07/06/2021 14:36,24/09/2021 15:05
+DBAAS-62,Task,Closed,DBAAS,Database as a Service,software,Done,07/06/2021 14:18,15/06/2021 19:25
+DBAAS-61,Task,Closed,DBAAS,Database as a Service,software,Done,01/06/2021 18:39,17/11/2021 14:29
+DBAAS-60,Task,Closed,DBAAS,Database as a Service,software,Done,28/05/2021 09:01,06/07/2021 19:13
+DBAAS-59,Task,Closed,DBAAS,Database as a Service,software,Done,28/05/2021 00:26,06/07/2021 19:18
+DBAAS-58,Task,Closed,DBAAS,Database as a Service,software,Done,28/05/2021 00:19,05/07/2021 18:03
+DBAAS-55,Task,Closed,DBAAS,Database as a Service,software,Done,18/05/2021 16:17,06/07/2021 17:25
+DBAAS-53,Task,Closed,DBAAS,Database as a Service,software,Done,13/05/2021 17:45,19/05/2021 18:01
+DBAAS-52,Task,Closed,DBAAS,Database as a Service,software,Done,13/05/2021 17:43,26/05/2021 17:12
+DBAAS-51,Task,Closed,DBAAS,Database as a Service,software,Done,13/05/2021 17:41,02/07/2021 05:44
+DBAAS-50,Task,Closed,DBAAS,Database as a Service,software,Done,13/05/2021 17:38,02/07/2021 05:39
+DBAAS-49,Task,Closed,DBAAS,Database as a Service,software,Done,13/05/2021 17:36,06/07/2021 16:22
+DBAAS-47,Task,Closed,DBAAS,Database as a Service,software,Done,13/05/2021 17:34,01/06/2021 13:48
+DBAAS-43,Task,Closed,DBAAS,Database as a Service,software,Done,13/05/2021 17:29,17/11/2021 15:04
+DBAAS-42,Task,Closed,DBAAS,Database as a Service,software,Done,13/05/2021 17:28,17/11/2021 21:47
+DBAAS-38,Task,Closed,DBAAS,Database as a Service,software,Done,05/05/2021 16:14,06/07/2021 16:59
+DBAAS-37,Task,Closed,DBAAS,Database as a Service,software,Done,05/05/2021 16:12,18/05/2021 17:46
+DBAAS-35,Task,Closed,DBAAS,Database as a Service,software,Done,05/05/2021 15:54,06/07/2021 16:23
+DBAAS-34,Task,Closed,DBAAS,Database as a Service,software,Done,04/05/2021 19:12,27/05/2021 17:04
+DBAAS-33,Task,Closed,DBAAS,Database as a Service,software,Done,03/05/2021 19:03,17/11/2021 14:28
+DBAAS-31,Task,Closed,DBAAS,Database as a Service,software,Done,01/05/2021 14:55,03/05/2021 00:39
+DBAAS-30,Task,Closed,DBAAS,Database as a Service,software,Done,01/05/2021 14:29,05/05/2021 15:53
+DBAAS-29,Task,Closed,DBAAS,Database as a Service,software,Done,01/05/2021 14:27,05/05/2021 15:53
+DBAAS-28,Task,Closed,DBAAS,Database as a Service,software,Done,01/05/2021 14:21,05/05/2021 15:53
+DBAAS-27,Task,Closed,DBAAS,Database as a Service,software,Done,01/05/2021 14:11,10/05/2021 14:17
+DBAAS-26,Task,Closed,DBAAS,Database as a Service,software,Done,01/05/2021 14:09,04/05/2021 16:43
+DBAAS-25,Task,Closed,DBAAS,Database as a Service,software,Done,01/05/2021 14:04,01/05/2021 14:05
+DBAAS-24,Task,Closed,DBAAS,Database as a Service,software,Done,01/05/2021 14:03,01/05/2021 14:05
+DBAAS-23,Task,Closed,DBAAS,Database as a Service,software,Done,29/04/2021 17:15,01/05/2021 14:01
+DBAAS-22,Task,Closed,DBAAS,Database as a Service,software,Done,29/04/2021 16:18,03/05/2021 00:42
+DBAAS-21,Task,Closed,DBAAS,Database as a Service,software,Done,29/04/2021 16:07,01/05/2021 14:19
+DBAAS-20,Story,Closed,DBAAS,Database as a Service,software,Done,29/04/2021 16:02,03/05/2021 00:44
+DBAAS-19,Task,Closed,DBAAS,Database as a Service,software,Done,29/04/2021 15:57,10/05/2021 14:18
+DBAAS-18,Story,Closed,DBAAS,Database as a Service,software,Done,29/04/2021 15:47,10/05/2021 14:17
+DBAAS-17,Story,Closed,DBAAS,Database as a Service,software,Done,29/04/2021 15:46,10/05/2021 14:17
+DBAAS-16,Task,Closed,DBAAS,Database as a Service,software,Done,29/04/2021 14:45,29/04/2021 14:46
+DBAAS-15,Task,Closed,DBAAS,Database as a Service,software,Done,26/04/2021 13:29,29/04/2021 17:12
+DBAAS-14,Task,Closed,DBAAS,Database as a Service,software,Done,23/04/2021 19:09,30/04/2021 18:57
+DBAAS-12,Task,Closed,DBAAS,Database as a Service,software,Done,23/04/2021 18:41,01/05/2021 14:01
+DBAAS-11,Task,Closed,DBAAS,Database as a Service,software,Done,23/04/2021 18:38,29/04/2021 16:56
+DBAAS-10,Task,Closed,DBAAS,Database as a Service,software,Done,23/04/2021 18:33,28/04/2021 20:00
+DBAAS-9,Task,Closed,DBAAS,Database as a Service,software,Done,23/04/2021 18:32,28/04/2021 20:00
+DBAAS-8,Task,Closed,DBAAS,Database as a Service,software,Done,23/04/2021 18:29,28/04/2021 20:05
+DBAAS-7,Task,Closed,DBAAS,Database as a Service,software,Done,23/04/2021 18:12,28/04/2021 20:05
+DBAAS-6,Story,Closed,DBAAS,Database as a Service,software,Done,23/04/2021 17:20,01/05/2021 14:01
+DBAAS-5,Task,Closed,DBAAS,Database as a Service,software,Done,23/04/2021 16:32,28/04/2021 20:00
+DBAAS-4,Task,Closed,DBAAS,Database as a Service,software,Done,23/04/2021 16:29,26/04/2021 13:28
+DBAAS-3,Task,Closed,DBAAS,Database as a Service,software,Done,23/04/2021 16:27,26/04/2021 13:28
+DBAAS-2,Story,Closed,DBAAS,Database as a Service,software,Done,23/04/2021 16:25,29/04/2021 17:15

@@ -1,0 +1,1483 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+OCPSTRAT-1788,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,12/11/2024 22:25,
+OCPSTRAT-1786,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,12/11/2024 13:23,
+OCPSTRAT-1785,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,12/11/2024 10:53,
+OCPSTRAT-1782,Outcome,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,11/11/2024 13:19,
+OCPSTRAT-1781,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,11/11/2024 08:54,
+OCPSTRAT-1780,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/11/2024 20:52,
+OCPSTRAT-1779,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/11/2024 20:49,
+OCPSTRAT-1778,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/11/2024 20:36,
+OCPSTRAT-1777,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/11/2024 17:38,
+OCPSTRAT-1776,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/11/2024 17:34,
+OCPSTRAT-1773,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/11/2024 07:09,
+OCPSTRAT-1772,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/11/2024 07:02,
+OCPSTRAT-1771,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/11/2024 06:56,
+OCPSTRAT-1770,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/11/2024 06:46,
+OCPSTRAT-1769,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/11/2024 06:40,
+OCPSTRAT-1768,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/11/2024 06:34,
+OCPSTRAT-1767,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/11/2024 06:25,
+OCPSTRAT-1766,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/11/2024 06:12,
+OCPSTRAT-1765,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/11/2024 06:01,
+OCPSTRAT-1764,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/11/2024 05:54,
+OCPSTRAT-1763,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/11/2024 05:44,
+OCPSTRAT-1762,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/11/2024 05:42,
+OCPSTRAT-1759,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/11/2024 16:18,
+OCPSTRAT-1758,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/11/2024 16:16,
+OCPSTRAT-1757,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/11/2024 16:15,
+OCPSTRAT-1756,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/11/2024 16:08,
+OCPSTRAT-1755,Outcome,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/11/2024 01:34,
+OCPSTRAT-1754,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/11/2024 17:35,
+OCPSTRAT-1753,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/11/2024 17:29,
+OCPSTRAT-1752,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,05/11/2024 15:37,05/11/2024 15:50
+OCPSTRAT-1751,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/11/2024 13:36,
+OCPSTRAT-1750,Outcome,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/11/2024 04:00,
+OCPSTRAT-1749,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/11/2024 18:57,
+OCPSTRAT-1745,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,01/11/2024 16:23,
+OCPSTRAT-1744,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,31/10/2024 18:41,
+OCPSTRAT-1743,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,31/10/2024 09:45,
+OCPSTRAT-1742,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,30/10/2024 18:21,
+OCPSTRAT-1741,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,30/10/2024 18:02,
+OCPSTRAT-1740,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,30/10/2024 17:57,
+OCPSTRAT-1739,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,30/10/2024 11:50,
+OCPSTRAT-1738,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,30/10/2024 11:35,
+OCPSTRAT-1737,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/10/2024 18:29,
+OCPSTRAT-1736,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/10/2024 13:47,
+OCPSTRAT-1735,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/10/2024 13:15,
+OCPSTRAT-1734,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/10/2024 16:56,
+OCPSTRAT-1733,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/10/2024 15:01,
+OCPSTRAT-1732,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/10/2024 13:53,
+OCPSTRAT-1730,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/10/2024 12:14,
+OCPSTRAT-1729,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/10/2024 09:23,
+OCPSTRAT-1728,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/10/2024 16:21,
+OCPSTRAT-1727,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,23/10/2024 16:53,
+OCPSTRAT-1726,Initiative,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,23/10/2024 14:19,
+OCPSTRAT-1725,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,21/10/2024 18:59,
+OCPSTRAT-1723,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,18/10/2024 14:10,
+OCPSTRAT-1722,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,18/10/2024 11:32,
+OCPSTRAT-1721,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,18/10/2024 11:31,
+OCPSTRAT-1720,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/10/2024 14:40,
+OCPSTRAT-1719,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/10/2024 12:59,
+OCPSTRAT-1718,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/10/2024 11:23,
+OCPSTRAT-1717,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/10/2024 14:00,
+OCPSTRAT-1715,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/10/2024 08:48,
+OCPSTRAT-1714,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,14/10/2024 18:55,
+OCPSTRAT-1713,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,14/10/2024 12:33,
+OCPSTRAT-1712,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,11/10/2024 19:40,
+OCPSTRAT-1711,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,11/10/2024 19:34,
+OCPSTRAT-1710,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,11/10/2024 15:33,
+OCPSTRAT-1709,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,11/10/2024 10:17,
+OCPSTRAT-1708,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,11/10/2024 09:47,
+OCPSTRAT-1707,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,11/10/2024 09:05,
+OCPSTRAT-1706,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,11/10/2024 08:58,
+OCPSTRAT-1705,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,10/10/2024 20:47,
+OCPSTRAT-1704,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,10/10/2024 15:59,
+OCPSTRAT-1703,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,10/10/2024 14:19,
+OCPSTRAT-1702,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,10/10/2024 10:14,
+OCPSTRAT-1701,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/09/2023 09:31,
+OCPSTRAT-1700,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,09/10/2024 09:10,
+OCPSTRAT-1699,Risk,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/10/2024 15:46,
+OCPSTRAT-1698,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,07/10/2024 12:48,
+OCPSTRAT-1697,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/10/2024 16:04,
+OCPSTRAT-1696,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/10/2024 15:08,
+OCPSTRAT-1695,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/10/2024 14:57,
+OCPSTRAT-1694,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/10/2024 08:35,
+OCPSTRAT-1693,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,02/10/2024 11:10,
+OCPSTRAT-1692,Outcome,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,01/10/2024 17:58,
+OCPSTRAT-1691,Outcome,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,01/10/2024 16:48,
+OCPSTRAT-1690,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,01/10/2024 15:35,
+OCPSTRAT-1689,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,01/10/2024 13:48,
+OCPSTRAT-1688,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,30/09/2024 14:45,
+OCPSTRAT-1687,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,27/09/2024 19:56,
+OCPSTRAT-1686,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,27/09/2024 11:00,
+OCPSTRAT-1684,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,26/09/2024 18:26,
+OCPSTRAT-1683,Outcome,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,26/09/2024 18:25,
+OCPSTRAT-1682,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,26/09/2024 18:21,
+OCPSTRAT-1681,Outcome,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,26/09/2024 18:18,
+OCPSTRAT-1680,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,26/09/2024 15:51,
+OCPSTRAT-1679,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/09/2024 20:16,
+OCPSTRAT-1677,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/09/2024 17:31,
+OCPSTRAT-1676,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/09/2024 16:15,
+OCPSTRAT-1675,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/09/2024 15:09,
+OCPSTRAT-1674,Outcome,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/09/2024 15:04,
+OCPSTRAT-1673,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,23/09/2024 16:25,
+OCPSTRAT-1672,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/09/2024 08:51,
+OCPSTRAT-1671,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/09/2024 08:34,
+OCPSTRAT-1670,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,19/09/2024 17:32,
+OCPSTRAT-1669,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,19/09/2024 17:29,
+OCPSTRAT-1668,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,19/09/2024 17:24,
+OCPSTRAT-1667,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,19/09/2024 16:56,
+OCPSTRAT-1666,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,19/09/2024 09:18,
+OCPSTRAT-1665,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,18/09/2024 08:30,
+OCPSTRAT-1664,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,18/09/2024 08:21,
+OCPSTRAT-1663,Initiative,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/09/2024 21:22,
+OCPSTRAT-1661,Initiative,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/09/2024 18:06,
+OCPSTRAT-1660,Initiative,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/09/2024 15:32,
+OCPSTRAT-1659,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/09/2024 09:23,
+OCPSTRAT-1658,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Can't Do,16/09/2024 08:45,16/09/2024 08:45
+OCPSTRAT-1657,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,13/09/2024 09:07,
+OCPSTRAT-1656,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,12/09/2024 20:08,
+OCPSTRAT-1655,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,12/09/2024 19:49,
+OCPSTRAT-1654,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,12/09/2024 14:58,
+OCPSTRAT-1653,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,12/09/2024 13:21,
+OCPSTRAT-1652,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,11/09/2024 20:31,
+OCPSTRAT-1651,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,10/09/2024 16:36,
+OCPSTRAT-1650,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,10/09/2024 09:03,
+OCPSTRAT-1649,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/09/2024 22:36,
+OCPSTRAT-1648,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/09/2024 21:42,
+OCPSTRAT-1647,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/09/2024 21:36,
+OCPSTRAT-1646,Outcome,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/09/2024 02:26,
+OCPSTRAT-1644,Outcome,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/09/2024 18:33,
+OCPSTRAT-1643,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/09/2024 14:58,
+OCPSTRAT-1642,Initiative,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/09/2024 12:18,
+OCPSTRAT-1641,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/09/2024 12:25,
+OCPSTRAT-1640,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,03/09/2024 16:14,02/10/2024 13:35
+OCPSTRAT-1639,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/09/2024 14:49,02/09/2024 14:54
+OCPSTRAT-1638,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,02/09/2024 08:23,
+OCPSTRAT-1637,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,30/08/2024 16:38,
+OCPSTRAT-1636,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,30/08/2024 15:50,
+OCPSTRAT-1635,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,30/08/2024 13:04,
+OCPSTRAT-1634,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,30/08/2024 12:34,30/08/2024 12:48
+OCPSTRAT-1633,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/06/2024 17:22,
+OCPSTRAT-1632,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/08/2024 21:25,
+OCPSTRAT-1631,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/08/2024 11:04,
+OCPSTRAT-1630,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/08/2024 11:02,06/11/2024 00:58
+OCPSTRAT-1629,Outcome,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,28/08/2024 15:15,
+OCPSTRAT-1628,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,28/08/2024 13:51,
+OCPSTRAT-1627,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,28/08/2024 10:20,
+OCPSTRAT-1626,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,28/08/2024 08:22,
+OCPSTRAT-1625,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,28/08/2024 08:17,
+OCPSTRAT-1624,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,27/08/2024 16:46,
+OCPSTRAT-1623,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,27/08/2024 14:47,15/10/2024 14:06
+OCPSTRAT-1622,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,27/08/2024 10:27,
+OCPSTRAT-1621,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,26/08/2024 20:22,
+OCPSTRAT-1620,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,26/08/2024 18:28,
+OCPSTRAT-1619,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,26/08/2024 09:56,26/08/2024 12:06
+OCPSTRAT-1618,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,26/08/2024 09:52,
+OCPSTRAT-1617,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,23/08/2024 10:59,29/08/2024 13:47
+OCPSTRAT-1616,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/08/2024 09:32,
+OCPSTRAT-1615,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,21/08/2024 19:54,
+OCPSTRAT-1614,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/08/2024 14:35,31/10/2024 18:39
+OCPSTRAT-1612,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/08/2024 15:21,
+OCPSTRAT-1611,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/08/2024 09:54,
+OCPSTRAT-1610,Initiative,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,19/08/2024 14:56,19/08/2024 18:48
+OCPSTRAT-1609,Initiative,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,19/08/2024 14:55,
+OCPSTRAT-1608,Initiative,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,19/08/2024 14:54,19/08/2024 18:48
+OCPSTRAT-1607,Initiative,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,19/08/2024 14:51,
+OCPSTRAT-1606,Initiative,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,19/08/2024 14:49,
+OCPSTRAT-1605,Initiative,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,19/08/2024 14:48,
+OCPSTRAT-1604,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,16/08/2024 17:14,22/10/2024 17:04
+OCPSTRAT-1603,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/08/2024 08:33,
+OCPSTRAT-1602,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/08/2024 08:03,
+OCPSTRAT-1601,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/08/2024 18:46,
+OCPSTRAT-1600,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/08/2024 16:22,
+OCPSTRAT-1599,Outcome,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/08/2024 14:35,
+OCPSTRAT-1598,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/08/2024 08:42,
+OCPSTRAT-1597,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,14/08/2024 22:23,25/09/2024 17:43
+OCPSTRAT-1596,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,14/08/2024 15:34,
+OCPSTRAT-1594,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,14/08/2024 07:06,
+OCPSTRAT-1593,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,13/08/2024 07:52,05/09/2024 14:16
+OCPSTRAT-1592,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,12/08/2024 19:26,
+OCPSTRAT-1591,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,12/08/2024 19:10,
+OCPSTRAT-1590,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,12/08/2024 16:01,
+OCPSTRAT-1589,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,09/08/2024 22:14,12/09/2024 20:24
+OCPSTRAT-1588,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,09/08/2024 16:14,
+OCPSTRAT-1587,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,09/08/2024 15:48,
+OCPSTRAT-1586,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,09/08/2024 13:19,
+OCPSTRAT-1585,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/08/2024 16:11,
+OCPSTRAT-1584,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/08/2024 16:08,
+OCPSTRAT-1583,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/08/2024 15:52,
+OCPSTRAT-1582,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/08/2024 08:14,
+OCPSTRAT-1581,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,07/08/2024 19:16,
+OCPSTRAT-1580,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,07/08/2024 18:25,
+OCPSTRAT-1579,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,07/08/2024 15:35,
+OCPSTRAT-1578,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,07/08/2024 12:59,
+OCPSTRAT-1577,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,07/08/2024 12:39,
+OCPSTRAT-1576,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,07/08/2024 10:30,
+OCPSTRAT-1575,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,07/08/2024 06:09,
+OCPSTRAT-1574,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/08/2024 16:14,
+OCPSTRAT-1573,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/08/2024 13:54,
+OCPSTRAT-1572,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/08/2024 10:34,
+OCPSTRAT-1571,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/08/2024 10:30,
+OCPSTRAT-1570,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/08/2024 10:18,
+OCPSTRAT-1569,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,05/08/2024 18:13,06/09/2024 15:15
+OCPSTRAT-1568,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,18/02/2024 07:39,25/10/2024 14:44
+OCPSTRAT-1567,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,18/02/2024 07:21,
+OCPSTRAT-1566,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,18/02/2024 07:04,
+OCPSTRAT-1565,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/01/2024 15:30,
+OCPSTRAT-1564,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,04/01/2024 15:32,12/09/2024 17:20
+OCPSTRAT-1563,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,08/01/2024 18:42,25/10/2024 14:43
+OCPSTRAT-1562,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,14/11/2023 13:42,
+OCPSTRAT-1561,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,04/12/2023 02:35,10/09/2024 13:24
+OCPSTRAT-1560,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/12/2023 02:36,
+OCPSTRAT-1559,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,02/08/2024 13:17,12/09/2024 23:40
+OCPSTRAT-1558,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,02/08/2024 13:01,
+OCPSTRAT-1557,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,02/08/2024 12:56,
+OCPSTRAT-1556,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,02/08/2024 12:30,
+OCPSTRAT-1555,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,01/08/2024 14:45,27/08/2024 20:09
+OCPSTRAT-1554,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,01/08/2024 12:55,
+OCPSTRAT-1552,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,01/08/2024 04:06,
+OCPSTRAT-1550,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,30/07/2024 22:58,
+OCPSTRAT-1549,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,30/07/2024 15:06,
+OCPSTRAT-1547,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,30/07/2024 10:07,
+OCPSTRAT-1546,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,30/07/2024 10:00,
+OCPSTRAT-1545,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,30/07/2024 09:55,
+OCPSTRAT-1544,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,30/07/2024 08:03,
+OCPSTRAT-1543,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/07/2024 13:48,
+OCPSTRAT-1542,Outcome,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/07/2024 13:44,
+OCPSTRAT-1541,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/07/2024 13:21,
+OCPSTRAT-1540,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,28/07/2024 20:28,
+OCPSTRAT-1539,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,11/09/2023 19:09,
+OCPSTRAT-1538,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/07/2024 19:33,
+OCPSTRAT-1537,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/07/2024 19:18,
+OCPSTRAT-1536,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/07/2024 18:58,
+OCPSTRAT-1535,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,04/01/2024 15:56,12/09/2024 18:00
+OCPSTRAT-1534,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/07/2024 18:40,22/10/2024 17:06
+OCPSTRAT-1533,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/07/2024 16:29,05/11/2024 09:52
+OCPSTRAT-1532,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/07/2024 13:54,
+OCPSTRAT-1531,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/07/2024 08:33,
+OCPSTRAT-1529,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/07/2024 22:57,
+OCPSTRAT-1527,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,19/07/2024 20:46,
+OCPSTRAT-1526,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,19/07/2024 20:33,09/08/2024 13:31
+OCPSTRAT-1525,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,01/08/2023 14:55,
+OCPSTRAT-1524,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/01/2024 19:05,
+OCPSTRAT-1523,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/07/2024 22:17,
+OCPSTRAT-1522,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/07/2024 20:41,
+OCPSTRAT-1521,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/07/2024 17:35,
+OCPSTRAT-1520,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/07/2024 15:16,
+OCPSTRAT-1519,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/07/2024 23:04,
+OCPSTRAT-1518,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/07/2024 17:13,
+OCPSTRAT-1517,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,15/07/2024 16:04,22/10/2024 17:05
+OCPSTRAT-1516,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/07/2024 16:27,
+OCPSTRAT-1515,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,12/07/2024 14:26,
+OCPSTRAT-1513,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,11/07/2024 13:31,30/09/2024 14:16
+OCPSTRAT-1512,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,10/07/2024 21:24,
+OCPSTRAT-1510,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/07/2024 19:43,19/07/2024 14:45
+OCPSTRAT-1509,Outcome,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,10/07/2024 12:32,
+OCPSTRAT-1507,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,09/07/2024 18:05,30/10/2024 17:32
+OCPSTRAT-1506,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,09/07/2024 14:05,
+OCPSTRAT-1504,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,09/07/2024 11:51,29/07/2024 12:59
+OCPSTRAT-1503,Initiative,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,08/07/2024 22:08,08/07/2024 22:10
+OCPSTRAT-1502,Outcome,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/07/2024 21:52,
+OCPSTRAT-1501,Outcome,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/07/2024 21:01,
+OCPSTRAT-1500,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/07/2024 19:22,
+OCPSTRAT-1499,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/07/2024 17:47,
+OCPSTRAT-1498,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/07/2024 15:20,
+OCPSTRAT-1497,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/07/2024 10:08,23/08/2024 13:44
+OCPSTRAT-1496,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,03/07/2024 08:27,
+OCPSTRAT-1495,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/01/2024 19:36,
+OCPSTRAT-1494,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/01/2024 19:43,
+OCPSTRAT-1493,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,16/05/2024 14:56,22/10/2024 17:04
+OCPSTRAT-1492,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,13/06/2024 14:50,
+OCPSTRAT-1491,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,16/05/2024 14:19,22/10/2024 17:05
+OCPSTRAT-1490,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/11/2023 16:04,06/06/2024 17:31
+OCPSTRAT-1489,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/01/2024 20:54,06/06/2024 17:27
+OCPSTRAT-1488,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,11/01/2024 18:38,31/07/2024 17:07
+OCPSTRAT-1487,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,01/07/2024 15:49,31/10/2024 15:23
+OCPSTRAT-1484,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,27/06/2024 08:16,09/09/2024 13:16
+OCPSTRAT-1483,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,26/06/2024 18:46,
+OCPSTRAT-1482,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,26/06/2024 17:31,23/09/2024 12:57
+OCPSTRAT-1481,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,26/06/2024 14:40,
+OCPSTRAT-1480,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,26/06/2024 14:28,06/09/2024 13:47
+OCPSTRAT-1479,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,26/06/2024 13:58,27/09/2024 10:25
+OCPSTRAT-1478,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,26/06/2024 13:40,27/09/2024 10:25
+OCPSTRAT-1477,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,26/06/2024 13:27,23/09/2024 13:01
+OCPSTRAT-1476,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,26/06/2024 13:00,
+OCPSTRAT-1475,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,26/06/2024 12:44,27/09/2024 10:25
+OCPSTRAT-1474,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,26/06/2024 12:39,
+OCPSTRAT-1473,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,26/06/2024 12:33,23/09/2024 13:01
+OCPSTRAT-1472,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,26/06/2024 12:21,23/09/2024 13:02
+OCPSTRAT-1471,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,26/06/2024 12:02,23/09/2024 13:02
+OCPSTRAT-1470,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,26/06/2024 11:57,
+OCPSTRAT-1469,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/06/2024 12:43,
+OCPSTRAT-1468,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,16/05/2024 14:24,22/10/2024 17:03
+OCPSTRAT-1467,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,19/06/2024 14:10,17/09/2024 08:27
+OCPSTRAT-1466,Initiative,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,18/06/2024 18:28,
+OCPSTRAT-1465,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,18/06/2024 14:59,
+OCPSTRAT-1464,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,18/06/2024 13:05,
+OCPSTRAT-1463,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,18/06/2024 13:05,
+OCPSTRAT-1462,Outcome,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,18/06/2024 12:16,
+OCPSTRAT-1461,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/06/2024 20:33,
+OCPSTRAT-1460,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/06/2024 18:56,
+OCPSTRAT-1459,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/06/2024 13:19,
+OCPSTRAT-1458,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/06/2024 12:53,
+OCPSTRAT-1456,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,14/06/2024 17:32,13/08/2024 14:30
+OCPSTRAT-1455,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,14/06/2024 11:46,
+OCPSTRAT-1453,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,12/06/2024 19:31,
+OCPSTRAT-1452,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,12/06/2024 17:14,17/09/2024 08:28
+OCPSTRAT-1451,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,12/06/2024 14:49,05/11/2024 15:00
+OCPSTRAT-1450,Outcome,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,12/06/2024 13:21,
+OCPSTRAT-1449,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,12/06/2024 13:20,12/06/2024 13:23
+OCPSTRAT-1448,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,11/06/2024 23:46,
+OCPSTRAT-1445,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,11/06/2024 13:36,
+OCPSTRAT-1444,Initiative,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,11/06/2024 06:56,08/11/2024 10:29
+OCPSTRAT-1443,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/06/2024 17:06,02/08/2024 11:02
+OCPSTRAT-1442,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,10/06/2024 15:52,
+OCPSTRAT-1441,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,10/06/2024 15:52,
+OCPSTRAT-1440,Initiative,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,10/06/2024 14:58,
+OCPSTRAT-1439,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,10/06/2024 12:32,
+OCPSTRAT-1438,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,07/06/2024 16:24,
+OCPSTRAT-1437,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/06/2024 15:13,
+OCPSTRAT-1433,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/06/2024 14:50,
+OCPSTRAT-1432,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/06/2024 18:12,
+OCPSTRAT-1431,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/06/2024 13:47,
+OCPSTRAT-1430,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/06/2024 12:50,
+OCPSTRAT-1429,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/06/2024 12:02,
+OCPSTRAT-1428,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/06/2024 18:53,04/10/2024 19:57
+OCPSTRAT-1427,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/06/2024 18:51,04/10/2024 19:58
+OCPSTRAT-1426,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,03/06/2024 09:07,
+OCPSTRAT-1425,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,03/06/2024 08:11,
+OCPSTRAT-1423,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,31/05/2024 17:54,
+OCPSTRAT-1422,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,31/05/2024 00:02,23/07/2024 16:08
+OCPSTRAT-1418,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/05/2024 18:46,
+OCPSTRAT-1417,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/05/2024 13:17,
+OCPSTRAT-1416,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/05/2024 11:46,
+OCPSTRAT-1415,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/05/2024 11:36,
+OCPSTRAT-1413,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/05/2024 10:15,
+OCPSTRAT-1412,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/05/2024 09:38,05/11/2024 09:53
+OCPSTRAT-1411,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,28/05/2024 16:16,
+OCPSTRAT-1409,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,28/05/2024 09:34,
+OCPSTRAT-1408,Outcome,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,28/05/2024 09:16,
+OCPSTRAT-1407,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,27/05/2024 16:06,
+OCPSTRAT-1406,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,23/05/2024 13:38,07/10/2024 07:36
+OCPSTRAT-1403,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/05/2024 15:47,
+OCPSTRAT-1401,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/05/2024 06:22,
+OCPSTRAT-1400,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/05/2024 06:08,
+OCPSTRAT-1399,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/05/2024 06:06,
+OCPSTRAT-1398,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/05/2024 05:51,
+OCPSTRAT-1397,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,21/05/2024 22:33,
+OCPSTRAT-1396,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,21/05/2024 22:08,13/09/2024 19:13
+OCPSTRAT-1395,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,21/05/2024 20:28,
+OCPSTRAT-1393,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/05/2024 09:56,23/08/2024 13:57
+OCPSTRAT-1391,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,20/05/2024 20:43,21/10/2024 03:37
+OCPSTRAT-1390,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/05/2024 20:14,
+OCPSTRAT-1389,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/05/2024 15:20,
+OCPSTRAT-1388,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/05/2024 13:05,05/09/2024 17:43
+OCPSTRAT-1384,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/05/2024 12:50,
+OCPSTRAT-1380,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,09/02/2024 14:40,
+OCPSTRAT-1379,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,16/05/2024 06:39,27/08/2024 09:15
+OCPSTRAT-1378,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,14/05/2024 18:19,14/06/2024 14:40
+OCPSTRAT-1377,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,14/05/2024 11:47,
+OCPSTRAT-1376,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/11/2023 13:35,
+OCPSTRAT-1375,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,11/05/2024 00:41,14/06/2024 22:36
+OCPSTRAT-1374,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,10/05/2024 20:29,
+OCPSTRAT-1373,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,10/05/2024 14:56,
+OCPSTRAT-1372,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,10/05/2024 14:21,
+OCPSTRAT-1371,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,09/05/2024 21:29,
+OCPSTRAT-1370,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,06/05/2024 07:55,05/11/2024 09:06
+OCPSTRAT-1369,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/05/2024 17:26,09/09/2024 12:06
+OCPSTRAT-1367,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/05/2024 20:15,05/11/2024 03:07
+OCPSTRAT-1364,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,02/05/2024 12:56,
+OCPSTRAT-1362,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,01/05/2024 18:03,
+OCPSTRAT-1361,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,30/04/2024 23:44,
+OCPSTRAT-1360,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,30/04/2024 17:21,
+OCPSTRAT-1359,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,30/04/2024 15:47,
+OCPSTRAT-1356,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/04/2024 21:07,
+OCPSTRAT-1355,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/04/2024 18:51,
+OCPSTRAT-1354,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/04/2024 14:44,28/10/2024 08:19
+OCPSTRAT-1353,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/04/2024 14:33,15/10/2024 07:48
+OCPSTRAT-1351,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/04/2024 13:31,09/08/2024 16:39
+OCPSTRAT-1350,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/04/2024 11:31,10/06/2024 08:20
+OCPSTRAT-1349,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,26/04/2024 18:01,
+OCPSTRAT-1348,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,26/04/2024 14:26,
+OCPSTRAT-1347,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/04/2024 23:56,
+OCPSTRAT-1346,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/04/2024 20:45,
+OCPSTRAT-1345,Initiative,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/04/2024 16:26,
+OCPSTRAT-1344,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/04/2024 16:18,
+OCPSTRAT-1343,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/04/2024 15:14,
+OCPSTRAT-1341,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/04/2024 15:02,
+OCPSTRAT-1340,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,25/04/2024 14:31,30/09/2024 13:40
+OCPSTRAT-1339,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/04/2024 14:24,
+OCPSTRAT-1338,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,25/04/2024 14:21,28/10/2024 18:39
+OCPSTRAT-1337,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/04/2024 14:09,
+OCPSTRAT-1336,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,25/04/2024 04:02,12/08/2024 15:26
+OCPSTRAT-1335,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/04/2024 19:36,03/09/2024 17:46
+OCPSTRAT-1334,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/04/2024 14:12,05/11/2024 03:07
+OCPSTRAT-1333,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/04/2024 09:10,
+OCPSTRAT-1332,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/04/2024 08:59,
+OCPSTRAT-1331,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,23/04/2024 14:11,
+OCPSTRAT-1330,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,23/04/2024 13:10,23/04/2024 13:18
+OCPSTRAT-1329,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,23/04/2024 12:42,
+OCPSTRAT-1328,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,23/04/2024 12:40,
+OCPSTRAT-1327,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/04/2024 23:26,
+OCPSTRAT-1326,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,22/04/2024 17:56,06/06/2024 14:10
+OCPSTRAT-1325,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/04/2024 15:45,
+OCPSTRAT-1324,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/04/2024 15:45,
+OCPSTRAT-1323,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/04/2024 14:09,
+OCPSTRAT-1322,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/04/2024 13:04,
+OCPSTRAT-1321,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,22/04/2024 13:00,30/09/2024 13:57
+OCPSTRAT-1319,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/04/2024 06:26,
+OCPSTRAT-1318,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,19/04/2024 20:00,16/07/2024 16:47
+OCPSTRAT-1316,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,19/04/2024 07:49,23/09/2024 13:48
+OCPSTRAT-1315,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,18/04/2024 22:07,16/08/2024 20:53
+OCPSTRAT-1314,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,18/04/2024 13:24,23/09/2024 13:50
+OCPSTRAT-1313,Initiative,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,18/04/2024 11:06,
+OCPSTRAT-1312,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,18/04/2024 09:53,16/07/2024 10:42
+OCPSTRAT-1311,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/04/2024 15:09,
+OCPSTRAT-1310,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,16/04/2024 17:14,11/10/2024 10:39
+OCPSTRAT-1309,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,14/04/2024 18:25,
+OCPSTRAT-1308,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,12/04/2024 20:22,
+OCPSTRAT-1307,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,12/04/2024 10:03,
+OCPSTRAT-1306,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,12/04/2024 07:46,21/08/2024 08:31
+OCPSTRAT-1304,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,10/04/2024 19:27,
+OCPSTRAT-1301,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/04/2024 15:14,
+OCPSTRAT-1300,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,08/04/2024 14:44,27/05/2024 08:18
+OCPSTRAT-1299,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,08/04/2024 10:35,23/09/2024 13:50
+OCPSTRAT-1298,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/04/2024 10:34,
+OCPSTRAT-1297,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/04/2024 10:16,
+OCPSTRAT-1296,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,08/04/2024 08:53,05/06/2024 18:35
+OCPSTRAT-1294,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,05/04/2024 17:19,13/08/2024 14:19
+OCPSTRAT-1293,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/04/2024 14:23,
+OCPSTRAT-1292,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/04/2024 14:23,
+OCPSTRAT-1291,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,05/04/2024 14:13,27/09/2024 18:57
+OCPSTRAT-1290,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,05/04/2024 13:28,27/09/2024 10:17
+OCPSTRAT-1289,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,05/04/2024 13:00,26/06/2024 16:52
+OCPSTRAT-1288,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/04/2024 02:10,
+OCPSTRAT-1287,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/04/2024 01:56,
+OCPSTRAT-1286,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,05/04/2024 01:53,31/05/2024 04:29
+OCPSTRAT-1285,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/04/2024 16:20,
+OCPSTRAT-1284,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/04/2024 11:35,
+OCPSTRAT-1283,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/04/2024 01:44,
+OCPSTRAT-1282,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,03/04/2024 21:46,
+OCPSTRAT-1281,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,03/04/2024 20:26,
+OCPSTRAT-1280,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/04/2024 19:51,15/07/2024 18:49
+OCPSTRAT-1279,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,03/04/2024 13:47,
+OCPSTRAT-1277,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,02/04/2024 18:41,
+OCPSTRAT-1276,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,02/04/2024 18:36,
+OCPSTRAT-1275,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,02/04/2024 15:56,08/07/2024 22:51
+OCPSTRAT-1274,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,01/04/2024 19:10,11/06/2024 13:55
+OCPSTRAT-1273,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,01/04/2024 13:50,
+OCPSTRAT-1272,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/03/2024 17:25,
+OCPSTRAT-1271,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/03/2024 17:19,
+OCPSTRAT-1270,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/03/2024 17:17,
+OCPSTRAT-1269,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/03/2024 17:05,
+OCPSTRAT-1268,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/03/2024 17:00,
+OCPSTRAT-1267,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,28/03/2024 14:31,
+OCPSTRAT-1266,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,28/03/2024 09:19,06/08/2024 08:44
+OCPSTRAT-1265,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,28/03/2024 09:10,
+OCPSTRAT-1262,Outcome,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,27/03/2024 12:43,
+OCPSTRAT-1261,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,27/03/2024 12:22,09/08/2024 12:14
+OCPSTRAT-1260,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,27/03/2024 08:03,14/08/2024 13:10
+OCPSTRAT-1258,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,26/03/2024 13:15,17/06/2024 18:12
+OCPSTRAT-1257,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/03/2024 19:03,
+OCPSTRAT-1256,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/03/2024 19:01,
+OCPSTRAT-1255,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/03/2024 18:57,
+OCPSTRAT-1254,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/03/2024 18:52,
+OCPSTRAT-1251,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,22/03/2024 14:38,17/06/2024 04:55
+OCPSTRAT-1248,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,21/03/2024 20:23,
+OCPSTRAT-1247,Outcome,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,21/03/2024 19:17,
+OCPSTRAT-1246,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,20/03/2024 15:21,18/06/2024 13:35
+OCPSTRAT-1245,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,19/03/2024 20:19,09/08/2024 16:04
+OCPSTRAT-1244,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,19/03/2024 15:04,
+OCPSTRAT-1243,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,19/03/2024 13:58,20/05/2024 16:26
+OCPSTRAT-1242,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,19/03/2024 10:36,
+OCPSTRAT-1239,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,18/03/2024 18:39,05/06/2024 18:10
+OCPSTRAT-1238,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,18/03/2024 17:09,25/04/2024 13:54
+OCPSTRAT-1237,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/03/2024 21:08,
+OCPSTRAT-1236,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/03/2024 20:25,
+OCPSTRAT-1235,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/03/2024 20:24,
+OCPSTRAT-1234,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,15/03/2024 19:49,28/06/2024 17:39
+OCPSTRAT-1233,Outcome,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/03/2024 19:21,
+OCPSTRAT-1232,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/03/2024 17:11,
+OCPSTRAT-1231,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/03/2024 16:58,
+OCPSTRAT-1227,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,13/03/2024 13:07,20/06/2024 18:44
+OCPSTRAT-1226,Initiative,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/03/2024 18:27,
+OCPSTRAT-1225,Initiative,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/03/2024 18:23,
+OCPSTRAT-1224,Initiative,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/03/2024 18:17,
+OCPSTRAT-1223,Initiative,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/03/2024 18:12,
+OCPSTRAT-1222,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Not a Bug,08/03/2024 12:14,08/03/2024 12:17
+OCPSTRAT-1221,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,08/03/2024 02:25,28/03/2024 16:00
+OCPSTRAT-1220,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,07/03/2024 14:54,
+OCPSTRAT-1219,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,07/03/2024 14:50,
+OCPSTRAT-1218,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/03/2024 10:14,08/08/2024 10:45
+OCPSTRAT-1217,Initiative,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,06/03/2024 16:16,04/06/2024 14:49
+OCPSTRAT-1216,Outcome,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/03/2024 15:51,
+OCPSTRAT-1215,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/03/2024 15:16,
+OCPSTRAT-1214,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/03/2024 23:44,
+OCPSTRAT-1213,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/03/2024 23:29,
+OCPSTRAT-1212,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/03/2024 20:24,
+OCPSTRAT-1211,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/03/2024 16:07,
+OCPSTRAT-1208,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/02/2024 14:49,
+OCPSTRAT-1207,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/02/2024 14:41,17/06/2024 01:05
+OCPSTRAT-1206,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/02/2024 14:32,17/06/2024 01:11
+OCPSTRAT-1203,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,28/02/2024 19:13,
+OCPSTRAT-1202,Outcome,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,28/02/2024 13:15,
+OCPSTRAT-1201,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,28/02/2024 12:43,21/05/2024 06:50
+OCPSTRAT-1200,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,26/02/2024 09:17,
+OCPSTRAT-1199,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,23/02/2024 21:34,26/09/2024 08:16
+OCPSTRAT-1198,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,23/02/2024 14:45,
+OCPSTRAT-1197,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,22/02/2024 16:30,28/03/2024 15:31
+OCPSTRAT-1196,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,22/02/2024 11:22,13/08/2024 13:13
+OCPSTRAT-1195,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,22/02/2024 04:01,19/08/2024 13:14
+OCPSTRAT-1194,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,21/02/2024 20:51,
+OCPSTRAT-1193,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/02/2024 16:13,03/09/2024 19:02
+OCPSTRAT-1192,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,21/02/2024 15:53,
+OCPSTRAT-1191,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,21/02/2024 10:53,
+OCPSTRAT-1189,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/02/2024 18:19,
+OCPSTRAT-1188,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/02/2024 18:00,
+OCPSTRAT-1187,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,20/02/2024 14:53,21/05/2024 12:48
+OCPSTRAT-1185,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,16/02/2024 18:49,05/06/2024 14:52
+OCPSTRAT-1182,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,14/02/2024 12:20,
+OCPSTRAT-1181,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/02/2024 20:24,14/10/2024 12:26
+OCPSTRAT-1180,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,12/02/2024 13:28,15/08/2024 07:56
+OCPSTRAT-1179,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,09/02/2024 10:15,11/06/2024 07:38
+OCPSTRAT-1178,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,08/02/2024 15:54,04/09/2024 18:25
+OCPSTRAT-1177,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,08/02/2024 10:55,09/04/2024 08:52
+OCPSTRAT-1176,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,08/02/2024 02:29,15/05/2024 14:56
+OCPSTRAT-1170,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/02/2024 00:24,14/08/2024 15:57
+OCPSTRAT-1168,Initiative,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/02/2024 16:01,
+OCPSTRAT-1167,Initiative,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/02/2024 06:31,
+OCPSTRAT-1163,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,01/02/2024 14:44,01/02/2024 15:18
+OCPSTRAT-1162,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,01/02/2024 14:09,05/06/2024 18:38
+OCPSTRAT-1161,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,31/01/2024 17:15,25/03/2024 10:23
+OCPSTRAT-1160,Initiative,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,31/01/2024 14:17,15/10/2024 12:31
+OCPSTRAT-1159,Initiative,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,31/01/2024 14:03,15/10/2024 12:32
+OCPSTRAT-1157,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,30/01/2024 16:37,20/09/2024 19:00
+OCPSTRAT-1154,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/01/2024 09:40,18/06/2024 08:29
+OCPSTRAT-1153,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,26/01/2024 18:24,07/06/2024 16:18
+OCPSTRAT-1152,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,25/01/2024 20:39,05/03/2024 21:58
+OCPSTRAT-1151,Initiative,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/01/2024 09:38,
+OCPSTRAT-1150,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/01/2024 20:22,
+OCPSTRAT-1149,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/01/2024 17:30,10/06/2024 13:26
+OCPSTRAT-1148,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/01/2024 09:59,
+OCPSTRAT-1147,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,23/01/2024 15:30,03/05/2024 12:53
+OCPSTRAT-1146,Initiative,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,23/01/2024 11:52,
+OCPSTRAT-1145,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,22/01/2024 13:16,11/06/2024 06:54
+OCPSTRAT-1144,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,19/01/2024 16:27,
+OCPSTRAT-1143,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,19/01/2024 15:56,08/08/2024 19:56
+OCPSTRAT-1142,Initiative,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,18/01/2024 20:43,29/04/2024 18:14
+OCPSTRAT-1141,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/01/2024 22:44,
+OCPSTRAT-1140,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/01/2024 21:42,11/06/2024 11:30
+OCPSTRAT-1139,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/01/2024 13:43,31/05/2024 13:07
+OCPSTRAT-1138,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/01/2024 09:36,
+OCPSTRAT-1137,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/01/2024 22:32,
+OCPSTRAT-1136,Initiative,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/01/2024 14:21,
+OCPSTRAT-1135,Initiative,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,16/01/2024 12:40,14/10/2024 14:09
+OCPSTRAT-1134,Initiative,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/01/2024 12:32,
+OCPSTRAT-1133,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/01/2024 09:50,19/02/2024 10:56
+OCPSTRAT-1131,Outcome,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/01/2024 10:26,
+OCPSTRAT-1130,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/01/2024 23:12,
+OCPSTRAT-1129,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/01/2024 18:44,
+OCPSTRAT-1128,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,15/01/2024 17:25,16/05/2024 15:18
+OCPSTRAT-1127,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,12/01/2024 17:02,
+OCPSTRAT-1126,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,12/01/2024 14:50,
+OCPSTRAT-1125,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,12/01/2024 13:51,15/01/2024 13:40
+OCPSTRAT-1124,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,12/01/2024 11:26,
+OCPSTRAT-1123,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,11/01/2024 10:42,29/08/2024 05:35
+OCPSTRAT-1122,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/01/2024 16:10,10/01/2024 17:08
+OCPSTRAT-1121,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/01/2024 14:09,05/11/2024 09:11
+OCPSTRAT-1120,Initiative,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,10/01/2024 12:53,
+OCPSTRAT-1119,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/01/2024 09:51,06/11/2024 16:37
+OCPSTRAT-1118,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,08/01/2024 20:23,29/04/2024 17:20
+OCPSTRAT-1117,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/01/2024 20:18,
+OCPSTRAT-1116,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/01/2024 20:12,
+OCPSTRAT-1115,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,08/01/2024 17:51,14/06/2024 19:53
+OCPSTRAT-1114,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,08/01/2024 17:37,05/06/2024 18:40
+OCPSTRAT-1113,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,08/01/2024 17:34,20/05/2024 14:37
+OCPSTRAT-1112,Outcome,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/01/2024 14:39,
+OCPSTRAT-1111,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,08/01/2024 13:26,13/06/2024 13:12
+OCPSTRAT-1110,Initiative,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,05/01/2024 12:49,02/09/2024 10:22
+OCPSTRAT-1108,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,05/01/2024 01:43,21/05/2024 16:53
+OCPSTRAT-1107,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,04/01/2024 14:35,08/03/2024 21:06
+OCPSTRAT-1106,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/01/2024 17:05,30/05/2024 19:34
+OCPSTRAT-1105,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/01/2024 15:58,07/08/2024 15:45
+OCPSTRAT-1104,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/01/2024 14:24,13/06/2024 13:09
+OCPSTRAT-1103,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/01/2024 13:57,12/04/2024 02:01
+OCPSTRAT-1102,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/01/2024 10:24,12/06/2024 13:27
+OCPSTRAT-1101,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,02/01/2024 23:05,
+OCPSTRAT-1100,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/01/2024 22:23,28/06/2024 16:36
+OCPSTRAT-1099,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/01/2024 15:34,05/06/2024 13:14
+OCPSTRAT-1098,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,22/12/2023 13:55,29/10/2024 22:22
+OCPSTRAT-1097,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,21/12/2023 17:43,
+OCPSTRAT-1096,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/12/2023 15:14,16/05/2024 15:18
+OCPSTRAT-1095,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/12/2023 14:15,16/05/2024 15:14
+OCPSTRAT-1094,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/12/2023 13:13,04/06/2024 12:28
+OCPSTRAT-1093,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,21/12/2023 11:15,
+OCPSTRAT-1092,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/12/2023 09:45,20/05/2024 14:33
+OCPSTRAT-1091,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,21/12/2023 08:45,21/12/2023 08:46
+OCPSTRAT-1089,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/12/2023 17:49,
+OCPSTRAT-1088,Outcome,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/12/2023 16:59,
+OCPSTRAT-1086,Initiative,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,20/12/2023 14:13,15/10/2024 13:26
+OCPSTRAT-1084,Initiative,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/12/2023 11:23,
+OCPSTRAT-1083,Initiative,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/12/2023 11:11,
+OCPSTRAT-1082,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,20/12/2023 10:58,28/05/2024 09:31
+OCPSTRAT-1081,Initiative,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/12/2023 10:44,
+OCPSTRAT-1080,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,19/12/2023 17:52,16/05/2024 15:17
+OCPSTRAT-1079,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,19/12/2023 16:50,03/05/2024 12:51
+OCPSTRAT-1078,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,18/12/2023 15:57,08/07/2024 22:22
+OCPSTRAT-1077,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,18/12/2023 15:26,20/05/2024 17:18
+OCPSTRAT-1076,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,18/12/2023 15:25,
+OCPSTRAT-1075,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,18/12/2023 15:22,14/05/2024 05:26
+OCPSTRAT-1074,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,18/12/2023 15:00,
+OCPSTRAT-1073,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,15/12/2023 19:56,03/03/2024 12:39
+OCPSTRAT-1072,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/12/2023 19:14,
+OCPSTRAT-1071,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/12/2023 17:39,
+OCPSTRAT-1070,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/12/2023 17:23,
+OCPSTRAT-1069,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,15/12/2023 14:00,15/05/2024 12:56
+OCPSTRAT-1068,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,15/12/2023 13:34,08/08/2024 13:56
+OCPSTRAT-1067,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,15/12/2023 13:26,02/04/2024 08:03
+OCPSTRAT-1066,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,14/12/2023 19:47,
+OCPSTRAT-1065,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,14/12/2023 18:26,
+OCPSTRAT-1064,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,14/12/2023 16:12,
+OCPSTRAT-1063,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,14/12/2023 16:04,14/12/2023 16:09
+OCPSTRAT-1056,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,13/12/2023 22:27,06/06/2024 10:41
+OCPSTRAT-1055,Risk,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,13/12/2023 20:12,26/01/2024 11:04
+OCPSTRAT-1053,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,13/12/2023 16:13,27/12/2023 13:19
+OCPSTRAT-1052,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,13/12/2023 16:07,
+OCPSTRAT-1048,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,13/12/2023 08:41,29/01/2024 13:57
+OCPSTRAT-1047,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,13/12/2023 02:54,
+OCPSTRAT-1046,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,13/12/2023 02:28,
+OCPSTRAT-1045,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,13/12/2023 02:10,
+OCPSTRAT-1044,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,12/12/2023 21:58,26/06/2024 14:57
+OCPSTRAT-1043,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,12/12/2023 21:54,14/10/2024 08:43
+OCPSTRAT-1042,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,12/12/2023 20:44,26/06/2024 16:43
+OCPSTRAT-1041,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,12/12/2023 20:42,
+OCPSTRAT-1040,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,12/12/2023 15:52,20/05/2024 14:40
+OCPSTRAT-1039,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,12/12/2023 15:12,05/06/2024 18:42
+OCPSTRAT-1037,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,11/12/2023 15:00,16/07/2024 15:51
+OCPSTRAT-1036,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,11/12/2023 14:56,11/12/2023 17:33
+OCPSTRAT-1035,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,11/12/2023 14:26,14/06/2024 20:19
+OCPSTRAT-1034,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,11/12/2023 10:45,14/12/2023 17:28
+OCPSTRAT-1033,Initiative,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,11/12/2023 09:22,04/06/2024 09:49
+OCPSTRAT-1032,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,08/12/2023 15:00,26/06/2024 16:53
+OCPSTRAT-1028,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Can't Do,07/12/2023 20:44,19/03/2024 18:02
+OCPSTRAT-1027,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/12/2023 16:23,16/07/2024 15:33
+OCPSTRAT-1026,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,06/12/2023 20:17,30/09/2024 13:53
+OCPSTRAT-1025,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/12/2023 20:12,
+OCPSTRAT-1024,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,06/12/2023 13:52,24/06/2024 14:47
+OCPSTRAT-1023,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,06/12/2023 10:08,27/03/2024 12:34
+OCPSTRAT-1022,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/12/2023 03:38,
+OCPSTRAT-1021,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,05/12/2023 16:49,05/06/2024 18:43
+OCPSTRAT-1020,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/12/2023 10:51,
+OCPSTRAT-1019,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/12/2023 05:43,
+OCPSTRAT-1017,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,04/12/2023 19:35,09/04/2024 10:17
+OCPSTRAT-1016,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/12/2023 19:06,
+OCPSTRAT-1013,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,02/12/2023 09:39,15/01/2024 19:26
+OCPSTRAT-1012,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,01/12/2023 15:32,05/06/2024 23:41
+OCPSTRAT-1011,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,30/11/2023 18:56,12/06/2024 13:17
+OCPSTRAT-1009,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,30/11/2023 14:40,13/02/2024 14:47
+OCPSTRAT-1008,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/11/2023 13:59,
+OCPSTRAT-1007,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/11/2023 13:55,18/06/2024 08:29
+OCPSTRAT-1006,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/11/2023 12:48,31/05/2024 14:43
+OCPSTRAT-1005,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/11/2023 12:46,
+OCPSTRAT-1004,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/11/2023 12:05,13/08/2024 12:32
+OCPSTRAT-1003,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/11/2023 11:05,
+OCPSTRAT-1002,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/11/2023 02:10,03/06/2024 08:07
+OCPSTRAT-1001,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,28/11/2023 18:05,28/08/2024 17:09
+OCPSTRAT-1000,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,28/11/2023 17:47,
+OCPSTRAT-999,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,28/11/2023 16:05,10/01/2024 16:28
+OCPSTRAT-998,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,27/11/2023 17:02,
+OCPSTRAT-997,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/11/2023 14:17,
+OCPSTRAT-996,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/11/2023 14:08,19/12/2023 15:18
+OCPSTRAT-993,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/11/2023 15:36,14/06/2024 14:41
+OCPSTRAT-992,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,21/11/2023 09:50,
+OCPSTRAT-989,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/11/2023 08:57,27/09/2024 11:26
+OCPSTRAT-988,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,20/11/2023 16:15,17/09/2024 18:00
+OCPSTRAT-987,Outcome,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/11/2023 10:31,
+OCPSTRAT-985,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/11/2023 23:57,18/11/2023 00:41
+OCPSTRAT-984,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,16/11/2023 20:50,17/06/2024 20:03
+OCPSTRAT-982,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/11/2023 12:40,
+OCPSTRAT-981,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/11/2023 12:21,
+OCPSTRAT-980,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,16/11/2023 12:07,12/08/2024 16:32
+OCPSTRAT-979,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/11/2023 11:57,
+OCPSTRAT-978,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/11/2023 11:41,
+OCPSTRAT-977,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,16/11/2023 09:52,08/01/2024 11:23
+OCPSTRAT-976,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,15/11/2023 16:16,06/08/2024 08:42
+OCPSTRAT-975,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,14/11/2023 19:40,20/09/2024 15:04
+OCPSTRAT-973,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,13/11/2023 09:47,04/06/2024 15:04
+OCPSTRAT-972,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,08/11/2023 13:52,28/02/2024 10:26
+OCPSTRAT-971,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/11/2023 19:47,
+OCPSTRAT-970,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,06/11/2023 19:06,11/12/2023 17:26
+OCPSTRAT-969,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,06/11/2023 15:20,19/02/2024 13:03
+OCPSTRAT-968,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,03/11/2023 10:42,
+OCPSTRAT-967,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/11/2023 23:44,29/01/2024 11:49
+OCPSTRAT-966,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,02/11/2023 12:06,
+OCPSTRAT-965,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,31/10/2023 10:49,10/01/2024 13:54
+OCPSTRAT-964,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,31/10/2023 10:33,10/01/2024 13:54
+OCPSTRAT-963,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,31/10/2023 07:21,29/02/2024 14:21
+OCPSTRAT-962,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,30/10/2023 10:35,19/08/2024 19:34
+OCPSTRAT-961,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,30/10/2023 10:29,18/12/2023 17:30
+OCPSTRAT-960,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,30/10/2023 06:19,
+OCPSTRAT-959,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,26/10/2023 18:25,27/02/2024 14:54
+OCPSTRAT-958,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/10/2023 17:48,
+OCPSTRAT-956,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,25/10/2023 09:08,30/04/2024 22:27
+OCPSTRAT-955,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,23/10/2023 17:19,
+OCPSTRAT-954,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/10/2023 21:22,
+OCPSTRAT-953,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/10/2023 13:32,
+OCPSTRAT-952,Initiative,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,20/10/2023 10:55,24/05/2024 08:34
+OCPSTRAT-951,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,19/10/2023 10:49,24/05/2024 08:47
+OCPSTRAT-950,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,18/10/2023 15:53,
+OCPSTRAT-949,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,13/10/2023 19:01,26/02/2024 14:36
+OCPSTRAT-948,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,13/10/2023 15:49,
+OCPSTRAT-947,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,13/10/2023 15:12,10/11/2023 12:09
+OCPSTRAT-946,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,12/10/2023 21:14,12/02/2024 14:25
+OCPSTRAT-943,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,12/10/2023 20:16,
+OCPSTRAT-942,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,12/10/2023 15:17,26/09/2024 19:27
+OCPSTRAT-941,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,12/10/2023 14:03,20/02/2024 15:45
+OCPSTRAT-940,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,12/10/2023 05:54,
+OCPSTRAT-938,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,11/10/2023 21:38,
+OCPSTRAT-936,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,09/10/2023 19:58,
+OCPSTRAT-935,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Can't Do,09/10/2023 19:48,17/10/2023 18:13
+OCPSTRAT-934,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,09/10/2023 19:46,13/10/2023 17:16
+OCPSTRAT-933,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,09/10/2023 19:34,15/05/2024 08:42
+OCPSTRAT-931,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,09/10/2023 17:51,12/03/2024 16:40
+OCPSTRAT-930,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,09/10/2023 17:09,11/12/2023 20:10
+OCPSTRAT-929,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/10/2023 02:06,
+OCPSTRAT-925,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/10/2023 16:40,
+OCPSTRAT-924,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,05/10/2023 16:37,15/07/2024 17:57
+OCPSTRAT-923,Risk,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,05/10/2023 15:36,08/01/2024 10:04
+OCPSTRAT-922,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,05/10/2023 09:54,19/09/2024 08:47
+OCPSTRAT-917,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/10/2023 17:28,29/05/2024 14:04
+OCPSTRAT-916,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,02/10/2023 14:30,
+OCPSTRAT-915,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/10/2023 13:51,11/06/2024 09:32
+OCPSTRAT-914,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/10/2023 13:45,27/08/2024 09:20
+OCPSTRAT-913,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/10/2023 06:10,10/06/2024 11:20
+OCPSTRAT-912,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/09/2023 21:46,19/01/2024 15:17
+OCPSTRAT-911,Outcome,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/09/2023 21:41,
+OCPSTRAT-910,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/09/2023 21:14,15/01/2024 14:38
+OCPSTRAT-909,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/09/2023 18:33,11/01/2024 19:47
+OCPSTRAT-908,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/09/2023 15:01,12/06/2024 13:13
+OCPSTRAT-907,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,27/09/2023 18:01,10/03/2024 13:28
+OCPSTRAT-906,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,27/09/2023 17:54,10/03/2024 13:27
+OCPSTRAT-905,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,27/09/2023 17:50,10/03/2024 13:27
+OCPSTRAT-904,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,27/09/2023 17:38,10/03/2024 13:27
+OCPSTRAT-903,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,27/09/2023 17:34,17/01/2024 16:14
+OCPSTRAT-902,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,27/09/2023 17:30,10/03/2024 13:26
+OCPSTRAT-900,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,27/09/2023 17:17,10/03/2024 13:21
+OCPSTRAT-899,Initiative,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,27/09/2023 16:14,
+OCPSTRAT-898,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,27/09/2023 16:13,29/01/2024 15:11
+OCPSTRAT-895,Outcome,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,26/09/2023 17:57,
+OCPSTRAT-892,Initiative,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,26/09/2023 07:41,17/09/2024 13:01
+OCPSTRAT-891,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/09/2023 18:18,29/01/2024 15:17
+OCPSTRAT-890,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/09/2023 17:54,27/08/2024 19:54
+OCPSTRAT-886,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/09/2023 06:21,
+OCPSTRAT-883,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,19/09/2023 09:44,
+OCPSTRAT-882,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,18/09/2023 19:00,27/11/2023 19:43
+OCPSTRAT-881,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,15/09/2023 14:43,29/01/2024 15:10
+OCPSTRAT-879,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,13/09/2023 23:40,
+OCPSTRAT-877,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,08/09/2023 19:14,24/04/2024 21:24
+OCPSTRAT-876,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/09/2023 13:22,12/06/2024 13:15
+OCPSTRAT-875,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/09/2023 10:52,06/03/2024 07:04
+OCPSTRAT-874,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,06/09/2023 08:50,29/01/2024 15:16
+OCPSTRAT-873,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,05/09/2023 22:23,13/03/2024 14:31
+OCPSTRAT-872,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/09/2023 18:10,
+OCPSTRAT-871,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,05/09/2023 16:40,08/01/2024 11:31
+OCPSTRAT-870,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,05/09/2023 13:58,08/01/2024 11:32
+OCPSTRAT-869,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/09/2023 12:19,
+OCPSTRAT-868,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,01/09/2023 05:25,10/09/2024 09:27
+OCPSTRAT-867,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,01/09/2023 05:23,05/09/2024 05:07
+OCPSTRAT-866,Initiative,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,31/08/2023 13:55,06/12/2023 09:33
+OCPSTRAT-865,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,30/08/2023 09:14,
+OCPSTRAT-864,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/08/2023 15:43,08/12/2023 09:52
+OCPSTRAT-863,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,28/08/2023 18:31,07/12/2023 16:55
+OCPSTRAT-862,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/08/2023 23:34,
+OCPSTRAT-861,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,25/08/2023 16:00,25/01/2024 20:48
+OCPSTRAT-860,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,25/08/2023 14:29,04/09/2024 07:22
+OCPSTRAT-859,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,25/08/2023 09:35,08/04/2024 12:49
+OCPSTRAT-858,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/08/2023 21:29,
+OCPSTRAT-856,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/08/2023 18:25,13/08/2024 08:30
+OCPSTRAT-855,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/08/2023 10:46,
+OCPSTRAT-854,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/08/2023 11:35,13/08/2024 06:57
+OCPSTRAT-853,Outcome,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,23/08/2023 18:59,
+OCPSTRAT-852,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,23/08/2023 17:41,24/08/2023 15:45
+OCPSTRAT-851,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,23/08/2023 13:56,
+OCPSTRAT-850,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,22/08/2023 19:22,05/09/2024 19:02
+OCPSTRAT-849,Outcome,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/08/2023 19:05,
+OCPSTRAT-848,Outcome,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/08/2023 18:56,
+OCPSTRAT-847,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,22/08/2023 18:51,05/09/2024 18:48
+OCPSTRAT-846,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/08/2023 18:40,
+OCPSTRAT-845,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,20/08/2023 21:56,08/12/2023 15:24
+OCPSTRAT-844,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/08/2023 22:22,17/08/2023 22:34
+OCPSTRAT-843,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/08/2023 21:51,25/03/2024 04:29
+OCPSTRAT-842,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/08/2023 16:25,
+OCPSTRAT-841,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/08/2023 16:01,05/09/2024 18:56
+OCPSTRAT-840,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/08/2023 15:40,
+OCPSTRAT-839,Initiative,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/08/2023 11:52,11/12/2023 09:26
+OCPSTRAT-838,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/08/2023 11:34,10/01/2024 16:53
+OCPSTRAT-837,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/08/2023 19:48,
+OCPSTRAT-836,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/08/2023 19:00,
+OCPSTRAT-835,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,16/08/2023 18:41,14/12/2023 16:15
+OCPSTRAT-834,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,16/08/2023 15:09,13/06/2024 16:20
+OCPSTRAT-833,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/08/2023 14:05,
+OCPSTRAT-832,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,15/08/2023 21:13,15/08/2023 21:14
+OCPSTRAT-831,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,15/08/2023 19:04,05/10/2023 22:09
+OCPSTRAT-830,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/08/2023 15:26,
+OCPSTRAT-828,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,14/08/2023 17:04,18/12/2023 17:34
+OCPSTRAT-825,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,14/08/2023 00:42,02/10/2023 18:41
+OCPSTRAT-824,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,14/08/2023 00:11,25/04/2024 22:22
+OCPSTRAT-823,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,13/08/2023 23:54,
+OCPSTRAT-818,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,10/08/2023 18:11,
+OCPSTRAT-817,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,10/08/2023 16:12,
+OCPSTRAT-815,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,09/08/2023 22:27,
+OCPSTRAT-813,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,09/08/2023 18:51,13/12/2023 14:21
+OCPSTRAT-812,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/08/2023 22:51,
+OCPSTRAT-811,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/08/2023 21:11,
+OCPSTRAT-810,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/08/2023 19:41,
+OCPSTRAT-809,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,08/08/2023 17:13,08/03/2024 17:39
+OCPSTRAT-808,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/08/2023 08:32,
+OCPSTRAT-807,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/08/2023 01:10,
+OCPSTRAT-806,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,07/08/2023 20:08,
+OCPSTRAT-805,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,07/08/2023 17:56,
+OCPSTRAT-804,Initiative,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/08/2023 16:55,16/01/2024 15:09
+OCPSTRAT-802,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/08/2023 14:58,14/02/2024 19:24
+OCPSTRAT-801,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,07/08/2023 11:30,
+OCPSTRAT-798,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/08/2023 10:33,26/04/2024 12:16
+OCPSTRAT-797,Initiative,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,07/08/2023 09:51,
+OCPSTRAT-795,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,07/08/2023 06:29,
+OCPSTRAT-791,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,05/08/2023 13:57,29/01/2024 15:16
+OCPSTRAT-790,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/08/2023 13:49,
+OCPSTRAT-789,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/08/2023 10:56,
+OCPSTRAT-788,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/08/2023 18:30,
+OCPSTRAT-787,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/08/2023 18:21,
+OCPSTRAT-786,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,04/08/2023 13:22,31/08/2023 08:48
+OCPSTRAT-785,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,04/08/2023 12:43,04/08/2023 12:44
+OCPSTRAT-783,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,04/08/2023 11:37,29/09/2023 08:36
+OCPSTRAT-782,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,04/08/2023 10:50,25/08/2023 09:33
+OCPSTRAT-781,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,04/08/2023 10:43,31/08/2023 08:48
+OCPSTRAT-780,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,04/08/2023 09:09,17/08/2023 12:00
+OCPSTRAT-779,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,04/08/2023 09:00,31/08/2023 08:48
+OCPSTRAT-778,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,03/08/2023 18:42,10/04/2024 15:16
+OCPSTRAT-777,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/08/2023 16:03,05/11/2024 18:28
+OCPSTRAT-776,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,03/08/2023 14:29,09/10/2023 15:02
+OCPSTRAT-775,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,02/08/2023 23:39,10/04/2024 15:13
+OCPSTRAT-774,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,02/08/2023 23:35,10/04/2024 15:14
+OCPSTRAT-773,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,02/08/2023 22:54,
+OCPSTRAT-772,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,02/08/2023 22:24,10/04/2024 15:12
+OCPSTRAT-771,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,02/08/2023 21:56,02/08/2023 21:57
+OCPSTRAT-770,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,02/08/2023 21:55,
+OCPSTRAT-769,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,02/08/2023 21:27,
+OCPSTRAT-768,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/08/2023 17:03,22/08/2024 11:07
+OCPSTRAT-767,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,02/08/2023 16:02,
+OCPSTRAT-766,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/08/2023 14:59,28/03/2024 20:22
+OCPSTRAT-765,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/08/2023 14:50,25/01/2024 10:16
+OCPSTRAT-764,Outcome,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,02/08/2023 14:40,
+OCPSTRAT-763,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,02/08/2023 12:55,
+OCPSTRAT-760,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,01/08/2023 22:54,28/03/2024 14:37
+OCPSTRAT-759,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,01/08/2023 22:48,
+OCPSTRAT-757,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,01/08/2023 14:56,19/01/2024 15:46
+OCPSTRAT-756,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,01/08/2023 11:33,
+OCPSTRAT-754,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,01/08/2023 12:43,
+OCPSTRAT-753,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,01/08/2023 12:16,27/08/2024 19:56
+OCPSTRAT-752,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,31/07/2023 15:25,15/07/2024 23:03
+OCPSTRAT-751,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,31/07/2023 11:42,20/11/2023 15:07
+OCPSTRAT-750,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,31/07/2023 09:11,13/06/2024 07:40
+OCPSTRAT-749,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,30/07/2023 19:38,13/12/2023 14:19
+OCPSTRAT-748,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,30/07/2023 18:44,17/05/2024 17:47
+OCPSTRAT-747,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,30/07/2023 17:48,
+OCPSTRAT-746,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,28/07/2023 16:30,27/09/2023 17:50
+OCPSTRAT-745,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,28/07/2023 16:19,16/05/2024 15:19
+OCPSTRAT-744,Initiative,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,28/07/2023 15:05,
+OCPSTRAT-743,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,28/07/2023 12:48,23/08/2023 18:16
+OCPSTRAT-742,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,28/07/2023 08:47,
+OCPSTRAT-741,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,27/07/2023 10:02,30/08/2023 18:55
+OCPSTRAT-740,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,27/07/2023 09:40,
+OCPSTRAT-739,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,26/07/2023 19:46,28/03/2024 14:28
+OCPSTRAT-738,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,26/07/2023 19:43,28/03/2024 14:27
+OCPSTRAT-737,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,26/07/2023 19:36,15/12/2023 15:49
+OCPSTRAT-736,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,26/07/2023 10:24,19/01/2024 15:44
+OCPSTRAT-735,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,26/07/2023 09:35,
+OCPSTRAT-734,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/07/2023 17:33,
+OCPSTRAT-733,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,25/07/2023 16:58,11/10/2024 15:35
+OCPSTRAT-732,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/07/2023 16:43,
+OCPSTRAT-731,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,25/07/2023 14:19,05/06/2024 18:46
+OCPSTRAT-730,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,25/07/2023 11:56,15/11/2023 14:22
+OCPSTRAT-729,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/07/2023 21:21,02/11/2023 18:05
+OCPSTRAT-728,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/07/2023 19:53,14/11/2023 08:50
+OCPSTRAT-727,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,24/07/2023 16:56,15/09/2023 12:01
+OCPSTRAT-726,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,24/07/2023 16:49,15/09/2023 12:00
+OCPSTRAT-725,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,24/07/2023 16:44,15/09/2023 12:01
+OCPSTRAT-724,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/07/2023 10:37,08/01/2024 11:28
+OCPSTRAT-723,Risk,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/07/2023 14:07,04/10/2023 18:06
+OCPSTRAT-722,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/07/2023 09:48,27/02/2024 17:55
+OCPSTRAT-721,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,20/07/2023 15:33,02/11/2023 18:01
+OCPSTRAT-720,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,20/07/2023 15:08,02/11/2023 18:00
+OCPSTRAT-719,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/07/2023 11:07,
+OCPSTRAT-718,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/07/2023 10:36,
+OCPSTRAT-717,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,20/07/2023 10:28,19/01/2024 15:16
+OCPSTRAT-716,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,20/07/2023 10:16,19/01/2024 15:14
+OCPSTRAT-714,Outcome,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,19/07/2023 13:13,
+OCPSTRAT-713,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,19/07/2023 08:32,05/09/2024 15:32
+OCPSTRAT-712,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,18/07/2023 15:46,01/08/2024 16:30
+OCPSTRAT-711,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,18/07/2023 11:16,14/11/2023 08:49
+OCPSTRAT-708,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/07/2023 17:22,
+OCPSTRAT-707,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/07/2023 00:36,
+OCPSTRAT-706,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,14/07/2023 07:42,29/01/2024 15:15
+OCPSTRAT-705,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,13/07/2023 01:08,
+OCPSTRAT-704,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,12/07/2023 17:23,15/08/2024 13:47
+OCPSTRAT-703,Initiative,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,12/07/2023 17:23,12/07/2023 17:29
+OCPSTRAT-702,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,12/07/2023 10:54,24/01/2024 09:04
+OCPSTRAT-701,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,12/07/2023 10:32,27/02/2024 16:52
+OCPSTRAT-700,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,11/07/2023 17:08,14/11/2023 08:48
+OCPSTRAT-699,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,11/07/2023 15:41,11/10/2024 15:31
+OCPSTRAT-698,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,11/07/2023 14:33,17/06/2024 15:07
+OCPSTRAT-697,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,11/07/2023 13:38,23/09/2024 14:44
+OCPSTRAT-696,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/07/2023 18:36,15/10/2023 21:29
+OCPSTRAT-695,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/07/2023 17:21,09/01/2024 13:30
+OCPSTRAT-694,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/07/2023 14:41,27/09/2023 18:05
+OCPSTRAT-693,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,10/07/2023 11:31,
+OCPSTRAT-692,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/07/2023 22:43,03/10/2023 13:29
+OCPSTRAT-691,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,07/07/2023 18:40,
+OCPSTRAT-690,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/07/2023 14:19,23/08/2023 18:05
+OCPSTRAT-689,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/07/2023 19:45,
+OCPSTRAT-688,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,06/07/2023 14:53,10/10/2023 15:34
+OCPSTRAT-687,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/07/2023 13:27,
+OCPSTRAT-686,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/07/2023 07:15,
+OCPSTRAT-685,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,05/07/2023 17:55,14/12/2023 23:06
+OCPSTRAT-684,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/07/2023 17:51,
+OCPSTRAT-683,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,05/07/2023 14:17,
+OCPSTRAT-682,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/07/2023 23:53,
+OCPSTRAT-681,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/07/2023 23:34,
+OCPSTRAT-680,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/07/2023 23:01,
+OCPSTRAT-678,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/07/2023 10:44,02/08/2023 11:48
+OCPSTRAT-1783,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,19/05/2022 14:08,
+OCPSTRAT-1530,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,28/09/2022 19:47,24/09/2024 15:09
+OCPSTRAT-1387,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,28/03/2023 14:58,
+OCPSTRAT-991,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/10/2022 09:44,
+OCPSTRAT-990,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,04/10/2022 09:42,12/02/2024 15:35
+OCPSTRAT-829,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/06/2023 20:06,16/01/2024 10:42
+OCPSTRAT-826,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,08/06/2023 12:12,10/08/2023 15:44
+OCPSTRAT-677,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,30/06/2023 17:19,04/01/2024 16:06
+OCPSTRAT-676,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,30/06/2023 09:17,
+OCPSTRAT-675,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,29/06/2023 19:51,03/01/2024 10:25
+OCPSTRAT-674,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,29/06/2023 17:08,07/07/2023 02:05
+OCPSTRAT-673,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/06/2023 09:28,24/01/2024 14:49
+OCPSTRAT-672,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,28/06/2023 15:43,24/05/2024 08:47
+OCPSTRAT-671,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,28/06/2023 11:03,29/09/2023 17:04
+OCPSTRAT-669,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,26/06/2023 19:07,26/06/2023 19:08
+OCPSTRAT-668,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/06/2023 20:50,02/08/2023 21:27
+OCPSTRAT-667,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,23/06/2023 14:45,
+OCPSTRAT-666,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,23/06/2023 14:20,05/09/2023 15:05
+OCPSTRAT-665,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,23/06/2023 11:49,
+OCPSTRAT-663,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,22/06/2023 10:52,19/01/2024 15:45
+OCPSTRAT-661,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,21/06/2023 18:39,
+OCPSTRAT-660,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/06/2023 18:38,18/10/2023 10:52
+OCPSTRAT-659,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/06/2023 18:36,11/08/2023 16:50
+OCPSTRAT-658,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,21/06/2023 16:52,13/11/2023 20:58
+OCPSTRAT-657,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/06/2023 13:43,28/03/2024 20:24
+OCPSTRAT-656,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/06/2023 11:18,06/07/2023 12:29
+OCPSTRAT-654,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/06/2023 08:40,
+OCPSTRAT-653,Initiative,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,19/06/2023 17:02,
+OCPSTRAT-650,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,16/06/2023 13:27,07/12/2023 09:57
+OCPSTRAT-649,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,14/06/2023 19:13,13/12/2023 14:19
+OCPSTRAT-648,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,14/06/2023 17:24,18/06/2024 16:21
+OCPSTRAT-647,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,13/06/2023 13:02,31/08/2023 08:46
+OCPSTRAT-646,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,13/06/2023 12:47,31/08/2023 08:47
+OCPSTRAT-645,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,13/06/2023 12:29,02/10/2023 08:16
+OCPSTRAT-644,Initiative,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,12/06/2023 13:45,
+OCPSTRAT-642,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,09/06/2023 15:55,28/07/2023 02:06
+OCPSTRAT-641,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,08/06/2023 22:57,04/03/2024 21:35
+OCPSTRAT-640,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/06/2023 20:43,19/07/2023 10:17
+OCPSTRAT-639,Initiative,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,01/11/2022 15:26,
+OCPSTRAT-638,Initiative,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,10/05/2023 06:48,
+OCPSTRAT-637,Initiative,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,25/04/2023 13:00,12/12/2023 15:28
+OCPSTRAT-636,Initiative,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,03/05/2023 07:49,
+OCPSTRAT-635,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,10/05/2023 06:37,21/10/2024 11:26
+OCPSTRAT-634,Initiative,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,14/03/2023 10:52,
+OCPSTRAT-633,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,07/06/2023 13:35,09/04/2024 15:50
+OCPSTRAT-632,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,06/12/2022 09:11,30/03/2023 10:56
+OCPSTRAT-631,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/02/2023 16:44,
+OCPSTRAT-629,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,09/01/2023 13:39,31/03/2023 10:01
+OCPSTRAT-628,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,19/01/2023 16:55,
+OCPSTRAT-627,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,23/11/2022 07:56,17/04/2023 16:14
+OCPSTRAT-626,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/04/2023 04:30,
+OCPSTRAT-625,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,18/01/2021 13:31,
+OCPSTRAT-624,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/03/2022 09:03,28/03/2023 12:46
+OCPSTRAT-623,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,25/05/2023 08:35,09/08/2023 09:01
+OCPSTRAT-621,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,14/03/2023 12:43,23/08/2023 18:08
+OCPSTRAT-620,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,23/05/2023 06:44,10/04/2024 15:10
+OCPSTRAT-619,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,16/11/2022 14:56,12/08/2024 18:46
+OCPSTRAT-618,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/10/2022 13:51,20/11/2023 17:40
+OCPSTRAT-615,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,29/03/2021 18:56,24/09/2024 09:26
+OCPSTRAT-614,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,30/11/2022 12:26,10/05/2023 14:48
+OCPSTRAT-612,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,04/11/2022 19:52,12/04/2023 14:04
+OCPSTRAT-611,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Can't Do,11/02/2022 16:18,06/07/2023 14:36
+OCPSTRAT-609,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/03/2023 10:43,28/03/2023 14:19
+OCPSTRAT-608,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/11/2022 15:12,
+OCPSTRAT-607,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,21/04/2023 18:50,
+OCPSTRAT-606,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,23/03/2023 16:38,
+OCPSTRAT-605,Initiative,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,19/04/2022 13:16,
+OCPSTRAT-604,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,14/03/2023 12:42,23/08/2023 18:09
+OCPSTRAT-603,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,01/12/2022 09:42,29/09/2023 17:09
+OCPSTRAT-602,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,01/06/2023 03:10,18/12/2023 17:35
+OCPSTRAT-601,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,04/04/2023 10:19,11/09/2023 06:41
+OCPSTRAT-600,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,22/03/2023 18:37,25/06/2024 19:24
+OCPSTRAT-596,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,19/02/2021 13:54,29/10/2022 20:32
+OCPSTRAT-595,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/03/2023 11:15,
+OCPSTRAT-594,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/02/2023 12:46,03/03/2023 14:17
+OCPSTRAT-593,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,08/03/2023 10:55,03/08/2023 15:48
+OCPSTRAT-592,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,01/11/2022 14:04,12/09/2023 15:04
+OCPSTRAT-591,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,20/07/2022 10:52,01/05/2023 21:02
+OCPSTRAT-588,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/06/2023 16:10,31/08/2023 08:57
+OCPSTRAT-587,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,06/01/2022 17:27,26/04/2023 13:48
+OCPSTRAT-586,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,22/05/2023 19:48,11/10/2024 20:01
+OCPSTRAT-584,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,06/01/2023 14:25,17/04/2023 16:47
+OCPSTRAT-583,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,09/03/2023 03:34,14/10/2023 04:51
+OCPSTRAT-582,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,05/02/2021 04:01,14/09/2022 08:42
+OCPSTRAT-581,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,19/03/2021 14:53,
+OCPSTRAT-580,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/07/2021 19:42,
+OCPSTRAT-578,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/03/2023 13:43,11/09/2023 06:40
+OCPSTRAT-577,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,13/02/2023 17:02,24/03/2023 16:46
+OCPSTRAT-576,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,30/10/2022 14:26,10/09/2023 15:11
+OCPSTRAT-574,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,09/11/2022 10:48,10/03/2023 09:43
+OCPSTRAT-572,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/03/2023 11:04,28/03/2023 14:17
+OCPSTRAT-571,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,25/04/2023 09:42,23/05/2023 10:51
+OCPSTRAT-570,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,07/12/2022 16:18,
+OCPSTRAT-568,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,19/12/2022 21:46,12/10/2023 17:56
+OCPSTRAT-567,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,13/06/2022 16:01,28/03/2023 21:16
+OCPSTRAT-565,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,05/02/2021 04:57,27/09/2021 14:40
+OCPSTRAT-564,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/11/2022 10:36,07/09/2023 08:45
+OCPSTRAT-563,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,28/09/2021 06:15,24/05/2023 12:35
+OCPSTRAT-562,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/02/2023 12:50,09/07/2024 13:52
+OCPSTRAT-561,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,09/11/2022 11:37,
+OCPSTRAT-560,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/02/2023 09:51,16/08/2023 18:54
+OCPSTRAT-559,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,14/03/2023 12:45,25/07/2023 16:47
+OCPSTRAT-557,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/05/2023 11:44,19/06/2023 14:29
+OCPSTRAT-556,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/05/2023 09:24,23/08/2023 18:08
+OCPSTRAT-555,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,16/03/2023 21:20,22/02/2024 04:30
+OCPSTRAT-554,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,27/09/2021 21:34,
+OCPSTRAT-553,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,22/02/2023 15:57,28/03/2023 01:30
+OCPSTRAT-551,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,28/02/2023 12:50,02/05/2023 21:41
+OCPSTRAT-550,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/01/2023 10:27,
+OCPSTRAT-548,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/10/2022 18:53,28/03/2023 15:53
+OCPSTRAT-547,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,31/03/2023 20:23,25/04/2024 16:24
+OCPSTRAT-546,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/04/2023 00:50,
+OCPSTRAT-545,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,26/03/2023 08:03,15/10/2023 08:32
+OCPSTRAT-544,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,18/04/2023 15:32,
+OCPSTRAT-543,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,15/05/2023 23:01,02/08/2023 17:42
+OCPSTRAT-542,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,01/03/2023 19:16,
+OCPSTRAT-541,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/03/2023 15:40,
+OCPSTRAT-540,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/02/2023 12:51,03/10/2023 08:22
+OCPSTRAT-539,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/02/2023 18:49,
+OCPSTRAT-538,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/03/2023 10:13,17/08/2023 09:45
+OCPSTRAT-537,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,13/04/2023 13:28,04/04/2024 02:47
+OCPSTRAT-536,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/03/2023 12:10,
+OCPSTRAT-535,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,28/02/2023 18:35,11/07/2023 15:09
+OCPSTRAT-534,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/03/2023 16:40,15/05/2024 16:59
+OCPSTRAT-533,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/11/2022 15:24,
+OCPSTRAT-532,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/03/2021 07:35,30/11/2022 22:35
+OCPSTRAT-530,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,02/02/2023 15:12,
+OCPSTRAT-529,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,27/11/2019 19:33,04/04/2024 02:12
+OCPSTRAT-528,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,09/03/2023 16:46,14/03/2023 13:23
+OCPSTRAT-526,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/02/2023 11:06,16/08/2023 19:50
+OCPSTRAT-525,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/03/2023 13:07,
+OCPSTRAT-524,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,23/02/2023 08:04,04/07/2023 06:43
+OCPSTRAT-521,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/05/2023 19:02,26/10/2023 15:41
+OCPSTRAT-520,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,08/12/2020 12:23,08/08/2022 23:43
+OCPSTRAT-519,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/02/2023 15:11,08/01/2024 11:31
+OCPSTRAT-518,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/03/2023 04:17,25/01/2024 20:43
+OCPSTRAT-517,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,26/04/2023 13:08,14/12/2023 19:18
+OCPSTRAT-516,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/06/2022 14:30,30/03/2023 12:30
+OCPSTRAT-515,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,28/02/2023 18:38,25/08/2023 17:19
+OCPSTRAT-514,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,31/01/2023 16:02,05/04/2023 14:19
+OCPSTRAT-513,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,04/04/2023 16:08,09/10/2023 17:44
+OCPSTRAT-511,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,06/12/2022 11:10,09/05/2023 14:23
+OCPSTRAT-510,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,15/02/2023 21:31,13/10/2023 19:10
+OCPSTRAT-509,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,28/02/2023 11:15,04/04/2023 14:57
+OCPSTRAT-508,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,28/03/2023 14:47,13/09/2023 12:49
+OCPSTRAT-507,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,22/10/2022 18:22,02/05/2023 23:46
+OCPSTRAT-506,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,09/05/2022 18:07,17/08/2023 15:24
+OCPSTRAT-505,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,04/01/2023 17:36,09/05/2023 12:45
+OCPSTRAT-504,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/06/2022 07:22,17/02/2023 15:17
+OCPSTRAT-503,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/02/2023 11:20,27/03/2023 20:25
+OCPSTRAT-502,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,20/03/2023 03:32,23/10/2023 18:17
+OCPSTRAT-501,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/03/2023 07:41,30/09/2024 13:48
+OCPSTRAT-500,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,11/11/2022 21:45,
+OCPSTRAT-499,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,31/05/2023 21:58,03/07/2023 10:26
+OCPSTRAT-498,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,20/03/2023 13:53,05/09/2023 15:05
+OCPSTRAT-497,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/02/2023 13:05,31/03/2023 18:34
+OCPSTRAT-496,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/06/2021 15:54,06/03/2023 17:05
+OCPSTRAT-495,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/02/2023 15:07,08/01/2024 10:41
+OCPSTRAT-494,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,10/11/2022 16:07,
+OCPSTRAT-493,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,07/02/2023 19:59,
+OCPSTRAT-492,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/03/2023 03:44,27/06/2023 17:37
+OCPSTRAT-491,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/03/2023 03:56,
+OCPSTRAT-490,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/04/2023 03:26,
+OCPSTRAT-488,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/03/2023 03:50,
+OCPSTRAT-487,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/11/2022 15:34,
+OCPSTRAT-485,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,09/03/2023 14:39,
+OCPSTRAT-484,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/09/2021 16:09,12/06/2023 18:27
+OCPSTRAT-482,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/11/2022 16:54,25/08/2023 09:46
+OCPSTRAT-481,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/12/2022 07:12,09/05/2023 10:06
+OCPSTRAT-480,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,30/11/2022 15:35,11/10/2023 09:18
+OCPSTRAT-479,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/03/2023 21:26,03/08/2023 20:31
+OCPSTRAT-478,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/11/2022 18:04,25/08/2023 23:38
+OCPSTRAT-476,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/09/2021 10:45,11/09/2023 06:40
+OCPSTRAT-475,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,30/11/2022 11:29,06/02/2023 14:15
+OCPSTRAT-473,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/03/2023 12:44,09/04/2024 10:22
+OCPSTRAT-471,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,12/05/2023 01:12,
+OCPSTRAT-470,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,01/03/2023 09:04,27/02/2024 16:48
+OCPSTRAT-469,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/11/2022 15:12,17/10/2023 16:39
+OCPSTRAT-468,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/01/2023 17:23,03/03/2023 15:52
+OCPSTRAT-465,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/03/2023 11:13,19/09/2023 13:19
+OCPSTRAT-464,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/02/2023 18:26,
+OCPSTRAT-463,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/03/2023 13:57,
+OCPSTRAT-462,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,09/05/2023 11:17,30/05/2024 10:53
+OCPSTRAT-461,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/02/2023 12:48,03/08/2023 11:27
+OCPSTRAT-460,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,01/06/2022 13:21,01/07/2024 07:31
+OCPSTRAT-459,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,23/11/2022 13:27,
+OCPSTRAT-458,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/12/2022 06:15,10/05/2023 06:40
+OCPSTRAT-455,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/01/2021 14:28,29/10/2022 12:17
+OCPSTRAT-454,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,11/05/2023 20:11,15/05/2024 16:46
+OCPSTRAT-453,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,20/03/2023 18:29,12/06/2024 19:34
+OCPSTRAT-452,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/06/2023 23:08,
+OCPSTRAT-450,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,22/04/2023 03:52,26/07/2023 13:01
+OCPSTRAT-448,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,07/03/2023 14:37,
+OCPSTRAT-446,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/03/2023 12:37,
+OCPSTRAT-445,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,14/03/2023 12:44,23/08/2023 18:20
+OCPSTRAT-444,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,09/05/2023 14:23,
+OCPSTRAT-443,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,28/10/2022 14:40,26/07/2023 13:08
+OCPSTRAT-442,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/06/2023 23:10,
+OCPSTRAT-441,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,11/05/2023 10:35,
+OCPSTRAT-439,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/03/2023 06:52,27/08/2024 14:49
+OCPSTRAT-438,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,19/10/2021 19:30,03/11/2023 13:10
+OCPSTRAT-437,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/01/2021 16:19,01/05/2023 20:58
+OCPSTRAT-436,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,17/04/2023 18:32,17/04/2023 18:36
+OCPSTRAT-435,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,14/03/2023 00:22,
+OCPSTRAT-434,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/03/2022 21:16,
+OCPSTRAT-433,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,28/02/2023 09:32,
+OCPSTRAT-432,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,06/04/2023 15:35,20/09/2023 05:59
+OCPSTRAT-429,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,01/06/2023 02:00,18/12/2023 17:35
+OCPSTRAT-428,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,17/03/2023 12:40,26/10/2023 10:30
+OCPSTRAT-425,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,01/12/2022 06:49,
+OCPSTRAT-424,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,06/08/2021 17:28,09/03/2023 16:38
+OCPSTRAT-423,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,15/02/2023 16:08,31/03/2023 09:55
+OCPSTRAT-421,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,05/04/2023 14:56,10/01/2024 15:55
+OCPSTRAT-420,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/03/2023 00:14,10/04/2023 20:51
+OCPSTRAT-419,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/02/2023 12:46,19/06/2023 09:46
+OCPSTRAT-418,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/06/2021 10:57,
+OCPSTRAT-417,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/02/2023 22:14,14/12/2023 16:21
+OCPSTRAT-416,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,13/10/2022 18:15,25/07/2023 15:44
+OCPSTRAT-415,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/02/2023 12:48,
+OCPSTRAT-413,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/03/2023 11:28,
+OCPSTRAT-411,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/11/2022 10:22,26/07/2023 13:08
+OCPSTRAT-410,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/06/2022 13:06,10/04/2023 20:56
+OCPSTRAT-408,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,26/01/2023 16:38,
+OCPSTRAT-406,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/12/2021 18:33,
+OCPSTRAT-405,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/11/2022 15:37,
+OCPSTRAT-403,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,15/02/2023 16:01,14/09/2023 15:15
+OCPSTRAT-401,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/02/2023 11:25,28/03/2023 14:20
+OCPSTRAT-399,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/03/2023 05:36,29/02/2024 14:37
+OCPSTRAT-398,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,11/11/2022 20:06,12/08/2024 18:49
+OCPSTRAT-397,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/01/2021 13:58,
+OCPSTRAT-396,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/03/2023 06:42,10/10/2023 14:04
+OCPSTRAT-393,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,27/10/2022 01:09,
+OCPSTRAT-391,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/03/2023 21:04,26/04/2023 13:49
+OCPSTRAT-390,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,16/12/2022 16:48,14/11/2023 08:47
+OCPSTRAT-389,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,20/02/2023 09:29,19/09/2024 08:44
+OCPSTRAT-388,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,27/03/2023 20:18,08/11/2023 13:21
+OCPSTRAT-387,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/02/2023 09:19,
+OCPSTRAT-386,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/05/2023 06:21,27/06/2023 17:38
+OCPSTRAT-385,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/06/2023 11:16,05/08/2024 08:23
+OCPSTRAT-384,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,11/09/2019 11:48,24/04/2023 13:30
+OCPSTRAT-382,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,06/02/2023 10:08,27/06/2023 10:27
+OCPSTRAT-381,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,04/11/2022 16:09,03/03/2023 14:45
+OCPSTRAT-380,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/06/2021 17:35,27/06/2024 21:24
+OCPSTRAT-379,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,16/03/2023 06:48,17/08/2023 15:12
+OCPSTRAT-378,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,28/02/2023 03:01,28/09/2023 13:54
+OCPSTRAT-377,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,25/04/2023 15:26,11/08/2023 16:47
+OCPSTRAT-376,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/04/2023 03:40,
+OCPSTRAT-375,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,09/03/2023 10:49,
+OCPSTRAT-374,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,21/03/2023 07:20,
+OCPSTRAT-373,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,30/05/2023 11:30,28/09/2023 07:35
+OCPSTRAT-372,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,07/06/2023 15:06,
+OCPSTRAT-371,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,31/05/2023 14:27,10/10/2023 10:06
+OCPSTRAT-370,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/11/2022 14:45,30/03/2023 15:41
+OCPSTRAT-369,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/01/2021 16:08,29/10/2022 12:25
+OCPSTRAT-368,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,02/03/2023 19:51,
+OCPSTRAT-367,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/03/2023 15:37,
+OCPSTRAT-366,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,08/02/2023 15:12,14/10/2023 08:36
+OCPSTRAT-365,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,22/02/2023 19:31,09/05/2023 10:01
+OCPSTRAT-364,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/11/2022 15:17,
+OCPSTRAT-363,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,09/03/2023 10:34,
+OCPSTRAT-362,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,20/02/2023 09:22,25/09/2024 05:40
+OCPSTRAT-360,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/06/2023 13:07,15/05/2024 16:04
+OCPSTRAT-358,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,28/07/2020 15:57,
+OCPSTRAT-357,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,30/03/2023 16:45,14/09/2023 17:38
+OCPSTRAT-356,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,27/03/2023 20:45,
+OCPSTRAT-355,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,22/02/2023 10:08,26/04/2023 20:26
+OCPSTRAT-354,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/10/2022 02:09,30/04/2024 16:12
+OCPSTRAT-353,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/01/2021 11:17,29/10/2022 20:38
+OCPSTRAT-352,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,03/08/2021 19:08,
+OCPSTRAT-351,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/03/2023 10:09,28/03/2023 12:50
+OCPSTRAT-350,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,06/03/2023 10:02,28/09/2023 13:25
+OCPSTRAT-349,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,16/02/2021 09:36,04/06/2024 18:11
+OCPSTRAT-348,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,02/11/2022 11:01,
+OCPSTRAT-347,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,30/01/2023 14:20,05/04/2023 14:05
+OCPSTRAT-346,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,06/03/2023 10:35,21/05/2024 13:34
+OCPSTRAT-345,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/06/2023 13:55,28/02/2024 13:07
+OCPSTRAT-344,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/11/2022 15:15,
+OCPSTRAT-343,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,06/01/2022 20:54,28/03/2023 01:31
+OCPSTRAT-342,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/03/2023 12:48,24/08/2023 13:07
+OCPSTRAT-341,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/11/2022 15:28,28/03/2023 17:15
+OCPSTRAT-340,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,08/03/2023 16:40,27/03/2023 21:14
+OCPSTRAT-339,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/03/2023 16:02,17/08/2023 13:22
+OCPSTRAT-338,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/09/2020 06:22,28/03/2023 12:52
+OCPSTRAT-337,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,26/10/2022 11:39,26/07/2023 13:08
+OCPSTRAT-335,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/05/2023 06:35,28/06/2023 18:04
+OCPSTRAT-334,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,23/02/2023 08:07,04/07/2023 06:46
+OCPSTRAT-333,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,08/11/2022 11:51,03/03/2023 14:06
+OCPSTRAT-332,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,28/11/2022 14:27,05/06/2023 19:20
+OCPSTRAT-331,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,01/11/2022 15:35,31/03/2023 12:03
+OCPSTRAT-330,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,26/04/2023 14:41,
+OCPSTRAT-329,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,13/02/2023 13:04,28/03/2023 15:46
+OCPSTRAT-328,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,22/02/2023 19:41,06/09/2023 12:51
+OCPSTRAT-327,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,05/04/2023 08:04,07/12/2023 09:58
+OCPSTRAT-326,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/01/2021 15:07,13/04/2022 12:26
+OCPSTRAT-325,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,09/03/2023 17:10,
+OCPSTRAT-324,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/03/2023 19:05,
+OCPSTRAT-323,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/03/2023 10:35,23/08/2023 18:14
+OCPSTRAT-322,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,11/10/2022 12:52,26/04/2023 13:06
+OCPSTRAT-320,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,10/02/2021 21:15,28/03/2024 16:34
+OCPSTRAT-319,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,23/03/2023 19:17,
+OCPSTRAT-318,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/03/2023 10:48,23/04/2024 14:38
+OCPSTRAT-317,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/04/2023 12:45,21/06/2023 13:50
+OCPSTRAT-316,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,17/01/2021 11:56,02/08/2021 08:26
+OCPSTRAT-315,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/05/2023 06:50,25/08/2023 23:11
+OCPSTRAT-314,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/11/2022 15:19,
+OCPSTRAT-313,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,08/03/2023 04:17,14/08/2023 13:00
+OCPSTRAT-310,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,06/03/2023 16:42,14/08/2023 16:57
+OCPSTRAT-309,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,09/01/2023 18:28,27/03/2023 20:36
+OCPSTRAT-308,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,27/07/2020 15:43,07/12/2022 13:23
+OCPSTRAT-306,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/04/2023 16:50,
+OCPSTRAT-304,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,21/03/2023 06:49,
+OCPSTRAT-303,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,22/02/2023 06:03,27/03/2023 19:14
+OCPSTRAT-302,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,14/04/2021 15:03,
+OCPSTRAT-301,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,20/04/2023 15:06,17/08/2023 09:49
+OCPSTRAT-300,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,20/02/2023 23:26,04/04/2023 20:40
+OCPSTRAT-298,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/03/2023 21:19,
+OCPSTRAT-297,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/10/2022 23:22,11/10/2024 19:58
+OCPSTRAT-296,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/03/2023 18:41,
+OCPSTRAT-295,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,06/04/2023 23:17,17/08/2023 19:31
+OCPSTRAT-294,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,27/02/2023 07:40,
+OCPSTRAT-292,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,11/11/2022 16:20,15/05/2024 12:35
+OCPSTRAT-291,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/09/2020 05:53,26/04/2023 14:43
+OCPSTRAT-290,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,12/05/2022 14:01,07/12/2022 21:30
+OCPSTRAT-289,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/04/2023 20:00,02/10/2023 08:12
+OCPSTRAT-288,Outcome,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/06/2023 12:57,
+OCPSTRAT-287,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,04/05/2023 11:15,
+OCPSTRAT-286,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/03/2023 05:39,
+OCPSTRAT-285,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,22/02/2023 16:05,07/08/2023 15:53
+OCPSTRAT-279,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,21/10/2022 02:06,
+OCPSTRAT-278,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/03/2023 05:51,13/10/2023 07:25
+OCPSTRAT-277,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,11/04/2023 19:07,23/08/2023 13:30
+OCPSTRAT-275,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,02/12/2022 10:26,10/03/2023 09:58
+OCPSTRAT-274,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,20/02/2023 09:31,27/08/2024 08:38
+OCPSTRAT-271,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,09/01/2023 18:41,
+OCPSTRAT-270,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/12/2022 06:48,02/05/2023 21:39
+OCPSTRAT-269,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,16/06/2021 21:18,04/06/2024 18:29
+OCPSTRAT-268,Outcome,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/05/2023 19:16,
+OCPSTRAT-266,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,11/05/2023 09:55,
+OCPSTRAT-265,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,16/11/2022 15:30,30/01/2023 14:14
+OCPSTRAT-264,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/10/2022 11:45,09/05/2023 11:22
+OCPSTRAT-263,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/03/2023 04:07,14/08/2023 12:55
+OCPSTRAT-262,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,01/03/2023 15:35,
+OCPSTRAT-261,Outcome,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,02/03/2023 07:58,
+OCPSTRAT-260,Feature,Release Pending,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/03/2023 10:38,05/11/2024 12:26
+OCPSTRAT-259,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,26/03/2023 07:59,09/10/2023 22:34
+OCPSTRAT-258,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,27/02/2023 17:00,10/05/2023 18:59
+OCPSTRAT-257,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,08/05/2023 14:15,14/02/2024 19:27
+OCPSTRAT-256,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/02/2023 12:51,03/08/2023 15:39
+OCPSTRAT-255,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,17/04/2023 15:50,26/04/2023 14:13
+OCPSTRAT-253,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,15/04/2021 20:29,20/04/2023 14:47
+OCPSTRAT-252,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/06/2023 15:41,31/08/2023 08:58
+OCPSTRAT-251,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/03/2023 10:50,31/03/2023 09:54
+OCPSTRAT-250,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,13/07/2020 18:51,13/04/2023 09:27
+OCPSTRAT-249,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,05/03/2023 10:14,06/03/2023 12:57
+OCPSTRAT-247,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/02/2023 18:46,
+OCPSTRAT-246,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,23/02/2023 07:38,
+OCPSTRAT-245,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/03/2023 11:56,08/05/2023 14:33
+OCPSTRAT-244,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,09/05/2023 14:56,14/12/2023 16:22
+OCPSTRAT-243,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/02/2023 21:24,24/01/2024 19:14
+OCPSTRAT-242,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,25/05/2023 15:24,12/01/2024 17:34
+OCPSTRAT-241,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,11/04/2023 09:38,10/07/2023 09:01
+OCPSTRAT-240,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,28/04/2023 11:10,
+OCPSTRAT-239,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,05/03/2023 09:34,28/09/2023 11:08
+OCPSTRAT-238,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/02/2023 09:25,
+OCPSTRAT-235,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,27/04/2023 10:20,16/10/2023 15:22
+OCPSTRAT-234,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/03/2023 10:56,
+OCPSTRAT-233,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,18/01/2021 06:35,10/05/2023 12:06
+OCPSTRAT-232,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,08/11/2022 10:17,03/03/2023 14:03
+OCPSTRAT-228,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,28/02/2023 12:57,08/05/2023 15:32
+OCPSTRAT-227,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/02/2023 12:49,02/05/2023 12:00
+OCPSTRAT-226,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,16/11/2022 18:50,02/02/2024 07:34
+OCPSTRAT-225,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,18/01/2021 13:43,
+OCPSTRAT-224,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,31/01/2023 07:04,
+OCPSTRAT-223,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,28/02/2023 22:14,26/05/2023 20:53
+OCPSTRAT-222,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/11/2022 12:50,10/04/2023 20:08
+OCPSTRAT-221,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,05/12/2022 12:00,20/03/2023 13:19
+OCPSTRAT-220,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/03/2023 04:12,15/05/2024 19:45
+OCPSTRAT-218,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,01/12/2022 14:44,
+OCPSTRAT-217,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/12/2020 19:19,
+OCPSTRAT-216,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/02/2023 12:47,20/02/2023 08:56
+OCPSTRAT-215,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,15/02/2023 19:08,
+OCPSTRAT-213,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,05/03/2023 10:05,01/10/2023 15:43
+OCPSTRAT-212,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,12/01/2023 16:07,14/03/2024 13:23
+OCPSTRAT-210,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,18/03/2023 14:56,12/08/2024 16:25
+OCPSTRAT-208,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/10/2022 14:12,05/06/2024 19:32
+OCPSTRAT-207,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,27/09/2022 17:28,26/09/2024 18:18
+OCPSTRAT-205,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,26/05/2022 16:06,18/05/2023 12:48
+OCPSTRAT-204,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/02/2023 09:16,
+OCPSTRAT-201,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,06/02/2023 14:11,30/09/2024 13:49
+OCPSTRAT-200,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,27/01/2023 18:21,
+OCPSTRAT-199,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/11/2022 19:37,26/07/2023 13:09
+OCPSTRAT-198,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,14/10/2022 10:55,
+OCPSTRAT-197,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/03/2023 17:27,10/04/2023 20:08
+OCPSTRAT-196,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/11/2022 15:08,
+OCPSTRAT-194,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,21/02/2023 14:56,28/02/2023 11:04
+OCPSTRAT-193,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,06/04/2023 08:45,29/01/2024 15:13
+OCPSTRAT-192,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,28/10/2022 10:10,
+OCPSTRAT-190,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,01/06/2023 16:21,18/10/2023 20:04
+OCPSTRAT-189,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,25/05/2023 08:42,31/08/2023 13:23
+OCPSTRAT-188,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/10/2022 02:42,
+OCPSTRAT-187,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/06/2023 16:17,29/09/2023 08:38
+OCPSTRAT-186,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,21/09/2021 16:46,
+OCPSTRAT-184,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/06/2023 13:26,15/05/2024 14:51
+OCPSTRAT-183,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/03/2023 17:18,28/03/2023 14:17
+OCPSTRAT-182,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,23/03/2021 15:57,06/02/2023 15:08
+OCPSTRAT-181,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Can't Do,26/09/2022 00:43,06/02/2023 22:01
+OCPSTRAT-180,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,09/07/2021 01:34,16/08/2023 18:50
+OCPSTRAT-179,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/03/2023 03:53,
+OCPSTRAT-178,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/03/2023 05:13,26/06/2024 16:53
+OCPSTRAT-177,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,23/01/2023 18:14,
+OCPSTRAT-175,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,13/04/2023 13:38,
+OCPSTRAT-174,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/03/2023 13:58,30/01/2024 16:25
+OCPSTRAT-173,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,05/10/2022 18:51,12/04/2023 20:23
+OCPSTRAT-172,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,11/04/2023 17:57,
+OCPSTRAT-171,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,26/04/2023 12:59,07/07/2023 19:26
+OCPSTRAT-170,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/02/2023 12:49,
+OCPSTRAT-169,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,13/12/2022 18:35,23/08/2023 13:41
+OCPSTRAT-168,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,13/04/2022 19:19,06/02/2023 22:12
+OCPSTRAT-167,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/09/2021 13:43,
+OCPSTRAT-165,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/03/2023 20:53,28/03/2023 14:19
+OCPSTRAT-164,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,09/05/2023 09:23,
+OCPSTRAT-163,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,04/08/2021 19:02,01/04/2024 18:12
+OCPSTRAT-162,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,13/04/2023 13:38,12/07/2024 12:09
+OCPSTRAT-161,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/12/2021 17:41,17/08/2023 18:25
+OCPSTRAT-160,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,01/02/2023 17:45,30/10/2023 18:12
+OCPSTRAT-159,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/03/2023 13:11,
+OCPSTRAT-158,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/11/2022 11:17,31/03/2023 13:28
+OCPSTRAT-157,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,22/03/2023 16:24,05/09/2023 15:04
+OCPSTRAT-156,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/03/2023 05:33,04/03/2024 21:37
+OCPSTRAT-155,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/09/2022 13:06,02/08/2023 11:49
+OCPSTRAT-154,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,13/04/2023 12:02,11/08/2023 20:22
+OCPSTRAT-153,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/11/2022 19:20,22/03/2023 18:41
+OCPSTRAT-151,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/04/2023 03:16,
+OCPSTRAT-150,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/03/2023 05:27,
+OCPSTRAT-149,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,21/03/2023 06:24,21/03/2023 14:50
+OCPSTRAT-148,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/03/2023 22:19,25/08/2023 09:52
+OCPSTRAT-147,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,28/10/2022 21:32,28/03/2023 15:45
+OCPSTRAT-146,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/03/2023 11:13,26/04/2023 13:49
+OCPSTRAT-145,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/02/2023 06:44,
+OCPSTRAT-143,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/12/2021 17:49,27/03/2023 23:17
+OCPSTRAT-142,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,02/12/2022 18:33,27/09/2023 17:47
+OCPSTRAT-141,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,27/08/2020 11:46,03/05/2023 14:16
+OCPSTRAT-140,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/03/2023 01:35,16/01/2024 14:28
+OCPSTRAT-139,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/05/2023 13:09,25/01/2024 20:33
+OCPSTRAT-138,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/07/2021 16:11,
+OCPSTRAT-137,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Can't Do,01/11/2022 14:23,29/11/2023 14:12
+OCPSTRAT-136,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,21/03/2023 05:38,
+OCPSTRAT-134,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/02/2023 18:54,
+OCPSTRAT-133,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/06/2023 14:56,31/08/2023 08:59
+OCPSTRAT-132,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,21/03/2023 21:04,
+OCPSTRAT-130,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,16/09/2022 15:19,27/09/2023 18:08
+OCPSTRAT-128,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/03/2023 18:36,
+OCPSTRAT-127,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,28/04/2023 10:54,
+OCPSTRAT-126,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,04/05/2020 04:06,29/03/2023 17:22
+OCPSTRAT-125,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,08/05/2023 11:30,
+OCPSTRAT-124,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/03/2023 14:54,13/08/2024 14:29
+OCPSTRAT-122,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/03/2021 08:32,29/10/2022 12:32
+OCPSTRAT-120,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,05/01/2023 14:41,08/01/2024 11:27
+OCPSTRAT-119,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Not a Bug,17/05/2023 19:47,15/05/2024 14:47
+OCPSTRAT-118,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/04/2023 19:36,02/10/2023 08:21
+OCPSTRAT-117,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/04/2023 13:07,
+OCPSTRAT-116,Feature,Refinement,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,07/12/2020 12:05,
+OCPSTRAT-114,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,27/04/2023 10:32,
+OCPSTRAT-113,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/04/2023 23:27,
+OCPSTRAT-112,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,18/01/2021 05:02,29/10/2022 12:25
+OCPSTRAT-111,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/03/2023 11:35,10/10/2023 11:53
+OCPSTRAT-110,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,28/04/2023 13:15,29/08/2024 02:12
+OCPSTRAT-109,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,14/03/2023 12:45,17/08/2023 11:37
+OCPSTRAT-108,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,16/09/2022 16:19,
+OCPSTRAT-107,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,27/03/2023 12:59,
+OCPSTRAT-106,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,14/03/2023 12:43,23/08/2023 18:20
+OCPSTRAT-104,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,09/01/2023 18:11,27/03/2023 20:36
+OCPSTRAT-103,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,23/05/2022 13:03,07/02/2023 17:37
+OCPSTRAT-102,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/11/2022 16:41,05/05/2023 17:16
+OCPSTRAT-101,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,07/02/2023 18:35,16/06/2023 15:00
+OCPSTRAT-100,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/04/2023 18:08,28/09/2023 14:21
+OCPSTRAT-99,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,18/01/2021 05:40,03/02/2022 11:19
+OCPSTRAT-98,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,20/10/2022 18:02,13/06/2024 19:02
+OCPSTRAT-97,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,22/05/2020 14:46,
+OCPSTRAT-96,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,24/04/2023 17:21,
+OCPSTRAT-95,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,28/04/2023 13:07,29/07/2024 12:51
+OCPSTRAT-94,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,28/02/2023 12:54,
+OCPSTRAT-93,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,22/02/2023 06:24,14/03/2023 06:35
+OCPSTRAT-92,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,11/04/2023 10:24,
+OCPSTRAT-91,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,17/02/2023 12:50,
+OCPSTRAT-90,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,21/03/2023 07:06,
+OCPSTRAT-89,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,18/01/2021 06:25,19/06/2023 14:26
+OCPSTRAT-88,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,20/03/2023 03:41,
+OCPSTRAT-87,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,29/10/2022 00:31,
+OCPSTRAT-85,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/02/2023 12:02,27/03/2024 12:34
+OCPSTRAT-84,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,02/05/2023 07:16,
+OCPSTRAT-83,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,11/06/2020 08:22,02/05/2023 23:36
+OCPSTRAT-82,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,26/05/2023 12:53,28/09/2023 01:22
+OCPSTRAT-81,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/01/2021 08:57,03/02/2022 11:18
+OCPSTRAT-80,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/07/2021 15:37,06/02/2023 15:06
+OCPSTRAT-79,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,25/05/2023 19:00,
+OCPSTRAT-78,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/05/2023 21:16,18/12/2023 17:34
+OCPSTRAT-77,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,14/03/2023 12:44,23/08/2023 18:19
+OCPSTRAT-76,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,01/06/2023 02:43,
+OCPSTRAT-75,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,07/02/2023 18:29,28/06/2024 19:41
+OCPSTRAT-74,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,03/03/2023 14:43,19/01/2024 15:49
+OCPSTRAT-73,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,18/10/2022 21:58,20/02/2024 08:51
+OCPSTRAT-72,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,09/02/2023 20:21,31/08/2023 08:57
+OCPSTRAT-71,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,11/11/2022 21:35,
+OCPSTRAT-70,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,28/04/2023 10:42,07/07/2023 19:25
+OCPSTRAT-69,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/03/2023 11:05,10/10/2023 12:00
+OCPSTRAT-65,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,30/11/2022 23:05,10/04/2023 20:54
+OCPSTRAT-64,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,06/02/2023 13:45,28/03/2023 07:37
+OCPSTRAT-63,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/03/2023 05:13,04/03/2024 21:38
+OCPSTRAT-62,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/03/2021 08:23,29/10/2022 12:12
+OCPSTRAT-59,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,06/12/2022 07:01,
+OCPSTRAT-58,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/02/2023 11:01,28/11/2023 17:47
+OCPSTRAT-56,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,28/03/2023 14:56,19/06/2024 08:12
+OCPSTRAT-54,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,24/03/2021 06:52,27/09/2021 14:38
+OCPSTRAT-53,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,05/01/2022 18:43,19/02/2024 11:16
+OCPSTRAT-52,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,11/11/2022 21:30,27/03/2023 23:51
+OCPSTRAT-51,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,09/11/2022 00:03,27/03/2023 23:16
+OCPSTRAT-50,Feature,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,09/01/2023 18:17,
+OCPSTRAT-48,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,17/11/2022 20:25,06/02/2023 19:43
+OCPSTRAT-47,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,25/05/2023 14:47,25/05/2023 14:48
+OCPSTRAT-46,Feature,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,13/03/2023 18:05,
+OCPSTRAT-45,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,29/03/2023 15:09,11/08/2023 03:10
+OCPSTRAT-44,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/03/2023 10:11,14/08/2023 16:57
+OCPSTRAT-43,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,21/02/2023 13:11,02/08/2023 11:47
+OCPSTRAT-42,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/05/2023 11:44,11/10/2023 13:04
+OCPSTRAT-41,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,10/02/2023 09:55,22/08/2023 13:19
+OCPSTRAT-40,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/03/2023 10:56,20/04/2023 15:08
+OCPSTRAT-39,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,17/04/2023 16:16,16/04/2024 17:52
+OCPSTRAT-38,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,26/05/2023 16:56,16/08/2023 13:31
+OCPSTRAT-37,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,17/03/2023 04:03,17/03/2023 04:28
+OCPSTRAT-36,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,09/02/2023 21:54,03/10/2023 14:30
+OCPSTRAT-35,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,13/09/2022 20:51,23/08/2023 20:33
+OCPSTRAT-34,Feature,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,02/05/2023 23:34,
+OCPSTRAT-33,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,13/04/2023 19:59,15/12/2023 17:20
+OCPSTRAT-32,Feature,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,15/02/2023 15:44,15/05/2024 16:05
+OCPSTRAT-29,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,07/06/2023 15:50,07/08/2023 11:17
+OCPSTRAT-28,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,12/05/2021 14:09,28/06/2024 13:39
+OCPSTRAT-27,Outcome,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,01/12/2022 23:51,
+OCPSTRAT-26,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Obsolete,10/02/2023 14:37,08/07/2024 10:39
+OCPSTRAT-24,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,25/05/2023 15:33,29/11/2023 14:37
+OCPSTRAT-22,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,07/12/2022 16:16,07/12/2022 16:17
+OCPSTRAT-19,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Duplicate,07/12/2022 18:15,07/12/2022 18:17
+OCPSTRAT-18,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/06/2023 16:01,25/06/2024 18:56
+OCPSTRAT-16,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,01/12/2022 23:47,27/08/2024 19:41
+OCPSTRAT-15,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/06/2023 16:05,29/11/2023 18:32
+OCPSTRAT-14,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Won't Do,10/02/2023 11:27,06/11/2023 11:15
+OCPSTRAT-12,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,07/06/2023 15:20,08/07/2024 22:20
+OCPSTRAT-11,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,01/12/2022 23:20,27/08/2024 19:14
+OCPSTRAT-10,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,01/12/2022 23:40,25/06/2024 20:43
+OCPSTRAT-8,Outcome,Closed,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,Done,08/12/2022 17:50,18/07/2023 22:12
+OCPSTRAT-6,Outcome,In Progress,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,26/10/2022 18:19,
+OCPSTRAT-5,Outcome,New,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,27/01/2023 18:13,
+OCPSTRAT-4,Outcome,Backlog,OCPSTRAT,OpenShift Container Platform (OCP) Strategy,software,,13/02/2023 20:28,

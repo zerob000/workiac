@@ -1,0 +1,118 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+COMPOSER-2387,Bug,New,COMPOSER,Image Builder,software,,07/11/2024 07:39,
+COMPOSER-2386,Bug,New,COMPOSER,Image Builder,software,,05/11/2024 13:16,
+COMPOSER-2381,Spike,In Progress,COMPOSER,Image Builder,software,,28/10/2024 10:19,
+COMPOSER-2379,Bug,New,COMPOSER,Image Builder,software,,25/10/2024 09:04,
+COMPOSER-2378,Task,Closed,COMPOSER,Image Builder,software,Done,24/10/2024 11:10,05/11/2024 17:26
+COMPOSER-2377,Bug,New,COMPOSER,Image Builder,software,,20/10/2024 20:39,
+COMPOSER-2376,Bug,Closed,COMPOSER,Image Builder,software,Done,20/10/2024 20:36,25/10/2024 12:50
+COMPOSER-2372,Bug,Closed,COMPOSER,Image Builder,software,Done,11/10/2024 11:51,14/10/2024 09:36
+COMPOSER-2361,Story,In Progress,COMPOSER,Image Builder,software,,01/10/2024 15:17,
+COMPOSER-2354,Task,Closed,COMPOSER,Image Builder,software,Done,17/09/2024 08:31,09/10/2024 16:44
+COMPOSER-2353,Task,Closed,COMPOSER,Image Builder,software,Done,17/09/2024 08:30,09/10/2024 16:43
+COMPOSER-2352,Task,New,COMPOSER,Image Builder,software,,17/09/2024 08:30,
+COMPOSER-2351,Task,Closed,COMPOSER,Image Builder,software,Duplicate,17/09/2024 08:29,17/09/2024 08:32
+COMPOSER-2350,Story,In Progress,COMPOSER,Image Builder,software,,16/09/2024 15:07,
+COMPOSER-2343,Task,Closed,COMPOSER,Image Builder,software,Done,26/08/2024 14:31,09/09/2024 15:28
+COMPOSER-2339,Task,Closed,COMPOSER,Image Builder,software,Done,14/08/2024 06:49,22/08/2024 10:22
+COMPOSER-2337,Task,Closed,COMPOSER,Image Builder,software,Done,14/08/2024 07:11,16/08/2024 11:01
+COMPOSER-2308,Story,Closed,COMPOSER,Image Builder,software,Done,10/07/2024 10:17,24/09/2024 09:31
+COMPOSER-2297,Feature,New,COMPOSER,Image Builder,software,,03/07/2024 09:46,
+COMPOSER-2292,Feature,New,COMPOSER,Image Builder,software,,03/07/2024 09:17,
+COMPOSER-2291,Feature,In Progress,COMPOSER,Image Builder,software,,03/07/2024 09:02,
+COMPOSER-2290,Feature,New,COMPOSER,Image Builder,software,,03/07/2024 09:02,
+COMPOSER-2276,Spike,Closed,COMPOSER,Image Builder,software,Duplicate,19/06/2024 10:31,19/06/2024 10:32
+COMPOSER-2275,Spike,New,COMPOSER,Image Builder,software,,19/06/2024 10:31,
+COMPOSER-2274,Story,Closed,COMPOSER,Image Builder,software,Done,18/06/2024 12:26,24/09/2024 09:39
+COMPOSER-2263,Task,Resolved,COMPOSER,Image Builder,software,Done,04/06/2024 10:29,17/06/2024 07:25
+COMPOSER-2254,Bug,New,COMPOSER,Image Builder,software,,23/05/2024 11:43,
+COMPOSER-2252,Feature,In Progress,COMPOSER,Image Builder,software,,22/05/2024 09:34,
+COMPOSER-2249,Outcome,Closed,COMPOSER,Image Builder,software,Done,23/08/2023 11:55,16/05/2024 22:07
+COMPOSER-2248,Outcome,New,COMPOSER,Image Builder,software,,21/03/2024 08:54,
+COMPOSER-2247,Outcome,In Progress,COMPOSER,Image Builder,software,,23/08/2023 11:55,
+COMPOSER-2246,Outcome,In Progress,COMPOSER,Image Builder,software,,23/08/2023 11:56,
+COMPOSER-2245,Bug,New,COMPOSER,Image Builder,software,,16/05/2024 15:08,
+COMPOSER-2236,Bug,New,COMPOSER,Image Builder,software,,13/05/2024 13:56,
+COMPOSER-2221,Story,New,COMPOSER,Image Builder,software,,25/04/2024 16:25,
+COMPOSER-2209,Story,Closed,COMPOSER,Image Builder,software,Done,18/04/2024 12:08,18/04/2024 17:49
+COMPOSER-2205,Story,New,COMPOSER,Image Builder,software,,12/04/2024 13:20,
+COMPOSER-2201,Bug,New,COMPOSER,Image Builder,software,,03/04/2024 09:45,
+COMPOSER-2195,Task,New,COMPOSER,Image Builder,software,,25/03/2024 13:21,
+COMPOSER-2191,Task,New,COMPOSER,Image Builder,software,,12/03/2024 22:17,
+COMPOSER-2167,Task,Closed,COMPOSER,Image Builder,software,Done,28/02/2024 15:25,02/07/2024 15:58
+COMPOSER-2160,Task,Closed,COMPOSER,Image Builder,software,Can't Do,28/02/2024 08:35,19/03/2024 10:30
+COMPOSER-2157,Story,Resolved,COMPOSER,Image Builder,software,Done,22/02/2024 14:29,27/02/2024 14:31
+COMPOSER-2153,Task,Closed,COMPOSER,Image Builder,software,Done,16/02/2024 14:26,08/04/2024 09:22
+COMPOSER-2151,Task,Closed,COMPOSER,Image Builder,software,Done,14/02/2024 15:48,19/02/2024 10:04
+COMPOSER-2148,Task,Closed,COMPOSER,Image Builder,software,Done,09/02/2024 21:44,14/02/2024 17:26
+COMPOSER-2141,Bug,Closed,COMPOSER,Image Builder,software,Cannot Reproduce,01/02/2024 10:14,09/02/2024 13:07
+COMPOSER-2140,Task,New,COMPOSER,Image Builder,software,,31/01/2024 19:43,
+COMPOSER-2135,Bug,New,COMPOSER,Image Builder,software,,26/01/2024 16:12,
+COMPOSER-2124,Task,New,COMPOSER,Image Builder,software,,17/01/2024 14:18,
+COMPOSER-2121,Bug,New,COMPOSER,Image Builder,software,,11/01/2024 12:30,
+COMPOSER-2120,Task,New,COMPOSER,Image Builder,software,,10/01/2024 13:12,
+COMPOSER-2118,Bug,New,COMPOSER,Image Builder,software,,08/01/2024 10:07,
+COMPOSER-2114,Bug,Testing,COMPOSER,Image Builder,software,,22/12/2023 09:11,
+COMPOSER-2113,Bug,New,COMPOSER,Image Builder,software,,21/12/2023 12:28,
+COMPOSER-2112,Task,Closed,COMPOSER,Image Builder,software,Done,21/12/2023 08:21,18/03/2024 16:09
+COMPOSER-2099,Task,New,COMPOSER,Image Builder,software,,11/12/2023 13:49,
+COMPOSER-2090,Task,Closed,COMPOSER,Image Builder,software,Done,02/12/2023 00:06,28/02/2024 12:24
+COMPOSER-2089,Task,Closed,COMPOSER,Image Builder,software,Done,02/12/2023 00:06,28/02/2024 12:24
+COMPOSER-2086,Bug,Resolved,COMPOSER,Image Builder,software,Done,30/11/2023 15:57,06/12/2023 17:29
+COMPOSER-2084,Task,Closed,COMPOSER,Image Builder,software,Done,28/11/2023 12:25,04/12/2023 13:13
+COMPOSER-2083,Task,Closed,COMPOSER,Image Builder,software,Done,28/11/2023 12:25,04/12/2023 13:13
+COMPOSER-2082,Task,Closed,COMPOSER,Image Builder,software,Done,28/11/2023 12:24,04/12/2023 13:20
+COMPOSER-2081,Task,Closed,COMPOSER,Image Builder,software,Done,28/11/2023 12:24,04/12/2023 13:11
+COMPOSER-2074,Bug,Closed,COMPOSER,Image Builder,software,Done,22/11/2023 10:37,01/02/2024 13:48
+COMPOSER-2071,Story,New,COMPOSER,Image Builder,software,,10/11/2023 11:22,
+COMPOSER-2068,Bug,Closed,COMPOSER,Image Builder,software,Done,09/11/2023 15:34,20/02/2024 23:06
+COMPOSER-2066,Bug,Closed,COMPOSER,Image Builder,software,Done,07/11/2023 16:04,24/11/2023 15:13
+COMPOSER-2060,Task,Closed,COMPOSER,Image Builder,software,Done,31/10/2023 12:25,30/05/2024 11:40
+COMPOSER-2059,Task,Closed,COMPOSER,Image Builder,software,Done,31/10/2023 12:13,20/10/2024 20:30
+COMPOSER-2056,Story,Closed,COMPOSER,Image Builder,software,Done,25/10/2023 07:44,06/12/2023 12:21
+COMPOSER-2050,Bug,New,COMPOSER,Image Builder,software,,19/10/2023 13:03,
+COMPOSER-2040,Bug,New,COMPOSER,Image Builder,software,,28/09/2023 00:54,
+COMPOSER-2038,Task,Closed,COMPOSER,Image Builder,software,Done,22/09/2023 12:25,16/09/2024 13:27
+COMPOSER-2037,Bug,New,COMPOSER,Image Builder,software,,21/09/2023 12:58,
+COMPOSER-2035,Task,Closed,COMPOSER,Image Builder,software,Done,18/09/2023 12:37,08/02/2024 14:26
+COMPOSER-2024,Story,Closed,COMPOSER,Image Builder,software,Done,23/08/2023 14:58,10/10/2023 13:13
+COMPOSER-2019,Task,Closed,COMPOSER,Image Builder,software,Done,10/08/2023 20:15,13/12/2023 21:47
+COMPOSER-2018,Task,Closed,COMPOSER,Image Builder,software,Done,10/08/2023 20:15,13/12/2023 21:47
+COMPOSER-2012,Task,Closed,COMPOSER,Image Builder,software,Done,07/08/2023 12:17,29/11/2023 11:50
+COMPOSER-2008,Task,Closed,COMPOSER,Image Builder,software,Done,26/07/2023 12:34,16/08/2023 11:35
+COMPOSER-2007,Task,Closed,COMPOSER,Image Builder,software,Done,26/07/2023 09:26,25/10/2023 20:12
+COMPOSER-2006,Task,Closed,COMPOSER,Image Builder,software,Done,26/07/2023 09:24,26/07/2023 09:25
+COMPOSER-2003,Task,Closed,COMPOSER,Image Builder,software,Done,19/07/2023 13:15,24/08/2023 13:54
+COMPOSER-1998,Task,Closed,COMPOSER,Image Builder,software,Done,11/07/2023 23:07,06/11/2023 15:30
+COMPOSER-1996,Task,Closed,COMPOSER,Image Builder,software,Done,11/07/2023 23:03,03/04/2024 09:54
+COMPOSER-1992,Bug,In Progress,COMPOSER,Image Builder,software,,29/06/2023 13:27,
+COMPOSER-1990,Bug,Closed,COMPOSER,Image Builder,software,Done,28/06/2023 13:52,18/07/2024 09:54
+COMPOSER-1968,Task,New,COMPOSER,Image Builder,software,,23/05/2023 12:01,
+COMPOSER-1966,Task,Closed,COMPOSER,Image Builder,software,Obsolete,22/05/2023 13:00,22/04/2024 08:27
+COMPOSER-1964,Task,Closed,COMPOSER,Image Builder,software,Done,16/05/2023 11:15,26/07/2023 09:21
+COMPOSER-1963,Task,Closed,COMPOSER,Image Builder,software,Done,15/05/2023 12:50,07/09/2023 11:28
+COMPOSER-1960,Task,Closed,COMPOSER,Image Builder,software,Done,03/05/2023 15:28,22/05/2023 12:18
+COMPOSER-1959,Task,Closed,COMPOSER,Image Builder,software,Done,28/04/2023 08:34,21/06/2023 07:58
+COMPOSER-1957,Task,Resolved,COMPOSER,Image Builder,software,Done,25/04/2023 06:26,25/04/2023 12:58
+COMPOSER-1956,Task,Review,COMPOSER,Image Builder,software,,24/04/2023 21:16,
+COMPOSER-1955,Task,In Progress,COMPOSER,Image Builder,software,,24/04/2023 21:12,
+COMPOSER-1954,Task,Resolved,COMPOSER,Image Builder,software,Done,24/04/2023 09:37,18/05/2023 09:36
+COMPOSER-1953,Task,Closed,COMPOSER,Image Builder,software,Done,19/04/2023 15:05,20/04/2023 13:16
+COMPOSER-1952,Bug,Resolved,COMPOSER,Image Builder,software,Done,18/04/2023 15:31,21/04/2023 10:05
+COMPOSER-1948,Task,Closed,COMPOSER,Image Builder,software,Done,05/04/2023 10:52,27/04/2023 09:44
+COMPOSER-1945,Task,Resolved,COMPOSER,Image Builder,software,Done,03/04/2023 15:10,10/07/2023 16:04
+COMPOSER-1944,Task,Resolved,COMPOSER,Image Builder,software,Done,03/04/2023 15:07,18/09/2023 12:32
+COMPOSER-1943,Task,Closed,COMPOSER,Image Builder,software,Done,03/04/2023 11:07,14/04/2023 10:04
+COMPOSER-1942,Task,Resolved,COMPOSER,Image Builder,software,Done,03/04/2023 10:22,05/04/2023 05:50
+COMPOSER-1938,Task,Closed,COMPOSER,Image Builder,software,Done,27/03/2023 11:45,27/06/2023 13:23
+COMPOSER-1937,Task,Resolved,COMPOSER,Image Builder,software,Done,27/03/2023 06:34,30/03/2023 08:39
+COMPOSER-1936,Task,Resolved,COMPOSER,Image Builder,software,Done,23/03/2023 13:59,10/04/2023 08:06
+COMPOSER-1934,Task,New,COMPOSER,Image Builder,software,,23/03/2023 09:28,
+COMPOSER-1933,Task,New,COMPOSER,Image Builder,software,,22/03/2023 17:58,
+COMPOSER-1932,Task,New,COMPOSER,Image Builder,software,,22/03/2023 17:49,
+COMPOSER-1931,Task,New,COMPOSER,Image Builder,software,,22/03/2023 17:27,
+COMPOSER-1929,Task,Closed,COMPOSER,Image Builder,software,Done,22/03/2023 12:55,31/03/2023 06:00
+COMPOSER-1926,Task,Closed,COMPOSER,Image Builder,software,Done,20/03/2023 14:23,21/03/2023 11:00
+COMPOSER-1924,Task,Closed,COMPOSER,Image Builder,software,Done,15/03/2023 16:00,27/03/2023 09:40
+COMPOSER-1898,Bug,Resolved,COMPOSER,Image Builder,software,Done,31/01/2023 15:24,21/04/2023 10:05
+COMPOSER-1886,Task,Closed,COMPOSER,Image Builder,software,Done,12/01/2023 09:09,07/02/2023 12:13

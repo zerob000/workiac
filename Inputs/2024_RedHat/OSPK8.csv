@@ -1,0 +1,339 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+OSPK8-826,Bug,Open,OSPK8,openstack-k8s,software,,13/11/2024 09:54,
+OSPK8-825,Bug,Open,OSPK8,openstack-k8s,software,,06/11/2024 12:25,
+OSPK8-824,Bug,Closed,OSPK8,openstack-k8s,software,Done,29/10/2024 09:16,04/11/2024 21:47
+OSPK8-823,Bug,Open,OSPK8,openstack-k8s,software,,29/10/2024 07:13,
+OSPK8-822,Bug,Closed,OSPK8,openstack-k8s,software,Cannot Reproduce,18/09/2024 09:59,29/10/2024 07:01
+OSPK8-821,Epic,Open,OSPK8,openstack-k8s,software,,28/08/2024 11:05,
+OSPK8-820,Bug,Resolved,OSPK8,openstack-k8s,software,Done,28/08/2024 10:25,29/10/2024 14:11
+OSPK8-819,Bug,Closed,OSPK8,openstack-k8s,software,Done,26/08/2024 12:42,18/09/2024 09:58
+OSPK8-818,Bug,Closed,OSPK8,openstack-k8s,software,Done,15/08/2024 14:48,21/08/2024 11:22
+OSPK8-817,Task,Closed,OSPK8,openstack-k8s,software,Done,14/08/2024 11:00,19/08/2024 12:37
+OSPK8-816,Bug,Closed,OSPK8,openstack-k8s,software,Not a Bug,01/08/2024 14:56,06/08/2024 10:49
+OSPK8-815,Task,Closed,OSPK8,openstack-k8s,software,Done,30/07/2024 22:27,14/08/2024 08:28
+OSPK8-814,Bug,Closed,OSPK8,openstack-k8s,software,Done,30/11/2023 16:27,04/10/2024 22:01
+OSPK8-813,Task,Closed,OSPK8,openstack-k8s,software,Done,20/06/2024 12:42,29/07/2024 10:38
+OSPK8-812,Bug,Closed,OSPK8,openstack-k8s,software,Done,18/06/2024 22:53,14/08/2024 10:46
+OSPK8-811,Bug,Open,OSPK8,openstack-k8s,software,,04/06/2024 21:59,
+OSPK8-810,Bug,Closed,OSPK8,openstack-k8s,software,Duplicate,22/05/2024 16:15,22/05/2024 16:17
+OSPK8-809,Bug,Closed,OSPK8,openstack-k8s,software,Done,21/05/2024 20:48,23/05/2024 11:12
+OSPK8-808,Bug,Closed,OSPK8,openstack-k8s,software,Done,21/05/2024 14:12,22/05/2024 13:19
+OSPK8-807,Story,Open,OSPK8,openstack-k8s,software,,20/05/2024 13:23,
+OSPK8-806,Story,Open,OSPK8,openstack-k8s,software,,16/05/2024 18:55,
+OSPK8-805,Bug,Closed,OSPK8,openstack-k8s,software,Done,12/05/2024 08:34,16/05/2024 13:42
+OSPK8-804,Bug,Closed,OSPK8,openstack-k8s,software,Done,06/05/2024 06:30,12/05/2024 08:20
+OSPK8-803,Bug,Resolved,OSPK8,openstack-k8s,software,Done,02/05/2024 13:34,03/05/2024 11:04
+OSPK8-802,Bug,Resolved,OSPK8,openstack-k8s,software,Done,30/04/2024 08:20,03/05/2024 12:40
+OSPK8-801,Bug,Resolved,OSPK8,openstack-k8s,software,Done,30/04/2024 08:10,01/05/2024 12:07
+OSPK8-800,Bug,Closed,OSPK8,openstack-k8s,software,Done,17/04/2024 11:43,07/05/2024 08:02
+OSPK8-799,Bug,Closed,OSPK8,openstack-k8s,software,Done,17/04/2024 11:33,24/04/2024 09:25
+OSPK8-798,Bug,Resolved,OSPK8,openstack-k8s,software,Done,10/04/2024 11:58,15/04/2024 06:19
+OSPK8-797,Bug,Open,OSPK8,openstack-k8s,software,,29/02/2024 02:46,
+OSPK8-796,Bug,Open,OSPK8,openstack-k8s,software,,03/04/2024 11:35,
+OSPK8-795,Bug,Open,OSPK8,openstack-k8s,software,,03/04/2024 11:32,
+OSPK8-794,Bug,Closed,OSPK8,openstack-k8s,software,Not a Bug,03/04/2024 07:53,17/04/2024 11:31
+OSPK8-793,Bug,Open,OSPK8,openstack-k8s,software,,03/04/2024 07:35,
+OSPK8-792,Bug,Closed,OSPK8,openstack-k8s,software,Done,03/04/2024 07:17,17/04/2024 11:28
+OSPK8-790,Story,Closed,OSPK8,openstack-k8s,software,Done,27/02/2024 12:58,15/04/2024 11:02
+OSPK8-789,Story,Closed,OSPK8,openstack-k8s,software,Done,14/02/2024 00:36,14/02/2024 00:44
+OSPK8-787,Bug,Closed,OSPK8,openstack-k8s,software,Done,29/01/2024 22:27,23/05/2024 11:14
+OSPK8-785,Story,Closed,OSPK8,openstack-k8s,software,Done,17/12/2023 09:41,12/05/2024 08:31
+OSPK8-784,Epic,Resolved,OSPK8,openstack-k8s,software,Done,15/12/2023 15:18,30/01/2024 17:07
+OSPK8-782,Bug,Closed,OSPK8,openstack-k8s,software,Done,04/12/2023 10:16,12/12/2023 13:29
+OSPK8-781,Bug,Closed,OSPK8,openstack-k8s,software,Done,29/11/2023 09:54,30/11/2023 08:14
+OSPK8-780,Task,Closed,OSPK8,openstack-k8s,software,Done,22/11/2023 09:10,23/05/2024 11:14
+OSPK8-779,Bug,Closed,OSPK8,openstack-k8s,software,Won't Do,17/11/2023 09:22,23/11/2023 12:46
+OSPK8-778,Bug,Closed,OSPK8,openstack-k8s,software,Done,17/11/2023 07:25,03/12/2023 06:39
+OSPK8-777,Bug,Closed,OSPK8,openstack-k8s,software,Done,17/11/2023 07:18,27/11/2023 10:28
+OSPK8-776,Task,Closed,OSPK8,openstack-k8s,software,Done,15/11/2023 07:49,16/11/2023 18:58
+OSPK8-775,Bug,Closed,OSPK8,openstack-k8s,software,Done,13/11/2023 08:06,27/11/2023 10:30
+OSPK8-774,Task,Closed,OSPK8,openstack-k8s,software,Done,13/11/2023 07:41,27/11/2023 10:31
+OSPK8-773,Bug,Closed,OSPK8,openstack-k8s,software,Done,05/11/2023 09:11,06/11/2023 09:50
+OSPK8-772,Task,Closed,OSPK8,openstack-k8s,software,Done,30/10/2023 08:58,06/11/2023 09:49
+OSPK8-771,Epic,Closed,OSPK8,openstack-k8s,software,Done,20/10/2023 18:10,20/10/2023 18:13
+OSPK8-770,Task,Closed,OSPK8,openstack-k8s,software,Done,18/10/2023 21:22,29/10/2023 07:14
+OSPK8-769,Task,Closed,OSPK8,openstack-k8s,software,Done,10/10/2023 11:59,18/10/2023 20:22
+OSPK8-768,Bug,Closed,OSPK8,openstack-k8s,software,Done,03/10/2023 05:21,23/10/2023 11:00
+OSPK8-767,Bug,Closed,OSPK8,openstack-k8s,software,Done,27/09/2023 08:57,28/09/2023 07:36
+OSPK8-766,Task,Closed,OSPK8,openstack-k8s,software,Done,19/09/2023 08:42,23/10/2023 10:58
+OSPK8-765,Bug,Open,OSPK8,openstack-k8s,software,,15/09/2023 01:37,
+OSPK8-764,Bug,Closed,OSPK8,openstack-k8s,software,Done,14/09/2023 08:35,19/12/2023 07:13
+OSPK8-763,Bug,Open,OSPK8,openstack-k8s,software,,12/09/2023 11:40,
+OSPK8-762,Task,Closed,OSPK8,openstack-k8s,software,Done,11/09/2023 08:55,18/10/2023 20:19
+OSPK8-761,Bug,Closed,OSPK8,openstack-k8s,software,Done,11/09/2023 08:51,18/09/2023 10:10
+OSPK8-760,Bug,Open,OSPK8,openstack-k8s,software,,07/09/2023 07:13,
+OSPK8-759,Bug,Closed,OSPK8,openstack-k8s,software,Done,05/09/2023 11:19,19/12/2023 07:22
+OSPK8-758,Bug,Closed,OSPK8,openstack-k8s,software,Done,04/09/2023 07:30,10/09/2023 07:10
+OSPK8-756,Task,Closed,OSPK8,openstack-k8s,software,Done,28/08/2023 09:46,17/12/2023 14:10
+OSPK8-755,Bug,Open,OSPK8,openstack-k8s,software,,24/08/2023 21:29,
+OSPK8-754,Bug,Open,OSPK8,openstack-k8s,software,,24/08/2023 21:27,
+OSPK8-753,Bug,Closed,OSPK8,openstack-k8s,software,Test Pending,24/08/2023 21:23,14/12/2023 12:37
+OSPK8-752,Bug,Open,OSPK8,openstack-k8s,software,,24/08/2023 21:17,
+OSPK8-751,Bug,Open,OSPK8,openstack-k8s,software,,24/08/2023 21:12,
+OSPK8-750,Bug,Open,OSPK8,openstack-k8s,software,,24/08/2023 21:08,
+OSPK8-749,Bug,Closed,OSPK8,openstack-k8s,software,Done,24/08/2023 21:04,23/05/2024 08:06
+OSPK8-748,Bug,Open,OSPK8,openstack-k8s,software,,24/08/2023 18:27,
+OSPK8-747,Bug,Reopened,OSPK8,openstack-k8s,software,,21/08/2023 22:54,
+OSPK8-746,Bug,Resolved,OSPK8,openstack-k8s,software,Done,21/08/2023 19:46,22/08/2023 13:28
+OSPK8-745,Epic,Closed,OSPK8,openstack-k8s,software,Done,21/08/2023 09:09,18/12/2023 20:46
+OSPK8-744,Task,Closed,OSPK8,openstack-k8s,software,Cannot Reproduce,21/08/2023 08:59,04/09/2023 07:50
+OSPK8-742,Bug,Open,OSPK8,openstack-k8s,software,,17/08/2023 17:31,
+OSPK8-741,Bug,Closed,OSPK8,openstack-k8s,software,Done,14/08/2023 06:52,21/08/2023 09:00
+OSPK8-739,Task,Closed,OSPK8,openstack-k8s,software,Done,13/08/2023 13:40,15/08/2023 09:18
+OSPK8-738,Task,Closed,OSPK8,openstack-k8s,software,Done,07/08/2023 07:48,07/08/2023 08:08
+OSPK8-737,Epic,Closed,OSPK8,openstack-k8s,software,Done,07/08/2023 07:28,12/05/2024 08:30
+OSPK8-735,Story,Closed,OSPK8,openstack-k8s,software,Done,24/07/2023 12:30,15/08/2023 09:10
+OSPK8-715,Story,Resolved,OSPK8,openstack-k8s,software,Done,18/07/2023 15:19,21/09/2023 13:10
+OSPK8-714,Story,Closed,OSPK8,openstack-k8s,software,Done,18/07/2023 15:16,08/01/2024 11:24
+OSPK8-712,Bug,Closed,OSPK8,openstack-k8s,software,Done,12/07/2023 22:41,13/07/2023 09:28
+OSPK8-711,Bug,Closed,OSPK8,openstack-k8s,software,Done,12/07/2023 10:02,13/07/2023 08:24
+OSPK8-710,Bug,Closed,OSPK8,openstack-k8s,software,Done,11/07/2023 00:18,13/07/2023 09:27
+OSPK8-709,Bug,Closed,OSPK8,openstack-k8s,software,Done,10/07/2023 23:50,11/07/2023 21:18
+OSPK8-708,Bug,Resolved,OSPK8,openstack-k8s,software,Done,09/07/2023 13:22,10/07/2023 15:32
+OSPK8-707,Bug,Closed,OSPK8,openstack-k8s,software,Done,09/07/2023 12:08,11/07/2023 21:19
+OSPK8-706,Bug,Closed,OSPK8,openstack-k8s,software,Done,08/07/2023 00:51,12/12/2023 13:07
+OSPK8-705,Epic,Open,OSPK8,openstack-k8s,software,,06/07/2023 10:36,
+OSPK8-704,Epic,Resolved,OSPK8,openstack-k8s,software,Done,06/07/2023 07:44,28/08/2023 08:23
+OSPK8-703,Bug,Closed,OSPK8,openstack-k8s,software,Done,04/07/2023 20:38,10/07/2023 12:57
+OSPK8-702,Bug,Closed,OSPK8,openstack-k8s,software,Done,03/07/2023 12:25,06/09/2023 00:14
+OSPK8-701,Bug,Resolved,OSPK8,openstack-k8s,software,Done,22/06/2023 13:47,22/06/2023 13:48
+OSPK8-698,Bug,Closed,OSPK8,openstack-k8s,software,Done,15/06/2023 09:42,10/07/2023 23:48
+OSPK8-697,Bug,Closed,OSPK8,openstack-k8s,software,Done,15/06/2023 09:29,20/06/2023 12:35
+OSPK8-696,Bug,Open,OSPK8,openstack-k8s,software,,08/06/2023 14:24,
+OSPK8-694,Bug,Closed,OSPK8,openstack-k8s,software,Not a Bug,08/06/2023 08:58,13/06/2023 07:07
+OSPK8-693,Task,Closed,OSPK8,openstack-k8s,software,Done,08/06/2023 07:38,20/06/2023 12:20
+OSPK8-687,Bug,Resolved,OSPK8,openstack-k8s,software,Done,27/04/2023 11:43,14/06/2023 13:16
+OSPK8-684,Task,Resolved,OSPK8,openstack-k8s,software,Done,26/04/2023 11:31,27/04/2023 06:41
+OSPK8-683,Task,Resolved,OSPK8,openstack-k8s,software,Done,25/04/2023 12:21,02/05/2023 05:59
+OSPK8-682,Task,Closed,OSPK8,openstack-k8s,software,Done,20/04/2023 07:39,21/08/2023 09:00
+OSPK8-681,Bug,Closed,OSPK8,openstack-k8s,software,Duplicate,17/04/2023 06:44,17/04/2023 08:44
+OSPK8-680,Task,Resolved,OSPK8,openstack-k8s,software,Done,17/04/2023 06:34,25/04/2023 12:21
+OSPK8-679,Epic,Open,OSPK8,openstack-k8s,software,,17/04/2023 06:31,
+OSPK8-678,Task,Resolved,OSPK8,openstack-k8s,software,Done,17/04/2023 06:27,18/04/2023 12:55
+OSPK8-677,Task,Resolved,OSPK8,openstack-k8s,software,Done,02/03/2023 11:42,02/03/2023 11:42
+OSPK8-674,Story,Resolved,OSPK8,openstack-k8s,software,Done,17/02/2023 17:44,21/06/2023 17:19
+OSPK8-673,Bug,Resolved,OSPK8,openstack-k8s,software,Done,02/02/2023 23:58,21/06/2023 17:50
+OSPK8-672,Bug,Resolved,OSPK8,openstack-k8s,software,Done,02/02/2023 01:19,21/06/2023 13:08
+OSPK8-670,Story,Resolved,OSPK8,openstack-k8s,software,Done,27/01/2023 09:48,21/06/2023 13:08
+OSPK8-669,Bug,Open,OSPK8,openstack-k8s,software,,26/01/2023 08:29,
+OSPK8-668,Story,Resolved,OSPK8,openstack-k8s,software,Done,20/01/2023 21:03,21/06/2023 17:19
+OSPK8-667,Story,Resolved,OSPK8,openstack-k8s,software,Done,20/01/2023 20:58,17/02/2023 17:41
+OSPK8-666,Bug,Resolved,OSPK8,openstack-k8s,software,Done,20/01/2023 20:49,27/02/2023 17:13
+OSPK8-665,Bug,Resolved,OSPK8,openstack-k8s,software,Duplicate,20/01/2023 20:49,25/01/2023 12:09
+OSPK8-664,Bug,Closed,OSPK8,openstack-k8s,software,Done,19/01/2023 12:04,26/01/2023 10:30
+OSPK8-663,Task,Resolved,OSPK8,openstack-k8s,software,Duplicate,12/01/2023 15:19,19/01/2023 12:58
+OSPK8-662,Task,Open,OSPK8,openstack-k8s,software,,11/01/2023 13:24,
+OSPK8-661,Bug,Resolved,OSPK8,openstack-k8s,software,Done,04/01/2023 15:37,29/03/2023 08:59
+OSPK8-660,Task,Resolved,OSPK8,openstack-k8s,software,Not a Bug,01/01/2023 12:47,02/01/2023 10:07
+OSPK8-659,Task,Closed,OSPK8,openstack-k8s,software,Done,20/12/2022 13:30,12/05/2024 08:30
+OSPK8-658,Task,Resolved,OSPK8,openstack-k8s,software,Done,19/12/2022 22:32,20/12/2022 13:43
+OSPK8-653,Task,Resolved,OSPK8,openstack-k8s,software,Done,18/12/2022 06:58,15/01/2023 20:51
+OSPK8-652,Task,Closed,OSPK8,openstack-k8s,software,Done,12/12/2022 13:22,04/09/2024 14:09
+OSPK8-651,Bug,Closed,OSPK8,openstack-k8s,software,Done,12/12/2022 11:52,12/05/2024 08:30
+OSPK8-650,Bug,Resolved,OSPK8,openstack-k8s,software,Done,07/12/2022 12:57,09/12/2022 13:47
+OSPK8-649,Task,Resolved,OSPK8,openstack-k8s,software,Done,01/12/2022 08:22,13/01/2023 00:05
+OSPK8-648,Bug,Closed,OSPK8,openstack-k8s,software,Done,28/11/2022 07:42,29/11/2022 06:42
+OSPK8-647,Bug,Closed,OSPK8,openstack-k8s,software,Obsolete,27/11/2022 08:30,21/10/2024 18:23
+OSPK8-646,Bug,Resolved,OSPK8,openstack-k8s,software,Done,24/11/2022 10:03,14/12/2022 10:33
+OSPK8-645,Bug,Resolved,OSPK8,openstack-k8s,software,Done,22/11/2022 12:11,14/12/2022 10:32
+OSPK8-643,Bug,Resolved,OSPK8,openstack-k8s,software,Done,20/11/2022 09:19,29/11/2022 06:42
+OSPK8-641,Bug,Resolved,OSPK8,openstack-k8s,software,Done,17/11/2022 10:51,30/11/2022 12:23
+OSPK8-640,Bug,Resolved,OSPK8,openstack-k8s,software,Done,17/11/2022 10:31,30/11/2022 12:15
+OSPK8-639,Task,Closed,OSPK8,openstack-k8s,software,Done,14/11/2022 07:13,12/05/2024 08:30
+OSPK8-638,Bug,Open,OSPK8,openstack-k8s,software,,04/11/2022 22:09,
+OSPK8-635,Bug,Resolved,OSPK8,openstack-k8s,software,Done,03/11/2022 09:11,14/12/2022 10:34
+OSPK8-633,Bug,Resolved,OSPK8,openstack-k8s,software,Done,22/09/2022 12:53,22/09/2022 13:12
+OSPK8-632,Bug,Closed,OSPK8,openstack-k8s,software,Not a Bug,15/09/2022 12:46,15/09/2022 14:22
+OSPK8-630,Bug,Resolved,OSPK8,openstack-k8s,software,Done,12/09/2022 14:13,21/06/2023 17:42
+OSPK8-629,Bug,Open,OSPK8,openstack-k8s,software,,09/09/2022 11:38,
+OSPK8-626,Bug,Resolved,OSPK8,openstack-k8s,software,Done,06/09/2022 14:41,21/06/2023 17:43
+OSPK8-625,Task,Open,OSPK8,openstack-k8s,software,,06/09/2022 11:30,
+OSPK8-624,Bug,Open,OSPK8,openstack-k8s,software,,06/09/2022 09:23,
+OSPK8-623,Bug,Closed,OSPK8,openstack-k8s,software,Done,06/09/2022 09:23,21/10/2024 15:23
+OSPK8-622,Story,Resolved,OSPK8,openstack-k8s,software,Done,02/09/2022 17:31,08/09/2022 13:34
+OSPK8-618,Story,Closed,OSPK8,openstack-k8s,software,Done,01/09/2022 12:07,04/09/2024 14:09
+OSPK8-614,Task,Closed,OSPK8,openstack-k8s,software,Done,21/08/2022 23:53,30/04/2024 09:33
+OSPK8-613,Task,Resolved,OSPK8,openstack-k8s,software,Done,11/08/2022 08:25,01/12/2022 08:23
+OSPK8-612,Task,Resolved,OSPK8,openstack-k8s,software,Done,01/08/2022 09:30,02/08/2022 09:32
+OSPK8-611,Bug,Open,OSPK8,openstack-k8s,software,,26/07/2022 14:09,
+OSPK8-602,Bug,Resolved,OSPK8,openstack-k8s,software,Done,20/07/2022 05:59,26/07/2022 06:58
+OSPK8-601,Bug,Resolved,OSPK8,openstack-k8s,software,Done,15/07/2022 08:11,15/07/2022 14:47
+OSPK8-600,Bug,Resolved,OSPK8,openstack-k8s,software,Done,13/07/2022 13:23,15/07/2022 14:38
+OSPK8-594,Task,Resolved,OSPK8,openstack-k8s,software,Done,21/06/2022 12:11,23/06/2022 21:13
+OSPK8-592,Task,Resolved,OSPK8,openstack-k8s,software,Done,21/06/2022 10:02,27/06/2022 10:29
+OSPK8-574,Task,Closed,OSPK8,openstack-k8s,software,Done,23/05/2022 21:07,12/05/2024 08:29
+OSPK8-569,Story,Open,OSPK8,openstack-k8s,software,,17/05/2022 21:46,
+OSPK8-564,Task,Resolved,OSPK8,openstack-k8s,software,Done,16/05/2022 08:00,21/07/2022 13:47
+OSPK8-563,Bug,Resolved,OSPK8,openstack-k8s,software,Done,11/05/2022 11:27,16/05/2022 12:17
+OSPK8-559,Task,Resolved,OSPK8,openstack-k8s,software,Done,03/05/2022 12:58,04/12/2022 09:33
+OSPK8-546,Bug,Open,OSPK8,openstack-k8s,software,,27/04/2022 14:27,
+OSPK8-545,Bug,Resolved,OSPK8,openstack-k8s,software,Done,26/04/2022 06:12,03/05/2022 06:21
+OSPK8-544,Task,Resolved,OSPK8,openstack-k8s,software,Done,25/04/2022 12:35,02/05/2022 09:37
+OSPK8-542,Task,Resolved,OSPK8,openstack-k8s,software,Done,24/04/2022 12:52,04/12/2022 09:35
+OSPK8-537,Task,Closed,OSPK8,openstack-k8s,software,Done,02/02/2022 09:55,02/02/2022 13:01
+OSPK8-536,Task,Resolved,OSPK8,openstack-k8s,software,,07/02/2022 12:53,
+OSPK8-535,Task,Closed,OSPK8,openstack-k8s,software,Done,04/04/2022 11:39,10/04/2022 08:49
+OSPK8-534,Task,Closed,OSPK8,openstack-k8s,software,Done,02/02/2022 09:50,02/02/2022 13:01
+OSPK8-532,Story,Resolved,OSPK8,openstack-k8s,software,,16/12/2021 08:19,
+OSPK8-531,Story,Resolved,OSPK8,openstack-k8s,software,,04/04/2022 11:41,
+OSPK8-530,Story,Closed,OSPK8,openstack-k8s,software,Done,20/01/2022 23:04,26/01/2022 21:47
+OSPK8-529,Story,Resolved,OSPK8,openstack-k8s,software,,12/10/2021 21:57,
+OSPK8-528,Story,Closed,OSPK8,openstack-k8s,software,Done,14/12/2021 22:11,26/01/2022 00:10
+OSPK8-527,Story,Closed,OSPK8,openstack-k8s,software,Done,30/11/2021 07:33,14/12/2021 11:41
+OSPK8-526,Story,Closed,OSPK8,openstack-k8s,software,Done,21/11/2021 11:38,02/12/2021 08:00
+OSPK8-525,Story,Closed,OSPK8,openstack-k8s,software,Done,14/12/2021 22:04,20/12/2021 14:03
+OSPK8-524,Story,Resolved,OSPK8,openstack-k8s,software,,04/01/2022 10:21,
+OSPK8-523,Story,Closed,OSPK8,openstack-k8s,software,Done,31/01/2022 13:05,27/02/2022 10:35
+OSPK8-522,Story,Closed,OSPK8,openstack-k8s,software,Done,30/11/2021 11:22,13/12/2021 08:00
+OSPK8-521,Story,Resolved,OSPK8,openstack-k8s,software,,01/12/2021 11:25,
+OSPK8-520,Story,Closed,OSPK8,openstack-k8s,software,Done,03/01/2022 23:45,03/01/2022 23:48
+OSPK8-519,Story,Closed,OSPK8,openstack-k8s,software,Done,31/01/2022 13:08,31/01/2022 22:57
+OSPK8-518,Story,Closed,OSPK8,openstack-k8s,software,Done,17/11/2021 11:17,02/12/2021 07:58
+OSPK8-517,Story,Closed,OSPK8,openstack-k8s,software,Done,30/03/2022 15:14,05/04/2022 09:41
+OSPK8-516,Story,Resolved,OSPK8,openstack-k8s,software,,27/01/2022 13:17,
+OSPK8-508,Task,Closed,OSPK8,openstack-k8s,software,Done,04/04/2022 11:46,27/04/2022 07:12
+OSPK8-507,Task,Resolved,OSPK8,openstack-k8s,software,Done,30/11/2021 07:46,04/12/2022 09:34
+OSPK8-506,Task,Resolved,OSPK8,openstack-k8s,software,Done,08/03/2022 22:15,08/09/2022 09:33
+OSPK8-503,Story,Resolved,OSPK8,openstack-k8s,software,Done,02/01/2022 13:44,06/06/2022 20:08
+OSPK8-501,Task,Resolved,OSPK8,openstack-k8s,software,Done,19/04/2022 12:36,03/05/2022 08:25
+OSPK8-500,Story,Open,OSPK8,openstack-k8s,software,,18/04/2022 14:30,
+OSPK8-498,Task,Open,OSPK8,openstack-k8s,software,,18/04/2022 12:53,
+OSPK8-475,Epic,Open,OSPK8,openstack-k8s,software,,12/04/2022 07:51,
+OSPK8-474,Task,Resolved,OSPK8,openstack-k8s,software,Done,07/04/2022 15:30,12/05/2022 05:23
+OSPK8-473,Story,Open,OSPK8,openstack-k8s,software,,06/04/2022 20:43,
+OSPK8-472,Task,Resolved,OSPK8,openstack-k8s,software,Done,06/04/2022 14:16,12/05/2022 05:24
+OSPK8-467,Task,Resolved,OSPK8,openstack-k8s,software,Done,06/04/2022 14:06,12/05/2022 05:24
+OSPK8-466,Task,Closed,OSPK8,openstack-k8s,software,Done,06/04/2022 14:01,12/04/2022 15:53
+OSPK8-465,Epic,Resolved,OSPK8,openstack-k8s,software,Done,06/04/2022 13:10,04/12/2022 09:31
+OSPK8-464,Task,Open,OSPK8,openstack-k8s,software,,06/04/2022 06:27,
+OSPK8-463,Task,Open,OSPK8,openstack-k8s,software,,06/04/2022 06:27,
+OSPK8-462,Task,Open,OSPK8,openstack-k8s,software,,06/04/2022 06:26,
+OSPK8-461,Story,Resolved,OSPK8,openstack-k8s,software,Done,30/03/2022 20:27,03/05/2022 06:21
+OSPK8-460,Story,Resolved,OSPK8,openstack-k8s,software,Done,30/03/2022 16:16,08/04/2022 11:33
+OSPK8-459,Task,Open,OSPK8,openstack-k8s,software,,30/03/2022 14:25,
+OSPK8-458,Bug,Resolved,OSPK8,openstack-k8s,software,Done,30/03/2022 12:24,30/03/2022 14:29
+OSPK8-457,Bug,Resolved,OSPK8,openstack-k8s,software,Done,30/03/2022 09:28,30/03/2022 12:19
+OSPK8-456,Bug,Resolved,OSPK8,openstack-k8s,software,Done,25/03/2022 15:07,05/05/2022 12:23
+OSPK8-455,Story,Resolved,OSPK8,openstack-k8s,software,Done,23/03/2022 14:27,30/03/2022 20:27
+OSPK8-452,Story,Resolved,OSPK8,openstack-k8s,software,Done,18/03/2022 20:47,20/01/2023 20:56
+OSPK8-451,Bug,Resolved,OSPK8,openstack-k8s,software,Done,17/03/2022 14:08,28/03/2022 13:51
+OSPK8-450,Story,Resolved,OSPK8,openstack-k8s,software,Done,15/03/2022 14:39,23/05/2022 05:48
+OSPK8-449,Task,Resolved,OSPK8,openstack-k8s,software,Done,15/03/2022 10:48,30/03/2022 09:29
+OSPK8-448,Bug,Resolved,OSPK8,openstack-k8s,software,Done,11/03/2022 09:08,14/03/2022 08:16
+OSPK8-447,Bug,Resolved,OSPK8,openstack-k8s,software,Done,08/03/2022 07:57,11/03/2022 09:08
+OSPK8-446,Story,Open,OSPK8,openstack-k8s,software,,04/03/2022 15:09,
+OSPK8-445,Story,Open,OSPK8,openstack-k8s,software,,04/03/2022 15:08,
+OSPK8-444,Story,Closed,OSPK8,openstack-k8s,software,Done,04/03/2022 15:07,29/03/2023 11:11
+OSPK8-443,Story,Open,OSPK8,openstack-k8s,software,,25/02/2022 08:36,
+OSPK8-442,Story,Resolved,OSPK8,openstack-k8s,software,Done,24/02/2022 14:18,20/01/2023 21:00
+OSPK8-441,Task,Closed,OSPK8,openstack-k8s,software,Duplicate,09/02/2022 10:46,06/04/2022 12:59
+OSPK8-440,Task,Open,OSPK8,openstack-k8s,software,,03/02/2022 13:22,
+OSPK8-438,Story,Resolved,OSPK8,openstack-k8s,software,Done,02/02/2022 14:19,18/03/2022 20:44
+OSPK8-437,Task,Resolved,OSPK8,openstack-k8s,software,Done,01/02/2022 20:07,17/03/2022 12:13
+OSPK8-436,Story,Resolved,OSPK8,openstack-k8s,software,Done,01/02/2022 10:09,20/07/2023 16:43
+OSPK8-435,Story,Resolved,OSPK8,openstack-k8s,software,Done,31/01/2022 01:49,30/03/2022 20:26
+OSPK8-434,Story,Resolved,OSPK8,openstack-k8s,software,Done,31/01/2022 01:47,02/02/2022 14:03
+OSPK8-433,Bug,Resolved,OSPK8,openstack-k8s,software,Done,28/01/2022 16:12,31/01/2022 16:46
+OSPK8-432,Story,Resolved,OSPK8,openstack-k8s,software,Done,28/01/2022 13:12,31/01/2022 16:46
+OSPK8-431,Story,Resolved,OSPK8,openstack-k8s,software,Done,25/01/2022 12:16,26/01/2022 15:47
+OSPK8-427,Story,Resolved,OSPK8,openstack-k8s,software,Done,20/01/2022 14:06,03/05/2022 06:20
+OSPK8-425,Story,Resolved,OSPK8,openstack-k8s,software,Done,13/01/2022 16:28,17/03/2022 10:55
+OSPK8-424,Bug,Resolved,OSPK8,openstack-k8s,software,Done,10/01/2022 15:49,11/01/2022 10:13
+OSPK8-422,Story,Resolved,OSPK8,openstack-k8s,software,Done,05/01/2022 14:01,02/02/2022 14:05
+OSPK8-421,Story,Resolved,OSPK8,openstack-k8s,software,Done,04/01/2022 10:44,20/01/2022 14:14
+OSPK8-420,Bug,Resolved,OSPK8,openstack-k8s,software,Done,14/12/2021 10:31,16/12/2021 10:50
+OSPK8-419,Story,Resolved,OSPK8,openstack-k8s,software,Done,10/12/2021 11:57,16/12/2021 07:38
+OSPK8-418,Story,Open,OSPK8,openstack-k8s,software,,09/12/2021 13:34,
+OSPK8-417,Story,Resolved,OSPK8,openstack-k8s,software,Done,08/12/2021 12:45,04/04/2022 10:14
+OSPK8-416,Story,Resolved,OSPK8,openstack-k8s,software,Done,08/12/2021 11:17,10/12/2021 13:42
+OSPK8-408,Story,Resolved,OSPK8,openstack-k8s,software,Done,08/12/2021 10:45,07/03/2022 14:40
+OSPK8-407,Story,Resolved,OSPK8,openstack-k8s,software,Done,03/12/2021 16:16,08/12/2021 10:43
+OSPK8-406,Epic,Open,OSPK8,openstack-k8s,software,,02/12/2021 14:31,
+OSPK8-405,Story,Resolved,OSPK8,openstack-k8s,software,Done,30/11/2021 16:32,08/12/2021 10:43
+OSPK8-403,Task,Resolved,OSPK8,openstack-k8s,software,Done,23/11/2021 09:20,17/02/2022 08:33
+OSPK8-402,Story,Resolved,OSPK8,openstack-k8s,software,Done,22/11/2021 15:10,03/12/2021 16:32
+OSPK8-401,Story,Closed,OSPK8,openstack-k8s,software,Done,17/11/2021 16:55,18/11/2021 12:37
+OSPK8-400,Story,Closed,OSPK8,openstack-k8s,software,Done,12/11/2021 14:44,17/11/2021 16:52
+OSPK8-399,Story,Open,OSPK8,openstack-k8s,software,,11/11/2021 15:15,
+OSPK8-398,Story,Resolved,OSPK8,openstack-k8s,software,Done,11/11/2021 13:23,12/07/2022 07:56
+OSPK8-397,Bug,Open,OSPK8,openstack-k8s,software,,06/11/2021 18:56,
+OSPK8-396,Story,Open,OSPK8,openstack-k8s,software,,06/11/2021 18:19,
+OSPK8-395,Story,Closed,OSPK8,openstack-k8s,software,Done,06/11/2021 13:03,11/11/2021 09:10
+OSPK8-394,Story,Closed,OSPK8,openstack-k8s,software,Done,05/11/2021 20:42,10/11/2021 22:21
+OSPK8-393,Epic,Closed,OSPK8,openstack-k8s,software,Done,05/11/2021 14:31,02/12/2021 14:25
+OSPK8-392,Bug,Resolved,OSPK8,openstack-k8s,software,Done,04/11/2021 09:38,30/11/2021 13:45
+OSPK8-391,Bug,Closed,OSPK8,openstack-k8s,software,Done,02/11/2021 10:35,15/11/2021 12:49
+OSPK8-390,Story,Closed,OSPK8,openstack-k8s,software,Won't Do,28/10/2021 12:08,18/11/2021 12:40
+OSPK8-389,Epic,Open,OSPK8,openstack-k8s,software,,28/10/2021 11:44,
+OSPK8-388,Story,Resolved,OSPK8,openstack-k8s,software,Done,28/10/2021 11:43,25/11/2021 09:56
+OSPK8-387,Story,Open,OSPK8,openstack-k8s,software,,25/10/2021 15:47,
+OSPK8-386,Story,Resolved,OSPK8,openstack-k8s,software,Done,21/10/2021 15:46,28/10/2021 06:34
+OSPK8-385,Task,Resolved,OSPK8,openstack-k8s,software,Done,20/10/2021 11:39,16/03/2022 06:44
+OSPK8-384,Story,Resolved,OSPK8,openstack-k8s,software,Done,13/10/2021 14:23,21/03/2022 14:06
+OSPK8-383,Story,Open,OSPK8,openstack-k8s,software,,12/10/2021 08:55,
+OSPK8-382,Story,Open,OSPK8,openstack-k8s,software,,12/10/2021 08:54,
+OSPK8-381,Task,Open,OSPK8,openstack-k8s,software,,12/10/2021 08:52,
+OSPK8-380,Story,Resolved,OSPK8,openstack-k8s,software,Done,12/10/2021 08:50,02/05/2022 06:14
+OSPK8-379,Epic,Coding In Progress,OSPK8,openstack-k8s,software,,12/10/2021 08:49,
+OSPK8-378,Task,Open,OSPK8,openstack-k8s,software,,12/10/2021 08:23,
+OSPK8-377,Story,Open,OSPK8,openstack-k8s,software,,06/10/2021 17:10,
+OSPK8-376,Story,Resolved,OSPK8,openstack-k8s,software,Done,06/10/2021 16:41,15/03/2022 14:50
+OSPK8-375,Epic,Open,OSPK8,openstack-k8s,software,,06/10/2021 15:17,
+OSPK8-374,Story,Resolved,OSPK8,openstack-k8s,software,Done,06/10/2021 09:57,28/10/2021 06:34
+OSPK8-373,Story,Resolved,OSPK8,openstack-k8s,software,Done,06/10/2021 09:54,20/10/2021 12:49
+OSPK8-372,Story,Resolved,OSPK8,openstack-k8s,software,Done,06/10/2021 09:46,18/10/2021 08:06
+OSPK8-371,Story,Resolved,OSPK8,openstack-k8s,software,Done,06/10/2021 09:45,18/10/2021 08:06
+OSPK8-370,Story,Resolved,OSPK8,openstack-k8s,software,Done,04/10/2021 10:44,15/03/2022 15:11
+OSPK8-369,Story,Resolved,OSPK8,openstack-k8s,software,Done,30/09/2021 14:59,19/04/2022 12:34
+OSPK8-368,Story,Open,OSPK8,openstack-k8s,software,,30/09/2021 13:32,
+OSPK8-367,Story,Resolved,OSPK8,openstack-k8s,software,Done,30/09/2021 13:25,25/01/2022 12:26
+OSPK8-365,Story,Resolved,OSPK8,openstack-k8s,software,Done,29/09/2021 10:08,06/10/2021 09:48
+OSPK8-363,Story,Open,OSPK8,openstack-k8s,software,,27/09/2021 17:10,
+OSPK8-362,Story,Resolved,OSPK8,openstack-k8s,software,Done,27/09/2021 17:10,02/02/2022 14:06
+OSPK8-361,Epic,Open,OSPK8,openstack-k8s,software,,27/09/2021 17:07,
+OSPK8-360,Story,Closed,OSPK8,openstack-k8s,software,Done,27/09/2021 14:21,15/03/2022 14:33
+OSPK8-359,Story,Resolved,OSPK8,openstack-k8s,software,Done,24/09/2021 14:08,18/10/2021 08:08
+OSPK8-358,Story,Resolved,OSPK8,openstack-k8s,software,Done,24/09/2021 08:57,24/09/2021 10:26
+OSPK8-357,Story,Resolved,OSPK8,openstack-k8s,software,Done,24/09/2021 07:52,18/10/2021 08:08
+OSPK8-356,Story,Resolved,OSPK8,openstack-k8s,software,Done,23/09/2021 14:10,27/09/2021 06:27
+OSPK8-355,Story,Resolved,OSPK8,openstack-k8s,software,Done,23/09/2021 14:02,19/04/2022 15:39
+OSPK8-353,Epic,Resolved,OSPK8,openstack-k8s,software,Done,21/09/2021 16:29,30/03/2022 13:19
+OSPK8-352,Story,Resolved,OSPK8,openstack-k8s,software,Done,21/09/2021 05:46,12/10/2021 08:25
+OSPK8-351,Story,Resolved,OSPK8,openstack-k8s,software,Done,20/09/2021 18:46,22/09/2021 15:03
+OSPK8-350,Story,Resolved,OSPK8,openstack-k8s,software,Done,20/09/2021 18:32,22/09/2021 14:51
+OSPK8-349,Epic,Resolved,OSPK8,openstack-k8s,software,Done,20/09/2021 13:31,15/03/2022 14:32
+OSPK8-347,Task,Resolved,OSPK8,openstack-k8s,software,Done,16/09/2021 12:12,20/09/2021 11:50
+OSPK8-346,Task,Resolved,OSPK8,openstack-k8s,software,Done,16/09/2021 11:41,25/01/2022 12:27
+OSPK8-345,Task,Resolved,OSPK8,openstack-k8s,software,Done,16/09/2021 11:37,25/01/2022 12:30
+OSPK8-344,Task,Resolved,OSPK8,openstack-k8s,software,Done,16/09/2021 11:31,25/01/2022 12:30
+OSPK8-343,Task,Resolved,OSPK8,openstack-k8s,software,Done,16/09/2021 11:26,25/01/2022 12:29
+OSPK8-342,Task,Resolved,OSPK8,openstack-k8s,software,Done,16/09/2021 11:25,29/09/2021 19:19
+OSPK8-341,Epic,Resolved,OSPK8,openstack-k8s,software,Duplicate,15/09/2021 17:31,12/07/2022 19:42
+OSPK8-340,Epic,Open,OSPK8,openstack-k8s,software,,15/09/2021 15:45,
+OSPK8-339,Epic,Open,OSPK8,openstack-k8s,software,,15/09/2021 15:42,
+OSPK8-338,Epic,Resolved,OSPK8,openstack-k8s,software,Done,15/09/2021 15:33,19/04/2022 12:35
+OSPK8-337,Epic,Closed,OSPK8,openstack-k8s,software,Done,15/09/2021 15:31,22/10/2024 13:52
+OSPK8-336,Story,Closed,OSPK8,openstack-k8s,software,Done,15/09/2021 14:53,15/03/2022 14:42
+OSPK8-334,Task,Resolved,OSPK8,openstack-k8s,software,Done,15/09/2021 11:14,27/09/2021 10:31
+OSPK8-333,Task,Resolved,OSPK8,openstack-k8s,software,Done,15/09/2021 10:37,22/09/2021 17:43
+OSPK8-332,Story,Resolved,OSPK8,openstack-k8s,software,Done,15/09/2021 10:10,27/09/2021 10:20
+OSPK8-330,Task,Open,OSPK8,openstack-k8s,software,,15/09/2021 06:52,
+OSPK8-329,Epic,Open,OSPK8,openstack-k8s,software,,15/09/2021 06:51,
+OSPK8-328,Story,Resolved,OSPK8,openstack-k8s,software,Done,15/09/2021 06:47,30/11/2021 14:28
+OSPK8-327,Story,Resolved,OSPK8,openstack-k8s,software,Done,15/09/2021 06:43,14/02/2022 07:27
+OSPK8-326,Story,Open,OSPK8,openstack-k8s,software,,15/09/2021 06:31,
+OSPK8-323,Story,Resolved,OSPK8,openstack-k8s,software,Done,15/09/2021 06:11,15/03/2022 10:50
+OSPK8-322,Story,Resolved,OSPK8,openstack-k8s,software,Done,15/09/2021 06:10,09/03/2022 14:14
+OSPK8-321,Task,Resolved,OSPK8,openstack-k8s,software,Done,15/09/2021 06:07,21/09/2021 05:44
+OSPK8-319,Story,Resolved,OSPK8,openstack-k8s,software,Done,15/09/2021 05:41,16/09/2021 13:48
+OSPK8-318,Epic,Resolved,OSPK8,openstack-k8s,software,Done,15/09/2021 05:38,22/03/2022 11:56
+OSPK8-317,Story,Resolved,OSPK8,openstack-k8s,software,Done,14/09/2021 22:58,27/09/2021 10:21
+OSPK8-316,Epic,Coding In Progress,OSPK8,openstack-k8s,software,,14/09/2021 13:45,
+OSPK8-315,Story,Resolved,OSPK8,openstack-k8s,software,Done,14/09/2021 12:50,02/02/2022 14:06
+OSPK8-314,Story,Resolved,OSPK8,openstack-k8s,software,Done,14/09/2021 12:49,02/02/2022 14:07
+OSPK8-313,Story,Resolved,OSPK8,openstack-k8s,software,Done,14/09/2021 12:47,02/02/2022 14:11
+OSPK8-311,Epic,Resolved,OSPK8,openstack-k8s,software,Done,13/09/2021 17:27,21/07/2023 11:34
+OSPK8-258,Story,Resolved,OSPK8,openstack-k8s,software,Done,09/09/2020 09:00,13/09/2021 16:46
+OSPK8-193,Task,Resolved,OSPK8,openstack-k8s,software,Done,22/07/2020 08:48,13/09/2021 16:20
+OSPK8-152,Task,Resolved,OSPK8,openstack-k8s,software,Done,03/06/2020 15:24,13/09/2021 16:46
+OSPK8-106,Story,Resolved,OSPK8,openstack-k8s,software,Done,22/04/2020 15:25,13/09/2021 16:45

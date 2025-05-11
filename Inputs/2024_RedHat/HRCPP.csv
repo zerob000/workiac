@@ -1,0 +1,483 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+HRCPP-508,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,11/04/2023 10:56,11/04/2023 10:56
+HRCPP-507,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,03/02/2023 16:47,03/02/2023 16:47
+HRCPP-505,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,27/06/2022 14:22,12/04/2023 07:59
+HRCPP-504,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,21/06/2022 10:08,27/06/2022 14:21
+HRCPP-503,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,10/09/2021 07:59,12/04/2023 08:00
+HRCPP-502,Bug,Closed,HRCPP,Hot Rod Native client,software,Obsolete,08/02/2021 13:41,12/04/2023 08:05
+HRCPP-501,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,25/09/2020 11:25,15/10/2020 11:57
+HRCPP-500,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,16/09/2020 01:13,22/10/2020 10:54
+HRCPP-499,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,27/11/2019 04:41,20/01/2020 07:09
+HRCPP-497,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,08/11/2019 13:59,17/11/2020 04:20
+HRCPP-496,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,18/10/2019 06:05,20/01/2020 06:49
+HRCPP-494,Enhancement,Open,HRCPP,Hot Rod Native client,software,,10/05/2019 11:41,
+HRCPP-493,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,03/05/2019 09:30,10/05/2019 12:51
+HRCPP-492,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,11/04/2019 12:18,06/05/2019 04:16
+HRCPP-491,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,16/01/2019 09:36,21/01/2019 13:08
+HRCPP-490,Feature Request,Closed,HRCPP,Hot Rod Native client,software,Done,14/11/2018 12:58,16/09/2019 09:57
+HRCPP-489,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,13/11/2018 06:54,13/11/2018 09:12
+HRCPP-488,Bug,Closed,HRCPP,Hot Rod Native client,software,Obsolete,09/11/2018 06:38,12/04/2023 08:05
+HRCPP-487,Bug,Closed,HRCPP,Hot Rod Native client,software,Obsolete,08/11/2018 10:42,12/04/2023 07:55
+HRCPP-486,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,05/10/2018 12:00,09/10/2018 02:26
+HRCPP-485,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,04/10/2018 12:21,06/11/2018 05:02
+HRCPP-484,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,02/10/2018 08:56,09/11/2018 08:35
+HRCPP-483,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,15/09/2018 09:01,15/09/2018 09:06
+HRCPP-482,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,13/09/2018 05:40,04/10/2018 04:30
+HRCPP-481,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,12/09/2018 10:40,04/10/2018 04:29
+HRCPP-480,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,08/08/2018 13:11,06/11/2018 05:01
+HRCPP-479,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,07/08/2018 11:01,08/08/2018 05:06
+HRCPP-478,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,31/07/2018 11:35,10/08/2018 11:29
+HRCPP-477,Feature Request,Open,HRCPP,Hot Rod Native client,software,,27/06/2018 04:42,
+HRCPP-476,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,22/06/2018 04:32,12/04/2023 08:01
+HRCPP-475,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,20/06/2018 04:19,31/07/2018 11:35
+HRCPP-474,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,13/06/2018 09:49,09/11/2018 10:39
+HRCPP-473,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,08/06/2018 12:59,11/06/2018 12:58
+HRCPP-472,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,07/06/2018 06:00,07/06/2018 11:52
+HRCPP-471,Enhancement,Closed,HRCPP,Hot Rod Native client,software,Obsolete,26/04/2018 10:25,12/04/2023 07:53
+HRCPP-470,Enhancement,Closed,HRCPP,Hot Rod Native client,software,Done,26/04/2018 06:33,19/06/2018 08:49
+HRCPP-469,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,18/04/2018 04:18,07/03/2019 08:35
+HRCPP-467,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,21/03/2018 12:09,04/04/2018 10:07
+HRCPP-466,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,20/03/2018 11:51,04/04/2018 10:07
+HRCPP-465,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,06/03/2018 05:10,10/08/2018 11:29
+HRCPP-464,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,06/03/2018 05:10,03/08/2018 11:58
+HRCPP-463,Feature Request,Closed,HRCPP,Hot Rod Native client,software,Obsolete,06/03/2018 05:09,12/04/2023 07:49
+HRCPP-462,Feature Request,Closed,HRCPP,Hot Rod Native client,software,Obsolete,06/03/2018 05:08,12/04/2023 07:50
+HRCPP-461,Feature Request,Closed,HRCPP,Hot Rod Native client,software,Done,06/03/2018 05:08,12/04/2023 07:46
+HRCPP-460,Feature Request,Closed,HRCPP,Hot Rod Native client,software,Obsolete,06/03/2018 05:07,12/04/2023 07:48
+HRCPP-459,Feature Request,Closed,HRCPP,Hot Rod Native client,software,Obsolete,06/03/2018 05:07,12/04/2023 08:05
+HRCPP-458,Feature Request,Closed,HRCPP,Hot Rod Native client,software,Obsolete,06/03/2018 05:06,12/04/2023 07:56
+HRCPP-457,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,06/03/2018 05:05,27/06/2018 06:03
+HRCPP-456,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,06/03/2018 05:05,27/06/2018 07:16
+HRCPP-455,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,06/03/2018 05:01,27/06/2018 06:02
+HRCPP-454,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,06/03/2018 05:01,18/06/2018 09:59
+HRCPP-453,Task,Closed,HRCPP,Hot Rod Native client,software,Done,05/03/2018 12:43,07/03/2019 08:27
+HRCPP-452,Task,Closed,HRCPP,Hot Rod Native client,software,Done,05/03/2018 12:43,07/03/2019 08:26
+HRCPP-451,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,27/02/2018 10:46,05/03/2018 03:32
+HRCPP-450,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,16/02/2018 04:52,19/02/2018 03:58
+HRCPP-448,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,31/01/2018 08:57,14/02/2018 11:23
+HRCPP-447,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,30/01/2018 03:17,31/01/2018 08:55
+HRCPP-446,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,26/01/2018 12:23,02/02/2018 03:57
+HRCPP-445,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,10/01/2018 11:47,15/02/2018 04:10
+HRCPP-444,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,08/01/2018 09:02,07/05/2018 08:20
+HRCPP-443,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,05/01/2018 19:46,07/05/2018 08:20
+HRCPP-442,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,05/01/2018 19:44,07/05/2018 08:19
+HRCPP-441,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,02/01/2018 05:44,07/05/2018 08:19
+HRCPP-440,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,19/12/2017 03:30,07/05/2018 08:18
+HRCPP-439,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,05/12/2017 12:06,18/12/2017 09:48
+HRCPP-436,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,30/11/2017 12:14,18/12/2017 09:47
+HRCPP-435,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,30/11/2017 12:01,12/01/2018 09:40
+HRCPP-434,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,28/11/2017 04:10,14/12/2017 11:18
+HRCPP-433,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,27/11/2017 09:23,18/12/2017 05:29
+HRCPP-432,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,15/11/2017 09:50,29/11/2017 04:59
+HRCPP-430,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,10/11/2017 09:08,29/11/2017 04:59
+HRCPP-429,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,08/11/2017 06:06,02/02/2018 03:57
+HRCPP-428,Bug,Closed,HRCPP,Hot Rod Native client,software,Won't Do,07/11/2017 03:26,13/11/2017 09:12
+HRCPP-427,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,06/11/2017 05:51,13/11/2017 11:03
+HRCPP-425,Task,Closed,HRCPP,Hot Rod Native client,software,Done,30/10/2017 12:57,15/02/2018 04:13
+HRCPP-424,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,26/10/2017 09:50,13/11/2017 11:01
+HRCPP-423,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,18/10/2017 12:55,08/11/2017 03:16
+HRCPP-422,Feature Request,Closed,HRCPP,Hot Rod Native client,software,Done,17/10/2017 04:36,08/11/2017 03:15
+HRCPP-421,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,16/10/2017 05:45,14/12/2017 09:44
+HRCPP-418,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,13/10/2017 05:42,26/10/2017 04:34
+HRCPP-417,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,12/10/2017 09:45,26/10/2017 04:30
+HRCPP-416,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,11/10/2017 05:28,07/03/2019 08:29
+HRCPP-415,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,11/10/2017 05:23,07/03/2019 08:29
+HRCPP-414,Bug,Closed,HRCPP,Hot Rod Native client,software,Obsolete,11/10/2017 02:31,12/04/2023 08:05
+HRCPP-413,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,10/10/2017 05:00,17/11/2017 04:40
+HRCPP-412,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,09/10/2017 09:58,29/11/2017 05:01
+HRCPP-411,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,09/10/2017 08:21,11/10/2017 08:45
+HRCPP-410,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,09/10/2017 06:03,10/10/2017 11:49
+HRCPP-409,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,05/10/2017 03:58,12/10/2017 02:56
+HRCPP-408,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,27/09/2017 10:35,08/11/2017 03:18
+HRCPP-407,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,27/09/2017 10:28,02/10/2017 03:08
+HRCPP-406,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,21/09/2017 10:32,21/11/2017 02:54
+HRCPP-405,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,21/09/2017 10:32,26/10/2017 04:28
+HRCPP-404,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,20/09/2017 05:26,29/11/2017 05:01
+HRCPP-403,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,15/09/2017 12:51,26/09/2017 09:05
+HRCPP-402,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,13/09/2017 04:21,08/11/2017 03:18
+HRCPP-401,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,12/09/2017 10:31,15/02/2018 04:15
+HRCPP-398,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,11/09/2017 06:22,26/09/2017 08:49
+HRCPP-397,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,05/09/2017 06:53,08/09/2017 05:22
+HRCPP-396,Task,Closed,HRCPP,Hot Rod Native client,software,Done,05/09/2017 05:20,21/07/2021 09:34
+HRCPP-395,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,31/08/2017 13:28,01/09/2017 09:37
+HRCPP-394,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,30/08/2017 08:56,08/11/2017 03:14
+HRCPP-393,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,25/08/2017 14:14,04/09/2017 02:41
+HRCPP-392,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,24/07/2017 04:38,08/09/2017 09:38
+HRCPP-391,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,21/07/2017 05:18,04/09/2017 07:22
+HRCPP-390,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,19/07/2017 07:52,16/12/2019 10:00
+HRCPP-389,Task,Closed,HRCPP,Hot Rod Native client,software,Done,19/07/2017 06:51,21/07/2021 09:33
+HRCPP-388,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,13/07/2017 07:57,26/07/2017 06:24
+HRCPP-387,Task,Closed,HRCPP,Hot Rod Native client,software,Done,13/07/2017 05:04,21/07/2017 04:12
+HRCPP-386,Bug,Closed,HRCPP,Hot Rod Native client,software,Won't Do,12/07/2017 10:34,20/07/2017 07:57
+HRCPP-385,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,12/07/2017 10:22,08/09/2017 08:53
+HRCPP-384,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,12/07/2017 04:57,26/07/2017 12:52
+HRCPP-383,Enhancement,Closed,HRCPP,Hot Rod Native client,software,Obsolete,12/07/2017 03:10,12/04/2023 08:05
+HRCPP-382,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,27/06/2017 11:44,08/11/2017 03:12
+HRCPP-381,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,07/06/2017 04:24,27/09/2017 05:57
+HRCPP-379,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,23/05/2017 09:27,24/05/2017 12:16
+HRCPP-378,Task,Open,HRCPP,Hot Rod Native client,software,,19/05/2017 06:06,
+HRCPP-374,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,11/05/2017 05:28,19/05/2017 03:14
+HRCPP-373,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,02/05/2017 11:17,19/05/2017 03:11
+HRCPP-372,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,18/04/2017 04:13,18/04/2017 05:10
+HRCPP-371,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,05/04/2017 13:04,19/04/2017 10:56
+HRCPP-370,Task,Closed,HRCPP,Hot Rod Native client,software,Done,05/04/2017 08:46,05/06/2018 07:43
+HRCPP-369,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,23/03/2017 04:10,05/04/2017 06:51
+HRCPP-368,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,20/03/2017 07:10,05/04/2017 06:50
+HRCPP-367,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,10/03/2017 03:40,02/05/2017 09:18
+HRCPP-366,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,06/03/2017 05:21,09/03/2017 02:20
+HRCPP-365,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,02/03/2017 10:43,02/03/2017 11:35
+HRCPP-364,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,02/03/2017 03:56,20/03/2017 10:16
+HRCPP-363,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,01/03/2017 05:00,20/03/2017 10:16
+HRCPP-362,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,01/03/2017 04:53,20/03/2017 10:15
+HRCPP-361,Enhancement,Closed,HRCPP,Hot Rod Native client,software,Obsolete,24/02/2017 04:47,12/04/2023 08:05
+HRCPP-360,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,24/02/2017 04:40,08/03/2017 04:34
+HRCPP-359,Bug,Closed,HRCPP,Hot Rod Native client,software,Obsolete,24/02/2017 04:33,12/04/2023 08:05
+HRCPP-358,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,24/02/2017 04:28,01/03/2017 10:53
+HRCPP-357,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,24/02/2017 04:24,01/03/2017 11:26
+HRCPP-356,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,21/02/2017 08:41,03/04/2017 07:38
+HRCPP-355,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,20/02/2017 11:18,02/03/2017 11:22
+HRCPP-354,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,17/02/2017 10:40,02/03/2017 11:22
+HRCPP-353,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,08/02/2017 07:13,22/02/2017 06:36
+HRCPP-352,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,08/02/2017 05:39,08/02/2017 06:35
+HRCPP-351,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,03/02/2017 11:52,08/02/2017 06:35
+HRCPP-350,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,25/01/2017 04:35,01/02/2017 03:43
+HRCPP-348,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,19/01/2017 17:09,03/04/2020 03:15
+HRCPP-347,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,19/01/2017 14:49,25/01/2017 15:12
+HRCPP-346,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,18/01/2017 04:09,01/02/2017 03:41
+HRCPP-345,Feature Request,Closed,HRCPP,Hot Rod Native client,software,Obsolete,17/01/2017 08:38,12/04/2023 08:05
+HRCPP-344,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,17/01/2017 05:59,01/02/2017 03:42
+HRCPP-343,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,17/01/2017 05:40,19/01/2017 06:08
+HRCPP-342,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,13/01/2017 12:34,01/02/2017 03:40
+HRCPP-341,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,11/01/2017 12:41,20/03/2017 10:18
+HRCPP-340,Enhancement,Pull Request Sent,HRCPP,Hot Rod Native client,software,,09/01/2017 11:46,
+HRCPP-339,Task,Closed,HRCPP,Hot Rod Native client,software,Obsolete,09/01/2017 04:21,12/04/2023 08:05
+HRCPP-338,Task,Closed,HRCPP,Hot Rod Native client,software,Done,09/01/2017 04:19,05/06/2018 07:42
+HRCPP-337,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,05/01/2017 11:32,11/01/2017 07:20
+HRCPP-336,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,02/01/2017 07:22,11/01/2017 05:59
+HRCPP-335,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,02/01/2017 06:27,11/01/2017 05:59
+HRCPP-334,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,14/12/2016 13:41,02/01/2017 05:17
+HRCPP-333,Task,Closed,HRCPP,Hot Rod Native client,software,Obsolete,14/12/2016 12:38,08/10/2019 12:18
+HRCPP-332,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,06/12/2016 12:00,02/01/2017 04:39
+HRCPP-331,Task,Closed,HRCPP,Hot Rod Native client,software,Done,25/11/2016 12:22,02/12/2016 08:30
+HRCPP-330,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,21/11/2016 12:06,30/11/2016 05:16
+HRCPP-329,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,18/11/2016 09:47,30/11/2016 05:52
+HRCPP-328,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,18/11/2016 04:42,22/11/2016 06:37
+HRCPP-327,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,16/11/2016 10:41,17/11/2016 03:51
+HRCPP-326,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,15/11/2016 09:58,18/11/2016 04:00
+HRCPP-325,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,11/11/2016 10:10,14/11/2016 04:00
+HRCPP-324,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,07/11/2016 10:44,18/11/2016 03:56
+HRCPP-323,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,07/11/2016 09:09,14/11/2016 03:48
+HRCPP-322,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,07/11/2016 08:37,14/11/2016 03:30
+HRCPP-321,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,04/11/2016 11:48,14/11/2016 03:48
+HRCPP-320,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,04/11/2016 11:43,16/11/2016 03:36
+HRCPP-319,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,04/11/2016 11:40,16/11/2016 08:07
+HRCPP-318,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,04/11/2016 07:32,04/11/2016 11:38
+HRCPP-317,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,03/11/2016 11:12,04/11/2016 05:21
+HRCPP-316,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,02/11/2016 06:39,02/11/2016 06:57
+HRCPP-315,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,28/10/2016 18:14,02/11/2016 06:23
+HRCPP-314,Bug,Closed,HRCPP,Hot Rod Native client,software,Obsolete,21/10/2016 01:41,20/12/2016 04:26
+HRCPP-313,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,14/10/2016 05:46,22/11/2016 06:36
+HRCPP-312,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,05/10/2016 10:59,02/11/2016 05:09
+HRCPP-311,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,30/09/2016 10:41,19/01/2017 06:06
+HRCPP-310,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,30/09/2016 09:31,21/10/2016 09:09
+HRCPP-309,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,28/09/2016 03:47,29/09/2016 10:42
+HRCPP-308,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,15/09/2016 13:37,16/09/2016 03:47
+HRCPP-307,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,15/09/2016 04:32,08/09/2017 08:59
+HRCPP-306,Task,Closed,HRCPP,Hot Rod Native client,software,Done,14/09/2016 06:17,02/12/2016 08:35
+HRCPP-305,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,12/09/2016 06:17,15/09/2016 11:54
+HRCPP-304,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,02/09/2016 11:06,08/09/2017 08:58
+HRCPP-303,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,01/09/2016 08:56,13/12/2016 08:14
+HRCPP-302,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,30/08/2016 04:03,02/01/2017 04:56
+HRCPP-301,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,30/08/2016 03:24,06/09/2017 06:10
+HRCPP-300,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,29/08/2016 08:23,04/11/2016 06:00
+HRCPP-299,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,26/08/2016 04:49,15/09/2017 04:58
+HRCPP-298,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,26/08/2016 04:43,13/12/2016 08:15
+HRCPP-297,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,26/08/2016 04:35,27/10/2016 08:32
+HRCPP-296,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,26/08/2016 04:33,30/11/2016 05:52
+HRCPP-295,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,18/08/2016 11:30,04/11/2016 05:58
+HRCPP-294,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,05/08/2016 04:59,26/08/2016 05:46
+HRCPP-293,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,03/08/2016 09:37,04/11/2016 05:59
+HRCPP-292,Feature Request,Closed,HRCPP,Hot Rod Native client,software,Done,19/07/2016 08:16,08/09/2017 08:54
+HRCPP-290,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,05/07/2016 03:21,07/09/2016 12:50
+HRCPP-289,Feature Request,Closed,HRCPP,Hot Rod Native client,software,Done,04/07/2016 06:58,05/06/2018 07:42
+HRCPP-288,Feature Request,Closed,HRCPP,Hot Rod Native client,software,Obsolete,01/07/2016 11:23,12/04/2023 08:05
+HRCPP-287,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,01/07/2016 11:22,04/11/2016 05:48
+HRCPP-286,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,01/07/2016 11:20,15/09/2016 11:53
+HRCPP-285,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,30/06/2016 11:46,02/12/2016 08:37
+HRCPP-284,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,28/06/2016 08:37,28/11/2017 05:40
+HRCPP-283,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,27/06/2016 08:59,26/08/2016 06:11
+HRCPP-282,Feature Request,Closed,HRCPP,Hot Rod Native client,software,Done,24/06/2016 05:43,02/12/2016 08:34
+HRCPP-281,Task,Closed,HRCPP,Hot Rod Native client,software,Done,23/06/2016 17:02,02/12/2016 08:40
+HRCPP-280,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,22/06/2016 11:03,26/08/2016 05:41
+HRCPP-279,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,16/06/2016 05:40,07/07/2016 09:51
+HRCPP-278,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,15/06/2016 04:39,26/08/2016 05:44
+HRCPP-277,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,15/06/2016 03:54,15/06/2016 10:49
+HRCPP-276,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,10/06/2016 03:43,23/06/2016 06:00
+HRCPP-275,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,09/06/2016 06:23,15/06/2016 10:50
+HRCPP-274,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,20/05/2016 08:45,07/09/2016 13:01
+HRCPP-273,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,20/05/2016 05:00,08/09/2017 08:58
+HRCPP-272,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,18/05/2016 04:05,15/06/2016 10:49
+HRCPP-271,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,01/05/2015 12:19,26/10/2017 04:44
+HRCPP-270,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,16/05/2016 12:13,08/09/2017 08:57
+HRCPP-269,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,16/05/2016 11:18,08/09/2017 08:57
+HRCPP-268,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,16/05/2016 04:23,24/05/2016 04:20
+HRCPP-267,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,12/05/2016 10:39,24/05/2016 04:20
+HRCPP-266,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,12/05/2016 10:38,18/05/2016 04:12
+HRCPP-265,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,12/05/2016 04:42,07/09/2016 12:42
+HRCPP-264,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,09/05/2016 11:49,11/05/2016 09:10
+HRCPP-263,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,06/05/2016 04:56,08/09/2017 08:55
+HRCPP-262,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,04/05/2016 10:52,11/05/2016 09:10
+HRCPP-261,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,02/05/2016 07:20,08/09/2017 08:56
+HRCPP-260,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,29/04/2016 09:21,05/05/2016 08:42
+HRCPP-259,Task,Closed,HRCPP,Hot Rod Native client,software,Done,26/04/2016 05:09,08/09/2017 08:56
+HRCPP-258,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,21/04/2016 11:49,22/04/2016 04:30
+HRCPP-257,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,18/04/2016 07:56,10/05/2016 05:07
+HRCPP-256,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,15/04/2016 04:51,04/05/2016 15:14
+HRCPP-255,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,15/04/2016 04:50,18/04/2016 07:27
+HRCPP-254,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,15/04/2016 03:05,04/05/2016 15:14
+HRCPP-253,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,14/04/2016 03:51,20/04/2016 06:53
+HRCPP-252,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,04/04/2016 04:12,05/04/2016 07:45
+HRCPP-251,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,30/03/2016 05:15,18/04/2016 07:57
+HRCPP-248,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,25/03/2016 05:46,31/03/2016 05:49
+HRCPP-247,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,24/03/2016 11:06,05/04/2016 07:42
+HRCPP-246,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,23/03/2016 11:03,04/07/2016 04:35
+HRCPP-245,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,23/03/2016 07:33,23/03/2016 09:10
+HRCPP-244,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,22/03/2016 11:31,23/03/2016 08:30
+HRCPP-243,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,17/03/2016 07:02,23/03/2016 09:12
+HRCPP-242,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,17/03/2016 05:46,23/03/2016 09:11
+HRCPP-241,Feature Request,Closed,HRCPP,Hot Rod Native client,software,Done,14/03/2016 10:12,08/09/2017 08:54
+HRCPP-240,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,09/03/2016 10:31,10/03/2016 04:12
+HRCPP-239,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,09/03/2016 09:09,17/03/2016 04:38
+HRCPP-238,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,08/03/2016 03:52,17/03/2016 04:38
+HRCPP-237,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,08/03/2016 03:51,16/03/2016 09:04
+HRCPP-235,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,24/02/2016 11:33,24/02/2016 12:25
+HRCPP-234,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,23/02/2016 12:55,24/02/2016 02:21
+HRCPP-233,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,23/02/2016 11:22,24/02/2016 02:20
+HRCPP-232,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,19/02/2016 06:17,23/02/2016 11:16
+HRCPP-231,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,18/02/2016 11:49,23/02/2016 11:16
+HRCPP-230,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,18/02/2016 08:08,17/03/2016 04:40
+HRCPP-229,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,15/02/2016 09:17,17/03/2016 04:39
+HRCPP-228,Bug,Open,HRCPP,Hot Rod Native client,software,,15/02/2016 09:16,
+HRCPP-227,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,10/02/2016 05:04,10/02/2016 05:25
+HRCPP-224,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,05/02/2016 04:42,17/03/2016 05:43
+HRCPP-223,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,03/02/2016 10:02,03/02/2016 12:14
+HRCPP-222,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,03/02/2016 05:16,03/02/2016 12:14
+HRCPP-221,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,02/02/2016 03:52,18/05/2016 04:20
+HRCPP-220,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,01/02/2016 12:27,03/02/2016 12:15
+HRCPP-219,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,29/01/2016 11:04,17/03/2016 04:39
+HRCPP-218,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,29/01/2016 03:46,02/02/2016 11:12
+HRCPP-217,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,25/01/2016 12:43,02/02/2016 11:12
+HRCPP-215,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,18/01/2016 09:31,20/01/2016 05:50
+HRCPP-214,Bug,Closed,HRCPP,Hot Rod Native client,software,Won't Do,18/01/2016 07:08,18/01/2016 11:08
+HRCPP-213,Task,Closed,HRCPP,Hot Rod Native client,software,Done,15/01/2016 12:12,22/04/2016 09:06
+HRCPP-212,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,15/01/2016 12:09,29/01/2016 09:36
+HRCPP-211,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,12/01/2016 10:12,14/01/2016 14:20
+HRCPP-210,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,23/12/2015 12:54,14/03/2016 15:58
+HRCPP-209,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,23/12/2015 11:38,28/01/2016 03:37
+HRCPP-208,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,22/12/2015 04:50,17/02/2016 12:04
+HRCPP-207,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,16/12/2015 11:37,16/03/2016 08:42
+HRCPP-206,Task,Closed,HRCPP,Hot Rod Native client,software,Done,14/12/2015 11:37,08/09/2017 08:55
+HRCPP-205,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,03/12/2015 09:05,17/03/2016 04:40
+HRCPP-204,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,01/12/2015 12:06,03/12/2015 08:18
+HRCPP-203,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,24/11/2015 11:27,01/12/2015 12:06
+HRCPP-202,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,06/11/2015 11:30,24/11/2015 05:30
+HRCPP-201,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,28/10/2015 06:08,17/03/2016 04:41
+HRCPP-200,Feature Request,Closed,HRCPP,Hot Rod Native client,software,Obsolete,05/10/2015 05:29,12/04/2023 07:50
+HRCPP-199,Feature Request,Closed,HRCPP,Hot Rod Native client,software,Obsolete,05/10/2015 04:58,12/04/2023 07:55
+HRCPP-198,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,11/09/2015 03:58,14/10/2015 03:34
+HRCPP-197,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,28/08/2015 11:24,01/09/2015 09:14
+HRCPP-196,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,19/06/2015 08:39,01/09/2015 09:22
+HRCPP-195,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,15/06/2015 04:50,21/06/2015 13:52
+HRCPP-194,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,15/06/2015 04:31,17/03/2016 04:41
+HRCPP-193,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,26/05/2015 06:08,28/05/2015 11:58
+HRCPP-192,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,26/05/2015 05:09,17/03/2016 04:40
+HRCPP-191,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,30/04/2015 14:27,28/05/2015 11:58
+HRCPP-190,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,06/03/2015 09:56,02/02/2016 11:05
+HRCPP-189,Bug,Open,HRCPP,Hot Rod Native client,software,,06/03/2015 09:35,
+HRCPP-188,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,29/01/2015 10:50,02/02/2016 11:02
+HRCPP-187,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,08/01/2015 05:45,08/01/2015 05:50
+HRCPP-186,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,26/12/2014 17:41,02/02/2016 11:04
+HRCPP-185,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,03/12/2014 10:58,23/12/2014 03:57
+HRCPP-184,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,03/12/2014 10:48,23/12/2014 03:57
+HRCPP-183,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,03/12/2014 10:46,23/12/2014 03:57
+HRCPP-182,Feature Request,Open,HRCPP,Hot Rod Native client,software,,26/11/2014 08:32,
+HRCPP-181,Feature Request,Coding In Progress,HRCPP,Hot Rod Native client,software,,25/11/2014 09:27,
+HRCPP-180,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,27/10/2014 11:47,27/10/2014 15:03
+HRCPP-179,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,22/10/2014 18:08,23/10/2014 16:43
+HRCPP-178,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,22/10/2014 16:55,22/10/2014 18:04
+HRCPP-177,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,13/10/2014 13:35,13/10/2014 13:56
+HRCPP-176,Bug,Open,HRCPP,Hot Rod Native client,software,,13/10/2014 13:13,
+HRCPP-175,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,13/10/2014 09:12,13/10/2014 11:14
+HRCPP-174,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,03/10/2014 08:10,13/10/2014 09:02
+HRCPP-173,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,01/10/2014 10:38,23/12/2014 03:58
+HRCPP-172,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,04/08/2014 08:45,09/10/2014 05:26
+HRCPP-171,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,04/08/2014 08:11,09/10/2014 05:25
+HRCPP-170,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,19/06/2014 05:14,23/06/2014 05:24
+HRCPP-169,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,18/06/2014 07:20,25/05/2015 05:44
+HRCPP-168,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,13/06/2014 05:03,28/10/2014 06:54
+HRCPP-167,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,13/06/2014 03:27,28/10/2014 08:56
+HRCPP-166,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,06/06/2014 03:48,23/06/2014 06:14
+HRCPP-165,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,22/05/2014 05:38,27/10/2014 05:55
+HRCPP-164,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,15/05/2014 07:52,15/05/2014 09:26
+HRCPP-163,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,15/05/2014 03:05,27/10/2014 06:03
+HRCPP-161,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,12/05/2014 09:34,15/05/2014 04:08
+HRCPP-160,Task,Open,HRCPP,Hot Rod Native client,software,,07/05/2014 04:27,
+HRCPP-159,Task,Open,HRCPP,Hot Rod Native client,software,,07/05/2014 04:21,
+HRCPP-158,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,06/05/2014 10:06,27/10/2014 05:53
+HRCPP-157,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,02/05/2014 11:11,04/05/2014 17:04
+HRCPP-156,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,02/05/2014 10:28,04/05/2014 17:07
+HRCPP-155,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,02/05/2014 09:30,04/05/2014 17:08
+HRCPP-154,Task,Closed,HRCPP,Hot Rod Native client,software,Obsolete,02/05/2014 04:19,12/04/2023 08:05
+HRCPP-153,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,25/04/2014 17:01,27/10/2014 05:52
+HRCPP-152,Bug,Open,HRCPP,Hot Rod Native client,software,,25/04/2014 10:08,
+HRCPP-151,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,25/04/2014 09:48,27/10/2014 05:52
+HRCPP-150,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,24/04/2014 08:46,19/05/2014 04:07
+HRCPP-149,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,23/04/2014 12:25,24/04/2014 03:41
+HRCPP-148,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,23/04/2014 12:23,21/10/2014 08:10
+HRCPP-147,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,23/04/2014 08:27,27/10/2014 05:50
+HRCPP-146,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,18/04/2014 08:55,27/10/2014 05:49
+HRCPP-145,Bug,Open,HRCPP,Hot Rod Native client,software,,18/04/2014 05:16,
+HRCPP-144,Task,Open,HRCPP,Hot Rod Native client,software,,16/04/2014 11:21,
+HRCPP-143,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,16/04/2014 11:13,19/05/2014 05:21
+HRCPP-142,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,14/04/2014 07:17,15/04/2014 18:06
+HRCPP-141,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,14/04/2014 07:17,15/04/2014 18:05
+HRCPP-140,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,14/04/2014 05:59,15/04/2014 18:04
+HRCPP-139,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,01/04/2014 05:33,15/04/2014 02:44
+HRCPP-138,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,31/03/2014 16:41,01/04/2014 06:02
+HRCPP-137,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,20/03/2014 06:21,28/10/2014 06:54
+HRCPP-136,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,20/03/2014 06:19,10/04/2014 07:04
+HRCPP-135,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,14/03/2014 16:58,17/03/2016 04:41
+HRCPP-134,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,14/03/2014 05:24,14/03/2014 05:57
+HRCPP-133,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,12/03/2014 11:00,14/03/2014 06:00
+HRCPP-132,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,04/03/2014 04:28,05/03/2014 01:33
+HRCPP-131,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,03/03/2014 06:58,05/03/2014 01:34
+HRCPP-130,Task,Resolved,HRCPP,Hot Rod Native client,software,Obsolete,03/03/2014 05:24,12/06/2015 13:31
+HRCPP-129,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,27/02/2014 09:54,28/02/2014 05:22
+HRCPP-128,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,26/02/2014 15:11,13/03/2014 09:36
+HRCPP-127,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,25/02/2014 08:09,25/02/2014 09:58
+HRCPP-126,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,18/02/2014 11:48,13/03/2014 09:29
+HRCPP-125,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,09/02/2014 15:45,11/02/2014 03:58
+HRCPP-124,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,09/02/2014 09:20,11/02/2014 03:55
+HRCPP-123,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,27/01/2014 05:08,11/02/2014 03:53
+HRCPP-122,Feature Request,Resolved,HRCPP,Hot Rod Native client,software,Done,24/01/2014 09:23,28/02/2014 05:26
+HRCPP-121,Bug,Open,HRCPP,Hot Rod Native client,software,,23/01/2014 11:30,
+HRCPP-120,Bug,Open,HRCPP,Hot Rod Native client,software,,23/01/2014 11:25,
+HRCPP-119,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,22/01/2014 15:56,10/03/2016 16:48
+HRCPP-118,Bug,Open,HRCPP,Hot Rod Native client,software,,15/01/2014 15:01,
+HRCPP-117,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,14/01/2014 17:27,16/01/2014 10:17
+HRCPP-116,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,14/01/2014 05:01,15/01/2014 04:39
+HRCPP-115,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,13/01/2014 12:58,13/01/2014 18:56
+HRCPP-114,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,13/01/2014 11:30,13/01/2014 18:37
+HRCPP-113,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,23/12/2013 04:00,13/01/2014 18:37
+HRCPP-112,Enhancement,Resolved,HRCPP,Hot Rod Native client,software,Done,21/12/2013 10:29,13/01/2014 18:38
+HRCPP-111,Task,Closed,HRCPP,Hot Rod Native client,software,Done,21/12/2013 09:19,03/03/2014 05:28
+HRCPP-110,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,20/12/2013 12:37,21/12/2013 17:00
+HRCPP-109,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,13/12/2013 14:34,13/12/2013 15:17
+HRCPP-108,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,13/12/2013 09:05,13/12/2013 09:29
+HRCPP-107,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,12/12/2013 12:45,13/12/2013 05:06
+HRCPP-106,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,10/12/2013 16:37,18/12/2013 04:52
+HRCPP-105,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,10/12/2013 08:19,10/12/2013 15:14
+HRCPP-104,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,09/12/2013 07:41,12/12/2013 07:57
+HRCPP-103,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,06/12/2013 16:09,18/12/2013 04:47
+HRCPP-102,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,02/12/2013 03:23,02/12/2013 04:37
+HRCPP-101,Task,Closed,HRCPP,Hot Rod Native client,software,Done,28/11/2013 09:27,29/11/2013 03:41
+HRCPP-100,Task,Closed,HRCPP,Hot Rod Native client,software,Done,28/11/2013 09:09,28/11/2013 10:23
+HRCPP-99,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,28/11/2013 09:07,28/11/2013 09:34
+HRCPP-98,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,27/11/2013 11:39,28/11/2013 03:33
+HRCPP-97,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,26/11/2013 12:04,29/11/2013 16:43
+HRCPP-96,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,26/11/2013 11:39,26/11/2013 12:16
+HRCPP-95,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,25/11/2013 08:49,17/12/2013 11:13
+HRCPP-94,Bug,Resolved,HRCPP,Hot Rod Native client,software,Won't Do,22/11/2013 15:13,28/11/2013 09:25
+HRCPP-93,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,20/11/2013 05:21,27/11/2013 11:51
+HRCPP-92,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,18/11/2013 14:35,27/11/2013 12:05
+HRCPP-91,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,18/11/2013 09:44,19/11/2013 07:44
+HRCPP-90,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,18/11/2013 08:42,18/11/2013 09:16
+HRCPP-89,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,18/11/2013 06:35,18/11/2013 08:14
+HRCPP-88,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,18/11/2013 06:29,18/11/2013 09:35
+HRCPP-87,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,18/11/2013 05:21,18/11/2013 05:34
+HRCPP-86,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,18/11/2013 04:14,18/11/2013 05:29
+HRCPP-85,Feature Request,Open,HRCPP,Hot Rod Native client,software,,14/11/2013 14:20,
+HRCPP-84,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,14/11/2013 11:41,18/11/2013 05:43
+HRCPP-83,Task,Closed,HRCPP,Hot Rod Native client,software,Done,14/11/2013 10:39,15/11/2013 05:29
+HRCPP-82,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,13/11/2013 16:52,14/11/2013 11:12
+HRCPP-81,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,11/11/2013 05:12,11/11/2013 05:59
+HRCPP-80,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,11/11/2013 03:15,11/11/2013 05:01
+HRCPP-79,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,07/11/2013 11:37,07/11/2013 12:05
+HRCPP-78,Enhancement,Closed,HRCPP,Hot Rod Native client,software,Done,07/11/2013 10:04,08/11/2013 12:11
+HRCPP-77,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,07/11/2013 09:57,08/11/2013 11:04
+HRCPP-76,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,07/11/2013 07:26,08/11/2013 11:02
+HRCPP-75,Bug,Open,HRCPP,Hot Rod Native client,software,,07/11/2013 05:54,
+HRCPP-74,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,07/11/2013 05:07,13/11/2013 05:11
+HRCPP-73,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,07/11/2013 04:19,07/11/2013 13:52
+HRCPP-72,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,07/11/2013 02:57,07/11/2013 03:08
+HRCPP-71,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,06/11/2013 17:52,02/12/2013 03:52
+HRCPP-70,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,06/11/2013 16:35,07/11/2013 03:17
+HRCPP-69,Bug,Closed,HRCPP,Hot Rod Native client,software,Won't Do,06/11/2013 10:00,06/11/2013 10:12
+HRCPP-68,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,06/11/2013 09:20,13/11/2013 05:15
+HRCPP-67,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,05/11/2013 09:59,18/11/2013 06:05
+HRCPP-66,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,04/11/2013 07:56,07/11/2013 11:41
+HRCPP-65,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,04/11/2013 07:04,04/11/2013 09:14
+HRCPP-64,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,04/11/2013 06:23,04/11/2013 06:44
+HRCPP-63,Bug,Resolved,HRCPP,Hot Rod Native client,software,Duplicate,31/10/2013 16:32,12/11/2013 04:50
+HRCPP-62,Task,Closed,HRCPP,Hot Rod Native client,software,Done,31/10/2013 12:57,15/11/2013 09:06
+HRCPP-61,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,31/10/2013 10:42,31/10/2013 11:12
+HRCPP-60,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,31/10/2013 07:05,12/11/2013 04:47
+HRCPP-59,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,30/10/2013 19:33,31/10/2013 09:34
+HRCPP-58,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,30/10/2013 19:31,30/10/2013 19:33
+HRCPP-57,Task,Closed,HRCPP,Hot Rod Native client,software,Done,30/10/2013 12:20,31/10/2013 10:09
+HRCPP-56,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,30/10/2013 12:09,13/11/2013 06:34
+HRCPP-55,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,28/10/2013 12:53,17/03/2016 05:37
+HRCPP-54,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,28/10/2013 10:48,29/10/2013 18:04
+HRCPP-53,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,25/10/2013 06:53,28/10/2013 01:34
+HRCPP-52,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,24/10/2013 15:46,28/10/2013 01:33
+HRCPP-51,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,24/10/2013 15:38,28/10/2013 01:31
+HRCPP-50,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,24/10/2013 15:25,28/10/2013 01:30
+HRCPP-49,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,24/10/2013 15:12,28/10/2013 01:29
+HRCPP-48,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,24/10/2013 09:49,30/10/2013 10:34
+HRCPP-47,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,24/10/2013 03:33,30/10/2013 19:30
+HRCPP-46,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,23/10/2013 06:58,30/10/2013 10:36
+HRCPP-45,Task,Closed,HRCPP,Hot Rod Native client,software,Done,23/10/2013 06:36,08/11/2013 12:02
+HRCPP-44,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,23/10/2013 06:13,23/10/2013 06:51
+HRCPP-43,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,22/10/2013 15:53,27/11/2013 11:40
+HRCPP-42,Bug,Resolved,HRCPP,Hot Rod Native client,software,Won't Do,22/10/2013 15:51,17/12/2013 11:58
+HRCPP-41,Bug,Closed,HRCPP,Hot Rod Native client,software,Done,22/10/2013 15:48,18/11/2013 05:42
+HRCPP-40,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,21/10/2013 09:32,28/10/2013 06:01
+HRCPP-39,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,21/10/2013 05:53,28/10/2013 01:28
+HRCPP-38,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,18/10/2013 15:31,18/10/2013 16:10
+HRCPP-37,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,17/10/2013 13:24,18/10/2013 04:11
+HRCPP-36,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,17/10/2013 12:05,18/10/2013 04:11
+HRCPP-35,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,17/10/2013 11:14,24/10/2013 03:32
+HRCPP-34,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,17/10/2013 11:11,24/10/2013 03:32
+HRCPP-33,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,16/10/2013 03:52,16/10/2013 08:16
+HRCPP-32,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,16/10/2013 03:51,16/10/2013 05:18
+HRCPP-31,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,16/10/2013 03:49,16/10/2013 04:31
+HRCPP-30,Task,Closed,HRCPP,Hot Rod Native client,software,Obsolete,10/10/2013 10:24,14/11/2013 11:09
+HRCPP-29,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,10/10/2013 09:46,14/11/2013 11:13
+HRCPP-28,Task,Open,HRCPP,Hot Rod Native client,software,,10/10/2013 09:42,
+HRCPP-27,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,08/10/2013 02:37,23/10/2013 06:58
+HRCPP-26,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,01/10/2013 04:07,18/10/2013 04:40
+HRCPP-25,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,26/09/2013 04:44,16/10/2013 10:12
+HRCPP-24,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,25/09/2013 10:32,29/10/2013 18:03
+HRCPP-23,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,25/09/2013 04:29,04/11/2013 06:46
+HRCPP-22,Task,Closed,HRCPP,Hot Rod Native client,software,Obsolete,24/09/2013 17:14,14/11/2013 11:10
+HRCPP-21,Task,Closed,HRCPP,Hot Rod Native client,software,Obsolete,24/09/2013 17:11,14/11/2013 11:11
+HRCPP-20,Task,Resolved,HRCPP,Hot Rod Native client,software,Duplicate,24/09/2013 17:08,18/10/2013 04:53
+HRCPP-19,Task,Open,HRCPP,Hot Rod Native client,software,,24/09/2013 11:28,
+HRCPP-18,Task,Open,HRCPP,Hot Rod Native client,software,,24/09/2013 11:27,
+HRCPP-17,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,24/09/2013 11:15,18/10/2013 05:15
+HRCPP-16,Task,Resolved,HRCPP,Hot Rod Native client,software,Obsolete,24/09/2013 11:10,14/11/2013 11:11
+HRCPP-15,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,20/08/2013 03:35,30/10/2013 12:18
+HRCPP-14,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,15/08/2013 02:19,16/10/2013 08:16
+HRCPP-13,Feature Request,Open,HRCPP,Hot Rod Native client,software,,15/08/2013 02:10,
+HRCPP-12,Bug,Resolved,HRCPP,Hot Rod Native client,software,Won't Do,20/09/2013 08:11,20/09/2013 08:12
+HRCPP-11,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,17/09/2013 10:16,24/09/2013 05:38
+HRCPP-10,Bug,Open,HRCPP,Hot Rod Native client,software,,17/09/2013 03:31,
+HRCPP-9,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,15/08/2013 02:42,30/10/2013 10:35
+HRCPP-8,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,12/09/2013 15:01,11/10/2013 12:57
+HRCPP-7,Task,Closed,HRCPP,Hot Rod Native client,software,Done,11/09/2013 05:10,31/10/2013 10:13
+HRCPP-6,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,11/09/2013 05:08,16/10/2013 08:13
+HRCPP-5,Task,Open,HRCPP,Hot Rod Native client,software,,11/09/2013 03:47,
+HRCPP-4,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,10/09/2013 10:59,09/10/2013 17:57
+HRCPP-3,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,10/09/2013 10:38,22/04/2016 11:41
+HRCPP-2,Task,Resolved,HRCPP,Hot Rod Native client,software,Done,10/09/2013 10:37,17/10/2013 11:13
+HRCPP-1,Bug,Resolved,HRCPP,Hot Rod Native client,software,Done,10/09/2013 08:20,24/09/2013 05:34

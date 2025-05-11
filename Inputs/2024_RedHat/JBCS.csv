@@ -1,0 +1,636 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+JBCS-1861,Bug,New,JBCS,JBoss Core Services,software,,30/10/2024 11:30,
+JBCS-1850,Component Upgrade,New,JBCS,JBoss Core Services,software,,24/10/2024 15:12,
+JBCS-1849,Component Upgrade,New,JBCS,JBoss Core Services,software,,24/10/2024 15:09,
+JBCS-1847,Component Upgrade,New,JBCS,JBoss Core Services,software,,24/10/2024 14:56,
+JBCS-1844,Task,New,JBCS,JBoss Core Services,software,,22/10/2024 14:38,
+JBCS-1843,Task,New,JBCS,JBoss Core Services,software,,22/10/2024 14:37,
+JBCS-1839,Component Upgrade,Closed,JBCS,JBoss Core Services,software,Done,14/10/2024 19:23,11/11/2024 14:51
+JBCS-1838,Component Upgrade,New,JBCS,JBoss Core Services,software,,14/10/2024 14:43,
+JBCS-1834,Feature,Closed,JBCS,JBoss Core Services,software,Done,30/09/2024 14:40,01/10/2024 15:10
+JBCS-1833,Bug,New,JBCS,JBoss Core Services,software,,30/09/2024 08:14,
+JBCS-1829,Bug,New,JBCS,JBoss Core Services,software,,23/09/2024 13:51,
+JBCS-1822,Feature,Closed,JBCS,JBoss Core Services,software,Done,17/09/2024 13:26,24/09/2024 16:29
+JBCS-1819,Bug,Closed,JBCS,JBoss Core Services,software,Done,11/09/2024 17:18,25/09/2024 18:25
+JBCS-1806,Component Upgrade,Closed,JBCS,JBoss Core Services,software,Done,20/08/2024 16:57,25/09/2024 18:26
+JBCS-1805,Bug,New,JBCS,JBoss Core Services,software,,19/08/2024 17:35,
+JBCS-1796,Feature,Closed,JBCS,JBoss Core Services,software,Done,26/07/2024 11:08,13/08/2024 15:43
+JBCS-1772,Bug,Closed,JBCS,JBoss Core Services,software,Done,28/06/2024 19:50,25/09/2024 18:26
+JBCS-1771,Bug,New,JBCS,JBoss Core Services,software,,14/06/2024 08:51,
+JBCS-1758,Bug,New,JBCS,JBoss Core Services,software,,21/05/2024 15:12,
+JBCS-1750,Bug,Closed,JBCS,JBoss Core Services,software,Done,09/05/2024 21:42,25/09/2024 18:25
+JBCS-1749,Bug,New,JBCS,JBoss Core Services,software,,09/05/2024 21:15,
+JBCS-1723,Task,Closed,JBCS,JBoss Core Services,software,Done,08/05/2024 12:00,09/05/2024 09:41
+JBCS-1720,Component Upgrade,Closed,JBCS,JBoss Core Services,software,Done,16/04/2024 10:49,04/07/2024 08:36
+JBCS-1719,Component Upgrade,Closed,JBCS,JBoss Core Services,software,Done,15/04/2024 09:29,04/07/2024 08:36
+JBCS-1713,Feature,Closed,JBCS,JBoss Core Services,software,Done,03/04/2024 15:54,07/05/2024 10:23
+JBCS-1707,Bug,Closed,JBCS,JBoss Core Services,software,Done,19/03/2024 10:46,19/03/2024 15:49
+JBCS-1700,Bug,Closed,JBCS,JBoss Core Services,software,Done,29/02/2024 22:37,19/03/2024 16:12
+JBCS-1696,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,20/02/2024 12:57,01/03/2024 11:43
+JBCS-1691,Feature,Closed,JBCS,JBoss Core Services,software,Done,12/02/2024 10:48,15/03/2024 09:28
+JBCS-1681,Bug,New,JBCS,JBoss Core Services,software,,24/01/2024 06:37,
+JBCS-1678,Bug,Closed,JBCS,JBoss Core Services,software,Done,17/01/2024 15:29,19/03/2024 16:12
+JBCS-1677,Task,Closed,JBCS,JBoss Core Services,software,Done,27/12/2023 13:55,06/02/2024 13:03
+JBCS-1666,Bug,New,JBCS,JBoss Core Services,software,,21/11/2023 13:32,
+JBCS-1665,Task,Closed,JBCS,JBoss Core Services,software,Done,20/11/2023 08:40,12/12/2023 14:43
+JBCS-1664,Task,Closed,JBCS,JBoss Core Services,software,Done,20/11/2023 08:35,12/12/2023 14:33
+JBCS-1663,Feature,Closed,JBCS,JBoss Core Services,software,Done,20/11/2023 08:29,06/12/2023 13:11
+JBCS-1661,Component Upgrade,Closed,JBCS,JBoss Core Services,software,Done,10/11/2023 16:54,19/03/2024 14:18
+JBCS-1660,Component Upgrade,Closed,JBCS,JBoss Core Services,software,Done,10/11/2023 16:54,13/12/2023 09:08
+JBCS-1647,Feature,Closed,JBCS,JBoss Core Services,software,Done,13/10/2023 10:37,26/10/2023 10:33
+JBCS-1642,Bug,Closed,JBCS,JBoss Core Services,software,Done,06/10/2023 17:08,19/03/2024 16:14
+JBCS-1640,Bug,Closed,JBCS,JBoss Core Services,software,Done,03/10/2023 14:08,13/12/2023 09:08
+JBCS-1631,Feature,Closed,JBCS,JBoss Core Services,software,Done,15/09/2023 11:19,13/12/2023 09:08
+JBCS-1624,Component Upgrade,Review,JBCS,JBoss Core Services,software,,22/08/2023 12:57,
+JBCS-1619,Task,Closed,JBCS,JBoss Core Services,software,Done,10/08/2023 13:49,14/08/2023 10:00
+JBCS-1618,Task,Closed,JBCS,JBoss Core Services,software,Done,10/08/2023 08:58,21/08/2023 10:01
+JBCS-1601,Task,Closed,JBCS,JBoss Core Services,software,Done,13/07/2023 08:21,14/08/2023 12:03
+JBCS-1600,Task,Closed,JBCS,JBoss Core Services,software,Done,13/07/2023 08:17,14/08/2023 12:02
+JBCS-1599,Component Upgrade,Closed,JBCS,JBoss Core Services,software,Won't Do,12/07/2023 21:32,14/08/2023 14:42
+JBCS-1597,Task,Closed,JBCS,JBoss Core Services,software,Done,12/07/2023 17:49,14/08/2023 11:34
+JBCS-1594,Task,Closed,JBCS,JBoss Core Services,software,Done,06/07/2023 13:39,24/07/2023 10:54
+JBCS-1593,Task,Closed,JBCS,JBoss Core Services,software,Done,06/07/2023 13:27,14/07/2023 11:24
+JBCS-1589,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,21/06/2023 14:33,08/02/2024 13:42
+JBCS-1586,Feature,New,JBCS,JBoss Core Services,software,,21/06/2023 11:59,
+JBCS-1585,Component Upgrade,Closed,JBCS,JBoss Core Services,software,Done,20/06/2023 15:18,14/08/2023 14:42
+JBCS-1583,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,19/06/2023 02:25,18/01/2024 11:51
+JBCS-1582,Bug,Closed,JBCS,JBoss Core Services,software,Done,13/06/2023 21:17,16/08/2023 16:24
+JBCS-1571,Task,New,JBCS,JBoss Core Services,software,,31/05/2023 21:16,
+JBCS-1551,Bug,New,JBCS,JBoss Core Services,software,,22/05/2023 11:14,
+JBCS-1550,Bug,New,JBCS,JBoss Core Services,software,,22/05/2023 09:13,
+JBCS-1549,Bug,Closed,JBCS,JBoss Core Services,software,Done,19/05/2023 08:35,03/08/2023 10:57
+JBCS-1538,Component Upgrade,Closed,JBCS,JBoss Core Services,software,Done,10/05/2023 14:05,16/08/2023 16:55
+JBCS-1535,Component Upgrade,Closed,JBCS,JBoss Core Services,software,Done,03/05/2023 11:09,16/08/2023 16:55
+JBCS-1532,Task,New,JBCS,JBoss Core Services,software,,27/04/2023 10:49,
+JBCS-1531,Task,New,JBCS,JBoss Core Services,software,,27/04/2023 10:47,
+JBCS-1530,Task,New,JBCS,JBoss Core Services,software,,27/04/2023 10:41,
+JBCS-1528,Feature,New,JBCS,JBoss Core Services,software,,25/04/2023 23:59,
+JBCS-1521,Bug,Closed,JBCS,JBoss Core Services,software,Can't Do,28/03/2023 06:23,11/04/2023 13:07
+JBCS-1520,Bug,Closed,JBCS,JBoss Core Services,software,Can't Do,28/03/2023 06:20,12/04/2023 14:19
+JBCS-1508,Task,Closed,JBCS,JBoss Core Services,software,Done,13/03/2023 12:45,27/04/2023 10:32
+JBCS-1505,Component Upgrade,Closed,JBCS,JBoss Core Services,software,Done,08/03/2023 19:08,07/06/2023 07:11
+JBCS-1489,Task,Closed,JBCS,JBoss Core Services,software,Done,07/03/2023 13:18,13/07/2023 13:48
+JBCS-1487,Feature,Closed,JBCS,JBoss Core Services,software,Done,02/03/2023 16:00,31/05/2023 10:20
+JBCS-1486,Bug,Closed,JBCS,JBoss Core Services,software,Duplicate,02/03/2023 14:52,31/03/2023 12:06
+JBCS-1476,Bug,Closed,JBCS,JBoss Core Services,software,Done,09/02/2023 04:36,19/03/2024 16:13
+JBCS-1475,Bug,Closed,JBCS,JBoss Core Services,software,Can't Do,06/02/2023 12:59,12/04/2023 08:31
+JBCS-1460,Bug,Closed,JBCS,JBoss Core Services,software,Done,06/01/2023 15:50,05/02/2024 18:59
+JBCS-1454,Bug,Closed,JBCS,JBoss Core Services,software,Done,07/12/2022 15:55,07/06/2023 07:11
+JBCS-1453,Task,Closed,JBCS,JBoss Core Services,software,Done,07/12/2022 13:57,09/12/2022 09:51
+JBCS-1452,Task,Closed,JBCS,JBoss Core Services,software,Done,06/12/2022 18:42,04/01/2023 15:06
+JBCS-1436,Task,Closed,JBCS,JBoss Core Services,software,Done,06/12/2022 12:42,02/01/2023 13:34
+JBCS-1435,Task,Closed,JBCS,JBoss Core Services,software,Done,05/12/2022 12:29,07/12/2022 15:57
+JBCS-1434,Task,Closed,JBCS,JBoss Core Services,software,Done,05/12/2022 12:27,07/12/2022 15:55
+JBCS-1431,Task,Closed,JBCS,JBoss Core Services,software,Done,30/11/2022 12:02,07/12/2022 15:59
+JBCS-1430,Feature,Closed,JBCS,JBoss Core Services,software,Done,21/11/2022 14:51,07/12/2022 16:18
+JBCS-1428,Task,Closed,JBCS,JBoss Core Services,software,Done,17/11/2022 15:55,07/12/2022 15:58
+JBCS-1427,Bug,Closed,JBCS,JBoss Core Services,software,Done,17/11/2022 14:32,07/06/2023 07:11
+JBCS-1426,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,16/11/2022 16:48,29/04/2024 12:16
+JBCS-1425,Bug,Closed,JBCS,JBoss Core Services,software,Done,10/11/2022 16:41,03/02/2023 07:32
+JBCS-1403,Task,Closed,JBCS,JBoss Core Services,software,Done,24/10/2022 13:34,02/01/2023 13:35
+JBCS-1400,Task,Closed,JBCS,JBoss Core Services,software,Done,20/10/2022 09:51,21/10/2022 10:44
+JBCS-1395,Task,Closed,JBCS,JBoss Core Services,software,Done,10/10/2022 12:44,20/10/2022 09:29
+JBCS-1394,Task,Closed,JBCS,JBoss Core Services,software,Done,07/10/2022 16:06,10/10/2022 14:20
+JBCS-1388,Bug,Closed,JBCS,JBoss Core Services,software,Done,28/09/2022 08:35,03/02/2023 07:30
+JBCS-1387,Bug,Closed,JBCS,JBoss Core Services,software,Done,21/09/2022 11:27,03/02/2023 07:31
+JBCS-1383,Bug,Closed,JBCS,JBoss Core Services,software,Duplicate,06/09/2022 13:22,28/09/2022 11:49
+JBCS-1369,Bug,Closed,JBCS,JBoss Core Services,software,Done,24/08/2022 20:04,19/03/2024 16:14
+JBCS-1366,Bug,Closed,JBCS,JBoss Core Services,software,Duplicate,10/08/2022 14:00,04/01/2023 10:42
+JBCS-1361,Bug,Closed,JBCS,JBoss Core Services,software,Done,22/07/2022 11:22,24/10/2022 16:04
+JBCS-1360,Task,Closed,JBCS,JBoss Core Services,software,Done,22/07/2022 11:05,24/10/2022 16:06
+JBCS-1359,Task,Closed,JBCS,JBoss Core Services,software,Done,22/07/2022 11:03,24/10/2022 16:08
+JBCS-1358,Task,Closed,JBCS,JBoss Core Services,software,Done,22/07/2022 10:46,24/10/2022 16:09
+JBCS-1353,Bug,Closed,JBCS,JBoss Core Services,software,Done,07/07/2022 11:25,03/08/2023 15:46
+JBCS-1352,Bug,Closed,JBCS,JBoss Core Services,software,Done,04/07/2022 12:51,03/02/2023 07:30
+JBCS-1351,Bug,Closed,JBCS,JBoss Core Services,software,Done,30/06/2022 11:12,03/02/2023 07:30
+JBCS-1338,Bug,Closed,JBCS,JBoss Core Services,software,Done,10/06/2022 22:02,03/02/2023 07:32
+JBCS-1336,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,01/06/2022 13:57,25/01/2023 12:17
+JBCS-1301,Task,Closed,JBCS,JBoss Core Services,software,Done,31/03/2022 17:19,27/07/2022 13:53
+JBCS-1300,Feature,Closed,JBCS,JBoss Core Services,software,Done,31/03/2022 15:38,19/04/2022 08:28
+JBCS-1293,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,24/03/2022 15:36,08/02/2024 12:42
+JBCS-1289,Bug,Closed,JBCS,JBoss Core Services,software,Done,22/03/2022 10:15,03/02/2023 07:30
+JBCS-1288,Bug,Closed,JBCS,JBoss Core Services,software,Done,22/03/2022 08:11,03/02/2023 07:32
+JBCS-1287,Bug,Closed,JBCS,JBoss Core Services,software,Done,22/03/2022 08:06,03/02/2023 07:30
+JBCS-1286,Bug,Closed,JBCS,JBoss Core Services,software,Done,21/03/2022 10:06,03/02/2023 07:32
+JBCS-1285,Bug,Closed,JBCS,JBoss Core Services,software,Done,21/03/2022 09:19,03/02/2023 07:30
+JBCS-1279,Bug,Closed,JBCS,JBoss Core Services,software,Done,28/02/2022 13:43,24/10/2022 16:35
+JBCS-1278,Bug,Closed,JBCS,JBoss Core Services,software,Done,28/02/2022 13:41,24/10/2022 16:37
+JBCS-1268,Feature,Closed,JBCS,JBoss Core Services,software,Done,10/02/2022 12:28,03/02/2023 07:32
+JBCS-1263,Task,Closed,JBCS,JBoss Core Services,software,Obsolete,31/01/2022 20:24,09/09/2024 18:47
+JBCS-1261,Bug,Closed,JBCS,JBoss Core Services,software,Done,26/01/2022 12:19,07/06/2023 07:11
+JBCS-1260,Bug,Closed,JBCS,JBoss Core Services,software,Done,25/01/2022 14:34,03/02/2023 07:31
+JBCS-1247,Task,Review,JBCS,JBoss Core Services,software,Done,21/12/2021 15:55,28/03/2022 17:07
+JBCS-1245,Bug,Closed,JBCS,JBoss Core Services,software,Done,18/11/2021 20:45,02/06/2023 14:04
+JBCS-1241,Task,Closed,JBCS,JBoss Core Services,software,Done,27/10/2021 08:07,28/01/2022 08:28
+JBCS-1240,Task,Closed,JBCS,JBoss Core Services,software,Done,27/10/2021 08:05,28/01/2022 08:26
+JBCS-1239,Task,Closed,JBCS,JBoss Core Services,software,Done,27/10/2021 08:04,28/01/2022 08:26
+JBCS-1238,Task,Closed,JBCS,JBoss Core Services,software,Done,27/10/2021 08:02,28/01/2022 08:25
+JBCS-1232,Task,Closed,JBCS,JBoss Core Services,software,Done,12/10/2021 13:24,02/01/2023 13:35
+JBCS-1231,Task,New,JBCS,JBoss Core Services,software,,12/10/2021 13:16,
+JBCS-1230,Task,Closed,JBCS,JBoss Core Services,software,Done,12/10/2021 13:14,13/07/2023 14:04
+JBCS-1229,Task,New,JBCS,JBoss Core Services,software,,12/10/2021 13:14,
+JBCS-1228,Task,New,JBCS,JBoss Core Services,software,,12/10/2021 13:12,
+JBCS-1227,Bug,Closed,JBCS,JBoss Core Services,software,Done,06/10/2021 15:08,24/10/2022 16:42
+JBCS-1224,Bug,Planning,JBCS,JBoss Core Services,software,,04/10/2021 16:18,
+JBCS-1208,Task,Closed,JBCS,JBoss Core Services,software,Done,30/09/2021 09:01,13/01/2022 14:46
+JBCS-1207,Feature,Closed,JBCS,JBoss Core Services,software,Done,29/09/2021 16:56,30/09/2021 14:29
+JBCS-1204,Bug,Closed,JBCS,JBoss Core Services,software,Done,21/09/2021 13:45,03/02/2023 07:31
+JBCS-1203,Bug,Closed,JBCS,JBoss Core Services,software,Done,21/09/2021 13:29,04/10/2021 12:19
+JBCS-1198,Task,Closed,JBCS,JBoss Core Services,software,Done,14/09/2021 10:53,15/09/2021 07:40
+JBCS-1197,Task,Closed,JBCS,JBoss Core Services,software,Done,14/09/2021 10:49,15/09/2021 07:20
+JBCS-1196,Bug,Closed,JBCS,JBoss Core Services,software,Duplicate,14/09/2021 08:20,31/08/2022 10:23
+JBCS-1195,Bug,Closed,JBCS,JBoss Core Services,software,Duplicate,11/09/2021 06:15,29/09/2021 17:22
+JBCS-1192,Bug,New,JBCS,JBoss Core Services,software,,08/09/2021 09:56,
+JBCS-1191,Bug,Closed,JBCS,JBoss Core Services,software,Duplicate,08/09/2021 07:39,02/02/2022 16:00
+JBCS-1189,Task,Closed,JBCS,JBoss Core Services,software,Done,02/09/2021 11:57,14/09/2021 16:46
+JBCS-1185,Bug,Closed,JBCS,JBoss Core Services,software,Done,25/08/2021 07:59,07/09/2021 10:54
+JBCS-1184,Bug,Closed,JBCS,JBoss Core Services,software,Done,25/08/2021 06:10,13/09/2021 10:38
+JBCS-1183,Bug,Closed,JBCS,JBoss Core Services,software,Done,25/08/2021 06:01,09/09/2021 11:54
+JBCS-1181,Bug,Closed,JBCS,JBoss Core Services,software,Done,19/08/2021 18:34,03/02/2023 07:32
+JBCS-1179,Bug,Closed,JBCS,JBoss Core Services,software,Done,19/08/2021 07:31,15/03/2024 09:25
+JBCS-1161,Task,Closed,JBCS,JBoss Core Services,software,Done,29/07/2021 08:33,13/01/2022 14:47
+JBCS-1153,Bug,Closed,JBCS,JBoss Core Services,software,Duplicate,27/07/2021 18:33,13/09/2021 14:05
+JBCS-1151,Bug,New,JBCS,JBoss Core Services,software,,15/07/2021 13:46,
+JBCS-1150,Bug,Closed,JBCS,JBoss Core Services,software,Done,01/07/2021 12:44,13/02/2024 03:06
+JBCS-1148,Bug,Closed,JBCS,JBoss Core Services,software,Done,29/06/2021 17:39,03/02/2023 07:31
+JBCS-1146,Bug,Closed,JBCS,JBoss Core Services,software,Done,15/06/2021 08:00,23/06/2023 10:09
+JBCS-1145,Bug,Closed,JBCS,JBoss Core Services,software,Done,14/06/2021 10:10,03/08/2023 15:40
+JBCS-1133,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,28/05/2021 17:13,19/09/2022 08:04
+JBCS-1131,Bug,Closed,JBCS,JBoss Core Services,software,Done,13/05/2021 12:00,04/06/2021 15:43
+JBCS-1130,Story,Planning,JBCS,JBoss Core Services,software,,13/05/2021 10:55,
+JBCS-1111,Bug,Closed,JBCS,JBoss Core Services,software,Done,30/04/2021 14:12,09/06/2021 13:43
+JBCS-1105,Bug,Closed,JBCS,JBoss Core Services,software,Done,23/04/2021 14:51,26/05/2021 10:10
+JBCS-1100,Bug,Closed,JBCS,JBoss Core Services,software,Done,15/04/2021 18:33,05/05/2021 09:21
+JBCS-1097,Story,Closed,JBCS,JBoss Core Services,software,Done,01/04/2021 06:21,13/05/2021 10:09
+JBCS-1096,Feature,Closed,JBCS,JBoss Core Services,software,Done,30/03/2021 09:27,13/04/2021 12:07
+JBCS-1092,Bug,Closed,JBCS,JBoss Core Services,software,Done,24/03/2021 03:49,07/06/2023 07:11
+JBCS-1085,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,16/03/2021 05:44,17/08/2023 18:58
+JBCS-1082,Bug,Closed,JBCS,JBoss Core Services,software,Done,11/03/2021 10:31,29/09/2021 17:20
+JBCS-1074,Bug,Closed,JBCS,JBoss Core Services,software,Done,10/02/2021 14:50,15/09/2021 15:46
+JBCS-1073,Bug,Closed,JBCS,JBoss Core Services,software,Done,03/02/2021 16:55,03/02/2023 07:30
+JBCS-1072,Bug,Closed,JBCS,JBoss Core Services,software,Done,03/02/2021 10:15,19/05/2021 11:02
+JBCS-1070,Task,Closed,JBCS,JBoss Core Services,software,Can't Do,22/01/2021 07:59,13/03/2023 15:07
+JBCS-1054,Task,Closed,JBCS,JBoss Core Services,software,Done,20/01/2021 07:12,12/02/2021 09:17
+JBCS-1050,Bug,Closed,JBCS,JBoss Core Services,software,Done,16/12/2020 12:29,12/01/2021 13:06
+JBCS-1046,Bug,Closed,JBCS,JBoss Core Services,software,Duplicate,07/12/2020 08:56,04/01/2023 10:53
+JBCS-1035,Bug,Closed,JBCS,JBoss Core Services,software,Done,20/11/2020 05:22,12/01/2021 10:07
+JBCS-1032,Task,Closed,JBCS,JBoss Core Services,software,Duplicate,09/11/2020 16:57,27/10/2021 09:01
+JBCS-1031,Task,Closed,JBCS,JBoss Core Services,software,Duplicate,09/11/2020 16:57,27/10/2021 09:00
+JBCS-1030,Task,Closed,JBCS,JBoss Core Services,software,Duplicate,09/11/2020 16:56,27/10/2021 08:55
+JBCS-1029,Task,Closed,JBCS,JBoss Core Services,software,Duplicate,09/11/2020 16:55,27/10/2021 08:58
+JBCS-1027,Task,Closed,JBCS,JBoss Core Services,software,Done,09/11/2020 16:51,15/02/2022 18:13
+JBCS-1026,Task,Closed,JBCS,JBoss Core Services,software,Done,09/11/2020 16:50,15/02/2022 18:13
+JBCS-1025,Task,Closed,JBCS,JBoss Core Services,software,Done,09/11/2020 16:49,15/02/2022 18:12
+JBCS-1024,Task,Closed,JBCS,JBoss Core Services,software,Done,09/11/2020 16:49,15/02/2022 18:12
+JBCS-1023,Task,Closed,JBCS,JBoss Core Services,software,Done,09/11/2020 16:48,15/02/2022 18:12
+JBCS-1022,Task,Closed,JBCS,JBoss Core Services,software,Done,09/11/2020 16:47,15/02/2022 18:11
+JBCS-1021,Task,Closed,JBCS,JBoss Core Services,software,Done,09/11/2020 16:45,15/02/2022 18:11
+JBCS-1018,Bug,Closed,JBCS,JBoss Core Services,software,Done,03/11/2020 06:50,01/02/2022 15:07
+JBCS-1015,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,25/10/2020 22:00,01/09/2022 19:10
+JBCS-1009,Bug,Closed,JBCS,JBoss Core Services,software,Not a Bug,06/10/2020 03:29,09/12/2020 06:39
+JBCS-1007,Bug,Closed,JBCS,JBoss Core Services,software,Done,30/09/2020 03:59,13/05/2021 10:09
+JBCS-1006,Bug,Closed,JBCS,JBoss Core Services,software,Duplicate,28/09/2020 05:36,25/01/2023 15:44
+JBCS-1001,Bug,Closed,JBCS,JBoss Core Services,software,Done,16/09/2020 15:58,12/01/2021 13:08
+JBCS-1000,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,16/09/2020 09:30,16/09/2020 10:06
+JBCS-997,Bug,New,JBCS,JBoss Core Services,software,,13/08/2020 15:26,
+JBCS-987,Bug,Closed,JBCS,JBoss Core Services,software,Done,04/08/2020 02:55,03/02/2023 07:31
+JBCS-986,Bug,Closed,JBCS,JBoss Core Services,software,Not a Bug,30/07/2020 11:01,19/05/2021 12:36
+JBCS-985,Bug,Closed,JBCS,JBoss Core Services,software,Done,13/07/2020 14:35,15/09/2021 15:47
+JBCS-960,Task,Closed,JBCS,JBoss Core Services,software,Done,21/05/2020 13:50,25/11/2020 13:23
+JBCS-959,Bug,Closed,JBCS,JBoss Core Services,software,Done,17/05/2020 20:40,27/07/2020 04:35
+JBCS-957,Bug,Closed,JBCS,JBoss Core Services,software,Done,13/05/2020 10:33,15/09/2021 15:43
+JBCS-955,Bug,Closed,JBCS,JBoss Core Services,software,Done,13/05/2020 05:10,22/06/2020 08:20
+JBCS-947,Bug,Closed,JBCS,JBoss Core Services,software,Done,23/04/2020 05:25,12/05/2020 16:39
+JBCS-946,Bug,Closed,JBCS,JBoss Core Services,software,Done,21/04/2020 12:11,09/06/2020 04:21
+JBCS-945,Bug,Closed,JBCS,JBoss Core Services,software,Done,15/04/2020 09:03,08/10/2020 11:48
+JBCS-943,Bug,Closed,JBCS,JBoss Core Services,software,Done,14/04/2020 03:50,24/08/2020 06:56
+JBCS-941,Bug,Closed,JBCS,JBoss Core Services,software,Done,09/04/2020 07:16,07/05/2020 16:39
+JBCS-936,Bug,Closed,JBCS,JBoss Core Services,software,Done,01/04/2020 05:04,07/05/2020 16:38
+JBCS-935,Bug,Closed,JBCS,JBoss Core Services,software,Done,31/03/2020 16:20,22/04/2020 10:50
+JBCS-933,Bug,Closed,JBCS,JBoss Core Services,software,Done,26/03/2020 03:35,09/06/2020 04:53
+JBCS-931,Bug,Closed,JBCS,JBoss Core Services,software,Done,18/03/2020 10:43,07/05/2020 16:38
+JBCS-930,Bug,Closed,JBCS,JBoss Core Services,software,Done,17/03/2020 09:04,23/03/2020 04:46
+JBCS-929,Bug,Closed,JBCS,JBoss Core Services,software,Done,12/03/2020 11:36,21/04/2020 14:25
+JBCS-924,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,03/03/2020 07:24,02/04/2020 06:06
+JBCS-905,Task,Closed,JBCS,JBoss Core Services,software,Done,17/02/2020 06:48,21/05/2020 13:40
+JBCS-890,Task,Closed,JBCS,JBoss Core Services,software,Done,17/02/2020 06:41,27/07/2022 13:53
+JBCS-883,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,14/01/2020 18:00,11/05/2020 16:06
+JBCS-881,Bug,Closed,JBCS,JBoss Core Services,software,Done,13/01/2020 01:55,24/09/2020 07:57
+JBCS-880,Bug,Closed,JBCS,JBoss Core Services,software,Done,09/01/2020 07:41,13/02/2020 08:19
+JBCS-878,Bug,Closed,JBCS,JBoss Core Services,software,Not a Bug,19/12/2019 10:37,02/04/2020 05:43
+JBCS-874,Bug,Closed,JBCS,JBoss Core Services,software,Done,10/12/2019 06:38,09/01/2020 10:02
+JBCS-868,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,20/11/2019 05:45,27/09/2022 07:54
+JBCS-860,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,06/11/2019 02:06,06/11/2019 04:50
+JBCS-856,Bug,Closed,JBCS,JBoss Core Services,software,Done,05/11/2019 06:47,18/12/2019 11:03
+JBCS-855,Bug,Closed,JBCS,JBoss Core Services,software,Done,16/10/2019 20:30,18/03/2020 11:51
+JBCS-854,Bug,Closed,JBCS,JBoss Core Services,software,Duplicate,14/10/2019 09:21,02/04/2020 05:52
+JBCS-847,Bug,Closed,JBCS,JBoss Core Services,software,Done,08/10/2019 06:56,11/12/2019 08:22
+JBCS-845,Bug,Closed,JBCS,JBoss Core Services,software,Done,04/10/2019 06:01,11/10/2019 12:05
+JBCS-844,Bug,Closed,JBCS,JBoss Core Services,software,Done,25/09/2019 10:29,07/11/2019 10:11
+JBCS-843,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,25/09/2019 05:08,25/09/2019 10:09
+JBCS-838,Bug,Closed,JBCS,JBoss Core Services,software,Done,17/09/2019 20:51,04/02/2021 12:45
+JBCS-829,Bug,Closed,JBCS,JBoss Core Services,software,Done,06/09/2019 09:18,06/09/2019 10:17
+JBCS-828,Bug,Closed,JBCS,JBoss Core Services,software,Done,04/09/2019 12:19,04/09/2019 12:20
+JBCS-826,Bug,Closed,JBCS,JBoss Core Services,software,Done,04/09/2019 11:48,04/09/2019 12:07
+JBCS-818,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,03/09/2019 03:53,03/09/2019 06:35
+JBCS-817,Bug,Closed,JBCS,JBoss Core Services,software,Done,02/09/2019 10:56,03/09/2019 09:55
+JBCS-816,Bug,Closed,JBCS,JBoss Core Services,software,Done,02/09/2019 03:34,05/10/2019 04:38
+JBCS-813,Bug,Closed,JBCS,JBoss Core Services,software,Done,29/08/2019 10:07,09/12/2019 08:54
+JBCS-812,Bug,Closed,JBCS,JBoss Core Services,software,Done,28/08/2019 05:20,02/09/2019 04:46
+JBCS-811,Bug,Closed,JBCS,JBoss Core Services,software,Done,27/08/2019 06:15,03/02/2023 07:31
+JBCS-810,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,26/08/2019 11:28,27/08/2019 10:33
+JBCS-808,Bug,Closed,JBCS,JBoss Core Services,software,Done,22/08/2019 03:33,02/04/2020 06:35
+JBCS-803,Bug,Closed,JBCS,JBoss Core Services,software,Done,14/08/2019 02:49,27/08/2019 09:38
+JBCS-798,Bug,Closed,JBCS,JBoss Core Services,software,Done,02/08/2019 03:38,28/08/2019 05:40
+JBCS-792,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,25/07/2019 07:16,26/07/2019 09:33
+JBCS-791,Bug,Closed,JBCS,JBoss Core Services,software,Done,25/07/2019 07:09,26/07/2019 09:33
+JBCS-790,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,25/07/2019 07:05,26/07/2019 09:34
+JBCS-789,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,25/07/2019 07:03,26/07/2019 09:33
+JBCS-787,Bug,Closed,JBCS,JBoss Core Services,software,Done,27/06/2019 08:04,15/07/2019 05:19
+JBCS-783,Bug,Closed,JBCS,JBoss Core Services,software,Done,17/06/2019 12:49,21/11/2019 08:19
+JBCS-782,Bug,Closed,JBCS,JBoss Core Services,software,Done,12/06/2019 09:47,26/09/2019 07:05
+JBCS-776,Bug,Closed,JBCS,JBoss Core Services,software,Done,03/06/2019 11:17,26/07/2019 09:23
+JBCS-775,Bug,Closed,JBCS,JBoss Core Services,software,Done,03/06/2019 10:59,22/07/2019 04:39
+JBCS-763,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,11/05/2019 09:02,24/09/2019 05:17
+JBCS-762,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,10/05/2019 14:35,06/12/2019 05:22
+JBCS-761,Bug,Closed,JBCS,JBoss Core Services,software,Done,07/05/2019 02:19,10/06/2020 07:22
+JBCS-758,Bug,Closed,JBCS,JBoss Core Services,software,Done,30/04/2019 10:58,19/11/2019 06:34
+JBCS-750,Bug,Closed,JBCS,JBoss Core Services,software,Done,25/04/2019 07:11,19/11/2019 06:33
+JBCS-749,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,27/04/2018 13:12,21/11/2019 08:03
+JBCS-748,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,07/01/2018 21:40,19/06/2019 11:58
+JBCS-747,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,07/01/2018 21:42,02/04/2020 06:24
+JBCS-744,Bug,Closed,JBCS,JBoss Core Services,software,Done,16/04/2019 00:58,04/12/2019 04:33
+JBCS-740,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,11/03/2019 11:43,08/10/2019 08:42
+JBCS-739,Bug,Closed,JBCS,JBoss Core Services,software,Done,04/04/2019 09:11,30/07/2019 03:57
+JBCS-732,Bug,Closed,JBCS,JBoss Core Services,software,Done,06/03/2019 07:37,07/05/2019 04:18
+JBCS-729,Bug,Closed,JBCS,JBoss Core Services,software,Done,26/02/2019 06:15,06/06/2019 06:01
+JBCS-728,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,22/02/2019 05:39,08/04/2020 08:30
+JBCS-727,Bug,Closed,JBCS,JBoss Core Services,software,Done,22/02/2019 05:38,05/08/2019 09:34
+JBCS-726,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,22/02/2019 05:36,08/04/2020 08:31
+JBCS-725,Bug,Closed,JBCS,JBoss Core Services,software,Done,22/02/2019 05:35,08/04/2020 08:33
+JBCS-724,Bug,Closed,JBCS,JBoss Core Services,software,Done,22/02/2019 05:34,08/04/2020 08:31
+JBCS-723,Bug,Closed,JBCS,JBoss Core Services,software,Done,22/02/2019 05:32,08/04/2020 08:31
+JBCS-722,Bug,Closed,JBCS,JBoss Core Services,software,Done,22/02/2019 05:30,06/05/2019 04:20
+JBCS-721,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,22/02/2019 05:29,08/04/2020 08:30
+JBCS-718,Bug,Closed,JBCS,JBoss Core Services,software,Done,07/02/2019 06:45,22/06/2019 07:47
+JBCS-717,Bug,Closed,JBCS,JBoss Core Services,software,Done,07/02/2019 04:27,22/06/2019 07:56
+JBCS-712,Bug,Closed,JBCS,JBoss Core Services,software,Done,14/12/2018 11:30,15/07/2019 05:20
+JBCS-711,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,10/12/2018 04:50,10/06/2022 08:22
+JBCS-710,Bug,Closed,JBCS,JBoss Core Services,software,Cannot Reproduce,07/12/2018 05:01,06/04/2019 03:53
+JBCS-708,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,29/11/2018 09:02,02/04/2019 04:46
+JBCS-704,Bug,Closed,JBCS,JBoss Core Services,software,Done,09/11/2018 05:44,26/11/2018 03:11
+JBCS-703,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,09/11/2018 00:46,11/11/2019 08:08
+JBCS-695,Bug,Closed,JBCS,JBoss Core Services,software,Done,26/10/2018 06:59,15/07/2019 05:17
+JBCS-692,Bug,Closed,JBCS,JBoss Core Services,software,Done,23/10/2018 07:06,02/04/2020 06:02
+JBCS-687,Feature,Closed,JBCS,JBoss Core Services,software,Done,23/02/2017 16:37,08/04/2020 08:32
+JBCS-672,Feature,Closed,JBCS,JBoss Core Services,software,Duplicate,24/03/2016 09:38,20/09/2016 08:36
+JBCS-652,Feature,Closed,JBCS,JBoss Core Services,software,Obsolete,30/11/2017 10:07,04/04/2019 10:38
+JBCS-651,Bug,Closed,JBCS,JBoss Core Services,software,Done,22/10/2018 17:08,09/06/2020 04:22
+JBCS-650,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,18/10/2018 08:54,17/09/2020 11:02
+JBCS-645,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,12/10/2018 04:22,13/11/2019 06:39
+JBCS-644,Bug,Closed,JBCS,JBoss Core Services,software,Done,11/10/2018 04:52,31/10/2018 08:11
+JBCS-642,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,30/09/2018 23:15,21/11/2019 08:14
+JBCS-639,Bug,Closed,JBCS,JBoss Core Services,software,Done,28/09/2018 10:07,28/02/2024 11:46
+JBCS-637,Bug,Closed,JBCS,JBoss Core Services,software,Done,26/09/2018 07:21,14/11/2018 08:27
+JBCS-634,Bug,Closed,JBCS,JBoss Core Services,software,Done,10/09/2018 17:57,22/07/2019 04:37
+JBCS-632,Bug,Closed,JBCS,JBoss Core Services,software,Done,05/09/2018 10:54,09/12/2019 08:06
+JBCS-630,Bug,Closed,JBCS,JBoss Core Services,software,Done,22/08/2018 11:23,15/07/2019 05:20
+JBCS-623,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,21/08/2018 02:27,02/04/2020 06:29
+JBCS-621,Bug,Closed,JBCS,JBoss Core Services,software,Done,21/08/2018 01:44,26/08/2020 08:03
+JBCS-620,Bug,Closed,JBCS,JBoss Core Services,software,Done,15/08/2018 09:27,19/11/2019 06:31
+JBCS-618,Bug,Closed,JBCS,JBoss Core Services,software,Not a Bug,10/08/2018 06:39,27/05/2021 15:13
+JBCS-614,Bug,Closed,JBCS,JBoss Core Services,software,Done,23/07/2018 07:27,02/04/2020 06:27
+JBCS-613,Bug,Closed,JBCS,JBoss Core Services,software,Done,23/07/2018 07:27,02/04/2020 06:28
+JBCS-612,Bug,Closed,JBCS,JBoss Core Services,software,Done,20/07/2018 09:20,29/10/2018 13:46
+JBCS-610,Bug,Closed,JBCS,JBoss Core Services,software,Done,18/07/2018 05:21,04/11/2018 13:06
+JBCS-609,Bug,Closed,JBCS,JBoss Core Services,software,Done,17/07/2018 08:56,08/08/2018 05:19
+JBCS-602,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,28/06/2018 23:39,11/11/2019 08:07
+JBCS-599,Bug,New,JBCS,JBoss Core Services,software,,22/03/2017 15:08,
+JBCS-594,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,11/06/2018 10:42,02/04/2019 04:59
+JBCS-593,Bug,Closed,JBCS,JBoss Core Services,software,Done,07/06/2018 07:57,19/06/2018 11:37
+JBCS-589,Bug,Closed,JBCS,JBoss Core Services,software,Done,22/03/2017 14:52,17/08/2020 16:20
+JBCS-587,Bug,Closed,JBCS,JBoss Core Services,software,Done,24/05/2018 05:13,10/08/2018 13:52
+JBCS-586,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,24/05/2018 04:58,30/07/2019 08:37
+JBCS-585,Bug,Closed,JBCS,JBoss Core Services,software,Done,24/05/2018 04:34,19/06/2018 11:16
+JBCS-584,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,23/05/2018 06:02,04/12/2018 12:26
+JBCS-583,Bug,Closed,JBCS,JBoss Core Services,software,Done,16/05/2018 17:44,17/07/2018 05:27
+JBCS-580,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,14/05/2018 03:44,15/06/2018 11:52
+JBCS-579,Bug,Closed,JBCS,JBoss Core Services,software,Done,14/05/2018 01:32,19/06/2018 10:33
+JBCS-577,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,11/05/2018 02:30,19/06/2018 11:29
+JBCS-576,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,10/05/2018 10:14,19/06/2018 04:01
+JBCS-573,Bug,Closed,JBCS,JBoss Core Services,software,Done,10/05/2018 02:32,13/06/2018 01:39
+JBCS-572,Bug,Closed,JBCS,JBoss Core Services,software,Done,09/05/2018 09:08,25/06/2018 10:43
+JBCS-568,Bug,Closed,JBCS,JBoss Core Services,software,Not a Bug,26/04/2018 06:20,11/05/2018 08:03
+JBCS-567,Bug,Closed,JBCS,JBoss Core Services,software,Done,26/04/2018 06:17,19/06/2018 11:20
+JBCS-566,Bug,Closed,JBCS,JBoss Core Services,software,Done,26/04/2018 06:07,19/06/2018 11:20
+JBCS-563,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,25/04/2018 07:42,02/04/2019 05:45
+JBCS-556,Bug,Closed,JBCS,JBoss Core Services,software,Done,24/04/2018 03:56,02/04/2019 05:46
+JBCS-544,Bug,Closed,JBCS,JBoss Core Services,software,Done,23/04/2018 09:24,27/05/2022 13:55
+JBCS-543,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,23/04/2018 07:07,03/07/2019 04:40
+JBCS-542,Bug,Closed,JBCS,JBoss Core Services,software,Done,19/04/2018 09:24,10/08/2018 04:23
+JBCS-539,Bug,Closed,JBCS,JBoss Core Services,software,Done,17/04/2018 09:01,02/04/2019 05:02
+JBCS-538,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,17/04/2018 08:56,02/04/2020 06:31
+JBCS-537,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,16/04/2018 08:41,19/06/2018 11:17
+JBCS-536,Bug,Closed,JBCS,JBoss Core Services,software,Done,16/04/2018 06:40,16/11/2018 09:27
+JBCS-535,Bug,Closed,JBCS,JBoss Core Services,software,Done,16/04/2018 03:40,26/07/2019 09:12
+JBCS-534,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,12/04/2018 07:45,02/04/2019 05:41
+JBCS-531,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,11/04/2018 05:16,06/12/2019 05:31
+JBCS-518,Bug,Closed,JBCS,JBoss Core Services,software,Done,03/04/2018 04:46,16/11/2018 09:12
+JBCS-514,Bug,Closed,JBCS,JBoss Core Services,software,Done,28/03/2018 09:25,12/04/2018 05:55
+JBCS-511,Bug,Closed,JBCS,JBoss Core Services,software,Done,25/03/2018 19:02,11/04/2018 10:47
+JBCS-510,Bug,Closed,JBCS,JBoss Core Services,software,Done,23/03/2018 02:43,28/03/2018 04:50
+JBCS-507,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,19/03/2018 11:00,06/06/2019 05:56
+JBCS-506,Bug,Closed,JBCS,JBoss Core Services,software,Done,19/03/2018 08:43,20/03/2018 10:10
+JBCS-505,Bug,Closed,JBCS,JBoss Core Services,software,Done,19/03/2018 05:13,25/03/2018 19:07
+JBCS-504,Bug,Closed,JBCS,JBoss Core Services,software,Done,19/03/2018 05:08,08/11/2018 01:38
+JBCS-503,Bug,Closed,JBCS,JBoss Core Services,software,Done,19/03/2018 04:46,09/04/2018 06:07
+JBCS-494,Bug,Closed,JBCS,JBoss Core Services,software,Done,16/03/2018 08:44,19/06/2018 11:33
+JBCS-493,Bug,Closed,JBCS,JBoss Core Services,software,Done,16/03/2018 07:05,17/04/2018 23:24
+JBCS-492,Bug,Closed,JBCS,JBoss Core Services,software,Done,16/03/2018 05:40,18/04/2018 09:09
+JBCS-491,Bug,Closed,JBCS,JBoss Core Services,software,Done,16/03/2018 01:38,25/03/2018 14:23
+JBCS-490,Bug,Closed,JBCS,JBoss Core Services,software,Done,16/03/2018 00:52,12/04/2018 06:00
+JBCS-489,Bug,Closed,JBCS,JBoss Core Services,software,Done,16/03/2018 00:31,12/04/2018 06:00
+JBCS-488,Bug,Closed,JBCS,JBoss Core Services,software,Done,15/03/2018 10:52,12/04/2018 04:00
+JBCS-486,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,15/03/2018 09:38,02/04/2019 03:35
+JBCS-483,Bug,Closed,JBCS,JBoss Core Services,software,Done,15/03/2018 05:11,18/04/2018 11:28
+JBCS-479,Bug,Closed,JBCS,JBoss Core Services,software,Done,14/03/2018 11:36,16/11/2018 09:03
+JBCS-478,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,14/03/2018 11:36,02/04/2019 05:03
+JBCS-477,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,14/03/2018 11:34,26/10/2018 16:53
+JBCS-475,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,14/03/2018 10:30,02/04/2019 05:03
+JBCS-472,Bug,Closed,JBCS,JBoss Core Services,software,Done,13/03/2018 05:14,21/03/2018 05:55
+JBCS-470,Bug,Closed,JBCS,JBoss Core Services,software,Done,12/03/2018 10:58,27/03/2018 02:08
+JBCS-469,Bug,Closed,JBCS,JBoss Core Services,software,Done,12/03/2018 10:54,20/04/2018 11:55
+JBCS-468,Bug,Closed,JBCS,JBoss Core Services,software,Done,12/03/2018 10:51,30/03/2018 02:07
+JBCS-467,Bug,Closed,JBCS,JBoss Core Services,software,Done,12/03/2018 10:47,25/03/2018 11:38
+JBCS-466,Bug,Closed,JBCS,JBoss Core Services,software,Duplicate,09/03/2018 09:38,03/12/2018 05:45
+JBCS-465,Bug,Closed,JBCS,JBoss Core Services,software,Duplicate,09/03/2018 09:32,08/05/2019 11:59
+JBCS-464,Bug,Closed,JBCS,JBoss Core Services,software,Done,09/03/2018 09:31,09/04/2018 09:13
+JBCS-463,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,08/03/2018 10:22,02/04/2019 05:36
+JBCS-462,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,07/03/2018 22:57,02/04/2019 05:46
+JBCS-458,Bug,Closed,JBCS,JBoss Core Services,software,Done,27/02/2018 01:44,13/04/2018 00:16
+JBCS-455,Bug,Closed,JBCS,JBoss Core Services,software,Not a Bug,24/02/2018 13:59,02/04/2019 05:48
+JBCS-453,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,20/02/2018 03:58,07/06/2019 05:11
+JBCS-452,Bug,Closed,JBCS,JBoss Core Services,software,Done,16/02/2018 09:45,10/02/2022 14:42
+JBCS-451,Bug,Closed,JBCS,JBoss Core Services,software,Done,14/02/2018 16:52,01/04/2020 14:40
+JBCS-450,Bug,Closed,JBCS,JBoss Core Services,software,Done,09/02/2018 09:53,07/06/2023 07:12
+JBCS-448,Bug,Closed,JBCS,JBoss Core Services,software,Done,05/02/2018 19:07,24/06/2019 12:34
+JBCS-447,Bug,Closed,JBCS,JBoss Core Services,software,Done,05/02/2018 10:40,19/06/2018 11:51
+JBCS-446,Bug,Closed,JBCS,JBoss Core Services,software,Done,26/01/2018 10:52,15/06/2018 00:34
+JBCS-445,Bug,Closed,JBCS,JBoss Core Services,software,Done,25/01/2018 06:33,12/04/2018 06:04
+JBCS-444,Bug,Closed,JBCS,JBoss Core Services,software,Done,17/01/2018 05:34,21/03/2018 05:51
+JBCS-439,Bug,Closed,JBCS,JBoss Core Services,software,Done,09/01/2018 01:23,06/02/2018 07:12
+JBCS-437,Bug,Closed,JBCS,JBoss Core Services,software,Done,08/01/2018 22:18,09/01/2018 23:08
+JBCS-434,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,25/08/2017 09:43,13/03/2023 13:16
+JBCS-433,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,03/01/2018 07:46,13/11/2019 06:52
+JBCS-425,Bug,Closed,JBCS,JBoss Core Services,software,Done,13/12/2017 14:42,09/06/2020 04:21
+JBCS-424,Bug,Closed,JBCS,JBoss Core Services,software,Done,13/12/2017 08:10,18/04/2018 08:45
+JBCS-423,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,12/12/2017 01:04,02/04/2020 06:35
+JBCS-420,Bug,Closed,JBCS,JBoss Core Services,software,Done,01/12/2017 10:15,21/03/2018 05:46
+JBCS-419,Bug,Closed,JBCS,JBoss Core Services,software,Done,01/12/2017 05:35,23/04/2018 04:43
+JBCS-416,Bug,Closed,JBCS,JBoss Core Services,software,Done,20/11/2017 20:52,02/04/2019 05:51
+JBCS-414,Bug,Closed,JBCS,JBoss Core Services,software,Done,14/11/2017 02:55,08/08/2018 03:39
+JBCS-407,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,16/10/2017 10:48,18/10/2017 13:09
+JBCS-406,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,04/10/2017 16:04,24/07/2018 17:11
+JBCS-404,Bug,Closed,JBCS,JBoss Core Services,software,Done,26/09/2017 02:09,15/12/2017 17:25
+JBCS-403,Bug,Closed,JBCS,JBoss Core Services,software,Done,26/09/2017 00:42,15/12/2017 17:38
+JBCS-402,Bug,Closed,JBCS,JBoss Core Services,software,Done,26/09/2017 00:30,15/12/2017 17:36
+JBCS-399,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,24/09/2017 07:39,02/04/2019 05:09
+JBCS-396,Bug,Closed,JBCS,JBoss Core Services,software,Done,19/09/2017 00:47,24/07/2018 20:35
+JBCS-394,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,14/09/2017 16:57,06/06/2019 05:39
+JBCS-392,Bug,Closed,JBCS,JBoss Core Services,software,Done,12/09/2017 22:05,07/06/2023 07:12
+JBCS-390,Bug,Closed,JBCS,JBoss Core Services,software,Done,30/08/2017 08:58,11/10/2017 14:45
+JBCS-386,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,09/08/2017 12:20,24/09/2020 08:22
+JBCS-385,Bug,Waiting,JBCS,JBoss Core Services,software,,09/08/2017 08:45,
+JBCS-384,Bug,Closed,JBCS,JBoss Core Services,software,Done,02/08/2017 03:48,12/02/2019 06:00
+JBCS-383,Bug,Closed,JBCS,JBoss Core Services,software,Done,04/04/2017 17:24,19/06/2018 11:40
+JBCS-382,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,10/04/2017 09:37,02/04/2019 05:10
+JBCS-380,Bug,Closed,JBCS,JBoss Core Services,software,Done,26/07/2017 03:28,16/01/2019 04:44
+JBCS-378,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,19/07/2017 14:41,02/04/2019 05:11
+JBCS-377,Bug,Closed,JBCS,JBoss Core Services,software,Done,18/07/2017 13:53,04/01/2018 16:17
+JBCS-376,Bug,Closed,JBCS,JBoss Core Services,software,Done,18/07/2017 13:53,04/01/2018 16:17
+JBCS-375,Bug,Closed,JBCS,JBoss Core Services,software,Done,18/07/2017 02:11,11/10/2019 08:30
+JBCS-374,Bug,Closed,JBCS,JBoss Core Services,software,Done,17/07/2017 21:49,14/01/2020 04:22
+JBCS-373,Bug,Closed,JBCS,JBoss Core Services,software,Done,13/07/2017 05:11,12/07/2018 12:18
+JBCS-372,Bug,Closed,JBCS,JBoss Core Services,software,Done,13/07/2017 05:10,12/07/2018 12:16
+JBCS-371,Bug,Closed,JBCS,JBoss Core Services,software,Done,13/07/2017 04:54,13/08/2018 08:03
+JBCS-370,Bug,Closed,JBCS,JBoss Core Services,software,Done,04/07/2017 06:44,06/07/2017 08:58
+JBCS-361,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,21/06/2017 15:47,28/06/2017 09:09
+JBCS-360,Bug,Closed,JBCS,JBoss Core Services,software,Done,29/05/2017 02:40,02/04/2019 05:12
+JBCS-358,Bug,Closed,JBCS,JBoss Core Services,software,Done,18/05/2017 04:54,05/12/2017 11:58
+JBCS-357,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,17/05/2017 08:35,02/04/2019 05:13
+JBCS-355,Bug,Closed,JBCS,JBoss Core Services,software,Done,16/05/2017 13:16,18/04/2018 12:35
+JBCS-354,Bug,Closed,JBCS,JBoss Core Services,software,Done,16/05/2017 09:09,29/11/2017 23:22
+JBCS-353,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,16/05/2017 08:14,30/09/2020 08:53
+JBCS-352,Bug,Closed,JBCS,JBoss Core Services,software,Done,16/05/2017 03:57,29/11/2017 23:12
+JBCS-351,Bug,Closed,JBCS,JBoss Core Services,software,Done,16/05/2017 03:50,25/01/2018 06:03
+JBCS-350,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,15/05/2017 16:44,02/04/2019 05:14
+JBCS-349,Bug,Closed,JBCS,JBoss Core Services,software,Done,15/05/2017 11:28,20/04/2018 11:59
+JBCS-348,Bug,Closed,JBCS,JBoss Core Services,software,Done,15/05/2017 11:10,20/04/2018 00:46
+JBCS-347,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,12/05/2017 11:02,02/04/2019 05:16
+JBCS-344,Bug,Closed,JBCS,JBoss Core Services,software,Done,09/05/2017 17:14,15/11/2017 08:30
+JBCS-343,Bug,Closed,JBCS,JBoss Core Services,software,Done,09/05/2017 08:59,09/12/2019 05:45
+JBCS-342,Bug,Closed,JBCS,JBoss Core Services,software,Done,09/05/2017 07:02,15/06/2018 01:17
+JBCS-341,Bug,Closed,JBCS,JBoss Core Services,software,Duplicate,09/05/2017 02:05,21/05/2018 01:09
+JBCS-340,Bug,Closed,JBCS,JBoss Core Services,software,Done,04/05/2017 00:55,19/06/2018 11:47
+JBCS-339,Bug,Closed,JBCS,JBoss Core Services,software,Done,02/05/2017 09:40,29/11/2017 23:20
+JBCS-338,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,28/04/2017 03:07,02/04/2020 06:04
+JBCS-337,Bug,Closed,JBCS,JBoss Core Services,software,Done,27/04/2017 11:08,13/09/2017 12:51
+JBCS-336,Bug,Closed,JBCS,JBoss Core Services,software,Done,27/04/2017 10:55,13/09/2017 12:50
+JBCS-335,Bug,Closed,JBCS,JBoss Core Services,software,Done,26/04/2017 07:45,19/06/2018 11:37
+JBCS-334,Bug,Closed,JBCS,JBoss Core Services,software,Done,26/04/2017 07:29,08/06/2018 06:15
+JBCS-333,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,26/04/2017 04:45,24/12/2022 15:55
+JBCS-332,Bug,Closed,JBCS,JBoss Core Services,software,Done,24/04/2017 11:59,03/02/2023 07:31
+JBCS-331,Bug,Closed,JBCS,JBoss Core Services,software,Done,24/04/2017 04:45,09/05/2017 18:14
+JBCS-329,Bug,Closed,JBCS,JBoss Core Services,software,Done,19/04/2017 15:37,03/08/2017 11:57
+JBCS-328,Bug,Closed,JBCS,JBoss Core Services,software,Done,13/04/2017 02:34,30/11/2017 16:46
+JBCS-327,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,07/04/2017 09:13,19/06/2018 11:11
+JBCS-321,Bug,Closed,JBCS,JBoss Core Services,software,Done,29/03/2017 08:16,09/05/2017 18:16
+JBCS-320,Bug,Closed,JBCS,JBoss Core Services,software,Done,27/03/2017 15:21,15/07/2024 12:06
+JBCS-319,Bug,Closed,JBCS,JBoss Core Services,software,Done,27/03/2017 11:20,07/06/2017 14:01
+JBCS-318,Bug,Closed,JBCS,JBoss Core Services,software,Done,27/03/2017 11:19,07/06/2017 13:58
+JBCS-317,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,24/03/2017 05:48,02/04/2019 05:50
+JBCS-316,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,15/03/2017 17:02,02/04/2019 05:19
+JBCS-315,Bug,Closed,JBCS,JBoss Core Services,software,Done,15/03/2017 16:59,05/07/2019 04:32
+JBCS-314,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,15/03/2017 05:42,15/03/2017 07:06
+JBCS-313,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,17/02/2015 16:35,12/11/2019 11:39
+JBCS-312,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,22/04/2015 16:58,21/11/2019 08:03
+JBCS-311,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,09/03/2017 09:51,02/04/2019 05:20
+JBCS-310,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,28/05/2015 07:37,21/11/2019 08:03
+JBCS-309,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,28/05/2015 03:16,02/04/2019 05:39
+JBCS-308,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,29/05/2015 04:11,21/11/2019 08:03
+JBCS-307,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,29/05/2015 13:14,21/11/2019 08:03
+JBCS-306,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,29/05/2015 13:27,21/11/2019 08:03
+JBCS-305,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,03/06/2015 03:50,21/11/2019 08:03
+JBCS-304,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,23/12/2015 18:58,21/11/2019 08:03
+JBCS-303,Bug,Closed,JBCS,JBoss Core Services,software,Duplicate,09/03/2017 09:31,02/04/2020 05:26
+JBCS-302,Bug,Closed,JBCS,JBoss Core Services,software,Done,09/03/2017 09:27,02/04/2020 06:31
+JBCS-301,Bug,Closed,JBCS,JBoss Core Services,software,Done,09/03/2017 08:57,31/07/2018 06:08
+JBCS-300,Bug,Closed,JBCS,JBoss Core Services,software,Done,09/03/2017 08:55,25/03/2018 15:11
+JBCS-298,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,09/03/2017 07:47,02/04/2019 12:03
+JBCS-295,Bug,New,JBCS,JBoss Core Services,software,,24/02/2017 12:04,
+JBCS-291,Bug,Closed,JBCS,JBoss Core Services,software,Done,14/02/2017 10:01,28/06/2018 16:48
+JBCS-287,Bug,Closed,JBCS,JBoss Core Services,software,Done,06/02/2017 09:32,06/03/2017 14:38
+JBCS-276,Bug,Closed,JBCS,JBoss Core Services,software,Done,01/02/2017 09:19,18/04/2017 05:25
+JBCS-268,Bug,Closed,JBCS,JBoss Core Services,software,Done,27/01/2017 10:56,02/04/2019 05:38
+JBCS-265,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,13/01/2017 10:43,20/04/2017 10:34
+JBCS-258,Bug,Closed,JBCS,JBoss Core Services,software,Done,10/01/2017 04:14,28/03/2017 05:46
+JBCS-257,Bug,Closed,JBCS,JBoss Core Services,software,Done,09/01/2017 10:15,22/04/2020 11:03
+JBCS-256,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,04/01/2017 09:05,08/04/2020 08:33
+JBCS-254,Bug,Closed,JBCS,JBoss Core Services,software,Done,21/12/2016 10:53,19/06/2018 08:41
+JBCS-252,Bug,Closed,JBCS,JBoss Core Services,software,Done,15/12/2016 10:01,14/02/2017 12:51
+JBCS-251,Bug,Closed,JBCS,JBoss Core Services,software,Done,15/12/2016 05:39,07/11/2017 20:24
+JBCS-250,Bug,Closed,JBCS,JBoss Core Services,software,Done,15/12/2016 05:29,07/11/2017 20:26
+JBCS-249,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,14/12/2016 11:11,02/04/2019 05:39
+JBCS-248,Bug,Closed,JBCS,JBoss Core Services,software,Done,14/12/2016 08:49,18/04/2017 05:25
+JBCS-247,Bug,Closed,JBCS,JBoss Core Services,software,Done,13/12/2016 06:12,10/07/2018 01:52
+JBCS-246,Bug,Closed,JBCS,JBoss Core Services,software,Done,12/12/2016 10:07,18/07/2018 05:58
+JBCS-245,Bug,Closed,JBCS,JBoss Core Services,software,Done,12/12/2016 04:41,11/10/2017 13:46
+JBCS-243,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,07/12/2016 17:25,12/12/2017 12:00
+JBCS-241,Bug,Closed,JBCS,JBoss Core Services,software,Done,07/12/2016 16:30,28/03/2017 05:55
+JBCS-240,Bug,Closed,JBCS,JBoss Core Services,software,Done,07/12/2016 16:25,09/11/2018 04:40
+JBCS-239,Bug,Closed,JBCS,JBoss Core Services,software,Done,07/12/2016 12:04,06/09/2019 10:10
+JBCS-238,Bug,Closed,JBCS,JBoss Core Services,software,Done,07/12/2016 11:48,01/06/2017 13:40
+JBCS-237,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,07/12/2016 08:52,05/04/2019 10:00
+JBCS-236,Bug,Closed,JBCS,JBoss Core Services,software,Done,06/12/2016 04:35,15/05/2018 02:00
+JBCS-234,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,02/12/2016 09:59,02/12/2016 10:30
+JBCS-233,Bug,Closed,JBCS,JBoss Core Services,software,Done,02/12/2016 09:48,02/12/2016 11:55
+JBCS-232,Bug,Closed,JBCS,JBoss Core Services,software,Done,02/12/2016 07:19,02/12/2016 12:16
+JBCS-231,Bug,Closed,JBCS,JBoss Core Services,software,Done,01/12/2016 06:42,01/12/2016 06:52
+JBCS-230,Bug,Closed,JBCS,JBoss Core Services,software,Done,01/12/2016 04:57,01/12/2016 05:18
+JBCS-227,Bug,Closed,JBCS,JBoss Core Services,software,Duplicate,16/09/2016 04:55,29/11/2016 12:01
+JBCS-226,Bug,Closed,JBCS,JBoss Core Services,software,Done,23/11/2016 10:32,25/11/2016 07:40
+JBCS-225,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,23/11/2016 08:36,29/11/2016 05:50
+JBCS-224,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,22/11/2016 10:53,23/11/2016 13:13
+JBCS-223,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,18/11/2016 17:21,21/02/2018 02:10
+JBCS-222,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,18/11/2016 16:57,02/04/2019 05:27
+JBCS-221,Bug,Closed,JBCS,JBoss Core Services,software,Done,18/11/2016 13:24,18/11/2016 14:07
+JBCS-220,Bug,Closed,JBCS,JBoss Core Services,software,Done,16/11/2016 06:52,23/11/2016 11:39
+JBCS-217,Bug,Closed,JBCS,JBoss Core Services,software,Done,15/11/2016 10:37,18/11/2016 13:02
+JBCS-215,Bug,Closed,JBCS,JBoss Core Services,software,Done,11/11/2016 09:28,12/11/2016 08:23
+JBCS-214,Bug,Closed,JBCS,JBoss Core Services,software,Cannot Reproduce,10/11/2016 10:49,26/07/2017 10:56
+JBCS-212,Bug,Closed,JBCS,JBoss Core Services,software,Done,08/11/2016 07:36,15/11/2016 09:59
+JBCS-208,Bug,Closed,JBCS,JBoss Core Services,software,Done,03/11/2016 11:59,15/11/2016 10:01
+JBCS-204,Bug,Closed,JBCS,JBoss Core Services,software,Done,01/11/2016 12:54,25/11/2016 07:07
+JBCS-203,Bug,Closed,JBCS,JBoss Core Services,software,Done,01/11/2016 11:49,07/12/2016 22:08
+JBCS-201,Bug,Closed,JBCS,JBoss Core Services,software,Done,01/11/2016 06:05,20/03/2018 02:44
+JBCS-199,Bug,Closed,JBCS,JBoss Core Services,software,Done,27/10/2016 11:42,01/12/2016 07:26
+JBCS-198,Bug,Closed,JBCS,JBoss Core Services,software,Done,25/10/2016 12:11,26/10/2016 07:17
+JBCS-197,Bug,Closed,JBCS,JBoss Core Services,software,Done,23/10/2016 14:56,20/01/2021 10:00
+JBCS-196,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,20/10/2016 13:07,20/10/2016 13:35
+JBCS-195,Bug,Closed,JBCS,JBoss Core Services,software,Done,20/10/2016 12:41,09/08/2018 06:27
+JBCS-192,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,13/10/2016 08:48,26/10/2016 05:24
+JBCS-191,Bug,Closed,JBCS,JBoss Core Services,software,Done,13/10/2016 06:25,07/11/2016 04:07
+JBCS-189,Bug,Closed,JBCS,JBoss Core Services,software,Done,11/10/2016 11:48,31/10/2017 13:45
+JBCS-188,Bug,Closed,JBCS,JBoss Core Services,software,Done,11/10/2016 10:37,01/12/2016 06:10
+JBCS-187,Bug,Closed,JBCS,JBoss Core Services,software,Done,11/10/2016 09:04,11/10/2016 10:24
+JBCS-186,Bug,Closed,JBCS,JBoss Core Services,software,Done,06/10/2016 12:51,20/10/2016 10:19
+JBCS-185,Bug,Closed,JBCS,JBoss Core Services,software,Done,06/10/2016 07:13,20/10/2016 10:21
+JBCS-177,Bug,Closed,JBCS,JBoss Core Services,software,Done,30/09/2016 11:44,30/10/2019 12:06
+JBCS-176,Bug,Closed,JBCS,JBoss Core Services,software,Obsolete,30/09/2016 10:38,02/04/2020 07:48
+JBCS-175,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,29/09/2016 11:54,11/10/2017 14:16
+JBCS-174,Bug,Closed,JBCS,JBoss Core Services,software,Done,29/09/2016 11:15,20/02/2018 01:44
+JBCS-173,Bug,Closed,JBCS,JBoss Core Services,software,Done,29/09/2016 10:05,07/11/2016 08:42
+JBCS-172,Bug,Closed,JBCS,JBoss Core Services,software,Done,29/09/2016 09:11,05/10/2016 08:53
+JBCS-171,Bug,Closed,JBCS,JBoss Core Services,software,Done,28/09/2016 17:41,29/09/2016 10:41
+JBCS-170,Bug,Closed,JBCS,JBoss Core Services,software,Duplicate,28/09/2016 17:17,28/09/2016 17:25
+JBCS-169,Bug,Closed,JBCS,JBoss Core Services,software,Done,28/09/2016 12:17,05/10/2016 09:05
+JBCS-168,Bug,Closed,JBCS,JBoss Core Services,software,Done,28/09/2016 12:03,05/10/2016 08:00
+JBCS-167,Bug,Closed,JBCS,JBoss Core Services,software,Done,28/09/2016 09:58,28/09/2016 14:39
+JBCS-166,Bug,Closed,JBCS,JBoss Core Services,software,Done,27/09/2016 05:03,21/05/2018 03:05
+JBCS-165,Bug,Closed,JBCS,JBoss Core Services,software,Done,26/09/2016 10:34,24/10/2016 06:26
+JBCS-163,Bug,Closed,JBCS,JBoss Core Services,software,Done,22/09/2016 08:50,25/09/2019 07:55
+JBCS-160,Bug,Closed,JBCS,JBoss Core Services,software,Done,16/09/2016 05:31,10/11/2016 06:49
+JBCS-159,Bug,Closed,JBCS,JBoss Core Services,software,Done,15/09/2016 18:58,07/11/2016 08:37
+JBCS-157,Bug,Closed,JBCS,JBoss Core Services,software,Done,15/09/2016 17:25,16/09/2016 07:57
+JBCS-156,Bug,Closed,JBCS,JBoss Core Services,software,Done,15/09/2016 14:33,12/12/2016 10:12
+JBCS-155,Bug,Closed,JBCS,JBoss Core Services,software,Done,15/09/2016 09:25,23/11/2016 11:40
+JBCS-154,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,15/09/2016 03:22,13/04/2017 05:50
+JBCS-152,Bug,Closed,JBCS,JBoss Core Services,software,Done,12/09/2016 11:44,24/10/2016 06:27
+JBCS-151,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,07/09/2016 11:07,07/10/2016 08:23
+JBCS-150,Bug,Closed,JBCS,JBoss Core Services,software,Done,07/09/2016 10:14,07/09/2016 12:46
+JBCS-149,Bug,Closed,JBCS,JBoss Core Services,software,Done,05/09/2016 06:30,06/09/2016 11:30
+JBCS-148,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,02/09/2016 10:55,07/09/2016 19:47
+JBCS-145,Bug,Closed,JBCS,JBoss Core Services,software,Done,26/08/2016 10:44,05/09/2016 06:27
+JBCS-144,Bug,Closed,JBCS,JBoss Core Services,software,Done,26/08/2016 10:42,05/09/2016 06:42
+JBCS-143,Bug,Closed,JBCS,JBoss Core Services,software,Done,26/08/2016 10:25,29/08/2016 15:32
+JBCS-142,Bug,Closed,JBCS,JBoss Core Services,software,Done,26/08/2016 10:08,29/08/2016 14:41
+JBCS-141,Bug,Closed,JBCS,JBoss Core Services,software,Done,26/08/2016 09:55,06/09/2016 06:44
+JBCS-140,Bug,Closed,JBCS,JBoss Core Services,software,Done,26/08/2016 09:35,02/09/2016 05:19
+JBCS-139,Bug,Closed,JBCS,JBoss Core Services,software,Done,26/08/2016 08:45,02/09/2016 05:59
+JBCS-138,Bug,Closed,JBCS,JBoss Core Services,software,Done,25/08/2016 11:19,01/11/2016 03:35
+JBCS-137,Bug,Closed,JBCS,JBoss Core Services,software,Done,25/08/2016 11:10,09/09/2016 06:58
+JBCS-136,Bug,Closed,JBCS,JBoss Core Services,software,Done,25/08/2016 10:26,30/08/2016 05:18
+JBCS-135,Bug,Closed,JBCS,JBoss Core Services,software,Done,25/08/2016 07:19,08/09/2016 07:03
+JBCS-134,Bug,Closed,JBCS,JBoss Core Services,software,Done,25/08/2016 06:58,05/09/2016 08:00
+JBCS-133,Bug,Closed,JBCS,JBoss Core Services,software,Done,24/08/2016 11:59,05/09/2016 09:54
+JBCS-132,Bug,Closed,JBCS,JBoss Core Services,software,Done,24/08/2016 11:22,01/09/2016 07:06
+JBCS-131,Bug,Closed,JBCS,JBoss Core Services,software,Done,23/08/2016 11:20,01/09/2016 06:49
+JBCS-130,Bug,Closed,JBCS,JBoss Core Services,software,Done,23/08/2016 10:19,21/10/2016 05:11
+JBCS-129,Bug,Closed,JBCS,JBoss Core Services,software,Done,22/08/2016 01:38,04/12/2019 07:33
+JBCS-128,Bug,Closed,JBCS,JBoss Core Services,software,Done,10/08/2016 07:04,01/12/2016 07:55
+JBCS-124,Bug,Closed,JBCS,JBoss Core Services,software,Done,26/07/2016 10:09,01/08/2016 09:25
+JBCS-122,Bug,Closed,JBCS,JBoss Core Services,software,Done,21/07/2016 05:43,28/07/2016 12:08
+JBCS-121,Bug,Closed,JBCS,JBoss Core Services,software,Done,21/07/2016 05:41,05/10/2016 10:40
+JBCS-120,Bug,Closed,JBCS,JBoss Core Services,software,Done,21/07/2016 05:36,28/07/2016 11:55
+JBCS-119,Bug,Closed,JBCS,JBoss Core Services,software,Done,21/07/2016 05:27,28/07/2016 11:53
+JBCS-118,Bug,Closed,JBCS,JBoss Core Services,software,Done,15/07/2016 08:36,20/10/2016 11:13
+JBCS-99,Bug,Closed,JBCS,JBoss Core Services,software,Duplicate,30/05/2016 12:34,02/04/2020 05:29
+JBCS-91,Bug,Closed,JBCS,JBoss Core Services,software,Done,06/05/2016 07:16,02/04/2020 06:11
+JBCS-90,Bug,Closed,JBCS,JBoss Core Services,software,Done,06/05/2016 00:33,24/06/2016 02:13
+JBCS-89,Bug,Closed,JBCS,JBoss Core Services,software,Done,22/04/2016 15:29,27/04/2016 10:10
+JBCS-78,Bug,Closed,JBCS,JBoss Core Services,software,Cannot Reproduce,02/05/2016 09:50,02/05/2016 09:56
+JBCS-76,Bug,Closed,JBCS,JBoss Core Services,software,Done,29/04/2016 11:40,17/10/2017 08:45
+JBCS-75,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,27/04/2016 11:58,06/02/2018 07:07
+JBCS-74,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,27/04/2016 11:56,06/02/2018 07:08
+JBCS-72,Bug,Closed,JBCS,JBoss Core Services,software,Done,21/04/2016 14:46,25/08/2016 08:29
+JBCS-71,Bug,Closed,JBCS,JBoss Core Services,software,Done,19/04/2016 03:01,02/09/2016 05:18
+JBCS-69,Bug,Closed,JBCS,JBoss Core Services,software,Done,18/04/2016 08:37,18/04/2016 19:33
+JBCS-68,Bug,Closed,JBCS,JBoss Core Services,software,Done,15/04/2016 05:22,18/04/2016 19:11
+JBCS-67,Bug,Closed,JBCS,JBoss Core Services,software,Done,14/04/2016 07:33,18/05/2018 02:27
+JBCS-66,Bug,Closed,JBCS,JBoss Core Services,software,Done,14/04/2016 07:33,03/02/2023 07:31
+JBCS-65,Bug,Closed,JBCS,JBoss Core Services,software,Done,14/04/2016 07:33,21/09/2016 12:08
+JBCS-64,Bug,Closed,JBCS,JBoss Core Services,software,Done,14/04/2016 07:33,25/07/2016 08:32
+JBCS-62,Task,Closed,JBCS,JBoss Core Services,software,Done,14/04/2016 07:33,21/09/2016 11:02
+JBCS-58,Bug,Closed,JBCS,JBoss Core Services,software,Done,14/04/2016 07:33,14/04/2016 09:01
+JBCS-57,Bug,Closed,JBCS,JBoss Core Services,software,Done,14/04/2016 07:33,11/10/2017 12:08
+JBCS-56,Bug,Closed,JBCS,JBoss Core Services,software,Done,14/04/2016 07:33,14/04/2016 08:58
+JBCS-55,Bug,Closed,JBCS,JBoss Core Services,software,Done,14/04/2016 07:33,25/08/2016 08:43
+JBCS-54,Bug,Closed,JBCS,JBoss Core Services,software,Done,14/04/2016 07:33,12/09/2016 11:41
+JBCS-53,Bug,Closed,JBCS,JBoss Core Services,software,Done,14/04/2016 07:33,01/09/2016 07:42
+JBCS-47,Bug,Closed,JBCS,JBoss Core Services,software,Done,14/04/2016 07:32,14/04/2016 08:19
+JBCS-43,Bug,Closed,JBCS,JBoss Core Services,software,Done,14/04/2016 07:31,14/04/2016 08:03
+JBCS-41,Bug,Closed,JBCS,JBoss Core Services,software,Done,13/04/2016 05:47,07/09/2016 11:49
+JBCS-40,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,12/04/2016 08:50,21/09/2016 08:41
+JBCS-39,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,11/04/2016 12:02,02/04/2019 05:29
+JBCS-38,Bug,Closed,JBCS,JBoss Core Services,software,Done,11/04/2016 11:45,01/09/2016 07:16
+JBCS-37,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,07/04/2016 13:38,18/07/2018 05:10
+JBCS-34,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,04/04/2016 07:26,04/04/2016 07:27
+JBCS-33,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,04/04/2016 07:14,04/04/2016 08:07
+JBCS-32,Bug,Closed,JBCS,JBoss Core Services,software,Done,29/03/2016 06:08,25/08/2016 08:31
+JBCS-31,Bug,Closed,JBCS,JBoss Core Services,software,Done,03/03/2016 04:39,26/07/2016 12:16
+JBCS-30,Bug,Closed,JBCS,JBoss Core Services,software,Done,25/02/2016 12:35,06/09/2016 06:48
+JBCS-29,Bug,Closed,JBCS,JBoss Core Services,software,Done,25/02/2016 12:21,25/08/2016 08:54
+JBCS-28,Bug,Closed,JBCS,JBoss Core Services,software,Done,18/02/2016 05:10,10/05/2017 09:17
+JBCS-26,Bug,Closed,JBCS,JBoss Core Services,software,Done,17/02/2016 10:53,12/04/2016 05:18
+JBCS-25,Bug,Closed,JBCS,JBoss Core Services,software,Done,17/02/2016 09:24,09/09/2016 10:39
+JBCS-24,Bug,Closed,JBCS,JBoss Core Services,software,Done,12/02/2016 16:18,12/04/2016 05:20
+JBCS-23,Bug,Closed,JBCS,JBoss Core Services,software,Done,12/02/2016 16:11,23/02/2016 09:22
+JBCS-22,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,10/02/2016 08:46,10/02/2016 09:37
+JBCS-21,Bug,Closed,JBCS,JBoss Core Services,software,Done,05/02/2016 04:30,12/04/2016 05:22
+JBCS-20,Bug,Closed,JBCS,JBoss Core Services,software,Done,05/02/2016 04:26,12/02/2016 10:21
+JBCS-18,Bug,Closed,JBCS,JBoss Core Services,software,Done,02/02/2016 07:52,02/02/2016 10:27
+JBCS-17,Bug,Closed,JBCS,JBoss Core Services,software,Done,28/01/2016 16:14,29/01/2016 17:45
+JBCS-15,Bug,Closed,JBCS,JBoss Core Services,software,Done,27/01/2016 09:58,28/01/2016 15:50
+JBCS-14,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,25/01/2016 09:16,25/01/2016 14:14
+JBCS-13,Bug,Closed,JBCS,JBoss Core Services,software,Done,21/01/2016 12:18,28/01/2016 13:21
+JBCS-12,Bug,Closed,JBCS,JBoss Core Services,software,Won't Do,21/01/2016 08:10,22/01/2016 02:16
+JBCS-11,Bug,Closed,JBCS,JBoss Core Services,software,Done,21/01/2016 06:53,27/01/2016 16:08
+JBCS-10,Bug,Closed,JBCS,JBoss Core Services,software,Done,19/01/2016 09:52,02/02/2016 11:46
+JBCS-9,Bug,Closed,JBCS,JBoss Core Services,software,Done,19/01/2016 08:42,12/04/2016 05:31
+JBCS-8,Bug,Closed,JBCS,JBoss Core Services,software,Done,12/01/2016 09:01,14/01/2016 16:01
+JBCS-6,Bug,Closed,JBCS,JBoss Core Services,software,Done,11/01/2016 09:53,14/01/2016 05:58
+JBCS-5,Bug,Closed,JBCS,JBoss Core Services,software,Done,11/01/2016 07:18,01/09/2016 07:52
+JBCS-4,Bug,Closed,JBCS,JBoss Core Services,software,Done,11/01/2016 07:14,28/01/2016 16:00
+JBCS-3,Bug,Closed,JBCS,JBoss Core Services,software,Done,30/12/2015 09:48,14/01/2016 05:51
+JBCS-2,Bug,Closed,JBCS,JBoss Core Services,software,Done,03/12/2015 10:12,10/05/2016 21:37
+JBCS-1,Bug,Closed,JBCS,JBoss Core Services,software,Done,03/12/2015 10:11,10/05/2016 21:37

@@ -1,0 +1,1334 @@
+Issue key,Issue Type,Status,Project key,Project name,Project type,Resolution,Created,Resolved
+CLOUD-4250,Task,New,CLOUD,Cloud Enablement,software,,16/10/2024 06:46,
+CLOUD-4240,Bug,Closed,CLOUD,Cloud Enablement,software,Done-Errata,15/08/2024 14:07,29/08/2024 16:06
+CLOUD-4237,Bug,Closed,CLOUD,Cloud Enablement,software,Done-Errata,17/07/2024 12:07,06/08/2024 11:14
+CLOUD-4236,Bug,Closed,CLOUD,Cloud Enablement,software,Done-Errata,17/07/2024 11:57,06/08/2024 10:53
+CLOUD-4233,Bug,New,CLOUD,Cloud Enablement,software,,29/05/2024 09:06,
+CLOUD-4230,Bug,Closed,CLOUD,Cloud Enablement,software,Done-Errata,16/05/2024 12:53,04/06/2024 13:08
+CLOUD-4225,Bug,Closed,CLOUD,Cloud Enablement,software,Done-Errata,05/04/2024 21:46,07/05/2024 13:04
+CLOUD-4222,Bug,Closed,CLOUD,Cloud Enablement,software,Done-Errata,06/03/2024 15:13,18/03/2024 14:53
+CLOUD-4220,Bug,Closed,CLOUD,Cloud Enablement,software,Done-Errata,16/02/2024 15:35,18/03/2024 11:25
+CLOUD-4218,Bug,Closed,CLOUD,Cloud Enablement,software,Done,21/01/2024 18:16,14/02/2024 12:36
+CLOUD-4217,Bug,Closed,CLOUD,Cloud Enablement,software,Done,21/01/2024 18:10,08/02/2024 15:11
+CLOUD-4216,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/01/2024 15:54,08/02/2024 15:10
+CLOUD-4214,Bug,New,CLOUD,Cloud Enablement,software,,19/12/2023 21:23,
+CLOUD-4211,Bug,Pull Request,CLOUD,Cloud Enablement,software,,15/11/2023 13:16,
+CLOUD-4209,Bug,Closed,CLOUD,Cloud Enablement,software,Done-Errata,23/10/2023 12:42,31/10/2023 13:06
+CLOUD-4207,Bug,Closed,CLOUD,Cloud Enablement,software,Done-Errata,16/10/2023 16:54,17/10/2023 15:44
+CLOUD-4205,Bug,New,CLOUD,Cloud Enablement,software,Done,09/10/2023 08:54,09/10/2023 08:56
+CLOUD-4203,Task,New,CLOUD,Cloud Enablement,software,,29/09/2023 16:19,
+CLOUD-4202,Bug,New,CLOUD,Cloud Enablement,software,,05/09/2023 08:24,
+CLOUD-4200,Bug,Verified,CLOUD,Cloud Enablement,software,Done,30/08/2023 08:42,30/08/2023 08:43
+CLOUD-4199,Bug,Verified,CLOUD,Cloud Enablement,software,Done,30/08/2023 08:39,30/08/2023 08:39
+CLOUD-4198,Bug,New,CLOUD,Cloud Enablement,software,,30/08/2023 08:37,
+CLOUD-4197,Bug,Verified,CLOUD,Cloud Enablement,software,Done,25/08/2023 10:04,25/08/2023 10:04
+CLOUD-4196,Bug,Verified,CLOUD,Cloud Enablement,software,Done,25/08/2023 09:59,25/08/2023 10:00
+CLOUD-4193,Bug,Verified,CLOUD,Cloud Enablement,software,Done,21/08/2023 14:56,21/08/2023 14:58
+CLOUD-4191,Bug,Verified,CLOUD,Cloud Enablement,software,Done,08/08/2023 11:39,10/08/2023 12:12
+CLOUD-4190,Bug,Closed,CLOUD,Cloud Enablement,software,Done,01/08/2023 09:09,07/08/2023 11:00
+CLOUD-4189,Task,New,CLOUD,Cloud Enablement,software,,12/07/2023 13:54,
+CLOUD-4186,Bug,Closed,CLOUD,Cloud Enablement,software,Done,26/06/2023 13:30,26/06/2023 13:31
+CLOUD-4185,Bug,Closed,CLOUD,Cloud Enablement,software,Done,26/06/2023 12:41,26/06/2023 12:42
+CLOUD-4183,Bug,New,CLOUD,Cloud Enablement,software,,21/06/2023 09:38,
+CLOUD-4182,Bug,New,CLOUD,Cloud Enablement,software,,19/06/2023 01:52,
+CLOUD-4180,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/05/2023 13:05,22/05/2023 13:06
+CLOUD-4179,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/05/2023 11:09,22/05/2023 11:10
+CLOUD-4178,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/05/2023 10:41,22/05/2023 10:43
+CLOUD-4177,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/05/2023 15:55,19/05/2023 15:56
+CLOUD-4176,Task,New,CLOUD,Cloud Enablement,software,Done,18/05/2023 14:24,06/06/2023 08:13
+CLOUD-4174,Bug,New,CLOUD,Cloud Enablement,software,,05/05/2023 15:18,
+CLOUD-4173,Bug,New,CLOUD,Cloud Enablement,software,,03/05/2023 14:02,
+CLOUD-4172,Bug,Closed,CLOUD,Cloud Enablement,software,Done,26/04/2023 12:33,26/04/2023 12:35
+CLOUD-4171,Bug,Closed,CLOUD,Cloud Enablement,software,Done,26/04/2023 12:28,26/04/2023 12:29
+CLOUD-4170,Bug,Closed,CLOUD,Cloud Enablement,software,Done,25/04/2023 09:38,25/04/2023 09:40
+CLOUD-4168,Task,Closed,CLOUD,Cloud Enablement,software,Done,29/03/2023 08:00,25/01/2024 07:00
+CLOUD-4167,Bug,Closed,CLOUD,Cloud Enablement,software,Done,24/03/2023 16:37,30/03/2023 14:16
+CLOUD-4166,Bug,Closed,CLOUD,Cloud Enablement,software,Done,24/03/2023 14:34,24/03/2023 14:35
+CLOUD-4165,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/03/2023 12:19,20/03/2023 12:34
+CLOUD-4164,Bug,Closed,CLOUD,Cloud Enablement,software,Done,16/03/2023 15:07,16/03/2023 15:09
+CLOUD-4161,Bug,Closed,CLOUD,Cloud Enablement,software,Done,27/02/2023 16:27,27/02/2023 16:51
+CLOUD-4160,Requirement,New,CLOUD,Cloud Enablement,software,,23/02/2023 21:28,
+CLOUD-4159,Bug,Closed,CLOUD,Cloud Enablement,software,Done,09/02/2023 10:59,09/02/2023 11:01
+CLOUD-4152,Task,New,CLOUD,Cloud Enablement,software,,13/12/2022 09:31,
+CLOUD-4151,Bug,Closed,CLOUD,Cloud Enablement,software,Done,07/12/2022 17:00,07/12/2022 17:04
+CLOUD-4146,Bug,Closed,CLOUD,Cloud Enablement,software,Done,10/11/2022 16:55,12/12/2022 12:27
+CLOUD-4142,Bug,Closed,CLOUD,Cloud Enablement,software,Done,06/11/2022 16:03,06/11/2022 16:04
+CLOUD-4141,Bug,New,CLOUD,Cloud Enablement,software,,02/11/2022 19:44,
+CLOUD-4139,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,17/10/2022 12:15,10/11/2022 16:54
+CLOUD-4138,Bug,Closed,CLOUD,Cloud Enablement,software,Done,17/10/2022 11:50,17/10/2022 11:51
+CLOUD-4133,Task,New,CLOUD,Cloud Enablement,software,,20/09/2022 12:56,
+CLOUD-4129,Bug,Closed,CLOUD,Cloud Enablement,software,Done,30/08/2022 15:14,30/08/2022 15:14
+CLOUD-4128,Bug,Closed,CLOUD,Cloud Enablement,software,Done,30/08/2022 14:52,30/08/2022 14:52
+CLOUD-4127,Bug,Closed,CLOUD,Cloud Enablement,software,Done,30/08/2022 08:09,30/08/2022 08:15
+CLOUD-4126,Bug,Closed,CLOUD,Cloud Enablement,software,Done,30/08/2022 08:02,30/08/2022 08:16
+CLOUD-4121,Bug,New,CLOUD,Cloud Enablement,software,Done,08/08/2022 16:10,08/08/2022 16:45
+CLOUD-4119,Bug,Closed,CLOUD,Cloud Enablement,software,Done,26/07/2022 14:29,26/07/2022 14:35
+CLOUD-4118,Bug,Closed,CLOUD,Cloud Enablement,software,Done,26/07/2022 13:37,26/07/2022 13:37
+CLOUD-4117,Bug,Closed,CLOUD,Cloud Enablement,software,Done,25/07/2022 16:58,25/07/2022 16:59
+CLOUD-4112,Bug,Closed,CLOUD,Cloud Enablement,software,Done,17/06/2022 09:05,17/06/2022 09:10
+CLOUD-4110,Bug,Closed,CLOUD,Cloud Enablement,software,Done,16/06/2022 14:53,16/06/2022 14:54
+CLOUD-4109,Bug,Closed,CLOUD,Cloud Enablement,software,Done,14/06/2022 08:56,14/06/2022 10:03
+CLOUD-4108,Bug,Closed,CLOUD,Cloud Enablement,software,Done,07/06/2022 13:44,07/06/2022 13:50
+CLOUD-4106,Bug,Closed,CLOUD,Cloud Enablement,software,Done,13/05/2022 11:27,13/05/2022 11:32
+CLOUD-4105,Bug,Closed,CLOUD,Cloud Enablement,software,Done,12/05/2022 22:07,12/05/2022 23:23
+CLOUD-4104,Bug,Closed,CLOUD,Cloud Enablement,software,Done,12/05/2022 22:05,12/05/2022 23:23
+CLOUD-4102,Bug,Closed,CLOUD,Cloud Enablement,software,Done,03/05/2022 13:56,03/05/2022 13:57
+CLOUD-4101,Bug,Closed,CLOUD,Cloud Enablement,software,Done,26/04/2022 10:43,26/04/2022 11:09
+CLOUD-4100,Bug,Closed,CLOUD,Cloud Enablement,software,Done,26/04/2022 09:42,26/04/2022 09:42
+CLOUD-4099,Bug,Closed,CLOUD,Cloud Enablement,software,Done,21/04/2022 16:10,21/04/2022 16:21
+CLOUD-4094,Bug,Closed,CLOUD,Cloud Enablement,software,Done,01/04/2022 14:42,01/04/2022 14:42
+CLOUD-4092,Bug,Closed,CLOUD,Cloud Enablement,software,Done,29/03/2022 11:46,29/03/2022 12:00
+CLOUD-4091,Bug,Closed,CLOUD,Cloud Enablement,software,Done,29/03/2022 11:44,29/03/2022 11:59
+CLOUD-4090,Bug,Closed,CLOUD,Cloud Enablement,software,Done,17/03/2022 14:27,17/03/2022 14:33
+CLOUD-4089,Bug,New,CLOUD,Cloud Enablement,software,,17/03/2022 14:22,
+CLOUD-4087,Bug,New,CLOUD,Cloud Enablement,software,,08/03/2022 15:41,
+CLOUD-4085,Bug,New,CLOUD,Cloud Enablement,software,Done,28/02/2022 20:48,16/05/2022 15:33
+CLOUD-4084,Bug,Closed,CLOUD,Cloud Enablement,software,Done,28/02/2022 15:22,28/02/2022 15:30
+CLOUD-4083,Bug,Closed,CLOUD,Cloud Enablement,software,Done,28/02/2022 13:30,28/02/2022 13:40
+CLOUD-4076,Bug,Closed,CLOUD,Cloud Enablement,software,Done,08/02/2022 15:04,04/03/2022 14:52
+CLOUD-4075,Bug,New,CLOUD,Cloud Enablement,software,Done,08/02/2022 14:05,15/03/2022 18:58
+CLOUD-4074,Task,Closed,CLOUD,Cloud Enablement,software,Done,08/02/2022 12:21,02/03/2022 08:34
+CLOUD-4072,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/02/2022 15:32,02/02/2022 17:26
+CLOUD-4067,Task,Closed,CLOUD,Cloud Enablement,software,Obsolete,12/01/2022 11:13,11/02/2022 12:49
+CLOUD-4066,Bug,Closed,CLOUD,Cloud Enablement,software,Done,10/01/2022 14:19,10/01/2022 14:29
+CLOUD-4063,Task,Closed,CLOUD,Cloud Enablement,software,Done,14/12/2021 18:29,26/01/2022 09:46
+CLOUD-4061,Bug,Closed,CLOUD,Cloud Enablement,software,Done,08/12/2021 16:58,03/02/2022 12:43
+CLOUD-4059,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,02/12/2021 14:59,14/03/2023 14:04
+CLOUD-4058,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/12/2021 14:54,02/12/2021 16:36
+CLOUD-4050,Bug,Closed,CLOUD,Cloud Enablement,software,Done,21/10/2021 11:01,21/10/2021 11:01
+CLOUD-4049,Bug,Closed,CLOUD,Cloud Enablement,software,Done,21/10/2021 10:55,21/10/2021 10:56
+CLOUD-4046,Bug,New,CLOUD,Cloud Enablement,software,,18/10/2021 16:30,
+CLOUD-4040,Task,New,CLOUD,Cloud Enablement,software,Done,30/09/2021 09:47,17/02/2022 06:30
+CLOUD-4039,Task,New,CLOUD,Cloud Enablement,software,,29/09/2021 14:07,
+CLOUD-4038,Requirement,New,CLOUD,Cloud Enablement,software,Done,24/09/2021 14:41,24/09/2021 14:50
+CLOUD-4036,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/09/2021 16:17,21/09/2021 22:25
+CLOUD-4024,Bug,New,CLOUD,Cloud Enablement,software,Done,09/08/2021 13:33,09/08/2021 14:41
+CLOUD-4021,Bug,New,CLOUD,Cloud Enablement,software,Done,03/08/2021 11:26,21/04/2022 10:44
+CLOUD-4018,Bug,Closed,CLOUD,Cloud Enablement,software,Done,27/07/2021 15:53,27/07/2021 16:10
+CLOUD-4017,Bug,Closed,CLOUD,Cloud Enablement,software,Done,27/07/2021 15:51,27/07/2021 16:10
+CLOUD-4016,Bug,Closed,CLOUD,Cloud Enablement,software,Done,27/07/2021 15:46,27/07/2021 16:10
+CLOUD-4015,Task,Closed,CLOUD,Cloud Enablement,software,Won't Do,23/07/2021 11:49,06/09/2022 07:08
+CLOUD-4014,Task,New,CLOUD,Cloud Enablement,software,Done,22/07/2021 07:41,22/07/2021 08:48
+CLOUD-4013,Requirement,New,CLOUD,Cloud Enablement,software,Done,20/07/2021 07:26,20/07/2021 13:30
+CLOUD-4012,Bug,New,CLOUD,Cloud Enablement,software,Done,16/07/2021 19:07,24/09/2021 18:39
+CLOUD-4011,Bug,Closed,CLOUD,Cloud Enablement,software,Done,16/07/2021 19:06,23/09/2021 16:25
+CLOUD-4010,Bug,New,CLOUD,Cloud Enablement,software,,15/07/2021 14:12,
+CLOUD-4009,Bug,New,CLOUD,Cloud Enablement,software,Done,14/07/2021 15:47,14/07/2021 18:45
+CLOUD-4007,Bug,Closed,CLOUD,Cloud Enablement,software,Done,09/07/2021 18:17,09/07/2021 18:45
+CLOUD-4006,Bug,Verified,CLOUD,Cloud Enablement,software,Done,09/07/2021 16:18,09/07/2021 18:19
+CLOUD-4005,Bug,Verified,CLOUD,Cloud Enablement,software,Done,09/07/2021 15:34,09/07/2021 15:48
+CLOUD-4001,Bug,New,CLOUD,Cloud Enablement,software,,17/06/2021 21:32,
+CLOUD-3996,Bug,Verified,CLOUD,Cloud Enablement,software,Done,10/06/2021 22:52,22/06/2021 23:16
+CLOUD-3992,Bug,Verified,CLOUD,Cloud Enablement,software,Done,23/04/2021 09:05,18/05/2021 14:17
+CLOUD-3991,Bug,New,CLOUD,Cloud Enablement,software,,14/05/2021 15:09,
+CLOUD-3990,Bug,New,CLOUD,Cloud Enablement,software,,13/05/2021 21:40,
+CLOUD-3989,Bug,New,CLOUD,Cloud Enablement,software,,13/05/2021 21:40,
+CLOUD-3988,Bug,New,CLOUD,Cloud Enablement,software,,13/05/2021 21:39,
+CLOUD-3985,Bug,New,CLOUD,Cloud Enablement,software,,04/05/2021 10:06,
+CLOUD-3980,Bug,Verified,CLOUD,Cloud Enablement,software,Done,27/04/2021 18:08,07/06/2021 23:03
+CLOUD-3979,Bug,Verified,CLOUD,Cloud Enablement,software,Done,27/04/2021 18:08,04/05/2021 14:18
+CLOUD-3977,Bug,Closed,CLOUD,Cloud Enablement,software,Done,16/04/2021 13:55,28/08/2024 07:57
+CLOUD-3976,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,15/04/2021 23:42,16/04/2021 13:58
+CLOUD-3975,Bug,Closed,CLOUD,Cloud Enablement,software,Done,15/04/2021 15:33,15/04/2021 15:34
+CLOUD-3969,Bug,Verified,CLOUD,Cloud Enablement,software,Done,13/04/2021 01:23,20/05/2021 13:15
+CLOUD-3968,Bug,Verified,CLOUD,Cloud Enablement,software,Done,09/04/2021 09:30,13/04/2021 00:55
+CLOUD-3967,Bug,Verified,CLOUD,Cloud Enablement,software,Done,09/04/2021 08:46,13/04/2021 01:01
+CLOUD-3966,Bug,Verified,CLOUD,Cloud Enablement,software,Done,09/04/2021 08:34,13/04/2021 00:53
+CLOUD-3965,Task,New,CLOUD,Cloud Enablement,software,Done,08/04/2021 08:05,11/06/2021 15:57
+CLOUD-3964,Bug,Verified,CLOUD,Cloud Enablement,software,Done,07/04/2021 10:25,11/05/2021 00:48
+CLOUD-3963,Bug,Closed,CLOUD,Cloud Enablement,software,Done,07/04/2021 06:12,09/04/2021 06:40
+CLOUD-3962,Bug,Closed,CLOUD,Cloud Enablement,software,Done,07/04/2021 06:04,09/04/2021 06:40
+CLOUD-3961,Bug,Closed,CLOUD,Cloud Enablement,software,Done,07/04/2021 05:51,21/04/2021 13:02
+CLOUD-3960,Bug,Closed,CLOUD,Cloud Enablement,software,Done,07/04/2021 05:40,09/04/2021 06:41
+CLOUD-3953,Bug,Verified,CLOUD,Cloud Enablement,software,Done,01/04/2021 08:34,07/04/2021 16:12
+CLOUD-3949,Bug,Verified,CLOUD,Cloud Enablement,software,Done,25/03/2021 10:28,07/04/2021 16:10
+CLOUD-3939,Task,New,CLOUD,Cloud Enablement,software,Done,16/03/2021 06:57,18/05/2021 14:48
+CLOUD-3938,Feature Request,New,CLOUD,Cloud Enablement,software,,11/03/2021 10:26,
+CLOUD-3937,Bug,New,CLOUD,Cloud Enablement,software,Done,05/03/2021 16:52,08/03/2021 02:48
+CLOUD-3934,Bug,New,CLOUD,Cloud Enablement,software,Done,02/03/2021 14:58,04/03/2021 10:20
+CLOUD-3932,Bug,New,CLOUD,Cloud Enablement,software,Done,25/02/2021 17:48,13/04/2021 07:28
+CLOUD-3922,Feature Request,New,CLOUD,Cloud Enablement,software,Done,12/02/2021 04:57,06/05/2021 10:09
+CLOUD-3921,Bug,Verified,CLOUD,Cloud Enablement,software,Done,11/02/2021 10:43,11/02/2021 17:57
+CLOUD-3919,Bug,New,CLOUD,Cloud Enablement,software,,09/02/2021 02:07,
+CLOUD-3890,Bug,Verified,CLOUD,Cloud Enablement,software,Done,29/01/2021 09:46,24/06/2021 22:51
+CLOUD-3888,Bug,New,CLOUD,Cloud Enablement,software,,22/01/2021 10:13,
+CLOUD-3887,Bug,Closed,CLOUD,Cloud Enablement,software,Done,21/01/2021 08:46,21/01/2021 09:56
+CLOUD-3886,Task,New,CLOUD,Cloud Enablement,software,Done,20/01/2021 10:19,16/03/2021 06:52
+CLOUD-3882,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/01/2021 05:45,18/01/2021 07:56
+CLOUD-3881,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/01/2021 05:36,18/01/2021 07:55
+CLOUD-3879,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,15/01/2021 04:40,18/01/2021 07:32
+CLOUD-3878,Bug,Closed,CLOUD,Cloud Enablement,software,Done,12/01/2021 11:12,19/04/2022 13:31
+CLOUD-3876,Bug,New,CLOUD,Cloud Enablement,software,Done,05/01/2021 18:03,14/04/2021 18:22
+CLOUD-3866,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,11/12/2020 08:06,13/01/2021 09:03
+CLOUD-3865,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,10/12/2020 05:18,18/12/2020 09:13
+CLOUD-3859,Bug,New,CLOUD,Cloud Enablement,software,Done,24/11/2020 09:09,24/11/2020 12:07
+CLOUD-3858,Task,New,CLOUD,Cloud Enablement,software,Done,20/11/2020 04:09,20/11/2020 11:34
+CLOUD-3857,Bug,New,CLOUD,Cloud Enablement,software,Done,17/11/2020 19:01,18/11/2020 17:23
+CLOUD-3855,Bug,New,CLOUD,Cloud Enablement,software,Done,16/11/2020 05:34,23/11/2020 11:52
+CLOUD-3854,Feature Request,New,CLOUD,Cloud Enablement,software,Done,12/11/2020 18:00,24/02/2021 14:17
+CLOUD-3853,Bug,Closed,CLOUD,Cloud Enablement,software,Done,12/11/2020 13:04,12/11/2020 13:07
+CLOUD-3852,Bug,Closed,CLOUD,Cloud Enablement,software,Done,12/11/2020 11:42,12/11/2020 13:06
+CLOUD-3850,Bug,New,CLOUD,Cloud Enablement,software,,09/11/2020 09:30,
+CLOUD-3847,Bug,Closed,CLOUD,Cloud Enablement,software,Done,06/11/2020 12:11,20/11/2020 04:08
+CLOUD-3843,Feature Request,New,CLOUD,Cloud Enablement,software,,05/11/2020 07:39,
+CLOUD-3842,Bug,New,CLOUD,Cloud Enablement,software,,03/11/2020 12:05,
+CLOUD-3840,Feature Request,Closed,CLOUD,Cloud Enablement,software,Won't Do,29/10/2020 12:59,19/05/2021 14:46
+CLOUD-3832,Bug,Closed,CLOUD,Cloud Enablement,software,Done,23/09/2020 03:32,13/10/2020 13:12
+CLOUD-3831,Bug,New,CLOUD,Cloud Enablement,software,Done,22/09/2020 08:19,30/09/2020 16:17
+CLOUD-3804,Task,Closed,CLOUD,Cloud Enablement,software,Done,09/09/2020 09:36,20/10/2020 16:52
+CLOUD-3803,Task,Closed,CLOUD,Cloud Enablement,software,Done,09/09/2020 09:22,20/10/2020 16:46
+CLOUD-3793,Task,Closed,CLOUD,Cloud Enablement,software,Done,08/09/2020 09:32,27/10/2020 12:34
+CLOUD-3792,Task,Closed,CLOUD,Cloud Enablement,software,Done,08/09/2020 09:27,27/10/2020 12:34
+CLOUD-3791,Bug,New,CLOUD,Cloud Enablement,software,,03/09/2020 00:35,
+CLOUD-3781,Task,Closed,CLOUD,Cloud Enablement,software,Done,02/09/2020 13:29,04/06/2024 14:00
+CLOUD-3775,Bug,Closed,CLOUD,Cloud Enablement,software,Done,31/08/2020 11:52,18/01/2021 09:18
+CLOUD-3771,Bug,Closed,CLOUD,Cloud Enablement,software,Done,25/08/2020 06:45,24/11/2020 05:48
+CLOUD-3769,Bug,Closed,CLOUD,Cloud Enablement,software,Done,24/08/2020 04:14,21/09/2020 09:02
+CLOUD-3768,Bug,New,CLOUD,Cloud Enablement,software,Done,24/08/2020 04:05,25/08/2020 09:55
+CLOUD-3762,Task,Closed,CLOUD,Cloud Enablement,software,Done,12/08/2020 12:25,19/10/2020 07:12
+CLOUD-3761,Bug,Closed,CLOUD,Cloud Enablement,software,Done,12/08/2020 11:42,12/08/2020 11:42
+CLOUD-3760,Bug,Closed,CLOUD,Cloud Enablement,software,Done,12/08/2020 11:06,12/08/2020 11:20
+CLOUD-3756,Bug,New,CLOUD,Cloud Enablement,software,Done,08/07/2020 06:08,24/08/2020 18:38
+CLOUD-3724,Bug,New,CLOUD,Cloud Enablement,software,,21/07/2020 12:00,
+CLOUD-3712,Task,Closed,CLOUD,Cloud Enablement,software,Done,17/07/2020 15:13,17/08/2020 13:37
+CLOUD-3710,Bug,Closed,CLOUD,Cloud Enablement,software,Done,17/07/2020 10:38,21/07/2020 12:18
+CLOUD-3707,Bug,Closed,CLOUD,Cloud Enablement,software,Done,17/07/2020 05:22,21/07/2020 12:18
+CLOUD-3706,Bug,Closed,CLOUD,Cloud Enablement,software,Done,17/07/2020 05:19,20/07/2020 11:28
+CLOUD-3705,Bug,Closed,CLOUD,Cloud Enablement,software,Done,17/07/2020 05:16,20/07/2020 11:27
+CLOUD-3704,Bug,New,CLOUD,Cloud Enablement,software,,17/07/2020 04:03,
+CLOUD-3703,Bug,New,CLOUD,Cloud Enablement,software,,17/07/2020 04:01,
+CLOUD-3702,Bug,Closed,CLOUD,Cloud Enablement,software,Done,16/07/2020 06:09,20/07/2020 11:28
+CLOUD-3701,Bug,New,CLOUD,Cloud Enablement,software,,15/07/2020 11:52,
+CLOUD-3697,Task,Closed,CLOUD,Cloud Enablement,software,Done,15/07/2020 11:25,27/08/2020 11:42
+CLOUD-3696,Task,Closed,CLOUD,Cloud Enablement,software,Done,14/07/2020 10:59,04/08/2020 15:54
+CLOUD-3695,Task,Closed,CLOUD,Cloud Enablement,software,Done,14/07/2020 10:56,10/08/2022 12:16
+CLOUD-3694,Bug,Closed,CLOUD,Cloud Enablement,software,Done,14/07/2020 05:40,14/07/2020 08:45
+CLOUD-3693,Bug,Closed,CLOUD,Cloud Enablement,software,Done,14/07/2020 05:35,14/07/2020 08:39
+CLOUD-3681,Bug,New,CLOUD,Cloud Enablement,software,Done,09/07/2020 11:45,09/07/2020 11:54
+CLOUD-3680,Bug,New,CLOUD,Cloud Enablement,software,Done,09/07/2020 10:28,09/07/2020 10:58
+CLOUD-3674,Bug,New,CLOUD,Cloud Enablement,software,,07/07/2020 14:58,
+CLOUD-3673,Bug,New,CLOUD,Cloud Enablement,software,Done,07/07/2020 09:55,07/07/2020 10:11
+CLOUD-3668,Bug,Closed,CLOUD,Cloud Enablement,software,Done,03/07/2020 04:52,14/07/2020 14:24
+CLOUD-3656,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/07/2020 06:43,15/07/2020 11:06
+CLOUD-3653,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/07/2020 02:11,14/07/2020 14:31
+CLOUD-3652,Bug,New,CLOUD,Cloud Enablement,software,,01/07/2020 17:26,
+CLOUD-3651,Feature Request,Verified,CLOUD,Cloud Enablement,software,Done,01/07/2020 09:20,07/07/2020 12:40
+CLOUD-3650,Feature Request,New,CLOUD,Cloud Enablement,software,,01/07/2020 09:19,
+CLOUD-3649,Bug,New,CLOUD,Cloud Enablement,software,,30/06/2020 18:20,
+CLOUD-3648,Bug,New,CLOUD,Cloud Enablement,software,,30/06/2020 18:05,
+CLOUD-3647,Bug,New,CLOUD,Cloud Enablement,software,,30/06/2020 17:41,
+CLOUD-3645,Bug,New,CLOUD,Cloud Enablement,software,,24/06/2020 22:07,
+CLOUD-3637,Task,Closed,CLOUD,Cloud Enablement,software,Done,22/06/2020 05:21,17/08/2020 12:15
+CLOUD-3636,Task,Closed,CLOUD,Cloud Enablement,software,Done,22/06/2020 05:19,17/08/2020 12:13
+CLOUD-3635,Bug,Closed,CLOUD,Cloud Enablement,software,Done,15/06/2020 06:08,15/06/2020 06:09
+CLOUD-3634,Bug,Closed,CLOUD,Cloud Enablement,software,Done,15/06/2020 06:01,15/06/2020 06:07
+CLOUD-3630,Bug,Verified,CLOUD,Cloud Enablement,software,Done,04/06/2020 06:06,04/06/2020 07:01
+CLOUD-3628,Bug,New,CLOUD,Cloud Enablement,software,Done,03/06/2020 15:09,03/06/2020 15:10
+CLOUD-3627,Bug,New,CLOUD,Cloud Enablement,software,Done,03/06/2020 10:13,06/07/2020 17:38
+CLOUD-3626,Feature Request,Verified,CLOUD,Cloud Enablement,software,Done,02/06/2020 10:19,03/06/2020 10:05
+CLOUD-3625,Bug,New,CLOUD,Cloud Enablement,software,Won't Do,29/05/2020 18:50,08/06/2020 10:08
+CLOUD-3624,Bug,New,CLOUD,Cloud Enablement,software,Done,02/06/2020 08:42,03/06/2020 10:21
+CLOUD-3623,Bug,New,CLOUD,Cloud Enablement,software,Done,01/06/2020 23:32,02/06/2020 03:25
+CLOUD-3622,Bug,New,CLOUD,Cloud Enablement,software,Done,01/06/2020 23:25,01/06/2020 23:31
+CLOUD-3621,Bug,New,CLOUD,Cloud Enablement,software,,01/06/2020 23:14,
+CLOUD-3613,Bug,New,CLOUD,Cloud Enablement,software,,20/05/2020 13:08,
+CLOUD-3612,Task,Closed,CLOUD,Cloud Enablement,software,Done,20/05/2020 11:15,22/06/2020 16:36
+CLOUD-3608,Feature Request,Verified,CLOUD,Cloud Enablement,software,Done,19/05/2020 23:43,26/05/2020 04:48
+CLOUD-3607,Bug,Verified,CLOUD,Cloud Enablement,software,Done,19/05/2020 09:23,08/06/2020 11:37
+CLOUD-3605,Bug,New,CLOUD,Cloud Enablement,software,,15/05/2020 15:28,
+CLOUD-3603,Bug,Verified,CLOUD,Cloud Enablement,software,Done,06/05/2020 05:53,14/07/2020 08:49
+CLOUD-3599,Task,Closed,CLOUD,Cloud Enablement,software,Done,29/04/2020 13:04,12/06/2020 10:34
+CLOUD-3598,Task,Closed,CLOUD,Cloud Enablement,software,Won't Do,29/04/2020 13:02,22/06/2020 16:44
+CLOUD-3582,Task,Closed,CLOUD,Cloud Enablement,software,Done,22/04/2020 13:57,22/06/2020 16:42
+CLOUD-3576,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/04/2020 10:36,22/04/2020 11:03
+CLOUD-3575,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/04/2020 07:41,22/04/2020 07:53
+CLOUD-3574,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/04/2020 07:03,22/04/2020 07:34
+CLOUD-3570,Bug,New,CLOUD,Cloud Enablement,software,Done,21/04/2020 04:13,22/04/2020 07:29
+CLOUD-3569,Bug,Verified,CLOUD,Cloud Enablement,software,Done,17/04/2020 05:47,21/10/2020 02:05
+CLOUD-3568,Bug,New,CLOUD,Cloud Enablement,software,Done,16/04/2020 11:39,16/04/2020 11:56
+CLOUD-3566,Bug,New,CLOUD,Cloud Enablement,software,Done,16/04/2020 09:00,16/04/2020 10:52
+CLOUD-3565,Bug,New,CLOUD,Cloud Enablement,software,Done,16/04/2020 06:20,16/04/2020 10:52
+CLOUD-3562,Bug,New,CLOUD,Cloud Enablement,software,,14/04/2020 15:48,
+CLOUD-3560,Task,New,CLOUD,Cloud Enablement,software,Done,14/04/2020 13:09,14/04/2020 13:57
+CLOUD-3558,Task,New,CLOUD,Cloud Enablement,software,Done,14/04/2020 13:01,14/04/2020 14:20
+CLOUD-3557,Task,New,CLOUD,Cloud Enablement,software,Done,14/04/2020 12:07,16/04/2020 04:24
+CLOUD-3554,Bug,Closed,CLOUD,Cloud Enablement,software,Done,08/04/2020 07:38,14/04/2020 12:10
+CLOUD-3553,Bug,Verified,CLOUD,Cloud Enablement,software,Done,07/04/2020 09:27,02/07/2020 16:18
+CLOUD-3552,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,07/04/2020 03:38,08/04/2020 08:58
+CLOUD-3551,Bug,New,CLOUD,Cloud Enablement,software,,06/04/2020 13:13,
+CLOUD-3550,Bug,New,CLOUD,Cloud Enablement,software,,06/04/2020 12:50,
+CLOUD-3549,Bug,New,CLOUD,Cloud Enablement,software,,06/04/2020 11:30,
+CLOUD-3548,Bug,New,CLOUD,Cloud Enablement,software,,06/04/2020 11:01,06/04/2020 12:27
+CLOUD-3545,Bug,Closed,CLOUD,Cloud Enablement,software,Done,03/04/2020 11:48,14/04/2020 12:10
+CLOUD-3544,Bug,Verified,CLOUD,Cloud Enablement,software,Done,03/04/2020 11:14,15/04/2020 04:15
+CLOUD-3538,Task,Closed,CLOUD,Cloud Enablement,software,Done,01/04/2020 11:44,09/02/2022 14:14
+CLOUD-3531,Bug,Closed,CLOUD,Cloud Enablement,software,Done,30/03/2020 10:44,04/05/2020 12:15
+CLOUD-3529,Feature Request,New,CLOUD,Cloud Enablement,software,,25/03/2020 13:21,
+CLOUD-3527,Task,Closed,CLOUD,Cloud Enablement,software,Done,25/03/2020 13:05,07/04/2020 11:14
+CLOUD-3522,Bug,New,CLOUD,Cloud Enablement,software,Done,24/03/2020 12:01,24/03/2020 13:24
+CLOUD-3520,Bug,Closed,CLOUD,Cloud Enablement,software,Done,24/03/2020 05:43,09/04/2020 04:20
+CLOUD-3519,Bug,New,CLOUD,Cloud Enablement,software,,20/03/2020 10:24,
+CLOUD-3518,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/03/2020 10:10,06/04/2020 08:39
+CLOUD-3517,Bug,Verified,CLOUD,Cloud Enablement,software,Done,19/03/2020 13:17,07/07/2020 12:38
+CLOUD-3516,Bug,Verified,CLOUD,Cloud Enablement,software,Done,19/03/2020 08:06,03/04/2020 16:18
+CLOUD-3515,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/03/2020 15:05,18/03/2020 15:13
+CLOUD-3514,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/03/2020 14:49,18/03/2020 15:07
+CLOUD-3513,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/03/2020 12:37,18/03/2020 14:39
+CLOUD-3511,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,10/03/2020 10:13,08/07/2020 07:56
+CLOUD-3510,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,10/03/2020 08:24,08/07/2020 07:56
+CLOUD-3509,Bug,New,CLOUD,Cloud Enablement,software,,09/03/2020 14:27,
+CLOUD-3505,Bug,Verified,CLOUD,Cloud Enablement,software,Done,26/02/2020 05:39,11/03/2020 11:14
+CLOUD-3502,Task,New,CLOUD,Cloud Enablement,software,Done,17/02/2020 05:57,25/03/2020 15:25
+CLOUD-3501,Task,New,CLOUD,Cloud Enablement,software,Done,14/02/2020 10:40,14/02/2020 10:45
+CLOUD-3500,Task,New,CLOUD,Cloud Enablement,software,Done,14/02/2020 10:31,14/02/2020 10:45
+CLOUD-3499,Bug,New,CLOUD,Cloud Enablement,software,,13/02/2020 10:25,
+CLOUD-3498,Bug,Closed,CLOUD,Cloud Enablement,software,Done,10/02/2020 10:42,10/02/2020 12:18
+CLOUD-3493,Task,New,CLOUD,Cloud Enablement,software,Done,31/01/2020 07:32,18/02/2020 10:01
+CLOUD-3491,Bug,Closed,CLOUD,Cloud Enablement,software,Done,28/01/2020 05:26,28/01/2020 05:36
+CLOUD-3490,Bug,Closed,CLOUD,Cloud Enablement,software,Done,28/01/2020 05:02,28/01/2020 05:36
+CLOUD-3489,Task,New,CLOUD,Cloud Enablement,software,Done,27/01/2020 08:28,10/02/2020 12:31
+CLOUD-3484,Bug,New,CLOUD,Cloud Enablement,software,Done,23/01/2020 10:46,23/09/2020 10:52
+CLOUD-3482,Bug,New,CLOUD,Cloud Enablement,software,Done,23/01/2020 08:41,23/01/2020 09:57
+CLOUD-3481,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/01/2020 07:11,22/01/2020 07:14
+CLOUD-3480,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/01/2020 07:02,22/01/2020 07:03
+CLOUD-3479,Bug,New,CLOUD,Cloud Enablement,software,Done,21/01/2020 09:52,27/01/2020 23:58
+CLOUD-3478,Bug,New,CLOUD,Cloud Enablement,software,Done,20/01/2020 00:45,11/06/2020 08:47
+CLOUD-3476,Bug,Closed,CLOUD,Cloud Enablement,software,Done,16/01/2020 10:53,17/01/2020 05:14
+CLOUD-3474,Bug,Verified,CLOUD,Cloud Enablement,software,Done,12/11/2019 09:50,16/04/2020 06:52
+CLOUD-3472,Bug,Verified,CLOUD,Cloud Enablement,software,Done,19/11/2019 08:02,15/01/2020 15:00
+CLOUD-3471,Bug,New,CLOUD,Cloud Enablement,software,Done,15/01/2020 06:01,15/01/2020 10:25
+CLOUD-3467,Bug,Verified,CLOUD,Cloud Enablement,software,Done,07/01/2020 06:13,08/01/2020 11:10
+CLOUD-3466,Bug,Verified,CLOUD,Cloud Enablement,software,Done,07/01/2020 04:58,08/01/2020 11:14
+CLOUD-3465,Bug,Verified,CLOUD,Cloud Enablement,software,Done,07/01/2020 03:54,08/01/2020 11:34
+CLOUD-3464,Bug,Closed,CLOUD,Cloud Enablement,software,Done,23/12/2019 09:44,23/12/2019 12:31
+CLOUD-3463,Bug,Closed,CLOUD,Cloud Enablement,software,Done,23/12/2019 09:40,23/12/2019 13:58
+CLOUD-3462,Bug,New,CLOUD,Cloud Enablement,software,,20/12/2019 10:01,
+CLOUD-3458,Bug,Closed,CLOUD,Cloud Enablement,software,Done,13/12/2019 08:03,28/01/2020 10:34
+CLOUD-3457,Bug,Closed,CLOUD,Cloud Enablement,software,Done,12/12/2019 06:58,12/12/2019 06:59
+CLOUD-3456,Bug,Closed,CLOUD,Cloud Enablement,software,Done,12/12/2019 05:36,12/12/2019 05:46
+CLOUD-3453,Task,New,CLOUD,Cloud Enablement,software,Done,05/12/2019 10:16,10/12/2019 14:33
+CLOUD-3452,Bug,New,CLOUD,Cloud Enablement,software,Done,05/12/2019 08:46,05/02/2020 15:44
+CLOUD-3451,Bug,Closed,CLOUD,Cloud Enablement,software,Done,05/12/2019 06:28,11/12/2019 04:47
+CLOUD-3449,Bug,New,CLOUD,Cloud Enablement,software,Done,02/12/2019 13:52,11/12/2019 10:48
+CLOUD-3448,Bug,Closed,CLOUD,Cloud Enablement,software,Done,28/11/2019 07:37,05/12/2019 07:55
+CLOUD-3447,Bug,New,CLOUD,Cloud Enablement,software,Done,28/11/2019 06:59,12/12/2019 15:16
+CLOUD-3446,Task,Closed,CLOUD,Cloud Enablement,software,Done,26/11/2019 13:15,10/01/2020 08:38
+CLOUD-3445,Task,New,CLOUD,Cloud Enablement,software,Done,26/11/2019 05:38,04/12/2019 11:18
+CLOUD-3444,Bug,New,CLOUD,Cloud Enablement,software,Done,26/11/2019 03:30,03/04/2020 11:56
+CLOUD-3443,Bug,New,CLOUD,Cloud Enablement,software,Done,25/11/2019 12:13,25/11/2019 12:21
+CLOUD-3442,Bug,New,CLOUD,Cloud Enablement,software,,25/11/2019 09:22,10/12/2019 11:26
+CLOUD-3441,Bug,Closed,CLOUD,Cloud Enablement,software,Done,25/11/2019 04:47,28/02/2020 11:23
+CLOUD-3440,Bug,Verified,CLOUD,Cloud Enablement,software,Done,22/11/2019 12:00,03/04/2020 16:19
+CLOUD-3439,Bug,New,CLOUD,Cloud Enablement,software,,22/11/2019 11:59,
+CLOUD-3434,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/11/2019 09:51,29/11/2019 01:34
+CLOUD-3433,Bug,Verified,CLOUD,Cloud Enablement,software,Done,19/11/2019 19:40,04/12/2019 16:12
+CLOUD-3432,Bug,New,CLOUD,Cloud Enablement,software,Done,19/11/2019 06:38,19/11/2019 09:57
+CLOUD-3430,Bug,Closed,CLOUD,Cloud Enablement,software,Done,13/11/2019 05:50,15/11/2019 08:38
+CLOUD-3429,Bug,Closed,CLOUD,Cloud Enablement,software,Done,12/11/2019 20:08,15/11/2019 08:39
+CLOUD-3428,Task,New,CLOUD,Cloud Enablement,software,Done,08/11/2019 10:58,26/11/2019 13:13
+CLOUD-3426,Bug,Verified,CLOUD,Cloud Enablement,software,Done,08/11/2019 03:30,17/04/2020 05:16
+CLOUD-3425,Bug,Verified,CLOUD,Cloud Enablement,software,Done,08/11/2019 03:26,17/04/2020 05:18
+CLOUD-3424,Bug,Verified,CLOUD,Cloud Enablement,software,Done,07/11/2019 15:30,05/02/2020 15:43
+CLOUD-3423,Bug,New,CLOUD,Cloud Enablement,software,Done,07/11/2019 12:23,12/11/2019 05:14
+CLOUD-3422,Bug,Closed,CLOUD,Cloud Enablement,software,Done,07/11/2019 05:55,11/12/2019 12:29
+CLOUD-3421,Bug,Closed,CLOUD,Cloud Enablement,software,Done,06/11/2019 14:33,08/11/2019 08:31
+CLOUD-3415,Bug,New,CLOUD,Cloud Enablement,software,,29/10/2019 13:30,
+CLOUD-3414,Bug,Closed,CLOUD,Cloud Enablement,software,Done,29/10/2019 04:04,06/11/2019 08:30
+CLOUD-3412,Bug,New,CLOUD,Cloud Enablement,software,Done,23/10/2019 12:44,07/11/2019 09:38
+CLOUD-3411,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/10/2019 11:28,06/11/2019 08:09
+CLOUD-3410,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/10/2019 05:24,06/11/2019 08:13
+CLOUD-3408,Bug,New,CLOUD,Cloud Enablement,software,Done,17/10/2019 16:18,17/10/2019 16:31
+CLOUD-3407,Bug,Closed,CLOUD,Cloud Enablement,software,Done,17/10/2019 12:55,17/10/2019 13:15
+CLOUD-3406,Bug,Closed,CLOUD,Cloud Enablement,software,Done,17/10/2019 12:44,17/10/2019 13:15
+CLOUD-3405,Bug,New,CLOUD,Cloud Enablement,software,,16/10/2019 15:17,
+CLOUD-3403,Bug,Closed,CLOUD,Cloud Enablement,software,Not a Bug,16/10/2019 08:55,23/10/2019 08:51
+CLOUD-3401,Bug,New,CLOUD,Cloud Enablement,software,Done,15/10/2019 14:54,21/10/2019 10:58
+CLOUD-3394,Bug,New,CLOUD,Cloud Enablement,software,,10/10/2019 04:24,
+CLOUD-3393,Bug,New,CLOUD,Cloud Enablement,software,,09/10/2019 22:55,
+CLOUD-3392,Bug,New,CLOUD,Cloud Enablement,software,,03/10/2019 13:16,
+CLOUD-3388,Bug,New,CLOUD,Cloud Enablement,software,Not a Bug,02/10/2019 07:05,15/10/2019 09:51
+CLOUD-3382,Bug,New,CLOUD,Cloud Enablement,software,,24/09/2019 12:39,
+CLOUD-3381,Bug,Closed,CLOUD,Cloud Enablement,software,Done,23/09/2019 11:01,25/09/2019 15:23
+CLOUD-3380,Bug,Closed,CLOUD,Cloud Enablement,software,Done,23/09/2019 10:19,25/09/2019 16:08
+CLOUD-3378,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/09/2019 07:57,25/09/2019 16:07
+CLOUD-3375,Bug,Verified,CLOUD,Cloud Enablement,software,Done,16/09/2019 16:31,12/12/2019 07:40
+CLOUD-3374,Bug,New,CLOUD,Cloud Enablement,software,Done,16/09/2019 10:45,02/10/2019 06:29
+CLOUD-3373,Bug,Closed,CLOUD,Cloud Enablement,software,Done,12/09/2019 05:17,18/09/2019 04:37
+CLOUD-3372,Bug,New,CLOUD,Cloud Enablement,software,,12/09/2019 01:58,
+CLOUD-3370,Bug,New,CLOUD,Cloud Enablement,software,Done,04/09/2019 10:45,04/09/2019 15:16
+CLOUD-3369,Bug,Closed,CLOUD,Cloud Enablement,software,Done,30/08/2019 11:29,12/09/2019 11:27
+CLOUD-3368,Bug,Closed,CLOUD,Cloud Enablement,software,Done,30/08/2019 11:28,12/09/2019 11:46
+CLOUD-3367,Bug,New,CLOUD,Cloud Enablement,software,,27/08/2019 14:41,
+CLOUD-3366,Bug,Verified,CLOUD,Cloud Enablement,software,Done,27/08/2019 11:30,10/09/2019 10:11
+CLOUD-3365,Bug,New,CLOUD,Cloud Enablement,software,,27/08/2019 11:12,
+CLOUD-3364,Bug,New,CLOUD,Cloud Enablement,software,,27/08/2019 11:06,
+CLOUD-3362,Bug,New,CLOUD,Cloud Enablement,software,Done,27/08/2019 06:40,02/09/2019 09:00
+CLOUD-3361,Bug,New,CLOUD,Cloud Enablement,software,,22/08/2019 15:21,
+CLOUD-3359,Bug,New,CLOUD,Cloud Enablement,software,Done,21/08/2019 10:35,21/08/2019 11:37
+CLOUD-3353,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/08/2019 10:59,21/08/2019 10:09
+CLOUD-3352,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/08/2019 10:56,21/08/2019 10:03
+CLOUD-3349,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,16/08/2019 12:22,16/08/2019 12:28
+CLOUD-3348,Bug,Closed,CLOUD,Cloud Enablement,software,Done,16/08/2019 12:15,21/08/2019 10:06
+CLOUD-3347,Bug,Closed,CLOUD,Cloud Enablement,software,Done,16/08/2019 12:07,21/08/2019 10:03
+CLOUD-3346,Bug,Closed,CLOUD,Cloud Enablement,software,Done,16/08/2019 12:04,21/08/2019 10:33
+CLOUD-3337,Bug,New,CLOUD,Cloud Enablement,software,Done,12/08/2019 14:11,22/08/2019 09:24
+CLOUD-3336,Bug,New,CLOUD,Cloud Enablement,software,,09/08/2019 14:45,
+CLOUD-3333,Bug,New,CLOUD,Cloud Enablement,software,Done,08/08/2019 18:22,16/08/2019 12:07
+CLOUD-3332,Bug,Closed,CLOUD,Cloud Enablement,software,Done,08/08/2019 12:21,21/08/2019 10:14
+CLOUD-3328,Bug,Closed,CLOUD,Cloud Enablement,software,Done,25/07/2019 12:21,25/07/2019 14:32
+CLOUD-3326,Feature Request,New,CLOUD,Cloud Enablement,software,,23/07/2019 05:18,
+CLOUD-3325,Bug,New,CLOUD,Cloud Enablement,software,Done,22/07/2019 11:21,24/07/2019 16:08
+CLOUD-3315,Bug,Closed,CLOUD,Cloud Enablement,software,Done,15/07/2019 04:02,29/07/2019 10:12
+CLOUD-3303,Bug,Closed,CLOUD,Cloud Enablement,software,Done,10/07/2019 10:28,18/07/2019 10:44
+CLOUD-3300,Bug,Closed,CLOUD,Cloud Enablement,software,Done,08/07/2019 11:11,08/07/2019 11:36
+CLOUD-3283,Bug,Closed,CLOUD,Cloud Enablement,software,Done,27/06/2019 11:20,10/07/2019 08:47
+CLOUD-3282,Bug,Closed,CLOUD,Cloud Enablement,software,Done,27/06/2019 11:19,03/07/2019 03:08
+CLOUD-3281,Bug,New,CLOUD,Cloud Enablement,software,Done,27/06/2019 08:50,27/06/2019 09:16
+CLOUD-3279,Bug,Closed,CLOUD,Cloud Enablement,software,Done,26/06/2019 14:05,18/07/2019 10:40
+CLOUD-3278,Bug,Closed,CLOUD,Cloud Enablement,software,Done,26/06/2019 00:23,03/07/2019 03:09
+CLOUD-3277,Bug,New,CLOUD,Cloud Enablement,software,,25/06/2019 04:47,
+CLOUD-3276,Bug,Closed,CLOUD,Cloud Enablement,software,Done,24/06/2019 16:08,10/07/2019 08:47
+CLOUD-3274,Bug,Verified,CLOUD,Cloud Enablement,software,Done,21/06/2019 12:57,12/09/2019 09:24
+CLOUD-3273,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,21/06/2019 11:20,10/07/2019 14:24
+CLOUD-3271,Bug,New,CLOUD,Cloud Enablement,software,,17/06/2019 11:40,
+CLOUD-3269,Bug,New,CLOUD,Cloud Enablement,software,Done,14/06/2019 17:24,12/07/2019 08:59
+CLOUD-3266,Bug,Closed,CLOUD,Cloud Enablement,software,Done,12/06/2019 06:44,10/07/2019 08:47
+CLOUD-3263,Bug,Closed,CLOUD,Cloud Enablement,software,Done,07/06/2019 06:46,04/07/2019 07:41
+CLOUD-3260,Bug,Closed,CLOUD,Cloud Enablement,software,Done,06/06/2019 06:33,06/06/2019 15:37
+CLOUD-3259,Bug,New,CLOUD,Cloud Enablement,software,,06/06/2019 00:14,
+CLOUD-3254,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,29/05/2019 19:25,29/05/2019 19:28
+CLOUD-3253,Bug,New,CLOUD,Cloud Enablement,software,Done,29/05/2019 14:58,30/05/2019 21:18
+CLOUD-3252,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,29/05/2019 04:57,02/06/2021 08:51
+CLOUD-3247,Bug,New,CLOUD,Cloud Enablement,software,Done,28/05/2019 18:37,31/05/2019 14:37
+CLOUD-3244,Bug,New,CLOUD,Cloud Enablement,software,Done,28/05/2019 16:04,29/05/2019 11:23
+CLOUD-3243,Bug,Closed,CLOUD,Cloud Enablement,software,Done,23/05/2019 04:56,28/05/2019 14:53
+CLOUD-3242,Bug,Closed,CLOUD,Cloud Enablement,software,Done,23/05/2019 04:53,29/05/2019 08:26
+CLOUD-3239,Bug,New,CLOUD,Cloud Enablement,software,,22/05/2019 17:36,
+CLOUD-3238,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/05/2019 17:33,31/01/2022 13:32
+CLOUD-3237,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/05/2019 17:23,28/05/2019 21:31
+CLOUD-3236,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/05/2019 17:17,28/05/2019 21:33
+CLOUD-3235,Bug,New,CLOUD,Cloud Enablement,software,Done,22/05/2019 16:53,24/05/2019 15:54
+CLOUD-3233,Bug,New,CLOUD,Cloud Enablement,software,Done,22/05/2019 15:25,24/05/2019 10:18
+CLOUD-3231,Bug,New,CLOUD,Cloud Enablement,software,Done,22/05/2019 00:19,28/05/2019 23:58
+CLOUD-3230,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/05/2019 00:15,28/05/2019 21:34
+CLOUD-3229,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,21/05/2019 17:51,21/05/2019 18:33
+CLOUD-3228,Bug,New,CLOUD,Cloud Enablement,software,Done,21/05/2019 17:27,22/05/2019 17:28
+CLOUD-3224,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/05/2019 16:13,29/05/2019 10:05
+CLOUD-3221,Bug,New,CLOUD,Cloud Enablement,software,,20/05/2019 14:56,
+CLOUD-3217,Bug,New,CLOUD,Cloud Enablement,software,,20/05/2019 14:50,
+CLOUD-3214,Bug,New,CLOUD,Cloud Enablement,software,Done,16/05/2019 15:13,20/05/2019 16:12
+CLOUD-3212,Bug,Closed,CLOUD,Cloud Enablement,software,Done,15/05/2019 23:22,28/05/2019 15:03
+CLOUD-3208,Bug,New,CLOUD,Cloud Enablement,software,Done,15/05/2019 18:28,28/05/2019 14:54
+CLOUD-3205,Bug,Closed,CLOUD,Cloud Enablement,software,Done,15/05/2019 10:27,15/05/2019 10:52
+CLOUD-3203,Feature Request,New,CLOUD,Cloud Enablement,software,,14/05/2019 04:47,
+CLOUD-3202,Feature Request,New,CLOUD,Cloud Enablement,software,,14/05/2019 04:46,
+CLOUD-3201,Bug,Closed,CLOUD,Cloud Enablement,software,Done,13/05/2019 12:05,13/05/2019 15:39
+CLOUD-3198,Bug,New,CLOUD,Cloud Enablement,software,Done,06/05/2019 17:26,13/06/2019 15:50
+CLOUD-3195,Bug,Closed,CLOUD,Cloud Enablement,software,Done,01/05/2019 09:03,10/08/2022 12:17
+CLOUD-3193,Bug,New,CLOUD,Cloud Enablement,software,,29/04/2019 03:42,
+CLOUD-3188,Bug,New,CLOUD,Cloud Enablement,software,,24/04/2019 08:53,
+CLOUD-3186,Bug,Verified,CLOUD,Cloud Enablement,software,Done,23/04/2019 16:32,23/04/2019 23:33
+CLOUD-3185,Bug,Verified,CLOUD,Cloud Enablement,software,Done,23/04/2019 16:06,23/04/2019 16:13
+CLOUD-3184,Bug,Verified,CLOUD,Cloud Enablement,software,Done,23/04/2019 15:44,23/04/2019 16:13
+CLOUD-3183,Bug,New,CLOUD,Cloud Enablement,software,,23/04/2019 11:21,
+CLOUD-3182,Bug,Closed,CLOUD,Cloud Enablement,software,Done,23/04/2019 10:19,13/05/2019 09:21
+CLOUD-3181,Bug,Closed,CLOUD,Cloud Enablement,software,Done,23/04/2019 10:16,13/05/2019 09:21
+CLOUD-3172,Bug,New,CLOUD,Cloud Enablement,software,,18/04/2019 01:39,
+CLOUD-3171,Bug,New,CLOUD,Cloud Enablement,software,Done,17/04/2019 15:06,24/04/2019 11:15
+CLOUD-3170,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,17/04/2019 14:55,16/05/2019 18:41
+CLOUD-3169,Bug,New,CLOUD,Cloud Enablement,software,Done,17/04/2019 14:06,22/05/2019 19:56
+CLOUD-3168,Bug,Closed,CLOUD,Cloud Enablement,software,Done,17/04/2019 13:05,04/07/2019 09:50
+CLOUD-3165,Bug,Closed,CLOUD,Cloud Enablement,software,Done,16/04/2019 10:47,13/05/2019 14:18
+CLOUD-3164,Bug,Verified,CLOUD,Cloud Enablement,software,Done,16/04/2019 05:42,18/04/2019 14:39
+CLOUD-3160,Bug,Closed,CLOUD,Cloud Enablement,software,Done,11/04/2019 10:30,08/05/2019 10:16
+CLOUD-3156,Bug,Closed,CLOUD,Cloud Enablement,software,Done,09/04/2019 10:34,25/04/2019 09:23
+CLOUD-3155,Bug,Closed,CLOUD,Cloud Enablement,software,Done,09/04/2019 10:30,25/04/2019 09:23
+CLOUD-3152,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/04/2019 10:28,07/05/2019 08:51
+CLOUD-3150,Bug,Closed,CLOUD,Cloud Enablement,software,Done,01/04/2019 12:20,17/04/2019 08:17
+CLOUD-3149,Bug,Closed,CLOUD,Cloud Enablement,software,Done,01/04/2019 12:19,17/04/2019 08:18
+CLOUD-3146,Bug,New,CLOUD,Cloud Enablement,software,Done,27/03/2019 16:46,18/04/2019 14:43
+CLOUD-3140,Bug,Closed,CLOUD,Cloud Enablement,software,Done,21/03/2019 12:08,11/04/2019 10:46
+CLOUD-3138,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/03/2019 13:29,20/03/2019 14:05
+CLOUD-3134,Bug,Closed,CLOUD,Cloud Enablement,software,Done,12/03/2019 06:37,12/03/2019 10:35
+CLOUD-3133,Bug,New,CLOUD,Cloud Enablement,software,,07/03/2019 09:43,
+CLOUD-3132,Bug,Closed,CLOUD,Cloud Enablement,software,Not a Bug,07/03/2019 09:40,08/03/2019 03:50
+CLOUD-3131,Bug,New,CLOUD,Cloud Enablement,software,,07/03/2019 08:21,
+CLOUD-3130,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,04/03/2019 12:57,11/03/2019 09:01
+CLOUD-3125,Bug,New,CLOUD,Cloud Enablement,software,Done,28/02/2019 06:50,18/04/2019 15:11
+CLOUD-3110,Bug,Closed,CLOUD,Cloud Enablement,software,Done,21/02/2019 06:59,27/02/2019 03:13
+CLOUD-3109,Bug,Closed,CLOUD,Cloud Enablement,software,Done,21/02/2019 06:18,27/02/2019 03:34
+CLOUD-3105,Bug,New,CLOUD,Cloud Enablement,software,,15/02/2019 09:55,
+CLOUD-3104,Bug,New,CLOUD,Cloud Enablement,software,,15/02/2019 05:59,
+CLOUD-3102,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,13/02/2019 13:42,20/05/2019 15:00
+CLOUD-3100,Bug,New,CLOUD,Cloud Enablement,software,,13/02/2019 08:54,
+CLOUD-3095,Bug,Closed,CLOUD,Cloud Enablement,software,Done,07/02/2019 08:32,11/02/2019 11:45
+CLOUD-3094,Bug,Closed,CLOUD,Cloud Enablement,software,Done,08/02/2019 08:43,29/04/2019 11:11
+CLOUD-3093,Feature Request,Closed,CLOUD,Cloud Enablement,software,Duplicate,07/02/2019 10:21,18/05/2020 06:05
+CLOUD-3087,Bug,Closed,CLOUD,Cloud Enablement,software,Done,06/02/2019 05:43,13/02/2019 06:37
+CLOUD-3084,Bug,New,CLOUD,Cloud Enablement,software,,29/01/2019 16:37,
+CLOUD-3082,Bug,New,CLOUD,Cloud Enablement,software,Done,29/01/2019 06:35,18/04/2019 15:30
+CLOUD-3081,Bug,New,CLOUD,Cloud Enablement,software,Done,28/01/2019 11:34,18/04/2019 14:41
+CLOUD-3073,Bug,New,CLOUD,Cloud Enablement,software,Done,22/01/2019 09:44,12/03/2019 05:37
+CLOUD-3068,Bug,New,CLOUD,Cloud Enablement,software,,20/01/2019 16:34,
+CLOUD-3066,Feature Request,Verified,CLOUD,Cloud Enablement,software,Done,14/01/2019 13:31,22/01/2019 17:03
+CLOUD-3065,Task,Closed,CLOUD,Cloud Enablement,software,Done,14/01/2019 12:36,29/01/2019 16:46
+CLOUD-3060,Bug,New,CLOUD,Cloud Enablement,software,,03/01/2019 17:00,
+CLOUD-3059,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,03/01/2019 16:57,22/05/2019 19:58
+CLOUD-3057,Bug,New,CLOUD,Cloud Enablement,software,,27/12/2018 00:37,
+CLOUD-3056,Bug,Closed,CLOUD,Cloud Enablement,software,Done,24/12/2018 05:09,13/03/2019 17:25
+CLOUD-3051,Bug,Closed,CLOUD,Cloud Enablement,software,Done,13/12/2018 12:43,03/01/2019 17:01
+CLOUD-3050,Bug,New,CLOUD,Cloud Enablement,software,,13/12/2018 04:26,
+CLOUD-3048,Bug,Closed,CLOUD,Cloud Enablement,software,Done,10/12/2018 17:47,03/01/2019 16:59
+CLOUD-3047,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,10/12/2018 13:39,22/03/2023 11:27
+CLOUD-3045,Bug,Closed,CLOUD,Cloud Enablement,software,Done,06/12/2018 17:10,20/05/2019 22:23
+CLOUD-3043,Bug,Closed,CLOUD,Cloud Enablement,software,Done,05/12/2018 16:05,17/12/2018 16:23
+CLOUD-3037,Bug,Closed,CLOUD,Cloud Enablement,software,Done,03/12/2018 11:52,09/03/2020 10:08
+CLOUD-3036,Bug,Closed,CLOUD,Cloud Enablement,software,Done,03/12/2018 11:51,10/12/2018 12:28
+CLOUD-3035,Bug,Closed,CLOUD,Cloud Enablement,software,Done,03/12/2018 07:39,11/12/2018 16:55
+CLOUD-3025,Bug,New,CLOUD,Cloud Enablement,software,Done,23/11/2018 06:07,02/02/2022 14:40
+CLOUD-3024,Bug,New,CLOUD,Cloud Enablement,software,,21/11/2018 11:13,
+CLOUD-3023,Bug,Closed,CLOUD,Cloud Enablement,software,Done,21/11/2018 06:19,25/11/2018 23:26
+CLOUD-3022,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/11/2018 12:01,12/12/2018 14:27
+CLOUD-3021,Bug,New,CLOUD,Cloud Enablement,software,Done,16/11/2018 13:26,25/11/2018 23:25
+CLOUD-3019,Bug,Closed,CLOUD,Cloud Enablement,software,Done,14/11/2018 11:31,21/05/2019 06:17
+CLOUD-3009,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,05/11/2018 01:56,05/11/2018 11:21
+CLOUD-2992,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,24/10/2018 10:32,24/11/2018 20:21
+CLOUD-2991,Bug,Closed,CLOUD,Cloud Enablement,software,Done,24/10/2018 09:25,24/10/2018 18:10
+CLOUD-2990,Bug,New,CLOUD,Cloud Enablement,software,,24/10/2018 07:01,
+CLOUD-2988,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,23/10/2018 07:26,14/02/2022 22:08
+CLOUD-2985,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/10/2018 15:11,30/11/2018 14:21
+CLOUD-2984,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/10/2018 08:15,24/10/2018 11:38
+CLOUD-2980,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/10/2018 06:40,30/10/2018 12:40
+CLOUD-2979,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/10/2018 06:38,30/10/2018 12:40
+CLOUD-2978,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/10/2018 04:06,23/10/2018 14:59
+CLOUD-2977,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/10/2018 04:05,23/10/2018 14:59
+CLOUD-2951,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/10/2018 04:38,22/10/2018 13:55
+CLOUD-2950,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/10/2018 04:34,22/10/2018 12:19
+CLOUD-2949,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/10/2018 03:39,18/10/2018 03:50
+CLOUD-2948,Bug,Closed,CLOUD,Cloud Enablement,software,Done,17/10/2018 07:41,23/10/2018 12:15
+CLOUD-2946,Bug,Closed,CLOUD,Cloud Enablement,software,Done,16/10/2018 12:34,22/10/2018 13:56
+CLOUD-2945,Bug,Closed,CLOUD,Cloud Enablement,software,Done,16/10/2018 12:31,22/10/2018 12:19
+CLOUD-2940,Bug,Closed,CLOUD,Cloud Enablement,software,Done,15/10/2018 06:27,21/02/2019 07:28
+CLOUD-2934,Bug,Closed,CLOUD,Cloud Enablement,software,Done,10/10/2018 09:30,30/11/2018 08:19
+CLOUD-2932,Bug,New,CLOUD,Cloud Enablement,software,,08/10/2018 08:00,
+CLOUD-2931,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,05/10/2018 15:56,16/10/2018 09:08
+CLOUD-2930,Bug,Closed,CLOUD,Cloud Enablement,software,Not a Bug,05/10/2018 08:05,30/11/2018 08:20
+CLOUD-2929,Bug,Verified,CLOUD,Cloud Enablement,software,Done,04/10/2018 19:10,10/10/2018 17:44
+CLOUD-2926,Bug,Closed,CLOUD,Cloud Enablement,software,Done,04/10/2018 09:02,30/11/2018 08:20
+CLOUD-2925,Bug,Closed,CLOUD,Cloud Enablement,software,Done,04/10/2018 08:59,30/11/2018 08:25
+CLOUD-2924,Bug,Verified,CLOUD,Cloud Enablement,software,Done,04/10/2018 08:07,15/10/2018 07:30
+CLOUD-2917,Task,New,CLOUD,Cloud Enablement,software,,13/09/2018 13:23,
+CLOUD-2912,Bug,Closed,CLOUD,Cloud Enablement,software,Done,27/09/2018 08:20,30/10/2018 09:23
+CLOUD-2905,Bug,Closed,CLOUD,Cloud Enablement,software,Done,24/09/2018 16:34,24/09/2018 18:38
+CLOUD-2903,Bug,New,CLOUD,Cloud Enablement,software,Done,20/09/2018 16:41,03/09/2020 00:38
+CLOUD-2900,Bug,Verified,CLOUD,Cloud Enablement,software,Done,19/09/2018 06:24,19/09/2018 12:16
+CLOUD-2899,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,19/09/2018 04:45,21/10/2022 10:09
+CLOUD-2896,Bug,New,CLOUD,Cloud Enablement,software,Done,18/09/2018 09:52,22/10/2018 12:53
+CLOUD-2895,Bug,Verified,CLOUD,Cloud Enablement,software,Done,18/09/2018 07:09,10/10/2018 11:00
+CLOUD-2887,Feature Request,New,CLOUD,Cloud Enablement,software,,14/09/2018 07:07,
+CLOUD-2881,Bug,Closed,CLOUD,Cloud Enablement,software,Done,11/09/2018 10:07,03/12/2018 04:52
+CLOUD-2879,Bug,Closed,CLOUD,Cloud Enablement,software,Done,11/09/2018 09:32,03/12/2018 04:53
+CLOUD-2876,Bug,Verified,CLOUD,Cloud Enablement,software,Done,11/09/2018 02:38,04/10/2018 03:46
+CLOUD-2866,Bug,Closed,CLOUD,Cloud Enablement,software,Done,07/09/2018 11:27,26/06/2019 16:58
+CLOUD-2864,Bug,Closed,CLOUD,Cloud Enablement,software,Done,06/09/2018 08:23,12/09/2018 13:54
+CLOUD-2860,Feature Request,Verified,CLOUD,Cloud Enablement,software,Done,05/09/2018 13:33,05/09/2018 13:44
+CLOUD-2859,Bug,New,CLOUD,Cloud Enablement,software,,05/09/2018 11:19,
+CLOUD-2857,Bug,New,CLOUD,Cloud Enablement,software,Won't Do,05/09/2018 03:09,19/09/2018 16:22
+CLOUD-2855,Bug,Closed,CLOUD,Cloud Enablement,software,Done,04/09/2018 10:08,11/06/2020 09:06
+CLOUD-2851,Bug,Verified,CLOUD,Cloud Enablement,software,Done,04/09/2018 05:53,23/09/2018 20:43
+CLOUD-2849,Bug,New,CLOUD,Cloud Enablement,software,,03/09/2018 09:55,
+CLOUD-2848,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,03/09/2018 05:38,21/05/2019 06:14
+CLOUD-2846,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,03/09/2018 04:41,21/05/2019 06:09
+CLOUD-2845,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,31/08/2018 17:04,04/09/2018 08:17
+CLOUD-2844,Bug,New,CLOUD,Cloud Enablement,software,,31/08/2018 03:55,
+CLOUD-2842,Bug,New,CLOUD,Cloud Enablement,software,,29/08/2018 14:34,
+CLOUD-2840,Bug,New,CLOUD,Cloud Enablement,software,,29/08/2018 05:56,
+CLOUD-2836,Bug,Closed,CLOUD,Cloud Enablement,software,Not a Bug,27/08/2018 09:20,28/08/2018 02:28
+CLOUD-2827,Bug,New,CLOUD,Cloud Enablement,software,,23/08/2018 08:17,
+CLOUD-2826,Bug,Verified,CLOUD,Cloud Enablement,software,Done,23/08/2018 03:59,03/10/2018 09:36
+CLOUD-2824,Task,New,CLOUD,Cloud Enablement,software,Done,22/08/2018 09:36,13/12/2018 08:48
+CLOUD-2821,Bug,Verified,CLOUD,Cloud Enablement,software,Done,21/08/2018 11:22,08/10/2018 17:07
+CLOUD-2819,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/08/2018 10:34,21/08/2018 22:53
+CLOUD-2811,Bug,Closed,CLOUD,Cloud Enablement,software,Not a Bug,16/08/2018 07:37,04/09/2018 15:35
+CLOUD-2806,Bug,Closed,CLOUD,Cloud Enablement,software,Done,14/08/2018 06:03,03/12/2018 04:57
+CLOUD-2800,Task,New,CLOUD,Cloud Enablement,software,,13/08/2018 22:53,
+CLOUD-2797,Bug,Closed,CLOUD,Cloud Enablement,software,Done,13/08/2018 15:37,16/08/2018 18:54
+CLOUD-2794,Task,Closed,CLOUD,Cloud Enablement,software,Done,13/08/2018 11:07,14/08/2018 09:38
+CLOUD-2793,Bug,Closed,CLOUD,Cloud Enablement,software,Cannot Reproduce,13/08/2018 11:06,05/11/2018 11:34
+CLOUD-2792,Bug,Verified,CLOUD,Cloud Enablement,software,Done,13/08/2018 04:45,05/10/2018 09:25
+CLOUD-2789,Bug,New,CLOUD,Cloud Enablement,software,,09/08/2018 16:15,
+CLOUD-2787,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,08/08/2018 19:54,22/08/2018 16:34
+CLOUD-2784,Feature Request,Verified,CLOUD,Cloud Enablement,software,Done,07/08/2018 11:24,11/02/2019 11:08
+CLOUD-2782,Task,Closed,CLOUD,Cloud Enablement,software,Done,05/08/2018 23:09,08/08/2018 04:39
+CLOUD-2780,Bug,Closed,CLOUD,Cloud Enablement,software,Done,03/08/2018 09:19,07/08/2018 09:11
+CLOUD-2775,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/08/2018 08:01,08/08/2018 14:52
+CLOUD-2773,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/08/2018 06:59,06/08/2018 08:22
+CLOUD-2772,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/08/2018 04:08,02/08/2018 04:09
+CLOUD-2771,Bug,New,CLOUD,Cloud Enablement,software,Done,01/08/2018 17:35,22/03/2019 17:00
+CLOUD-2770,Bug,Verified,CLOUD,Cloud Enablement,software,Done,01/08/2018 17:25,09/08/2018 12:36
+CLOUD-2767,Bug,Verified,CLOUD,Cloud Enablement,software,Done,01/08/2018 08:38,08/08/2018 17:45
+CLOUD-2766,Bug,Verified,CLOUD,Cloud Enablement,software,Done,01/08/2018 04:30,05/09/2018 18:37
+CLOUD-2764,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,31/07/2018 17:16,11/02/2019 11:09
+CLOUD-2763,Bug,Closed,CLOUD,Cloud Enablement,software,Done,31/07/2018 11:39,23/08/2018 10:53
+CLOUD-2761,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,31/07/2018 09:01,28/03/2022 21:10
+CLOUD-2760,Bug,New,CLOUD,Cloud Enablement,software,Done,31/07/2018 07:09,08/08/2018 17:44
+CLOUD-2759,Bug,Closed,CLOUD,Cloud Enablement,software,Done,30/07/2018 22:51,08/08/2018 17:42
+CLOUD-2756,Bug,Verified,CLOUD,Cloud Enablement,software,Done,30/07/2018 11:54,09/08/2018 11:15
+CLOUD-2755,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,30/07/2018 06:09,12/12/2018 16:03
+CLOUD-2747,Bug,Verified,CLOUD,Cloud Enablement,software,Done,26/07/2018 10:26,08/10/2018 17:11
+CLOUD-2746,Bug,Closed,CLOUD,Cloud Enablement,software,Done,25/07/2018 05:21,26/07/2018 10:25
+CLOUD-2745,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,25/07/2018 04:41,30/07/2018 10:06
+CLOUD-2744,Bug,Closed,CLOUD,Cloud Enablement,software,Done,25/07/2018 04:28,25/07/2018 04:29
+CLOUD-2739,Bug,Closed,CLOUD,Cloud Enablement,software,Done,24/07/2018 12:48,26/07/2018 10:25
+CLOUD-2736,Feature Request,Verified,CLOUD,Cloud Enablement,software,Done,23/07/2018 08:39,24/07/2018 16:25
+CLOUD-2735,Task,Closed,CLOUD,Cloud Enablement,software,Won't Do,22/07/2018 22:05,08/08/2018 13:30
+CLOUD-2726,Task,Closed,CLOUD,Cloud Enablement,software,Done,18/07/2018 09:37,13/08/2018 15:41
+CLOUD-2722,Bug,Verified,CLOUD,Cloud Enablement,software,Done,17/07/2018 14:43,30/08/2018 10:25
+CLOUD-2721,Bug,Closed,CLOUD,Cloud Enablement,software,Done,17/07/2018 14:00,19/07/2018 08:35
+CLOUD-2720,Bug,Closed,CLOUD,Cloud Enablement,software,Done,17/07/2018 07:12,03/01/2019 16:56
+CLOUD-2719,Bug,Verified,CLOUD,Cloud Enablement,software,Done,16/07/2018 16:03,09/08/2018 12:35
+CLOUD-2716,Bug,Closed,CLOUD,Cloud Enablement,software,Done,16/07/2018 04:23,21/02/2019 07:27
+CLOUD-2713,Bug,Verified,CLOUD,Cloud Enablement,software,Done,13/07/2018 16:41,23/07/2018 16:43
+CLOUD-2712,Task,Closed,CLOUD,Cloud Enablement,software,Obsolete,13/07/2018 08:20,29/11/2021 15:20
+CLOUD-2711,Bug,Verified,CLOUD,Cloud Enablement,software,Done,13/07/2018 01:21,06/08/2018 10:59
+CLOUD-2710,Bug,Closed,CLOUD,Cloud Enablement,software,Done,12/07/2018 10:39,18/06/2020 06:10
+CLOUD-2708,Bug,Closed,CLOUD,Cloud Enablement,software,Done,12/07/2018 08:12,12/07/2018 08:14
+CLOUD-2707,Bug,Closed,CLOUD,Cloud Enablement,software,Done,12/07/2018 04:26,12/04/2019 16:07
+CLOUD-2705,Bug,Closed,CLOUD,Cloud Enablement,software,Done,10/07/2018 07:06,23/07/2018 11:43
+CLOUD-2704,Bug,New,CLOUD,Cloud Enablement,software,,10/07/2018 05:48,
+CLOUD-2703,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,10/07/2018 05:43,01/04/2020 09:56
+CLOUD-2702,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,10/07/2018 05:08,11/12/2018 18:41
+CLOUD-2701,Bug,Verified,CLOUD,Cloud Enablement,software,Done,09/07/2018 18:33,12/09/2018 10:54
+CLOUD-2700,Bug,Verified,CLOUD,Cloud Enablement,software,Done,09/07/2018 18:32,30/08/2018 10:21
+CLOUD-2699,Bug,Closed,CLOUD,Cloud Enablement,software,Done,09/07/2018 14:55,23/07/2018 16:43
+CLOUD-2698,Bug,New,CLOUD,Cloud Enablement,software,,09/07/2018 02:47,
+CLOUD-2697,Feature Request,New,CLOUD,Cloud Enablement,software,Done,05/07/2018 09:15,13/09/2018 09:33
+CLOUD-2696,Feature Request,Verified,CLOUD,Cloud Enablement,software,Done,05/07/2018 09:07,30/08/2018 10:07
+CLOUD-2695,Feature Request,Closed,CLOUD,Cloud Enablement,software,Duplicate,05/07/2018 09:07,11/04/2019 05:57
+CLOUD-2694,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,29/06/2018 17:26,09/08/2018 18:59
+CLOUD-2690,Bug,Verified,CLOUD,Cloud Enablement,software,Done,28/06/2018 09:54,03/07/2018 09:19
+CLOUD-2689,Feature Request,Closed,CLOUD,Cloud Enablement,software,Won't Do,27/06/2018 07:28,11/06/2020 09:19
+CLOUD-2685,Bug,Closed,CLOUD,Cloud Enablement,software,Not a Bug,25/06/2018 08:16,26/06/2018 07:29
+CLOUD-2683,Task,New,CLOUD,Cloud Enablement,software,Done,22/06/2018 08:15,29/06/2018 09:58
+CLOUD-2678,Bug,Closed,CLOUD,Cloud Enablement,software,Done,21/06/2018 10:00,26/07/2018 10:01
+CLOUD-2674,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,21/06/2018 09:17,03/12/2018 04:02
+CLOUD-2670,Feature Request,Verified,CLOUD,Cloud Enablement,software,Done,21/06/2018 08:48,04/10/2018 03:34
+CLOUD-2668,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,21/06/2018 08:44,14/08/2018 03:46
+CLOUD-2667,Bug,Verified,CLOUD,Cloud Enablement,software,Done,21/06/2018 08:42,04/10/2018 03:32
+CLOUD-2666,Bug,Verified,CLOUD,Cloud Enablement,software,Done,21/06/2018 08:41,04/10/2018 03:42
+CLOUD-2665,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,21/06/2018 08:40,04/10/2018 03:40
+CLOUD-2664,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,21/06/2018 08:38,21/05/2019 12:26
+CLOUD-2662,Bug,Closed,CLOUD,Cloud Enablement,software,Done,21/06/2018 08:37,03/12/2018 04:15
+CLOUD-2661,Bug,Verified,CLOUD,Cloud Enablement,software,Done,21/06/2018 08:36,03/10/2018 09:33
+CLOUD-2660,Bug,Closed,CLOUD,Cloud Enablement,software,Done,21/06/2018 08:34,03/12/2018 05:04
+CLOUD-2659,Bug,Closed,CLOUD,Cloud Enablement,software,Done,21/06/2018 08:32,03/12/2018 04:14
+CLOUD-2658,Bug,Closed,CLOUD,Cloud Enablement,software,Done,21/06/2018 08:30,21/08/2018 15:08
+CLOUD-2657,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,21/06/2018 08:28,21/05/2019 12:27
+CLOUD-2655,Bug,Verified,CLOUD,Cloud Enablement,software,Done,20/06/2018 02:26,03/07/2018 09:20
+CLOUD-2653,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,19/06/2018 10:17,19/06/2018 11:12
+CLOUD-2652,Bug,Verified,CLOUD,Cloud Enablement,software,Done,18/06/2018 01:49,03/07/2018 09:19
+CLOUD-2651,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,14/06/2018 09:53,14/02/2022 22:11
+CLOUD-2647,Bug,Closed,CLOUD,Cloud Enablement,software,Done,13/06/2018 04:44,13/07/2018 13:34
+CLOUD-2642,Bug,Closed,CLOUD,Cloud Enablement,software,Not a Bug,12/06/2018 12:43,14/06/2018 10:10
+CLOUD-2638,Bug,Closed,CLOUD,Cloud Enablement,software,Done,12/06/2018 06:55,19/06/2018 09:05
+CLOUD-2637,Bug,Closed,CLOUD,Cloud Enablement,software,Done,12/06/2018 06:49,05/07/2018 10:30
+CLOUD-2635,Bug,Verified,CLOUD,Cloud Enablement,software,Done,08/06/2018 06:50,03/07/2018 09:18
+CLOUD-2628,Task,New,CLOUD,Cloud Enablement,software,Done,06/06/2018 10:08,31/07/2018 07:47
+CLOUD-2625,Bug,Verified,CLOUD,Cloud Enablement,software,Done,06/06/2018 08:08,07/06/2018 06:56
+CLOUD-2624,Bug,Verified,CLOUD,Cloud Enablement,software,Done,06/06/2018 07:59,07/06/2018 06:54
+CLOUD-2620,Bug,Closed,CLOUD,Cloud Enablement,software,Done,05/06/2018 16:31,13/06/2018 08:32
+CLOUD-2614,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,04/06/2018 08:25,08/06/2018 07:11
+CLOUD-2602,Bug,Verified,CLOUD,Cloud Enablement,software,Done,01/06/2018 12:20,05/06/2018 09:34
+CLOUD-2598,Bug,Closed,CLOUD,Cloud Enablement,software,Done,31/05/2018 09:05,03/12/2018 04:19
+CLOUD-2596,Bug,Verified,CLOUD,Cloud Enablement,software,Done,31/05/2018 07:49,01/06/2018 14:30
+CLOUD-2595,Bug,Verified,CLOUD,Cloud Enablement,software,Done,31/05/2018 04:26,01/06/2018 14:29
+CLOUD-2594,Bug,Verified,CLOUD,Cloud Enablement,software,Done,30/05/2018 16:10,05/06/2018 09:31
+CLOUD-2592,Bug,Verified,CLOUD,Cloud Enablement,software,Done,30/05/2018 08:30,11/07/2018 07:48
+CLOUD-2591,Bug,Verified,CLOUD,Cloud Enablement,software,Done,30/05/2018 08:29,09/07/2018 15:34
+CLOUD-2590,Bug,Verified,CLOUD,Cloud Enablement,software,Done,30/05/2018 06:34,05/06/2018 10:46
+CLOUD-2586,Task,Closed,CLOUD,Cloud Enablement,software,Done,28/05/2018 13:43,07/06/2018 12:08
+CLOUD-2585,Bug,Closed,CLOUD,Cloud Enablement,software,Not a Bug,28/05/2018 12:03,07/06/2018 06:05
+CLOUD-2581,Bug,Closed,CLOUD,Cloud Enablement,software,Done,28/05/2018 06:51,28/05/2018 06:51
+CLOUD-2580,Bug,Closed,CLOUD,Cloud Enablement,software,Done,28/05/2018 06:50,28/05/2018 06:50
+CLOUD-2579,Bug,Verified,CLOUD,Cloud Enablement,software,Done,25/05/2018 13:43,28/06/2018 17:48
+CLOUD-2577,Bug,Closed,CLOUD,Cloud Enablement,software,Cannot Reproduce,25/05/2018 11:01,05/07/2018 09:23
+CLOUD-2576,Bug,Verified,CLOUD,Cloud Enablement,software,Done,25/05/2018 10:29,30/05/2018 10:50
+CLOUD-2574,Bug,Closed,CLOUD,Cloud Enablement,software,Done,25/05/2018 06:21,28/05/2018 04:52
+CLOUD-2573,Bug,Closed,CLOUD,Cloud Enablement,software,Done,25/05/2018 06:14,25/05/2018 06:16
+CLOUD-2572,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,24/05/2018 04:48,14/02/2022 22:12
+CLOUD-2570,Bug,Verified,CLOUD,Cloud Enablement,software,Done,23/05/2018 16:06,25/06/2018 12:48
+CLOUD-2569,Bug,Closed,CLOUD,Cloud Enablement,software,Done,23/05/2018 15:54,05/06/2018 10:51
+CLOUD-2566,Bug,Verified,CLOUD,Cloud Enablement,software,Done,23/05/2018 06:14,16/08/2018 07:11
+CLOUD-2565,Bug,Closed,CLOUD,Cloud Enablement,software,Not a Bug,23/05/2018 06:08,10/08/2018 08:51
+CLOUD-2564,Bug,Closed,CLOUD,Cloud Enablement,software,Done,23/05/2018 05:14,24/05/2018 12:10
+CLOUD-2562,Bug,Closed,CLOUD,Cloud Enablement,software,Done,23/05/2018 03:17,23/05/2018 08:45
+CLOUD-2561,Bug,Closed,CLOUD,Cloud Enablement,software,Done,23/05/2018 02:41,23/05/2018 12:26
+CLOUD-2559,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/05/2018 14:03,28/05/2018 12:33
+CLOUD-2558,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/05/2018 08:03,28/05/2018 04:53
+CLOUD-2551,Bug,Verified,CLOUD,Cloud Enablement,software,Done,17/05/2018 09:33,28/06/2018 10:19
+CLOUD-2549,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,17/05/2018 09:10,26/04/2019 08:54
+CLOUD-2547,Bug,Verified,CLOUD,Cloud Enablement,software,Done,17/05/2018 07:36,05/06/2018 09:30
+CLOUD-2545,Bug,Verified,CLOUD,Cloud Enablement,software,Done,14/05/2018 08:35,30/05/2018 10:41
+CLOUD-2544,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,14/05/2018 05:43,30/11/2018 08:17
+CLOUD-2540,Bug,Closed,CLOUD,Cloud Enablement,software,Done,10/05/2018 01:19,23/08/2018 11:48
+CLOUD-2539,Bug,Closed,CLOUD,Cloud Enablement,software,Not a Bug,09/05/2018 17:07,09/05/2018 22:32
+CLOUD-2538,Bug,Closed,CLOUD,Cloud Enablement,software,Done,07/05/2018 14:09,10/05/2018 15:22
+CLOUD-2532,Task,New,CLOUD,Cloud Enablement,software,,03/05/2018 10:17,
+CLOUD-2528,Bug,Closed,CLOUD,Cloud Enablement,software,Cannot Reproduce,02/05/2018 07:25,09/10/2019 07:30
+CLOUD-2527,Bug,Closed,CLOUD,Cloud Enablement,software,Done,01/05/2018 21:46,08/06/2018 10:57
+CLOUD-2525,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,01/05/2018 16:54,03/05/2018 09:35
+CLOUD-2523,Bug,Closed,CLOUD,Cloud Enablement,software,Cannot Reproduce,30/04/2018 08:38,07/06/2018 05:55
+CLOUD-2521,Bug,Closed,CLOUD,Cloud Enablement,software,Done,30/04/2018 06:41,11/06/2020 09:19
+CLOUD-2519,Task,New,CLOUD,Cloud Enablement,software,Done,27/04/2018 12:10,21/05/2018 07:54
+CLOUD-2518,Feature Request,New,CLOUD,Cloud Enablement,software,,27/04/2018 03:57,
+CLOUD-2516,Bug,Closed,CLOUD,Cloud Enablement,software,Done,25/04/2018 10:36,26/04/2018 14:21
+CLOUD-2515,Bug,Closed,CLOUD,Cloud Enablement,software,Done,25/04/2018 10:34,27/04/2018 13:32
+CLOUD-2513,Bug,Closed,CLOUD,Cloud Enablement,software,Done,25/04/2018 05:53,14/05/2018 15:09
+CLOUD-2512,Bug,Closed,CLOUD,Cloud Enablement,software,Done,24/04/2018 20:49,08/05/2018 16:12
+CLOUD-2511,Bug,Closed,CLOUD,Cloud Enablement,software,Done,24/04/2018 16:47,08/05/2018 16:12
+CLOUD-2509,Bug,Closed,CLOUD,Cloud Enablement,software,Done,24/04/2018 05:36,29/01/2019 09:14
+CLOUD-2505,Bug,Verified,CLOUD,Cloud Enablement,software,Done,23/04/2018 08:48,25/04/2018 10:44
+CLOUD-2504,Bug,Verified,CLOUD,Cloud Enablement,software,Done,23/04/2018 07:16,25/04/2018 15:18
+CLOUD-2501,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/04/2018 11:52,20/04/2018 17:07
+CLOUD-2499,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/04/2018 08:52,23/04/2018 07:21
+CLOUD-2498,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/04/2018 08:52,23/04/2018 07:21
+CLOUD-2496,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/04/2018 06:40,24/04/2018 12:52
+CLOUD-2495,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/04/2018 05:41,24/04/2018 12:21
+CLOUD-2494,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/04/2018 04:53,20/04/2018 05:11
+CLOUD-2492,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/04/2018 09:27,19/04/2018 10:41
+CLOUD-2490,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/04/2018 07:22,24/04/2018 07:36
+CLOUD-2489,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/04/2018 12:24,11/04/2019 06:01
+CLOUD-2487,Task,New,CLOUD,Cloud Enablement,software,,18/04/2018 09:23,
+CLOUD-2486,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/04/2018 09:09,16/05/2018 02:37
+CLOUD-2480,Bug,Verified,CLOUD,Cloud Enablement,software,Done,17/04/2018 00:42,28/06/2018 10:18
+CLOUD-2475,Task,New,CLOUD,Cloud Enablement,software,,13/04/2018 11:16,
+CLOUD-2472,Bug,Closed,CLOUD,Cloud Enablement,software,Done,13/04/2018 04:16,13/04/2018 04:18
+CLOUD-2468,Task,Closed,CLOUD,Cloud Enablement,software,Done,12/04/2018 10:21,12/12/2018 15:14
+CLOUD-2465,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,12/04/2018 03:55,17/04/2018 12:09
+CLOUD-2460,Bug,Verified,CLOUD,Cloud Enablement,software,Done,11/04/2018 04:57,11/04/2018 15:24
+CLOUD-2459,Bug,Verified,CLOUD,Cloud Enablement,software,Done,10/04/2018 16:51,11/04/2018 17:34
+CLOUD-2458,Bug,Verified,CLOUD,Cloud Enablement,software,Done,10/04/2018 11:22,28/06/2018 10:17
+CLOUD-2456,Bug,Closed,CLOUD,Cloud Enablement,software,Done,10/04/2018 10:27,26/04/2018 09:54
+CLOUD-2455,Bug,Closed,CLOUD,Cloud Enablement,software,Done,10/04/2018 06:38,12/04/2018 10:11
+CLOUD-2454,Bug,Closed,CLOUD,Cloud Enablement,software,Done,09/04/2018 20:20,16/04/2018 11:00
+CLOUD-2452,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,09/04/2018 05:56,10/04/2018 09:12
+CLOUD-2451,Bug,Verified,CLOUD,Cloud Enablement,software,Done,08/04/2018 18:54,10/05/2018 15:32
+CLOUD-2449,Feature Request,New,CLOUD,Cloud Enablement,software,,06/04/2018 15:51,
+CLOUD-2440,Bug,New,CLOUD,Cloud Enablement,software,,05/04/2018 21:50,
+CLOUD-2439,Bug,New,CLOUD,Cloud Enablement,software,Done,05/04/2018 14:48,06/04/2018 16:49
+CLOUD-2438,Bug,Verified,CLOUD,Cloud Enablement,software,Done,05/04/2018 10:38,08/06/2018 11:00
+CLOUD-2436,Bug,Verified,CLOUD,Cloud Enablement,software,Done,05/04/2018 04:59,06/04/2018 11:41
+CLOUD-2434,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,04/04/2018 16:00,19/06/2018 19:15
+CLOUD-2433,Feature Request,Verified,CLOUD,Cloud Enablement,software,Done,04/04/2018 15:54,28/06/2018 19:57
+CLOUD-2432,Bug,Verified,CLOUD,Cloud Enablement,software,Done,04/04/2018 12:27,01/10/2018 19:45
+CLOUD-2431,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,04/04/2018 12:14,07/06/2018 05:52
+CLOUD-2430,Feature Request,Closed,CLOUD,Cloud Enablement,software,Duplicate,27/03/2018 11:52,12/09/2019 09:33
+CLOUD-2429,Bug,Verified,CLOUD,Cloud Enablement,software,Done,04/04/2018 09:35,06/04/2018 11:50
+CLOUD-2428,Bug,New,CLOUD,Cloud Enablement,software,Done,04/04/2018 08:38,06/04/2018 16:48
+CLOUD-2427,Bug,New,CLOUD,Cloud Enablement,software,,04/04/2018 07:00,
+CLOUD-2425,Bug,Verified,CLOUD,Cloud Enablement,software,Done,03/04/2018 11:46,05/04/2018 09:37
+CLOUD-2424,Bug,Closed,CLOUD,Cloud Enablement,software,Done,03/04/2018 11:06,16/05/2018 08:28
+CLOUD-2423,Bug,Verified,CLOUD,Cloud Enablement,software,Done,03/04/2018 10:59,28/06/2018 10:32
+CLOUD-2420,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/04/2018 13:20,17/05/2018 15:52
+CLOUD-2419,Bug,Verified,CLOUD,Cloud Enablement,software,Done,29/03/2018 11:03,25/04/2018 07:16
+CLOUD-2417,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,29/03/2018 10:27,28/02/2024 15:54
+CLOUD-2416,Requirement,Closed,CLOUD,Cloud Enablement,software,Done,29/03/2018 09:57,03/04/2018 08:17
+CLOUD-2412,Bug,Closed,CLOUD,Cloud Enablement,software,Done,28/03/2018 05:58,07/06/2018 05:45
+CLOUD-2410,Bug,Verified,CLOUD,Cloud Enablement,software,Done,27/03/2018 07:06,28/03/2018 13:01
+CLOUD-2409,Bug,Closed,CLOUD,Cloud Enablement,software,Done,27/03/2018 04:43,29/03/2018 17:09
+CLOUD-2407,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,23/03/2018 15:02,11/04/2019 05:46
+CLOUD-2406,Bug,Verified,CLOUD,Cloud Enablement,software,Done,23/03/2018 09:05,30/08/2018 11:11
+CLOUD-2404,Task,Closed,CLOUD,Cloud Enablement,software,Obsolete,22/03/2018 10:00,04/04/2018 17:16
+CLOUD-2402,Bug,Verified,CLOUD,Cloud Enablement,software,Done,21/03/2018 12:59,04/04/2018 09:30
+CLOUD-2400,Bug,Verified,CLOUD,Cloud Enablement,software,Done,21/03/2018 09:35,03/04/2018 10:49
+CLOUD-2397,Bug,Closed,CLOUD,Cloud Enablement,software,Done,21/03/2018 06:00,17/04/2018 10:27
+CLOUD-2392,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,20/03/2018 09:57,21/03/2018 04:19
+CLOUD-2387,Bug,New,CLOUD,Cloud Enablement,software,,19/03/2018 06:57,
+CLOUD-2386,Feature Request,Closed,CLOUD,Cloud Enablement,software,Won't Do,16/03/2018 16:44,19/04/2018 08:59
+CLOUD-2383,Task,New,CLOUD,Cloud Enablement,software,Duplicate,15/03/2018 10:49,08/06/2018 12:13
+CLOUD-2382,Feature Request,Closed,CLOUD,Cloud Enablement,software,Won't Do,15/03/2018 09:58,27/03/2018 18:29
+CLOUD-2377,Task,New,CLOUD,Cloud Enablement,software,,13/03/2018 14:58,
+CLOUD-2376,Bug,Verified,CLOUD,Cloud Enablement,software,Done,13/03/2018 10:49,04/04/2018 09:34
+CLOUD-2375,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,13/03/2018 10:08,03/04/2018 18:15
+CLOUD-2366,Bug,Verified,CLOUD,Cloud Enablement,software,Done,07/03/2018 16:06,06/04/2018 11:40
+CLOUD-2365,Bug,Verified,CLOUD,Cloud Enablement,software,Done,07/03/2018 11:09,06/04/2018 11:47
+CLOUD-2364,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,07/03/2018 11:01,18/09/2018 16:27
+CLOUD-2362,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,06/03/2018 09:36,22/08/2018 09:20
+CLOUD-2358,Bug,New,CLOUD,Cloud Enablement,software,Done,05/03/2018 08:09,06/03/2018 11:28
+CLOUD-2356,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,03/03/2018 15:15,06/12/2021 15:07
+CLOUD-2355,Bug,Verified,CLOUD,Cloud Enablement,software,Done,02/03/2018 10:56,19/09/2018 21:11
+CLOUD-2354,Bug,New,CLOUD,Cloud Enablement,software,,02/03/2018 10:53,
+CLOUD-2353,Bug,Verified,CLOUD,Cloud Enablement,software,Done,02/03/2018 09:29,20/06/2018 04:25
+CLOUD-2337,Bug,Closed,CLOUD,Cloud Enablement,software,Done,01/03/2018 08:12,01/03/2018 13:54
+CLOUD-2333,Bug,Verified,CLOUD,Cloud Enablement,software,Done,01/03/2018 03:26,02/03/2018 09:39
+CLOUD-2330,Bug,New,CLOUD,Cloud Enablement,software,,28/02/2018 00:53,
+CLOUD-2328,Bug,Closed,CLOUD,Cloud Enablement,software,Done,26/02/2018 09:38,03/04/2018 12:23
+CLOUD-2324,Task,Closed,CLOUD,Cloud Enablement,software,Won't Do,23/02/2018 02:34,14/03/2018 12:17
+CLOUD-2323,Bug,Verified,CLOUD,Cloud Enablement,software,Done,21/02/2018 11:56,01/03/2018 09:01
+CLOUD-2322,Bug,New,CLOUD,Cloud Enablement,software,,21/02/2018 10:22,
+CLOUD-2320,Bug,New,CLOUD,Cloud Enablement,software,,20/02/2018 21:21,
+CLOUD-2317,Bug,New,CLOUD,Cloud Enablement,software,,20/02/2018 06:51,
+CLOUD-2316,Bug,Verified,CLOUD,Cloud Enablement,software,Done,19/02/2018 12:06,26/02/2018 12:06
+CLOUD-2315,Bug,Verified,CLOUD,Cloud Enablement,software,Done,19/02/2018 10:02,26/02/2018 10:48
+CLOUD-2312,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,16/02/2018 08:52,14/02/2022 22:13
+CLOUD-2307,Bug,Closed,CLOUD,Cloud Enablement,software,Done,15/02/2018 05:46,22/03/2018 10:04
+CLOUD-2305,Bug,Verified,CLOUD,Cloud Enablement,software,Done,14/02/2018 11:19,15/02/2018 09:52
+CLOUD-2304,Task,New,CLOUD,Cloud Enablement,software,Done,13/02/2018 11:18,16/02/2018 09:42
+CLOUD-2302,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,12/02/2018 10:36,29/11/2021 15:20
+CLOUD-2301,Bug,Closed,CLOUD,Cloud Enablement,software,Done,12/02/2018 10:33,13/03/2018 07:47
+CLOUD-2299,Bug,Verified,CLOUD,Cloud Enablement,software,Done,09/02/2018 08:57,08/03/2018 10:01
+CLOUD-2296,Task,Closed,CLOUD,Cloud Enablement,software,Obsolete,07/02/2018 11:10,09/07/2018 12:01
+CLOUD-2291,Bug,Closed,CLOUD,Cloud Enablement,software,Done,05/02/2018 11:51,15/02/2018 13:28
+CLOUD-2285,Bug,New,CLOUD,Cloud Enablement,software,,02/02/2018 11:36,
+CLOUD-2284,Bug,Closed,CLOUD,Cloud Enablement,software,Done,01/02/2018 12:06,08/02/2018 10:48
+CLOUD-2273,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,29/01/2018 11:28,13/02/2018 08:58
+CLOUD-2272,Bug,Closed,CLOUD,Cloud Enablement,software,Done,29/01/2018 07:58,12/11/2018 07:17
+CLOUD-2269,Bug,Verified,CLOUD,Cloud Enablement,software,Done,25/01/2018 12:04,27/02/2018 10:34
+CLOUD-2264,Feature Request,New,CLOUD,Cloud Enablement,software,,22/01/2018 06:33,
+CLOUD-2263,Task,New,CLOUD,Cloud Enablement,software,,22/01/2018 06:32,
+CLOUD-2262,Task,New,CLOUD,Cloud Enablement,software,Done,18/01/2018 10:17,20/12/2019 03:15
+CLOUD-2261,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/01/2018 08:10,23/07/2018 16:40
+CLOUD-2260,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,18/01/2018 06:17,29/03/2022 08:26
+CLOUD-2259,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,17/01/2018 23:16,17/01/2018 23:16
+CLOUD-2257,Feature Request,Closed,CLOUD,Cloud Enablement,software,Won't Do,17/01/2018 09:33,20/07/2020 09:05
+CLOUD-2256,Bug,Closed,CLOUD,Cloud Enablement,software,Done,17/01/2018 03:54,17/01/2018 03:59
+CLOUD-2254,Bug,Closed,CLOUD,Cloud Enablement,software,Done,15/01/2018 06:28,23/03/2020 07:45
+CLOUD-2252,Bug,New,CLOUD,Cloud Enablement,software,,12/01/2018 02:13,
+CLOUD-2251,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,11/01/2018 19:21,06/04/2018 11:45
+CLOUD-2250,Feature Request,New,CLOUD,Cloud Enablement,software,,11/01/2018 14:41,
+CLOUD-2249,Feature Request,New,CLOUD,Cloud Enablement,software,,11/01/2018 13:12,
+CLOUD-2248,Bug,New,CLOUD,Cloud Enablement,software,Done,11/01/2018 07:02,11/01/2018 11:45
+CLOUD-2247,Bug,Closed,CLOUD,Cloud Enablement,software,Not a Bug,10/01/2018 05:24,10/01/2018 07:17
+CLOUD-2246,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,09/01/2018 07:05,09/01/2018 07:16
+CLOUD-2244,Bug,Verified,CLOUD,Cloud Enablement,software,Done,08/01/2018 09:14,08/01/2018 12:10
+CLOUD-2242,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,05/01/2018 16:20,30/11/2020 04:13
+CLOUD-2918,Bug,New,CLOUD,Cloud Enablement,software,,03/08/2017 12:46,
+CLOUD-2901,Feature Request,New,CLOUD,Cloud Enablement,software,,26/10/2017 04:04,
+CLOUD-2240,Task,New,CLOUD,Cloud Enablement,software,,22/12/2017 09:16,
+CLOUD-2239,Bug,New,CLOUD,Cloud Enablement,software,,21/12/2017 08:54,
+CLOUD-2238,Task,New,CLOUD,Cloud Enablement,software,Done,21/12/2017 06:42,15/01/2019 05:00
+CLOUD-2237,Feature Request,Verified,CLOUD,Cloud Enablement,software,Done,20/12/2017 16:19,27/02/2018 12:34
+CLOUD-2236,Bug,New,CLOUD,Cloud Enablement,software,,20/12/2017 13:04,
+CLOUD-2235,Task,Closed,CLOUD,Cloud Enablement,software,Done,19/12/2017 08:36,27/02/2018 15:36
+CLOUD-2230,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,14/12/2017 12:27,14/02/2022 22:14
+CLOUD-2225,Bug,New,CLOUD,Cloud Enablement,software,,13/12/2017 04:08,
+CLOUD-2224,Feature Request,New,CLOUD,Cloud Enablement,software,,11/12/2017 23:43,
+CLOUD-2222,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,08/12/2017 17:52,15/03/2018 09:01
+CLOUD-2221,Bug,Closed,CLOUD,Cloud Enablement,software,Done,08/12/2017 07:34,14/12/2017 05:12
+CLOUD-2219,Feature Request,New,CLOUD,Cloud Enablement,software,,07/12/2017 06:47,
+CLOUD-2217,Bug,New,CLOUD,Cloud Enablement,software,,06/12/2017 10:23,
+CLOUD-2216,Bug,Verified,CLOUD,Cloud Enablement,software,Done,06/12/2017 10:08,04/06/2018 14:03
+CLOUD-2215,Bug,Verified,CLOUD,Cloud Enablement,software,Done,06/12/2017 09:20,15/12/2017 09:58
+CLOUD-2214,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,06/12/2017 08:10,14/02/2022 22:14
+CLOUD-2213,Task,Closed,CLOUD,Cloud Enablement,software,Obsolete,04/12/2017 17:20,27/09/2018 12:11
+CLOUD-2212,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,04/12/2017 10:48,27/03/2018 09:47
+CLOUD-2211,Feature Request,Closed,CLOUD,Cloud Enablement,software,Won't Do,04/12/2017 07:06,14/02/2018 11:03
+CLOUD-2210,Bug,Verified,CLOUD,Cloud Enablement,software,Done,03/12/2017 18:35,05/01/2018 12:21
+CLOUD-2208,Bug,Verified,CLOUD,Cloud Enablement,software,Done,30/11/2017 15:39,09/01/2018 02:28
+CLOUD-2205,Bug,Verified,CLOUD,Cloud Enablement,software,Done,28/11/2017 06:58,27/02/2018 16:57
+CLOUD-2203,Bug,Verified,CLOUD,Cloud Enablement,software,Done,27/11/2017 09:18,03/08/2018 06:56
+CLOUD-2202,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,27/11/2017 02:36,27/11/2017 03:37
+CLOUD-2201,Bug,Verified,CLOUD,Cloud Enablement,software,Done,25/11/2017 09:38,27/11/2017 14:56
+CLOUD-2200,Bug,New,CLOUD,Cloud Enablement,software,Done,24/11/2017 09:49,19/03/2018 15:04
+CLOUD-2199,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,24/11/2017 09:15,11/06/2020 06:06
+CLOUD-2198,Bug,Verified,CLOUD,Cloud Enablement,software,Done,24/11/2017 06:00,28/11/2017 04:44
+CLOUD-2196,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/11/2017 12:18,23/11/2017 07:30
+CLOUD-2195,Bug,Verified,CLOUD,Cloud Enablement,software,Done,21/11/2017 20:45,08/02/2018 15:56
+CLOUD-2192,Bug,Verified,CLOUD,Cloud Enablement,software,Done,21/11/2017 05:58,19/03/2018 11:33
+CLOUD-2191,Bug,Verified,CLOUD,Cloud Enablement,software,Done,20/11/2017 07:17,22/11/2017 02:07
+CLOUD-2190,Bug,Verified,CLOUD,Cloud Enablement,software,Done,19/11/2017 17:44,14/02/2018 08:40
+CLOUD-2189,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,16/11/2017 09:35,22/02/2018 06:43
+CLOUD-2188,Bug,New,CLOUD,Cloud Enablement,software,,16/11/2017 08:24,
+CLOUD-2186,Bug,New,CLOUD,Cloud Enablement,software,,16/11/2017 06:12,
+CLOUD-2185,Feature Request,New,CLOUD,Cloud Enablement,software,,16/11/2017 06:07,
+CLOUD-2184,Bug,New,CLOUD,Cloud Enablement,software,,16/11/2017 06:03,
+CLOUD-2182,Bug,Verified,CLOUD,Cloud Enablement,software,Done,15/11/2017 10:25,27/11/2017 14:51
+CLOUD-2181,Bug,Verified,CLOUD,Cloud Enablement,software,Done,15/11/2017 10:22,27/11/2017 14:49
+CLOUD-2180,Bug,New,CLOUD,Cloud Enablement,software,,15/11/2017 10:06,
+CLOUD-2177,Task,New,CLOUD,Cloud Enablement,software,,15/11/2017 07:29,
+CLOUD-2174,Bug,Closed,CLOUD,Cloud Enablement,software,Done,15/11/2017 03:52,16/11/2017 14:00
+CLOUD-2170,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,10/11/2017 13:48,22/11/2017 07:22
+CLOUD-2169,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,10/11/2017 05:00,21/02/2018 08:56
+CLOUD-2168,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,10/11/2017 04:53,10/11/2017 05:01
+CLOUD-2167,Bug,Verified,CLOUD,Cloud Enablement,software,Done,09/11/2017 11:09,09/11/2017 11:25
+CLOUD-2166,Bug,Verified,CLOUD,Cloud Enablement,software,Done,09/11/2017 10:39,09/11/2017 11:15
+CLOUD-2164,Bug,Verified,CLOUD,Cloud Enablement,software,Done,08/11/2017 06:22,10/11/2017 06:30
+CLOUD-2161,Bug,New,CLOUD,Cloud Enablement,software,,07/11/2017 11:33,
+CLOUD-2160,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,07/11/2017 10:35,13/11/2017 08:23
+CLOUD-2159,Bug,New,CLOUD,Cloud Enablement,software,,07/11/2017 04:34,
+CLOUD-2158,Bug,New,CLOUD,Cloud Enablement,software,,06/11/2017 07:10,
+CLOUD-2157,Bug,Verified,CLOUD,Cloud Enablement,software,Done,06/11/2017 07:07,27/07/2018 13:26
+CLOUD-2156,Bug,Verified,CLOUD,Cloud Enablement,software,Done,06/11/2017 04:15,06/11/2017 09:48
+CLOUD-2154,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,02/11/2017 13:33,11/06/2020 06:06
+CLOUD-2153,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,02/11/2017 12:12,11/04/2019 05:46
+CLOUD-2151,Bug,Verified,CLOUD,Cloud Enablement,software,Done,01/11/2017 18:16,04/04/2018 09:47
+CLOUD-2150,Feature Request,New,CLOUD,Cloud Enablement,software,,01/11/2017 08:18,
+CLOUD-2148,Bug,Verified,CLOUD,Cloud Enablement,software,Done,31/10/2017 05:39,06/11/2017 09:08
+CLOUD-2145,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,26/10/2017 08:00,27/10/2017 01:30
+CLOUD-2138,Bug,Closed,CLOUD,Cloud Enablement,software,Done,26/10/2017 01:03,26/10/2017 04:24
+CLOUD-2134,Bug,Closed,CLOUD,Cloud Enablement,software,Done,24/10/2017 14:08,24/10/2017 14:14
+CLOUD-2127,Bug,Closed,CLOUD,Cloud Enablement,software,Done,23/10/2017 05:12,25/10/2017 12:39
+CLOUD-2121,Bug,Verified,CLOUD,Cloud Enablement,software,Done,20/10/2017 10:15,30/10/2017 06:39
+CLOUD-2120,Bug,Verified,CLOUD,Cloud Enablement,software,Done,20/10/2017 09:56,30/10/2017 06:41
+CLOUD-2119,Bug,Verified,CLOUD,Cloud Enablement,software,Done,20/10/2017 09:50,30/10/2017 06:39
+CLOUD-2117,Bug,Verified,CLOUD,Cloud Enablement,software,Done,18/10/2017 10:45,15/12/2017 09:56
+CLOUD-2116,Bug,New,CLOUD,Cloud Enablement,software,,16/10/2017 19:13,
+CLOUD-2115,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,13/10/2017 16:38,14/02/2022 22:15
+CLOUD-2114,Bug,New,CLOUD,Cloud Enablement,software,Done,13/10/2017 11:51,18/10/2017 11:44
+CLOUD-2112,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,12/10/2017 13:42,06/11/2018 11:44
+CLOUD-2111,Bug,Verified,CLOUD,Cloud Enablement,software,Done,12/10/2017 12:42,08/02/2018 17:04
+CLOUD-2110,Bug,Closed,CLOUD,Cloud Enablement,software,Done,12/10/2017 08:09,12/10/2017 08:18
+CLOUD-2108,Bug,New,CLOUD,Cloud Enablement,software,,11/10/2017 09:45,
+CLOUD-2105,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,10/10/2017 16:32,21/12/2020 10:39
+CLOUD-2104,Bug,Closed,CLOUD,Cloud Enablement,software,Done,10/10/2017 10:12,12/10/2017 03:09
+CLOUD-2103,Feature Request,New,CLOUD,Cloud Enablement,software,,10/10/2017 09:53,
+CLOUD-2095,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,09/10/2017 10:33,18/06/2020 06:22
+CLOUD-2090,Bug,Closed,CLOUD,Cloud Enablement,software,Done,06/10/2017 09:23,09/10/2017 08:15
+CLOUD-2089,Bug,New,CLOUD,Cloud Enablement,software,,06/10/2017 08:40,
+CLOUD-2084,Bug,Verified,CLOUD,Cloud Enablement,software,Done,04/10/2017 19:53,05/06/2018 09:28
+CLOUD-2082,Feature Request,New,CLOUD,Cloud Enablement,software,,04/10/2017 12:50,
+CLOUD-2077,Bug,Verified,CLOUD,Cloud Enablement,software,Done,03/10/2017 20:08,03/08/2018 06:55
+CLOUD-2075,Bug,Verified,CLOUD,Cloud Enablement,software,Done,03/10/2017 15:48,05/10/2017 10:12
+CLOUD-2073,Bug,New,CLOUD,Cloud Enablement,software,,02/10/2017 12:54,
+CLOUD-2072,Bug,Closed,CLOUD,Cloud Enablement,software,Done,28/09/2017 15:36,29/09/2017 11:12
+CLOUD-2071,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,28/09/2017 03:21,06/11/2017 07:36
+CLOUD-2070,Bug,Verified,CLOUD,Cloud Enablement,software,Done,27/09/2017 12:08,08/02/2018 15:54
+CLOUD-2069,Bug,Verified,CLOUD,Cloud Enablement,software,Done,27/09/2017 11:14,02/10/2017 15:17
+CLOUD-2064,Bug,Verified,CLOUD,Cloud Enablement,software,Done,26/09/2017 12:19,29/06/2018 10:27
+CLOUD-2063,Bug,New,CLOUD,Cloud Enablement,software,,26/09/2017 12:19,
+CLOUD-2062,Bug,Verified,CLOUD,Cloud Enablement,software,Done,26/09/2017 11:50,27/09/2017 16:34
+CLOUD-2058,Bug,New,CLOUD,Cloud Enablement,software,,25/09/2017 16:43,
+CLOUD-2056,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,22/09/2017 08:37,19/10/2017 11:41
+CLOUD-2053,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,21/09/2017 12:21,11/04/2019 05:44
+CLOUD-2052,Bug,Verified,CLOUD,Cloud Enablement,software,Done,21/09/2017 09:24,08/02/2018 15:52
+CLOUD-2051,Bug,Verified,CLOUD,Cloud Enablement,software,Done,21/09/2017 08:06,06/11/2017 06:02
+CLOUD-2049,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,21/09/2017 04:50,30/08/2021 15:22
+CLOUD-2048,Task,Closed,CLOUD,Cloud Enablement,software,Won't Do,21/09/2017 04:27,21/09/2017 05:45
+CLOUD-2047,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,20/09/2017 14:12,12/09/2019 09:42
+CLOUD-2045,Bug,Verified,CLOUD,Cloud Enablement,software,Done,20/09/2017 07:20,28/09/2017 17:36
+CLOUD-2043,Bug,Verified,CLOUD,Cloud Enablement,software,Done,14/09/2017 15:49,08/02/2018 15:50
+CLOUD-2040,Bug,Closed,CLOUD,Cloud Enablement,software,Done,14/09/2017 04:53,15/09/2017 09:05
+CLOUD-2035,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,11/09/2017 12:13,29/04/2019 04:11
+CLOUD-2034,Task,Closed,CLOUD,Cloud Enablement,software,Obsolete,11/09/2017 04:39,12/09/2019 09:41
+CLOUD-2030,Bug,Closed,CLOUD,Cloud Enablement,software,Done,07/09/2017 16:16,13/09/2017 08:07
+CLOUD-2023,Bug,Closed,CLOUD,Cloud Enablement,software,Done,04/09/2017 09:10,04/09/2017 10:02
+CLOUD-2022,Bug,Verified,CLOUD,Cloud Enablement,software,Done,04/09/2017 08:56,14/09/2017 11:49
+CLOUD-2021,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,04/09/2017 07:50,14/02/2022 22:16
+CLOUD-2020,Bug,Verified,CLOUD,Cloud Enablement,software,Done,03/09/2017 06:35,29/09/2017 11:34
+CLOUD-2019,Bug,New,CLOUD,Cloud Enablement,software,,02/09/2017 11:51,
+CLOUD-2018,Bug,Verified,CLOUD,Cloud Enablement,software,Done,01/09/2017 11:09,03/10/2017 15:33
+CLOUD-2016,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,31/08/2017 14:28,14/02/2022 22:16
+CLOUD-2014,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,30/08/2017 16:37,29/03/2018 10:08
+CLOUD-2012,Bug,New,CLOUD,Cloud Enablement,software,Done,30/08/2017 06:52,05/01/2018 10:24
+CLOUD-2008,Bug,Verified,CLOUD,Cloud Enablement,software,Done,29/08/2017 04:21,22/09/2017 08:37
+CLOUD-2006,Bug,Verified,CLOUD,Cloud Enablement,software,Done,28/08/2017 14:24,13/09/2017 10:24
+CLOUD-2005,Feature Request,Closed,CLOUD,Cloud Enablement,software,Obsolete,27/08/2017 11:20,23/12/2019 11:44
+CLOUD-2004,Bug,Verified,CLOUD,Cloud Enablement,software,Done,24/08/2017 10:56,02/10/2017 15:00
+CLOUD-2003,Bug,Verified,CLOUD,Cloud Enablement,software,Done,24/08/2017 10:47,06/10/2017 10:54
+CLOUD-2001,Feature Request,New,CLOUD,Cloud Enablement,software,,23/08/2017 02:22,
+CLOUD-1997,Feature Request,Closed,CLOUD,Cloud Enablement,software,Duplicate,18/08/2017 07:21,22/09/2017 08:17
+CLOUD-1996,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,18/08/2017 05:01,23/08/2017 03:03
+CLOUD-1995,Feature Request,New,CLOUD,Cloud Enablement,software,Done,17/08/2017 08:42,28/08/2017 05:49
+CLOUD-1994,Bug,Verified,CLOUD,Cloud Enablement,software,Obsolete,15/08/2017 10:13,19/09/2017 11:22
+CLOUD-1993,Bug,New,CLOUD,Cloud Enablement,software,Done,14/08/2017 09:49,17/08/2017 00:50
+CLOUD-1992,Bug,New,CLOUD,Cloud Enablement,software,Done,14/08/2017 07:32,14/08/2017 09:53
+CLOUD-1991,Feature Request,New,CLOUD,Cloud Enablement,software,,11/08/2017 12:46,
+CLOUD-1990,Bug,Closed,CLOUD,Cloud Enablement,software,Done,11/08/2017 09:22,30/08/2017 10:14
+CLOUD-1988,Bug,New,CLOUD,Cloud Enablement,software,,11/08/2017 06:25,
+CLOUD-1987,Bug,New,CLOUD,Cloud Enablement,software,,11/08/2017 05:14,
+CLOUD-1986,Feature Request,New,CLOUD,Cloud Enablement,software,,10/08/2017 13:52,
+CLOUD-1984,Task,New,CLOUD,Cloud Enablement,software,,09/08/2017 08:40,
+CLOUD-1982,Bug,Verified,CLOUD,Cloud Enablement,software,Done,07/08/2017 10:17,12/09/2017 12:01
+CLOUD-1981,Bug,Verified,CLOUD,Cloud Enablement,software,Done,04/08/2017 10:09,05/09/2017 02:15
+CLOUD-1980,Bug,Verified,CLOUD,Cloud Enablement,software,Done,04/08/2017 09:13,29/06/2018 10:32
+CLOUD-1979,Bug,New,CLOUD,Cloud Enablement,software,,04/08/2017 09:01,
+CLOUD-1978,Bug,Verified,CLOUD,Cloud Enablement,software,Done,04/08/2017 07:34,04/08/2017 08:36
+CLOUD-1976,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,03/08/2017 12:34,04/08/2017 08:30
+CLOUD-1974,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,03/08/2017 12:25,04/08/2017 08:29
+CLOUD-1972,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,03/08/2017 12:16,06/06/2018 08:33
+CLOUD-1971,Feature Request,New,CLOUD,Cloud Enablement,software,,03/08/2017 09:45,
+CLOUD-1970,Feature Request,Verified,CLOUD,Cloud Enablement,software,Done,03/08/2017 09:23,08/02/2018 14:56
+CLOUD-1969,Feature Request,Verified,CLOUD,Cloud Enablement,software,Done,03/08/2017 09:12,08/02/2018 15:27
+CLOUD-1964,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,02/08/2017 08:47,06/06/2018 08:58
+CLOUD-1955,Bug,Verified,CLOUD,Cloud Enablement,software,Done,26/07/2017 14:11,07/08/2017 14:39
+CLOUD-1954,Bug,New,CLOUD,Cloud Enablement,software,Done,25/07/2017 03:38,26/07/2017 16:03
+CLOUD-1951,Bug,Verified,CLOUD,Cloud Enablement,software,Done,24/07/2017 09:16,12/09/2017 11:50
+CLOUD-1950,Bug,Closed,CLOUD,Cloud Enablement,software,Done,24/07/2017 07:42,04/08/2017 09:53
+CLOUD-1948,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,24/07/2017 04:17,05/04/2018 22:07
+CLOUD-1947,Bug,Verified,CLOUD,Cloud Enablement,software,Done,24/07/2017 04:15,07/11/2017 10:51
+CLOUD-1946,Bug,Verified,CLOUD,Cloud Enablement,software,Done,24/07/2017 03:59,24/07/2017 12:29
+CLOUD-1944,Bug,Verified,CLOUD,Cloud Enablement,software,Done,24/07/2017 02:38,07/08/2017 14:40
+CLOUD-1943,Bug,Verified,CLOUD,Cloud Enablement,software,Done,24/07/2017 02:13,07/08/2017 14:35
+CLOUD-1942,Bug,Verified,CLOUD,Cloud Enablement,software,Done,24/07/2017 01:38,04/08/2017 10:24
+CLOUD-1941,Bug,Verified,CLOUD,Cloud Enablement,software,Done,24/07/2017 00:25,09/08/2017 09:42
+CLOUD-1940,Bug,Verified,CLOUD,Cloud Enablement,software,Done,21/07/2017 10:35,07/08/2017 14:32
+CLOUD-1939,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,21/07/2017 08:32,31/07/2017 15:13
+CLOUD-1934,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,20/07/2017 23:50,06/06/2018 08:52
+CLOUD-1933,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,20/07/2017 23:48,05/04/2018 22:08
+CLOUD-1932,Bug,Verified,CLOUD,Cloud Enablement,software,Done,20/07/2017 23:48,03/10/2017 15:51
+CLOUD-1930,Bug,Verified,CLOUD,Cloud Enablement,software,Done,20/07/2017 23:28,07/08/2017 14:37
+CLOUD-1921,Bug,Verified,CLOUD,Cloud Enablement,software,Done,20/07/2017 10:27,20/07/2017 16:25
+CLOUD-1918,Bug,Verified,CLOUD,Cloud Enablement,software,Done,20/07/2017 06:50,20/07/2017 10:17
+CLOUD-1915,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,19/07/2017 15:41,29/03/2018 10:57
+CLOUD-1910,Bug,New,CLOUD,Cloud Enablement,software,,19/07/2017 08:27,
+CLOUD-1909,Bug,New,CLOUD,Cloud Enablement,software,,19/07/2017 08:25,
+CLOUD-1907,Bug,New,CLOUD,Cloud Enablement,software,,19/07/2017 06:58,19/07/2017 10:40
+CLOUD-1906,Bug,New,CLOUD,Cloud Enablement,software,Done,18/07/2017 11:38,21/08/2017 12:10
+CLOUD-1879,Bug,Verified,CLOUD,Cloud Enablement,software,Done,17/07/2017 20:05,02/08/2017 16:57
+CLOUD-1875,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,14/07/2017 06:24,22/11/2017 11:14
+CLOUD-1873,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,12/07/2017 10:10,20/07/2017 03:07
+CLOUD-1869,Bug,Verified,CLOUD,Cloud Enablement,software,Done,11/07/2017 04:55,21/07/2017 02:38
+CLOUD-1868,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,10/07/2017 13:43,27/07/2017 11:24
+CLOUD-1867,Bug,Verified,CLOUD,Cloud Enablement,software,Done,10/07/2017 11:46,08/02/2018 14:35
+CLOUD-1865,Feature Request,Verified,CLOUD,Cloud Enablement,software,Done,07/07/2017 12:04,21/08/2017 11:57
+CLOUD-1862,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,05/07/2017 18:54,11/09/2018 11:59
+CLOUD-1860,Bug,New,CLOUD,Cloud Enablement,software,,05/07/2017 12:19,
+CLOUD-1857,Bug,Closed,CLOUD,Cloud Enablement,software,Done,30/06/2017 08:43,30/06/2017 09:10
+CLOUD-1855,Bug,Closed,CLOUD,Cloud Enablement,software,Done,29/06/2017 14:49,20/07/2017 16:23
+CLOUD-1853,Bug,Closed,CLOUD,Cloud Enablement,software,Done,29/06/2017 07:51,30/06/2017 01:52
+CLOUD-1849,Bug,Verified,CLOUD,Cloud Enablement,software,Done,28/06/2017 03:58,06/09/2017 11:45
+CLOUD-1848,Bug,Verified,CLOUD,Cloud Enablement,software,Done,28/06/2017 03:37,21/08/2017 11:54
+CLOUD-1847,Bug,Closed,CLOUD,Cloud Enablement,software,Done,27/06/2017 10:44,14/03/2023 14:06
+CLOUD-1843,Feature Request,New,CLOUD,Cloud Enablement,software,Done,26/06/2017 05:49,26/06/2017 06:07
+CLOUD-1842,Feature Request,New,CLOUD,Cloud Enablement,software,Done,26/06/2017 05:48,26/06/2017 06:07
+CLOUD-1841,Bug,Verified,CLOUD,Cloud Enablement,software,Done,26/06/2017 03:50,07/08/2017 12:00
+CLOUD-1839,Bug,Closed,CLOUD,Cloud Enablement,software,Done,23/06/2017 11:41,27/06/2017 03:04
+CLOUD-1838,Bug,New,CLOUD,Cloud Enablement,software,,23/06/2017 02:55,
+CLOUD-1837,Bug,Verified,CLOUD,Cloud Enablement,software,Done,23/06/2017 02:52,21/08/2017 11:54
+CLOUD-1836,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/06/2017 12:41,26/06/2017 02:42
+CLOUD-1834,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/06/2017 06:51,23/06/2017 03:00
+CLOUD-1833,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/06/2017 06:50,23/06/2017 02:58
+CLOUD-1832,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/06/2017 06:45,22/06/2017 06:57
+CLOUD-1831,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/06/2017 06:43,22/06/2017 06:57
+CLOUD-1830,Bug,Verified,CLOUD,Cloud Enablement,software,Done,20/06/2017 10:54,26/07/2017 12:42
+CLOUD-1829,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/06/2017 10:07,22/06/2017 01:16
+CLOUD-1827,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/06/2017 08:45,23/06/2017 03:09
+CLOUD-1826,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/06/2017 08:45,23/06/2017 03:09
+CLOUD-1825,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/06/2017 08:44,23/06/2017 03:09
+CLOUD-1824,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/06/2017 08:44,23/06/2017 03:02
+CLOUD-1823,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/06/2017 08:44,23/06/2017 03:02
+CLOUD-1822,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/06/2017 08:44,23/06/2017 03:02
+CLOUD-1821,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/06/2017 08:38,13/10/2017 02:34
+CLOUD-1820,Feature Request,Verified,CLOUD,Cloud Enablement,software,Done,20/06/2017 07:54,18/08/2017 07:20
+CLOUD-1819,Feature Request,Verified,CLOUD,Cloud Enablement,software,Done,20/06/2017 05:50,21/08/2017 11:53
+CLOUD-1818,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/06/2017 05:20,20/06/2017 10:08
+CLOUD-1817,Bug,Verified,CLOUD,Cloud Enablement,software,Done,20/06/2017 04:33,04/09/2017 08:33
+CLOUD-1816,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/06/2017 02:21,22/06/2017 06:57
+CLOUD-1813,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,12/06/2017 10:42,19/07/2017 10:26
+CLOUD-1799,Bug,Closed,CLOUD,Cloud Enablement,software,Done,09/06/2017 09:30,09/06/2017 09:32
+CLOUD-1786,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,09/06/2017 06:51,09/06/2017 07:58
+CLOUD-1785,Bug,Closed,CLOUD,Cloud Enablement,software,Done,09/06/2017 06:32,13/06/2017 04:36
+CLOUD-1782,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,08/06/2017 11:38,02/02/2022 14:46
+CLOUD-1781,Bug,Closed,CLOUD,Cloud Enablement,software,Done,08/06/2017 03:51,21/07/2017 02:38
+CLOUD-1779,Bug,New,CLOUD,Cloud Enablement,software,,08/06/2017 03:17,
+CLOUD-1777,Bug,Closed,CLOUD,Cloud Enablement,software,Done,07/06/2017 01:38,07/06/2017 02:44
+CLOUD-1776,Bug,Closed,CLOUD,Cloud Enablement,software,Done,07/06/2017 01:36,07/06/2017 02:44
+CLOUD-1775,Bug,Closed,CLOUD,Cloud Enablement,software,Done,07/06/2017 01:33,07/06/2017 02:44
+CLOUD-1774,Bug,Closed,CLOUD,Cloud Enablement,software,Done,07/06/2017 01:31,07/06/2017 02:44
+CLOUD-1773,Bug,Closed,CLOUD,Cloud Enablement,software,Done,07/06/2017 01:24,07/06/2017 02:44
+CLOUD-1772,Bug,Closed,CLOUD,Cloud Enablement,software,Done,07/06/2017 01:21,07/06/2017 02:44
+CLOUD-1771,Bug,Closed,CLOUD,Cloud Enablement,software,Done,07/06/2017 01:20,07/06/2017 02:44
+CLOUD-1770,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,06/06/2017 15:15,12/06/2017 15:05
+CLOUD-1769,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,06/06/2017 15:15,12/06/2017 15:05
+CLOUD-1768,Bug,Closed,CLOUD,Cloud Enablement,software,Done,06/06/2017 11:32,07/06/2017 02:44
+CLOUD-1767,Bug,Closed,CLOUD,Cloud Enablement,software,Done,06/06/2017 11:19,06/06/2017 11:29
+CLOUD-1766,Bug,Closed,CLOUD,Cloud Enablement,software,Done,05/06/2017 18:46,06/06/2017 03:13
+CLOUD-1765,Bug,Closed,CLOUD,Cloud Enablement,software,Done,05/06/2017 18:44,06/06/2017 03:13
+CLOUD-1763,Bug,Closed,CLOUD,Cloud Enablement,software,Done,05/06/2017 10:27,05/06/2017 11:20
+CLOUD-1761,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/06/2017 13:38,20/06/2017 09:04
+CLOUD-1760,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/06/2017 13:36,20/06/2017 09:05
+CLOUD-1759,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/06/2017 13:33,20/06/2017 09:02
+CLOUD-1758,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/06/2017 13:30,20/06/2017 09:01
+CLOUD-1757,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/06/2017 13:28,20/06/2017 09:01
+CLOUD-1756,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/06/2017 13:24,20/06/2017 09:04
+CLOUD-1755,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/06/2017 13:22,20/06/2017 09:05
+CLOUD-1754,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/06/2017 13:18,20/06/2017 09:00
+CLOUD-1753,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/06/2017 12:35,20/06/2017 08:58
+CLOUD-1746,Bug,New,CLOUD,Cloud Enablement,software,,01/06/2017 11:44,
+CLOUD-1745,Bug,Verified,CLOUD,Cloud Enablement,software,Done,01/06/2017 09:12,02/10/2017 15:04
+CLOUD-1744,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,30/05/2017 10:38,22/06/2017 01:39
+CLOUD-1743,Bug,Closed,CLOUD,Cloud Enablement,software,Done,30/05/2017 09:50,31/05/2017 09:18
+CLOUD-1742,Bug,Closed,CLOUD,Cloud Enablement,software,Done,30/05/2017 07:42,13/06/2017 13:04
+CLOUD-1740,Bug,Closed,CLOUD,Cloud Enablement,software,Done,29/05/2017 08:37,01/06/2017 10:05
+CLOUD-1738,Bug,Verified,CLOUD,Cloud Enablement,software,Done,29/05/2017 06:53,13/09/2017 13:01
+CLOUD-1737,Bug,Closed,CLOUD,Cloud Enablement,software,Done,29/05/2017 04:32,01/06/2017 10:05
+CLOUD-1736,Bug,Closed,CLOUD,Cloud Enablement,software,Done,29/05/2017 04:20,02/06/2017 07:38
+CLOUD-1734,Bug,Closed,CLOUD,Cloud Enablement,software,Done,26/05/2017 14:51,02/06/2017 03:53
+CLOUD-1733,Bug,Closed,CLOUD,Cloud Enablement,software,Done,26/05/2017 11:41,26/05/2017 20:20
+CLOUD-1732,Bug,New,CLOUD,Cloud Enablement,software,,25/05/2017 14:17,
+CLOUD-1731,Bug,New,CLOUD,Cloud Enablement,software,Obsolete,25/05/2017 10:22,30/08/2017 10:23
+CLOUD-1730,Bug,New,CLOUD,Cloud Enablement,software,,25/05/2017 02:17,
+CLOUD-1728,Bug,Closed,CLOUD,Cloud Enablement,software,Done,24/05/2017 07:25,12/06/2017 09:37
+CLOUD-1727,Bug,Closed,CLOUD,Cloud Enablement,software,Done,24/05/2017 02:52,29/05/2017 09:08
+CLOUD-1726,Bug,Closed,CLOUD,Cloud Enablement,software,Done,24/05/2017 02:51,24/05/2017 02:52
+CLOUD-1725,Bug,Closed,CLOUD,Cloud Enablement,software,Done,24/05/2017 02:51,24/05/2017 02:51
+CLOUD-1724,Bug,Closed,CLOUD,Cloud Enablement,software,Done,24/05/2017 02:51,24/05/2017 02:51
+CLOUD-1723,Bug,Closed,CLOUD,Cloud Enablement,software,Done,24/05/2017 02:51,24/05/2017 02:51
+CLOUD-1722,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,23/05/2017 04:24,13/10/2017 02:32
+CLOUD-1720,Bug,Closed,CLOUD,Cloud Enablement,software,Done,23/05/2017 01:34,24/05/2017 18:27
+CLOUD-1718,Bug,Verified,CLOUD,Cloud Enablement,software,Done,22/05/2017 03:08,28/09/2017 17:26
+CLOUD-1717,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/05/2017 18:32,19/05/2017 18:33
+CLOUD-1716,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/05/2017 18:31,19/05/2017 18:32
+CLOUD-1715,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/05/2017 18:30,19/05/2017 18:31
+CLOUD-1714,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/05/2017 18:29,19/05/2017 18:30
+CLOUD-1713,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/05/2017 18:27,19/05/2017 18:29
+CLOUD-1712,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/05/2017 18:23,19/05/2017 18:24
+CLOUD-1711,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/05/2017 18:22,19/05/2017 18:22
+CLOUD-1710,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/05/2017 18:20,19/05/2017 18:22
+CLOUD-1709,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/05/2017 18:18,20/06/2017 10:36
+CLOUD-1708,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/05/2017 18:17,20/06/2017 10:37
+CLOUD-1707,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/05/2017 18:16,20/06/2017 10:37
+CLOUD-1706,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/05/2017 18:15,20/06/2017 10:34
+CLOUD-1705,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/05/2017 18:14,16/06/2017 12:21
+CLOUD-1704,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/05/2017 18:12,20/06/2017 10:37
+CLOUD-1701,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/05/2017 15:33,02/06/2017 07:40
+CLOUD-1700,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/05/2017 15:08,19/05/2017 15:09
+CLOUD-1699,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,19/05/2017 05:50,22/05/2019 20:17
+CLOUD-1698,Feature Request,New,CLOUD,Cloud Enablement,software,,18/05/2017 15:12,
+CLOUD-1697,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/05/2017 15:07,18/05/2017 15:08
+CLOUD-1696,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/05/2017 15:06,18/05/2017 15:07
+CLOUD-1695,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/05/2017 15:05,18/05/2017 15:06
+CLOUD-1694,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/05/2017 15:04,18/05/2017 15:05
+CLOUD-1693,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/05/2017 15:04,18/05/2017 15:04
+CLOUD-1692,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/05/2017 15:03,18/05/2017 15:03
+CLOUD-1691,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/05/2017 14:36,26/06/2017 02:43
+CLOUD-1690,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/05/2017 14:35,26/06/2017 02:43
+CLOUD-1689,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/05/2017 14:33,26/06/2017 02:43
+CLOUD-1688,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/05/2017 14:33,26/06/2017 02:43
+CLOUD-1687,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/05/2017 14:31,26/06/2017 02:43
+CLOUD-1686,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/05/2017 14:29,26/06/2017 02:48
+CLOUD-1685,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/05/2017 14:22,18/05/2017 14:22
+CLOUD-1684,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/05/2017 14:20,18/05/2017 14:21
+CLOUD-1683,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/05/2017 14:19,09/06/2017 04:00
+CLOUD-1682,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/05/2017 14:17,18/05/2017 14:18
+CLOUD-1681,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/05/2017 14:15,18/05/2017 14:17
+CLOUD-1680,Bug,Verified,CLOUD,Cloud Enablement,software,Done,18/05/2017 06:43,12/09/2017 11:54
+CLOUD-1679,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/05/2017 05:13,26/05/2017 16:57
+CLOUD-1677,Bug,Closed,CLOUD,Cloud Enablement,software,Done,17/05/2017 06:25,09/06/2017 09:32
+CLOUD-1676,Bug,Closed,CLOUD,Cloud Enablement,software,Done,17/05/2017 06:24,09/06/2017 09:33
+CLOUD-1675,Bug,Closed,CLOUD,Cloud Enablement,software,Done,17/05/2017 06:23,09/06/2017 09:33
+CLOUD-1674,Bug,Closed,CLOUD,Cloud Enablement,software,Done,17/05/2017 06:23,09/06/2017 09:33
+CLOUD-1673,Bug,New,CLOUD,Cloud Enablement,software,,16/05/2017 15:42,
+CLOUD-1672,Bug,New,CLOUD,Cloud Enablement,software,,16/05/2017 14:15,
+CLOUD-1669,Bug,Verified,CLOUD,Cloud Enablement,software,Done,15/05/2017 03:31,21/08/2017 11:52
+CLOUD-1668,Bug,Closed,CLOUD,Cloud Enablement,software,Done,10/05/2017 10:19,18/05/2017 15:10
+CLOUD-1664,Bug,New,CLOUD,Cloud Enablement,software,,09/05/2017 11:16,
+CLOUD-1650,Bug,Closed,CLOUD,Cloud Enablement,software,Done,05/05/2017 12:10,12/06/2017 06:35
+CLOUD-1646,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,04/05/2017 11:23,20/06/2017 05:03
+CLOUD-1645,Bug,New,CLOUD,Cloud Enablement,software,,04/05/2017 08:26,
+CLOUD-1644,Bug,Verified,CLOUD,Cloud Enablement,software,Done,04/05/2017 07:40,07/08/2017 14:01
+CLOUD-1640,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,02/05/2017 19:14,26/06/2017 22:18
+CLOUD-1638,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/05/2017 16:41,02/05/2017 16:43
+CLOUD-1637,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/05/2017 16:05,02/05/2017 16:05
+CLOUD-1636,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/05/2017 16:03,02/06/2017 07:38
+CLOUD-1635,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/05/2017 16:02,02/05/2017 16:03
+CLOUD-1634,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/05/2017 16:01,02/05/2017 16:01
+CLOUD-1633,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/05/2017 15:59,02/05/2017 16:00
+CLOUD-1632,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/05/2017 15:58,02/05/2017 15:59
+CLOUD-1631,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/05/2017 15:57,02/05/2017 15:57
+CLOUD-1630,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/05/2017 15:56,02/05/2017 15:56
+CLOUD-1629,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/05/2017 15:55,02/05/2017 15:55
+CLOUD-1628,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/05/2017 15:44,08/06/2017 14:10
+CLOUD-1627,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/05/2017 15:40,08/06/2017 14:10
+CLOUD-1626,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/05/2017 15:29,11/04/2019 06:04
+CLOUD-1621,Bug,New,CLOUD,Cloud Enablement,software,,02/05/2017 10:59,
+CLOUD-1619,Bug,Closed,CLOUD,Cloud Enablement,software,Done,28/04/2017 11:58,20/06/2017 10:36
+CLOUD-1615,Feature Request,New,CLOUD,Cloud Enablement,software,,25/04/2017 07:39,
+CLOUD-1614,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,24/04/2017 12:36,02/05/2017 17:02
+CLOUD-1613,Bug,New,CLOUD,Cloud Enablement,software,,24/04/2017 09:57,
+CLOUD-1601,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/04/2017 12:38,08/06/2017 14:08
+CLOUD-1600,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,20/04/2017 10:56,13/04/2021 16:31
+CLOUD-1599,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/04/2017 08:59,07/06/2017 02:46
+CLOUD-1597,Bug,New,CLOUD,Cloud Enablement,software,,20/04/2017 06:32,
+CLOUD-1589,Bug,Closed,CLOUD,Cloud Enablement,software,Done,13/04/2017 06:25,13/04/2017 10:35
+CLOUD-1588,Bug,Closed,CLOUD,Cloud Enablement,software,Done,13/04/2017 05:29,18/06/2020 06:20
+CLOUD-1587,Bug,Closed,CLOUD,Cloud Enablement,software,Done,13/04/2017 05:24,13/04/2017 10:35
+CLOUD-1576,Bug,Closed,CLOUD,Cloud Enablement,software,Done,12/04/2017 10:48,12/04/2017 12:38
+CLOUD-1575,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,12/04/2017 09:34,18/04/2017 08:53
+CLOUD-1574,Bug,New,CLOUD,Cloud Enablement,software,,12/04/2017 08:07,
+CLOUD-1573,Bug,Closed,CLOUD,Cloud Enablement,software,Done,12/04/2017 06:32,24/05/2017 02:50
+CLOUD-1572,Bug,New,CLOUD,Cloud Enablement,software,,12/04/2017 02:42,
+CLOUD-1571,Bug,New,CLOUD,Cloud Enablement,software,,12/04/2017 02:27,
+CLOUD-1553,Bug,Verified,CLOUD,Cloud Enablement,software,Obsolete,06/04/2017 12:23,24/08/2017 16:08
+CLOUD-1549,Bug,Closed,CLOUD,Cloud Enablement,software,Done,06/04/2017 04:09,06/04/2017 04:09
+CLOUD-1548,Bug,Closed,CLOUD,Cloud Enablement,software,Done,06/04/2017 04:09,15/05/2017 03:29
+CLOUD-1547,Bug,Closed,CLOUD,Cloud Enablement,software,Done,06/04/2017 04:09,06/04/2017 04:09
+CLOUD-1546,Bug,Closed,CLOUD,Cloud Enablement,software,Done,06/04/2017 04:09,06/04/2017 04:09
+CLOUD-1545,Bug,Closed,CLOUD,Cloud Enablement,software,Done,06/04/2017 04:09,06/04/2017 04:09
+CLOUD-1544,Bug,Closed,CLOUD,Cloud Enablement,software,Done,06/04/2017 04:08,06/04/2017 04:09
+CLOUD-1543,Bug,Closed,CLOUD,Cloud Enablement,software,Done,06/04/2017 04:07,06/04/2017 04:07
+CLOUD-1540,Bug,New,CLOUD,Cloud Enablement,software,,05/04/2017 06:01,
+CLOUD-1539,Bug,New,CLOUD,Cloud Enablement,software,,05/04/2017 05:58,
+CLOUD-1538,Bug,New,CLOUD,Cloud Enablement,software,,05/04/2017 05:55,
+CLOUD-1537,Bug,Verified,CLOUD,Cloud Enablement,software,Done,05/04/2017 05:09,06/03/2018 11:21
+CLOUD-1532,Feature Request,New,CLOUD,Cloud Enablement,software,,04/04/2017 11:21,
+CLOUD-1531,Bug,Closed,CLOUD,Cloud Enablement,software,Done,04/04/2017 10:07,06/04/2017 04:10
+CLOUD-1530,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,04/04/2017 09:27,24/08/2017 16:05
+CLOUD-1529,Bug,Verified,CLOUD,Cloud Enablement,software,Done,04/04/2017 08:58,23/08/2017 11:07
+CLOUD-1528,Feature Request,New,CLOUD,Cloud Enablement,software,,04/04/2017 05:24,
+CLOUD-1527,Bug,Closed,CLOUD,Cloud Enablement,software,Done,03/04/2017 08:26,10/04/2017 13:39
+CLOUD-1526,Feature Request,Closed,CLOUD,Cloud Enablement,software,Duplicate,03/04/2017 07:12,10/08/2017 16:07
+CLOUD-1524,Bug,Verified,CLOUD,Cloud Enablement,software,Done,30/03/2017 10:31,28/09/2017 17:28
+CLOUD-1523,Bug,Closed,CLOUD,Cloud Enablement,software,Won't Do,29/03/2017 23:41,30/03/2017 00:02
+CLOUD-1522,Bug,Closed,CLOUD,Cloud Enablement,software,Not a Bug,29/03/2017 15:08,25/07/2018 09:39
+CLOUD-1521,Bug,New,CLOUD,Cloud Enablement,software,,29/03/2017 06:48,
+CLOUD-1520,Bug,Closed,CLOUD,Cloud Enablement,software,Done,29/03/2017 03:23,07/06/2017 02:51
+CLOUD-1519,Bug,Closed,CLOUD,Cloud Enablement,software,Done,28/03/2017 03:46,17/05/2017 17:53
+CLOUD-1518,Bug,New,CLOUD,Cloud Enablement,software,Done,27/03/2017 06:23,03/04/2017 16:36
+CLOUD-1517,Feature Request,Verified,CLOUD,Cloud Enablement,software,Done,27/03/2017 03:30,08/02/2018 15:40
+CLOUD-1516,Bug,Closed,CLOUD,Cloud Enablement,software,Done,27/03/2017 02:36,02/05/2017 15:53
+CLOUD-1515,Bug,Closed,CLOUD,Cloud Enablement,software,Done,24/03/2017 05:37,02/05/2017 13:02
+CLOUD-1514,Bug,Closed,CLOUD,Cloud Enablement,software,Done,24/03/2017 05:22,12/04/2017 18:08
+CLOUD-1513,Bug,Verified,CLOUD,Cloud Enablement,software,Done,24/03/2017 05:21,21/08/2017 11:51
+CLOUD-1512,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,24/03/2017 05:00,07/06/2017 02:50
+CLOUD-1510,Task,New,CLOUD,Cloud Enablement,software,,23/03/2017 05:30,
+CLOUD-1509,Bug,New,CLOUD,Cloud Enablement,software,Done,23/03/2017 03:04,05/04/2017 19:00
+CLOUD-1508,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/03/2017 17:57,10/04/2017 13:21
+CLOUD-1507,Bug,New,CLOUD,Cloud Enablement,software,,22/03/2017 11:59,
+CLOUD-1505,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,22/03/2017 10:08,27/07/2017 11:33
+CLOUD-1504,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/03/2017 09:32,10/04/2017 13:18
+CLOUD-1503,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,22/03/2017 08:08,22/03/2017 09:11
+CLOUD-1502,Bug,Verified,CLOUD,Cloud Enablement,software,Done,21/03/2017 21:01,19/09/2018 21:10
+CLOUD-1501,Bug,Verified,CLOUD,Cloud Enablement,software,Done,21/03/2017 16:26,12/09/2017 13:02
+CLOUD-1500,Bug,Closed,CLOUD,Cloud Enablement,software,Done,20/03/2017 18:14,21/03/2017 16:46
+CLOUD-1498,Bug,Verified,CLOUD,Cloud Enablement,software,Obsolete,20/03/2017 03:34,14/03/2018 15:19
+CLOUD-1495,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,16/03/2017 14:28,14/02/2022 22:19
+CLOUD-1487,Bug,New,CLOUD,Cloud Enablement,software,,15/03/2017 10:35,
+CLOUD-1486,Bug,Closed,CLOUD,Cloud Enablement,software,Done,15/03/2017 05:11,15/03/2017 11:09
+CLOUD-1485,Bug,Verified,CLOUD,Cloud Enablement,software,Done,15/03/2017 05:02,12/09/2017 11:59
+CLOUD-1476,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,08/03/2017 13:51,02/05/2017 12:20
+CLOUD-1475,Bug,Closed,CLOUD,Cloud Enablement,software,Done,08/03/2017 07:59,16/03/2017 10:48
+CLOUD-1474,Bug,Closed,CLOUD,Cloud Enablement,software,Done,08/03/2017 05:55,26/04/2017 07:37
+CLOUD-1473,Bug,Closed,CLOUD,Cloud Enablement,software,Done,08/03/2017 03:21,12/04/2017 18:08
+CLOUD-1472,Bug,Closed,CLOUD,Cloud Enablement,software,Done,08/03/2017 02:57,02/05/2017 18:33
+CLOUD-1468,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,07/03/2017 08:13,14/03/2017 16:41
+CLOUD-1467,Bug,Closed,CLOUD,Cloud Enablement,software,Done,07/03/2017 08:07,24/05/2017 14:27
+CLOUD-1466,Bug,New,CLOUD,Cloud Enablement,software,Done,07/03/2017 08:07,24/05/2017 14:27
+CLOUD-1465,Bug,Closed,CLOUD,Cloud Enablement,software,Done,07/03/2017 08:04,24/05/2017 14:27
+CLOUD-1461,Bug,Closed,CLOUD,Cloud Enablement,software,Done,07/03/2017 07:41,10/04/2017 13:30
+CLOUD-1452,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,06/03/2017 14:31,06/03/2017 14:31
+CLOUD-1451,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,06/03/2017 14:30,16/05/2017 17:52
+CLOUD-1450,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,06/03/2017 14:28,06/03/2017 14:28
+CLOUD-1449,Bug,Verified,CLOUD,Cloud Enablement,software,Done,06/03/2017 13:12,12/09/2017 11:49
+CLOUD-1448,Bug,Verified,CLOUD,Cloud Enablement,software,Done,06/03/2017 07:38,25/07/2018 09:44
+CLOUD-1447,Bug,Closed,CLOUD,Cloud Enablement,software,Done,03/03/2017 18:11,03/03/2017 18:11
+CLOUD-1446,Bug,Closed,CLOUD,Cloud Enablement,software,Done,03/03/2017 18:10,03/03/2017 18:10
+CLOUD-1445,Bug,Closed,CLOUD,Cloud Enablement,software,Done,03/03/2017 18:09,03/03/2017 18:09
+CLOUD-1444,Bug,Closed,CLOUD,Cloud Enablement,software,Done,03/03/2017 18:07,16/05/2017 17:51
+CLOUD-1443,Bug,Closed,CLOUD,Cloud Enablement,software,Done,03/03/2017 18:06,16/05/2017 17:50
+CLOUD-1442,Bug,New,CLOUD,Cloud Enablement,software,,02/03/2017 05:15,
+CLOUD-1437,Bug,Closed,CLOUD,Cloud Enablement,software,Done,01/03/2017 14:56,16/05/2017 17:41
+CLOUD-1436,Bug,Closed,CLOUD,Cloud Enablement,software,Done,01/03/2017 14:55,01/03/2017 14:58
+CLOUD-1435,Bug,Closed,CLOUD,Cloud Enablement,software,Done,01/03/2017 12:17,11/04/2017 09:21
+CLOUD-1434,Bug,Closed,CLOUD,Cloud Enablement,software,Done,01/03/2017 08:49,18/05/2017 15:02
+CLOUD-1432,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,28/02/2017 08:52,31/08/2017 10:35
+CLOUD-1430,Bug,Closed,CLOUD,Cloud Enablement,software,Done,28/02/2017 05:07,01/03/2017 12:04
+CLOUD-1428,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,27/02/2017 12:41,14/02/2022 22:20
+CLOUD-1413,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/02/2017 17:39,22/02/2017 17:40
+CLOUD-1412,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/02/2017 17:38,22/02/2017 17:39
+CLOUD-1411,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/02/2017 17:37,16/05/2017 17:45
+CLOUD-1410,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/02/2017 17:36,16/05/2017 17:47
+CLOUD-1409,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/02/2017 17:34,22/02/2017 17:35
+CLOUD-1400,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,21/02/2017 16:35,21/02/2017 16:36
+CLOUD-1399,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,21/02/2017 16:24,21/02/2017 16:26
+CLOUD-1398,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,21/02/2017 16:21,21/02/2017 16:23
+CLOUD-1397,Feature Request,Verified,CLOUD,Cloud Enablement,software,Done,21/02/2017 16:19,21/02/2017 16:21
+CLOUD-1396,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,21/02/2017 16:16,16/05/2017 13:33
+CLOUD-1395,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,21/02/2017 16:16,01/03/2017 14:43
+CLOUD-1393,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,21/02/2017 11:54,21/02/2017 11:57
+CLOUD-1392,Bug,New,CLOUD,Cloud Enablement,software,Done,21/02/2017 11:53,23/02/2017 12:56
+CLOUD-1372,Bug,Closed,CLOUD,Cloud Enablement,software,Done,16/02/2017 12:35,19/05/2017 15:08
+CLOUD-1371,Bug,New,CLOUD,Cloud Enablement,software,,16/02/2017 07:50,
+CLOUD-1369,Bug,New,CLOUD,Cloud Enablement,software,,15/02/2017 10:50,
+CLOUD-1368,Bug,New,CLOUD,Cloud Enablement,software,,15/02/2017 08:47,
+CLOUD-1367,Bug,Verified,CLOUD,Cloud Enablement,software,Done,15/02/2017 08:09,27/07/2018 13:28
+CLOUD-1350,Bug,Verified,CLOUD,Cloud Enablement,software,Done,14/02/2017 08:06,08/02/2018 15:30
+CLOUD-1349,Bug,Closed,CLOUD,Cloud Enablement,software,Done,10/02/2017 11:47,02/03/2017 18:10
+CLOUD-1322,Bug,Closed,CLOUD,Cloud Enablement,software,Done,07/02/2017 16:22,27/09/2017 11:01
+CLOUD-1307,Bug,Closed,CLOUD,Cloud Enablement,software,Done,01/02/2017 10:37,03/03/2017 18:15
+CLOUD-1300,Bug,Closed,CLOUD,Cloud Enablement,software,Done,30/01/2017 15:34,16/05/2017 13:31
+CLOUD-1292,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,27/01/2017 05:14,06/03/2017 14:27
+CLOUD-1284,Bug,Closed,CLOUD,Cloud Enablement,software,Done,24/01/2017 06:10,24/05/2017 02:53
+CLOUD-1281,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,23/01/2017 08:08,24/01/2017 05:57
+CLOUD-1256,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/01/2017 09:37,26/06/2017 20:21
+CLOUD-1236,Bug,Closed,CLOUD,Cloud Enablement,software,Done,03/01/2017 11:21,16/05/2017 13:31
+CLOUD-1234,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/01/2017 04:31,03/01/2017 05:01
+CLOUD-1168,Bug,Closed,CLOUD,Cloud Enablement,software,Done,06/12/2016 11:17,24/05/2017 02:53
+CLOUD-1150,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/11/2016 08:31,29/11/2016 08:44
+CLOUD-1149,Bug,Closed,CLOUD,Cloud Enablement,software,Done,22/11/2016 08:30,29/11/2016 08:43
+CLOUD-1147,Bug,Closed,CLOUD,Cloud Enablement,software,Done,21/11/2016 09:25,03/03/2017 17:07
+CLOUD-1145,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/11/2016 08:02,24/05/2017 14:26
+CLOUD-1143,Bug,Closed,CLOUD,Cloud Enablement,software,Done,17/11/2016 16:00,29/05/2017 09:53
+CLOUD-1140,Bug,Closed,CLOUD,Cloud Enablement,software,Done,17/11/2016 15:15,07/06/2017 02:48
+CLOUD-1139,Bug,Closed,CLOUD,Cloud Enablement,software,Done,17/11/2016 12:06,01/12/2016 04:47
+CLOUD-1138,Bug,Closed,CLOUD,Cloud Enablement,software,Done,17/11/2016 12:05,01/12/2016 04:46
+CLOUD-1132,Bug,Closed,CLOUD,Cloud Enablement,software,Done,15/11/2016 04:52,16/05/2017 13:31
+CLOUD-1123,Bug,Closed,CLOUD,Cloud Enablement,software,Done,11/11/2016 03:57,18/05/2017 15:59
+CLOUD-1071,Bug,Closed,CLOUD,Cloud Enablement,software,Done,03/11/2016 06:14,06/02/2017 15:53
+CLOUD-1070,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/11/2016 09:39,03/11/2016 07:27
+CLOUD-1069,Bug,Closed,CLOUD,Cloud Enablement,software,Done,02/11/2016 09:39,03/11/2016 07:28
+CLOUD-1066,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,01/11/2016 18:05,05/04/2017 05:40
+CLOUD-1043,Bug,Closed,CLOUD,Cloud Enablement,software,Done,21/10/2016 06:24,01/02/2017 10:19
+CLOUD-1041,Bug,Closed,CLOUD,Cloud Enablement,software,Done,21/10/2016 06:23,03/03/2017 15:12
+CLOUD-1040,Bug,Closed,CLOUD,Cloud Enablement,software,Done,21/10/2016 06:22,01/02/2017 10:19
+CLOUD-1027,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/10/2016 09:55,14/02/2017 13:12
+CLOUD-1026,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/10/2016 09:54,14/02/2017 13:11
+CLOUD-1024,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/10/2016 09:52,14/02/2017 13:12
+CLOUD-1023,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/10/2016 09:51,14/02/2017 13:11
+CLOUD-1021,Bug,Closed,CLOUD,Cloud Enablement,software,Done,17/10/2016 16:39,10/04/2017 18:47
+CLOUD-1008,Bug,Closed,CLOUD,Cloud Enablement,software,Done,11/10/2016 11:32,12/10/2016 10:28
+CLOUD-1007,Bug,Closed,CLOUD,Cloud Enablement,software,Done,11/10/2016 11:32,12/10/2016 10:29
+CLOUD-989,Bug,Closed,CLOUD,Cloud Enablement,software,Done,06/10/2016 04:46,17/10/2016 04:25
+CLOUD-988,Bug,Closed,CLOUD,Cloud Enablement,software,Done,06/10/2016 04:02,06/10/2016 08:45
+CLOUD-949,Bug,Closed,CLOUD,Cloud Enablement,software,Done,29/09/2016 11:42,18/05/2017 13:48
+CLOUD-946,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,28/09/2016 13:21,15/05/2017 02:18
+CLOUD-944,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,28/09/2016 10:11,12/04/2017 09:17
+CLOUD-922,Bug,Closed,CLOUD,Cloud Enablement,software,Done,23/09/2016 07:46,23/09/2016 10:08
+CLOUD-920,Bug,Closed,CLOUD,Cloud Enablement,software,Done,23/09/2016 06:59,23/09/2016 10:08
+CLOUD-918,Bug,Closed,CLOUD,Cloud Enablement,software,Done,23/09/2016 06:57,23/09/2016 10:07
+CLOUD-915,Bug,Closed,CLOUD,Cloud Enablement,software,Done,23/09/2016 06:53,23/09/2016 10:07
+CLOUD-913,Bug,Closed,CLOUD,Cloud Enablement,software,Done,23/09/2016 06:32,23/09/2016 10:06
+CLOUD-906,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,20/09/2016 13:03,12/04/2017 09:18
+CLOUD-901,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/09/2016 09:49,22/09/2016 04:48
+CLOUD-899,Bug,Closed,CLOUD,Cloud Enablement,software,Done,14/09/2016 04:50,03/10/2016 09:34
+CLOUD-898,Bug,Closed,CLOUD,Cloud Enablement,software,Done,14/09/2016 04:49,03/10/2016 09:34
+CLOUD-897,Bug,Closed,CLOUD,Cloud Enablement,software,Done,14/09/2016 04:48,25/04/2017 05:30
+CLOUD-896,Bug,Closed,CLOUD,Cloud Enablement,software,Done,12/09/2016 07:13,19/09/2016 06:19
+CLOUD-895,Bug,Closed,CLOUD,Cloud Enablement,software,Done,12/09/2016 07:04,19/09/2016 06:18
+CLOUD-892,Bug,Closed,CLOUD,Cloud Enablement,software,Done,09/09/2016 14:51,15/02/2017 16:33
+CLOUD-883,Bug,Closed,CLOUD,Cloud Enablement,software,Done,17/08/2016 12:18,26/06/2017 02:43
+CLOUD-881,Bug,Closed,CLOUD,Cloud Enablement,software,Done,11/08/2016 16:32,01/03/2017 14:52
+CLOUD-879,Bug,Closed,CLOUD,Cloud Enablement,software,Done,10/08/2016 11:53,14/02/2017 15:06
+CLOUD-869,Bug,Closed,CLOUD,Cloud Enablement,software,Done,28/07/2016 04:05,18/05/2017 13:48
+CLOUD-864,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,22/07/2016 19:43,17/02/2017 19:22
+CLOUD-841,Bug,Closed,CLOUD,Cloud Enablement,software,Duplicate,12/07/2016 10:17,16/05/2017 18:11
+CLOUD-834,Bug,Closed,CLOUD,Cloud Enablement,software,Done,11/07/2016 02:36,18/05/2017 13:42
+CLOUD-818,Feature Request,Closed,CLOUD,Cloud Enablement,software,Duplicate,04/07/2016 07:19,16/05/2017 18:22
+CLOUD-794,Feature Request,Verified,CLOUD,Cloud Enablement,software,Done,23/06/2016 03:31,21/08/2017 11:51
+CLOUD-792,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,23/06/2016 03:22,01/03/2017 15:16
+CLOUD-789,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,23/06/2016 03:16,28/02/2017 16:55
+CLOUD-786,Feature Request,New,CLOUD,Cloud Enablement,software,,23/06/2016 03:10,
+CLOUD-785,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,23/06/2016 03:07,01/03/2017 15:12
+CLOUD-784,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,23/06/2016 03:05,24/05/2017 02:59
+CLOUD-736,Bug,Closed,CLOUD,Cloud Enablement,software,Done,01/06/2016 11:46,19/05/2017 15:11
+CLOUD-726,Bug,Closed,CLOUD,Cloud Enablement,software,Done,31/05/2016 05:15,16/05/2017 18:06
+CLOUD-725,Bug,Closed,CLOUD,Cloud Enablement,software,Done,31/05/2016 05:14,14/03/2017 13:53
+CLOUD-717,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,27/05/2016 10:26,15/03/2017 14:25
+CLOUD-700,Bug,Closed,CLOUD,Cloud Enablement,software,Done,23/05/2016 05:05,10/04/2017 13:31
+CLOUD-694,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/05/2016 10:49,18/05/2017 13:42
+CLOUD-693,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,19/05/2016 10:14,02/05/2017 18:22
+CLOUD-683,Bug,Verified,CLOUD,Cloud Enablement,software,Done,17/05/2016 23:04,07/08/2017 13:58
+CLOUD-655,Bug,Closed,CLOUD,Cloud Enablement,software,Obsolete,06/05/2016 03:26,16/05/2017 18:14
+CLOUD-593,Bug,Closed,CLOUD,Cloud Enablement,software,Done,05/04/2016 10:34,16/05/2017 18:01
+CLOUD-582,Bug,Closed,CLOUD,Cloud Enablement,software,Done,31/03/2016 09:37,06/03/2017 14:05
+CLOUD-576,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,29/03/2016 08:54,06/06/2017 14:46
+CLOUD-512,Feature Request,Closed,CLOUD,Cloud Enablement,software,Done,29/02/2016 05:12,21/02/2017 16:14
+CLOUD-495,Bug,Closed,CLOUD,Cloud Enablement,software,Done,19/02/2016 04:15,18/10/2016 10:25
+CLOUD-484,Bug,Verified,CLOUD,Cloud Enablement,software,Obsolete,12/02/2016 02:58,08/03/2017 06:12
+CLOUD-453,Bug,Closed,CLOUD,Cloud Enablement,software,Done,18/12/2015 07:08,16/05/2017 18:01
+CLOUD-434,Bug,Closed,CLOUD,Cloud Enablement,software,Done,10/12/2015 03:09,16/05/2017 18:02
+CLOUD-431,Bug,Closed,CLOUD,Cloud Enablement,software,Done,09/12/2015 03:58,28/02/2017 07:46
+CLOUD-386,Bug,Closed,CLOUD,Cloud Enablement,software,Done,24/11/2015 06:11,02/05/2017 18:37
+CLOUD-233,Bug,Closed,CLOUD,Cloud Enablement,software,Done,15/09/2015 13:34,01/03/2017 15:17
+CLOUD-57,Bug,Closed,CLOUD,Cloud Enablement,software,Done,28/04/2015 04:19,06/06/2017 14:46
+CLOUD-47,Bug,Verified,CLOUD,Cloud Enablement,software,Obsolete,22/04/2015 07:35,07/02/2017 18:30
