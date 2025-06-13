@@ -26,8 +26,10 @@ Planned Arrival Rate: 0.137 PBIs/day
 Unplanned Arrival Rate: 0.731 PBIs/day
 Cancelled/Rejected/Won't Do Rate: 0.113 PBIs/day
 Net Arrival Rate: 0.755 PBIs/day
+LS Arrival Rate: 0.777 PBIs/day
 Service Rate: 0.528 PBIs/day
 
+Inter-Service Rate: 1.894 Days/PBI
 
 Metrics:
 Stability: 0.699
@@ -60,8 +62,11 @@ Rates:
 Planned Arrival Rate: 0.163 PBIs/day
 Unplanned Arrival Rate: 1.98 PBIs/day
 Cancelled/Rejected/Won't Do Rate: 0.288 PBIs/day
-Net Arrival Rate: 1.863 PBIs/day
+Net Arrival Rate: 1.855 PBIs/day
+LS Arrival Rate: 1.863 PBIs/day
 Service Rate: 1.188 PBIs/day
+
+Inter-Service Rate: 0.842 Days/PBI
 
 Metrics:
 Stability: 0.64

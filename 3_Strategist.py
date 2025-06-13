@@ -412,8 +412,35 @@ def my_plot_stability(t_ba, arr_cum, t_bs, ser_cum, t_b, back, t_ave_a, arr_ls, 
     #plt.show()
     plt.clf() 
 
-# Create a feedback and control chart based on lots of information
+# Interservice time    
+def my_interservice(t_bs, x_t, t_ave_s, x_ave, sname, g):
+    plt.rcParams["figure.figsize"] = (10, 7)
+    plt.plot(t_bs, x_t, label = "x", color="orange", linestyle="-")
+    plt.plot(t_ave_s, x_ave, label = "x_bar:"+str(x_ave[0]), color="purple", linestyle=":")
+    plt.ylabel("Interservice Time (days)", fontweight ='bold', fontsize = 15)
+    plt.xlabel("Resolution Date", fontweight ='bold', fontsize = 15)
+    plt.legend(loc='upper left')
+    plt.title(sname+"_Interservice time distribution - "+g, fontweight ='bold', fontsize = 18)
+    plt.tight_layout()
+    plt.savefig(sname+"_InterserviceTime_"+g+".png")
+    #plt.show()
+    plt.clf() 
 
+# lambda_calc
+def my_lambda_calc(alpha, epsilon, gamma):
+    if alpha != "NaN" and epsilon != "NaN" and gamma != "NaN":
+        lambda_calc = alpha+epsilon-gamma
+    elif alpha == "NaN" and epsilon != "NaN" and gamma != "NaN":
+        lambda_calc = epsilon-gamma
+    elif alpha != "NaN" and epsilon == "NaN" and gamma != "NaN":
+        lambda_calc = alpha-gamma    
+    elif alpha != "NaN" and epsilon != "NaN" and gamma == "NaN":
+        lambda_calc = alpha+epsilon
+    else:
+        lambda_calc = 0
+    return(lambda_calc)
+
+# Create a feedback and control chart based on lots of information
 def my_plot_feed_ctrl(t_bf, alp_cum, t_be, err_cum, t_bc, cxl_cum, 
                       t_bs, ser_cum,
                       t_ave_f, alp_ls, alpha, 
@@ -524,6 +551,7 @@ def my_last100(t_x, cumg, first_r):
     lso = my_leastsquares(first_r, t_x100, x100)
 
     return(lso[0],t_x100,x100,lso[1],lso[2],lso[3])
+
 
 ## Open Yaml File of inputs and read the important ones
 parser = argparse.ArgumentParser()
@@ -642,6 +670,8 @@ for i in lamda_outs:
     arr_cum.append(cuml)
 louts = my_leastsquares(t_ba[0], t_ba, arr_cum)
 lamda = louts[0] # Slope of the least squares line through all datapoints
+if lamda == "NaN":
+    lamda = 0
 arr_ls = louts[1] # Line of least squares
 R2_lambda = louts[2] # R-squared value for least squares
 c_arr = louts[3] # y value at x=0. The c in y = mx+c
@@ -656,6 +686,20 @@ ser_ls = mu_outs[3] # Line of least squares
 R2_mu = mu_outs[4] # R-squared value for least squares
 c_mu = mu_outs[5] # y value at x=0. The c in y = mx+c
 t_ave_s = [t_bs[0],t_bs[-1]] # Get first and last elements  
+
+# Inter-Service Rate
+x_t = [0]
+i = 0
+while i < len(t_bs)-1:
+    x = (t_bs[i+1]-t_bs[i]).days
+    x_t.append(x)
+    i = i+1
+if mu == 0:
+    x_bar = 0 # Setting this to 0 to prevent downstream issues
+else:
+    x_bar = round(1/mu,3)
+x_ave = [x_bar,x_bar]
+my_interservice(t_bs, x_t, t_ave_s, x_ave, sname, "all")
 
 # Comparing the model backlog to the actual
 beta = []
@@ -706,6 +750,9 @@ else:
     else:
         mod_err = 1  
 
+# lambda_calc
+lambda_calc=my_lambda_calc(alpha, epsilon, gamma)
+
 ## Metrics 
 if alpha == "NaN" or epsilon == "NaN" or gamma == "NaN" or mu == "NaN":
     psi = "NaN"
@@ -740,7 +787,7 @@ else:
     strategy=my_strategy(psi, inventory_days, "all")
 
 # Plots
-my_plot_stability(t_ba, arr_cum, t_bs, ser_cum, t_b, back, t_ave_a, arr_ls, lamda, t_ave_s, ser_ls, mu, sname, psi, "all") 
+my_plot_stability(t_ba, arr_cum, t_bs, ser_cum, t_b, back, t_ave_a, arr_ls, lambda_calc, t_ave_s, ser_ls, mu, sname, psi, "all") 
 my_plot_feed_ctrl(t_bf, alp_cum, t_be, err_cum, t_bc, cxl_cum, t_bs, ser_cum, 
                    t_ave_f, alp_ls, alpha, t_ave_e, err_ls, epsilon, t_ave_c, 
                    cxl_ls, gamma, t_ave_s, ser_ls, mu, t_b, back, t_beta, beta, 
@@ -780,8 +827,10 @@ f.write("\nRates:\n")
 f.write("Planned Arrival Rate: "+str(alpha)+" PBIs/day\n")
 f.write("Unplanned Arrival Rate: "+str(epsilon)+" PBIs/day\n")
 f.write("Cancelled/Rejected/Won't Do Rate: "+str(gamma)+" PBIs/day\n")
-f.write("Net Arrival Rate: "+str(round(alpha+epsilon-gamma,3))+" PBIs/day\n")
+f.write("Net Arrival Rate: "+str(round(lambda_calc,3))+" PBIs/day\n")
+f.write("LS Arrival Rate: "+str(round(lamda,3))+" PBIs/day\n")
 f.write("Service Rate: "+str(round(mu,3))+" PBIs/day\n\n")
+f.write("Inter-Service Rate: "+str(x_bar)+" Days/PBI\n")
 f.write("\nMetrics:\n")
 f.write("Stability: "+str(psi)+"\n")
 f.write("Quality: "+str(nu)+"\n") 
@@ -797,7 +846,9 @@ Planned Arrivals (PBIs),Unplanned Arrivals (PBIs),Cancelled Arrivals (PBIs),\
 Net Arrivals (PBIs),Services (PBIs),Measured System Size (PBIs),\
 Planned Arrival Rate - alpha (PBIs/day),Unplanned Arrival Rate - epsilon (PBIs/day),\
 Cancelled Rate - gamma (PBIs/day),Service Rate - mu (PBIs/day),\
+Net Arrival Rate - lambda (PBIs/day),LS Arrival Rate - lambda_LS (PBIs/day),\
 Psi,Nu,Zeta,Inventory Days,Strategy,\
+Inter-service rate (Days/PBI),\
 alpha R^2,epsilon R^2,gamma R^2,mu R^2,\
 Date/Time of Analysis,Notes\n")
 g.write(sname+",All,"+str(t_delta)+","+str(t_b[0])+","+str(t_b[-1])+",")
@@ -806,10 +857,13 @@ g.write(str(alp_cum[-1])+","+str(err_cum[-1])+","+str(cxl_cum[-1])+",")
 g.write(str(alp_cum[-1]+err_cum[-1]-cxl_cum[-1])+","+str(ser_cum[-1])+","+str(back[-1])+",")
 g.write(str(alpha)+","+str(epsilon)+",")
 g.write(str(gamma)+","+str(mu)+",")
+g.write(str(round(lambda_calc,3))+","+str(lamda)+",")
 g.write(str(psi)+","+str(nu)+","+str(zeta)+","+str(inventory_days)+","+strategy+",")
+g.write(str(x_bar)+",")
 g.write(str(R2_alpha)+","+str(R2_epsilon)+","+str(R2_gamma)+","+str(R2_mu)+",")
 g.write(str(datetime.now())+",,\n")
 g.close
+
 
 ## Last 100 days unfiltered charts
 last100_start_date = last_pbi - timedelta(days=100)
@@ -877,6 +931,9 @@ R2_mu = mu_outs[4] # R-squared value for least squares
 c_mu = mu_outs[5] # y value at x=0. The c in y = mx+c
 t_ave_s = [t_bs[0],t_bs[-1]] # Get first and last elements  
 
+# Inter-Services timeline
+
+
 # Percentage error between the modelled system size and actual. Includes workaround for the situation where the system is of size 0
 if back[-1] > 0:
     mod_err = round(abs(Beta_end-(back[-1]-min_backlog))/(back[-1]-min_backlog),2)
@@ -885,6 +942,8 @@ else:
         mod_err = 0
     else:
         mod_err = 1  
+
+lambda_calc = my_lambda_calc(alpha, epsilon, gamma)
 
 ## Metrics
 if alpha == "NaN" or epsilon == "NaN" or gamma == "NaN" or mu == "NaN":
@@ -920,11 +979,20 @@ else:
     else:
        strategy = "Indeterminate" 
     
-    my_plot_stability(t_ba, arr_cum, t_bs, ser_cum, t_b, back, t_ave_a, arr_ls, lamda, t_ave_s, ser_ls, mu, sname, psi, "last100") 
+    my_plot_stability(t_ba, arr_cum, t_bs, ser_cum, t_b, back, t_ave_a, arr_ls, lambda_calc, t_ave_s, ser_ls, mu, sname, psi, "last100") 
     my_plot_feed_ctrl(t_bf, alp_cum, t_be, err_cum, t_bc, cxl_cum, t_bs, ser_cum, 
                         t_ave_f, alp_ls, alpha, t_ave_e, err_ls, epsilon, t_ave_c, 
                         cxl_ls, gamma, t_ave_s, ser_ls, mu, t_b, back, t_beta, beta, 
                         sname, "last100")
+    # Inter-Service Rate
+    x_t = [0]
+    i = 0
+    while i < len(t_bs)-1:
+        x = (t_bs[i+1]-t_bs[i]).days
+        x_t.append(x)
+        i = i+1
+    x_ave = [round(1/mu,3),round(1/mu,3)]
+    my_interservice(t_bs, x_t, t_ave_s, x_ave, sname, "last100")
 
     # Exponential and Poisson Distributions
     GoFs = my_poisson(t_bs, mu, sname+'_'+'Services', "last100")
@@ -954,8 +1022,19 @@ f.write("\nRates:\n")
 f.write("Planned Arrival Rate: "+str(alpha)+" PBIs/day\n")
 f.write("Unplanned Arrival Rate: "+str(epsilon)+" PBIs/day\n")
 f.write("Cancelled/Rejected/Won't Do Rate: "+str(gamma)+" PBIs/day\n")
-f.write("Net Arrival Rate: "+str(lamda)+" PBIs/day\n")
-f.write("Service Rate: "+str(mu)+" PBIs/day\n")
+f.write("Net Arrival Rate: "+str(round(lambda_calc,3))+" PBIs/day\n")
+if lamda == "NaN":
+    f.write("LS Arrival Rate: NaN PBIs/day\n")
+else:
+    lamda = round(lamda,3)
+    f.write("LS Arrival Rate: "+str(lamda)+" PBIs/day\n")
+f.write("Service Rate: "+str(mu)+" PBIs/day\n\n")
+if mu == "NaN":
+    x_bar = "NaN"
+    f.write("Inter-Service Rate: NaN Days/PBI\n")
+else:
+    x_bar = round(1/mu,3)
+    f.write("Inter-Service Rate: "+str(round(1/mu,3))+" Days/PBI\n")
 f.write("\nMetrics:\n")
 f.write("Stability: "+str(psi)+"\n")
 f.write("Quality: "+str(nu)+"\n") 
@@ -971,7 +1050,9 @@ Planned Arrivals (PBIs),Unplanned Arrivals (PBIs),Cancelled Arrivals (PBIs),\
 Net Arrivals (PBIs),Services (PBIs),Measured System Size (PBIs),\
 Planned Arrival Rate - alpha (PBIs/day),Unplanned Arrival Rate - epsilon (PBIs/day),\
 Cancelled Rate - gamma (PBIs/day),Service Rate - mu (PBIs/day),\
+Net Arrival Rate - lambda (PBIs/day),LS Arrival Rate - lambda_LS (PBIs/day),\
 Psi,Nu,Zeta,Inventory Days,Strategy,\
+Inter-service rate (Days/PBI),\
 alpha R^2,epsilon R^2,gamma,mu R^2,\
 Date/Time of Analysis,Notes\n")
 print(alp_cum[-1],alp_cum[0],err_cum[-1],err_cum[0],cxl_cum[-1],cxl_cum[0],ser_cum[-1],ser_cum[0],back[-1],back[0])
@@ -981,10 +1062,13 @@ g.write(str(alp_cum[-1]-alp_cum[0]+1)+","+str(err_cum[-1]-err_cum[0]+1)+","+str(
 g.write("N/A,"+str(ser_cum[-1]-ser_cum[0]+1)+","+str(back[-1]-back[0])+",")
 g.write(str(alpha)+","+str(epsilon)+",")
 g.write(str(gamma)+","+str(mu)+",")
+g.write(str(lambda_calc)+","+str(lamda)+",")
 g.write(str(psi)+","+str(nu)+","+str(zeta)+","+str(inventory_days)+","+strategy+",")
+g.write(str(x_bar)+",")
 g.write(str(R2_alpha)+","+str(R2_epsilon)+","+str(R2_gamma)+","+str(R2_mu)+",")
 g.write(str(datetime.now())+",,\n")
 g.close
 
 
 f.close() 
+
