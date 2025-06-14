@@ -1,0 +1,26 @@
+All PBIS - Unfiltered 
+Start date: 2017-07-04 12:53:00 End date: 2017-12-11 09:03:00
+System: {'ITINOESGI': 127}
+Types: {'Improvement': 2, 'Task': 15, 'Bug': 87, 'New Feature': 23}
+Resolutions: {'To Do': 7, 'Done': 119, 'In progress': 1}
+Statuses: {'To Do': 7, 'Done': 119, 'In progress': 1}
+
+Average Lead Time (all PBIs): 10.7 days
+Average Lead Time (Bug): 4.1 days
+Average Lead Time (New Feature): 33.2 days
+Average Lead Time (Task): 19.2 days
+Average Lead Time (Improvement): 1.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2017-09-02 09:03:00 End date: 2017-12-11 09:03:00
+System: {'ITINOESGI': 17}
+Types: {'Improvement': 1, 'Task': 3, 'Bug': 8, 'New Feature': 5}
+Resolutions: {'To Do': 5, 'Done': 12}
+Statuses: {'To Do': 5, 'Done': 12}
+
+Average Lead Time (all PBIs): 48.3 days
+Average Lead Time (Bug): 25.2 days
+Average Lead Time (New Feature): 63.6 days
+Average Lead Time (Task): 111.0 days

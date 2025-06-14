@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2009-03-05 12:45:00 End date: 2014-04-15 16:23:00
+System: {'PROXY': 97}
+Types: {'Task': 49, 'Sub-task': 37, 'Internal Bug': 8, 'Test': 2, 'Question': 1}
+Resolutions: {'Closed': 97}
+Statuses: {'Closed': 97}
+
+Average Lead Time (all PBIs): 72.8 days
+Average Lead Time (Task): 93.6 days
+Average Lead Time (Sub-task): 63.2 days
+Average Lead Time (Internal Bug): 16.1 days
+Average Lead Time (Test): 3.0 days
+Average Lead Time (Question): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2014-01-05 16:23:00 End date: 2014-04-15 16:23:00
+System: {'PROXY': 1}
+Types: {'Task': 1}
+Resolutions: {'Closed': 1}
+Statuses: {'Closed': 1}
+
+Average Lead Time (all PBIs): 315.0 days
+Average Lead Time (Task): 315.0 days

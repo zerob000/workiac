@@ -1,0 +1,24 @@
+All PBIS - Unfiltered 
+Start date: 2011-09-16 16:23:00 End date: 2013-01-07 13:00:00
+System: {'GLIPSXDS': 191}
+Types: {'Bug': 149, 'Task': 41, 'New Feature': 1}
+Resolutions: {'Closed': 58, 'Resolved': 128, 'Reopened': 1, 'Open': 4}
+Statuses: {'Closed': 58, 'Resolved': 128, 'Reopened': 1, 'Open': 4}
+
+Average Lead Time (all PBIs): 25.4 days
+Average Lead Time (Bug): 14.4 days
+Average Lead Time (Task): 69.6 days
+Average Lead Time (New Feature): 26.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2012-09-29 13:00:00 End date: 2013-01-07 13:00:00
+System: {'GLIPSXDS': 8}
+Types: {'Bug': 7, 'Task': 1}
+Resolutions: {'Closed': 6, 'Resolved': 2}
+Statuses: {'Closed': 6, 'Resolved': 2}
+
+Average Lead Time (all PBIs): 12.6 days
+Average Lead Time (Bug): 13.9 days
+Average Lead Time (Task): 4.0 days

@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2017-11-20 10:23:00 End date: 2019-12-13 11:40:00
+System: {'ASA': 798}
+Types: {'Task': 333, 'Bug': 192, 'Epic': 35, 'Story': 212, 'Sub-task': 26}
+Resolutions: {'Done': 620, 'Rejected': 127, 'Resolved': 9, 'Tested': 12, 'Open': 30}
+Statuses: {'Done': 620, 'Rejected': 127, 'Resolved': 9, 'Tested': 12, 'Open': 30}
+
+Average Lead Time (all PBIs): 300.8 days
+Average Lead Time (Epic): 0.0 days
+Average Lead Time (Story): 302.7 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2019-09-04 11:40:00 End date: 2019-12-13 11:40:00
+System: {'ASA': 100}
+Types: {'Task': 48, 'Bug': 27, 'Epic': 3, 'Story': 22}
+Resolutions: {'Done': 69, 'Rejected': 21, 'Resolved': 4, 'Tested': 4, 'Open': 2}
+Statuses: {'Done': 69, 'Rejected': 21, 'Resolved': 4, 'Tested': 4, 'Open': 2}
+
+Average Lead Time (all PBIs): 48.6 days
+Average Lead Time (Epic): 0.0 days
+Average Lead Time (Story): 51.2 days

@@ -1,0 +1,32 @@
+All PBIS - Unfiltered 
+Start date: 2017-07-28 20:03:00 End date: 2018-12-17 13:18:00
+System: {'DISCOTLCDMAX': 6828}
+Types: {'Bug': 609, 'New Feature': 1017, 'Sub-task': 4134, 'Task': 220, 'Sub-bug': 642, 'Improvement': 156, 'Epic': 42, 'Test': 8}
+Resolutions: {'Ready for QA': 4, 'To Do': 51, 'Done': 6304, 'Invalid': 361, 'Ready for Release': 5, 'Bugfixing': 2, 'Backlog': 96, 'QA': 1, 'In progress': 4}
+Statuses: {'Ready for QA': 4, 'To Do': 51, 'Done': 6304, 'Invalid': 361, 'Ready for Release': 5, 'Bugfixing': 2, 'Backlog': 96, 'QA': 1, 'In progress': 4}
+
+Average Lead Time (all PBIs): 26.7 days
+Average Lead Time (New Feature): 90.0 days
+Average Lead Time (Sub-task): 14.1 days
+Average Lead Time (Task): 37.2 days
+Average Lead Time (Sub-bug): 5.7 days
+Average Lead Time (Bug): 22.6 days
+Average Lead Time (Improvement): 42.5 days
+Average Lead Time (Epic): 60.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2018-09-08 13:18:00 End date: 2018-12-17 13:18:00
+System: {'DISCOTLCDMAX': 1047}
+Types: {'Bug': 106, 'New Feature': 273, 'Sub-task': 531, 'Task': 41, 'Sub-bug': 56, 'Improvement': 30, 'Epic': 2, 'Test': 8}
+Resolutions: {'Ready for QA': 4, 'To Do': 11, 'Done': 688, 'Invalid': 263, 'Ready for Release': 5, 'Bugfixing': 2, 'Backlog': 72, 'QA': 1, 'In progress': 1}
+Statuses: {'Ready for QA': 4, 'To Do': 11, 'Done': 688, 'Invalid': 263, 'Ready for Release': 5, 'Bugfixing': 2, 'Backlog': 72, 'QA': 1, 'In progress': 1}
+
+Average Lead Time (all PBIs): 93.9 days
+Average Lead Time (New Feature): 203.5 days
+Average Lead Time (Sub-task): 50.9 days
+Average Lead Time (Task): 76.2 days
+Average Lead Time (Sub-bug): 14.2 days
+Average Lead Time (Bug): 62.2 days
+Average Lead Time (Improvement): 122.0 days

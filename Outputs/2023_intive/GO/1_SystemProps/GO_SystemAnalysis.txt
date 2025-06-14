@@ -1,0 +1,27 @@
+All PBIS - Unfiltered 
+Start date: 2011-01-04 12:44:00 End date: 2011-10-05 14:35:00
+System: {'SCNIT': 245}
+Types: {'Bug': 104, 'Task': 70, 'Improvement': 28, 'Question': 2, 'Sub-task': 7, 'User Story': 34}
+Resolutions: {'Open': 12, 'Closed': 7, 'Resolved': 225, 'Reopened': 1}
+Statuses: {'Open': 12, 'Closed': 7, 'Resolved': 225, 'Reopened': 1}
+
+Average Lead Time (all PBIs): 20.1 days
+Average Lead Time (Bug): 7.9 days
+Average Lead Time (Task): 13.2 days
+Average Lead Time (Improvement): 1.5 days
+Average Lead Time (Sub-task): 21.6 days
+Average Lead Time (User Story): 90.5 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2011-06-27 14:35:00 End date: 2011-10-05 14:35:00
+System: {'SCNIT': 85}
+Types: {'Bug': 43, 'Task': 38, 'Improvement': 2, 'Question': 2}
+Resolutions: {'Open': 5, 'Closed': 7, 'Resolved': 73}
+Statuses: {'Open': 5, 'Closed': 7, 'Resolved': 73}
+
+Average Lead Time (all PBIs): 17.6 days
+Average Lead Time (Bug): 18.3 days
+Average Lead Time (Task): 17.2 days
+Average Lead Time (Improvement): 9.5 days

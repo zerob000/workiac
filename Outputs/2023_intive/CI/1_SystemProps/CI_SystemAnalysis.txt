@@ -1,0 +1,23 @@
+All PBIS - Unfiltered 
+Start date: 2011-05-31 10:56:00 End date: 2012-11-30 11:24:00
+System: {'DOODLEFITPSP': 129}
+Types: {'Task': 39, 'Bug': 89, 'Improvement': 1}
+Resolutions: {'Open': 6, 'Resolved': 7, 'Closed': 116}
+Statuses: {'Open': 6, 'Resolved': 7, 'Closed': 116}
+
+Average Lead Time (all PBIs): 4.7 days
+Average Lead Time (Task): 15.6 days
+Average Lead Time (Bug): 0.5 days
+Average Lead Time (Improvement): 0.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2012-08-22 11:24:00 End date: 2012-11-30 11:24:00
+System: {'DOODLEFITPSP': 1}
+Types: {'Task': 1}
+Resolutions: {'Resolved': 1}
+Statuses: {'Resolved': 1}
+
+Average Lead Time (all PBIs): 456.0 days
+Average Lead Time (Task): 456.0 days

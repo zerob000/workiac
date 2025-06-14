@@ -1,0 +1,25 @@
+All PBIS - Unfiltered 
+Start date: 2012-09-11 11:25:00 End date: 2013-04-12 09:49:00
+System: {'FSCID': 69}
+Types: {'Task': 42, 'Sub-task': 26, 'Improvement': 1}
+Resolutions: {'Closed': 69}
+Statuses: {'Closed': 69}
+
+Average Lead Time (all PBIs): 37.0 days
+Average Lead Time (Task): 47.1 days
+Average Lead Time (Sub-task): 21.2 days
+Average Lead Time (Improvement): 28.0 days
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last 100 days only - Unfiltered 
+Start date: 2013-01-02 09:49:00 End date: 2013-04-12 09:49:00
+System: {'FSCID': 59}
+Types: {'Task': 34, 'Sub-task': 24, 'Improvement': 1}
+Resolutions: {'Closed': 59}
+Statuses: {'Closed': 59}
+
+Average Lead Time (all PBIs): 40.4 days
+Average Lead Time (Task): 53.7 days
+Average Lead Time (Sub-task): 22.0 days
+Average Lead Time (Improvement): 28.0 days
