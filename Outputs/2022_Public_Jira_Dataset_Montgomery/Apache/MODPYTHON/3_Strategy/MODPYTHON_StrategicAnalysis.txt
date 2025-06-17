@@ -15,15 +15,15 @@ Error, Final backlog, model vs actual: -81 PBIs
 
 WHOLE SYSTEM
 Totals:
-Total Planned Arrivals: 102 PBIs
-Total Unplanned Arrivals: 151 PBIs
+Total Planned Arrivals: 45 PBIs
+Total Unplanned Arrivals: 208 PBIs
 Total Cancelled/Rejected/Won't Do Arrivals: 9 PBIs
 Total Net Arrivals: 244 PBIs
 Total Services: 163 PBIs
 
 Rates:
-Planned Arrival Rate: 0.094 PBIs/day
-Unplanned Arrival Rate: 0.105 PBIs/day
+Planned Arrival Rate: 0.047 PBIs/day
+Unplanned Arrival Rate: 0.152 PBIs/day
 Cancelled/Rejected/Won't Do Rate: 0.014 PBIs/day
 Net Arrival Rate: 0.185 PBIs/day
 LS Arrival Rate: 0.186 PBIs/day
@@ -33,7 +33,7 @@ Inter-Service Rate: 4.367 Days/PBI
 
 Metrics:
 Stability: 1.238
-Quality: 0.472
+Quality: 0.236
 Control: 0.93
 Inventory Days: 353.712 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
 

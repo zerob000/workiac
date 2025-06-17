@@ -94,6 +94,7 @@ for sname, yml in snames.items():
     my_scheduler(yml, sname)
     my_strategist(yml, sname)
 
+
 f.close()
 
 # Aggregate Issuetypes

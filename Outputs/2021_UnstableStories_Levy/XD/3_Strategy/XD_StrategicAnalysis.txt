@@ -6,36 +6,36 @@ Calculated Final System Size: 467 PBIs
 Minimum System Size: 0 PBIs
 Corrected Final System Size (prevent below 0 backlog): 467 PBIs
 
-Model Final System Size: 706 PBIs
+Model Final System Size: 702 PBIs
 Minimum System Size: 0 PBIs
-Corrected Final System Size (prevent below 0 backlog): 706 PBIs
+Corrected Final System Size (prevent below 0 backlog): 702 PBIs
 
-% Error, Final backlog, model vs actual: 51.0%
-Error, Final backlog, model vs actual: 239 PBIs
+% Error, Final backlog, model vs actual: 50.0%
+Error, Final backlog, model vs actual: 235 PBIs
 
 WHOLE SYSTEM
 Totals:
-Total Planned Arrivals: 2988 PBIs
-Total Unplanned Arrivals: 0 PBIs
-Total Cancelled/Rejected/Won't Do Arrivals: 465 PBIs
-Total Net Arrivals: 2523 PBIs
-Total Services: 2056 PBIs
+Total Planned Arrivals: 2679 PBIs
+Total Unplanned Arrivals: 309 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 473 PBIs
+Total Net Arrivals: 2515 PBIs
+Total Services: 2048 PBIs
 
 Rates:
-Planned Arrival Rate: 3.009 PBIs/day
-Unplanned Arrival Rate: 0 PBIs/day
-Cancelled/Rejected/Won't Do Rate: 0.442 PBIs/day
-Net Arrival Rate: 2.567 PBIs/day
-LS Arrival Rate: 2.586 PBIs/day
-Service Rate: 2.144 PBIs/day
+Planned Arrival Rate: 2.665 PBIs/day
+Unplanned Arrival Rate: 0.343 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.449 PBIs/day
+Net Arrival Rate: 2.559 PBIs/day
+LS Arrival Rate: 2.578 PBIs/day
+Service Rate: 2.139 PBIs/day
 
-Inter-Service Rate: 0.466 Days/PBI
+Inter-Service Rate: 0.468 Days/PBI
 
 Metrics:
-Stability: 0.835
-Quality: 1.0
-Control: 0.853
-Inventory Days: 217.817 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+Stability: 0.836
+Quality: 0.886
+Control: 0.851
+Inventory Days: 218.326 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
 
 Recommended High-Level Strategy: Scale-up
 
@@ -60,7 +60,7 @@ Services in this period: 1 PBIs
 
 Rates:
 Planned Arrival Rate: NaN PBIs/day
-Unplanned Arrival Rate: 0 PBIs/day
+Unplanned Arrival Rate: NaN PBIs/day
 Cancelled/Rejected/Won't Do Rate: NaN PBIs/day
 Net Arrival Rate: 0 PBIs/day
 LS Arrival Rate: NaN PBIs/day

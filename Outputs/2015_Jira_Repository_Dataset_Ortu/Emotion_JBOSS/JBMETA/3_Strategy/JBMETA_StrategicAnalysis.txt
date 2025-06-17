@@ -17,16 +17,16 @@ WHOLE SYSTEM
 Totals:
 Total Planned Arrivals: 188 PBIs
 Total Unplanned Arrivals: 151 PBIs
-Total Cancelled/Rejected/Won't Do Arrivals: 12 PBIs
-Total Net Arrivals: 327 PBIs
-Total Services: 297 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 11 PBIs
+Total Net Arrivals: 328 PBIs
+Total Services: 298 PBIs
 
 Rates:
 Planned Arrival Rate: 0.128 PBIs/day
 Unplanned Arrival Rate: 0.077 PBIs/day
 Cancelled/Rejected/Won't Do Rate: 0.005 PBIs/day
 Net Arrival Rate: 0.2 PBIs/day
-LS Arrival Rate: 0.192 PBIs/day
+LS Arrival Rate: 0.193 PBIs/day
 Service Rate: 0.186 PBIs/day
 
 Inter-Service Rate: 5.376 Days/PBI

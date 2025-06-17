@@ -6,38 +6,38 @@ Calculated Final System Size: 20 PBIs
 Minimum System Size: 0 PBIs
 Corrected Final System Size (prevent below 0 backlog): 20 PBIs
 
-Model Final System Size: 329 PBIs
+Model Final System Size: 0 PBIs
 Minimum System Size: 0 PBIs
-Corrected Final System Size (prevent below 0 backlog): 329 PBIs
+Corrected Final System Size (prevent below 0 backlog): 0 PBIs
 
-% Error, Final backlog, model vs actual: 1545.0%
-Error, Final backlog, model vs actual: 309 PBIs
+% Error, Final backlog, model vs actual: 100.0%
+Error, Final backlog, model vs actual: -20 PBIs
 
 WHOLE SYSTEM
 Totals:
 Total Planned Arrivals: 19 PBIs
 Total Unplanned Arrivals: 17 PBIs
-Total Cancelled/Rejected/Won't Do Arrivals: 0 PBIs
-Total Net Arrivals: 36 PBIs
-Total Services: 16 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 1 PBIs
+Total Net Arrivals: 35 PBIs
+Total Services: 15 PBIs
 
 Rates:
 Planned Arrival Rate: 0.072 PBIs/day
 Unplanned Arrival Rate: 0.082 PBIs/day
 Cancelled/Rejected/Won't Do Rate: 0 PBIs/day
 Net Arrival Rate: 0.154 PBIs/day
-LS Arrival Rate: 0.16 PBIs/day
-Service Rate: 0.004 PBIs/day
+LS Arrival Rate: 0.012 PBIs/day
+Service Rate: 0.243 PBIs/day
 
-Inter-Service Rate: 250.0 Days/PBI
+Inter-Service Rate: 4.115 Days/PBI
 
 Metrics:
-Stability: 0.026
+Stability: 1.578
 Quality: 0.468
 Control: 1.0
-Inventory Days: 5000.0 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+Inventory Days: 82.305 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
 
-Recommended High-Level Strategy: Scale-up
+Recommended High-Level Strategy: Catch-up
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -61,7 +61,7 @@ Services in this period: 0 PBIs
 Rates:
 Planned Arrival Rate: NaN PBIs/day
 Unplanned Arrival Rate: NaN PBIs/day
-Cancelled/Rejected/Won't Do Rate: 0 PBIs/day
+Cancelled/Rejected/Won't Do Rate: NaN PBIs/day
 Net Arrival Rate: 0 PBIs/day
 LS Arrival Rate: NaN PBIs/day
 Service Rate: NaN PBIs/day
@@ -74,5 +74,5 @@ Quality: NaN
 Control: NaN
 Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
 
-Recommended High-Level Strategy: Scale-up
+Recommended High-Level Strategy: Catch-up
 

@@ -6,17 +6,17 @@ Calculated Final System Size: 24 PBIs
 Minimum System Size: 0 PBIs
 Corrected Final System Size (prevent below 0 backlog): 24 PBIs
 
-Model Final System Size: 10 PBIs
+Model Final System Size: 11 PBIs
 Minimum System Size: 0 PBIs
-Corrected Final System Size (prevent below 0 backlog): 10 PBIs
+Corrected Final System Size (prevent below 0 backlog): 11 PBIs
 
-% Error, Final backlog, model vs actual: 58.0%
-Error, Final backlog, model vs actual: -14 PBIs
+% Error, Final backlog, model vs actual: 54.0%
+Error, Final backlog, model vs actual: -13 PBIs
 
 WHOLE SYSTEM
 Totals:
-Total Planned Arrivals: 13 PBIs
-Total Unplanned Arrivals: 76 PBIs
+Total Planned Arrivals: 12 PBIs
+Total Unplanned Arrivals: 77 PBIs
 Total Cancelled/Rejected/Won't Do Arrivals: 8 PBIs
 Total Net Arrivals: 81 PBIs
 Total Services: 57 PBIs

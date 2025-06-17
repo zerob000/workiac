@@ -17,25 +17,25 @@ WHOLE SYSTEM
 Totals:
 Total Planned Arrivals: 305 PBIs
 Total Unplanned Arrivals: 172 PBIs
-Total Cancelled/Rejected/Won't Do Arrivals: 16 PBIs
-Total Net Arrivals: 461 PBIs
-Total Services: 422 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 48 PBIs
+Total Net Arrivals: 429 PBIs
+Total Services: 390 PBIs
 
 Rates:
 Planned Arrival Rate: 0.347 PBIs/day
 Unplanned Arrival Rate: 0.29 PBIs/day
-Cancelled/Rejected/Won't Do Rate: 0.021 PBIs/day
-Net Arrival Rate: 0.616 PBIs/day
-LS Arrival Rate: 0.567 PBIs/day
-Service Rate: 0.522 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.062 PBIs/day
+Net Arrival Rate: 0.575 PBIs/day
+LS Arrival Rate: 0.509 PBIs/day
+Service Rate: 0.479 PBIs/day
 
-Inter-Service Rate: 1.916 Days/PBI
+Inter-Service Rate: 2.088 Days/PBI
 
 Metrics:
-Stability: 0.847
+Stability: 0.833
 Quality: 0.545
-Control: 0.967
-Inventory Days: 74.713 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+Control: 0.903
+Inventory Days: 81.42 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
 
 Recommended High-Level Strategy: Scale-up
 
@@ -53,26 +53,26 @@ LAST 100 DAYS
 Totals:
 Planned Arrivals in this period: 37 PBIs
 Unplanned Arrivals in this period: 3 PBIs
-Cancelled/Rejected/Won't Do  in this period: 4 PBIs
+Cancelled/Rejected/Won't Do  in this period: 7 PBIs
 System size change in this period: -9 PBIs
-Net Arrivals in this period: 36 PBIs
-Services in this period: 44 PBIs
+Net Arrivals in this period: 33 PBIs
+Services in this period: 41 PBIs
 
 Rates:
 Planned Arrival Rate: 0.412 PBIs/day
 Unplanned Arrival Rate: 0.041 PBIs/day
-Cancelled/Rejected/Won't Do Rate: NaN PBIs/day
-Net Arrival Rate: 0.453 PBIs/day
-LS Arrival Rate: 0.372 PBIs/day
-Service Rate: 0.512 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.082 PBIs/day
+Net Arrival Rate: 0.371 PBIs/day
+LS Arrival Rate: 0.358 PBIs/day
+Service Rate: 0.492 PBIs/day
 
-Inter-Service Rate: 1.953 Days/PBI
+Inter-Service Rate: 2.033 Days/PBI
 
 Metrics:
-Stability: NaN
-Quality: NaN
-Control: NaN
-Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+Stability: 1.326
+Quality: 0.909
+Control: 0.819
+Inventory Days: 79.268 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
 
-Recommended High-Level Strategy: Scale-up
+Recommended High-Level Strategy: Catch-up
 

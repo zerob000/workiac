@@ -15,8 +15,8 @@ Error, Final backlog, model vs actual: -347 PBIs
 
 WHOLE SYSTEM
 Totals:
-Total Planned Arrivals: 145 PBIs
-Total Unplanned Arrivals: 233 PBIs
+Total Planned Arrivals: 15 PBIs
+Total Unplanned Arrivals: 363 PBIs
 Total Cancelled/Rejected/Won't Do Arrivals: 20 PBIs
 Total Net Arrivals: 358 PBIs
 Total Services: 11 PBIs
@@ -51,8 +51,8 @@ Corrected Final System Size (prevent below 0 backlog): 347 PBIs
 
 LAST 100 DAYS
 Totals:
-Planned Arrivals in this period: 144 PBIs
-Unplanned Arrivals in this period: 232 PBIs
+Planned Arrivals in this period: 14 PBIs
+Unplanned Arrivals in this period: 362 PBIs
 Cancelled/Rejected/Won't Do  in this period: 19 PBIs
 System size change in this period: 346 PBIs
 Net Arrivals in this period: 357 PBIs

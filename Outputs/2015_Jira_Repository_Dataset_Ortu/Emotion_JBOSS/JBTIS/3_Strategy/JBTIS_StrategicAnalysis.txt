@@ -15,26 +15,26 @@ Error, Final backlog, model vs actual: -23 PBIs
 
 WHOLE SYSTEM
 Totals:
-Total Planned Arrivals: 100 PBIs
-Total Unplanned Arrivals: 77 PBIs
+Total Planned Arrivals: 109 PBIs
+Total Unplanned Arrivals: 68 PBIs
 Total Cancelled/Rejected/Won't Do Arrivals: 18 PBIs
 Total Net Arrivals: 159 PBIs
 Total Services: 136 PBIs
 
 Rates:
-Planned Arrival Rate: 0.134 PBIs/day
-Unplanned Arrival Rate: 0.118 PBIs/day
+Planned Arrival Rate: 0.143 PBIs/day
+Unplanned Arrival Rate: 0.111 PBIs/day
 Cancelled/Rejected/Won't Do Rate: 0.058 PBIs/day
-Net Arrival Rate: 0.194 PBIs/day
+Net Arrival Rate: 0.196 PBIs/day
 LS Arrival Rate: 0.237 PBIs/day
 Service Rate: 0.473 PBIs/day
 
 Inter-Service Rate: 2.114 Days/PBI
 
 Metrics:
-Stability: 2.438
-Quality: 0.532
-Control: 0.77
+Stability: 2.413
+Quality: 0.563
+Control: 0.772
 Inventory Days: 48.626 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
 
 Recommended High-Level Strategy: Catch-up
@@ -51,27 +51,27 @@ Corrected Final System Size (prevent below 0 backlog): 23 PBIs
 
 LAST 100 DAYS
 Totals:
-Planned Arrivals in this period: 34 PBIs
-Unplanned Arrivals in this period: 16 PBIs
+Planned Arrivals in this period: 35 PBIs
+Unplanned Arrivals in this period: 15 PBIs
 Cancelled/Rejected/Won't Do  in this period: 7 PBIs
 System size change in this period: -3 PBIs
 Net Arrivals in this period: 43 PBIs
 Services in this period: 45 PBIs
 
 Rates:
-Planned Arrival Rate: 0.386 PBIs/day
-Unplanned Arrival Rate: 0.18 PBIs/day
+Planned Arrival Rate: 0.399 PBIs/day
+Unplanned Arrival Rate: 0.164 PBIs/day
 Cancelled/Rejected/Won't Do Rate: 0.087 PBIs/day
-Net Arrival Rate: 0.479 PBIs/day
+Net Arrival Rate: 0.476 PBIs/day
 LS Arrival Rate: 0.441 PBIs/day
 Service Rate: 0.533 PBIs/day
 
 Inter-Service Rate: 1.876 Days/PBI
 
 Metrics:
-Stability: 1.113
-Quality: 0.682
-Control: 0.846
+Stability: 1.12
+Quality: 0.709
+Control: 0.845
 Inventory Days: 43.152 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
 
 Recommended High-Level Strategy: Catch-up

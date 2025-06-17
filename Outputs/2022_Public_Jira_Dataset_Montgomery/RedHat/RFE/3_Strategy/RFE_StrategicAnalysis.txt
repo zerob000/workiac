@@ -6,36 +6,36 @@ Calculated Final System Size: 672 PBIs
 Minimum System Size: 0 PBIs
 Corrected Final System Size (prevent below 0 backlog): 672 PBIs
 
-Model Final System Size: 684 PBIs
+Model Final System Size: 682 PBIs
 Minimum System Size: 0 PBIs
-Corrected Final System Size (prevent below 0 backlog): 684 PBIs
+Corrected Final System Size (prevent below 0 backlog): 682 PBIs
 
-% Error, Final backlog, model vs actual: 2.0%
-Error, Final backlog, model vs actual: 12 PBIs
+% Error, Final backlog, model vs actual: 1.0%
+Error, Final backlog, model vs actual: 10 PBIs
 
 WHOLE SYSTEM
 Totals:
 Total Planned Arrivals: 803 PBIs
 Total Unplanned Arrivals: 0 PBIs
-Total Cancelled/Rejected/Won't Do Arrivals: 0 PBIs
-Total Net Arrivals: 803 PBIs
-Total Services: 131 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 6 PBIs
+Total Net Arrivals: 797 PBIs
+Total Services: 125 PBIs
 
 Rates:
 Planned Arrival Rate: 1.577 PBIs/day
 Unplanned Arrival Rate: 0 PBIs/day
-Cancelled/Rejected/Won't Do Rate: 0 PBIs/day
-Net Arrival Rate: 1.577 PBIs/day
-LS Arrival Rate: 1.577 PBIs/day
-Service Rate: 0.294 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.012 PBIs/day
+Net Arrival Rate: 1.565 PBIs/day
+LS Arrival Rate: 1.568 PBIs/day
+Service Rate: 0.287 PBIs/day
 
-Inter-Service Rate: 3.401 Days/PBI
+Inter-Service Rate: 3.484 Days/PBI
 
 Metrics:
-Stability: 0.186
+Stability: 0.183
 Quality: 1.0
-Control: 1.0
-Inventory Days: 2285.714 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+Control: 0.992
+Inventory Days: 2341.463 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
 
 Recommended High-Level Strategy: Scale-up
 
@@ -61,7 +61,7 @@ Services in this period: 33 PBIs
 Rates:
 Planned Arrival Rate: 1.42 PBIs/day
 Unplanned Arrival Rate: 0 PBIs/day
-Cancelled/Rejected/Won't Do Rate: 0 PBIs/day
+Cancelled/Rejected/Won't Do Rate: NaN PBIs/day
 Net Arrival Rate: 1.42 PBIs/day
 LS Arrival Rate: 1.42 PBIs/day
 Service Rate: 0.351 PBIs/day
@@ -69,10 +69,10 @@ Service Rate: 0.351 PBIs/day
 Inter-Service Rate: 2.849 Days/PBI
 
 Metrics:
-Stability: 0.247
-Quality: 1.0
-Control: 1.0
-Inventory Days: 1914.53 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+Stability: NaN
+Quality: NaN
+Control: NaN
+Inventory Days: NaN days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
 
 Recommended High-Level Strategy: Scale-up
 

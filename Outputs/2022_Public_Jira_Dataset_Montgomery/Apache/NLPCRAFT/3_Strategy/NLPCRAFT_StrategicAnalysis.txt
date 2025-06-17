@@ -6,34 +6,34 @@ Calculated Final System Size: 78 PBIs
 Minimum System Size: 0 PBIs
 Corrected Final System Size (prevent below 0 backlog): 78 PBIs
 
-Model Final System Size: 67 PBIs
+Model Final System Size: 73 PBIs
 Minimum System Size: 0 PBIs
-Corrected Final System Size (prevent below 0 backlog): 67 PBIs
+Corrected Final System Size (prevent below 0 backlog): 73 PBIs
 
-% Error, Final backlog, model vs actual: 14.0%
-Error, Final backlog, model vs actual: -11 PBIs
+% Error, Final backlog, model vs actual: 6.0%
+Error, Final backlog, model vs actual: -5 PBIs
 
 WHOLE SYSTEM
 Totals:
-Total Planned Arrivals: 360 PBIs
-Total Unplanned Arrivals: 111 PBIs
+Total Planned Arrivals: 249 PBIs
+Total Unplanned Arrivals: 222 PBIs
 Total Cancelled/Rejected/Won't Do Arrivals: 10 PBIs
 Total Net Arrivals: 461 PBIs
 Total Services: 383 PBIs
 
 Rates:
-Planned Arrival Rate: 0.571 PBIs/day
-Unplanned Arrival Rate: 0.202 PBIs/day
+Planned Arrival Rate: 0.374 PBIs/day
+Unplanned Arrival Rate: 0.409 PBIs/day
 Cancelled/Rejected/Won't Do Rate: 0.02 PBIs/day
-Net Arrival Rate: 0.753 PBIs/day
+Net Arrival Rate: 0.763 PBIs/day
 LS Arrival Rate: 0.751 PBIs/day
 Service Rate: 0.693 PBIs/day
 
 Inter-Service Rate: 1.443 Days/PBI
 
 Metrics:
-Stability: 0.92
-Quality: 0.739
+Stability: 0.908
+Quality: 0.478
 Control: 0.974
 Inventory Days: 112.554 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
 
@@ -51,15 +51,15 @@ Corrected Final System Size (prevent below 0 backlog): 78 PBIs
 
 LAST 100 DAYS
 Totals:
-Planned Arrivals in this period: 19 PBIs
-Unplanned Arrivals in this period: 2 PBIs
+Planned Arrivals in this period: 18 PBIs
+Unplanned Arrivals in this period: 3 PBIs
 Cancelled/Rejected/Won't Do  in this period: 0 PBIs
 System size change in this period: 6 PBIs
 Net Arrivals in this period: 21 PBIs
 Services in this period: 15 PBIs
 
 Rates:
-Planned Arrival Rate: 0.124 PBIs/day
+Planned Arrival Rate: 0.117 PBIs/day
 Unplanned Arrival Rate: NaN PBIs/day
 Cancelled/Rejected/Won't Do Rate: NaN PBIs/day
 Net Arrival Rate: 0 PBIs/day

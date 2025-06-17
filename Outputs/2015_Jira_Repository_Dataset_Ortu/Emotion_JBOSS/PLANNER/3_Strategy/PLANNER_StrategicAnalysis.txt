@@ -6,36 +6,36 @@ Calculated Final System Size: 87 PBIs
 Minimum System Size: 0 PBIs
 Corrected Final System Size (prevent below 0 backlog): 87 PBIs
 
-Model Final System Size: 73 PBIs
+Model Final System Size: 68 PBIs
 Minimum System Size: 0 PBIs
-Corrected Final System Size (prevent below 0 backlog): 73 PBIs
+Corrected Final System Size (prevent below 0 backlog): 68 PBIs
 
-% Error, Final backlog, model vs actual: 16.0%
-Error, Final backlog, model vs actual: -14 PBIs
+% Error, Final backlog, model vs actual: 22.0%
+Error, Final backlog, model vs actual: -19 PBIs
 
 WHOLE SYSTEM
 Totals:
-Total Planned Arrivals: 118 PBIs
-Total Unplanned Arrivals: 92 PBIs
-Total Cancelled/Rejected/Won't Do Arrivals: 18 PBIs
-Total Net Arrivals: 192 PBIs
-Total Services: 105 PBIs
+Total Planned Arrivals: 151 PBIs
+Total Unplanned Arrivals: 59 PBIs
+Total Cancelled/Rejected/Won't Do Arrivals: 15 PBIs
+Total Net Arrivals: 195 PBIs
+Total Services: 108 PBIs
 
 Rates:
-Planned Arrival Rate: 0.043 PBIs/day
-Unplanned Arrival Rate: 0.049 PBIs/day
-Cancelled/Rejected/Won't Do Rate: 0.009 PBIs/day
-Net Arrival Rate: 0.083 PBIs/day
-LS Arrival Rate: 0.074 PBIs/day
-Service Rate: 0.048 PBIs/day
+Planned Arrival Rate: 0.057 PBIs/day
+Unplanned Arrival Rate: 0.027 PBIs/day
+Cancelled/Rejected/Won't Do Rate: 0.007 PBIs/day
+Net Arrival Rate: 0.077 PBIs/day
+LS Arrival Rate: 0.075 PBIs/day
+Service Rate: 0.05 PBIs/day
 
-Inter-Service Rate: 20.833 Days/PBI
+Inter-Service Rate: 20.0 Days/PBI
 
 Metrics:
-Stability: 0.578
-Quality: 0.467
-Control: 0.902
-Inventory Days: 1812.5 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
+Stability: 0.649
+Quality: 0.679
+Control: 0.917
+Inventory Days: 1740.0 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
 
 Recommended High-Level Strategy: Scale-up
 
@@ -51,27 +51,27 @@ Corrected Final System Size (prevent below 0 backlog): 87 PBIs
 
 LAST 100 DAYS
 Totals:
-Planned Arrivals in this period: 10 PBIs
-Unplanned Arrivals in this period: 16 PBIs
+Planned Arrivals in this period: 18 PBIs
+Unplanned Arrivals in this period: 8 PBIs
 Cancelled/Rejected/Won't Do  in this period: 2 PBIs
 System size change in this period: 13 PBIs
 Net Arrivals in this period: 24 PBIs
 Services in this period: 10 PBIs
 
 Rates:
-Planned Arrival Rate: 0.081 PBIs/day
-Unplanned Arrival Rate: 0.163 PBIs/day
+Planned Arrival Rate: 0.161 PBIs/day
+Unplanned Arrival Rate: 0.081 PBIs/day
 Cancelled/Rejected/Won't Do Rate: 0.024 PBIs/day
-Net Arrival Rate: 0.22 PBIs/day
+Net Arrival Rate: 0.218 PBIs/day
 LS Arrival Rate: 0.204 PBIs/day
 Service Rate: 0.116 PBIs/day
 
 Inter-Service Rate: 8.621 Days/PBI
 
 Metrics:
-Stability: 0.527
-Quality: 0.332
-Control: 0.902
+Stability: 0.532
+Quality: 0.665
+Control: 0.901
 Inventory Days: 750.0 days to backlog 0 with no additional PBIs. Note: based on measured minimum backlog size
 
 Recommended High-Level Strategy: Scale-up
