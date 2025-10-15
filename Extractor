@@ -15,8 +15,8 @@ import shutil
 from collections import Counter
 
 
-dirs = ['2015_Jira_Repository_Dataset_Ortu\Emotion_ASF',\
-        '2015_Jira_Repository_Dataset_Ortu\Emotion_CODEHAUS',\
+#dirs = ['2015_Jira_Repository_Dataset_Ortu\Emotion_ASF',\
+dirs = ['2015_Jira_Repository_Dataset_Ortu\Emotion_CODEHAUS',\
         '2015_Jira_Repository_Dataset_Ortu\Emotion_HIBERNATE',\
         '2015_Jira_Repository_Dataset_Ortu\Emotion_JBOSS',\
         '2015_Jira_Repository_Dataset_Ortu\Emotion_SPRING',\
